@@ -1,0 +1,155 @@
+# 酒店 / OTA 行业信源雷达 —— 信源配置
+# 加信源只改这个文件。type: rss 走 RSS 抓取;type: html 走 HTML 兜底抓取。
+# 验证时间 2026-06-12,全部信源经并行抓取+对抗性可信度验证(报告见学城 collabpage/2768473752)
+
+categories:
+  cr9_finance:
+    label: "CR9 财报动态"
+    tone: "high"
+  policy:
+    label: "政府政策"
+    tone: "high"
+  supply_chain:
+    label: "产业链/酒管"
+    tone: "mid"
+  ai_hotel:
+    label: "AI x 酒店"
+    tone: "mid"
+  ota:
+    label: "OTA 行业"
+    tone: "mid"
+
+sources:
+  # ---------- 酒管公司一手(CR9)----------
+  - id: huazhu_ir
+    name: "华住 H World IR"
+    category: cr9_finance
+    type: html
+    url: "https://ir.hworld.com/zh-hans/news-events/news-releases"
+    credibility: "高"
+    note: "纳斯达克HTHT+港股1179官方IR一手"
+
+  - id: atour_ir
+    name: "亚朵 Atour IR"
+    category: cr9_finance
+    type: rss
+    url: "https://ir.yaduo.com/rss/news-releases.xml"
+    fallback_url: "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1853717&type=6-K&output=atom"
+    credibility: "高"
+    note: "大陆直连可能断,兜底走SEC EDGAR"
+
+  - id: bth_ir
+    name: "首旅如家 IR"
+    category: cr9_finance
+    type: html
+    url: "https://ir.bthhotels.com/periodicReport/index"
+    credibility: "高"
+    note: "A股600258定期报告原始PDF"
+
+  # ---------- 权威机构 / 政策 ----------
+  - id: chinahotel
+    name: "中国饭店协会"
+    category: supply_chain
+    type: html
+    url: "https://www.chinahotel.org.cn/"
+    credibility: "高"
+    note: "国内最权威饭店业协会"
+
+  - id: cta
+    name: "中国旅游研究院"
+    category: policy
+    type: html
+    url: "https://www.ctaweb.org.cn/"
+    credibility: "高"
+    note: "文旅部数据中心,国家级一手"
+
+  - id: mct
+    name: "文化和旅游部"
+    category: policy
+    type: html
+    url: "https://www.mct.gov.cn/"
+    credibility: "高"
+    note: "政策原文第一出处"
+
+  # ---------- 行业媒体 / 数据 ----------
+  - id: meadin
+    name: "迈点研究院"
+    category: supply_chain
+    type: html
+    url: "https://www.meadin.com/"
+    credibility: "中"
+    note: "页脚停2021,JS渲染,引用前需人工核验当年榜单"
+
+  - id: tripvivid
+    name: "执惠 TripVivid"
+    category: supply_chain
+    type: html
+    url: "https://www.tripvivid.com/"
+    credibility: "高"
+    note: "文旅产业链深度分析,原创自产"
+
+  - id: pinchain
+    name: "品橙旅游"
+    category: supply_chain
+    type: rss
+    url: "https://www.pinchain.com/feed"
+    credibility: "高"
+    note: "旅游产业链垂直媒体,有RSS"
+
+  - id: hotelmgmt
+    name: "Hotel Management"
+    category: ai_hotel
+    type: rss
+    url: "https://www.hotelmanagement.net/rss.xml"
+    credibility: "高"
+    note: "美国酒店业权威媒体,有RSS"
+
+  - id: skift
+    name: "Skift Hospitality"
+    category: ai_hotel
+    type: rss
+    url: "https://skift.com/feed/"
+    include_keywords: "hotel,hospitality,AI,tech,booking,lodging"
+    credibility: "高"
+    note: "全球酒店AI/科技首要英文媒体,小时级更新"
+
+  # ---------- OTA 行业 ----------
+  - id: trip_ir
+    name: "携程 Trip.com IR"
+    category: ota
+    type: html
+    url: "https://investors.trip.com/zh-hans/news-events/news-releases"
+    credibility: "高"
+    note: "官方IR一手,去哪儿动态并入此处"
+
+  - id: tongcheng_ir
+    name: "同程旅行 IR"
+    category: ota
+    type: html
+    url: "https://www.tongchengir.com/cn/financials/"
+    credibility: "高"
+    note: "港股0780官方IR(财务信息页)"
+
+  - id: meituan_ir
+    name: "美团 IR"
+    category: ota
+    type: html
+    url: "https://www.meituan.com/investor/reports"
+    credibility: "高"
+    note: "港股03690官方IR"
+
+  - id: traveldaily
+    name: "环球旅讯 TravelDaily"
+    category: ota
+    type: rss
+    url: "https://www.traveldaily.cn/feed"
+    credibility: "高"
+    note: "OTA垂直媒体,有RSS"
+
+  - id: iresearch
+    name: "艾瑞咨询 在线旅游"
+    category: ota
+    type: html
+    url: "https://www.iresearch.com.cn/"
+    credibility: "中"
+    note: "在线旅游行业年度监测报告"

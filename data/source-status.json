@@ -1,0 +1,152 @@
+{
+  "generated_at": "2026-06-12T23:37:21.612338Z",
+  "successful_sites": 14,
+  "total_sites": 16,
+  "items_before_topic_filter": 30,
+  "sites": [
+    {
+      "site_id": "huazhu_ir",
+      "site_name": "华住 H World IR",
+      "category": "cr9_finance",
+      "ok": false,
+      "item_count": 0,
+      "duration_ms": 54228,
+      "error": "HTTPSConnectionPool(host='ir.hworld.com', port=443): Max retries exceeded with url: /zh-hans/news-events/news-releases (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='ir.hworld.com', port=443): Read timed out. (read timeout=12)\"))"
+    },
+    {
+      "site_id": "atour_ir",
+      "site_name": "亚朵 Atour IR",
+      "category": "cr9_finance",
+      "ok": true,
+      "item_count": 4,
+      "duration_ms": 1005,
+      "error": null
+    },
+    {
+      "site_id": "bth_ir",
+      "site_name": "首旅如家 IR",
+      "category": "cr9_finance",
+      "ok": true,
+      "item_count": 0,
+      "duration_ms": 438,
+      "error": null
+    },
+    {
+      "site_id": "chinahotel",
+      "site_name": "中国饭店协会",
+      "category": "supply_chain",
+      "ok": true,
+      "item_count": 0,
+      "duration_ms": 1807,
+      "error": null
+    },
+    {
+      "site_id": "cta",
+      "site_name": "中国旅游研究院",
+      "category": "policy",
+      "ok": true,
+      "item_count": 0,
+      "duration_ms": 301,
+      "error": null
+    },
+    {
+      "site_id": "mct",
+      "site_name": "文化和旅游部",
+      "category": "policy",
+      "ok": true,
+      "item_count": 0,
+      "duration_ms": 212,
+      "error": null
+    },
+    {
+      "site_id": "meadin",
+      "site_name": "迈点研究院",
+      "category": "supply_chain",
+      "ok": true,
+      "item_count": 0,
+      "duration_ms": 363,
+      "error": null
+    },
+    {
+      "site_id": "tripvivid",
+      "site_name": "执惠 TripVivid",
+      "category": "supply_chain",
+      "ok": true,
+      "item_count": 0,
+      "duration_ms": 2466,
+      "error": null
+    },
+    {
+      "site_id": "pinchain",
+      "site_name": "品橙旅游",
+      "category": "supply_chain",
+      "ok": true,
+      "item_count": 10,
+      "duration_ms": 359,
+      "error": null
+    },
+    {
+      "site_id": "hotelmgmt",
+      "site_name": "Hotel Management",
+      "category": "ai_hotel",
+      "ok": true,
+      "item_count": 10,
+      "duration_ms": 688,
+      "error": null
+    },
+    {
+      "site_id": "skift",
+      "site_name": "Skift Hospitality",
+      "category": "ai_hotel",
+      "ok": true,
+      "item_count": 6,
+      "duration_ms": 980,
+      "error": null
+    },
+    {
+      "site_id": "trip_ir",
+      "site_name": "携程 Trip.com IR",
+      "category": "ota",
+      "ok": false,
+      "item_count": 0,
+      "duration_ms": 49541,
+      "error": "HTTPSConnectionPool(host='investors.trip.com', port=443): Max retries exceeded with url: /zh-hans/news-events/news-releases (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='investors.trip.com', port=443): Read timed out. (read timeout=8)\"))"
+    },
+    {
+      "site_id": "tongcheng_ir",
+      "site_name": "同程旅行 IR",
+      "category": "ota",
+      "ok": true,
+      "item_count": 0,
+      "duration_ms": 890,
+      "error": null
+    },
+    {
+      "site_id": "meituan_ir",
+      "site_name": "美团 IR",
+      "category": "ota",
+      "ok": true,
+      "item_count": 0,
+      "duration_ms": 173,
+      "error": null
+    },
+    {
+      "site_id": "traveldaily",
+      "site_name": "环球旅讯 TravelDaily",
+      "category": "ota",
+      "ok": true,
+      "item_count": 0,
+      "duration_ms": 265,
+      "error": null
+    },
+    {
+      "site_id": "iresearch",
+      "site_name": "艾瑞咨询 在线旅游",
+      "category": "ota",
+      "ok": true,
+      "item_count": 0,
+      "duration_ms": 138,
+      "error": null
+    }
+  ]
+}
