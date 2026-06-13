@@ -163,13 +163,9 @@ function renderCoverageStrip(errorMessage = "") {
     : "X API 与 AgentMail 默认关闭";
 
   const cards = [
-    ["源健康", totalSites ? `${fmtNumber(okSites)}/${fmtNumber(totalSites)}` : "加载中", failedSites.length ? `${fmtNumber(failedSites.length)} 个失败源` : (errorMessage || "内置源正常"), failedSites.length ? "warn" : "ok"],
-    ["今日覆盖池", `${fmtNumber(coverageCount)} 条`, allCount ? `全网抓取原始信号 · ${fmtNumber(allCount)} 条入池` : "全网抓取原始信号", "signal"],
-    ["AI强相关", `${fmtNumber(state.totalAi)} 条`, "24小时强相关信号", "signal"],
-    ["官方/日报源池", `${fmtNumber(officialCount + newsletterCount)} 条`, "官方节点 + AI Breakfast", "official"],
-    ["Builders/X源池", `${fmtNumber(buildersCount)} 条`, "Follow Builders公开feed", "builders"],
-    ["RSS/OPML扩展", opmlValue, opmlMeta, "private"],
-    ["高级源", "X / Mail", advancedMeta, "private"],
+    ["源健康", totalSites ? `${fmtNumber(okSites)}/${fmtNumber(totalSites)}` : "加载中", failedSites.length ? `${fmtNumber(failedSites.length)} 个失败源` : (errorMessage || "信源状态正常"), failedSites.length ? "warn" : "ok"],
+    ["今日覆盖池", `${fmtNumber(coverageCount)} 条`, allCount ? `已抓取行业动态 · ${fmtNumber(allCount)} 条入池` : "已抓取行业动态", "signal"],
+    ["精选动态", `${fmtNumber(state.totalAi)} 条`, "近期行业动态", "signal"],
   ];
 
   cards.forEach(([label, value, meta, tone]) => {
