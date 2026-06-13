@@ -6,6 +6,7 @@
 """
 from __future__ import annotations
 
+import hashlib
 import json
 import re
 import sys
@@ -257,6 +258,60 @@ def to_record(it: u.RawItem, cfg: dict) -> dict:
     }
 
 
+# 酒店/OTA 行业实体别名:用于合并判同时避免"华住财报"与"亚朵财报"误并。
+# 值为规范化品牌名,键为出现在标题里的别名(大小写不敏感)。
+HOTEL_ALIASES = {
+    "华住": "huazhu", "h world": "huazhu", "huazhu": "huazhu",
+    "亚朵": "atour", "atour": "atour", "yaduo": "atour",
+    "携程": "ctrip", "trip.com": "ctrip", "ctrip": "ctrip",
+    "同程": "tongcheng", "tongcheng": "tongcheng",
+    "美团": "meituan", "meituan": "meituan",
+    "首旅": "btg", "如家": "btg",
+    "锦江": "jinjiang",
+    "万豪": "marriott", "marriott": "marriott",
+    "希尔顿": "hilton", "hilton": "hilton",
+    "洲际": "ihg", "ihg": "ihg",
+    "雅高": "accor", "accor": "accor",
+    "文旅部": "culture_tourism", "文化和旅游部": "culture_tourism",
+    "中国饭店协会": "cha",
+    "迈点": "meadin",
+    "执惠": "tripvivid",
+    "品橙": "pinchain",
+    "skift": "skift",
+}
+
+# 各分类的重要性权重:头部酒管财报与官方政策最高,OTA 杂讯最低。
+_CATEGORY_WEIGHT = {
+    "cr9_finance": 1.0, "policy": 0.92, "ai_hotel": 0.70,
+    "supply_chain": 0.60, "ota": 0.55,
+}
+_CREDIBILITY_WEIGHT = {"高": 1.0, "中": 0.6, "低": 0.35, "": 0.5}
+
+
+def hotel_entities(title: str) -> tuple[set[str], set[str]]:
+    """酒店领域实体提取:只识别品牌,无"模型"概念(第二个集合恒空)。"""
+    lower = str(title or "").lower()
+    brands = {canonical for alias, canonical in HOTEL_ALIASES.items() if alias in lower}
+    return brands, set()
+
+
+def hotel_story_score(record: dict, source_count: int, now: datetime) -> float:
+    """对酒店故事按重要性打分,替代 AI 域无区分度的通用打分。
+
+    维度: 分类权重(主导) + 信源可信度 + 真聚簇加分。
+    分类权重占大头,让头部财报/政策与 OTA 杂讯真正分层。
+    新鲜度权重很低: 多数酒店 RSS 不提供真实发布时间,event_time 退化为抓取时刻,
+    recency 几乎恒为满分、无区分意义,故仅作微调,不让它抹平分类差异。
+    record 取自合并前的原始条目,带 category/credibility(合并后会被裁剪)。
+    """
+    cat_w = _CATEGORY_WEIGHT.get(record.get("category", ""), 0.5)
+    cred_w = _CREDIBILITY_WEIGHT.get(record.get("credibility", ""), 0.5)
+    recency = u.recency_score(record, now, MAX_AGE_DAYS * 24)
+    bump = 0.05 * min(max(source_count - 1, 0), 2)
+    score = 0.65 * cat_w + 0.25 * cred_w + 0.05 * recency + bump
+    return round(max(0.0, min(1.0, score)), 4)
+
+
 def main() -> int:
     cfg = load_config()
     now = u.utc_now()
@@ -284,21 +339,31 @@ def main() -> int:
         "sites": statuses,
     }
 
-    # 伯乐精选区读 daily-brief.json:把行业条目包成 story 结构(一条=一个story,不做合并)
-    stories = []
-    for r in records[:30]:
-        stories.append({
-            "story_id": "story_" + r["url"][-12:],
-            "title": r["title"], "url": r["url"], "primary_url": r["url"],
-            "source": r["source"], "source_name": r["site_name"],
-            "source_count": 1, "item_count": 1, "duplicate_count": 0,
-            "score": 1.0, "importance": "normal",
-            "importance_label": r.get("credibility", ""),
-            "category": r["category"], "category_label": r.get("category_label", ""),
-            "earliest_at": r["published_at"], "latest_at": r["published_at"],
-            "reasons": [f"{r['site_name']} · {r.get('category_label','')}"],
-            "primary_item": r,
-        })
+    # 伯乐精选区:把行业条目按"同一件事"合并成 story,再按重要性打分排序。
+    # 复用 update_news.merge_story_items,注入酒店实体约束(防跨品牌误并),
+    # 放宽时间窗到 72h(行业新闻按天聚簇)。
+    merge_input = []
+    for r in records:
+        item = dict(r)
+        item["id"] = "hotelitem_" + hashlib.sha1(
+            u.canonical_story_url(r["url"]).encode("utf-8")
+        ).hexdigest()[:12]
+        merge_input.append(item)
+    # 按规范化 url 关联回原始 record,用于打分(合并后 category/credibility 会被裁剪)
+    record_by_url = {u.canonical_story_url(r["url"]): r for r in records}
+
+    stories, _events = u.merge_story_items(
+        merge_input, now,
+        window_hours=MAX_AGE_DAYS * 24,
+        title_window_hours=72,
+        entity_extractor=hotel_entities,
+    )
+    for s in stories:
+        src = record_by_url.get(u.canonical_story_url(s.get("primary_url") or s.get("url") or ""), {})
+        s["score"] = hotel_story_score(src, int(s.get("source_count") or 1), now)
+        s["importance_score"] = s["score"]
+    stories.sort(key=lambda s: (-(s.get("score") or 0), str(s.get("latest_at") or "")))
+    stories = stories[:30]
     brief_payload = {
         "generated_at": generated_at, "window_hours": MAX_AGE_DAYS * 24,
         "total_items": len(stories), "items": stories,

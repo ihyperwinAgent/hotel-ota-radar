@@ -707,20 +707,23 @@ function buildStoryCard(story, rank) {
   return link;
 }
 
-const HOT_DECAY_HOURS = 12;
+const HOT_TOP_N = 8;
 
+// 热度 = 后端重要性评分(分类权重为主) + 真聚簇微加分。
+// 行业信源天然少跨源撞车,故不以"多源"为门槛,改按重要性排序取 Top N。
 function storyHotness(story) {
+  const score = storyScore(story);
   const sources = Number(story.source_count) || 1;
-  if (sources < 2) return 0;
-  const latest = storyTimeMs(story, "latest_at") || storyTimeMs(story, "earliest_at");
-  const ageHours = latest ? Math.max(0, (Date.now() - latest) / 3600000) : 24;
-  return (sources - 1) * Math.exp(-ageHours / HOT_DECAY_HOURS);
+  return score + Math.min(Math.max(sources - 1, 0), 2) * 2;
 }
 
+// 当日要闻:按重要性排序取前 N 条。绝对分数线在酒店数据上太脆弱
+// (分数都挤在高位),改用稳定的 Top N 口径。
 function hotStories(stories) {
-  return stories
-    .filter((story) => storyHotness(story) > 0)
-    .sort((a, b) => storyHotness(b) - storyHotness(a) || storyScore(b) - storyScore(a));
+  return [...stories]
+    .sort((a, b) => storyHotness(b) - storyHotness(a)
+      || storyTimeMs(b, "latest_at") - storyTimeMs(a, "latest_at"))
+    .slice(0, HOT_TOP_N);
 }
 
 function renderBoleBrief(stories) {
@@ -728,8 +731,8 @@ function renderBoleBrief(stories) {
   bolePicksListEl.className = "bole-board";
 
   const hot = hotStories(stories);
-  const hotAvailable = hot.length >= 2;
-  // 宁缺毋滥: the hot view only exists when there is real multi-source heat.
+  // 当日要闻视图:有足够故事(>=2)即可用,按重要性取 Top N。安静日自动降级时间线。
+  const hotAvailable = stories.length >= 2;
   if (boleViewToggleEl) boleViewToggleEl.hidden = !hotAvailable;
   if (!hotAvailable) state.boleView = "timeline";
   if (boleHotBtnEl) boleHotBtnEl.classList.toggle("active", state.boleView === "hot");
@@ -739,7 +742,7 @@ function renderBoleBrief(stories) {
   let metaLabel;
   if (state.boleView === "hot") {
     sorted = hot;
-    metaLabel = `当前热点 · ${fmtNumber(sorted.length)} 簇 · 多源×时间衰减`;
+    metaLabel = `当日要闻 · ${fmtNumber(sorted.length)} 条 · 重要性排序`;
   } else {
     sorted = [...stories].sort((a, b) => {
       const aLatest = storyTimeMs(a, "latest_at") || storyTimeMs(a, "earliest_at");

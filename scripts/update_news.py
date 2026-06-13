@@ -17,7 +17,7 @@ from dataclasses import dataclass
 from datetime import date, datetime, timedelta, timezone
 from difflib import SequenceMatcher
 from pathlib import Path
-from typing import Any
+from typing import Any, Callable
 from urllib.parse import parse_qsl, urlencode, urljoin, urlparse, urlunparse
 from zoneinfo import ZoneInfo
 
@@ -3161,9 +3161,13 @@ def title_entities(title: str) -> tuple[set[str], set[str]]:
     return vendors, models
 
 
-def story_titles_can_merge(a: str, b: str) -> bool:
-    vendors_a, models_a = title_entities(a)
-    vendors_b, models_b = title_entities(b)
+def story_titles_can_merge(
+    a: str,
+    b: str,
+    extractor: Callable[[str], tuple[set[str], set[str]]] = title_entities,
+) -> bool:
+    vendors_a, models_a = extractor(a)
+    vendors_b, models_b = extractor(b)
     if vendors_a and vendors_b and vendors_a.isdisjoint(vendors_b):
         return False
     if models_a and models_b and models_a.isdisjoint(models_b):
@@ -3337,7 +3341,9 @@ def merge_story_items(
     window_hours: int,
     title_window_hours: int = 6,
     title_threshold: float = 0.86,
+    entity_extractor: Callable[[str], tuple[set[str], set[str]]] | None = None,
 ) -> tuple[list[dict[str, Any]], list[dict[str, Any]]]:
+    extractor = entity_extractor or title_entities
     groups: dict[str, list[dict[str, Any]]] = {}
     group_titles: dict[str, str] = {}
     group_times: dict[str, datetime | None] = {}
@@ -3366,7 +3372,7 @@ def merge_story_items(
                     if delta_hours > title_window_hours:
                         continue
                 sim = title_similarity(title, candidate_title)
-                if sim >= title_threshold and story_titles_can_merge(title, candidate_title):
+                if sim >= title_threshold and story_titles_can_merge(title, candidate_title, extractor):
                     story_id = candidate_id
                     reason = "title_similarity"
                     similarity = sim
