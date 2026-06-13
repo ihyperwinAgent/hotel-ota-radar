@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-12T23:37:21.612338Z",
+  "generated_at": "2026-06-13T06:24:12.106878Z",
   "successful_sites": 14,
   "total_sites": 16,
-  "items_before_topic_filter": 30,
+  "items_before_topic_filter": 105,
   "sites": [
     {
       "site_id": "huazhu_ir",
@@ -10,7 +10,7 @@
       "category": "cr9_finance",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 54228,
+      "duration_ms": 53597,
       "error": "HTTPSConnectionPool(host='ir.hworld.com', port=443): Max retries exceeded with url: /zh-hans/news-events/news-releases (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='ir.hworld.com', port=443): Read timed out. (read timeout=12)\"))"
     },
     {
@@ -19,7 +19,7 @@
       "category": "cr9_finance",
       "ok": true,
       "item_count": 4,
-      "duration_ms": 1005,
+      "duration_ms": 697,
       "error": null
     },
     {
@@ -28,7 +28,7 @@
       "category": "cr9_finance",
       "ok": true,
       "item_count": 0,
-      "duration_ms": 438,
+      "duration_ms": 232,
       "error": null
     },
     {
@@ -36,8 +36,8 @@
       "site_name": "中国饭店协会",
       "category": "supply_chain",
       "ok": true,
-      "item_count": 0,
-      "duration_ms": 1807,
+      "item_count": 15,
+      "duration_ms": 1603,
       "error": null
     },
     {
@@ -45,8 +45,8 @@
       "site_name": "中国旅游研究院",
       "category": "policy",
       "ok": true,
-      "item_count": 0,
-      "duration_ms": 301,
+      "item_count": 15,
+      "duration_ms": 425,
       "error": null
     },
     {
@@ -54,8 +54,8 @@
       "site_name": "文化和旅游部",
       "category": "policy",
       "ok": true,
-      "item_count": 0,
-      "duration_ms": 212,
+      "item_count": 15,
+      "duration_ms": 200,
       "error": null
     },
     {
@@ -63,8 +63,8 @@
       "site_name": "迈点研究院",
       "category": "supply_chain",
       "ok": true,
-      "item_count": 0,
-      "duration_ms": 363,
+      "item_count": 15,
+      "duration_ms": 410,
       "error": null
     },
     {
@@ -72,8 +72,8 @@
       "site_name": "执惠 TripVivid",
       "category": "supply_chain",
       "ok": true,
-      "item_count": 0,
-      "duration_ms": 2466,
+      "item_count": 15,
+      "duration_ms": 2617,
       "error": null
     },
     {
@@ -82,7 +82,7 @@
       "category": "supply_chain",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 359,
+      "duration_ms": 375,
       "error": null
     },
     {
@@ -91,7 +91,7 @@
       "category": "ai_hotel",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 688,
+      "duration_ms": 919,
       "error": null
     },
     {
@@ -100,7 +100,7 @@
       "category": "ai_hotel",
       "ok": true,
       "item_count": 6,
-      "duration_ms": 980,
+      "duration_ms": 685,
       "error": null
     },
     {
@@ -109,8 +109,8 @@
       "category": "ota",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 49541,
-      "error": "HTTPSConnectionPool(host='investors.trip.com', port=443): Max retries exceeded with url: /zh-hans/news-events/news-releases (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='investors.trip.com', port=443): Read timed out. (read timeout=8)\"))"
+      "duration_ms": 53561,
+      "error": "HTTPSConnectionPool(host='investors.trip.com', port=443): Max retries exceeded with url: /zh-hans/news-events/news-releases (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='investors.trip.com', port=443): Read timed out. (read timeout=12)\"))"
     },
     {
       "site_id": "tongcheng_ir",
@@ -118,7 +118,7 @@
       "category": "ota",
       "ok": true,
       "item_count": 0,
-      "duration_ms": 890,
+      "duration_ms": 718,
       "error": null
     },
     {
@@ -127,7 +127,7 @@
       "category": "ota",
       "ok": true,
       "item_count": 0,
-      "duration_ms": 173,
+      "duration_ms": 207,
       "error": null
     },
     {
@@ -136,7 +136,7 @@
       "category": "ota",
       "ok": true,
       "item_count": 0,
-      "duration_ms": 265,
+      "duration_ms": 277,
       "error": null
     },
     {
@@ -145,7 +145,7 @@
       "category": "ota",
       "ok": true,
       "item_count": 0,
-      "duration_ms": 138,
+      "duration_ms": 126,
       "error": null
     }
   ]

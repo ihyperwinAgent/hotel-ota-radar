@@ -52,6 +52,7 @@ sources:
     category: supply_chain
     type: html
     url: "https://www.chinahotel.org.cn/"
+    link_pattern: "/articles/\\d+"
     credibility: "高"
     note: "国内最权威饭店业协会"
 
@@ -60,6 +61,7 @@ sources:
     category: policy
     type: html
     url: "https://www.ctaweb.org.cn/"
+    link_pattern: "/(gongzuodongtai|zhongdianchengguo|tongzhigonggao|zhuantiyanjiu)/\\d+\\.html"
     credibility: "高"
     note: "文旅部数据中心,国家级一手"
 
@@ -68,8 +70,9 @@ sources:
     category: policy
     type: html
     url: "https://www.mct.gov.cn/"
+    link_pattern: "/whzx/.*/t\\d+_\\d+\\.htm"
     credibility: "高"
-    note: "政策原文第一出处"
+    note: "政策原文第一出处(文化要闻)"
 
   # ---------- 行业媒体 / 数据 ----------
   - id: meadin
@@ -77,14 +80,16 @@ sources:
     category: supply_chain
     type: html
     url: "https://www.meadin.com/"
+    link_pattern: "/(wl|jd|cx|report)/\\d+\\.html"
     credibility: "中"
-    note: "页脚停2021,JS渲染,引用前需人工核验当年榜单"
+    note: "页脚停2021但内容更新,按文章URL模式抓"
 
   - id: tripvivid
     name: "执惠 TripVivid"
     category: supply_chain
     type: html
     url: "https://www.tripvivid.com/"
+    link_pattern: "/(deep/)?\\d{4,}\\.html"
     credibility: "高"
     note: "文旅产业链深度分析,原创自产"
 

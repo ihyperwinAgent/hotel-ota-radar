@@ -7,6 +7,7 @@
 from __future__ import annotations
 
 import json
+import re
 import sys
 import time
 from datetime import datetime, timedelta, timezone
@@ -61,9 +62,12 @@ def fetch_html(session, src: dict, now: datetime) -> list[u.RawItem]:
     resp.encoding = resp.apparent_encoding or resp.encoding
     soup = BeautifulSoup(resp.text, "html.parser")
     base = src["url"]
-    host = urlparse(base).netloc
     out: list[u.RawItem] = []
     seen: set[str] = set()
+
+    # link_pattern:按文章 URL 正则抓(国内源列表页日期不在链接附近时的可靠方式)
+    link_re = re.compile(src["link_pattern"]) if src.get("link_pattern") else None
+    list_limit = int(src.get("list_limit", 15))  # 列表页按序取前 N 条
 
     for a in soup.select("a[href]"):
         title = a.get_text(" ", strip=True)
@@ -73,36 +77,43 @@ def fetch_html(session, src: dict, now: datetime) -> list[u.RawItem]:
         href = str(a.get("href") or "").strip()
         if not href or href.startswith(("#", "javascript:", "mailto:")):
             continue
+        if link_re and not link_re.search(href):
+            continue
         url = urljoin(base, href)
-        if urlparse(url).netloc and host not in urlparse(url).netloc and host not in base:
-            pass  # 允许跨子域(IR 站常用独立子域)
         if url in seen:
             continue
 
-        # 找时间:同级或父级的 <time>,否则从链接文本/周边找日期
+        # 找时间:<time> > 链接文本日期。link_pattern 模式下列表有序,无日期则用抓取时刻近似
         published = None
         t = a.find("time") or (a.parent.find("time") if a.parent else None)
         if t:
             published = u.parse_date_any(t.get("datetime") or t.get_text(" ", strip=True), now)
         if not published:
             published = u.parse_date_any(title, now)
+        approx = False
         if not published:
-            continue
+            if link_re:
+                published = now  # 列表页有序,前 N 条视为近期
+                approx = True
+            else:
+                continue
         if published < now - timedelta(days=MAX_AGE_DAYS):
             continue
 
         seen.add(url)
         out.append(
             u.RawItem(
-                site_id=src["id"],
-                site_name=src["name"],
-                source=src["name"],
-                title=title,
-                url=url,
-                published_at=published,
-                meta={"category": src["category"], "credibility": src.get("credibility", "")},
+                site_id=src["id"], site_name=src["name"], source=src["name"],
+                title=title, url=url, published_at=published,
+                meta={
+                    "category": src["category"],
+                    "credibility": src.get("credibility", ""),
+                    "approx_time": approx,
+                },
             )
         )
+        if link_re and len(out) >= list_limit:
+            break
     return out
 
 
