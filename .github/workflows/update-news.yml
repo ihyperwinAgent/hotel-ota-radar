@@ -5,6 +5,13 @@ on:
   schedule:
     # 每 3 小时跑一次(行业动态更新慢,无需高频);分钟错开整点
     - cron: "17 */3 * * *"
+  push:
+    branches: [main]
+    # 只在抓取相关文件变化时触发,改前端文案不会跑抓取
+    paths:
+      - "scripts/update_hotel.py"
+      - "config/hotel_sources.yaml"
+      - ".github/workflows/update-news.yml"
 
 concurrency:
   group: update-hotel-radar-${{ github.ref }}
