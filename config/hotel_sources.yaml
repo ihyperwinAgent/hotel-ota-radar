@@ -26,8 +26,9 @@ sources:
     category: cr9_finance
     type: html
     url: "https://ir.hworld.com/zh-hans/news-events/news-releases"
+    link_pattern: "/news-release"
     credibility: "高"
-    note: "纳斯达克HTHT+港股1179官方IR一手"
+    note: "官方IR大陆直连超时,靠GitHub Actions境外网络抓;华住动态另由执惠/迈点覆盖"
 
   - id: atour_ir
     name: "亚朵 Atour IR"
@@ -124,8 +125,9 @@ sources:
     category: ota
     type: html
     url: "https://investors.trip.com/zh-hans/news-events/news-releases"
+    link_pattern: "/news-release"
     credibility: "高"
-    note: "官方IR一手,去哪儿动态并入此处"
+    note: "官方IR大陆直连超时,靠GitHub Actions境外网络抓;去哪儿动态并入携程"
 
   - id: tongcheng_ir
     name: "同程旅行 IR"

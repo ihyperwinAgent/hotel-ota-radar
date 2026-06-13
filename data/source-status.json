@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-13T06:24:12.106878Z",
+  "generated_at": "2026-06-13T06:36:28.139086Z",
   "successful_sites": 14,
   "total_sites": 16,
   "items_before_topic_filter": 105,
@@ -10,7 +10,7 @@
       "category": "cr9_finance",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 53597,
+      "duration_ms": 54145,
       "error": "HTTPSConnectionPool(host='ir.hworld.com', port=443): Max retries exceeded with url: /zh-hans/news-events/news-releases (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='ir.hworld.com', port=443): Read timed out. (read timeout=12)\"))"
     },
     {
@@ -19,7 +19,7 @@
       "category": "cr9_finance",
       "ok": true,
       "item_count": 4,
-      "duration_ms": 697,
+      "duration_ms": 1083,
       "error": null
     },
     {
@@ -28,7 +28,7 @@
       "category": "cr9_finance",
       "ok": true,
       "item_count": 0,
-      "duration_ms": 232,
+      "duration_ms": 235,
       "error": null
     },
     {
@@ -37,7 +37,7 @@
       "category": "supply_chain",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 1603,
+      "duration_ms": 1623,
       "error": null
     },
     {
@@ -46,7 +46,7 @@
       "category": "policy",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 425,
+      "duration_ms": 471,
       "error": null
     },
     {
@@ -55,7 +55,7 @@
       "category": "policy",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 200,
+      "duration_ms": 231,
       "error": null
     },
     {
@@ -64,7 +64,7 @@
       "category": "supply_chain",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 410,
+      "duration_ms": 409,
       "error": null
     },
     {
@@ -73,7 +73,7 @@
       "category": "supply_chain",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 2617,
+      "duration_ms": 2541,
       "error": null
     },
     {
@@ -82,7 +82,7 @@
       "category": "supply_chain",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 375,
+      "duration_ms": 298,
       "error": null
     },
     {
@@ -91,7 +91,7 @@
       "category": "ai_hotel",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 919,
+      "duration_ms": 618,
       "error": null
     },
     {
@@ -100,7 +100,7 @@
       "category": "ai_hotel",
       "ok": true,
       "item_count": 6,
-      "duration_ms": 685,
+      "duration_ms": 1025,
       "error": null
     },
     {
@@ -109,7 +109,7 @@
       "category": "ota",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 53561,
+      "duration_ms": 54640,
       "error": "HTTPSConnectionPool(host='investors.trip.com', port=443): Max retries exceeded with url: /zh-hans/news-events/news-releases (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='investors.trip.com', port=443): Read timed out. (read timeout=12)\"))"
     },
     {
@@ -118,7 +118,7 @@
       "category": "ota",
       "ok": true,
       "item_count": 0,
-      "duration_ms": 718,
+      "duration_ms": 883,
       "error": null
     },
     {
@@ -127,7 +127,7 @@
       "category": "ota",
       "ok": true,
       "item_count": 0,
-      "duration_ms": 207,
+      "duration_ms": 250,
       "error": null
     },
     {
@@ -136,7 +136,7 @@
       "category": "ota",
       "ok": true,
       "item_count": 0,
-      "duration_ms": 277,
+      "duration_ms": 199,
       "error": null
     },
     {
@@ -145,7 +145,7 @@
       "category": "ota",
       "ok": true,
       "item_count": 0,
-      "duration_ms": 126,
+      "duration_ms": 135,
       "error": null
     }
   ]

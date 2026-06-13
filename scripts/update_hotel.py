@@ -26,6 +26,39 @@ CONFIG = ROOT / "config" / "hotel_sources.yaml"
 DATA = ROOT / "data"
 MAX_AGE_DAYS = 45  # 行业财报/政策更新慢,放宽窗口
 
+# 导航/UI 噪词表(移植自 hotel-radar/fetch.py,用于过滤非文章链接)
+_NAV_EXACT = {
+    "首页", "home", "关于我们", "about", "about us", "联系我们", "contact",
+    "更多", "more", "查看更多", "read more", "详情", "点击查看", "点击阅读",
+    "登录", "注册", "login", "sign in", "sign up", "搜索", "search",
+    "返回", "back", "上一页", "下一页", "prev", "next",
+    "English", "中文", "繁體", "新闻", "资讯", "文章", "报告",
+    "产品与服务", "Products and services", "友情链接",
+}
+_NAV_KEYWORDS = [
+    "cookie", "privacy", "隐私政策", "服务条款", "免责声明",
+    "广告", "招聘", "合作", "APP下载", "下载APP",
+]
+_NAV_CONTAINER_RE = re.compile(
+    r"nav|menu|footer|header|sidebar|breadcrumb|pagination|social|share|tag|copyright", re.I
+)
+
+
+def _is_nav_title(title: str) -> bool:
+    """判断是否是导航/UI 文字而非文章标题(移植自 fetch.py)"""
+    t = title.strip()
+    if t.lower() in {n.lower() for n in _NAV_EXACT}:
+        return True
+    has_cjk = any("一" <= c <= "鿿" for c in t)
+    if has_cjk and len(t) < 10:
+        return True
+    if not has_cjk and len(t) < 20:
+        return True
+    tl = t.lower()
+    if len(t) < 20 and any(kw.lower() in tl for kw in _NAV_KEYWORDS):
+        return True
+    return False
+
 
 def load_config() -> dict:
     return yaml.safe_load(CONFIG.read_text(encoding="utf-8"))
@@ -59,9 +92,19 @@ def fetch_html(session, src: dict, now: datetime) -> list[u.RawItem]:
         headers={"User-Agent": u.BROWSER_UA, "Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8"},
     )
     resp.raise_for_status()
-    resp.encoding = resp.apparent_encoding or resp.encoding
+    # 编码修正:政府站(文旅部等)常被误判为 ISO-8859-1 导致中文乱码
+    if resp.encoding and resp.encoding.upper() in ("ISO-8859-1", "LATIN-1"):
+        resp.encoding = resp.apparent_encoding or "utf-8"
     soup = BeautifulSoup(resp.text, "html.parser")
+
+    # 移除导航/页脚区域减噪
+    for tag in soup.find_all(["nav", "footer", "header"]):
+        tag.decompose()
+    for tag in soup.find_all(True, class_=_NAV_CONTAINER_RE):
+        tag.decompose()
+
     base = src["url"]
+    base_host = urlparse(base).netloc
     out: list[u.RawItem] = []
     seen: set[str] = set()
 
@@ -72,14 +115,17 @@ def fetch_html(session, src: dict, now: datetime) -> list[u.RawItem]:
     for a in soup.select("a[href]"):
         title = a.get_text(" ", strip=True)
         title = u.maybe_fix_mojibake(title)
-        if not title or len(title) < 8:  # 滤掉导航/按钮等短文本
-            continue
         href = str(a.get("href") or "").strip()
         if not href or href.startswith(("#", "javascript:", "mailto:")):
             continue
         if link_re and not link_re.search(href):
             continue
         url = urljoin(base, href)
+        # 只保留同域链接(跨域多为外链/广告);IR 子域已在 link_pattern 放行
+        if not link_re and urlparse(url).netloc and urlparse(url).netloc != base_host:
+            continue
+        if _is_nav_title(title):  # 过滤导航/招聘/UI 噪音
+            continue
         if url in seen:
             continue
 
