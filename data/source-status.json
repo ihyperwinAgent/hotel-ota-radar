@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-06-13T06:48:16.776933Z",
-  "successful_sites": 12,
+  "generated_at": "2026-06-13T06:54:01.507391Z",
+  "successful_sites": 16,
   "total_sites": 16,
-  "items_before_topic_filter": 90,
+  "items_before_topic_filter": 110,
   "sites": [
     {
       "site_id": "huazhu_ir",
       "site_name": "华住 H World IR",
       "category": "cr9_finance",
-      "ok": false,
-      "item_count": 0,
-      "duration_ms": 53338,
-      "error": "HTTPSConnectionPool(host='ir.hworld.com', port=443): Max retries exceeded with url: /zh-hans/news-events/news-releases (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='ir.hworld.com', port=443): Read timed out. (read timeout=12)\"))"
+      "ok": true,
+      "item_count": 1,
+      "duration_ms": 1064,
+      "error": null
     },
     {
       "site_id": "atour_ir",
@@ -19,7 +19,7 @@
       "category": "cr9_finance",
       "ok": true,
       "item_count": 4,
-      "duration_ms": 476,
+      "duration_ms": 862,
       "error": null
     },
     {
@@ -28,7 +28,7 @@
       "category": "cr9_finance",
       "ok": true,
       "item_count": 0,
-      "duration_ms": 1875,
+      "duration_ms": 176,
       "error": null
     },
     {
@@ -37,17 +37,17 @@
       "category": "supply_chain",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 2892,
+      "duration_ms": 1653,
       "error": null
     },
     {
       "site_id": "cta",
       "site_name": "中国旅游研究院",
       "category": "policy",
-      "ok": false,
-      "item_count": 0,
-      "duration_ms": 38823,
-      "error": "HTTPSConnectionPool(host='www.ctaweb.org.cn', port=443): Max retries exceeded with url: / (Caused by NewConnectionError(\"HTTPSConnection(host='www.ctaweb.org.cn', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable\"))"
+      "ok": true,
+      "item_count": 15,
+      "duration_ms": 478,
+      "error": null
     },
     {
       "site_id": "mct",
@@ -55,7 +55,7 @@
       "category": "policy",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 1514,
+      "duration_ms": 230,
       "error": null
     },
     {
@@ -64,7 +64,7 @@
       "category": "supply_chain",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 4198,
+      "duration_ms": 343,
       "error": null
     },
     {
@@ -73,7 +73,7 @@
       "category": "supply_chain",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 3926,
+      "duration_ms": 2848,
       "error": null
     },
     {
@@ -82,7 +82,7 @@
       "category": "supply_chain",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1368,
+      "duration_ms": 447,
       "error": null
     },
     {
@@ -91,7 +91,7 @@
       "category": "ai_hotel",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 179,
+      "duration_ms": 670,
       "error": null
     },
     {
@@ -99,18 +99,18 @@
       "site_name": "Skift Hospitality",
       "category": "ai_hotel",
       "ok": true,
-      "item_count": 6,
-      "duration_ms": 157,
+      "item_count": 10,
+      "duration_ms": 1683,
       "error": null
     },
     {
       "site_id": "trip_ir",
       "site_name": "携程 Trip.com IR",
       "category": "ota",
-      "ok": false,
+      "ok": true,
       "item_count": 0,
-      "duration_ms": 53209,
-      "error": "HTTPSConnectionPool(host='investors.trip.com', port=443): Max retries exceeded with url: /zh-hans/news-events/news-releases (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='investors.trip.com', port=443): Read timed out. (read timeout=12)\"))"
+      "duration_ms": 918,
+      "error": null
     },
     {
       "site_id": "tongcheng_ir",
@@ -118,7 +118,7 @@
       "category": "ota",
       "ok": true,
       "item_count": 0,
-      "duration_ms": 1494,
+      "duration_ms": 678,
       "error": null
     },
     {
@@ -127,7 +127,7 @@
       "category": "ota",
       "ok": true,
       "item_count": 0,
-      "duration_ms": 780,
+      "duration_ms": 214,
       "error": null
     },
     {
@@ -136,17 +136,17 @@
       "category": "ota",
       "ok": true,
       "item_count": 0,
-      "duration_ms": 1854,
+      "duration_ms": 242,
       "error": null
     },
     {
       "site_id": "iresearch",
       "site_name": "艾瑞咨询 在线旅游",
       "category": "ota",
-      "ok": false,
+      "ok": true,
       "item_count": 0,
-      "duration_ms": 38425,
-      "error": "HTTPSConnectionPool(host='www.iresearch.com.cn', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.iresearch.com.cn', port=443) at 0x7f924599ff50>, 'Connection to www.iresearch.com.cn timed out. (connect timeout=8)'))"
+      "duration_ms": 129,
+      "error": null
     }
   ]
 }

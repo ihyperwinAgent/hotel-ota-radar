@@ -24,11 +24,11 @@ sources:
   - id: huazhu_ir
     name: "华住 H World IR"
     category: cr9_finance
-    type: html
-    url: "https://ir.hworld.com/zh-hans/news-events/news-releases"
-    link_pattern: "/news-release"
+    type: gnw
+    gnw_keyword: "Huazhu"
+    gnw_filter: "h-world"
     credibility: "高"
-    note: "官方IR大陆直连超时,靠GitHub Actions境外网络抓;华住动态另由执惠/迈点覆盖"
+    note: "官方IR大陆直连超时,走GlobeNewswire搜Huazhu兜底(slug过滤h-world保精准)"
 
   - id: atour_ir
     name: "亚朵 Atour IR"
@@ -114,20 +114,19 @@ sources:
     name: "Skift Hospitality"
     category: ai_hotel
     type: rss
-    url: "https://skift.com/feed/"
-    include_keywords: "hotel,hospitality,AI,tech,booking,lodging"
+    url: "https://skift.com/category/hotels/feed/"
     credibility: "高"
-    note: "全球酒店AI/科技首要英文媒体,小时级更新"
+    note: "全球酒店AI/科技首要英文媒体,酒店分类精准feed"
 
   # ---------- OTA 行业 ----------
   - id: trip_ir
     name: "携程 Trip.com IR"
     category: ota
-    type: html
-    url: "https://investors.trip.com/zh-hans/news-events/news-releases"
-    link_pattern: "/news-release"
+    type: gnw
+    gnw_keyword: "Trip.com Group"
+    gnw_filter: "trip-com"
     credibility: "高"
-    note: "官方IR大陆直连超时,靠GitHub Actions境外网络抓;去哪儿动态并入携程"
+    note: "官方IR大陆直连超时,走GlobeNewswire搜Trip.com兜底;去哪儿动态并入携程"
 
   - id: tongcheng_ir
     name: "同程旅行 IR"

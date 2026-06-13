@@ -12,7 +12,7 @@ import sys
 import time
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
-from urllib.parse import urljoin, urlparse
+from urllib.parse import unquote, urljoin, urlparse
 
 import yaml
 from bs4 import BeautifulSoup
@@ -163,6 +163,55 @@ def fetch_html(session, src: dict, now: datetime) -> list[u.RawItem]:
     return out
 
 
+def fetch_gnw(session, src: dict, now: datetime) -> list[u.RawItem]:
+    """GlobeNewswire 关键词搜索兜底(华住/携程等境外IR大陆直连超时时用)。
+
+    抓 globenewswire.com/en/search/keyword/{kw} 搜索页的 news-release 链接,
+    URL 形如 /news-release/2026/05/15/.../h-world-group-...-results.html,
+    日期和标题都能从 URL 提取,无需进详情页。
+    """
+    kw = src["gnw_keyword"]
+    url = f"https://www.globenewswire.com/en/search/keyword/{kw}"
+    resp = session.get(url, timeout=(8, 15), headers={"User-Agent": u.BROWSER_UA})
+    resp.raise_for_status()
+    # 提取 news-release 链接 + slug 里的关键词过滤(避免搜到无关公司)
+    filt = src.get("gnw_filter", "").lower()
+    rel_re = re.compile(r'/news-release/(\d{4})/(\d{2})/(\d{2})/[^"\']*?\.html')
+    out: list[u.RawItem] = []
+    seen: set[str] = set()
+    for m in rel_re.finditer(resp.text):
+        path = m.group(0)
+        if filt and filt not in path.lower():
+            continue
+        full = urljoin("https://www.globenewswire.com", path)
+        if full in seen:
+            continue
+        seen.add(full)
+        y, mo, d = int(m.group(1)), int(m.group(2)), int(m.group(3))
+        published = datetime(y, mo, d, tzinfo=UTC)
+        if published < now - timedelta(days=MAX_AGE_DAYS):
+            continue
+        # 标题从 URL slug 还原:URL解码 + 连字符转空格 + 首字母大写
+        slug = path.rsplit("/", 1)[-1].replace(".html", "")
+        slug = unquote(slug)  # 解 %E9%87%8D 这类 URL 编码
+        title = slug.replace("-", " ").strip().title()
+        # 过滤律所证券诉讼噪音(GNW 上这类稿件会刷屏淹没真财报)
+        low = title.lower()
+        if any(kw in low for kw in ["law firm", "class action", "deadline", "shareholders",
+                                     "investors have opportunity", "lead plaintiff", "llp", "llc urges", "rosen"]):
+            continue
+        out.append(
+            u.RawItem(
+                site_id=src["id"], site_name=src["name"], source=src["name"],
+                title=title, url=full, published_at=published,
+                meta={"category": src["category"], "credibility": src.get("credibility", ""), "via": "GlobeNewswire"},
+            )
+        )
+        if len(out) >= int(src.get("list_limit", 10)):
+            break
+    return out
+
+
 def collect(cfg: dict, session, now: datetime):
     items: list[u.RawItem] = []
     statuses: list[dict] = []
@@ -170,7 +219,12 @@ def collect(cfg: dict, session, now: datetime):
         start = time.perf_counter()
         err, got = None, []
         try:
-            got = fetch_rss(session, src, now) if src["type"] == "rss" else fetch_html(session, src, now)
+            if src["type"] == "rss":
+                got = fetch_rss(session, src, now)
+            elif src["type"] == "gnw":
+                got = fetch_gnw(session, src, now)
+            else:
+                got = fetch_html(session, src, now)
         except Exception as exc:  # noqa: BLE001
             err = str(exc)
             # RSS 失败且有兜底 URL → 试兜底
