@@ -11,6 +11,7 @@ const state = {
   allDataUrl: "data/latest-24h-all.json",
   allDataPromise: null,
   siteFilter: "",
+  categoryFilter: "",
   query: "",
   mode: "ai",
   waytoagiMode: "today",
@@ -251,6 +252,36 @@ function renderSiteFilters() {
   });
 }
 
+const CATEGORY_ORDER = ["cr9_finance", "policy", "supply_chain", "ai_hotel", "ota"];
+
+function renderCategoryTabs() {
+  const tabsEl = document.getElementById("categoryTabs");
+  if (!tabsEl) return;
+  const items = modeItems();
+  const labelByCat = {};
+  const countByCat = {};
+  items.forEach((it) => {
+    if (!it.category) return;
+    labelByCat[it.category] = it.category_label || it.category;
+    countByCat[it.category] = (countByCat[it.category] || 0) + 1;
+  });
+  const cats = CATEGORY_ORDER.filter((c) => countByCat[c]);
+  tabsEl.innerHTML = "";
+  const mk = (cat, text, count) => {
+    const btn = document.createElement("button");
+    btn.className = `cat-tab ${state.categoryFilter === cat ? "active" : ""}`;
+    btn.textContent = count != null ? `${text} ${count}` : text;
+    btn.onclick = () => {
+      state.categoryFilter = cat;
+      renderCategoryTabs();
+      renderList();
+    };
+    return btn;
+  };
+  tabsEl.appendChild(mk("", "全部", items.length));
+  cats.forEach((c) => tabsEl.appendChild(mk(c, labelByCat[c], countByCat[c])));
+}
+
 function renderModeSwitch() {
   modeAiBtnEl.classList.toggle("active", state.mode === "ai");
   modeAllBtnEl.classList.toggle("active", state.mode === "all");
@@ -282,6 +313,7 @@ function getFilteredItems() {
   const q = state.query.trim().toLowerCase();
   return modeItems().filter((item) => {
     if (state.siteFilter && item.site_id !== state.siteFilter) return false;
+    if (state.categoryFilter && item.category !== state.categoryFilter) return false;
     if (!q) return true;
     const hay = `${item.title || ""} ${item.title_zh || ""} ${item.title_en || ""} ${item.site_name || ""} ${item.source || ""}`.toLowerCase();
     return hay.includes(q);
@@ -793,16 +825,17 @@ function renderBolePicks() {
 function renderItemNode(item) {
   const node = itemTpl.content.firstElementChild.cloneNode(true);
   node.querySelector(".site").textContent = item.site_name;
-  const kind = sourceKind(item.site_id);
   const categoryEl = node.querySelector(".category");
-  categoryEl.textContent = kind.label;
-  categoryEl.classList.add(`kind-${kind.tone}`);
-  const score = scorePercent(item);
-  const tagEl = document.createElement("span");
-  tagEl.className = `ai-tag ${scoreTone(score)}`;
-  tagEl.textContent = `${labelText(item)} · ${score || "?"}分`;
-  categoryEl.insertAdjacentElement("afterend", tagEl);
-  node.querySelector(".source").textContent = `分区: ${item.source}`;
+  categoryEl.textContent = item.category_label || item.category || "动态";
+  categoryEl.classList.add("kind-signal");
+  const cred = (item.credibility || "").trim();
+  if (cred) {
+    const credEl = document.createElement("span");
+    credEl.className = `cred-tag cred-${cred === "高" ? "high" : "mid"}`;
+    credEl.textContent = `可信度 ${cred}`;
+    categoryEl.insertAdjacentElement("afterend", credEl);
+  }
+  node.querySelector(".source").textContent = `来源: ${item.source}`;
   node.querySelector(".time").textContent = fmtTime(item.published_at || item.first_seen_at);
 
   const titleEl = node.querySelector(".title");
@@ -1142,9 +1175,7 @@ async function loadAllModeData() {
 }
 
 async function loadWaytoagiData() {
-  const res = await fetch(`./data/waytoagi-7d.json?t=${Date.now()}`);
-  if (!res.ok) throw new Error(`加载 waytoagi-7d.json 失败: ${res.status}`);
-  return res.json();
+  return null;  // 酒店雷达不用 WaytoAGI 模块
 }
 
 async function loadSourceStatusData() {
@@ -1191,6 +1222,7 @@ async function init() {
     renderCoverageStrip();
     renderBolePicks();
     renderSiteFilters();
+    renderCategoryTabs();
     renderList();
     updatedAtEl.textContent = `更新时间：${fmtTime(state.generatedAt)}`;
   } else {
