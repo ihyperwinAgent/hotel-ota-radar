@@ -1,164 +1,8 @@
 {
-  "generated_at": "2026-06-13T14:50:53.596280Z",
+  "generated_at": "2026-06-13T14:56:57.226827Z",
   "window_hours": 1080,
   "total_stories": 30,
   "stories": [
-    {
-      "story_id": "story_e4ce0593c384",
-      "title": "中国旅游研究院（文化和旅游部数据中心）2025年公开社会招聘",
-      "url": "https://www.ctaweb.org.cn/tongzhigonggao/10265.html",
-      "primary_url": "https://www.ctaweb.org.cn/tongzhigonggao/10265.html",
-      "source": "中国旅游研究院",
-      "source_name": "中国旅游研究院",
-      "sources": [
-        {
-          "id": "hotelitem_d9094dc01fad",
-          "title": "中国旅游研究院（文化和旅游部数据中心）2025年公开社会招聘",
-          "url": "https://www.ctaweb.org.cn/tongzhigonggao/10265.html",
-          "source": "中国旅游研究院",
-          "source_name": "中国旅游研究院",
-          "site_id": "cta",
-          "published_at": "2026-06-13T14:50:53.596280Z"
-        },
-        {
-          "id": "hotelitem_e4ce0593c384",
-          "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
-          "url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
-          "source": "中国旅游研究院",
-          "source_name": "中国旅游研究院",
-          "site_id": "cta",
-          "published_at": "2026-06-13T14:50:53.596280Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "中国旅游研究院"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_d9094dc01fad",
-          "title": "中国旅游研究院（文化和旅游部数据中心）2025年公开社会招聘",
-          "url": "https://www.ctaweb.org.cn/tongzhigonggao/10265.html",
-          "source": "中国旅游研究院",
-          "source_name": "中国旅游研究院",
-          "site_id": "cta",
-          "published_at": "2026-06-13T14:50:53.596280Z"
-        },
-        {
-          "id": "hotelitem_e4ce0593c384",
-          "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
-          "url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
-          "source": "中国旅游研究院",
-          "source_name": "中国旅游研究院",
-          "site_id": "cta",
-          "published_at": "2026-06-13T14:50:53.596280Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.948,
-      "importance": 0.625,
-      "importance_score": 0.948,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-13T14:50:53.596280Z",
-      "latest_at": "2026-06-13T14:50:53.596280Z",
-      "primary_item": {
-        "id": "hotelitem_d9094dc01fad",
-        "title": "中国旅游研究院（文化和旅游部数据中心）2025年公开社会招聘",
-        "url": "https://www.ctaweb.org.cn/tongzhigonggao/10265.html",
-        "source": "中国旅游研究院",
-        "source_name": "中国旅游研究院"
-      }
-    },
-    {
-      "story_id": "story_f2f6d9802c43",
-      "title": "中国旅游研究院（文化和旅游部数据中心）2026年应届毕业生招",
-      "url": "https://www.ctaweb.org.cn/tongzhigonggao/10507.html",
-      "primary_url": "https://www.ctaweb.org.cn/tongzhigonggao/10507.html",
-      "source": "中国旅游研究院",
-      "source_name": "中国旅游研究院",
-      "sources": [
-        {
-          "id": "hotelitem_f2f6d9802c43",
-          "title": "中国旅游研究院（文化和旅游部数据中心）2026年应届毕业生招",
-          "url": "https://www.ctaweb.org.cn/tongzhigonggao/10507.html",
-          "source": "中国旅游研究院",
-          "source_name": "中国旅游研究院",
-          "site_id": "cta",
-          "published_at": "2026-06-13T14:50:53.596280Z"
-        },
-        {
-          "id": "hotelitem_06b0519b7c93",
-          "title": "中国旅游研究院（文化和旅游部数据中心）2026年校招公告",
-          "url": "https://www.ctaweb.org.cn/tongzhigonggao/10444.html",
-          "source": "中国旅游研究院",
-          "source_name": "中国旅游研究院",
-          "site_id": "cta",
-          "published_at": "2026-06-13T14:50:53.596280Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "中国旅游研究院"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_f2f6d9802c43",
-          "title": "中国旅游研究院（文化和旅游部数据中心）2026年应届毕业生招",
-          "url": "https://www.ctaweb.org.cn/tongzhigonggao/10507.html",
-          "source": "中国旅游研究院",
-          "source_name": "中国旅游研究院",
-          "site_id": "cta",
-          "published_at": "2026-06-13T14:50:53.596280Z"
-        },
-        {
-          "id": "hotelitem_06b0519b7c93",
-          "title": "中国旅游研究院（文化和旅游部数据中心）2026年校招公告",
-          "url": "https://www.ctaweb.org.cn/tongzhigonggao/10444.html",
-          "source": "中国旅游研究院",
-          "source_name": "中国旅游研究院",
-          "site_id": "cta",
-          "published_at": "2026-06-13T14:50:53.596280Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.948,
-      "importance": 0.625,
-      "importance_score": 0.948,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-13T14:50:53.596280Z",
-      "latest_at": "2026-06-13T14:50:53.596280Z",
-      "primary_item": {
-        "id": "hotelitem_f2f6d9802c43",
-        "title": "中国旅游研究院（文化和旅游部数据中心）2026年应届毕业生招",
-        "url": "https://www.ctaweb.org.cn/tongzhigonggao/10507.html",
-        "source": "中国旅游研究院",
-        "source_name": "中国旅游研究院"
-      }
-    },
     {
       "story_id": "story_535558ff3b6b",
       "title": "H World Group Limited Reports First Quarter Of 2026 Unaudited Financial Results",
@@ -195,13 +39,13 @@
       "item_count": 1,
       "duplicate_count": 1,
       "score": 0.9171,
-      "importance": 0.4684,
+      "importance": 0.4683,
       "importance_score": 0.9171,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.3418,
+        "recency": 0.3417,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -260,7 +104,7 @@
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.3066,
+        "recency": 0.3065,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -319,7 +163,7 @@
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.3066,
+        "recency": 0.3065,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -378,7 +222,7 @@
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.0156,
+        "recency": 0.0155,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -396,242 +240,6 @@
       }
     },
     {
-      "story_id": "story_2863a5278576",
-      "title": "2025中国旅游集团化发展论坛在京举办",
-      "url": "https://www.ctaweb.org.cn/gongzuodongtai/10342.html",
-      "primary_url": "https://www.ctaweb.org.cn/gongzuodongtai/10342.html",
-      "source": "中国旅游研究院",
-      "source_name": "中国旅游研究院",
-      "sources": [
-        {
-          "id": "hotelitem_2863a5278576",
-          "title": "2025中国旅游集团化发展论坛在京举办",
-          "url": "https://www.ctaweb.org.cn/gongzuodongtai/10342.html",
-          "source": "中国旅游研究院",
-          "source_name": "中国旅游研究院",
-          "site_id": "cta",
-          "published_at": "2026-06-13T14:50:53.596280Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "中国旅游研究院"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_2863a5278576",
-          "title": "2025中国旅游集团化发展论坛在京举办",
-          "url": "https://www.ctaweb.org.cn/gongzuodongtai/10342.html",
-          "source": "中国旅游研究院",
-          "source_name": "中国旅游研究院",
-          "site_id": "cta",
-          "published_at": "2026-06-13T14:50:53.596280Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.898,
-      "importance": 0.6,
-      "importance_score": 0.898,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-13T14:50:53.596280Z",
-      "latest_at": "2026-06-13T14:50:53.596280Z",
-      "primary_item": {
-        "id": "hotelitem_2863a5278576",
-        "title": "2025中国旅游集团化发展论坛在京举办",
-        "url": "https://www.ctaweb.org.cn/gongzuodongtai/10342.html",
-        "source": "中国旅游研究院",
-        "source_name": "中国旅游研究院"
-      }
-    },
-    {
-      "story_id": "story_8577543490c0",
-      "title": "2026中国旅游科学年会优秀论文名单揭晓",
-      "url": "https://www.ctaweb.org.cn/gongzuodongtai/10434.html",
-      "primary_url": "https://www.ctaweb.org.cn/gongzuodongtai/10434.html",
-      "source": "中国旅游研究院",
-      "source_name": "中国旅游研究院",
-      "sources": [
-        {
-          "id": "hotelitem_8577543490c0",
-          "title": "2026中国旅游科学年会优秀论文名单揭晓",
-          "url": "https://www.ctaweb.org.cn/gongzuodongtai/10434.html",
-          "source": "中国旅游研究院",
-          "source_name": "中国旅游研究院",
-          "site_id": "cta",
-          "published_at": "2026-06-13T14:50:53.596280Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "中国旅游研究院"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_8577543490c0",
-          "title": "2026中国旅游科学年会优秀论文名单揭晓",
-          "url": "https://www.ctaweb.org.cn/gongzuodongtai/10434.html",
-          "source": "中国旅游研究院",
-          "source_name": "中国旅游研究院",
-          "site_id": "cta",
-          "published_at": "2026-06-13T14:50:53.596280Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.898,
-      "importance": 0.6,
-      "importance_score": 0.898,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-13T14:50:53.596280Z",
-      "latest_at": "2026-06-13T14:50:53.596280Z",
-      "primary_item": {
-        "id": "hotelitem_8577543490c0",
-        "title": "2026中国旅游科学年会优秀论文名单揭晓",
-        "url": "https://www.ctaweb.org.cn/gongzuodongtai/10434.html",
-        "source": "中国旅游研究院",
-        "source_name": "中国旅游研究院"
-      }
-    },
-    {
-      "story_id": "story_d7fbce8cffb5",
-      "title": "2026中国旅游科学年会在京举办",
-      "url": "https://www.ctaweb.org.cn/gongzuodongtai/10431.html",
-      "primary_url": "https://www.ctaweb.org.cn/gongzuodongtai/10431.html",
-      "source": "中国旅游研究院",
-      "source_name": "中国旅游研究院",
-      "sources": [
-        {
-          "id": "hotelitem_d7fbce8cffb5",
-          "title": "2026中国旅游科学年会在京举办",
-          "url": "https://www.ctaweb.org.cn/gongzuodongtai/10431.html",
-          "source": "中国旅游研究院",
-          "source_name": "中国旅游研究院",
-          "site_id": "cta",
-          "published_at": "2026-06-13T14:50:53.596280Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "中国旅游研究院"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_d7fbce8cffb5",
-          "title": "2026中国旅游科学年会在京举办",
-          "url": "https://www.ctaweb.org.cn/gongzuodongtai/10431.html",
-          "source": "中国旅游研究院",
-          "source_name": "中国旅游研究院",
-          "site_id": "cta",
-          "published_at": "2026-06-13T14:50:53.596280Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.898,
-      "importance": 0.6,
-      "importance_score": 0.898,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-13T14:50:53.596280Z",
-      "latest_at": "2026-06-13T14:50:53.596280Z",
-      "primary_item": {
-        "id": "hotelitem_d7fbce8cffb5",
-        "title": "2026中国旅游科学年会在京举办",
-        "url": "https://www.ctaweb.org.cn/gongzuodongtai/10431.html",
-        "source": "中国旅游研究院",
-        "source_name": "中国旅游研究院"
-      }
-    },
-    {
-      "story_id": "story_5f3bd2f41f4f",
-      "title": "2026年文化和旅游宏观决策课题立项名单公布",
-      "url": "https://www.ctaweb.org.cn/gongzuodongtai/10433.html",
-      "primary_url": "https://www.ctaweb.org.cn/gongzuodongtai/10433.html",
-      "source": "中国旅游研究院",
-      "source_name": "中国旅游研究院",
-      "sources": [
-        {
-          "id": "hotelitem_5f3bd2f41f4f",
-          "title": "2026年文化和旅游宏观决策课题立项名单公布",
-          "url": "https://www.ctaweb.org.cn/gongzuodongtai/10433.html",
-          "source": "中国旅游研究院",
-          "source_name": "中国旅游研究院",
-          "site_id": "cta",
-          "published_at": "2026-06-13T14:50:53.596280Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "中国旅游研究院"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_5f3bd2f41f4f",
-          "title": "2026年文化和旅游宏观决策课题立项名单公布",
-          "url": "https://www.ctaweb.org.cn/gongzuodongtai/10433.html",
-          "source": "中国旅游研究院",
-          "source_name": "中国旅游研究院",
-          "site_id": "cta",
-          "published_at": "2026-06-13T14:50:53.596280Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.898,
-      "importance": 0.6,
-      "importance_score": 0.898,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-13T14:50:53.596280Z",
-      "latest_at": "2026-06-13T14:50:53.596280Z",
-      "primary_item": {
-        "id": "hotelitem_5f3bd2f41f4f",
-        "title": "2026年文化和旅游宏观决策课题立项名单公布",
-        "url": "https://www.ctaweb.org.cn/gongzuodongtai/10433.html",
-        "source": "中国旅游研究院",
-        "source_name": "中国旅游研究院"
-      }
-    },
-    {
       "story_id": "story_c29bfaea0c76",
       "title": "2026年非遗消夏购物月启动",
       "url": "https://www.mct.gov.cn/whzx/whyw/202606/t20260611_966225.htm",
@@ -646,7 +254,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-06-13T14:50:53.596280Z"
+          "published_at": "2026-06-13T14:56:57.226827Z"
         }
       ],
       "source_count": 1,
@@ -661,7 +269,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-06-13T14:50:53.596280Z"
+          "published_at": "2026-06-13T14:56:57.226827Z"
         }
       ],
       "item_count": 1,
@@ -680,8 +288,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-06-13T14:50:53.596280Z",
-      "latest_at": "2026-06-13T14:50:53.596280Z",
+      "earliest_at": "2026-06-13T14:56:57.226827Z",
+      "latest_at": "2026-06-13T14:56:57.226827Z",
       "primary_item": {
         "id": "hotelitem_c29bfaea0c76",
         "title": "2026年非遗消夏购物月启动",
@@ -705,7 +313,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-06-13T14:50:53.596280Z"
+          "published_at": "2026-06-13T14:56:57.226827Z"
         }
       ],
       "source_count": 1,
@@ -720,7 +328,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-06-13T14:50:53.596280Z"
+          "published_at": "2026-06-13T14:56:57.226827Z"
         }
       ],
       "item_count": 1,
@@ -739,8 +347,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-06-13T14:50:53.596280Z",
-      "latest_at": "2026-06-13T14:50:53.596280Z",
+      "earliest_at": "2026-06-13T14:56:57.226827Z",
+      "latest_at": "2026-06-13T14:56:57.226827Z",
       "primary_item": {
         "id": "hotelitem_a32260c99510",
         "title": "2026文化强国建设高峰论坛在深圳开幕 李书磊...",
@@ -764,7 +372,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-06-13T14:50:53.596280Z"
+          "published_at": "2026-06-13T14:56:57.226827Z"
         }
       ],
       "source_count": 1,
@@ -779,7 +387,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-06-13T14:50:53.596280Z"
+          "published_at": "2026-06-13T14:56:57.226827Z"
         }
       ],
       "item_count": 1,
@@ -798,8 +406,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-06-13T14:50:53.596280Z",
-      "latest_at": "2026-06-13T14:50:53.596280Z",
+      "earliest_at": "2026-06-13T14:56:57.226827Z",
+      "latest_at": "2026-06-13T14:56:57.226827Z",
       "primary_item": {
         "id": "hotelitem_d3d995a5a1ea",
         "title": "“5·19中国旅游日”分会场活动丰富多彩",
@@ -823,7 +431,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-06-13T14:50:53.596280Z"
+          "published_at": "2026-06-13T14:56:57.226827Z"
         }
       ],
       "source_count": 1,
@@ -838,7 +446,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-06-13T14:50:53.596280Z"
+          "published_at": "2026-06-13T14:56:57.226827Z"
         }
       ],
       "item_count": 1,
@@ -857,8 +465,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-06-13T14:50:53.596280Z",
-      "latest_at": "2026-06-13T14:50:53.596280Z",
+      "earliest_at": "2026-06-13T14:56:57.226827Z",
+      "latest_at": "2026-06-13T14:56:57.226827Z",
       "primary_item": {
         "id": "hotelitem_1fa63dbf7882",
         "title": "“中欧旅游对话”在上海举行",
@@ -882,7 +490,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-06-13T14:50:53.596280Z"
+          "published_at": "2026-06-13T14:56:57.226827Z"
         }
       ],
       "source_count": 1,
@@ -897,7 +505,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-06-13T14:50:53.596280Z"
+          "published_at": "2026-06-13T14:56:57.226827Z"
         }
       ],
       "item_count": 1,
@@ -916,8 +524,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-06-13T14:50:53.596280Z",
-      "latest_at": "2026-06-13T14:50:53.596280Z",
+      "earliest_at": "2026-06-13T14:56:57.226827Z",
+      "latest_at": "2026-06-13T14:56:57.226827Z",
       "primary_item": {
         "id": "hotelitem_36657b8a65c5",
         "title": "“大地情深”——全国优秀群众文艺作品示范...",
@@ -941,7 +549,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-06-13T14:50:53.596280Z"
+          "published_at": "2026-06-13T14:56:57.226827Z"
         }
       ],
       "source_count": 1,
@@ -956,7 +564,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-06-13T14:50:53.596280Z"
+          "published_at": "2026-06-13T14:56:57.226827Z"
         }
       ],
       "item_count": 1,
@@ -975,8 +583,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-06-13T14:50:53.596280Z",
-      "latest_at": "2026-06-13T14:50:53.596280Z",
+      "earliest_at": "2026-06-13T14:56:57.226827Z",
+      "latest_at": "2026-06-13T14:56:57.226827Z",
       "primary_item": {
         "id": "hotelitem_69b157ed20d9",
         "title": "“跟着品牌去旅行”打开新窗口",
@@ -1000,7 +608,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-06-13T14:50:53.596280Z"
+          "published_at": "2026-06-13T14:56:57.226827Z"
         }
       ],
       "source_count": 1,
@@ -1015,7 +623,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-06-13T14:50:53.596280Z"
+          "published_at": "2026-06-13T14:56:57.226827Z"
         }
       ],
       "item_count": 1,
@@ -1034,132 +642,14 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-06-13T14:50:53.596280Z",
-      "latest_at": "2026-06-13T14:50:53.596280Z",
+      "earliest_at": "2026-06-13T14:56:57.226827Z",
+      "latest_at": "2026-06-13T14:56:57.226827Z",
       "primary_item": {
         "id": "hotelitem_314d98473a3c",
         "title": "“非遗，让生活更美好！”",
         "url": "https://www.mct.gov.cn/whzx/bnsj/fwzwhycs/202605/t20260527_965993.html",
         "source": "文化和旅游部",
         "source_name": "文化和旅游部"
-      }
-    },
-    {
-      "story_id": "story_23558e505e54",
-      "title": "《中国入境旅游发展年度报告2025》出版发行",
-      "url": "https://www.ctaweb.org.cn/gongzuodongtai/10505.html",
-      "primary_url": "https://www.ctaweb.org.cn/gongzuodongtai/10505.html",
-      "source": "中国旅游研究院",
-      "source_name": "中国旅游研究院",
-      "sources": [
-        {
-          "id": "hotelitem_23558e505e54",
-          "title": "《中国入境旅游发展年度报告2025》出版发行",
-          "url": "https://www.ctaweb.org.cn/gongzuodongtai/10505.html",
-          "source": "中国旅游研究院",
-          "source_name": "中国旅游研究院",
-          "site_id": "cta",
-          "published_at": "2026-06-13T14:50:53.596280Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "中国旅游研究院"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_23558e505e54",
-          "title": "《中国入境旅游发展年度报告2025》出版发行",
-          "url": "https://www.ctaweb.org.cn/gongzuodongtai/10505.html",
-          "source": "中国旅游研究院",
-          "source_name": "中国旅游研究院",
-          "site_id": "cta",
-          "published_at": "2026-06-13T14:50:53.596280Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.898,
-      "importance": 0.6,
-      "importance_score": 0.898,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-13T14:50:53.596280Z",
-      "latest_at": "2026-06-13T14:50:53.596280Z",
-      "primary_item": {
-        "id": "hotelitem_23558e505e54",
-        "title": "《中国入境旅游发展年度报告2025》出版发行",
-        "url": "https://www.ctaweb.org.cn/gongzuodongtai/10505.html",
-        "source": "中国旅游研究院",
-        "source_name": "中国旅游研究院"
-      }
-    },
-    {
-      "story_id": "story_fa007239f6b8",
-      "title": "《中国国内旅游发展年度报告2025》出版发行",
-      "url": "https://www.ctaweb.org.cn/gongzuodongtai/10504.html",
-      "primary_url": "https://www.ctaweb.org.cn/gongzuodongtai/10504.html",
-      "source": "中国旅游研究院",
-      "source_name": "中国旅游研究院",
-      "sources": [
-        {
-          "id": "hotelitem_fa007239f6b8",
-          "title": "《中国国内旅游发展年度报告2025》出版发行",
-          "url": "https://www.ctaweb.org.cn/gongzuodongtai/10504.html",
-          "source": "中国旅游研究院",
-          "source_name": "中国旅游研究院",
-          "site_id": "cta",
-          "published_at": "2026-06-13T14:50:53.596280Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "中国旅游研究院"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_fa007239f6b8",
-          "title": "《中国国内旅游发展年度报告2025》出版发行",
-          "url": "https://www.ctaweb.org.cn/gongzuodongtai/10504.html",
-          "source": "中国旅游研究院",
-          "source_name": "中国旅游研究院",
-          "site_id": "cta",
-          "published_at": "2026-06-13T14:50:53.596280Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.898,
-      "importance": 0.6,
-      "importance_score": 0.898,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-13T14:50:53.596280Z",
-      "latest_at": "2026-06-13T14:50:53.596280Z",
-      "primary_item": {
-        "id": "hotelitem_fa007239f6b8",
-        "title": "《中国国内旅游发展年度报告2025》出版发行",
-        "url": "https://www.ctaweb.org.cn/gongzuodongtai/10504.html",
-        "source": "中国旅游研究院",
-        "source_name": "中国旅游研究院"
       }
     },
     {
@@ -1177,7 +667,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-06-13T14:50:53.596280Z"
+          "published_at": "2026-06-13T14:56:57.226827Z"
         }
       ],
       "source_count": 1,
@@ -1192,7 +682,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-06-13T14:50:53.596280Z"
+          "published_at": "2026-06-13T14:56:57.226827Z"
         }
       ],
       "item_count": 1,
@@ -1211,250 +701,14 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-06-13T14:50:53.596280Z",
-      "latest_at": "2026-06-13T14:50:53.596280Z",
+      "earliest_at": "2026-06-13T14:56:57.226827Z",
+      "latest_at": "2026-06-13T14:56:57.226827Z",
       "primary_item": {
         "id": "hotelitem_ea1d88dae9c7",
         "title": "七部门：弘扬工业文化 保护工业遗产 发展工...",
         "url": "https://www.mct.gov.cn/whzx/whyw/202605/t20260529_966040.htm",
         "source": "文化和旅游部",
         "source_name": "文化和旅游部"
-      }
-    },
-    {
-      "story_id": "story_69229319ddc4",
-      "title": "全国政协召开远程协商会 围绕“文旅融合促进各民族交往交流",
-      "url": "https://www.ctaweb.org.cn/gongzuodongtai/10503.html",
-      "primary_url": "https://www.ctaweb.org.cn/gongzuodongtai/10503.html",
-      "source": "中国旅游研究院",
-      "source_name": "中国旅游研究院",
-      "sources": [
-        {
-          "id": "hotelitem_69229319ddc4",
-          "title": "全国政协召开远程协商会 围绕“文旅融合促进各民族交往交流",
-          "url": "https://www.ctaweb.org.cn/gongzuodongtai/10503.html",
-          "source": "中国旅游研究院",
-          "source_name": "中国旅游研究院",
-          "site_id": "cta",
-          "published_at": "2026-06-13T14:50:53.596280Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "中国旅游研究院"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_69229319ddc4",
-          "title": "全国政协召开远程协商会 围绕“文旅融合促进各民族交往交流",
-          "url": "https://www.ctaweb.org.cn/gongzuodongtai/10503.html",
-          "source": "中国旅游研究院",
-          "source_name": "中国旅游研究院",
-          "site_id": "cta",
-          "published_at": "2026-06-13T14:50:53.596280Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.898,
-      "importance": 0.6,
-      "importance_score": 0.898,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-13T14:50:53.596280Z",
-      "latest_at": "2026-06-13T14:50:53.596280Z",
-      "primary_item": {
-        "id": "hotelitem_69229319ddc4",
-        "title": "全国政协召开远程协商会 围绕“文旅融合促进各民族交往交流",
-        "url": "https://www.ctaweb.org.cn/gongzuodongtai/10503.html",
-        "source": "中国旅游研究院",
-        "source_name": "中国旅游研究院"
-      }
-    },
-    {
-      "story_id": "story_f7e42ecf080c",
-      "title": "关于2025年文化和旅游宏观决策课题结项鉴定结果的通知",
-      "url": "https://www.ctaweb.org.cn/tongzhigonggao/10333.html",
-      "primary_url": "https://www.ctaweb.org.cn/tongzhigonggao/10333.html",
-      "source": "中国旅游研究院",
-      "source_name": "中国旅游研究院",
-      "sources": [
-        {
-          "id": "hotelitem_f7e42ecf080c",
-          "title": "关于2025年文化和旅游宏观决策课题结项鉴定结果的通知",
-          "url": "https://www.ctaweb.org.cn/tongzhigonggao/10333.html",
-          "source": "中国旅游研究院",
-          "source_name": "中国旅游研究院",
-          "site_id": "cta",
-          "published_at": "2026-06-13T14:50:53.596280Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "中国旅游研究院"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_f7e42ecf080c",
-          "title": "关于2025年文化和旅游宏观决策课题结项鉴定结果的通知",
-          "url": "https://www.ctaweb.org.cn/tongzhigonggao/10333.html",
-          "source": "中国旅游研究院",
-          "source_name": "中国旅游研究院",
-          "site_id": "cta",
-          "published_at": "2026-06-13T14:50:53.596280Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.898,
-      "importance": 0.6,
-      "importance_score": 0.898,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-13T14:50:53.596280Z",
-      "latest_at": "2026-06-13T14:50:53.596280Z",
-      "primary_item": {
-        "id": "hotelitem_f7e42ecf080c",
-        "title": "关于2025年文化和旅游宏观决策课题结项鉴定结果的通知",
-        "url": "https://www.ctaweb.org.cn/tongzhigonggao/10333.html",
-        "source": "中国旅游研究院",
-        "source_name": "中国旅游研究院"
-      }
-    },
-    {
-      "story_id": "story_549df3f8fb32",
-      "title": "关于公布2025年文化和旅游优秀研究成果名单的通知",
-      "url": "https://www.ctaweb.org.cn/tongzhigonggao/10349.html",
-      "primary_url": "https://www.ctaweb.org.cn/tongzhigonggao/10349.html",
-      "source": "中国旅游研究院",
-      "source_name": "中国旅游研究院",
-      "sources": [
-        {
-          "id": "hotelitem_549df3f8fb32",
-          "title": "关于公布2025年文化和旅游优秀研究成果名单的通知",
-          "url": "https://www.ctaweb.org.cn/tongzhigonggao/10349.html",
-          "source": "中国旅游研究院",
-          "source_name": "中国旅游研究院",
-          "site_id": "cta",
-          "published_at": "2026-06-13T14:50:53.596280Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "中国旅游研究院"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_549df3f8fb32",
-          "title": "关于公布2025年文化和旅游优秀研究成果名单的通知",
-          "url": "https://www.ctaweb.org.cn/tongzhigonggao/10349.html",
-          "source": "中国旅游研究院",
-          "source_name": "中国旅游研究院",
-          "site_id": "cta",
-          "published_at": "2026-06-13T14:50:53.596280Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.898,
-      "importance": 0.6,
-      "importance_score": 0.898,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-13T14:50:53.596280Z",
-      "latest_at": "2026-06-13T14:50:53.596280Z",
-      "primary_item": {
-        "id": "hotelitem_549df3f8fb32",
-        "title": "关于公布2025年文化和旅游优秀研究成果名单的通知",
-        "url": "https://www.ctaweb.org.cn/tongzhigonggao/10349.html",
-        "source": "中国旅游研究院",
-        "source_name": "中国旅游研究院"
-      }
-    },
-    {
-      "story_id": "story_bb93bfce5ff8",
-      "title": "关于开展旅游数据与旅游统计典型案例征集的通知",
-      "url": "https://www.ctaweb.org.cn/tongzhigonggao/10262.html",
-      "primary_url": "https://www.ctaweb.org.cn/tongzhigonggao/10262.html",
-      "source": "中国旅游研究院",
-      "source_name": "中国旅游研究院",
-      "sources": [
-        {
-          "id": "hotelitem_bb93bfce5ff8",
-          "title": "关于开展旅游数据与旅游统计典型案例征集的通知",
-          "url": "https://www.ctaweb.org.cn/tongzhigonggao/10262.html",
-          "source": "中国旅游研究院",
-          "source_name": "中国旅游研究院",
-          "site_id": "cta",
-          "published_at": "2026-06-13T14:50:53.596280Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "中国旅游研究院"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_bb93bfce5ff8",
-          "title": "关于开展旅游数据与旅游统计典型案例征集的通知",
-          "url": "https://www.ctaweb.org.cn/tongzhigonggao/10262.html",
-          "source": "中国旅游研究院",
-          "source_name": "中国旅游研究院",
-          "site_id": "cta",
-          "published_at": "2026-06-13T14:50:53.596280Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.898,
-      "importance": 0.6,
-      "importance_score": 0.898,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-13T14:50:53.596280Z",
-      "latest_at": "2026-06-13T14:50:53.596280Z",
-      "primary_item": {
-        "id": "hotelitem_bb93bfce5ff8",
-        "title": "关于开展旅游数据与旅游统计典型案例征集的通知",
-        "url": "https://www.ctaweb.org.cn/tongzhigonggao/10262.html",
-        "source": "中国旅游研究院",
-        "source_name": "中国旅游研究院"
       }
     },
     {
@@ -1472,7 +726,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-06-13T14:50:53.596280Z"
+          "published_at": "2026-06-13T14:56:57.226827Z"
         }
       ],
       "source_count": 1,
@@ -1487,7 +741,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-06-13T14:50:53.596280Z"
+          "published_at": "2026-06-13T14:56:57.226827Z"
         }
       ],
       "item_count": 1,
@@ -1506,8 +760,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-06-13T14:50:53.596280Z",
-      "latest_at": "2026-06-13T14:50:53.596280Z",
+      "earliest_at": "2026-06-13T14:56:57.226827Z",
+      "latest_at": "2026-06-13T14:56:57.226827Z",
       "primary_item": {
         "id": "hotelitem_5a6033aa30c2",
         "title": "国际标准化组织旅游及相关服务技术委员会...",
@@ -1531,7 +785,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-06-13T14:50:53.596280Z"
+          "published_at": "2026-06-13T14:56:57.226827Z"
         }
       ],
       "source_count": 1,
@@ -1546,7 +800,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-06-13T14:50:53.596280Z"
+          "published_at": "2026-06-13T14:56:57.226827Z"
         }
       ],
       "item_count": 1,
@@ -1565,8 +819,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-06-13T14:50:53.596280Z",
-      "latest_at": "2026-06-13T14:50:53.596280Z",
+      "earliest_at": "2026-06-13T14:56:57.226827Z",
+      "latest_at": "2026-06-13T14:56:57.226827Z",
       "primary_item": {
         "id": "hotelitem_aafbd26fe946",
         "title": "文化和旅游部端午节假期和汛期、暑期出游提示",
@@ -1590,7 +844,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-06-13T14:50:53.596280Z"
+          "published_at": "2026-06-13T14:56:57.226827Z"
         }
       ],
       "source_count": 1,
@@ -1605,7 +859,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-06-13T14:50:53.596280Z"
+          "published_at": "2026-06-13T14:56:57.226827Z"
         }
       ],
       "item_count": 1,
@@ -1624,8 +878,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-06-13T14:50:53.596280Z",
-      "latest_at": "2026-06-13T14:50:53.596280Z",
+      "earliest_at": "2026-06-13T14:56:57.226827Z",
+      "latest_at": "2026-06-13T14:56:57.226827Z",
       "primary_item": {
         "id": "hotelitem_c02627556d85",
         "title": "文旅品牌授权供需对接主题活动举办",
@@ -1649,7 +903,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-06-13T14:50:53.596280Z"
+          "published_at": "2026-06-13T14:56:57.226827Z"
         }
       ],
       "source_count": 1,
@@ -1664,7 +918,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-06-13T14:50:53.596280Z"
+          "published_at": "2026-06-13T14:56:57.226827Z"
         }
       ],
       "item_count": 1,
@@ -1683,73 +937,14 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-06-13T14:50:53.596280Z",
-      "latest_at": "2026-06-13T14:50:53.596280Z",
+      "earliest_at": "2026-06-13T14:56:57.226827Z",
+      "latest_at": "2026-06-13T14:56:57.226827Z",
       "primary_item": {
         "id": "hotelitem_80947e266b63",
         "title": "旅游市场强制消费问题典型案例（2026年第三批）",
         "url": "https://www.mct.gov.cn/whzx/whyw/202605/t20260529_966034.htm",
         "source": "文化和旅游部",
         "source_name": "文化和旅游部"
-      }
-    },
-    {
-      "story_id": "story_c62d2b034e33",
-      "title": "涉冀入境旅游线路创新案例征集公告",
-      "url": "https://www.ctaweb.org.cn/tongzhigonggao/10243.html",
-      "primary_url": "https://www.ctaweb.org.cn/tongzhigonggao/10243.html",
-      "source": "中国旅游研究院",
-      "source_name": "中国旅游研究院",
-      "sources": [
-        {
-          "id": "hotelitem_c62d2b034e33",
-          "title": "涉冀入境旅游线路创新案例征集公告",
-          "url": "https://www.ctaweb.org.cn/tongzhigonggao/10243.html",
-          "source": "中国旅游研究院",
-          "source_name": "中国旅游研究院",
-          "site_id": "cta",
-          "published_at": "2026-06-13T14:50:53.596280Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "中国旅游研究院"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_c62d2b034e33",
-          "title": "涉冀入境旅游线路创新案例征集公告",
-          "url": "https://www.ctaweb.org.cn/tongzhigonggao/10243.html",
-          "source": "中国旅游研究院",
-          "source_name": "中国旅游研究院",
-          "site_id": "cta",
-          "published_at": "2026-06-13T14:50:53.596280Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.898,
-      "importance": 0.6,
-      "importance_score": 0.898,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-13T14:50:53.596280Z",
-      "latest_at": "2026-06-13T14:50:53.596280Z",
-      "primary_item": {
-        "id": "hotelitem_c62d2b034e33",
-        "title": "涉冀入境旅游线路创新案例征集公告",
-        "url": "https://www.ctaweb.org.cn/tongzhigonggao/10243.html",
-        "source": "中国旅游研究院",
-        "source_name": "中国旅游研究院"
       }
     },
     {
@@ -1767,7 +962,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-06-13T14:50:53.596280Z"
+          "published_at": "2026-06-13T14:56:57.226827Z"
         }
       ],
       "source_count": 1,
@@ -1782,7 +977,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-06-13T14:50:53.596280Z"
+          "published_at": "2026-06-13T14:56:57.226827Z"
         }
       ],
       "item_count": 1,
@@ -1801,14 +996,818 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-06-13T14:50:53.596280Z",
-      "latest_at": "2026-06-13T14:50:53.596280Z",
+      "earliest_at": "2026-06-13T14:56:57.226827Z",
+      "latest_at": "2026-06-13T14:56:57.226827Z",
       "primary_item": {
         "id": "hotelitem_9914d169e2d1",
         "title": "第22届文博会创新构建文旅消费范式",
         "url": "https://www.mct.gov.cn/whzx/bnsj/whcys/202605/t20260514_965820.html",
         "source": "文化和旅游部",
         "source_name": "文化和旅游部"
+      }
+    },
+    {
+      "story_id": "story_b72350b40931",
+      "title": "第九届全国画院美术作品展览江西巡展开启",
+      "url": "https://www.mct.gov.cn/whzx/bnsj/yss/202605/t20260518_965858.html",
+      "primary_url": "https://www.mct.gov.cn/whzx/bnsj/yss/202605/t20260518_965858.html",
+      "source": "文化和旅游部",
+      "source_name": "文化和旅游部",
+      "sources": [
+        {
+          "id": "hotelitem_b72350b40931",
+          "title": "第九届全国画院美术作品展览江西巡展开启",
+          "url": "https://www.mct.gov.cn/whzx/bnsj/yss/202605/t20260518_965858.html",
+          "source": "文化和旅游部",
+          "source_name": "文化和旅游部",
+          "site_id": "mct",
+          "published_at": "2026-06-13T14:56:57.226827Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "文化和旅游部"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_b72350b40931",
+          "title": "第九届全国画院美术作品展览江西巡展开启",
+          "url": "https://www.mct.gov.cn/whzx/bnsj/yss/202605/t20260518_965858.html",
+          "source": "文化和旅游部",
+          "source_name": "文化和旅游部",
+          "site_id": "mct",
+          "published_at": "2026-06-13T14:56:57.226827Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.898,
+      "importance": 0.6,
+      "importance_score": 0.898,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-06-13T14:56:57.226827Z",
+      "latest_at": "2026-06-13T14:56:57.226827Z",
+      "primary_item": {
+        "id": "hotelitem_b72350b40931",
+        "title": "第九届全国画院美术作品展览江西巡展开启",
+        "url": "https://www.mct.gov.cn/whzx/bnsj/yss/202605/t20260518_965858.html",
+        "source": "文化和旅游部",
+        "source_name": "文化和旅游部"
+      }
+    },
+    {
+      "story_id": "story_2dd24a383598",
+      "title": "第二届中国新疆民间艺术季在新疆乌鲁木齐启动",
+      "url": "https://www.mct.gov.cn/whzx/whyw/202605/t20260522_965928.htm",
+      "primary_url": "https://www.mct.gov.cn/whzx/whyw/202605/t20260522_965928.htm",
+      "source": "文化和旅游部",
+      "source_name": "文化和旅游部",
+      "sources": [
+        {
+          "id": "hotelitem_2dd24a383598",
+          "title": "第二届中国新疆民间艺术季在新疆乌鲁木齐启动",
+          "url": "https://www.mct.gov.cn/whzx/whyw/202605/t20260522_965928.htm",
+          "source": "文化和旅游部",
+          "source_name": "文化和旅游部",
+          "site_id": "mct",
+          "published_at": "2026-06-13T14:56:57.226827Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "文化和旅游部"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_2dd24a383598",
+          "title": "第二届中国新疆民间艺术季在新疆乌鲁木齐启动",
+          "url": "https://www.mct.gov.cn/whzx/whyw/202605/t20260522_965928.htm",
+          "source": "文化和旅游部",
+          "source_name": "文化和旅游部",
+          "site_id": "mct",
+          "published_at": "2026-06-13T14:56:57.226827Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.898,
+      "importance": 0.6,
+      "importance_score": 0.898,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-06-13T14:56:57.226827Z",
+      "latest_at": "2026-06-13T14:56:57.226827Z",
+      "primary_item": {
+        "id": "hotelitem_2dd24a383598",
+        "title": "第二届中国新疆民间艺术季在新疆乌鲁木齐启动",
+        "url": "https://www.mct.gov.cn/whzx/whyw/202605/t20260522_965928.htm",
+        "source": "文化和旅游部",
+        "source_name": "文化和旅游部"
+      }
+    },
+    {
+      "story_id": "story_c7c15b7680c9",
+      "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
+      "url": "https://www.chinahotel.org.cn/articles/17408",
+      "primary_url": "https://www.chinahotel.org.cn/articles/17408",
+      "source": "中国饭店协会",
+      "source_name": "中国饭店协会",
+      "sources": [
+        {
+          "id": "hotelitem_d4370964909c",
+          "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
+          "url": "https://www.chinahotel.org.cn/articles/17408",
+          "source": "中国饭店协会",
+          "source_name": "中国饭店协会",
+          "site_id": "chinahotel",
+          "published_at": "2026-06-13T14:56:57.226827Z"
+        },
+        {
+          "id": "hotelitem_c7c15b7680c9",
+          "title": "绿色饭店 | 2026年第一批国家标准绿色饭店名单公布 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007) 在全国组织开展国家标准绿色饭店的评定工作。现公布2026年第一批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
+          "url": "https://www.chinahotel.org.cn/articles/17689",
+          "source": "中国饭店协会",
+          "source_name": "中国饭店协会",
+          "site_id": "chinahotel",
+          "published_at": "2026-06-13T14:56:57.226827Z"
+        },
+        {
+          "id": "hotelitem_6d8fa145e8af",
+          "title": "绿色饭店｜2025年第三批国家标准绿色饭店公布 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第三批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
+          "url": "https://www.chinahotel.org.cn/articles/17256",
+          "source": "中国饭店协会",
+          "source_name": "中国饭店协会",
+          "site_id": "chinahotel",
+          "published_at": "2026-06-13T14:56:57.226827Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "中国饭店协会"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_d4370964909c",
+          "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
+          "url": "https://www.chinahotel.org.cn/articles/17408",
+          "source": "中国饭店协会",
+          "source_name": "中国饭店协会",
+          "site_id": "chinahotel",
+          "published_at": "2026-06-13T14:56:57.226827Z"
+        },
+        {
+          "id": "hotelitem_c7c15b7680c9",
+          "title": "绿色饭店 | 2026年第一批国家标准绿色饭店名单公布 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007) 在全国组织开展国家标准绿色饭店的评定工作。现公布2026年第一批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
+          "url": "https://www.chinahotel.org.cn/articles/17689",
+          "source": "中国饭店协会",
+          "source_name": "中国饭店协会",
+          "site_id": "chinahotel",
+          "published_at": "2026-06-13T14:56:57.226827Z"
+        },
+        {
+          "id": "hotelitem_6d8fa145e8af",
+          "title": "绿色饭店｜2025年第三批国家标准绿色饭店公布 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第三批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
+          "url": "https://www.chinahotel.org.cn/articles/17256",
+          "source": "中国饭店协会",
+          "source_name": "中国饭店协会",
+          "site_id": "chinahotel",
+          "published_at": "2026-06-13T14:56:57.226827Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.79,
+      "importance": 0.65,
+      "importance_score": 0.79,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-06-13T14:56:57.226827Z",
+      "latest_at": "2026-06-13T14:56:57.226827Z",
+      "primary_item": {
+        "id": "hotelitem_d4370964909c",
+        "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
+        "url": "https://www.chinahotel.org.cn/articles/17408",
+        "source": "中国饭店协会",
+        "source_name": "中国饭店协会"
+      }
+    },
+    {
+      "story_id": "story_18aa200789fd",
+      "title": "Highgate Takes Over Lotte’s New York Palace — How it Feeds the Next Deal",
+      "url": "https://skift.com/2026/06/12/highgate-takes-over-lottes-new-york-palace-how-it-feeds-the-next-deal/",
+      "primary_url": "https://skift.com/2026/06/12/highgate-takes-over-lottes-new-york-palace-how-it-feeds-the-next-deal/",
+      "source": "Skift Hospitality",
+      "source_name": "Skift Hospitality",
+      "sources": [
+        {
+          "id": "hotelitem_18aa200789fd",
+          "title": "Highgate Takes Over Lotte’s New York Palace — How it Feeds the Next Deal",
+          "url": "https://skift.com/2026/06/12/highgate-takes-over-lottes-new-york-palace-how-it-feeds-the-next-deal/",
+          "source": "Skift Hospitality",
+          "source_name": "Skift Hospitality",
+          "site_id": "skift",
+          "published_at": "2026-06-12T16:10:13Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Skift Hospitality"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_18aa200789fd",
+          "title": "Highgate Takes Over Lotte’s New York Palace — How it Feeds the Next Deal",
+          "url": "https://skift.com/2026/06/12/highgate-takes-over-lottes-new-york-palace-how-it-feeds-the-next-deal/",
+          "source": "Skift Hospitality",
+          "source_name": "Skift Hospitality",
+          "site_id": "skift",
+          "published_at": "2026-06-12T16:10:13Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7539,
+      "importance": 0.5958,
+      "importance_score": 0.7539,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9789,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-06-12T16:10:13Z",
+      "latest_at": "2026-06-12T16:10:13Z",
+      "primary_item": {
+        "id": "hotelitem_18aa200789fd",
+        "title": "Highgate Takes Over Lotte’s New York Palace — How it Feeds the Next Deal",
+        "url": "https://skift.com/2026/06/12/highgate-takes-over-lottes-new-york-palace-how-it-feeds-the-next-deal/",
+        "source": "Skift Hospitality",
+        "source_name": "Skift Hospitality"
+      }
+    },
+    {
+      "story_id": "story_3d0bd84b3bcb",
+      "title": "Hotels Spent $100 Million Fighting OTAs. Did It Actually Work?",
+      "url": "https://skift.com/2026/06/12/hotels-tried-to-cut-out-expedia-heres-what-happened/",
+      "primary_url": "https://skift.com/2026/06/12/hotels-tried-to-cut-out-expedia-heres-what-happened/",
+      "source": "Skift Hospitality",
+      "source_name": "Skift Hospitality",
+      "sources": [
+        {
+          "id": "hotelitem_3d0bd84b3bcb",
+          "title": "Hotels Spent $100 Million Fighting OTAs. Did It Actually Work?",
+          "url": "https://skift.com/2026/06/12/hotels-tried-to-cut-out-expedia-heres-what-happened/",
+          "source": "Skift Hospitality",
+          "source_name": "Skift Hospitality",
+          "site_id": "skift",
+          "published_at": "2026-06-12T08:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Skift Hospitality"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_3d0bd84b3bcb",
+          "title": "Hotels Spent $100 Million Fighting OTAs. Did It Actually Work?",
+          "url": "https://skift.com/2026/06/12/hotels-tried-to-cut-out-expedia-heres-what-happened/",
+          "source": "Skift Hospitality",
+          "source_name": "Skift Hospitality",
+          "site_id": "skift",
+          "published_at": "2026-06-12T08:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7536,
+      "importance": 0.5943,
+      "importance_score": 0.7536,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9713,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-06-12T08:00:00Z",
+      "latest_at": "2026-06-12T08:00:00Z",
+      "primary_item": {
+        "id": "hotelitem_3d0bd84b3bcb",
+        "title": "Hotels Spent $100 Million Fighting OTAs. Did It Actually Work?",
+        "url": "https://skift.com/2026/06/12/hotels-tried-to-cut-out-expedia-heres-what-happened/",
+        "source": "Skift Hospitality",
+        "source_name": "Skift Hospitality"
+      }
+    },
+    {
+      "story_id": "story_9f388464e4d5",
+      "title": "Kerten CEO Says First India Property by Year-End, Pipeline Likely to Exceed 1,000-Key Target: Exclusive",
+      "url": "https://skift.com/2026/06/12/kerten-ceo-says-first-india-property-by-year-end-pipeline-likely-to-exceed-1000-key-target-exclusive/",
+      "primary_url": "https://skift.com/2026/06/12/kerten-ceo-says-first-india-property-by-year-end-pipeline-likely-to-exceed-1000-key-target-exclusive/",
+      "source": "Skift Hospitality",
+      "source_name": "Skift Hospitality",
+      "sources": [
+        {
+          "id": "hotelitem_9f388464e4d5",
+          "title": "Kerten CEO Says First India Property by Year-End, Pipeline Likely to Exceed 1,000-Key Target: Exclusive",
+          "url": "https://skift.com/2026/06/12/kerten-ceo-says-first-india-property-by-year-end-pipeline-likely-to-exceed-1000-key-target-exclusive/",
+          "source": "Skift Hospitality",
+          "source_name": "Skift Hospitality",
+          "site_id": "skift",
+          "published_at": "2026-06-12T04:58:58Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Skift Hospitality"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_9f388464e4d5",
+          "title": "Kerten CEO Says First India Property by Year-End, Pipeline Likely to Exceed 1,000-Key Target: Exclusive",
+          "url": "https://skift.com/2026/06/12/kerten-ceo-says-first-india-property-by-year-end-pipeline-likely-to-exceed-1000-key-target-exclusive/",
+          "source": "Skift Hospitality",
+          "source_name": "Skift Hospitality",
+          "site_id": "skift",
+          "published_at": "2026-06-12T04:58:58Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7534,
+      "importance": 0.5937,
+      "importance_score": 0.7534,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9685,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-06-12T04:58:58Z",
+      "latest_at": "2026-06-12T04:58:58Z",
+      "primary_item": {
+        "id": "hotelitem_9f388464e4d5",
+        "title": "Kerten CEO Says First India Property by Year-End, Pipeline Likely to Exceed 1,000-Key Target: Exclusive",
+        "url": "https://skift.com/2026/06/12/kerten-ceo-says-first-india-property-by-year-end-pipeline-likely-to-exceed-1000-key-target-exclusive/",
+        "source": "Skift Hospitality",
+        "source_name": "Skift Hospitality"
+      }
+    },
+    {
+      "story_id": "story_fc0da2626c42",
+      "title": "Aven’s New Booking Engine Targets Hotel Direct Booking Conversions",
+      "url": "https://skift.com/2026/06/11/aven-hospitality-hotel-direct-booking-ai/",
+      "primary_url": "https://skift.com/2026/06/11/aven-hospitality-hotel-direct-booking-ai/",
+      "source": "Skift Hospitality",
+      "source_name": "Skift Hospitality",
+      "sources": [
+        {
+          "id": "hotelitem_fc0da2626c42",
+          "title": "Aven’s New Booking Engine Targets Hotel Direct Booking Conversions",
+          "url": "https://skift.com/2026/06/11/aven-hospitality-hotel-direct-booking-ai/",
+          "source": "Skift Hospitality",
+          "source_name": "Skift Hospitality",
+          "site_id": "skift",
+          "published_at": "2026-06-11T21:51:40Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Skift Hospitality"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_fc0da2626c42",
+          "title": "Aven’s New Booking Engine Targets Hotel Direct Booking Conversions",
+          "url": "https://skift.com/2026/06/11/aven-hospitality-hotel-direct-booking-ai/",
+          "source": "Skift Hospitality",
+          "source_name": "Skift Hospitality",
+          "site_id": "skift",
+          "published_at": "2026-06-11T21:51:40Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7531,
+      "importance": 0.5924,
+      "importance_score": 0.7531,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.962,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-06-11T21:51:40Z",
+      "latest_at": "2026-06-11T21:51:40Z",
+      "primary_item": {
+        "id": "hotelitem_fc0da2626c42",
+        "title": "Aven’s New Booking Engine Targets Hotel Direct Booking Conversions",
+        "url": "https://skift.com/2026/06/11/aven-hospitality-hotel-direct-booking-ai/",
+        "source": "Skift Hospitality",
+        "source_name": "Skift Hospitality"
+      }
+    },
+    {
+      "story_id": "story_9276d1289d4c",
+      "title": "The Most Disciplined New Amenity in Hospitality Isn’t a Spa. It’s a Sandbag",
+      "url": "https://skift.com/2026/06/11/the-most-disciplined-new-amenity-in-hospitality-isnt-a-spa-its-a-sandbag/",
+      "primary_url": "https://skift.com/2026/06/11/the-most-disciplined-new-amenity-in-hospitality-isnt-a-spa-its-a-sandbag/",
+      "source": "Skift Hospitality",
+      "source_name": "Skift Hospitality",
+      "sources": [
+        {
+          "id": "hotelitem_9276d1289d4c",
+          "title": "The Most Disciplined New Amenity in Hospitality Isn’t a Spa. It’s a Sandbag",
+          "url": "https://skift.com/2026/06/11/the-most-disciplined-new-amenity-in-hospitality-isnt-a-spa-its-a-sandbag/",
+          "source": "Skift Hospitality",
+          "source_name": "Skift Hospitality",
+          "site_id": "skift",
+          "published_at": "2026-06-11T16:30:01Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Skift Hospitality"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_9276d1289d4c",
+          "title": "The Most Disciplined New Amenity in Hospitality Isn’t a Spa. It’s a Sandbag",
+          "url": "https://skift.com/2026/06/11/the-most-disciplined-new-amenity-in-hospitality-isnt-a-spa-its-a-sandbag/",
+          "source": "Skift Hospitality",
+          "source_name": "Skift Hospitality",
+          "site_id": "skift",
+          "published_at": "2026-06-11T16:30:01Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7528,
+      "importance": 0.5914,
+      "importance_score": 0.7528,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.957,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-06-11T16:30:01Z",
+      "latest_at": "2026-06-11T16:30:01Z",
+      "primary_item": {
+        "id": "hotelitem_9276d1289d4c",
+        "title": "The Most Disciplined New Amenity in Hospitality Isn’t a Spa. It’s a Sandbag",
+        "url": "https://skift.com/2026/06/11/the-most-disciplined-new-amenity-in-hospitality-isnt-a-spa-its-a-sandbag/",
+        "source": "Skift Hospitality",
+        "source_name": "Skift Hospitality"
+      }
+    },
+    {
+      "story_id": "story_a00d8d56e10f",
+      "title": "Egypt Emerges as the Winner in the Middle East’s Travel Shake-Up",
+      "url": "https://skift.com/2026/06/11/egypt-emerges-as-the-winner-in-the-middle-easts-travel-shake-up/",
+      "primary_url": "https://skift.com/2026/06/11/egypt-emerges-as-the-winner-in-the-middle-easts-travel-shake-up/",
+      "source": "Skift Hospitality",
+      "source_name": "Skift Hospitality",
+      "sources": [
+        {
+          "id": "hotelitem_a00d8d56e10f",
+          "title": "Egypt Emerges as the Winner in the Middle East’s Travel Shake-Up",
+          "url": "https://skift.com/2026/06/11/egypt-emerges-as-the-winner-in-the-middle-easts-travel-shake-up/",
+          "source": "Skift Hospitality",
+          "source_name": "Skift Hospitality",
+          "site_id": "skift",
+          "published_at": "2026-06-11T12:49:57Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Skift Hospitality"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_a00d8d56e10f",
+          "title": "Egypt Emerges as the Winner in the Middle East’s Travel Shake-Up",
+          "url": "https://skift.com/2026/06/11/egypt-emerges-as-the-winner-in-the-middle-easts-travel-shake-up/",
+          "source": "Skift Hospitality",
+          "source_name": "Skift Hospitality",
+          "site_id": "skift",
+          "published_at": "2026-06-11T12:49:57Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7527,
+      "importance": 0.5907,
+      "importance_score": 0.7527,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9536,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-06-11T12:49:57Z",
+      "latest_at": "2026-06-11T12:49:57Z",
+      "primary_item": {
+        "id": "hotelitem_a00d8d56e10f",
+        "title": "Egypt Emerges as the Winner in the Middle East’s Travel Shake-Up",
+        "url": "https://skift.com/2026/06/11/egypt-emerges-as-the-winner-in-the-middle-easts-travel-shake-up/",
+        "source": "Skift Hospitality",
+        "source_name": "Skift Hospitality"
+      }
+    },
+    {
+      "story_id": "story_3ec8cb951326",
+      "title": "4 Bets Accor Is Making on AI and the Future of Hospitality",
+      "url": "https://skift.com/2026/06/11/accor-ai-hospitality-strategy/",
+      "primary_url": "https://skift.com/2026/06/11/accor-ai-hospitality-strategy/",
+      "source": "Skift Hospitality",
+      "source_name": "Skift Hospitality",
+      "sources": [
+        {
+          "id": "hotelitem_3ec8cb951326",
+          "title": "4 Bets Accor Is Making on AI and the Future of Hospitality",
+          "url": "https://skift.com/2026/06/11/accor-ai-hospitality-strategy/",
+          "source": "Skift Hospitality",
+          "source_name": "Skift Hospitality",
+          "site_id": "skift",
+          "published_at": "2026-06-11T13:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Skift Hospitality"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_3ec8cb951326",
+          "title": "4 Bets Accor Is Making on AI and the Future of Hospitality",
+          "url": "https://skift.com/2026/06/11/accor-ai-hospitality-strategy/",
+          "source": "Skift Hospitality",
+          "source_name": "Skift Hospitality",
+          "site_id": "skift",
+          "published_at": "2026-06-11T13:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7527,
+      "importance": 0.5908,
+      "importance_score": 0.7527,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9538,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-06-11T13:00:00Z",
+      "latest_at": "2026-06-11T13:00:00Z",
+      "primary_item": {
+        "id": "hotelitem_3ec8cb951326",
+        "title": "4 Bets Accor Is Making on AI and the Future of Hospitality",
+        "url": "https://skift.com/2026/06/11/accor-ai-hospitality-strategy/",
+        "source": "Skift Hospitality",
+        "source_name": "Skift Hospitality"
+      }
+    },
+    {
+      "story_id": "story_4cb881eca2f7",
+      "title": "Dubai Took a Hit — IHG Is Betting on Egypt, Saudi, and a Q4 Recovery",
+      "url": "https://skift.com/2026/06/10/dubai-took-a-hit-ihg-is-betting-on-egypt-saudi-and-a-q4-recovery/",
+      "primary_url": "https://skift.com/2026/06/10/dubai-took-a-hit-ihg-is-betting-on-egypt-saudi-and-a-q4-recovery/",
+      "source": "Skift Hospitality",
+      "source_name": "Skift Hospitality",
+      "sources": [
+        {
+          "id": "hotelitem_4cb881eca2f7",
+          "title": "Dubai Took a Hit — IHG Is Betting on Egypt, Saudi, and a Q4 Recovery",
+          "url": "https://skift.com/2026/06/10/dubai-took-a-hit-ihg-is-betting-on-egypt-saudi-and-a-q4-recovery/",
+          "source": "Skift Hospitality",
+          "source_name": "Skift Hospitality",
+          "site_id": "skift",
+          "published_at": "2026-06-10T12:46:30Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Skift Hospitality"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_4cb881eca2f7",
+          "title": "Dubai Took a Hit — IHG Is Betting on Egypt, Saudi, and a Q4 Recovery",
+          "url": "https://skift.com/2026/06/10/dubai-took-a-hit-ihg-is-betting-on-egypt-saudi-and-a-q4-recovery/",
+          "source": "Skift Hospitality",
+          "source_name": "Skift Hospitality",
+          "site_id": "skift",
+          "published_at": "2026-06-10T12:46:30Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7516,
+      "importance": 0.5863,
+      "importance_score": 0.7516,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9313,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-06-10T12:46:30Z",
+      "latest_at": "2026-06-10T12:46:30Z",
+      "primary_item": {
+        "id": "hotelitem_4cb881eca2f7",
+        "title": "Dubai Took a Hit — IHG Is Betting on Egypt, Saudi, and a Q4 Recovery",
+        "url": "https://skift.com/2026/06/10/dubai-took-a-hit-ihg-is-betting-on-egypt-saudi-and-a-q4-recovery/",
+        "source": "Skift Hospitality",
+        "source_name": "Skift Hospitality"
+      }
+    },
+    {
+      "story_id": "story_a5e749a0404b",
+      "title": "The Most Interesting Thing Hoshino Resorts Is Doing Isn’t Luxury",
+      "url": "https://skift.com/2026/06/09/the-most-interesting-thing-hoshino-resorts-is-doing-isnt-luxury/",
+      "primary_url": "https://skift.com/2026/06/09/the-most-interesting-thing-hoshino-resorts-is-doing-isnt-luxury/",
+      "source": "Skift Hospitality",
+      "source_name": "Skift Hospitality",
+      "sources": [
+        {
+          "id": "hotelitem_a5e749a0404b",
+          "title": "The Most Interesting Thing Hoshino Resorts Is Doing Isn’t Luxury",
+          "url": "https://skift.com/2026/06/09/the-most-interesting-thing-hoshino-resorts-is-doing-isnt-luxury/",
+          "source": "Skift Hospitality",
+          "source_name": "Skift Hospitality",
+          "site_id": "skift",
+          "published_at": "2026-06-09T15:45:55Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Skift Hospitality"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_a5e749a0404b",
+          "title": "The Most Interesting Thing Hoshino Resorts Is Doing Isn’t Luxury",
+          "url": "https://skift.com/2026/06/09/the-most-interesting-thing-hoshino-resorts-is-doing-isnt-luxury/",
+          "source": "Skift Hospitality",
+          "source_name": "Skift Hospitality",
+          "site_id": "skift",
+          "published_at": "2026-06-09T15:45:55Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7506,
+      "importance": 0.5824,
+      "importance_score": 0.7506,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9119,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-06-09T15:45:55Z",
+      "latest_at": "2026-06-09T15:45:55Z",
+      "primary_item": {
+        "id": "hotelitem_a5e749a0404b",
+        "title": "The Most Interesting Thing Hoshino Resorts Is Doing Isn’t Luxury",
+        "url": "https://skift.com/2026/06/09/the-most-interesting-thing-hoshino-resorts-is-doing-isnt-luxury/",
+        "source": "Skift Hospitality",
+        "source_name": "Skift Hospitality"
+      }
+    },
+    {
+      "story_id": "story_0e6cf82cd422",
+      "title": "Lighthouse Launches AI Assistant for Hotel Commercial Teams",
+      "url": "https://skift.com/2026/06/09/lighthouse-ernest-ai-hotel-commercial-tech/",
+      "primary_url": "https://skift.com/2026/06/09/lighthouse-ernest-ai-hotel-commercial-tech/",
+      "source": "Skift Hospitality",
+      "source_name": "Skift Hospitality",
+      "sources": [
+        {
+          "id": "hotelitem_0e6cf82cd422",
+          "title": "Lighthouse Launches AI Assistant for Hotel Commercial Teams",
+          "url": "https://skift.com/2026/06/09/lighthouse-ernest-ai-hotel-commercial-tech/",
+          "source": "Skift Hospitality",
+          "source_name": "Skift Hospitality",
+          "site_id": "skift",
+          "published_at": "2026-06-09T14:30:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Skift Hospitality"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_0e6cf82cd422",
+          "title": "Lighthouse Launches AI Assistant for Hotel Commercial Teams",
+          "url": "https://skift.com/2026/06/09/lighthouse-ernest-ai-hotel-commercial-tech/",
+          "source": "Skift Hospitality",
+          "source_name": "Skift Hospitality",
+          "site_id": "skift",
+          "published_at": "2026-06-09T14:30:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7505,
+      "importance": 0.5821,
+      "importance_score": 0.7505,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9107,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-06-09T14:30:00Z",
+      "latest_at": "2026-06-09T14:30:00Z",
+      "primary_item": {
+        "id": "hotelitem_0e6cf82cd422",
+        "title": "Lighthouse Launches AI Assistant for Hotel Commercial Teams",
+        "url": "https://skift.com/2026/06/09/lighthouse-ernest-ai-hotel-commercial-tech/",
+        "source": "Skift Hospitality",
+        "source_name": "Skift Hospitality"
       }
     }
   ]
