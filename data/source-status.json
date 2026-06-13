@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-13T17:03:25.172208Z",
-  "successful_sites": 14,
+  "generated_at": "2026-06-13T22:19:06.522272Z",
+  "successful_sites": 15,
   "total_sites": 16,
-  "items_before_topic_filter": 94,
+  "items_before_topic_filter": 109,
   "sites": [
     {
       "site_id": "huazhu_ir",
@@ -10,7 +10,7 @@
       "category": "cr9_finance",
       "ok": true,
       "item_count": 1,
-      "duration_ms": 476,
+      "duration_ms": 367,
       "error": null
     },
     {
@@ -19,7 +19,7 @@
       "category": "cr9_finance",
       "ok": true,
       "item_count": 3,
-      "duration_ms": 1258,
+      "duration_ms": 403,
       "error": null
     },
     {
@@ -28,7 +28,7 @@
       "category": "cr9_finance",
       "ok": true,
       "item_count": 0,
-      "duration_ms": 3254,
+      "duration_ms": 1935,
       "error": null
     },
     {
@@ -37,17 +37,17 @@
       "category": "supply_chain",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 3260,
+      "duration_ms": 2985,
       "error": null
     },
     {
       "site_id": "cta",
       "site_name": "中国旅游研究院",
       "category": "policy",
-      "ok": false,
-      "item_count": 0,
-      "duration_ms": 22723,
-      "error": "HTTPSConnectionPool(host='www.ctaweb.org.cn', port=443): Max retries exceeded with url: / (Caused by NewConnectionError(\"HTTPSConnection(host='www.ctaweb.org.cn', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable\"))"
+      "ok": true,
+      "item_count": 15,
+      "duration_ms": 1345,
+      "error": null
     },
     {
       "site_id": "mct",
@@ -55,7 +55,7 @@
       "category": "policy",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 1759,
+      "duration_ms": 2092,
       "error": null
     },
     {
@@ -64,7 +64,7 @@
       "category": "supply_chain",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 2824,
+      "duration_ms": 1928,
       "error": null
     },
     {
@@ -73,7 +73,7 @@
       "category": "supply_chain",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 5621,
+      "duration_ms": 6161,
       "error": null
     },
     {
@@ -82,7 +82,7 @@
       "category": "supply_chain",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1654,
+      "duration_ms": 1401,
       "error": null
     },
     {
@@ -91,7 +91,7 @@
       "category": "ai_hotel",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 110,
+      "duration_ms": 166,
       "error": null
     },
     {
@@ -100,7 +100,7 @@
       "category": "ai_hotel",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1135,
+      "duration_ms": 1132,
       "error": null
     },
     {
@@ -109,7 +109,7 @@
       "category": "ota",
       "ok": true,
       "item_count": 0,
-      "duration_ms": 344,
+      "duration_ms": 317,
       "error": null
     },
     {
@@ -118,7 +118,7 @@
       "category": "ota",
       "ok": true,
       "item_count": 0,
-      "duration_ms": 1730,
+      "duration_ms": 1332,
       "error": null
     },
     {
@@ -127,7 +127,7 @@
       "category": "ota",
       "ok": true,
       "item_count": 0,
-      "duration_ms": 1010,
+      "duration_ms": 739,
       "error": null
     },
     {
@@ -136,7 +136,7 @@
       "category": "ota",
       "ok": true,
       "item_count": 0,
-      "duration_ms": 1986,
+      "duration_ms": 2115,
       "error": null
     },
     {
@@ -145,8 +145,8 @@
       "category": "ota",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 38198,
-      "error": "HTTPSConnectionPool(host='www.iresearch.com.cn', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.iresearch.com.cn', port=443) at 0x7fd67d233890>, 'Connection to www.iresearch.com.cn timed out. (connect timeout=8)'))"
+      "duration_ms": 38499,
+      "error": "HTTPSConnectionPool(host='www.iresearch.com.cn', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.iresearch.com.cn', port=443) at 0x7f617f266010>, 'Connection to www.iresearch.com.cn timed out. (connect timeout=8)'))"
     }
   ]
 }
