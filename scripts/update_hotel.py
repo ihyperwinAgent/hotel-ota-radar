@@ -26,6 +26,7 @@ ROOT = Path(__file__).resolve().parent.parent
 CONFIG = ROOT / "config" / "hotel_sources.yaml"
 DATA = ROOT / "data"
 MAX_AGE_DAYS = 45  # 行业财报/政策更新慢,放宽窗口
+SEC_UA = "hotel-ota-radar research; ihyperwin@qq.com"  # SEC EDGAR 要求 UA 含联系方式
 
 # 导航/UI 噪词表(移植自 hotel-radar/fetch.py,用于过滤非文章链接)
 _NAV_EXACT = {
@@ -213,6 +214,47 @@ def fetch_gnw(session, src: dict, now: datetime) -> list[u.RawItem]:
     return out
 
 
+def fetch_sec(session, src: dict, now: datetime) -> list[u.RawItem]:
+    """SEC EDGAR atom feed(美股公司官方披露)。需合规 UA(含邮箱),否则 403。
+
+    标题形如 "8-K - Current report",带 filing 日期。适合 Expedia/Booking 等
+    大陆/境外直连官方IR超时的美股OTA。
+    """
+    url = src["url"]
+    resp = session.get(url, timeout=(8, 15), headers={
+        "User-Agent": SEC_UA,
+        "Accept": "application/atom+xml, application/xml, text/xml, */*",
+    })
+    resp.raise_for_status()
+    entries = []
+    if u.feedparser is not None:
+        entries = list(u.feedparser.parse(resp.content).entries)
+    else:
+        entries = u.parse_feed_entries_via_xml(resp.content)
+    out: list[u.RawItem] = []
+    for e in entries:
+        title = str(e.get("title", "")).strip()
+        link = str(e.get("link", "")).strip()
+        if not title or not link:
+            continue
+        published = (u.parse_date_any(e.get("updated"), now)
+                     or u.parse_date_any(e.get("published"), now))
+        if not published or published < now - timedelta(days=MAX_AGE_DAYS):
+            continue
+        # SEC 标题加公司名前缀,便于辨识(原标题只是"8-K - Current report")
+        disp = f"{src['name'].split(' ')[0]} 披露:{title}"
+        out.append(
+            u.RawItem(
+                site_id=src["id"], site_name=src["name"], source=src["name"],
+                title=disp, url=link, published_at=published,
+                meta={"category": src["category"], "credibility": src.get("credibility", ""), "via": "SEC EDGAR"},
+            )
+        )
+        if len(out) >= int(src.get("list_limit", 10)):
+            break
+    return out
+
+
 def fetch_rsc(session, src: dict, now: datetime) -> list[u.RawItem]:
     """解析 Next.js RSC 流式分片(self.__next_f)里的内嵌文章 JSON。
 
@@ -266,6 +308,8 @@ def collect(cfg: dict, session, now: datetime):
                 got = fetch_rss(session, src, now)
             elif src["type"] == "gnw":
                 got = fetch_gnw(session, src, now)
+            elif src["type"] == "sec":
+                got = fetch_sec(session, src, now)
             elif src["type"] == "rsc":
                 got = fetch_rsc(session, src, now)
             else:
