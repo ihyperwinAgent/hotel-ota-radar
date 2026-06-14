@@ -275,6 +275,9 @@ function renderCategoryTabs() {
       state.categoryFilter = cat;
       renderCategoryTabs();
       renderList();
+      // 选中分类后滚到动态流,让用户看到筛选结果(伯乐精选不受分类影响)
+      const listWrap = document.querySelector(".list-wrap");
+      if (listWrap) listWrap.scrollIntoView({ behavior: "smooth", block: "start" });
     };
     return btn;
   };

@@ -118,6 +118,38 @@ sources:
     credibility: "高"
     note: "全球酒店AI/科技首要英文媒体,酒店分类精准feed"
 
+  - id: ehotelier
+    name: "eHotelier"
+    category: ai_hotel
+    type: rss
+    url: "https://insights.ehotelier.com/feed/"
+    credibility: "高"
+    note: "全球酒店业洞察/培训媒体,实测当日更新"
+
+  - id: lodgingmag
+    name: "Lodging Magazine"
+    category: supply_chain
+    type: rss
+    url: "https://lodgingmagazine.com/feed/"
+    credibility: "高"
+    note: "美国AAHOA官方酒店业杂志,实测当日更新"
+
+  - id: boutiquehotel
+    name: "Boutique Hotel News"
+    category: supply_chain
+    type: rss
+    url: "https://www.boutiquehotelnews.com/feed/"
+    credibility: "高"
+    note: "欧美精品/独立酒店垂直媒体,实测当日更新"
+
+  - id: hoteldive
+    name: "Hotel Dive"
+    category: ai_hotel
+    type: rss
+    url: "https://www.hoteldive.com/feeds/news/"
+    credibility: "高"
+    note: "美国酒店业资讯(品牌/科技/运营),每日更新"
+
   # ---------- OTA 行业 ----------
   - id: trip_ir
     name: "携程 Trip.com IR"

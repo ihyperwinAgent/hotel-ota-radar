@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-14T06:57:25.627048Z",
-  "successful_sites": 16,
-  "total_sites": 16,
-  "items_before_topic_filter": 129,
+  "generated_at": "2026-06-14T06:58:33.334649Z",
+  "successful_sites": 20,
+  "total_sites": 20,
+  "items_before_topic_filter": 169,
   "sites": [
     {
       "site_id": "huazhu_ir",
@@ -10,7 +10,7 @@
       "category": "cr9_finance",
       "ok": true,
       "item_count": 1,
-      "duration_ms": 608,
+      "duration_ms": 508,
       "error": null
     },
     {
@@ -19,7 +19,7 @@
       "category": "cr9_finance",
       "ok": true,
       "item_count": 3,
-      "duration_ms": 1516,
+      "duration_ms": 1418,
       "error": null
     },
     {
@@ -28,7 +28,7 @@
       "category": "cr9_finance",
       "ok": true,
       "item_count": 0,
-      "duration_ms": 432,
+      "duration_ms": 221,
       "error": null
     },
     {
@@ -37,7 +37,7 @@
       "category": "supply_chain",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 1632,
+      "duration_ms": 1622,
       "error": null
     },
     {
@@ -46,7 +46,7 @@
       "category": "policy",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 322,
+      "duration_ms": 424,
       "error": null
     },
     {
@@ -55,7 +55,7 @@
       "category": "policy",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 231,
+      "duration_ms": 236,
       "error": null
     },
     {
@@ -64,7 +64,7 @@
       "category": "supply_chain",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 324,
+      "duration_ms": 351,
       "error": null
     },
     {
@@ -73,7 +73,7 @@
       "category": "supply_chain",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 3343,
+      "duration_ms": 3753,
       "error": null
     },
     {
@@ -82,7 +82,7 @@
       "category": "supply_chain",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 340,
+      "duration_ms": 334,
       "error": null
     },
     {
@@ -91,7 +91,7 @@
       "category": "ai_hotel",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 819,
+      "duration_ms": 629,
       "error": null
     },
     {
@@ -100,7 +100,43 @@
       "category": "ai_hotel",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 2165,
+      "duration_ms": 919,
+      "error": null
+    },
+    {
+      "site_id": "ehotelier",
+      "site_name": "eHotelier",
+      "category": "ai_hotel",
+      "ok": true,
+      "item_count": 10,
+      "duration_ms": 1227,
+      "error": null
+    },
+    {
+      "site_id": "lodgingmag",
+      "site_name": "Lodging Magazine",
+      "category": "supply_chain",
+      "ok": true,
+      "item_count": 10,
+      "duration_ms": 1025,
+      "error": null
+    },
+    {
+      "site_id": "boutiquehotel",
+      "site_name": "Boutique Hotel News",
+      "category": "supply_chain",
+      "ok": true,
+      "item_count": 10,
+      "duration_ms": 1856,
+      "error": null
+    },
+    {
+      "site_id": "hoteldive",
+      "site_name": "Hotel Dive",
+      "category": "ai_hotel",
+      "ok": true,
+      "item_count": 10,
+      "duration_ms": 801,
       "error": null
     },
     {
@@ -109,7 +145,7 @@
       "category": "ota",
       "ok": true,
       "item_count": 0,
-      "duration_ms": 503,
+      "duration_ms": 707,
       "error": null
     },
     {
@@ -118,7 +154,7 @@
       "category": "ota",
       "ok": true,
       "item_count": 0,
-      "duration_ms": 751,
+      "duration_ms": 1125,
       "error": null
     },
     {
@@ -127,7 +163,7 @@
       "category": "ota",
       "ok": true,
       "item_count": 0,
-      "duration_ms": 208,
+      "duration_ms": 210,
       "error": null
     },
     {
@@ -136,7 +172,7 @@
       "category": "ota",
       "ok": true,
       "item_count": 20,
-      "duration_ms": 599,
+      "duration_ms": 647,
       "error": null
     },
     {
@@ -145,7 +181,7 @@
       "category": "ota",
       "ok": true,
       "item_count": 0,
-      "duration_ms": 129,
+      "duration_ms": 134,
       "error": null
     }
   ]
