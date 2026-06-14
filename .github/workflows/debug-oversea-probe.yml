@@ -1,0 +1,41 @@
+name: Debug Oversea Probe (临时)
+
+# 临时验证:GitHub Actions 美国 IP 能否拿到国内 SPA 站的内嵌 JSON。
+# 跑完下载 artifact 分析,验证后删除本文件。
+on:
+  workflow_dispatch:
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Probe CN SPA sites from oversea runner
+        run: |
+          UA="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+          mkdir -p probe
+          declare -A SITES=(
+            ["meituan_ir"]="https://www.meituan.com/investor/reports"
+            ["tongcheng_ir"]="https://www.tongchengir.com/cn/financials/"
+            ["iresearch"]="https://www.iresearch.com.cn/"
+            ["ctaweb"]="https://www.ctaweb.org.cn/"
+          )
+          for name in "${!SITES[@]}"; do
+            url="${SITES[$name]}"
+            echo "=== $name : $url ==="
+            code=$(curl -s -o "probe/${name}.html" -w "%{http_code}" -L --max-time 25 -H "User-Agent: $UA" "$url" || echo "FAIL")
+            size=$(wc -c < "probe/${name}.html" 2>/dev/null || echo 0)
+            echo "  HTTP=$code size=${size}bytes"
+            # 探测内嵌 JSON 标志
+            for marker in "__NEXT_DATA__" "self.__next_f" "__NUXT__" "__INITIAL_STATE__" "window.__" "publishTime" "application/ld+json"; do
+              n=$(grep -c "$marker" "probe/${name}.html" 2>/dev/null || echo 0)
+              [ "$n" -gt 0 ] && echo "    含 $marker: ${n}次"
+            done
+          done > probe/summary.txt 2>&1
+          cat probe/summary.txt
+
+      - name: Upload probe artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: oversea-probe
+          path: probe/
+          retention-days: 3
