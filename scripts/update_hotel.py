@@ -213,6 +213,48 @@ def fetch_gnw(session, src: dict, now: datetime) -> list[u.RawItem]:
     return out
 
 
+def fetch_rsc(session, src: dict, now: datetime) -> list[u.RawItem]:
+    """解析 Next.js RSC 流式分片(self.__next_f)里的内嵌文章 JSON。
+
+    环球旅讯等 SPA 站首页不产 RSS、HTML 也只是空壳,但页面内嵌了
+    转义的 JSON 分片,含 id/title/publishTime。直接正则提取,带真实发布时间。
+    """
+    resp = session.get(src["url"], timeout=(8, 15), headers={"User-Agent": u.BROWSER_UA})
+    resp.raise_for_status()
+    resp.encoding = resp.apparent_encoding or resp.encoding
+    html = resp.text
+    base = src["url"]
+    art_path = src.get("article_path", "/article/")
+    # 匹配 RSC 转义 JSON 里的 id + title + publishTime
+    pat = re.compile(
+        r'\\"id\\":(\d+)[^}]*?\\"title\\":\\"([^"\\]{8,120})\\"[^}]*?\\"publishTime\\":\\"(\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2})'
+    )
+    out: list[u.RawItem] = []
+    seen: set[str] = set()
+    for m in pat.finditer(html):
+        aid, title, ptime = m.group(1), m.group(2), m.group(3)
+        if ptime.startswith("0001"):  # 过滤占位时间
+            continue
+        if aid in seen:
+            continue
+        seen.add(aid)
+        published = u.parse_date_any(ptime, now)
+        if not published or published < now - timedelta(days=MAX_AGE_DAYS):
+            continue
+        out.append(
+            u.RawItem(
+                site_id=src["id"], site_name=src["name"], source=src["name"],
+                title=u.maybe_fix_mojibake(title),
+                url=urljoin(base, f"{art_path}{aid}"),
+                published_at=published,
+                meta={"category": src["category"], "credibility": src.get("credibility", ""), "via": "RSC"},
+            )
+        )
+        if len(out) >= int(src.get("list_limit", 20)):
+            break
+    return out
+
+
 def collect(cfg: dict, session, now: datetime):
     items: list[u.RawItem] = []
     statuses: list[dict] = []
@@ -224,6 +266,8 @@ def collect(cfg: dict, session, now: datetime):
                 got = fetch_rss(session, src, now)
             elif src["type"] == "gnw":
                 got = fetch_gnw(session, src, now)
+            elif src["type"] == "rsc":
+                got = fetch_rsc(session, src, now)
             else:
                 got = fetch_html(session, src, now)
         except Exception as exc:  # noqa: BLE001

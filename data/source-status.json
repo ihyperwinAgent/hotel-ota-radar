@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-13T22:19:06.522272Z",
-  "successful_sites": 15,
+  "generated_at": "2026-06-13T15:16:03.786681Z",
+  "successful_sites": 16,
   "total_sites": 16,
-  "items_before_topic_filter": 109,
+  "items_before_topic_filter": 129,
   "sites": [
     {
       "site_id": "huazhu_ir",
@@ -10,7 +10,7 @@
       "category": "cr9_finance",
       "ok": true,
       "item_count": 1,
-      "duration_ms": 367,
+      "duration_ms": 1509,
       "error": null
     },
     {
@@ -19,7 +19,7 @@
       "category": "cr9_finance",
       "ok": true,
       "item_count": 3,
-      "duration_ms": 403,
+      "duration_ms": 1506,
       "error": null
     },
     {
@@ -28,7 +28,7 @@
       "category": "cr9_finance",
       "ok": true,
       "item_count": 0,
-      "duration_ms": 1935,
+      "duration_ms": 312,
       "error": null
     },
     {
@@ -37,7 +37,7 @@
       "category": "supply_chain",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 2985,
+      "duration_ms": 1700,
       "error": null
     },
     {
@@ -46,7 +46,7 @@
       "category": "policy",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 1345,
+      "duration_ms": 364,
       "error": null
     },
     {
@@ -55,7 +55,7 @@
       "category": "policy",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 2092,
+      "duration_ms": 312,
       "error": null
     },
     {
@@ -64,7 +64,7 @@
       "category": "supply_chain",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 1928,
+      "duration_ms": 373,
       "error": null
     },
     {
@@ -73,7 +73,7 @@
       "category": "supply_chain",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 6161,
+      "duration_ms": 3946,
       "error": null
     },
     {
@@ -82,7 +82,7 @@
       "category": "supply_chain",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1401,
+      "duration_ms": 324,
       "error": null
     },
     {
@@ -91,7 +91,7 @@
       "category": "ai_hotel",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 166,
+      "duration_ms": 676,
       "error": null
     },
     {
@@ -100,7 +100,7 @@
       "category": "ai_hotel",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1132,
+      "duration_ms": 3378,
       "error": null
     },
     {
@@ -109,7 +109,7 @@
       "category": "ota",
       "ok": true,
       "item_count": 0,
-      "duration_ms": 317,
+      "duration_ms": 780,
       "error": null
     },
     {
@@ -118,7 +118,7 @@
       "category": "ota",
       "ok": true,
       "item_count": 0,
-      "duration_ms": 1332,
+      "duration_ms": 1181,
       "error": null
     },
     {
@@ -127,7 +127,7 @@
       "category": "ota",
       "ok": true,
       "item_count": 0,
-      "duration_ms": 739,
+      "duration_ms": 193,
       "error": null
     },
     {
@@ -135,18 +135,18 @@
       "site_name": "环球旅讯 TravelDaily",
       "category": "ota",
       "ok": true,
-      "item_count": 0,
-      "duration_ms": 2115,
+      "item_count": 20,
+      "duration_ms": 642,
       "error": null
     },
     {
       "site_id": "iresearch",
       "site_name": "艾瑞咨询 在线旅游",
       "category": "ota",
-      "ok": false,
+      "ok": true,
       "item_count": 0,
-      "duration_ms": 38499,
-      "error": "HTTPSConnectionPool(host='www.iresearch.com.cn', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.iresearch.com.cn', port=443) at 0x7f617f266010>, 'Connection to www.iresearch.com.cn timed out. (connect timeout=8)'))"
+      "duration_ms": 147,
+      "error": null
     }
   ]
 }

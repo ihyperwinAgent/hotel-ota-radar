@@ -147,10 +147,11 @@ sources:
   - id: traveldaily
     name: "环球旅讯 TravelDaily"
     category: ota
-    type: rss
-    url: "https://www.traveldaily.cn/feed"
+    type: rsc
+    url: "https://www.traveldaily.cn/"
+    article_path: "/article/"
     credibility: "高"
-    note: "OTA垂直媒体,有RSS"
+    note: "SPA站,解析Next.js RSC分片拿文章+真实发布时间(/feed非标准RSS)"
 
   - id: iresearch
     name: "艾瑞咨询 在线旅游"
