@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-14T07:01:46.769532Z",
+  "generated_at": "2026-06-14T11:10:56.372418Z",
   "successful_sites": 18,
   "total_sites": 20,
-  "items_before_topic_filter": 159,
+  "items_before_topic_filter": 158,
   "sites": [
     {
       "site_id": "huazhu_ir",
@@ -10,7 +10,7 @@
       "category": "cr9_finance",
       "ok": true,
       "item_count": 1,
-      "duration_ms": 254,
+      "duration_ms": 310,
       "error": null
     },
     {
@@ -18,8 +18,8 @@
       "site_name": "亚朵 Atour IR",
       "category": "cr9_finance",
       "ok": true,
-      "item_count": 3,
-      "duration_ms": 476,
+      "item_count": 2,
+      "duration_ms": 417,
       "error": null
     },
     {
@@ -28,7 +28,7 @@
       "category": "cr9_finance",
       "ok": true,
       "item_count": 0,
-      "duration_ms": 3251,
+      "duration_ms": 2874,
       "error": null
     },
     {
@@ -37,7 +37,7 @@
       "category": "supply_chain",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 2863,
+      "duration_ms": 3338,
       "error": null
     },
     {
@@ -46,7 +46,7 @@
       "category": "policy",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 2907,
+      "duration_ms": 1338,
       "error": null
     },
     {
@@ -55,7 +55,7 @@
       "category": "policy",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 2668,
+      "duration_ms": 3416,
       "error": null
     },
     {
@@ -64,7 +64,7 @@
       "category": "supply_chain",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 2566,
+      "duration_ms": 1821,
       "error": null
     },
     {
@@ -73,7 +73,7 @@
       "category": "supply_chain",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 4903,
+      "duration_ms": 4599,
       "error": null
     },
     {
@@ -82,7 +82,7 @@
       "category": "supply_chain",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1373,
+      "duration_ms": 1411,
       "error": null
     },
     {
@@ -91,7 +91,7 @@
       "category": "ai_hotel",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 86,
+      "duration_ms": 175,
       "error": null
     },
     {
@@ -100,7 +100,7 @@
       "category": "ai_hotel",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 2187,
+      "duration_ms": 1213,
       "error": null
     },
     {
@@ -109,7 +109,7 @@
       "category": "ai_hotel",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 710,
+      "duration_ms": 847,
       "error": null
     },
     {
@@ -118,7 +118,7 @@
       "category": "supply_chain",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 74,
+      "duration_ms": 169,
       "error": "403 Client Error: Forbidden for url: https://lodgingmagazine.com/feed/"
     },
     {
@@ -127,7 +127,7 @@
       "category": "supply_chain",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1239,
+      "duration_ms": 1238,
       "error": null
     },
     {
@@ -136,7 +136,7 @@
       "category": "ai_hotel",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 200,
+      "duration_ms": 243,
       "error": null
     },
     {
@@ -145,7 +145,7 @@
       "category": "ota",
       "ok": true,
       "item_count": 0,
-      "duration_ms": 236,
+      "duration_ms": 217,
       "error": null
     },
     {
@@ -154,7 +154,7 @@
       "category": "ota",
       "ok": true,
       "item_count": 0,
-      "duration_ms": 1353,
+      "duration_ms": 1422,
       "error": null
     },
     {
@@ -163,7 +163,7 @@
       "category": "ota",
       "ok": true,
       "item_count": 0,
-      "duration_ms": 743,
+      "duration_ms": 908,
       "error": null
     },
     {
@@ -172,7 +172,7 @@
       "category": "ota",
       "ok": true,
       "item_count": 20,
-      "duration_ms": 1924,
+      "duration_ms": 2139,
       "error": null
     },
     {
@@ -181,8 +181,8 @@
       "category": "ota",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 37870,
-      "error": "HTTPSConnectionPool(host='www.iresearch.com.cn', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.iresearch.com.cn', port=443) at 0x7f37c09d88d0>, 'Connection to www.iresearch.com.cn timed out. (connect timeout=8)'))"
+      "duration_ms": 38032,
+      "error": "HTTPSConnectionPool(host='www.iresearch.com.cn', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.iresearch.com.cn', port=443) at 0x7f3c23459d10>, 'Connection to www.iresearch.com.cn timed out. (connect timeout=8)'))"
     }
   ]
 }
