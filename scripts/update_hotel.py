@@ -20,6 +20,11 @@ from bs4 import BeautifulSoup
 
 sys.path.insert(0, str(Path(__file__).parent))
 import update_news as u  # noqa: E402
+from signal_lexicon import ENTITIES, HIGH_EVENTS, MID_EVENTS, EXCLUDE_EXTRA  # noqa: E402
+
+_ENTITIES_LOWER = [e.lower() for e in ENTITIES]
+_HIGH_LOWER = [e.lower() for e in HIGH_EVENTS]
+_MID_LOWER = [e.lower() for e in MID_EVENTS]
 
 UTC = timezone.utc
 ROOT = Path(__file__).resolve().parent.parent
@@ -44,6 +49,30 @@ _NAV_KEYWORDS = [
 _NAV_CONTAINER_RE = re.compile(
     r"nav|menu|footer|header|sidebar|breadcrumb|pagination|social|share|tag|copyright", re.I
 )
+
+
+# 内容噪音词表(用户做酒店产业链经营/创业,这些类型对行业决策无价值,直接丢弃)
+_NOISE_KEYWORDS = [
+    # 招聘类
+    "招聘", "应届", "毕业生", "校招", "社招", "hiring", "recruit", "招募",
+    # 会议事务类(滤通知/名单/报名,保留实质报道)
+    "论文名单", "优秀论文", "年会通知", "报名启动", "报名开始", "征集", "入围名单",
+    "参会通知", "会议通知", "议程", "邀请函", "报名表",
+    # 排行榜/评奖类
+    "排行榜", "榜单发布", "指数榜", "评选", "颁奖", "获奖", "十大", "金鼎奖", "金枕头",
+    "TOP10", "top10", "上榜",
+    # 广告/软文类
+    "培训班", "研修班", "课程报名", "门票", "优惠购", "限时折扣", "报名通道",
+]
+
+
+_ALL_NOISE = [k.lower() for k in (_NOISE_KEYWORDS + EXCLUDE_EXTRA)]
+
+
+def _is_noise_title(title: str) -> bool:
+    """判断是否为对行业决策无价值的噪音(招聘/会议事务/榜单评奖/广告软文/泛旅游)。"""
+    tl = title.strip().lower()
+    return any(kw in tl for kw in _ALL_NOISE)
 
 
 def _is_nav_title(title: str) -> bool:
@@ -342,6 +371,7 @@ def to_record(it: u.RawItem, cfg: dict) -> dict:
         "published_at": u.iso(it.published_at), "event_time": u.iso(it.published_at),
         "category": cat, "category_label": cat_label,
         "credibility": it.meta.get("credibility", ""),
+        "approx_time": bool(it.meta.get("approx_time", False)),  # 抓取时刻近似(非真实发布时间)
         "ai_is_related": True,  # 全行业放行,绕过前端 AI 过滤
     }
 
@@ -375,6 +405,12 @@ _CATEGORY_WEIGHT = {
 }
 _CREDIBILITY_WEIGHT = {"高": 1.0, "中": 0.6, "低": 0.35, "": 0.5}
 
+# 境外源 site_id(其余视为国内)。用户业务在国内,国内源给加权,避免被有真实时间的境外源刷屏。
+_OVERSEAS_SITES = {
+    "atour_ir", "skift", "hotelmgmt", "ehotelier", "lodgingmag", "boutiquehotel",
+    "hoteldive", "expedia_sec", "booking_sec", "agoda_press", "airbnb_sec", "tripadvisor_sec",
+}
+
 
 def hotel_entities(title: str) -> tuple[set[str], set[str]]:
     """酒店领域实体提取:只识别品牌,无"模型"概念(第二个集合恒空)。"""
@@ -394,9 +430,43 @@ def hotel_story_score(record: dict, source_count: int, now: datetime) -> float:
     """
     cat_w = _CATEGORY_WEIGHT.get(record.get("category", ""), 0.5)
     cred_w = _CREDIBILITY_WEIGHT.get(record.get("credibility", ""), 0.5)
-    recency = u.recency_score(record, now, MAX_AGE_DAYS * 24)
     bump = 0.05 * min(max(source_count - 1, 0), 2)
-    score = 0.65 * cat_w + 0.25 * cred_w + 0.05 * recency + bump
+    # 时效优先:有真实发布时间的源做时间衰减(7天内近满分,超30天大幅衰减);
+    # 近似时间的源(用抓取时刻)不参与衰减,给中性 0.6,不因"伪时间"虚高也不虚低。
+    if record.get("approx_time"):
+        recency = 0.6
+    else:
+        published = u.parse_iso(record.get("event_time"))
+        if published:
+            age_days = max(0.0, (now - published).total_seconds() / 86400)
+            if age_days <= 7:
+                recency = 1.0 - 0.1 * (age_days / 7)      # 7天内: 1.0→0.9
+            elif age_days <= 30:
+                recency = 0.9 - 0.5 * ((age_days - 7) / 23)  # 7-30天: 0.9→0.4
+            else:
+                recency = max(0.1, 0.4 - 0.3 * ((age_days - 30) / 15))  # 超30天快速衰减
+        else:
+            recency = 0.6
+    # 信号词命中:经营决策视角的核心维度。命中头部公司实体+重大事件词=高信号。
+    title_l = (record.get("title") or "").lower()
+    hit_entity = any(e in title_l for e in _ENTITIES_LOWER)
+    hit_high = any(e in title_l for e in _HIGH_LOWER)
+    hit_mid = any(e in title_l for e in _MID_LOWER)
+    if hit_entity and hit_high:
+        signal = 1.0          # 头部公司 + 重大事件(如"华住 财报""携程 收购")= 最高信号
+    elif hit_high:
+        signal = 0.8          # 重大事件(政策/并购/财报)
+    elif hit_entity and hit_mid:
+        signal = 0.7          # 头部公司 + 一般动作(开业/签约/合作)
+    elif hit_entity:
+        signal = 0.55         # 提到头部公司
+    elif hit_mid:
+        signal = 0.45
+    else:
+        signal = 0.2          # 无信号词:泛报道,压后
+    domestic_bump = 0.0 if record.get("site_id") in _OVERSEAS_SITES else 0.08
+    # 信号词主导(45%)+ 时效(30%)+ 分类(15%)+ 可信度(10%),再加国内/聚簇微调
+    score = 0.45 * signal + 0.30 * recency + 0.15 * cat_w + 0.10 * cred_w + bump + domestic_bump
     return round(max(0.0, min(1.0, score)), 4)
 
 
@@ -406,6 +476,7 @@ def main() -> int:
     session = u.create_session()
     raw, statuses = collect(cfg, session, now)
     records = [to_record(it, cfg) for it in raw if it.published_at]
+    records = [r for r in records if not _is_noise_title(r.get("title", ""))]  # 丢弃噪音
     records = u.dedupe_items_by_title_url(records, random_pick=False)
     records.sort(key=lambda r: r.get("event_time") or "", reverse=True)
 
