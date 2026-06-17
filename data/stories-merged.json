@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16T18:22:07.725800Z",
+  "generated_at": "2026-06-17T12:40:36.940395Z",
   "window_hours": 1080,
   "total_stories": 30,
   "stories": [
@@ -38,14 +38,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9816,
-      "importance": 0.5683,
-      "importance_score": 0.9816,
+      "score": 0.9767,
+      "importance": 0.5649,
+      "importance_score": 0.9767,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8415,
+        "recency": 0.8245,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -60,6 +60,65 @@
         "url": "https://www.traveldaily.cn/article/190163",
         "source": "环球旅讯 TravelDaily",
         "source_name": "环球旅讯 TravelDaily"
+      }
+    },
+    {
+      "story_id": "story_b1c0d229c5c9",
+      "title": "Yudith Dwi Astuti appointed as Director of Public Relations and Marketing Communications at Four Seasons Hotel Jakarta",
+      "url": "https://insights.ehotelier.com/people/2026/06/17/yudith-dwi-astuti-appointed-as-director-of-public-relations-and-marketing-communications-at-four-seasons-hotel-jakarta/?utm_source=rss&utm_medium=rss&utm_campaign=yudith-dwi-astuti-appointed-as-director-of-public-relations-and-marketing-communications-at-four-seasons-hotel-jakarta",
+      "primary_url": "https://insights.ehotelier.com/people/2026/06/17/yudith-dwi-astuti-appointed-as-director-of-public-relations-and-marketing-communications-at-four-seasons-hotel-jakarta/?utm_source=rss&utm_medium=rss&utm_campaign=yudith-dwi-astuti-appointed-as-director-of-public-relations-and-marketing-communications-at-four-seasons-hotel-jakarta",
+      "source": "eHotelier",
+      "source_name": "eHotelier",
+      "sources": [
+        {
+          "id": "hotelitem_b1c0d229c5c9",
+          "title": "Yudith Dwi Astuti appointed as Director of Public Relations and Marketing Communications at Four Seasons Hotel Jakarta",
+          "url": "https://insights.ehotelier.com/people/2026/06/17/yudith-dwi-astuti-appointed-as-director-of-public-relations-and-marketing-communications-at-four-seasons-hotel-jakarta/?utm_source=rss&utm_medium=rss&utm_campaign=yudith-dwi-astuti-appointed-as-director-of-public-relations-and-marketing-communications-at-four-seasons-hotel-jakarta",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-06-17T01:14:13Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "eHotelier"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_b1c0d229c5c9",
+          "title": "Yudith Dwi Astuti appointed as Director of Public Relations and Marketing Communications at Four Seasons Hotel Jakarta",
+          "url": "https://insights.ehotelier.com/people/2026/06/17/yudith-dwi-astuti-appointed-as-director-of-public-relations-and-marketing-communications-at-four-seasons-hotel-jakarta/?utm_source=rss&utm_medium=rss&utm_campaign=yudith-dwi-astuti-appointed-as-director-of-public-relations-and-marketing-communications-at-four-seasons-hotel-jakarta",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-06-17T01:14:13Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.953,
+      "importance": 0.5979,
+      "importance_score": 0.953,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9894,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-06-17T01:14:13Z",
+      "latest_at": "2026-06-17T01:14:13Z",
+      "primary_item": {
+        "id": "hotelitem_b1c0d229c5c9",
+        "title": "Yudith Dwi Astuti appointed as Director of Public Relations and Marketing Communications at Four Seasons Hotel Jakarta",
+        "url": "https://insights.ehotelier.com/people/2026/06/17/yudith-dwi-astuti-appointed-as-director-of-public-relations-and-marketing-communications-at-four-seasons-hotel-jakarta/?utm_source=rss&utm_medium=rss&utm_campaign=yudith-dwi-astuti-appointed-as-director-of-public-relations-and-marketing-communications-at-four-seasons-hotel-jakarta",
+        "source": "eHotelier",
+        "source_name": "eHotelier"
       }
     },
     {
@@ -97,14 +156,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9545,
-      "importance": 0.5995,
-      "importance_score": 0.9545,
+      "score": 0.9513,
+      "importance": 0.5961,
+      "importance_score": 0.9513,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9976,
+        "recency": 0.9806,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -156,14 +215,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9541,
-      "importance": 0.5496,
-      "importance_score": 0.9541,
+      "score": 0.9492,
+      "importance": 0.5462,
+      "importance_score": 0.9492,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.7478,
+        "recency": 0.7309,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -215,14 +274,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9521,
-      "importance": 0.5969,
-      "importance_score": 0.9521,
+      "score": 0.9488,
+      "importance": 0.5936,
+      "importance_score": 0.9488,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9847,
+        "recency": 0.9678,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -274,14 +333,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9492,
-      "importance": 0.594,
-      "importance_score": 0.9492,
+      "score": 0.946,
+      "importance": 0.5906,
+      "importance_score": 0.946,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.97,
+        "recency": 0.9531,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -333,14 +392,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9382,
-      "importance": 0.5982,
-      "importance_score": 0.9382,
+      "score": 0.935,
+      "importance": 0.5948,
+      "importance_score": 0.935,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9909,
+        "recency": 0.9739,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -392,14 +451,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9375,
-      "importance": 0.5819,
-      "importance_score": 0.9375,
+      "score": 0.9342,
+      "importance": 0.5785,
+      "importance_score": 0.9342,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9093,
+        "recency": 0.8924,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -414,6 +473,102 @@
         "url": "https://www.hoteldive.com/news/braemar-ends-strategic-review-process-becomes-self-managed-reit/822821/",
         "source": "Hotel Dive",
         "source_name": "Hotel Dive"
+      }
+    },
+    {
+      "story_id": "story_c7c15b7680c9",
+      "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
+      "url": "https://www.chinahotel.org.cn/articles/17408",
+      "primary_url": "https://www.chinahotel.org.cn/articles/17408",
+      "source": "中国饭店协会",
+      "source_name": "中国饭店协会",
+      "sources": [
+        {
+          "id": "hotelitem_d4370964909c",
+          "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
+          "url": "https://www.chinahotel.org.cn/articles/17408",
+          "source": "中国饭店协会",
+          "source_name": "中国饭店协会",
+          "site_id": "chinahotel",
+          "published_at": "2026-06-17T12:40:36.940395Z"
+        },
+        {
+          "id": "hotelitem_c7c15b7680c9",
+          "title": "绿色饭店 | 2026年第一批国家标准绿色饭店名单公布 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007) 在全国组织开展国家标准绿色饭店的评定工作。现公布2026年第一批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
+          "url": "https://www.chinahotel.org.cn/articles/17689",
+          "source": "中国饭店协会",
+          "source_name": "中国饭店协会",
+          "site_id": "chinahotel",
+          "published_at": "2026-06-17T12:40:36.940395Z"
+        },
+        {
+          "id": "hotelitem_6d8fa145e8af",
+          "title": "绿色饭店｜2025年第三批国家标准绿色饭店公布 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第三批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
+          "url": "https://www.chinahotel.org.cn/articles/17256",
+          "source": "中国饭店协会",
+          "source_name": "中国饭店协会",
+          "site_id": "chinahotel",
+          "published_at": "2026-06-17T12:40:36.940395Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "中国饭店协会"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_d4370964909c",
+          "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
+          "url": "https://www.chinahotel.org.cn/articles/17408",
+          "source": "中国饭店协会",
+          "source_name": "中国饭店协会",
+          "site_id": "chinahotel",
+          "published_at": "2026-06-17T12:40:36.940395Z"
+        },
+        {
+          "id": "hotelitem_c7c15b7680c9",
+          "title": "绿色饭店 | 2026年第一批国家标准绿色饭店名单公布 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007) 在全国组织开展国家标准绿色饭店的评定工作。现公布2026年第一批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
+          "url": "https://www.chinahotel.org.cn/articles/17689",
+          "source": "中国饭店协会",
+          "source_name": "中国饭店协会",
+          "site_id": "chinahotel",
+          "published_at": "2026-06-17T12:40:36.940395Z"
+        },
+        {
+          "id": "hotelitem_6d8fa145e8af",
+          "title": "绿色饭店｜2025年第三批国家标准绿色饭店公布 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第三批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
+          "url": "https://www.chinahotel.org.cn/articles/17256",
+          "source": "中国饭店协会",
+          "source_name": "中国饭店协会",
+          "site_id": "chinahotel",
+          "published_at": "2026-06-17T12:40:36.940395Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.91,
+      "importance": 0.65,
+      "importance_score": 0.91,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-06-17T12:40:36.940395Z",
+      "latest_at": "2026-06-17T12:40:36.940395Z",
+      "primary_item": {
+        "id": "hotelitem_d4370964909c",
+        "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
+        "url": "https://www.chinahotel.org.cn/articles/17408",
+        "source": "中国饭店协会",
+        "source_name": "中国饭店协会"
       }
     },
     {
@@ -451,14 +606,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9131,
-      "importance": 0.5721,
-      "importance_score": 0.9131,
+      "score": 0.9098,
+      "importance": 0.5687,
+      "importance_score": 0.9098,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8607,
+        "recency": 0.8437,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -476,161 +631,6 @@
       }
     },
     {
-      "story_id": "story_ff0b9a256072",
-      "title": "Net zero hotels: why carbon reduction must precede carbon trading",
-      "url": "https://boutiquehotelnews.com/features/net-zero-hotels-carbon-trading/?utm_source=rss&utm_medium=rss&utm_campaign=net-zero-hotels-carbon-trading",
-      "primary_url": "https://boutiquehotelnews.com/features/net-zero-hotels-carbon-trading/?utm_source=rss&utm_medium=rss&utm_campaign=net-zero-hotels-carbon-trading",
-      "source": "Boutique Hotel News",
-      "source_name": "Boutique Hotel News",
-      "sources": [
-        {
-          "id": "hotelitem_ff0b9a256072",
-          "title": "Net zero hotels: why carbon reduction must precede carbon trading",
-          "url": "https://boutiquehotelnews.com/features/net-zero-hotels-carbon-trading/?utm_source=rss&utm_medium=rss&utm_campaign=net-zero-hotels-carbon-trading",
-          "source": "Boutique Hotel News",
-          "source_name": "Boutique Hotel News",
-          "site_id": "boutiquehotel",
-          "published_at": "2026-06-10T11:00:42Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Boutique Hotel News"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_ff0b9a256072",
-          "title": "Net zero hotels: why carbon reduction must precede carbon trading",
-          "url": "https://boutiquehotelnews.com/features/net-zero-hotels-carbon-trading/?utm_source=rss&utm_medium=rss&utm_campaign=net-zero-hotels-carbon-trading",
-          "source": "Boutique Hotel News",
-          "source_name": "Boutique Hotel News",
-          "site_id": "boutiquehotel",
-          "published_at": "2026-06-10T11:00:42Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.913,
-      "importance": 0.572,
-      "importance_score": 0.913,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.8599,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-10T11:00:42Z",
-      "latest_at": "2026-06-10T11:00:42Z",
-      "primary_item": {
-        "id": "hotelitem_ff0b9a256072",
-        "title": "Net zero hotels: why carbon reduction must precede carbon trading",
-        "url": "https://boutiquehotelnews.com/features/net-zero-hotels-carbon-trading/?utm_source=rss&utm_medium=rss&utm_campaign=net-zero-hotels-carbon-trading",
-        "source": "Boutique Hotel News",
-        "source_name": "Boutique Hotel News"
-      }
-    },
-    {
-      "story_id": "story_c7c15b7680c9",
-      "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
-      "url": "https://www.chinahotel.org.cn/articles/17408",
-      "primary_url": "https://www.chinahotel.org.cn/articles/17408",
-      "source": "中国饭店协会",
-      "source_name": "中国饭店协会",
-      "sources": [
-        {
-          "id": "hotelitem_d4370964909c",
-          "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
-          "url": "https://www.chinahotel.org.cn/articles/17408",
-          "source": "中国饭店协会",
-          "source_name": "中国饭店协会",
-          "site_id": "chinahotel",
-          "published_at": "2026-06-16T18:22:07.725800Z"
-        },
-        {
-          "id": "hotelitem_c7c15b7680c9",
-          "title": "绿色饭店 | 2026年第一批国家标准绿色饭店名单公布 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007) 在全国组织开展国家标准绿色饭店的评定工作。现公布2026年第一批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
-          "url": "https://www.chinahotel.org.cn/articles/17689",
-          "source": "中国饭店协会",
-          "source_name": "中国饭店协会",
-          "site_id": "chinahotel",
-          "published_at": "2026-06-16T18:22:07.725800Z"
-        },
-        {
-          "id": "hotelitem_6d8fa145e8af",
-          "title": "绿色饭店｜2025年第三批国家标准绿色饭店公布 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第三批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
-          "url": "https://www.chinahotel.org.cn/articles/17256",
-          "source": "中国饭店协会",
-          "source_name": "中国饭店协会",
-          "site_id": "chinahotel",
-          "published_at": "2026-06-16T18:22:07.725800Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "中国饭店协会"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_d4370964909c",
-          "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
-          "url": "https://www.chinahotel.org.cn/articles/17408",
-          "source": "中国饭店协会",
-          "source_name": "中国饭店协会",
-          "site_id": "chinahotel",
-          "published_at": "2026-06-16T18:22:07.725800Z"
-        },
-        {
-          "id": "hotelitem_c7c15b7680c9",
-          "title": "绿色饭店 | 2026年第一批国家标准绿色饭店名单公布 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007) 在全国组织开展国家标准绿色饭店的评定工作。现公布2026年第一批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
-          "url": "https://www.chinahotel.org.cn/articles/17689",
-          "source": "中国饭店协会",
-          "source_name": "中国饭店协会",
-          "site_id": "chinahotel",
-          "published_at": "2026-06-16T18:22:07.725800Z"
-        },
-        {
-          "id": "hotelitem_6d8fa145e8af",
-          "title": "绿色饭店｜2025年第三批国家标准绿色饭店公布 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第三批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
-          "url": "https://www.chinahotel.org.cn/articles/17256",
-          "source": "中国饭店协会",
-          "source_name": "中国饭店协会",
-          "site_id": "chinahotel",
-          "published_at": "2026-06-16T18:22:07.725800Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.91,
-      "importance": 0.65,
-      "importance_score": 0.91,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-16T18:22:07.725800Z",
-      "latest_at": "2026-06-16T18:22:07.725800Z",
-      "primary_item": {
-        "id": "hotelitem_d4370964909c",
-        "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
-        "url": "https://www.chinahotel.org.cn/articles/17408",
-        "source": "中国饭店协会",
-        "source_name": "中国饭店协会"
-      }
-    },
-    {
       "story_id": "story_b8c46969e353",
       "title": "携程 Trip.Best 新加坡站成功举办，助力四川入境游迈向全球",
       "url": "https://www.tripvivid.com/47315.html",
@@ -645,7 +645,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-06-16T18:22:07.725800Z"
+          "published_at": "2026-06-17T12:40:36.940395Z"
         }
       ],
       "source_count": 1,
@@ -660,7 +660,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-06-16T18:22:07.725800Z"
+          "published_at": "2026-06-17T12:40:36.940395Z"
         }
       ],
       "item_count": 1,
@@ -679,8 +679,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-06-16T18:22:07.725800Z",
-      "latest_at": "2026-06-16T18:22:07.725800Z",
+      "earliest_at": "2026-06-17T12:40:36.940395Z",
+      "latest_at": "2026-06-17T12:40:36.940395Z",
       "primary_item": {
         "id": "hotelitem_b8c46969e353",
         "title": "携程 Trip.Best 新加坡站成功举办，助力四川入境游迈向全球",
@@ -704,7 +704,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-06-16T18:22:07.725800Z"
+          "published_at": "2026-06-17T12:40:36.940395Z"
         }
       ],
       "source_count": 1,
@@ -719,7 +719,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-06-16T18:22:07.725800Z"
+          "published_at": "2026-06-17T12:40:36.940395Z"
         }
       ],
       "item_count": 1,
@@ -738,8 +738,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-06-16T18:22:07.725800Z",
-      "latest_at": "2026-06-16T18:22:07.725800Z",
+      "earliest_at": "2026-06-17T12:40:36.940395Z",
+      "latest_at": "2026-06-17T12:40:36.940395Z",
       "primary_item": {
         "id": "hotelitem_b98de1f3e3c3",
         "title": "文旅惠报|华侨城文旅企业前4月接待游客2408万人次；亚朵一季度净利润增长42%",
@@ -749,21 +749,21 @@
       }
     },
     {
-      "story_id": "story_7a0aafcf6ecc",
-      "title": "文旅惠报|澳门银河与Trip.com签订三年战略合作协议；盈新发展转让西宁置业100%股权",
-      "url": "https://www.tripvivid.com/47450.html",
-      "primary_url": "https://www.tripvivid.com/47450.html",
+      "story_id": "story_d94f35b8bbdc",
+      "title": "文旅惠报|开封清明上河园向港交所提交上市申请；万豪国际全球酒店数量正式破万家",
+      "url": "https://www.tripvivid.com/47486.html",
+      "primary_url": "https://www.tripvivid.com/47486.html",
       "source": "执惠 TripVivid",
       "source_name": "执惠 TripVivid",
       "sources": [
         {
-          "id": "hotelitem_7a0aafcf6ecc",
-          "title": "文旅惠报|澳门银河与Trip.com签订三年战略合作协议；盈新发展转让西宁置业100%股权",
-          "url": "https://www.tripvivid.com/47450.html",
+          "id": "hotelitem_d94f35b8bbdc",
+          "title": "文旅惠报|开封清明上河园向港交所提交上市申请；万豪国际全球酒店数量正式破万家",
+          "url": "https://www.tripvivid.com/47486.html",
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-06-16T18:22:07.725800Z"
+          "published_at": "2026-06-17T12:40:36.940395Z"
         }
       ],
       "source_count": 1,
@@ -772,13 +772,13 @@
       ],
       "items": [
         {
-          "id": "hotelitem_7a0aafcf6ecc",
-          "title": "文旅惠报|澳门银河与Trip.com签订三年战略合作协议；盈新发展转让西宁置业100%股权",
-          "url": "https://www.tripvivid.com/47450.html",
+          "id": "hotelitem_d94f35b8bbdc",
+          "title": "文旅惠报|开封清明上河园向港交所提交上市申请；万豪国际全球酒店数量正式破万家",
+          "url": "https://www.tripvivid.com/47486.html",
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-06-16T18:22:07.725800Z"
+          "published_at": "2026-06-17T12:40:36.940395Z"
         }
       ],
       "item_count": 1,
@@ -797,12 +797,12 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-06-16T18:22:07.725800Z",
-      "latest_at": "2026-06-16T18:22:07.725800Z",
+      "earliest_at": "2026-06-17T12:40:36.940395Z",
+      "latest_at": "2026-06-17T12:40:36.940395Z",
       "primary_item": {
-        "id": "hotelitem_7a0aafcf6ecc",
-        "title": "文旅惠报|澳门银河与Trip.com签订三年战略合作协议；盈新发展转让西宁置业100%股权",
-        "url": "https://www.tripvivid.com/47450.html",
+        "id": "hotelitem_d94f35b8bbdc",
+        "title": "文旅惠报|开封清明上河园向港交所提交上市申请；万豪国际全球酒店数量正式破万家",
+        "url": "https://www.tripvivid.com/47486.html",
         "source": "执惠 TripVivid",
         "source_name": "执惠 TripVivid"
       }
@@ -842,14 +842,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8834,
-      "importance": 0.4544,
-      "importance_score": 0.8834,
+      "score": 0.8788,
+      "importance": 0.451,
+      "importance_score": 0.8788,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.2719,
+        "recency": 0.2549,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -864,6 +864,183 @@
         "url": "https://www.globenewswire.com/news-release/2026/05/15/3295672/19355/en/h-world-group-limited-reports-first-quarter-of-2026-unaudited-financial-results.html",
         "source": "华住 H World IR",
         "source_name": "华住 H World IR"
+      }
+    },
+    {
+      "story_id": "story_e128b1e1980e",
+      "title": "Coast Hotels expands portfolio with acquisition of Village Park Inn Hotel in Calgary",
+      "url": "https://insights.ehotelier.com/global-news/2026/06/17/coast-hotels-expands-portfolio-with-acquisition-of-village-park-inn-hotel-in-calgary/?utm_source=rss&utm_medium=rss&utm_campaign=coast-hotels-expands-portfolio-with-acquisition-of-village-park-inn-hotel-in-calgary",
+      "primary_url": "https://insights.ehotelier.com/global-news/2026/06/17/coast-hotels-expands-portfolio-with-acquisition-of-village-park-inn-hotel-in-calgary/?utm_source=rss&utm_medium=rss&utm_campaign=coast-hotels-expands-portfolio-with-acquisition-of-village-park-inn-hotel-in-calgary",
+      "source": "eHotelier",
+      "source_name": "eHotelier",
+      "sources": [
+        {
+          "id": "hotelitem_e128b1e1980e",
+          "title": "Coast Hotels expands portfolio with acquisition of Village Park Inn Hotel in Calgary",
+          "url": "https://insights.ehotelier.com/global-news/2026/06/17/coast-hotels-expands-portfolio-with-acquisition-of-village-park-inn-hotel-in-calgary/?utm_source=rss&utm_medium=rss&utm_campaign=coast-hotels-expands-portfolio-with-acquisition-of-village-park-inn-hotel-in-calgary",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-06-17T01:17:25Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "eHotelier"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_e128b1e1980e",
+          "title": "Coast Hotels expands portfolio with acquisition of Village Park Inn Hotel in Calgary",
+          "url": "https://insights.ehotelier.com/global-news/2026/06/17/coast-hotels-expands-portfolio-with-acquisition-of-village-park-inn-hotel-in-calgary/?utm_source=rss&utm_medium=rss&utm_campaign=coast-hotels-expands-portfolio-with-acquisition-of-village-park-inn-hotel-in-calgary",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-06-17T01:17:25Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.863,
+      "importance": 0.5979,
+      "importance_score": 0.863,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9895,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-06-17T01:17:25Z",
+      "latest_at": "2026-06-17T01:17:25Z",
+      "primary_item": {
+        "id": "hotelitem_e128b1e1980e",
+        "title": "Coast Hotels expands portfolio with acquisition of Village Park Inn Hotel in Calgary",
+        "url": "https://insights.ehotelier.com/global-news/2026/06/17/coast-hotels-expands-portfolio-with-acquisition-of-village-park-inn-hotel-in-calgary/?utm_source=rss&utm_medium=rss&utm_campaign=coast-hotels-expands-portfolio-with-acquisition-of-village-park-inn-hotel-in-calgary",
+        "source": "eHotelier",
+        "source_name": "eHotelier"
+      }
+    },
+    {
+      "story_id": "story_fdcb7a6a62ca",
+      "title": "How SABA Hospitality’s Digital Compendium & Mobile Ordering boosted revenue and streamlined operations at Ingot Hotel Perth",
+      "url": "https://insights.ehotelier.com/suppliers/2026/06/17/how-saba-hospitalitys-digital-compendium-mobile-ordering-boosted-revenue-and-streamlined-operations-at-ingot-hotel-perth/?utm_source=rss&utm_medium=rss&utm_campaign=how-saba-hospitalitys-digital-compendium-mobile-ordering-boosted-revenue-and-streamlined-operations-at-ingot-hotel-perth",
+      "primary_url": "https://insights.ehotelier.com/suppliers/2026/06/17/how-saba-hospitalitys-digital-compendium-mobile-ordering-boosted-revenue-and-streamlined-operations-at-ingot-hotel-perth/?utm_source=rss&utm_medium=rss&utm_campaign=how-saba-hospitalitys-digital-compendium-mobile-ordering-boosted-revenue-and-streamlined-operations-at-ingot-hotel-perth",
+      "source": "eHotelier",
+      "source_name": "eHotelier",
+      "sources": [
+        {
+          "id": "hotelitem_fdcb7a6a62ca",
+          "title": "How SABA Hospitality’s Digital Compendium & Mobile Ordering boosted revenue and streamlined operations at Ingot Hotel Perth",
+          "url": "https://insights.ehotelier.com/suppliers/2026/06/17/how-saba-hospitalitys-digital-compendium-mobile-ordering-boosted-revenue-and-streamlined-operations-at-ingot-hotel-perth/?utm_source=rss&utm_medium=rss&utm_campaign=how-saba-hospitalitys-digital-compendium-mobile-ordering-boosted-revenue-and-streamlined-operations-at-ingot-hotel-perth",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-06-17T01:25:02Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "eHotelier"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_fdcb7a6a62ca",
+          "title": "How SABA Hospitality’s Digital Compendium & Mobile Ordering boosted revenue and streamlined operations at Ingot Hotel Perth",
+          "url": "https://insights.ehotelier.com/suppliers/2026/06/17/how-saba-hospitalitys-digital-compendium-mobile-ordering-boosted-revenue-and-streamlined-operations-at-ingot-hotel-perth/?utm_source=rss&utm_medium=rss&utm_campaign=how-saba-hospitalitys-digital-compendium-mobile-ordering-boosted-revenue-and-streamlined-operations-at-ingot-hotel-perth",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-06-17T01:25:02Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.863,
+      "importance": 0.5979,
+      "importance_score": 0.863,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9896,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-06-17T01:25:02Z",
+      "latest_at": "2026-06-17T01:25:02Z",
+      "primary_item": {
+        "id": "hotelitem_fdcb7a6a62ca",
+        "title": "How SABA Hospitality’s Digital Compendium & Mobile Ordering boosted revenue and streamlined operations at Ingot Hotel Perth",
+        "url": "https://insights.ehotelier.com/suppliers/2026/06/17/how-saba-hospitalitys-digital-compendium-mobile-ordering-boosted-revenue-and-streamlined-operations-at-ingot-hotel-perth/?utm_source=rss&utm_medium=rss&utm_campaign=how-saba-hospitalitys-digital-compendium-mobile-ordering-boosted-revenue-and-streamlined-operations-at-ingot-hotel-perth",
+        "source": "eHotelier",
+        "source_name": "eHotelier"
+      }
+    },
+    {
+      "story_id": "story_b64c12b13914",
+      "title": "New South Wales’ Vivid Sydney 2026 Festival comes to a close",
+      "url": "https://insights.ehotelier.com/properties/2026/06/17/new-south-wales-vivid-sydney-2026-festival-comes-to-a-close/?utm_source=rss&utm_medium=rss&utm_campaign=new-south-wales-vivid-sydney-2026-festival-comes-to-a-close",
+      "primary_url": "https://insights.ehotelier.com/properties/2026/06/17/new-south-wales-vivid-sydney-2026-festival-comes-to-a-close/?utm_source=rss&utm_medium=rss&utm_campaign=new-south-wales-vivid-sydney-2026-festival-comes-to-a-close",
+      "source": "eHotelier",
+      "source_name": "eHotelier",
+      "sources": [
+        {
+          "id": "hotelitem_b64c12b13914",
+          "title": "New South Wales’ Vivid Sydney 2026 Festival comes to a close",
+          "url": "https://insights.ehotelier.com/properties/2026/06/17/new-south-wales-vivid-sydney-2026-festival-comes-to-a-close/?utm_source=rss&utm_medium=rss&utm_campaign=new-south-wales-vivid-sydney-2026-festival-comes-to-a-close",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-06-17T01:07:37Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "eHotelier"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_b64c12b13914",
+          "title": "New South Wales’ Vivid Sydney 2026 Festival comes to a close",
+          "url": "https://insights.ehotelier.com/properties/2026/06/17/new-south-wales-vivid-sydney-2026-festival-comes-to-a-close/?utm_source=rss&utm_medium=rss&utm_campaign=new-south-wales-vivid-sydney-2026-festival-comes-to-a-close",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-06-17T01:07:37Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8629,
+      "importance": 0.5979,
+      "importance_score": 0.8629,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9893,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-06-17T01:07:37Z",
+      "latest_at": "2026-06-17T01:07:37Z",
+      "primary_item": {
+        "id": "hotelitem_b64c12b13914",
+        "title": "New South Wales’ Vivid Sydney 2026 Festival comes to a close",
+        "url": "https://insights.ehotelier.com/properties/2026/06/17/new-south-wales-vivid-sydney-2026-festival-comes-to-a-close/?utm_source=rss&utm_medium=rss&utm_campaign=new-south-wales-vivid-sydney-2026-festival-comes-to-a-close",
+        "source": "eHotelier",
+        "source_name": "eHotelier"
       }
     },
     {
@@ -901,14 +1078,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8642,
-      "importance": 0.5992,
-      "importance_score": 0.8642,
+      "score": 0.861,
+      "importance": 0.5958,
+      "importance_score": 0.861,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.996,
+        "recency": 0.979,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -923,65 +1100,6 @@
         "url": "https://www.hotelmanagement.net/resource/nfl-sunday-ticket-starts-here",
         "source": "Hotel Management",
         "source_name": "Hotel Management"
-      }
-    },
-    {
-      "story_id": "story_00ff4db66417",
-      "title": "Behind every failed hotel system lies a culture gap",
-      "url": "https://insights.ehotelier.com/suppliers/2026/06/16/behind-every-failed-hotel-system-lies-a-culture-gap/?utm_source=rss&utm_medium=rss&utm_campaign=behind-every-failed-hotel-system-lies-a-culture-gap",
-      "primary_url": "https://insights.ehotelier.com/suppliers/2026/06/16/behind-every-failed-hotel-system-lies-a-culture-gap/?utm_source=rss&utm_medium=rss&utm_campaign=behind-every-failed-hotel-system-lies-a-culture-gap",
-      "source": "eHotelier",
-      "source_name": "eHotelier",
-      "sources": [
-        {
-          "id": "hotelitem_00ff4db66417",
-          "title": "Behind every failed hotel system lies a culture gap",
-          "url": "https://insights.ehotelier.com/suppliers/2026/06/16/behind-every-failed-hotel-system-lies-a-culture-gap/?utm_source=rss&utm_medium=rss&utm_campaign=behind-every-failed-hotel-system-lies-a-culture-gap",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-06-16T01:38:31Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "eHotelier"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_00ff4db66417",
-          "title": "Behind every failed hotel system lies a culture gap",
-          "url": "https://insights.ehotelier.com/suppliers/2026/06/16/behind-every-failed-hotel-system-lies-a-culture-gap/?utm_source=rss&utm_medium=rss&utm_campaign=behind-every-failed-hotel-system-lies-a-culture-gap",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-06-16T01:38:31Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.862,
-      "importance": 0.5969,
-      "importance_score": 0.862,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9845,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-16T01:38:31Z",
-      "latest_at": "2026-06-16T01:38:31Z",
-      "primary_item": {
-        "id": "hotelitem_00ff4db66417",
-        "title": "Behind every failed hotel system lies a culture gap",
-        "url": "https://insights.ehotelier.com/suppliers/2026/06/16/behind-every-failed-hotel-system-lies-a-culture-gap/?utm_source=rss&utm_medium=rss&utm_campaign=behind-every-failed-hotel-system-lies-a-culture-gap",
-        "source": "eHotelier",
-        "source_name": "eHotelier"
       }
     },
     {
@@ -1019,14 +1137,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8613,
-      "importance": 0.5962,
-      "importance_score": 0.8613,
+      "score": 0.858,
+      "importance": 0.5928,
+      "importance_score": 0.858,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9809,
+        "recency": 0.9639,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1041,6 +1159,183 @@
         "url": "https://www.hoteldive.com/news/g6-hospitality-ceo-sonal-sinha-exits-amid-leadership-changes/822978/",
         "source": "Hotel Dive",
         "source_name": "Hotel Dive"
+      }
+    },
+    {
+      "story_id": "story_e4ce0593c384",
+      "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
+      "url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
+      "primary_url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
+      "source": "中国旅游研究院",
+      "source_name": "中国旅游研究院",
+      "sources": [
+        {
+          "id": "hotelitem_e4ce0593c384",
+          "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
+          "url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
+          "source": "中国旅游研究院",
+          "source_name": "中国旅游研究院",
+          "site_id": "cta",
+          "published_at": "2026-06-17T12:40:36.940395Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "中国旅游研究院"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_e4ce0593c384",
+          "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
+          "url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
+          "source": "中国旅游研究院",
+          "source_name": "中国旅游研究院",
+          "site_id": "cta",
+          "published_at": "2026-06-17T12:40:36.940395Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.858,
+      "importance": 0.6,
+      "importance_score": 0.858,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-06-17T12:40:36.940395Z",
+      "latest_at": "2026-06-17T12:40:36.940395Z",
+      "primary_item": {
+        "id": "hotelitem_e4ce0593c384",
+        "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
+        "url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
+        "source": "中国旅游研究院",
+        "source_name": "中国旅游研究院"
+      }
+    },
+    {
+      "story_id": "story_aafbd26fe946",
+      "title": "文化和旅游部端午节假期和汛期、暑期出游提示",
+      "url": "https://www.mct.gov.cn/whzx/whyw/202606/t20260605_966153.htm",
+      "primary_url": "https://www.mct.gov.cn/whzx/whyw/202606/t20260605_966153.htm",
+      "source": "文化和旅游部",
+      "source_name": "文化和旅游部",
+      "sources": [
+        {
+          "id": "hotelitem_aafbd26fe946",
+          "title": "文化和旅游部端午节假期和汛期、暑期出游提示",
+          "url": "https://www.mct.gov.cn/whzx/whyw/202606/t20260605_966153.htm",
+          "source": "文化和旅游部",
+          "source_name": "文化和旅游部",
+          "site_id": "mct",
+          "published_at": "2026-06-17T12:40:36.940395Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "文化和旅游部"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_aafbd26fe946",
+          "title": "文化和旅游部端午节假期和汛期、暑期出游提示",
+          "url": "https://www.mct.gov.cn/whzx/whyw/202606/t20260605_966153.htm",
+          "source": "文化和旅游部",
+          "source_name": "文化和旅游部",
+          "site_id": "mct",
+          "published_at": "2026-06-17T12:40:36.940395Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.858,
+      "importance": 0.6,
+      "importance_score": 0.858,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-06-17T12:40:36.940395Z",
+      "latest_at": "2026-06-17T12:40:36.940395Z",
+      "primary_item": {
+        "id": "hotelitem_aafbd26fe946",
+        "title": "文化和旅游部端午节假期和汛期、暑期出游提示",
+        "url": "https://www.mct.gov.cn/whzx/whyw/202606/t20260605_966153.htm",
+        "source": "文化和旅游部",
+        "source_name": "文化和旅游部"
+      }
+    },
+    {
+      "story_id": "story_e2295ba596c9",
+      "title": "文化和旅游部部级社科研究项目公布",
+      "url": "https://www.mct.gov.cn/whzx/bnsj/whkjs/202606/t20260617_966274.html",
+      "primary_url": "https://www.mct.gov.cn/whzx/bnsj/whkjs/202606/t20260617_966274.html",
+      "source": "文化和旅游部",
+      "source_name": "文化和旅游部",
+      "sources": [
+        {
+          "id": "hotelitem_e2295ba596c9",
+          "title": "文化和旅游部部级社科研究项目公布",
+          "url": "https://www.mct.gov.cn/whzx/bnsj/whkjs/202606/t20260617_966274.html",
+          "source": "文化和旅游部",
+          "source_name": "文化和旅游部",
+          "site_id": "mct",
+          "published_at": "2026-06-17T12:40:36.940395Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "文化和旅游部"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_e2295ba596c9",
+          "title": "文化和旅游部部级社科研究项目公布",
+          "url": "https://www.mct.gov.cn/whzx/bnsj/whkjs/202606/t20260617_966274.html",
+          "source": "文化和旅游部",
+          "source_name": "文化和旅游部",
+          "site_id": "mct",
+          "published_at": "2026-06-17T12:40:36.940395Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.858,
+      "importance": 0.6,
+      "importance_score": 0.858,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-06-17T12:40:36.940395Z",
+      "latest_at": "2026-06-17T12:40:36.940395Z",
+      "primary_item": {
+        "id": "hotelitem_e2295ba596c9",
+        "title": "文化和旅游部部级社科研究项目公布",
+        "url": "https://www.mct.gov.cn/whzx/bnsj/whkjs/202606/t20260617_966274.html",
+        "source": "文化和旅游部",
+        "source_name": "文化和旅游部"
       }
     },
     {
@@ -1078,14 +1373,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8609,
-      "importance": 0.5957,
-      "importance_score": 0.8609,
+      "score": 0.8576,
+      "importance": 0.5923,
+      "importance_score": 0.8576,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9785,
+        "recency": 0.9615,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1137,14 +1432,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.86,
-      "importance": 0.5948,
-      "importance_score": 0.86,
+      "score": 0.8567,
+      "importance": 0.5914,
+      "importance_score": 0.8567,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9742,
+        "recency": 0.9572,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1159,65 +1454,6 @@
         "url": "https://www.hoteldive.com/news/luxury-hotels-enter-compelling-investment-cycle-jll-report/822906/",
         "source": "Hotel Dive",
         "source_name": "Hotel Dive"
-      }
-    },
-    {
-      "story_id": "story_bbf431f6352c",
-      "title": "中青旅：拟出售山水酒店51%股权及债权",
-      "url": "https://www.meadin.com/jd/297422.html",
-      "primary_url": "https://www.meadin.com/jd/297422.html",
-      "source": "迈点研究院",
-      "source_name": "迈点研究院",
-      "sources": [
-        {
-          "id": "hotelitem_bbf431f6352c",
-          "title": "中青旅：拟出售山水酒店51%股权及债权",
-          "url": "https://www.meadin.com/jd/297422.html",
-          "source": "迈点研究院",
-          "source_name": "迈点研究院",
-          "site_id": "meadin",
-          "published_at": "2026-06-16T18:22:07.725800Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "迈点研究院"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_bbf431f6352c",
-          "title": "中青旅：拟出售山水酒店51%股权及债权",
-          "url": "https://www.meadin.com/jd/297422.html",
-          "source": "迈点研究院",
-          "source_name": "迈点研究院",
-          "site_id": "meadin",
-          "published_at": "2026-06-16T18:22:07.725800Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.86,
-      "importance": 0.6,
-      "importance_score": 0.86,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-16T18:22:07.725800Z",
-      "latest_at": "2026-06-16T18:22:07.725800Z",
-      "primary_item": {
-        "id": "hotelitem_bbf431f6352c",
-        "title": "中青旅：拟出售山水酒店51%股权及债权",
-        "url": "https://www.meadin.com/jd/297422.html",
-        "source": "迈点研究院",
-        "source_name": "迈点研究院"
       }
     },
     {
@@ -1255,14 +1491,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.859,
-      "importance": 0.5938,
-      "importance_score": 0.859,
+      "score": 0.8558,
+      "importance": 0.5904,
+      "importance_score": 0.8558,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9691,
+        "recency": 0.9522,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1280,239 +1516,62 @@
       }
     },
     {
-      "story_id": "story_e4ce0593c384",
-      "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
-      "url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
-      "primary_url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
-      "source": "中国旅游研究院",
-      "source_name": "中国旅游研究院",
+      "story_id": "story_455233920b65",
+      "title": "Ruby opens first hotel in Sweden with Stockholm launch",
+      "url": "https://boutiquehotelnews.com/news/hotel/ruby-first-hotel-sweden/?utm_source=rss&utm_medium=rss&utm_campaign=ruby-first-hotel-sweden",
+      "primary_url": "https://boutiquehotelnews.com/news/hotel/ruby-first-hotel-sweden/?utm_source=rss&utm_medium=rss&utm_campaign=ruby-first-hotel-sweden",
+      "source": "Boutique Hotel News",
+      "source_name": "Boutique Hotel News",
       "sources": [
         {
-          "id": "hotelitem_e4ce0593c384",
-          "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
-          "url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
-          "source": "中国旅游研究院",
-          "source_name": "中国旅游研究院",
-          "site_id": "cta",
-          "published_at": "2026-06-16T18:22:07.725800Z"
+          "id": "hotelitem_455233920b65",
+          "title": "Ruby opens first hotel in Sweden with Stockholm launch",
+          "url": "https://boutiquehotelnews.com/news/hotel/ruby-first-hotel-sweden/?utm_source=rss&utm_medium=rss&utm_campaign=ruby-first-hotel-sweden",
+          "source": "Boutique Hotel News",
+          "source_name": "Boutique Hotel News",
+          "site_id": "boutiquehotel",
+          "published_at": "2026-06-17T10:14:58Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "中国旅游研究院"
+        "Boutique Hotel News"
       ],
       "items": [
         {
-          "id": "hotelitem_e4ce0593c384",
-          "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
-          "url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
-          "source": "中国旅游研究院",
-          "source_name": "中国旅游研究院",
-          "site_id": "cta",
-          "published_at": "2026-06-16T18:22:07.725800Z"
+          "id": "hotelitem_455233920b65",
+          "title": "Ruby opens first hotel in Sweden with Stockholm launch",
+          "url": "https://boutiquehotelnews.com/news/hotel/ruby-first-hotel-sweden/?utm_source=rss&utm_medium=rss&utm_campaign=ruby-first-hotel-sweden",
+          "source": "Boutique Hotel News",
+          "source_name": "Boutique Hotel News",
+          "site_id": "boutiquehotel",
+          "published_at": "2026-06-17T10:14:58Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.858,
-      "importance": 0.6,
-      "importance_score": 0.858,
+      "score": 0.8496,
+      "importance": 0.5996,
+      "importance_score": 0.8496,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9978,
         "story_heat": 0.0
       },
       "category": "watch",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-06-16T18:22:07.725800Z",
-      "latest_at": "2026-06-16T18:22:07.725800Z",
+      "earliest_at": "2026-06-17T10:14:58Z",
+      "latest_at": "2026-06-17T10:14:58Z",
       "primary_item": {
-        "id": "hotelitem_e4ce0593c384",
-        "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
-        "url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
-        "source": "中国旅游研究院",
-        "source_name": "中国旅游研究院"
-      }
-    },
-    {
-      "story_id": "story_aafbd26fe946",
-      "title": "文化和旅游部端午节假期和汛期、暑期出游提示",
-      "url": "https://www.mct.gov.cn/whzx/whyw/202606/t20260605_966153.htm",
-      "primary_url": "https://www.mct.gov.cn/whzx/whyw/202606/t20260605_966153.htm",
-      "source": "文化和旅游部",
-      "source_name": "文化和旅游部",
-      "sources": [
-        {
-          "id": "hotelitem_aafbd26fe946",
-          "title": "文化和旅游部端午节假期和汛期、暑期出游提示",
-          "url": "https://www.mct.gov.cn/whzx/whyw/202606/t20260605_966153.htm",
-          "source": "文化和旅游部",
-          "source_name": "文化和旅游部",
-          "site_id": "mct",
-          "published_at": "2026-06-16T18:22:07.725800Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "文化和旅游部"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_aafbd26fe946",
-          "title": "文化和旅游部端午节假期和汛期、暑期出游提示",
-          "url": "https://www.mct.gov.cn/whzx/whyw/202606/t20260605_966153.htm",
-          "source": "文化和旅游部",
-          "source_name": "文化和旅游部",
-          "site_id": "mct",
-          "published_at": "2026-06-16T18:22:07.725800Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.858,
-      "importance": 0.6,
-      "importance_score": 0.858,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-16T18:22:07.725800Z",
-      "latest_at": "2026-06-16T18:22:07.725800Z",
-      "primary_item": {
-        "id": "hotelitem_aafbd26fe946",
-        "title": "文化和旅游部端午节假期和汛期、暑期出游提示",
-        "url": "https://www.mct.gov.cn/whzx/whyw/202606/t20260605_966153.htm",
-        "source": "文化和旅游部",
-        "source_name": "文化和旅游部"
-      }
-    },
-    {
-      "story_id": "story_c163c6455baa",
-      "title": "How hotels can maximize wedding revenue during peak summer season",
-      "url": "https://insights.ehotelier.com/insights/2026/06/15/how-hotels-can-maximize-wedding-revenue-during-peak-summer-season/?utm_source=rss&utm_medium=rss&utm_campaign=how-hotels-can-maximize-wedding-revenue-during-peak-summer-season",
-      "primary_url": "https://insights.ehotelier.com/insights/2026/06/15/how-hotels-can-maximize-wedding-revenue-during-peak-summer-season/?utm_source=rss&utm_medium=rss&utm_campaign=how-hotels-can-maximize-wedding-revenue-during-peak-summer-season",
-      "source": "eHotelier",
-      "source_name": "eHotelier",
-      "sources": [
-        {
-          "id": "hotelitem_c163c6455baa",
-          "title": "How hotels can maximize wedding revenue during peak summer season",
-          "url": "https://insights.ehotelier.com/insights/2026/06/15/how-hotels-can-maximize-wedding-revenue-during-peak-summer-season/?utm_source=rss&utm_medium=rss&utm_campaign=how-hotels-can-maximize-wedding-revenue-during-peak-summer-season",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-06-15T01:44:53Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "eHotelier"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_c163c6455baa",
-          "title": "How hotels can maximize wedding revenue during peak summer season",
-          "url": "https://insights.ehotelier.com/insights/2026/06/15/how-hotels-can-maximize-wedding-revenue-during-peak-summer-season/?utm_source=rss&utm_medium=rss&utm_campaign=how-hotels-can-maximize-wedding-revenue-during-peak-summer-season",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-06-15T01:44:53Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8577,
-      "importance": 0.5925,
-      "importance_score": 0.8577,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9624,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-15T01:44:53Z",
-      "latest_at": "2026-06-15T01:44:53Z",
-      "primary_item": {
-        "id": "hotelitem_c163c6455baa",
-        "title": "How hotels can maximize wedding revenue during peak summer season",
-        "url": "https://insights.ehotelier.com/insights/2026/06/15/how-hotels-can-maximize-wedding-revenue-during-peak-summer-season/?utm_source=rss&utm_medium=rss&utm_campaign=how-hotels-can-maximize-wedding-revenue-during-peak-summer-season",
-        "source": "eHotelier",
-        "source_name": "eHotelier"
-      }
-    },
-    {
-      "story_id": "story_9f388464e4d5",
-      "title": "Kerten CEO Says First India Property by Year-End, Pipeline Likely to Exceed 1,000-Key Target: Exclusive",
-      "url": "https://skift.com/2026/06/12/kerten-ceo-says-first-india-property-by-year-end-pipeline-likely-to-exceed-1000-key-target-exclusive/",
-      "primary_url": "https://skift.com/2026/06/12/kerten-ceo-says-first-india-property-by-year-end-pipeline-likely-to-exceed-1000-key-target-exclusive/",
-      "source": "Skift Hospitality",
-      "source_name": "Skift Hospitality",
-      "sources": [
-        {
-          "id": "hotelitem_9f388464e4d5",
-          "title": "Kerten CEO Says First India Property by Year-End, Pipeline Likely to Exceed 1,000-Key Target: Exclusive",
-          "url": "https://skift.com/2026/06/12/kerten-ceo-says-first-india-property-by-year-end-pipeline-likely-to-exceed-1000-key-target-exclusive/",
-          "source": "Skift Hospitality",
-          "source_name": "Skift Hospitality",
-          "site_id": "skift",
-          "published_at": "2026-06-12T04:58:58Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Skift Hospitality"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_9f388464e4d5",
-          "title": "Kerten CEO Says First India Property by Year-End, Pipeline Likely to Exceed 1,000-Key Target: Exclusive",
-          "url": "https://skift.com/2026/06/12/kerten-ceo-says-first-india-property-by-year-end-pipeline-likely-to-exceed-1000-key-target-exclusive/",
-          "source": "Skift Hospitality",
-          "source_name": "Skift Hospitality",
-          "site_id": "skift",
-          "published_at": "2026-06-12T04:58:58Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8455,
-      "importance": 0.5797,
-      "importance_score": 0.8455,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.8987,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-12T04:58:58Z",
-      "latest_at": "2026-06-12T04:58:58Z",
-      "primary_item": {
-        "id": "hotelitem_9f388464e4d5",
-        "title": "Kerten CEO Says First India Property by Year-End, Pipeline Likely to Exceed 1,000-Key Target: Exclusive",
-        "url": "https://skift.com/2026/06/12/kerten-ceo-says-first-india-property-by-year-end-pipeline-likely-to-exceed-1000-key-target-exclusive/",
-        "source": "Skift Hospitality",
-        "source_name": "Skift Hospitality"
+        "id": "hotelitem_455233920b65",
+        "title": "Ruby opens first hotel in Sweden with Stockholm launch",
+        "url": "https://boutiquehotelnews.com/news/hotel/ruby-first-hotel-sweden/?utm_source=rss&utm_medium=rss&utm_campaign=ruby-first-hotel-sweden",
+        "source": "Boutique Hotel News",
+        "source_name": "Boutique Hotel News"
       }
     },
     {
@@ -1550,14 +1609,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8317,
-      "importance": 0.581,
-      "importance_score": 0.8317,
+      "score": 0.8284,
+      "importance": 0.5776,
+      "importance_score": 0.8284,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9051,
+        "recency": 0.8882,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1572,6 +1631,124 @@
         "url": "https://boutiquehotelnews.com/news/movers-and-shakers/coolrooms-hotels-madrid-general-manager/?utm_source=rss&utm_medium=rss&utm_campaign=coolrooms-hotels-madrid-general-manager",
         "source": "Boutique Hotel News",
         "source_name": "Boutique Hotel News"
+      }
+    },
+    {
+      "story_id": "story_280c4343f683",
+      "title": "Marriott Hotel Owners Want a Bigger Cut of Loyalty Income",
+      "url": "https://skift.com/2026/06/16/marriott-hotel-owners-want-a-bigger-cut-of-loyalty-income/",
+      "primary_url": "https://skift.com/2026/06/16/marriott-hotel-owners-want-a-bigger-cut-of-loyalty-income/",
+      "source": "Skift Hospitality",
+      "source_name": "Skift Hospitality",
+      "sources": [
+        {
+          "id": "hotelitem_280c4343f683",
+          "title": "Marriott Hotel Owners Want a Bigger Cut of Loyalty Income",
+          "url": "https://skift.com/2026/06/16/marriott-hotel-owners-want-a-bigger-cut-of-loyalty-income/",
+          "source": "Skift Hospitality",
+          "source_name": "Skift Hospitality",
+          "site_id": "skift",
+          "published_at": "2026-06-16T21:35:06Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Skift Hospitality"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_280c4343f683",
+          "title": "Marriott Hotel Owners Want a Bigger Cut of Loyalty Income",
+          "url": "https://skift.com/2026/06/16/marriott-hotel-owners-want-a-bigger-cut-of-loyalty-income/",
+          "source": "Skift Hospitality",
+          "source_name": "Skift Hospitality",
+          "site_id": "skift",
+          "published_at": "2026-06-16T21:35:06Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8173,
+      "importance": 0.5972,
+      "importance_score": 0.8173,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.986,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-06-16T21:35:06Z",
+      "latest_at": "2026-06-16T21:35:06Z",
+      "primary_item": {
+        "id": "hotelitem_280c4343f683",
+        "title": "Marriott Hotel Owners Want a Bigger Cut of Loyalty Income",
+        "url": "https://skift.com/2026/06/16/marriott-hotel-owners-want-a-bigger-cut-of-loyalty-income/",
+        "source": "Skift Hospitality",
+        "source_name": "Skift Hospitality"
+      }
+    },
+    {
+      "story_id": "story_35956c949670",
+      "title": "飞猪针对青海海西地震启动应急响应机制",
+      "url": "https://www.pinchain.com/article/347691",
+      "primary_url": "https://www.pinchain.com/article/347691",
+      "source": "品橙旅游",
+      "source_name": "品橙旅游",
+      "sources": [
+        {
+          "id": "hotelitem_35956c949670",
+          "title": "飞猪针对青海海西地震启动应急响应机制",
+          "url": "https://www.pinchain.com/article/347691",
+          "source": "品橙旅游",
+          "source_name": "品橙旅游",
+          "site_id": "pinchain",
+          "published_at": "2026-06-17T07:07:09Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "品橙旅游"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_35956c949670",
+          "title": "飞猪针对青海海西地震启动应急响应机制",
+          "url": "https://www.pinchain.com/article/347691",
+          "source": "品橙旅游",
+          "source_name": "品橙旅游",
+          "site_id": "pinchain",
+          "published_at": "2026-06-17T07:07:09Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8165,
+      "importance": 0.599,
+      "importance_score": 0.8165,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9949,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-06-17T07:07:09Z",
+      "latest_at": "2026-06-17T07:07:09Z",
+      "primary_item": {
+        "id": "hotelitem_35956c949670",
+        "title": "飞猪针对青海海西地震启动应急响应机制",
+        "url": "https://www.pinchain.com/article/347691",
+        "source": "品橙旅游",
+        "source_name": "品橙旅游"
       }
     },
     {
@@ -1609,14 +1786,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.819,
-      "importance": 0.599,
-      "importance_score": 0.819,
+      "score": 0.8158,
+      "importance": 0.5956,
+      "importance_score": 0.8158,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.995,
+        "recency": 0.9781,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1631,183 +1808,6 @@
         "url": "https://skift.com/2026/06/16/marriott-begins-rollout-of-ai-trip-planner-on-site-and-app/",
         "source": "Skift Hospitality",
         "source_name": "Skift Hospitality"
-      }
-    },
-    {
-      "story_id": "story_6b8ba4a281aa",
-      "title": "Choice Hotels International opens 100th property in Japan with new opening in Chitose City",
-      "url": "https://insights.ehotelier.com/properties/2026/06/16/choice-hotels-international-opens-100th-property-in-japan-with-new-opening-in-chitose-city/?utm_source=rss&utm_medium=rss&utm_campaign=choice-hotels-international-opens-100th-property-in-japan-with-new-opening-in-chitose-city",
-      "primary_url": "https://insights.ehotelier.com/properties/2026/06/16/choice-hotels-international-opens-100th-property-in-japan-with-new-opening-in-chitose-city/?utm_source=rss&utm_medium=rss&utm_campaign=choice-hotels-international-opens-100th-property-in-japan-with-new-opening-in-chitose-city",
-      "source": "eHotelier",
-      "source_name": "eHotelier",
-      "sources": [
-        {
-          "id": "hotelitem_6b8ba4a281aa",
-          "title": "Choice Hotels International opens 100th property in Japan with new opening in Chitose City",
-          "url": "https://insights.ehotelier.com/properties/2026/06/16/choice-hotels-international-opens-100th-property-in-japan-with-new-opening-in-chitose-city/?utm_source=rss&utm_medium=rss&utm_campaign=choice-hotels-international-opens-100th-property-in-japan-with-new-opening-in-chitose-city",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-06-16T01:13:17Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "eHotelier"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_6b8ba4a281aa",
-          "title": "Choice Hotels International opens 100th property in Japan with new opening in Chitose City",
-          "url": "https://insights.ehotelier.com/properties/2026/06/16/choice-hotels-international-opens-100th-property-in-japan-with-new-opening-in-chitose-city/?utm_source=rss&utm_medium=rss&utm_campaign=choice-hotels-international-opens-100th-property-in-japan-with-new-opening-in-chitose-city",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-06-16T01:13:17Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8169,
-      "importance": 0.5968,
-      "importance_score": 0.8169,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9841,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-16T01:13:17Z",
-      "latest_at": "2026-06-16T01:13:17Z",
-      "primary_item": {
-        "id": "hotelitem_6b8ba4a281aa",
-        "title": "Choice Hotels International opens 100th property in Japan with new opening in Chitose City",
-        "url": "https://insights.ehotelier.com/properties/2026/06/16/choice-hotels-international-opens-100th-property-in-japan-with-new-opening-in-chitose-city/?utm_source=rss&utm_medium=rss&utm_campaign=choice-hotels-international-opens-100th-property-in-japan-with-new-opening-in-chitose-city",
-        "source": "eHotelier",
-        "source_name": "eHotelier"
-      }
-    },
-    {
-      "story_id": "story_bbe19aa108e6",
-      "title": "同程旅行:退休“特种兵”们,正在“硬控”国内长线游",
-      "url": "https://www.pinchain.com/article/347682",
-      "primary_url": "https://www.pinchain.com/article/347682",
-      "source": "品橙旅游",
-      "source_name": "品橙旅游",
-      "sources": [
-        {
-          "id": "hotelitem_bbe19aa108e6",
-          "title": "同程旅行:退休“特种兵”们,正在“硬控”国内长线游",
-          "url": "https://www.pinchain.com/article/347682",
-          "source": "品橙旅游",
-          "source_name": "品橙旅游",
-          "site_id": "pinchain",
-          "published_at": "2026-06-16T09:30:38Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "品橙旅游"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_bbe19aa108e6",
-          "title": "同程旅行:退休“特种兵”们,正在“硬控”国内长线游",
-          "url": "https://www.pinchain.com/article/347682",
-          "source": "品橙旅游",
-          "source_name": "品橙旅游",
-          "site_id": "pinchain",
-          "published_at": "2026-06-16T09:30:38Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8159,
-      "importance": 0.5984,
-      "importance_score": 0.8159,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9918,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-16T09:30:38Z",
-      "latest_at": "2026-06-16T09:30:38Z",
-      "primary_item": {
-        "id": "hotelitem_bbe19aa108e6",
-        "title": "同程旅行:退休“特种兵”们,正在“硬控”国内长线游",
-        "url": "https://www.pinchain.com/article/347682",
-        "source": "品橙旅游",
-        "source_name": "品橙旅游"
-      }
-    },
-    {
-      "story_id": "story_40bc469ee772",
-      "title": "同程旅行旗下两大酒管公司荣登中国饭店集团60强",
-      "url": "https://www.pinchain.com/article/347686",
-      "primary_url": "https://www.pinchain.com/article/347686",
-      "source": "品橙旅游",
-      "source_name": "品橙旅游",
-      "sources": [
-        {
-          "id": "hotelitem_40bc469ee772",
-          "title": "同程旅行旗下两大酒管公司荣登中国饭店集团60强",
-          "url": "https://www.pinchain.com/article/347686",
-          "source": "品橙旅游",
-          "source_name": "品橙旅游",
-          "site_id": "pinchain",
-          "published_at": "2026-06-16T09:33:54Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "品橙旅游"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_40bc469ee772",
-          "title": "同程旅行旗下两大酒管公司荣登中国饭店集团60强",
-          "url": "https://www.pinchain.com/article/347686",
-          "source": "品橙旅游",
-          "source_name": "品橙旅游",
-          "site_id": "pinchain",
-          "published_at": "2026-06-16T09:33:54Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8159,
-      "importance": 0.5984,
-      "importance_score": 0.8159,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9918,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-16T09:33:54Z",
-      "latest_at": "2026-06-16T09:33:54Z",
-      "primary_item": {
-        "id": "hotelitem_40bc469ee772",
-        "title": "同程旅行旗下两大酒管公司荣登中国饭店集团60强",
-        "url": "https://www.pinchain.com/article/347686",
-        "source": "品橙旅游",
-        "source_name": "品橙旅游"
       }
     }
   ]
