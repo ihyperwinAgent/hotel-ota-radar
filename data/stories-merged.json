@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-17T22:20:12.317601Z",
+  "generated_at": "2026-06-18T12:35:33.117175Z",
   "window_hours": 1080,
   "total_stories": 30,
   "stories": [
@@ -38,14 +38,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.974,
-      "importance": 0.5631,
-      "importance_score": 0.974,
+      "score": 0.9702,
+      "importance": 0.5605,
+      "importance_score": 0.9702,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8156,
+        "recency": 0.8024,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -97,14 +97,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9534,
-      "importance": 0.5984,
-      "importance_score": 0.9534,
+      "score": 0.9509,
+      "importance": 0.5957,
+      "importance_score": 0.9509,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9919,
+        "recency": 0.9787,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -119,65 +119,6 @@
         "url": "https://www.hoteldive.com/news/hilton-boston-back-bay-completes-multimillion-dollar-renovation/823128/",
         "source": "Hotel Dive",
         "source_name": "Hotel Dive"
-      }
-    },
-    {
-      "story_id": "story_b1c0d229c5c9",
-      "title": "Yudith Dwi Astuti appointed as Director of Public Relations and Marketing Communications at Four Seasons Hotel Jakarta",
-      "url": "https://insights.ehotelier.com/people/2026/06/17/yudith-dwi-astuti-appointed-as-director-of-public-relations-and-marketing-communications-at-four-seasons-hotel-jakarta/?utm_source=rss&utm_medium=rss&utm_campaign=yudith-dwi-astuti-appointed-as-director-of-public-relations-and-marketing-communications-at-four-seasons-hotel-jakarta",
-      "primary_url": "https://insights.ehotelier.com/people/2026/06/17/yudith-dwi-astuti-appointed-as-director-of-public-relations-and-marketing-communications-at-four-seasons-hotel-jakarta/?utm_source=rss&utm_medium=rss&utm_campaign=yudith-dwi-astuti-appointed-as-director-of-public-relations-and-marketing-communications-at-four-seasons-hotel-jakarta",
-      "source": "eHotelier",
-      "source_name": "eHotelier",
-      "sources": [
-        {
-          "id": "hotelitem_b1c0d229c5c9",
-          "title": "Yudith Dwi Astuti appointed as Director of Public Relations and Marketing Communications at Four Seasons Hotel Jakarta",
-          "url": "https://insights.ehotelier.com/people/2026/06/17/yudith-dwi-astuti-appointed-as-director-of-public-relations-and-marketing-communications-at-four-seasons-hotel-jakarta/?utm_source=rss&utm_medium=rss&utm_campaign=yudith-dwi-astuti-appointed-as-director-of-public-relations-and-marketing-communications-at-four-seasons-hotel-jakarta",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-06-17T01:14:13Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "eHotelier"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_b1c0d229c5c9",
-          "title": "Yudith Dwi Astuti appointed as Director of Public Relations and Marketing Communications at Four Seasons Hotel Jakarta",
-          "url": "https://insights.ehotelier.com/people/2026/06/17/yudith-dwi-astuti-appointed-as-director-of-public-relations-and-marketing-communications-at-four-seasons-hotel-jakarta/?utm_source=rss&utm_medium=rss&utm_campaign=yudith-dwi-astuti-appointed-as-director-of-public-relations-and-marketing-communications-at-four-seasons-hotel-jakarta",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-06-17T01:14:13Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.9512,
-      "importance": 0.5961,
-      "importance_score": 0.9512,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9805,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-17T01:14:13Z",
-      "latest_at": "2026-06-17T01:14:13Z",
-      "primary_item": {
-        "id": "hotelitem_b1c0d229c5c9",
-        "title": "Yudith Dwi Astuti appointed as Director of Public Relations and Marketing Communications at Four Seasons Hotel Jakarta",
-        "url": "https://insights.ehotelier.com/people/2026/06/17/yudith-dwi-astuti-appointed-as-director-of-public-relations-and-marketing-communications-at-four-seasons-hotel-jakarta/?utm_source=rss&utm_medium=rss&utm_campaign=yudith-dwi-astuti-appointed-as-director-of-public-relations-and-marketing-communications-at-four-seasons-hotel-jakarta",
-        "source": "eHotelier",
-        "source_name": "eHotelier"
       }
     },
     {
@@ -215,14 +156,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9495,
-      "importance": 0.5943,
-      "importance_score": 0.9495,
+      "score": 0.947,
+      "importance": 0.5917,
+      "importance_score": 0.947,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9717,
+        "recency": 0.9585,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -237,65 +178,6 @@
         "url": "https://skift.com/2026/06/16/radissons-net-zero-experiment-how-it-kept-costs-even/",
         "source": "Skift Hospitality",
         "source_name": "Skift Hospitality"
-      }
-    },
-    {
-      "story_id": "story_16327c8568fa",
-      "title": "Why travelers are venturing to Sabah’s quieter coastal escapes",
-      "url": "https://insights.ehotelier.com/insights/2026/06/16/why-travelers-are-venturing-to-sabahs-quieter-coastal-escapes/?utm_source=rss&utm_medium=rss&utm_campaign=why-travelers-are-venturing-to-sabahs-quieter-coastal-escapes",
-      "primary_url": "https://insights.ehotelier.com/insights/2026/06/16/why-travelers-are-venturing-to-sabahs-quieter-coastal-escapes/?utm_source=rss&utm_medium=rss&utm_campaign=why-travelers-are-venturing-to-sabahs-quieter-coastal-escapes",
-      "source": "eHotelier",
-      "source_name": "eHotelier",
-      "sources": [
-        {
-          "id": "hotelitem_16327c8568fa",
-          "title": "Why travelers are venturing to Sabah’s quieter coastal escapes",
-          "url": "https://insights.ehotelier.com/insights/2026/06/16/why-travelers-are-venturing-to-sabahs-quieter-coastal-escapes/?utm_source=rss&utm_medium=rss&utm_campaign=why-travelers-are-venturing-to-sabahs-quieter-coastal-escapes",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-06-16T01:52:10Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "eHotelier"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_16327c8568fa",
-          "title": "Why travelers are venturing to Sabah’s quieter coastal escapes",
-          "url": "https://insights.ehotelier.com/insights/2026/06/16/why-travelers-are-venturing-to-sabahs-quieter-coastal-escapes/?utm_source=rss&utm_medium=rss&utm_campaign=why-travelers-are-venturing-to-sabahs-quieter-coastal-escapes",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-06-16T01:52:10Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.9471,
-      "importance": 0.5918,
-      "importance_score": 0.9471,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9588,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-16T01:52:10Z",
-      "latest_at": "2026-06-16T01:52:10Z",
-      "primary_item": {
-        "id": "hotelitem_16327c8568fa",
-        "title": "Why travelers are venturing to Sabah’s quieter coastal escapes",
-        "url": "https://insights.ehotelier.com/insights/2026/06/16/why-travelers-are-venturing-to-sabahs-quieter-coastal-escapes/?utm_source=rss&utm_medium=rss&utm_campaign=why-travelers-are-venturing-to-sabahs-quieter-coastal-escapes",
-        "source": "eHotelier",
-        "source_name": "eHotelier"
       }
     },
     {
@@ -333,14 +215,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9465,
-      "importance": 0.5444,
-      "importance_score": 0.9465,
+      "score": 0.9427,
+      "importance": 0.5417,
+      "importance_score": 0.9427,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.7219,
+        "recency": 0.7087,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -392,14 +274,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9442,
-      "importance": 0.5888,
-      "importance_score": 0.9442,
+      "score": 0.9417,
+      "importance": 0.5862,
+      "importance_score": 0.9417,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9441,
+        "recency": 0.9309,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -451,14 +333,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9332,
-      "importance": 0.593,
-      "importance_score": 0.9332,
+      "score": 0.9307,
+      "importance": 0.5904,
+      "importance_score": 0.9307,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.965,
+        "recency": 0.9518,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -510,14 +392,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9325,
-      "importance": 0.5767,
-      "importance_score": 0.9325,
+      "score": 0.93,
+      "importance": 0.574,
+      "importance_score": 0.93,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8834,
+        "recency": 0.8702,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -549,7 +431,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-06-17T22:20:12.317601Z"
+          "published_at": "2026-06-18T12:35:33.117175Z"
         },
         {
           "id": "hotelitem_c7c15b7680c9",
@@ -558,7 +440,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-06-17T22:20:12.317601Z"
+          "published_at": "2026-06-18T12:35:33.117175Z"
         },
         {
           "id": "hotelitem_6d8fa145e8af",
@@ -567,7 +449,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-06-17T22:20:12.317601Z"
+          "published_at": "2026-06-18T12:35:33.117175Z"
         }
       ],
       "source_count": 3,
@@ -582,7 +464,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-06-17T22:20:12.317601Z"
+          "published_at": "2026-06-18T12:35:33.117175Z"
         },
         {
           "id": "hotelitem_c7c15b7680c9",
@@ -591,7 +473,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-06-17T22:20:12.317601Z"
+          "published_at": "2026-06-18T12:35:33.117175Z"
         },
         {
           "id": "hotelitem_6d8fa145e8af",
@@ -600,7 +482,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-06-17T22:20:12.317601Z"
+          "published_at": "2026-06-18T12:35:33.117175Z"
         }
       ],
       "item_count": 3,
@@ -620,8 +502,8 @@
         "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-06-17T22:20:12.317601Z",
-      "latest_at": "2026-06-17T22:20:12.317601Z",
+      "earliest_at": "2026-06-18T12:35:33.117175Z",
+      "latest_at": "2026-06-18T12:35:33.117175Z",
       "primary_item": {
         "id": "hotelitem_d4370964909c",
         "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
@@ -631,80 +513,21 @@
       }
     },
     {
-      "story_id": "story_6f00f28880d0",
-      "title": "Airbnb is not the enemy: Jesse Stein on the platform’s hotel strategy",
-      "url": "https://boutiquehotelnews.com/podcasts/airbnb-jesse-stein/?utm_source=rss&utm_medium=rss&utm_campaign=airbnb-jesse-stein",
-      "primary_url": "https://boutiquehotelnews.com/podcasts/airbnb-jesse-stein/?utm_source=rss&utm_medium=rss&utm_campaign=airbnb-jesse-stein",
-      "source": "Boutique Hotel News",
-      "source_name": "Boutique Hotel News",
-      "sources": [
-        {
-          "id": "hotelitem_6f00f28880d0",
-          "title": "Airbnb is not the enemy: Jesse Stein on the platform’s hotel strategy",
-          "url": "https://boutiquehotelnews.com/podcasts/airbnb-jesse-stein/?utm_source=rss&utm_medium=rss&utm_campaign=airbnb-jesse-stein",
-          "source": "Boutique Hotel News",
-          "source_name": "Boutique Hotel News",
-          "site_id": "boutiquehotel",
-          "published_at": "2026-06-10T11:52:18Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Boutique Hotel News"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_6f00f28880d0",
-          "title": "Airbnb is not the enemy: Jesse Stein on the platform’s hotel strategy",
-          "url": "https://boutiquehotelnews.com/podcasts/airbnb-jesse-stein/?utm_source=rss&utm_medium=rss&utm_campaign=airbnb-jesse-stein",
-          "source": "Boutique Hotel News",
-          "source_name": "Boutique Hotel News",
-          "site_id": "boutiquehotel",
-          "published_at": "2026-06-10T11:52:18Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.9072,
-      "importance": 0.567,
-      "importance_score": 0.9072,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.8348,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-10T11:52:18Z",
-      "latest_at": "2026-06-10T11:52:18Z",
-      "primary_item": {
-        "id": "hotelitem_6f00f28880d0",
-        "title": "Airbnb is not the enemy: Jesse Stein on the platform’s hotel strategy",
-        "url": "https://boutiquehotelnews.com/podcasts/airbnb-jesse-stein/?utm_source=rss&utm_medium=rss&utm_campaign=airbnb-jesse-stein",
-        "source": "Boutique Hotel News",
-        "source_name": "Boutique Hotel News"
-      }
-    },
-    {
-      "story_id": "story_b8c46969e353",
-      "title": "携程 Trip.Best 新加坡站成功举办，助力四川入境游迈向全球",
-      "url": "https://www.tripvivid.com/47315.html",
-      "primary_url": "https://www.tripvivid.com/47315.html",
+      "story_id": "story_86885009de08",
+      "title": "文旅惠报|岭南控股与重庆黔江区签署战略合作协议；厦门国有资本牵手阿那亚，打造集美岛滨海文旅项目",
+      "url": "https://www.tripvivid.com/47439.html",
+      "primary_url": "https://www.tripvivid.com/47439.html",
       "source": "执惠 TripVivid",
       "source_name": "执惠 TripVivid",
       "sources": [
         {
-          "id": "hotelitem_b8c46969e353",
-          "title": "携程 Trip.Best 新加坡站成功举办，助力四川入境游迈向全球",
-          "url": "https://www.tripvivid.com/47315.html",
+          "id": "hotelitem_86885009de08",
+          "title": "文旅惠报|岭南控股与重庆黔江区签署战略合作协议；厦门国有资本牵手阿那亚，打造集美岛滨海文旅项目",
+          "url": "https://www.tripvivid.com/47439.html",
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-06-17T22:20:12.317601Z"
+          "published_at": "2026-06-18T12:35:33.117175Z"
         }
       ],
       "source_count": 1,
@@ -713,13 +536,13 @@
       ],
       "items": [
         {
-          "id": "hotelitem_b8c46969e353",
-          "title": "携程 Trip.Best 新加坡站成功举办，助力四川入境游迈向全球",
-          "url": "https://www.tripvivid.com/47315.html",
+          "id": "hotelitem_86885009de08",
+          "title": "文旅惠报|岭南控股与重庆黔江区签署战略合作协议；厦门国有资本牵手阿那亚，打造集美岛滨海文旅项目",
+          "url": "https://www.tripvivid.com/47439.html",
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-06-17T22:20:12.317601Z"
+          "published_at": "2026-06-18T12:35:33.117175Z"
         }
       ],
       "item_count": 1,
@@ -738,71 +561,12 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-06-17T22:20:12.317601Z",
-      "latest_at": "2026-06-17T22:20:12.317601Z",
+      "earliest_at": "2026-06-18T12:35:33.117175Z",
+      "latest_at": "2026-06-18T12:35:33.117175Z",
       "primary_item": {
-        "id": "hotelitem_b8c46969e353",
-        "title": "携程 Trip.Best 新加坡站成功举办，助力四川入境游迈向全球",
-        "url": "https://www.tripvivid.com/47315.html",
-        "source": "执惠 TripVivid",
-        "source_name": "执惠 TripVivid"
-      }
-    },
-    {
-      "story_id": "story_b98de1f3e3c3",
-      "title": "文旅惠报|华侨城文旅企业前4月接待游客2408万人次；亚朵一季度净利润增长42%",
-      "url": "https://www.tripvivid.com/47322.html",
-      "primary_url": "https://www.tripvivid.com/47322.html",
-      "source": "执惠 TripVivid",
-      "source_name": "执惠 TripVivid",
-      "sources": [
-        {
-          "id": "hotelitem_b98de1f3e3c3",
-          "title": "文旅惠报|华侨城文旅企业前4月接待游客2408万人次；亚朵一季度净利润增长42%",
-          "url": "https://www.tripvivid.com/47322.html",
-          "source": "执惠 TripVivid",
-          "source_name": "执惠 TripVivid",
-          "site_id": "tripvivid",
-          "published_at": "2026-06-17T22:20:12.317601Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "执惠 TripVivid"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_b98de1f3e3c3",
-          "title": "文旅惠报|华侨城文旅企业前4月接待游客2408万人次；亚朵一季度净利润增长42%",
-          "url": "https://www.tripvivid.com/47322.html",
-          "source": "执惠 TripVivid",
-          "source_name": "执惠 TripVivid",
-          "site_id": "tripvivid",
-          "published_at": "2026-06-17T22:20:12.317601Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.9,
-      "importance": 0.6,
-      "importance_score": 0.9,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-17T22:20:12.317601Z",
-      "latest_at": "2026-06-17T22:20:12.317601Z",
-      "primary_item": {
-        "id": "hotelitem_b98de1f3e3c3",
-        "title": "文旅惠报|华侨城文旅企业前4月接待游客2408万人次；亚朵一季度净利润增长42%",
-        "url": "https://www.tripvivid.com/47322.html",
+        "id": "hotelitem_86885009de08",
+        "title": "文旅惠报|岭南控股与重庆黔江区签署战略合作协议；厦门国有资本牵手阿那亚，打造集美岛滨海文旅项目",
+        "url": "https://www.tripvivid.com/47439.html",
         "source": "执惠 TripVivid",
         "source_name": "执惠 TripVivid"
       }
@@ -822,7 +586,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-06-17T22:20:12.317601Z"
+          "published_at": "2026-06-18T12:35:33.117175Z"
         }
       ],
       "source_count": 1,
@@ -837,7 +601,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-06-17T22:20:12.317601Z"
+          "published_at": "2026-06-18T12:35:33.117175Z"
         }
       ],
       "item_count": 1,
@@ -856,12 +620,189 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-06-17T22:20:12.317601Z",
-      "latest_at": "2026-06-17T22:20:12.317601Z",
+      "earliest_at": "2026-06-18T12:35:33.117175Z",
+      "latest_at": "2026-06-18T12:35:33.117175Z",
       "primary_item": {
         "id": "hotelitem_d94f35b8bbdc",
         "title": "文旅惠报|开封清明上河园向港交所提交上市申请；万豪国际全球酒店数量正式破万家",
         "url": "https://www.tripvivid.com/47486.html",
+        "source": "执惠 TripVivid",
+        "source_name": "执惠 TripVivid"
+      }
+    },
+    {
+      "story_id": "story_7a0aafcf6ecc",
+      "title": "文旅惠报|澳门银河与Trip.com签订三年战略合作协议；盈新发展转让西宁置业100%股权",
+      "url": "https://www.tripvivid.com/47450.html",
+      "primary_url": "https://www.tripvivid.com/47450.html",
+      "source": "执惠 TripVivid",
+      "source_name": "执惠 TripVivid",
+      "sources": [
+        {
+          "id": "hotelitem_7a0aafcf6ecc",
+          "title": "文旅惠报|澳门银河与Trip.com签订三年战略合作协议；盈新发展转让西宁置业100%股权",
+          "url": "https://www.tripvivid.com/47450.html",
+          "source": "执惠 TripVivid",
+          "source_name": "执惠 TripVivid",
+          "site_id": "tripvivid",
+          "published_at": "2026-06-18T12:35:33.117175Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "执惠 TripVivid"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_7a0aafcf6ecc",
+          "title": "文旅惠报|澳门银河与Trip.com签订三年战略合作协议；盈新发展转让西宁置业100%股权",
+          "url": "https://www.tripvivid.com/47450.html",
+          "source": "执惠 TripVivid",
+          "source_name": "执惠 TripVivid",
+          "site_id": "tripvivid",
+          "published_at": "2026-06-18T12:35:33.117175Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.9,
+      "importance": 0.6,
+      "importance_score": 0.9,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-06-18T12:35:33.117175Z",
+      "latest_at": "2026-06-18T12:35:33.117175Z",
+      "primary_item": {
+        "id": "hotelitem_7a0aafcf6ecc",
+        "title": "文旅惠报|澳门银河与Trip.com签订三年战略合作协议；盈新发展转让西宁置业100%股权",
+        "url": "https://www.tripvivid.com/47450.html",
+        "source": "执惠 TripVivid",
+        "source_name": "执惠 TripVivid"
+      }
+    },
+    {
+      "story_id": "story_8bd428772b3b",
+      "title": "文旅惠报|许铭出任锦江国际集团总裁；西藏旅游拟以6970.65万元公积金弥补累计亏损",
+      "url": "https://www.tripvivid.com/47492.html",
+      "primary_url": "https://www.tripvivid.com/47492.html",
+      "source": "执惠 TripVivid",
+      "source_name": "执惠 TripVivid",
+      "sources": [
+        {
+          "id": "hotelitem_8bd428772b3b",
+          "title": "文旅惠报|许铭出任锦江国际集团总裁；西藏旅游拟以6970.65万元公积金弥补累计亏损",
+          "url": "https://www.tripvivid.com/47492.html",
+          "source": "执惠 TripVivid",
+          "source_name": "执惠 TripVivid",
+          "site_id": "tripvivid",
+          "published_at": "2026-06-18T12:35:33.117175Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "执惠 TripVivid"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_8bd428772b3b",
+          "title": "文旅惠报|许铭出任锦江国际集团总裁；西藏旅游拟以6970.65万元公积金弥补累计亏损",
+          "url": "https://www.tripvivid.com/47492.html",
+          "source": "执惠 TripVivid",
+          "source_name": "执惠 TripVivid",
+          "site_id": "tripvivid",
+          "published_at": "2026-06-18T12:35:33.117175Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.9,
+      "importance": 0.6,
+      "importance_score": 0.9,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-06-18T12:35:33.117175Z",
+      "latest_at": "2026-06-18T12:35:33.117175Z",
+      "primary_item": {
+        "id": "hotelitem_8bd428772b3b",
+        "title": "文旅惠报|许铭出任锦江国际集团总裁；西藏旅游拟以6970.65万元公积金弥补累计亏损",
+        "url": "https://www.tripvivid.com/47492.html",
+        "source": "执惠 TripVivid",
+        "source_name": "执惠 TripVivid"
+      }
+    },
+    {
+      "story_id": "story_4966ad3512b4",
+      "title": "文旅惠报|雅高集团CEO宣布2028年卸任；众信优游与中视实业集团达成深度合作",
+      "url": "https://www.tripvivid.com/47431.html",
+      "primary_url": "https://www.tripvivid.com/47431.html",
+      "source": "执惠 TripVivid",
+      "source_name": "执惠 TripVivid",
+      "sources": [
+        {
+          "id": "hotelitem_4966ad3512b4",
+          "title": "文旅惠报|雅高集团CEO宣布2028年卸任；众信优游与中视实业集团达成深度合作",
+          "url": "https://www.tripvivid.com/47431.html",
+          "source": "执惠 TripVivid",
+          "source_name": "执惠 TripVivid",
+          "site_id": "tripvivid",
+          "published_at": "2026-06-18T12:35:33.117175Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "执惠 TripVivid"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_4966ad3512b4",
+          "title": "文旅惠报|雅高集团CEO宣布2028年卸任；众信优游与中视实业集团达成深度合作",
+          "url": "https://www.tripvivid.com/47431.html",
+          "source": "执惠 TripVivid",
+          "source_name": "执惠 TripVivid",
+          "site_id": "tripvivid",
+          "published_at": "2026-06-18T12:35:33.117175Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.9,
+      "importance": 0.6,
+      "importance_score": 0.9,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-06-18T12:35:33.117175Z",
+      "latest_at": "2026-06-18T12:35:33.117175Z",
+      "primary_item": {
+        "id": "hotelitem_4966ad3512b4",
+        "title": "文旅惠报|雅高集团CEO宣布2028年卸任；众信优游与中视实业集团达成深度合作",
+        "url": "https://www.tripvivid.com/47431.html",
         "source": "执惠 TripVivid",
         "source_name": "执惠 TripVivid"
       }
@@ -901,14 +842,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8764,
-      "importance": 0.4492,
-      "importance_score": 0.8764,
+      "score": 0.8729,
+      "importance": 0.4466,
+      "importance_score": 0.8729,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.246,
+        "recency": 0.2328,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -923,6 +864,124 @@
         "url": "https://www.globenewswire.com/news-release/2026/05/15/3295672/19355/en/h-world-group-limited-reports-first-quarter-of-2026-unaudited-financial-results.html",
         "source": "华住 H World IR",
         "source_name": "华住 H World IR"
+      }
+    },
+    {
+      "story_id": "story_827e1a47ca78",
+      "title": "Emirates launches world’s most comprehensive travel insurance",
+      "url": "https://insights.ehotelier.com/global-news/2026/06/18/emirates-launches-worlds-most-comprehensive-travel-insurance/?utm_source=rss&utm_medium=rss&utm_campaign=emirates-launches-worlds-most-comprehensive-travel-insurance",
+      "primary_url": "https://insights.ehotelier.com/global-news/2026/06/18/emirates-launches-worlds-most-comprehensive-travel-insurance/?utm_source=rss&utm_medium=rss&utm_campaign=emirates-launches-worlds-most-comprehensive-travel-insurance",
+      "source": "eHotelier",
+      "source_name": "eHotelier",
+      "sources": [
+        {
+          "id": "hotelitem_827e1a47ca78",
+          "title": "Emirates launches world’s most comprehensive travel insurance",
+          "url": "https://insights.ehotelier.com/global-news/2026/06/18/emirates-launches-worlds-most-comprehensive-travel-insurance/?utm_source=rss&utm_medium=rss&utm_campaign=emirates-launches-worlds-most-comprehensive-travel-insurance",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-06-18T01:54:58Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "eHotelier"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_827e1a47ca78",
+          "title": "Emirates launches world’s most comprehensive travel insurance",
+          "url": "https://insights.ehotelier.com/global-news/2026/06/18/emirates-launches-worlds-most-comprehensive-travel-insurance/?utm_source=rss&utm_medium=rss&utm_campaign=emirates-launches-worlds-most-comprehensive-travel-insurance",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-06-18T01:54:58Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8631,
+      "importance": 0.598,
+      "importance_score": 0.8631,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9901,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-06-18T01:54:58Z",
+      "latest_at": "2026-06-18T01:54:58Z",
+      "primary_item": {
+        "id": "hotelitem_827e1a47ca78",
+        "title": "Emirates launches world’s most comprehensive travel insurance",
+        "url": "https://insights.ehotelier.com/global-news/2026/06/18/emirates-launches-worlds-most-comprehensive-travel-insurance/?utm_source=rss&utm_medium=rss&utm_campaign=emirates-launches-worlds-most-comprehensive-travel-insurance",
+        "source": "eHotelier",
+        "source_name": "eHotelier"
+      }
+    },
+    {
+      "story_id": "story_13a833e19250",
+      "title": "岭南控股：选举朱红为新任董事长，聘任邬琛为总经理",
+      "url": "https://www.meadin.com/wl/297567.html",
+      "primary_url": "https://www.meadin.com/wl/297567.html",
+      "source": "迈点研究院",
+      "source_name": "迈点研究院",
+      "sources": [
+        {
+          "id": "hotelitem_13a833e19250",
+          "title": "岭南控股：选举朱红为新任董事长，聘任邬琛为总经理",
+          "url": "https://www.meadin.com/wl/297567.html",
+          "source": "迈点研究院",
+          "source_name": "迈点研究院",
+          "site_id": "meadin",
+          "published_at": "2026-06-18T12:35:33.117175Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "迈点研究院"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_13a833e19250",
+          "title": "岭南控股：选举朱红为新任董事长，聘任邬琛为总经理",
+          "url": "https://www.meadin.com/wl/297567.html",
+          "source": "迈点研究院",
+          "source_name": "迈点研究院",
+          "site_id": "meadin",
+          "published_at": "2026-06-18T12:35:33.117175Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.86,
+      "importance": 0.6,
+      "importance_score": 0.86,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-06-18T12:35:33.117175Z",
+      "latest_at": "2026-06-18T12:35:33.117175Z",
+      "primary_item": {
+        "id": "hotelitem_13a833e19250",
+        "title": "岭南控股：选举朱红为新任董事长，聘任邬琛为总经理",
+        "url": "https://www.meadin.com/wl/297567.html",
+        "source": "迈点研究院",
+        "source_name": "迈点研究院"
       }
     },
     {
@@ -960,14 +1019,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8613,
-      "importance": 0.5961,
-      "importance_score": 0.8613,
+      "score": 0.8587,
+      "importance": 0.5935,
+      "importance_score": 0.8587,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9806,
+        "recency": 0.9674,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -985,121 +1044,121 @@
       }
     },
     {
-      "story_id": "story_b64c12b13914",
-      "title": "New South Wales’ Vivid Sydney 2026 Festival comes to a close",
-      "url": "https://insights.ehotelier.com/properties/2026/06/17/new-south-wales-vivid-sydney-2026-festival-comes-to-a-close/?utm_source=rss&utm_medium=rss&utm_campaign=new-south-wales-vivid-sydney-2026-festival-comes-to-a-close",
-      "primary_url": "https://insights.ehotelier.com/properties/2026/06/17/new-south-wales-vivid-sydney-2026-festival-comes-to-a-close/?utm_source=rss&utm_medium=rss&utm_campaign=new-south-wales-vivid-sydney-2026-festival-comes-to-a-close",
-      "source": "eHotelier",
-      "source_name": "eHotelier",
+      "story_id": "story_aafbd26fe946",
+      "title": "文化和旅游部端午节假期和汛期、暑期出游提示",
+      "url": "https://www.mct.gov.cn/whzx/whyw/202606/t20260605_966153.htm",
+      "primary_url": "https://www.mct.gov.cn/whzx/whyw/202606/t20260605_966153.htm",
+      "source": "文化和旅游部",
+      "source_name": "文化和旅游部",
       "sources": [
         {
-          "id": "hotelitem_b64c12b13914",
-          "title": "New South Wales’ Vivid Sydney 2026 Festival comes to a close",
-          "url": "https://insights.ehotelier.com/properties/2026/06/17/new-south-wales-vivid-sydney-2026-festival-comes-to-a-close/?utm_source=rss&utm_medium=rss&utm_campaign=new-south-wales-vivid-sydney-2026-festival-comes-to-a-close",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-06-17T01:07:37Z"
+          "id": "hotelitem_aafbd26fe946",
+          "title": "文化和旅游部端午节假期和汛期、暑期出游提示",
+          "url": "https://www.mct.gov.cn/whzx/whyw/202606/t20260605_966153.htm",
+          "source": "文化和旅游部",
+          "source_name": "文化和旅游部",
+          "site_id": "mct",
+          "published_at": "2026-06-18T12:35:33.117175Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "eHotelier"
+        "文化和旅游部"
       ],
       "items": [
         {
-          "id": "hotelitem_b64c12b13914",
-          "title": "New South Wales’ Vivid Sydney 2026 Festival comes to a close",
-          "url": "https://insights.ehotelier.com/properties/2026/06/17/new-south-wales-vivid-sydney-2026-festival-comes-to-a-close/?utm_source=rss&utm_medium=rss&utm_campaign=new-south-wales-vivid-sydney-2026-festival-comes-to-a-close",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-06-17T01:07:37Z"
+          "id": "hotelitem_aafbd26fe946",
+          "title": "文化和旅游部端午节假期和汛期、暑期出游提示",
+          "url": "https://www.mct.gov.cn/whzx/whyw/202606/t20260605_966153.htm",
+          "source": "文化和旅游部",
+          "source_name": "文化和旅游部",
+          "site_id": "mct",
+          "published_at": "2026-06-18T12:35:33.117175Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8612,
-      "importance": 0.5961,
-      "importance_score": 0.8612,
+      "score": 0.858,
+      "importance": 0.6,
+      "importance_score": 0.858,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9804,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "watch",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-06-17T01:07:37Z",
-      "latest_at": "2026-06-17T01:07:37Z",
+      "earliest_at": "2026-06-18T12:35:33.117175Z",
+      "latest_at": "2026-06-18T12:35:33.117175Z",
       "primary_item": {
-        "id": "hotelitem_b64c12b13914",
-        "title": "New South Wales’ Vivid Sydney 2026 Festival comes to a close",
-        "url": "https://insights.ehotelier.com/properties/2026/06/17/new-south-wales-vivid-sydney-2026-festival-comes-to-a-close/?utm_source=rss&utm_medium=rss&utm_campaign=new-south-wales-vivid-sydney-2026-festival-comes-to-a-close",
-        "source": "eHotelier",
-        "source_name": "eHotelier"
+        "id": "hotelitem_aafbd26fe946",
+        "title": "文化和旅游部端午节假期和汛期、暑期出游提示",
+        "url": "https://www.mct.gov.cn/whzx/whyw/202606/t20260605_966153.htm",
+        "source": "文化和旅游部",
+        "source_name": "文化和旅游部"
       }
     },
     {
-      "story_id": "story_e128b1e1980e",
-      "title": "Coast Hotels expands portfolio with acquisition of Village Park Inn Hotel in Calgary",
-      "url": "https://insights.ehotelier.com/global-news/2026/06/17/coast-hotels-expands-portfolio-with-acquisition-of-village-park-inn-hotel-in-calgary/?utm_source=rss&utm_medium=rss&utm_campaign=coast-hotels-expands-portfolio-with-acquisition-of-village-park-inn-hotel-in-calgary",
-      "primary_url": "https://insights.ehotelier.com/global-news/2026/06/17/coast-hotels-expands-portfolio-with-acquisition-of-village-park-inn-hotel-in-calgary/?utm_source=rss&utm_medium=rss&utm_campaign=coast-hotels-expands-portfolio-with-acquisition-of-village-park-inn-hotel-in-calgary",
-      "source": "eHotelier",
-      "source_name": "eHotelier",
+      "story_id": "story_e2295ba596c9",
+      "title": "文化和旅游部部级社科研究项目公布",
+      "url": "https://www.mct.gov.cn/whzx/bnsj/whkjs/202606/t20260617_966274.html",
+      "primary_url": "https://www.mct.gov.cn/whzx/bnsj/whkjs/202606/t20260617_966274.html",
+      "source": "文化和旅游部",
+      "source_name": "文化和旅游部",
       "sources": [
         {
-          "id": "hotelitem_e128b1e1980e",
-          "title": "Coast Hotels expands portfolio with acquisition of Village Park Inn Hotel in Calgary",
-          "url": "https://insights.ehotelier.com/global-news/2026/06/17/coast-hotels-expands-portfolio-with-acquisition-of-village-park-inn-hotel-in-calgary/?utm_source=rss&utm_medium=rss&utm_campaign=coast-hotels-expands-portfolio-with-acquisition-of-village-park-inn-hotel-in-calgary",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-06-17T01:17:25Z"
+          "id": "hotelitem_e2295ba596c9",
+          "title": "文化和旅游部部级社科研究项目公布",
+          "url": "https://www.mct.gov.cn/whzx/bnsj/whkjs/202606/t20260617_966274.html",
+          "source": "文化和旅游部",
+          "source_name": "文化和旅游部",
+          "site_id": "mct",
+          "published_at": "2026-06-18T12:35:33.117175Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "eHotelier"
+        "文化和旅游部"
       ],
       "items": [
         {
-          "id": "hotelitem_e128b1e1980e",
-          "title": "Coast Hotels expands portfolio with acquisition of Village Park Inn Hotel in Calgary",
-          "url": "https://insights.ehotelier.com/global-news/2026/06/17/coast-hotels-expands-portfolio-with-acquisition-of-village-park-inn-hotel-in-calgary/?utm_source=rss&utm_medium=rss&utm_campaign=coast-hotels-expands-portfolio-with-acquisition-of-village-park-inn-hotel-in-calgary",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-06-17T01:17:25Z"
+          "id": "hotelitem_e2295ba596c9",
+          "title": "文化和旅游部部级社科研究项目公布",
+          "url": "https://www.mct.gov.cn/whzx/bnsj/whkjs/202606/t20260617_966274.html",
+          "source": "文化和旅游部",
+          "source_name": "文化和旅游部",
+          "site_id": "mct",
+          "published_at": "2026-06-18T12:35:33.117175Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8612,
-      "importance": 0.5961,
-      "importance_score": 0.8612,
+      "score": 0.858,
+      "importance": 0.6,
+      "importance_score": 0.858,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9805,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "watch",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-06-17T01:17:25Z",
-      "latest_at": "2026-06-17T01:17:25Z",
+      "earliest_at": "2026-06-18T12:35:33.117175Z",
+      "latest_at": "2026-06-18T12:35:33.117175Z",
       "primary_item": {
-        "id": "hotelitem_e128b1e1980e",
-        "title": "Coast Hotels expands portfolio with acquisition of Village Park Inn Hotel in Calgary",
-        "url": "https://insights.ehotelier.com/global-news/2026/06/17/coast-hotels-expands-portfolio-with-acquisition-of-village-park-inn-hotel-in-calgary/?utm_source=rss&utm_medium=rss&utm_campaign=coast-hotels-expands-portfolio-with-acquisition-of-village-park-inn-hotel-in-calgary",
-        "source": "eHotelier",
-        "source_name": "eHotelier"
+        "id": "hotelitem_e2295ba596c9",
+        "title": "文化和旅游部部级社科研究项目公布",
+        "url": "https://www.mct.gov.cn/whzx/bnsj/whkjs/202606/t20260617_966274.html",
+        "source": "文化和旅游部",
+        "source_name": "文化和旅游部"
       }
     },
     {
@@ -1137,14 +1196,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8592,
-      "importance": 0.594,
-      "importance_score": 0.8592,
+      "score": 0.8567,
+      "importance": 0.5914,
+      "importance_score": 0.8567,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9701,
+        "recency": 0.9569,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1159,183 +1218,6 @@
         "url": "https://www.hotelmanagement.net/resource/nfl-sunday-ticket-starts-here",
         "source": "Hotel Management",
         "source_name": "Hotel Management"
-      }
-    },
-    {
-      "story_id": "story_e4ce0593c384",
-      "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
-      "url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
-      "primary_url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
-      "source": "中国旅游研究院",
-      "source_name": "中国旅游研究院",
-      "sources": [
-        {
-          "id": "hotelitem_e4ce0593c384",
-          "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
-          "url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
-          "source": "中国旅游研究院",
-          "source_name": "中国旅游研究院",
-          "site_id": "cta",
-          "published_at": "2026-06-17T22:20:12.317601Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "中国旅游研究院"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_e4ce0593c384",
-          "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
-          "url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
-          "source": "中国旅游研究院",
-          "source_name": "中国旅游研究院",
-          "site_id": "cta",
-          "published_at": "2026-06-17T22:20:12.317601Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.858,
-      "importance": 0.6,
-      "importance_score": 0.858,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-17T22:20:12.317601Z",
-      "latest_at": "2026-06-17T22:20:12.317601Z",
-      "primary_item": {
-        "id": "hotelitem_e4ce0593c384",
-        "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
-        "url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
-        "source": "中国旅游研究院",
-        "source_name": "中国旅游研究院"
-      }
-    },
-    {
-      "story_id": "story_aafbd26fe946",
-      "title": "文化和旅游部端午节假期和汛期、暑期出游提示",
-      "url": "https://www.mct.gov.cn/whzx/whyw/202606/t20260605_966153.htm",
-      "primary_url": "https://www.mct.gov.cn/whzx/whyw/202606/t20260605_966153.htm",
-      "source": "文化和旅游部",
-      "source_name": "文化和旅游部",
-      "sources": [
-        {
-          "id": "hotelitem_aafbd26fe946",
-          "title": "文化和旅游部端午节假期和汛期、暑期出游提示",
-          "url": "https://www.mct.gov.cn/whzx/whyw/202606/t20260605_966153.htm",
-          "source": "文化和旅游部",
-          "source_name": "文化和旅游部",
-          "site_id": "mct",
-          "published_at": "2026-06-17T22:20:12.317601Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "文化和旅游部"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_aafbd26fe946",
-          "title": "文化和旅游部端午节假期和汛期、暑期出游提示",
-          "url": "https://www.mct.gov.cn/whzx/whyw/202606/t20260605_966153.htm",
-          "source": "文化和旅游部",
-          "source_name": "文化和旅游部",
-          "site_id": "mct",
-          "published_at": "2026-06-17T22:20:12.317601Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.858,
-      "importance": 0.6,
-      "importance_score": 0.858,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-17T22:20:12.317601Z",
-      "latest_at": "2026-06-17T22:20:12.317601Z",
-      "primary_item": {
-        "id": "hotelitem_aafbd26fe946",
-        "title": "文化和旅游部端午节假期和汛期、暑期出游提示",
-        "url": "https://www.mct.gov.cn/whzx/whyw/202606/t20260605_966153.htm",
-        "source": "文化和旅游部",
-        "source_name": "文化和旅游部"
-      }
-    },
-    {
-      "story_id": "story_e2295ba596c9",
-      "title": "文化和旅游部部级社科研究项目公布",
-      "url": "https://www.mct.gov.cn/whzx/bnsj/whkjs/202606/t20260617_966274.html",
-      "primary_url": "https://www.mct.gov.cn/whzx/bnsj/whkjs/202606/t20260617_966274.html",
-      "source": "文化和旅游部",
-      "source_name": "文化和旅游部",
-      "sources": [
-        {
-          "id": "hotelitem_e2295ba596c9",
-          "title": "文化和旅游部部级社科研究项目公布",
-          "url": "https://www.mct.gov.cn/whzx/bnsj/whkjs/202606/t20260617_966274.html",
-          "source": "文化和旅游部",
-          "source_name": "文化和旅游部",
-          "site_id": "mct",
-          "published_at": "2026-06-17T22:20:12.317601Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "文化和旅游部"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_e2295ba596c9",
-          "title": "文化和旅游部部级社科研究项目公布",
-          "url": "https://www.mct.gov.cn/whzx/bnsj/whkjs/202606/t20260617_966274.html",
-          "source": "文化和旅游部",
-          "source_name": "文化和旅游部",
-          "site_id": "mct",
-          "published_at": "2026-06-17T22:20:12.317601Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.858,
-      "importance": 0.6,
-      "importance_score": 0.858,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-17T22:20:12.317601Z",
-      "latest_at": "2026-06-17T22:20:12.317601Z",
-      "primary_item": {
-        "id": "hotelitem_e2295ba596c9",
-        "title": "文化和旅游部部级社科研究项目公布",
-        "url": "https://www.mct.gov.cn/whzx/bnsj/whkjs/202606/t20260617_966274.html",
-        "source": "文化和旅游部",
-        "source_name": "文化和旅游部"
       }
     },
     {
@@ -1373,14 +1255,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8563,
-      "importance": 0.591,
-      "importance_score": 0.8563,
+      "score": 0.8538,
+      "importance": 0.5884,
+      "importance_score": 0.8538,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.955,
+        "recency": 0.9418,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1432,14 +1314,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8559,
-      "importance": 0.5905,
-      "importance_score": 0.8559,
+      "score": 0.8533,
+      "importance": 0.5879,
+      "importance_score": 0.8533,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9526,
+        "recency": 0.9394,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1491,14 +1373,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.855,
-      "importance": 0.5897,
-      "importance_score": 0.855,
+      "score": 0.8525,
+      "importance": 0.587,
+      "importance_score": 0.8525,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9483,
+        "recency": 0.9351,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1550,14 +1432,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.854,
-      "importance": 0.5886,
-      "importance_score": 0.854,
+      "score": 0.8515,
+      "importance": 0.586,
+      "importance_score": 0.8515,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9432,
+        "recency": 0.93,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1609,14 +1491,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8478,
-      "importance": 0.5978,
-      "importance_score": 0.8478,
+      "score": 0.8453,
+      "importance": 0.5951,
+      "importance_score": 0.8453,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9888,
+        "recency": 0.9756,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1668,14 +1550,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8267,
-      "importance": 0.5758,
-      "importance_score": 0.8267,
+      "score": 0.8242,
+      "importance": 0.5732,
+      "importance_score": 0.8242,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8792,
+        "recency": 0.866,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1690,6 +1572,124 @@
         "url": "https://boutiquehotelnews.com/news/movers-and-shakers/coolrooms-hotels-madrid-general-manager/?utm_source=rss&utm_medium=rss&utm_campaign=coolrooms-hotels-madrid-general-manager",
         "source": "Boutique Hotel News",
         "source_name": "Boutique Hotel News"
+      }
+    },
+    {
+      "story_id": "story_2cb9fb6b37e6",
+      "title": "JA Mar Hall joins global GHA DISCOVERY loyalty programme",
+      "url": "https://insights.ehotelier.com/global-news/2026/06/18/ja-mar-hall-joins-global-gha-discovery-loyalty-programme/?utm_source=rss&utm_medium=rss&utm_campaign=ja-mar-hall-joins-global-gha-discovery-loyalty-programme",
+      "primary_url": "https://insights.ehotelier.com/global-news/2026/06/18/ja-mar-hall-joins-global-gha-discovery-loyalty-programme/?utm_source=rss&utm_medium=rss&utm_campaign=ja-mar-hall-joins-global-gha-discovery-loyalty-programme",
+      "source": "eHotelier",
+      "source_name": "eHotelier",
+      "sources": [
+        {
+          "id": "hotelitem_2cb9fb6b37e6",
+          "title": "JA Mar Hall joins global GHA DISCOVERY loyalty programme",
+          "url": "https://insights.ehotelier.com/global-news/2026/06/18/ja-mar-hall-joins-global-gha-discovery-loyalty-programme/?utm_source=rss&utm_medium=rss&utm_campaign=ja-mar-hall-joins-global-gha-discovery-loyalty-programme",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-06-18T01:39:49Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "eHotelier"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_2cb9fb6b37e6",
+          "title": "JA Mar Hall joins global GHA DISCOVERY loyalty programme",
+          "url": "https://insights.ehotelier.com/global-news/2026/06/18/ja-mar-hall-joins-global-gha-discovery-loyalty-programme/?utm_source=rss&utm_medium=rss&utm_campaign=ja-mar-hall-joins-global-gha-discovery-loyalty-programme",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-06-18T01:39:49Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.818,
+      "importance": 0.598,
+      "importance_score": 0.818,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9899,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-06-18T01:39:49Z",
+      "latest_at": "2026-06-18T01:39:49Z",
+      "primary_item": {
+        "id": "hotelitem_2cb9fb6b37e6",
+        "title": "JA Mar Hall joins global GHA DISCOVERY loyalty programme",
+        "url": "https://insights.ehotelier.com/global-news/2026/06/18/ja-mar-hall-joins-global-gha-discovery-loyalty-programme/?utm_source=rss&utm_medium=rss&utm_campaign=ja-mar-hall-joins-global-gha-discovery-loyalty-programme",
+        "source": "eHotelier",
+        "source_name": "eHotelier"
+      }
+    },
+    {
+      "story_id": "story_372ec0fe66b3",
+      "title": "去哪儿旅行：端午飞广州外国游客同比增50%",
+      "url": "https://www.pinchain.com/article/347693",
+      "primary_url": "https://www.pinchain.com/article/347693",
+      "source": "品橙旅游",
+      "source_name": "品橙旅游",
+      "sources": [
+        {
+          "id": "hotelitem_372ec0fe66b3",
+          "title": "去哪儿旅行：端午飞广州外国游客同比增50%",
+          "url": "https://www.pinchain.com/article/347693",
+          "source": "品橙旅游",
+          "source_name": "品橙旅游",
+          "site_id": "pinchain",
+          "published_at": "2026-06-18T03:47:27Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "品橙旅游"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_372ec0fe66b3",
+          "title": "去哪儿旅行：端午飞广州外国游客同比增50%",
+          "url": "https://www.pinchain.com/article/347693",
+          "source": "品橙旅游",
+          "source_name": "品橙旅游",
+          "site_id": "pinchain",
+          "published_at": "2026-06-18T03:47:27Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8159,
+      "importance": 0.5984,
+      "importance_score": 0.8159,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9919,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-06-18T03:47:27Z",
+      "latest_at": "2026-06-18T03:47:27Z",
+      "primary_item": {
+        "id": "hotelitem_372ec0fe66b3",
+        "title": "去哪儿旅行：端午飞广州外国游客同比增50%",
+        "url": "https://www.pinchain.com/article/347693",
+        "source": "品橙旅游",
+        "source_name": "品橙旅游"
       }
     },
     {
@@ -1727,14 +1727,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8156,
-      "importance": 0.5954,
-      "importance_score": 0.8156,
+      "score": 0.813,
+      "importance": 0.5928,
+      "importance_score": 0.813,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9771,
+        "recency": 0.9639,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1752,62 +1752,62 @@
       }
     },
     {
-      "story_id": "story_35956c949670",
-      "title": "飞猪针对青海海西地震启动应急响应机制",
-      "url": "https://www.pinchain.com/article/347691",
-      "primary_url": "https://www.pinchain.com/article/347691",
-      "source": "品橙旅游",
-      "source_name": "品橙旅游",
+      "story_id": "story_fcd5981922e8",
+      "title": "Agoda Establishes Strategic Partnership with ... Digital travel platform Agoda and Taipei City government have launched a strategic partnership aimed a ... April 16, 2026 / Partnership",
+      "url": "https://www.agoda.com/press/agoda-establishes-strategic-partnership-with-taipei-city-government-promoting-international-tourism-development/",
+      "primary_url": "https://www.agoda.com/press/agoda-establishes-strategic-partnership-with-taipei-city-government-promoting-international-tourism-development/",
+      "source": "Agoda",
+      "source_name": "Agoda",
       "sources": [
         {
-          "id": "hotelitem_35956c949670",
-          "title": "飞猪针对青海海西地震启动应急响应机制",
-          "url": "https://www.pinchain.com/article/347691",
-          "source": "品橙旅游",
-          "source_name": "品橙旅游",
-          "site_id": "pinchain",
-          "published_at": "2026-06-17T07:07:09Z"
+          "id": "hotelitem_fcd5981922e8",
+          "title": "Agoda Establishes Strategic Partnership with ... Digital travel platform Agoda and Taipei City government have launched a strategic partnership aimed a ... April 16, 2026 / Partnership",
+          "url": "https://www.agoda.com/press/agoda-establishes-strategic-partnership-with-taipei-city-government-promoting-international-tourism-development/",
+          "source": "Agoda",
+          "source_name": "Agoda",
+          "site_id": "agoda_press",
+          "published_at": "2026-06-18T12:35:33.117175Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "品橙旅游"
+        "Agoda"
       ],
       "items": [
         {
-          "id": "hotelitem_35956c949670",
-          "title": "飞猪针对青海海西地震启动应急响应机制",
-          "url": "https://www.pinchain.com/article/347691",
-          "source": "品橙旅游",
-          "source_name": "品橙旅游",
-          "site_id": "pinchain",
-          "published_at": "2026-06-17T07:07:09Z"
+          "id": "hotelitem_fcd5981922e8",
+          "title": "Agoda Establishes Strategic Partnership with ... Digital travel platform Agoda and Taipei City government have launched a strategic partnership aimed a ... April 16, 2026 / Partnership",
+          "url": "https://www.agoda.com/press/agoda-establishes-strategic-partnership-with-taipei-city-government-promoting-international-tourism-development/",
+          "source": "Agoda",
+          "source_name": "Agoda",
+          "site_id": "agoda_press",
+          "published_at": "2026-06-18T12:35:33.117175Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8148,
-      "importance": 0.5972,
-      "importance_score": 0.8148,
+      "score": 0.8125,
+      "importance": 0.6,
+      "importance_score": 0.8125,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9859,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "watch",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-06-17T07:07:09Z",
-      "latest_at": "2026-06-17T07:07:09Z",
+      "earliest_at": "2026-06-18T12:35:33.117175Z",
+      "latest_at": "2026-06-18T12:35:33.117175Z",
       "primary_item": {
-        "id": "hotelitem_35956c949670",
-        "title": "飞猪针对青海海西地震启动应急响应机制",
-        "url": "https://www.pinchain.com/article/347691",
-        "source": "品橙旅游",
-        "source_name": "品橙旅游"
+        "id": "hotelitem_fcd5981922e8",
+        "title": "Agoda Establishes Strategic Partnership with ... Digital travel platform Agoda and Taipei City government have launched a strategic partnership aimed a ... April 16, 2026 / Partnership",
+        "url": "https://www.agoda.com/press/agoda-establishes-strategic-partnership-with-taipei-city-government-promoting-international-tourism-development/",
+        "source": "Agoda",
+        "source_name": "Agoda"
       }
     }
   ]
