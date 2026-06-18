@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-18T12:35:33.117175Z",
+  "generated_at": "2026-06-18T22:32:17.672578Z",
   "window_hours": 1080,
   "total_stories": 30,
   "stories": [
@@ -38,14 +38,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9702,
-      "importance": 0.5605,
-      "importance_score": 0.9702,
+      "score": 0.9675,
+      "importance": 0.5586,
+      "importance_score": 0.9675,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8024,
+        "recency": 0.7932,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -60,6 +60,183 @@
         "url": "https://www.traveldaily.cn/article/190163",
         "source": "环球旅讯 TravelDaily",
         "source_name": "环球旅讯 TravelDaily"
+      }
+    },
+    {
+      "story_id": "story_c0476935d713",
+      "title": "The Best Luxury Experiences Leave Some Slack in the System",
+      "url": "https://skift.com/2026/06/18/the-best-luxury-experiences-leave-some-slack-in-the-system/",
+      "primary_url": "https://skift.com/2026/06/18/the-best-luxury-experiences-leave-some-slack-in-the-system/",
+      "source": "Skift Hospitality",
+      "source_name": "Skift Hospitality",
+      "sources": [
+        {
+          "id": "hotelitem_c0476935d713",
+          "title": "The Best Luxury Experiences Leave Some Slack in the System",
+          "url": "https://skift.com/2026/06/18/the-best-luxury-experiences-leave-some-slack-in-the-system/",
+          "source": "Skift Hospitality",
+          "source_name": "Skift Hospitality",
+          "site_id": "skift",
+          "published_at": "2026-06-18T18:22:44Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Skift Hospitality"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_c0476935d713",
+          "title": "The Best Luxury Experiences Leave Some Slack in the System",
+          "url": "https://skift.com/2026/06/18/the-best-luxury-experiences-leave-some-slack-in-the-system/",
+          "source": "Skift Hospitality",
+          "source_name": "Skift Hospitality",
+          "site_id": "skift",
+          "published_at": "2026-06-18T18:22:44Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.9543,
+      "importance": 0.5992,
+      "importance_score": 0.9543,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9961,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-06-18T18:22:44Z",
+      "latest_at": "2026-06-18T18:22:44Z",
+      "primary_item": {
+        "id": "hotelitem_c0476935d713",
+        "title": "The Best Luxury Experiences Leave Some Slack in the System",
+        "url": "https://skift.com/2026/06/18/the-best-luxury-experiences-leave-some-slack-in-the-system/",
+        "source": "Skift Hospitality",
+        "source_name": "Skift Hospitality"
+      }
+    },
+    {
+      "story_id": "story_beb8cc3a29f7",
+      "title": "Union workers at Seattle Hilton strike amid World Cup",
+      "url": "https://www.hoteldive.com/news/union-workers-seattle-hilton-strike/823302/",
+      "primary_url": "https://www.hoteldive.com/news/union-workers-seattle-hilton-strike/823302/",
+      "source": "Hotel Dive",
+      "source_name": "Hotel Dive",
+      "sources": [
+        {
+          "id": "hotelitem_beb8cc3a29f7",
+          "title": "Union workers at Seattle Hilton strike amid World Cup",
+          "url": "https://www.hoteldive.com/news/union-workers-seattle-hilton-strike/823302/",
+          "source": "Hotel Dive",
+          "source_name": "Hotel Dive",
+          "site_id": "hoteldive",
+          "published_at": "2026-06-18T16:35:16Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hotel Dive"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_beb8cc3a29f7",
+          "title": "Union workers at Seattle Hilton strike amid World Cup",
+          "url": "https://www.hoteldive.com/news/union-workers-seattle-hilton-strike/823302/",
+          "source": "Hotel Dive",
+          "source_name": "Hotel Dive",
+          "site_id": "hoteldive",
+          "published_at": "2026-06-18T16:35:16Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.9539,
+      "importance": 0.5989,
+      "importance_score": 0.9539,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9945,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-06-18T16:35:16Z",
+      "latest_at": "2026-06-18T16:35:16Z",
+      "primary_item": {
+        "id": "hotelitem_beb8cc3a29f7",
+        "title": "Union workers at Seattle Hilton strike amid World Cup",
+        "url": "https://www.hoteldive.com/news/union-workers-seattle-hilton-strike/823302/",
+        "source": "Hotel Dive",
+        "source_name": "Hotel Dive"
+      }
+    },
+    {
+      "story_id": "story_fd25313fce58",
+      "title": "Whitbread CEO’s Answer to Activist Investor: Plan Is Working, We Don’t Need to Sell",
+      "url": "https://skift.com/2026/06/18/whitbread-ceos-answer-to-activist-investor-plan-is-working-we-dont-need-to-sell/",
+      "primary_url": "https://skift.com/2026/06/18/whitbread-ceos-answer-to-activist-investor-plan-is-working-we-dont-need-to-sell/",
+      "source": "Skift Hospitality",
+      "source_name": "Skift Hospitality",
+      "sources": [
+        {
+          "id": "hotelitem_fd25313fce58",
+          "title": "Whitbread CEO’s Answer to Activist Investor: Plan Is Working, We Don’t Need to Sell",
+          "url": "https://skift.com/2026/06/18/whitbread-ceos-answer-to-activist-investor-plan-is-working-we-dont-need-to-sell/",
+          "source": "Skift Hospitality",
+          "source_name": "Skift Hospitality",
+          "site_id": "skift",
+          "published_at": "2026-06-18T16:04:32Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Skift Hospitality"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_fd25313fce58",
+          "title": "Whitbread CEO’s Answer to Activist Investor: Plan Is Working, We Don’t Need to Sell",
+          "url": "https://skift.com/2026/06/18/whitbread-ceos-answer-to-activist-investor-plan-is-working-we-dont-need-to-sell/",
+          "source": "Skift Hospitality",
+          "source_name": "Skift Hospitality",
+          "site_id": "skift",
+          "published_at": "2026-06-18T16:04:32Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.9538,
+      "importance": 0.5988,
+      "importance_score": 0.9538,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.994,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-06-18T16:04:32Z",
+      "latest_at": "2026-06-18T16:04:32Z",
+      "primary_item": {
+        "id": "hotelitem_fd25313fce58",
+        "title": "Whitbread CEO’s Answer to Activist Investor: Plan Is Working, We Don’t Need to Sell",
+        "url": "https://skift.com/2026/06/18/whitbread-ceos-answer-to-activist-investor-plan-is-working-we-dont-need-to-sell/",
+        "source": "Skift Hospitality",
+        "source_name": "Skift Hospitality"
       }
     },
     {
@@ -97,14 +274,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9509,
-      "importance": 0.5957,
-      "importance_score": 0.9509,
+      "score": 0.9491,
+      "importance": 0.5939,
+      "importance_score": 0.9491,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9787,
+        "recency": 0.9695,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -156,14 +333,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.947,
-      "importance": 0.5917,
-      "importance_score": 0.947,
+      "score": 0.9452,
+      "importance": 0.5899,
+      "importance_score": 0.9452,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9585,
+        "recency": 0.9493,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -215,14 +392,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9427,
-      "importance": 0.5417,
-      "importance_score": 0.9427,
+      "score": 0.94,
+      "importance": 0.5399,
+      "importance_score": 0.94,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.7087,
+        "recency": 0.6995,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -240,183 +417,6 @@
       }
     },
     {
-      "story_id": "story_70634d9a9e87",
-      "title": "IHG Spent 8 Years Rebuilding Its Hotel Systems. Now It Says the Payoff Is Starting.",
-      "url": "https://skift.com/2026/06/15/ihg-spent-8-years-rebuilding-its-hotel-systems-now-it-says-the-payoff-is-starting/",
-      "primary_url": "https://skift.com/2026/06/15/ihg-spent-8-years-rebuilding-its-hotel-systems-now-it-says-the-payoff-is-starting/",
-      "source": "Skift Hospitality",
-      "source_name": "Skift Hospitality",
-      "sources": [
-        {
-          "id": "hotelitem_70634d9a9e87",
-          "title": "IHG Spent 8 Years Rebuilding Its Hotel Systems. Now It Says the Payoff Is Starting.",
-          "url": "https://skift.com/2026/06/15/ihg-spent-8-years-rebuilding-its-hotel-systems-now-it-says-the-payoff-is-starting/",
-          "source": "Skift Hospitality",
-          "source_name": "Skift Hospitality",
-          "site_id": "skift",
-          "published_at": "2026-06-15T10:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Skift Hospitality"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_70634d9a9e87",
-          "title": "IHG Spent 8 Years Rebuilding Its Hotel Systems. Now It Says the Payoff Is Starting.",
-          "url": "https://skift.com/2026/06/15/ihg-spent-8-years-rebuilding-its-hotel-systems-now-it-says-the-payoff-is-starting/",
-          "source": "Skift Hospitality",
-          "source_name": "Skift Hospitality",
-          "site_id": "skift",
-          "published_at": "2026-06-15T10:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.9417,
-      "importance": 0.5862,
-      "importance_score": 0.9417,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9309,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-15T10:00:00Z",
-      "latest_at": "2026-06-15T10:00:00Z",
-      "primary_item": {
-        "id": "hotelitem_70634d9a9e87",
-        "title": "IHG Spent 8 Years Rebuilding Its Hotel Systems. Now It Says the Payoff Is Starting.",
-        "url": "https://skift.com/2026/06/15/ihg-spent-8-years-rebuilding-its-hotel-systems-now-it-says-the-payoff-is-starting/",
-        "source": "Skift Hospitality",
-        "source_name": "Skift Hospitality"
-      }
-    },
-    {
-      "story_id": "story_e9ea2f67861c",
-      "title": "Hilton expands in Türkiye with first cave hotel",
-      "url": "https://boutiquehotelnews.com/news/hotel/hilton-turkiye-cave-hotel/?utm_source=rss&utm_medium=rss&utm_campaign=hilton-turkiye-cave-hotel",
-      "primary_url": "https://boutiquehotelnews.com/news/hotel/hilton-turkiye-cave-hotel/?utm_source=rss&utm_medium=rss&utm_campaign=hilton-turkiye-cave-hotel",
-      "source": "Boutique Hotel News",
-      "source_name": "Boutique Hotel News",
-      "sources": [
-        {
-          "id": "hotelitem_e9ea2f67861c",
-          "title": "Hilton expands in Türkiye with first cave hotel",
-          "url": "https://boutiquehotelnews.com/news/hotel/hilton-turkiye-cave-hotel/?utm_source=rss&utm_medium=rss&utm_campaign=hilton-turkiye-cave-hotel",
-          "source": "Boutique Hotel News",
-          "source_name": "Boutique Hotel News",
-          "site_id": "boutiquehotel",
-          "published_at": "2026-06-16T08:29:50Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Boutique Hotel News"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_e9ea2f67861c",
-          "title": "Hilton expands in Türkiye with first cave hotel",
-          "url": "https://boutiquehotelnews.com/news/hotel/hilton-turkiye-cave-hotel/?utm_source=rss&utm_medium=rss&utm_campaign=hilton-turkiye-cave-hotel",
-          "source": "Boutique Hotel News",
-          "source_name": "Boutique Hotel News",
-          "site_id": "boutiquehotel",
-          "published_at": "2026-06-16T08:29:50Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.9307,
-      "importance": 0.5904,
-      "importance_score": 0.9307,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9518,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-16T08:29:50Z",
-      "latest_at": "2026-06-16T08:29:50Z",
-      "primary_item": {
-        "id": "hotelitem_e9ea2f67861c",
-        "title": "Hilton expands in Türkiye with first cave hotel",
-        "url": "https://boutiquehotelnews.com/news/hotel/hilton-turkiye-cave-hotel/?utm_source=rss&utm_medium=rss&utm_campaign=hilton-turkiye-cave-hotel",
-        "source": "Boutique Hotel News",
-        "source_name": "Boutique Hotel News"
-      }
-    },
-    {
-      "story_id": "story_fd955dba67df",
-      "title": "Braemar to end strategic review process, become self-managed REIT",
-      "url": "https://www.hoteldive.com/news/braemar-ends-strategic-review-process-becomes-self-managed-reit/822821/",
-      "primary_url": "https://www.hoteldive.com/news/braemar-ends-strategic-review-process-becomes-self-managed-reit/822821/",
-      "source": "Hotel Dive",
-      "source_name": "Hotel Dive",
-      "sources": [
-        {
-          "id": "hotelitem_fd955dba67df",
-          "title": "Braemar to end strategic review process, become self-managed REIT",
-          "url": "https://www.hoteldive.com/news/braemar-ends-strategic-review-process-becomes-self-managed-reit/822821/",
-          "source": "Hotel Dive",
-          "source_name": "Hotel Dive",
-          "site_id": "hoteldive",
-          "published_at": "2026-06-12T16:27:29Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hotel Dive"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_fd955dba67df",
-          "title": "Braemar to end strategic review process, become self-managed REIT",
-          "url": "https://www.hoteldive.com/news/braemar-ends-strategic-review-process-becomes-self-managed-reit/822821/",
-          "source": "Hotel Dive",
-          "source_name": "Hotel Dive",
-          "site_id": "hoteldive",
-          "published_at": "2026-06-12T16:27:29Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.93,
-      "importance": 0.574,
-      "importance_score": 0.93,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.8702,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-12T16:27:29Z",
-      "latest_at": "2026-06-12T16:27:29Z",
-      "primary_item": {
-        "id": "hotelitem_fd955dba67df",
-        "title": "Braemar to end strategic review process, become self-managed REIT",
-        "url": "https://www.hoteldive.com/news/braemar-ends-strategic-review-process-becomes-self-managed-reit/822821/",
-        "source": "Hotel Dive",
-        "source_name": "Hotel Dive"
-      }
-    },
-    {
       "story_id": "story_c7c15b7680c9",
       "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
       "url": "https://www.chinahotel.org.cn/articles/17408",
@@ -431,7 +431,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-06-18T12:35:33.117175Z"
+          "published_at": "2026-06-18T22:32:17.672578Z"
         },
         {
           "id": "hotelitem_c7c15b7680c9",
@@ -440,7 +440,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-06-18T12:35:33.117175Z"
+          "published_at": "2026-06-18T22:32:17.672578Z"
         },
         {
           "id": "hotelitem_6d8fa145e8af",
@@ -449,7 +449,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-06-18T12:35:33.117175Z"
+          "published_at": "2026-06-18T22:32:17.672578Z"
         }
       ],
       "source_count": 3,
@@ -464,7 +464,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-06-18T12:35:33.117175Z"
+          "published_at": "2026-06-18T22:32:17.672578Z"
         },
         {
           "id": "hotelitem_c7c15b7680c9",
@@ -473,7 +473,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-06-18T12:35:33.117175Z"
+          "published_at": "2026-06-18T22:32:17.672578Z"
         },
         {
           "id": "hotelitem_6d8fa145e8af",
@@ -482,7 +482,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-06-18T12:35:33.117175Z"
+          "published_at": "2026-06-18T22:32:17.672578Z"
         }
       ],
       "item_count": 3,
@@ -502,8 +502,8 @@
         "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-06-18T12:35:33.117175Z",
-      "latest_at": "2026-06-18T12:35:33.117175Z",
+      "earliest_at": "2026-06-18T22:32:17.672578Z",
+      "latest_at": "2026-06-18T22:32:17.672578Z",
       "primary_item": {
         "id": "hotelitem_d4370964909c",
         "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
@@ -527,7 +527,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-06-18T12:35:33.117175Z"
+          "published_at": "2026-06-18T22:32:17.672578Z"
         }
       ],
       "source_count": 1,
@@ -542,7 +542,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-06-18T12:35:33.117175Z"
+          "published_at": "2026-06-18T22:32:17.672578Z"
         }
       ],
       "item_count": 1,
@@ -561,8 +561,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-06-18T12:35:33.117175Z",
-      "latest_at": "2026-06-18T12:35:33.117175Z",
+      "earliest_at": "2026-06-18T22:32:17.672578Z",
+      "latest_at": "2026-06-18T22:32:17.672578Z",
       "primary_item": {
         "id": "hotelitem_86885009de08",
         "title": "文旅惠报|岭南控股与重庆黔江区签署战略合作协议；厦门国有资本牵手阿那亚，打造集美岛滨海文旅项目",
@@ -586,7 +586,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-06-18T12:35:33.117175Z"
+          "published_at": "2026-06-18T22:32:17.672578Z"
         }
       ],
       "source_count": 1,
@@ -601,7 +601,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-06-18T12:35:33.117175Z"
+          "published_at": "2026-06-18T22:32:17.672578Z"
         }
       ],
       "item_count": 1,
@@ -620,8 +620,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-06-18T12:35:33.117175Z",
-      "latest_at": "2026-06-18T12:35:33.117175Z",
+      "earliest_at": "2026-06-18T22:32:17.672578Z",
+      "latest_at": "2026-06-18T22:32:17.672578Z",
       "primary_item": {
         "id": "hotelitem_d94f35b8bbdc",
         "title": "文旅惠报|开封清明上河园向港交所提交上市申请；万豪国际全球酒店数量正式破万家",
@@ -645,7 +645,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-06-18T12:35:33.117175Z"
+          "published_at": "2026-06-18T22:32:17.672578Z"
         }
       ],
       "source_count": 1,
@@ -660,7 +660,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-06-18T12:35:33.117175Z"
+          "published_at": "2026-06-18T22:32:17.672578Z"
         }
       ],
       "item_count": 1,
@@ -679,8 +679,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-06-18T12:35:33.117175Z",
-      "latest_at": "2026-06-18T12:35:33.117175Z",
+      "earliest_at": "2026-06-18T22:32:17.672578Z",
+      "latest_at": "2026-06-18T22:32:17.672578Z",
       "primary_item": {
         "id": "hotelitem_7a0aafcf6ecc",
         "title": "文旅惠报|澳门银河与Trip.com签订三年战略合作协议；盈新发展转让西宁置业100%股权",
@@ -704,7 +704,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-06-18T12:35:33.117175Z"
+          "published_at": "2026-06-18T22:32:17.672578Z"
         }
       ],
       "source_count": 1,
@@ -719,7 +719,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-06-18T12:35:33.117175Z"
+          "published_at": "2026-06-18T22:32:17.672578Z"
         }
       ],
       "item_count": 1,
@@ -738,8 +738,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-06-18T12:35:33.117175Z",
-      "latest_at": "2026-06-18T12:35:33.117175Z",
+      "earliest_at": "2026-06-18T22:32:17.672578Z",
+      "latest_at": "2026-06-18T22:32:17.672578Z",
       "primary_item": {
         "id": "hotelitem_8bd428772b3b",
         "title": "文旅惠报|许铭出任锦江国际集团总裁；西藏旅游拟以6970.65万元公积金弥补累计亏损",
@@ -763,7 +763,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-06-18T12:35:33.117175Z"
+          "published_at": "2026-06-18T22:32:17.672578Z"
         }
       ],
       "source_count": 1,
@@ -778,7 +778,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-06-18T12:35:33.117175Z"
+          "published_at": "2026-06-18T22:32:17.672578Z"
         }
       ],
       "item_count": 1,
@@ -797,8 +797,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-06-18T12:35:33.117175Z",
-      "latest_at": "2026-06-18T12:35:33.117175Z",
+      "earliest_at": "2026-06-18T22:32:17.672578Z",
+      "latest_at": "2026-06-18T22:32:17.672578Z",
       "primary_item": {
         "id": "hotelitem_4966ad3512b4",
         "title": "文旅惠报|雅高集团CEO宣布2028年卸任；众信优游与中视实业集团达成深度合作",
@@ -842,14 +842,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8729,
-      "importance": 0.4466,
-      "importance_score": 0.8729,
+      "score": 0.8704,
+      "importance": 0.4447,
+      "importance_score": 0.8704,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.2328,
+        "recency": 0.2236,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -901,14 +901,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8631,
-      "importance": 0.598,
-      "importance_score": 0.8631,
+      "score": 0.8613,
+      "importance": 0.5962,
+      "importance_score": 0.8613,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9901,
+        "recency": 0.9809,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -926,6 +926,65 @@
       }
     },
     {
+      "story_id": "story_8e766a126e2d",
+      "title": "Top takeaways from 2026’s NYU International Hospitality Investment Forum",
+      "url": "https://www.hoteldive.com/news/top-takeaways-from-2026s-nyu-international-hospitality-investment-forum/823216/",
+      "primary_url": "https://www.hoteldive.com/news/top-takeaways-from-2026s-nyu-international-hospitality-investment-forum/823216/",
+      "source": "Hotel Dive",
+      "source_name": "Hotel Dive",
+      "sources": [
+        {
+          "id": "hotelitem_8e766a126e2d",
+          "title": "Top takeaways from 2026’s NYU International Hospitality Investment Forum",
+          "url": "https://www.hoteldive.com/news/top-takeaways-from-2026s-nyu-international-hospitality-investment-forum/823216/",
+          "source": "Hotel Dive",
+          "source_name": "Hotel Dive",
+          "site_id": "hoteldive",
+          "published_at": "2026-06-17T20:52:57Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hotel Dive"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_8e766a126e2d",
+          "title": "Top takeaways from 2026’s NYU International Hospitality Investment Forum",
+          "url": "https://www.hoteldive.com/news/top-takeaways-from-2026s-nyu-international-hospitality-investment-forum/823216/",
+          "source": "Hotel Dive",
+          "source_name": "Hotel Dive",
+          "site_id": "hoteldive",
+          "published_at": "2026-06-17T20:52:57Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8604,
+      "importance": 0.5952,
+      "importance_score": 0.8604,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9762,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-06-17T20:52:57Z",
+      "latest_at": "2026-06-17T20:52:57Z",
+      "primary_item": {
+        "id": "hotelitem_8e766a126e2d",
+        "title": "Top takeaways from 2026’s NYU International Hospitality Investment Forum",
+        "url": "https://www.hoteldive.com/news/top-takeaways-from-2026s-nyu-international-hospitality-investment-forum/823216/",
+        "source": "Hotel Dive",
+        "source_name": "Hotel Dive"
+      }
+    },
+    {
       "story_id": "story_13a833e19250",
       "title": "岭南控股：选举朱红为新任董事长，聘任邬琛为总经理",
       "url": "https://www.meadin.com/wl/297567.html",
@@ -940,7 +999,7 @@
           "source": "迈点研究院",
           "source_name": "迈点研究院",
           "site_id": "meadin",
-          "published_at": "2026-06-18T12:35:33.117175Z"
+          "published_at": "2026-06-18T22:32:17.672578Z"
         }
       ],
       "source_count": 1,
@@ -955,7 +1014,7 @@
           "source": "迈点研究院",
           "source_name": "迈点研究院",
           "site_id": "meadin",
-          "published_at": "2026-06-18T12:35:33.117175Z"
+          "published_at": "2026-06-18T22:32:17.672578Z"
         }
       ],
       "item_count": 1,
@@ -974,14 +1033,191 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-06-18T12:35:33.117175Z",
-      "latest_at": "2026-06-18T12:35:33.117175Z",
+      "earliest_at": "2026-06-18T22:32:17.672578Z",
+      "latest_at": "2026-06-18T22:32:17.672578Z",
       "primary_item": {
         "id": "hotelitem_13a833e19250",
         "title": "岭南控股：选举朱红为新任董事长，聘任邬琛为总经理",
         "url": "https://www.meadin.com/wl/297567.html",
         "source": "迈点研究院",
         "source_name": "迈点研究院"
+      }
+    },
+    {
+      "story_id": "story_e4ce0593c384",
+      "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
+      "url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
+      "primary_url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
+      "source": "中国旅游研究院",
+      "source_name": "中国旅游研究院",
+      "sources": [
+        {
+          "id": "hotelitem_e4ce0593c384",
+          "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
+          "url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
+          "source": "中国旅游研究院",
+          "source_name": "中国旅游研究院",
+          "site_id": "cta",
+          "published_at": "2026-06-18T22:32:17.672578Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "中国旅游研究院"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_e4ce0593c384",
+          "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
+          "url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
+          "source": "中国旅游研究院",
+          "source_name": "中国旅游研究院",
+          "site_id": "cta",
+          "published_at": "2026-06-18T22:32:17.672578Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.858,
+      "importance": 0.6,
+      "importance_score": 0.858,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-06-18T22:32:17.672578Z",
+      "latest_at": "2026-06-18T22:32:17.672578Z",
+      "primary_item": {
+        "id": "hotelitem_e4ce0593c384",
+        "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
+        "url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
+        "source": "中国旅游研究院",
+        "source_name": "中国旅游研究院"
+      }
+    },
+    {
+      "story_id": "story_aafbd26fe946",
+      "title": "文化和旅游部端午节假期和汛期、暑期出游提示",
+      "url": "https://www.mct.gov.cn/whzx/whyw/202606/t20260605_966153.htm",
+      "primary_url": "https://www.mct.gov.cn/whzx/whyw/202606/t20260605_966153.htm",
+      "source": "文化和旅游部",
+      "source_name": "文化和旅游部",
+      "sources": [
+        {
+          "id": "hotelitem_aafbd26fe946",
+          "title": "文化和旅游部端午节假期和汛期、暑期出游提示",
+          "url": "https://www.mct.gov.cn/whzx/whyw/202606/t20260605_966153.htm",
+          "source": "文化和旅游部",
+          "source_name": "文化和旅游部",
+          "site_id": "mct",
+          "published_at": "2026-06-18T22:32:17.672578Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "文化和旅游部"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_aafbd26fe946",
+          "title": "文化和旅游部端午节假期和汛期、暑期出游提示",
+          "url": "https://www.mct.gov.cn/whzx/whyw/202606/t20260605_966153.htm",
+          "source": "文化和旅游部",
+          "source_name": "文化和旅游部",
+          "site_id": "mct",
+          "published_at": "2026-06-18T22:32:17.672578Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.858,
+      "importance": 0.6,
+      "importance_score": 0.858,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-06-18T22:32:17.672578Z",
+      "latest_at": "2026-06-18T22:32:17.672578Z",
+      "primary_item": {
+        "id": "hotelitem_aafbd26fe946",
+        "title": "文化和旅游部端午节假期和汛期、暑期出游提示",
+        "url": "https://www.mct.gov.cn/whzx/whyw/202606/t20260605_966153.htm",
+        "source": "文化和旅游部",
+        "source_name": "文化和旅游部"
+      }
+    },
+    {
+      "story_id": "story_e2295ba596c9",
+      "title": "文化和旅游部部级社科研究项目公布",
+      "url": "https://www.mct.gov.cn/whzx/bnsj/whkjs/202606/t20260617_966274.html",
+      "primary_url": "https://www.mct.gov.cn/whzx/bnsj/whkjs/202606/t20260617_966274.html",
+      "source": "文化和旅游部",
+      "source_name": "文化和旅游部",
+      "sources": [
+        {
+          "id": "hotelitem_e2295ba596c9",
+          "title": "文化和旅游部部级社科研究项目公布",
+          "url": "https://www.mct.gov.cn/whzx/bnsj/whkjs/202606/t20260617_966274.html",
+          "source": "文化和旅游部",
+          "source_name": "文化和旅游部",
+          "site_id": "mct",
+          "published_at": "2026-06-18T22:32:17.672578Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "文化和旅游部"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_e2295ba596c9",
+          "title": "文化和旅游部部级社科研究项目公布",
+          "url": "https://www.mct.gov.cn/whzx/bnsj/whkjs/202606/t20260617_966274.html",
+          "source": "文化和旅游部",
+          "source_name": "文化和旅游部",
+          "site_id": "mct",
+          "published_at": "2026-06-18T22:32:17.672578Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.858,
+      "importance": 0.6,
+      "importance_score": 0.858,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-06-18T22:32:17.672578Z",
+      "latest_at": "2026-06-18T22:32:17.672578Z",
+      "primary_item": {
+        "id": "hotelitem_e2295ba596c9",
+        "title": "文化和旅游部部级社科研究项目公布",
+        "url": "https://www.mct.gov.cn/whzx/bnsj/whkjs/202606/t20260617_966274.html",
+        "source": "文化和旅游部",
+        "source_name": "文化和旅游部"
       }
     },
     {
@@ -1019,14 +1255,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8587,
-      "importance": 0.5935,
-      "importance_score": 0.8587,
+      "score": 0.8569,
+      "importance": 0.5916,
+      "importance_score": 0.8569,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9674,
+        "recency": 0.9582,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1041,124 +1277,6 @@
         "url": "https://insights.ehotelier.com/suppliers/2026/06/17/how-saba-hospitalitys-digital-compendium-mobile-ordering-boosted-revenue-and-streamlined-operations-at-ingot-hotel-perth/?utm_source=rss&utm_medium=rss&utm_campaign=how-saba-hospitalitys-digital-compendium-mobile-ordering-boosted-revenue-and-streamlined-operations-at-ingot-hotel-perth",
         "source": "eHotelier",
         "source_name": "eHotelier"
-      }
-    },
-    {
-      "story_id": "story_aafbd26fe946",
-      "title": "文化和旅游部端午节假期和汛期、暑期出游提示",
-      "url": "https://www.mct.gov.cn/whzx/whyw/202606/t20260605_966153.htm",
-      "primary_url": "https://www.mct.gov.cn/whzx/whyw/202606/t20260605_966153.htm",
-      "source": "文化和旅游部",
-      "source_name": "文化和旅游部",
-      "sources": [
-        {
-          "id": "hotelitem_aafbd26fe946",
-          "title": "文化和旅游部端午节假期和汛期、暑期出游提示",
-          "url": "https://www.mct.gov.cn/whzx/whyw/202606/t20260605_966153.htm",
-          "source": "文化和旅游部",
-          "source_name": "文化和旅游部",
-          "site_id": "mct",
-          "published_at": "2026-06-18T12:35:33.117175Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "文化和旅游部"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_aafbd26fe946",
-          "title": "文化和旅游部端午节假期和汛期、暑期出游提示",
-          "url": "https://www.mct.gov.cn/whzx/whyw/202606/t20260605_966153.htm",
-          "source": "文化和旅游部",
-          "source_name": "文化和旅游部",
-          "site_id": "mct",
-          "published_at": "2026-06-18T12:35:33.117175Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.858,
-      "importance": 0.6,
-      "importance_score": 0.858,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-18T12:35:33.117175Z",
-      "latest_at": "2026-06-18T12:35:33.117175Z",
-      "primary_item": {
-        "id": "hotelitem_aafbd26fe946",
-        "title": "文化和旅游部端午节假期和汛期、暑期出游提示",
-        "url": "https://www.mct.gov.cn/whzx/whyw/202606/t20260605_966153.htm",
-        "source": "文化和旅游部",
-        "source_name": "文化和旅游部"
-      }
-    },
-    {
-      "story_id": "story_e2295ba596c9",
-      "title": "文化和旅游部部级社科研究项目公布",
-      "url": "https://www.mct.gov.cn/whzx/bnsj/whkjs/202606/t20260617_966274.html",
-      "primary_url": "https://www.mct.gov.cn/whzx/bnsj/whkjs/202606/t20260617_966274.html",
-      "source": "文化和旅游部",
-      "source_name": "文化和旅游部",
-      "sources": [
-        {
-          "id": "hotelitem_e2295ba596c9",
-          "title": "文化和旅游部部级社科研究项目公布",
-          "url": "https://www.mct.gov.cn/whzx/bnsj/whkjs/202606/t20260617_966274.html",
-          "source": "文化和旅游部",
-          "source_name": "文化和旅游部",
-          "site_id": "mct",
-          "published_at": "2026-06-18T12:35:33.117175Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "文化和旅游部"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_e2295ba596c9",
-          "title": "文化和旅游部部级社科研究项目公布",
-          "url": "https://www.mct.gov.cn/whzx/bnsj/whkjs/202606/t20260617_966274.html",
-          "source": "文化和旅游部",
-          "source_name": "文化和旅游部",
-          "site_id": "mct",
-          "published_at": "2026-06-18T12:35:33.117175Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.858,
-      "importance": 0.6,
-      "importance_score": 0.858,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-18T12:35:33.117175Z",
-      "latest_at": "2026-06-18T12:35:33.117175Z",
-      "primary_item": {
-        "id": "hotelitem_e2295ba596c9",
-        "title": "文化和旅游部部级社科研究项目公布",
-        "url": "https://www.mct.gov.cn/whzx/bnsj/whkjs/202606/t20260617_966274.html",
-        "source": "文化和旅游部",
-        "source_name": "文化和旅游部"
       }
     },
     {
@@ -1196,14 +1314,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8567,
-      "importance": 0.5914,
-      "importance_score": 0.8567,
+      "score": 0.8549,
+      "importance": 0.5895,
+      "importance_score": 0.8549,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9569,
+        "recency": 0.9477,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1255,14 +1373,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8538,
-      "importance": 0.5884,
-      "importance_score": 0.8538,
+      "score": 0.852,
+      "importance": 0.5865,
+      "importance_score": 0.852,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9418,
+        "recency": 0.9326,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1277,65 +1395,6 @@
         "url": "https://www.hoteldive.com/news/g6-hospitality-ceo-sonal-sinha-exits-amid-leadership-changes/822978/",
         "source": "Hotel Dive",
         "source_name": "Hotel Dive"
-      }
-    },
-    {
-      "story_id": "story_692cc5c79556",
-      "title": "RealTime Reservation Acquires STAY to Unify Hotel Ancillary Revenue Tech — Exclusive",
-      "url": "https://skift.com/2026/06/15/realtime-reservation-stay-acquisition-hospitality-tech-ai/",
-      "primary_url": "https://skift.com/2026/06/15/realtime-reservation-stay-acquisition-hospitality-tech-ai/",
-      "source": "Skift Hospitality",
-      "source_name": "Skift Hospitality",
-      "sources": [
-        {
-          "id": "hotelitem_692cc5c79556",
-          "title": "RealTime Reservation Acquires STAY to Unify Hotel Ancillary Revenue Tech — Exclusive",
-          "url": "https://skift.com/2026/06/15/realtime-reservation-stay-acquisition-hospitality-tech-ai/",
-          "source": "Skift Hospitality",
-          "source_name": "Skift Hospitality",
-          "site_id": "skift",
-          "published_at": "2026-06-15T19:08:16Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Skift Hospitality"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_692cc5c79556",
-          "title": "RealTime Reservation Acquires STAY to Unify Hotel Ancillary Revenue Tech — Exclusive",
-          "url": "https://skift.com/2026/06/15/realtime-reservation-stay-acquisition-hospitality-tech-ai/",
-          "source": "Skift Hospitality",
-          "source_name": "Skift Hospitality",
-          "site_id": "skift",
-          "published_at": "2026-06-15T19:08:16Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8533,
-      "importance": 0.5879,
-      "importance_score": 0.8533,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9394,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-15T19:08:16Z",
-      "latest_at": "2026-06-15T19:08:16Z",
-      "primary_item": {
-        "id": "hotelitem_692cc5c79556",
-        "title": "RealTime Reservation Acquires STAY to Unify Hotel Ancillary Revenue Tech — Exclusive",
-        "url": "https://skift.com/2026/06/15/realtime-reservation-stay-acquisition-hospitality-tech-ai/",
-        "source": "Skift Hospitality",
-        "source_name": "Skift Hospitality"
       }
     },
     {
@@ -1373,14 +1432,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8525,
-      "importance": 0.587,
-      "importance_score": 0.8525,
+      "score": 0.8507,
+      "importance": 0.5852,
+      "importance_score": 0.8507,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9351,
+        "recency": 0.9259,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1432,14 +1491,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8515,
-      "importance": 0.586,
-      "importance_score": 0.8515,
+      "score": 0.8497,
+      "importance": 0.5842,
+      "importance_score": 0.8497,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.93,
+        "recency": 0.9208,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1454,124 +1513,6 @@
         "url": "https://www.hoteldive.com/spons/your-revenue-team-doesnt-have-a-data-problem/822460/",
         "source": "Hotel Dive",
         "source_name": "Hotel Dive"
-      }
-    },
-    {
-      "story_id": "story_455233920b65",
-      "title": "Ruby opens first hotel in Sweden with Stockholm launch",
-      "url": "https://boutiquehotelnews.com/news/hotel/ruby-first-hotel-sweden/?utm_source=rss&utm_medium=rss&utm_campaign=ruby-first-hotel-sweden",
-      "primary_url": "https://boutiquehotelnews.com/news/hotel/ruby-first-hotel-sweden/?utm_source=rss&utm_medium=rss&utm_campaign=ruby-first-hotel-sweden",
-      "source": "Boutique Hotel News",
-      "source_name": "Boutique Hotel News",
-      "sources": [
-        {
-          "id": "hotelitem_455233920b65",
-          "title": "Ruby opens first hotel in Sweden with Stockholm launch",
-          "url": "https://boutiquehotelnews.com/news/hotel/ruby-first-hotel-sweden/?utm_source=rss&utm_medium=rss&utm_campaign=ruby-first-hotel-sweden",
-          "source": "Boutique Hotel News",
-          "source_name": "Boutique Hotel News",
-          "site_id": "boutiquehotel",
-          "published_at": "2026-06-17T10:14:58Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Boutique Hotel News"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_455233920b65",
-          "title": "Ruby opens first hotel in Sweden with Stockholm launch",
-          "url": "https://boutiquehotelnews.com/news/hotel/ruby-first-hotel-sweden/?utm_source=rss&utm_medium=rss&utm_campaign=ruby-first-hotel-sweden",
-          "source": "Boutique Hotel News",
-          "source_name": "Boutique Hotel News",
-          "site_id": "boutiquehotel",
-          "published_at": "2026-06-17T10:14:58Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8453,
-      "importance": 0.5951,
-      "importance_score": 0.8453,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9756,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-17T10:14:58Z",
-      "latest_at": "2026-06-17T10:14:58Z",
-      "primary_item": {
-        "id": "hotelitem_455233920b65",
-        "title": "Ruby opens first hotel in Sweden with Stockholm launch",
-        "url": "https://boutiquehotelnews.com/news/hotel/ruby-first-hotel-sweden/?utm_source=rss&utm_medium=rss&utm_campaign=ruby-first-hotel-sweden",
-        "source": "Boutique Hotel News",
-        "source_name": "Boutique Hotel News"
-      }
-    },
-    {
-      "story_id": "story_729f24a798a2",
-      "title": "CoolRooms Hotels appoints general manager of Madrid hotel",
-      "url": "https://boutiquehotelnews.com/news/movers-and-shakers/coolrooms-hotels-madrid-general-manager/?utm_source=rss&utm_medium=rss&utm_campaign=coolrooms-hotels-madrid-general-manager",
-      "primary_url": "https://boutiquehotelnews.com/news/movers-and-shakers/coolrooms-hotels-madrid-general-manager/?utm_source=rss&utm_medium=rss&utm_campaign=coolrooms-hotels-madrid-general-manager",
-      "source": "Boutique Hotel News",
-      "source_name": "Boutique Hotel News",
-      "sources": [
-        {
-          "id": "hotelitem_729f24a798a2",
-          "title": "CoolRooms Hotels appoints general manager of Madrid hotel",
-          "url": "https://boutiquehotelnews.com/news/movers-and-shakers/coolrooms-hotels-madrid-general-manager/?utm_source=rss&utm_medium=rss&utm_campaign=coolrooms-hotels-madrid-general-manager",
-          "source": "Boutique Hotel News",
-          "source_name": "Boutique Hotel News",
-          "site_id": "boutiquehotel",
-          "published_at": "2026-06-12T11:55:03Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Boutique Hotel News"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_729f24a798a2",
-          "title": "CoolRooms Hotels appoints general manager of Madrid hotel",
-          "url": "https://boutiquehotelnews.com/news/movers-and-shakers/coolrooms-hotels-madrid-general-manager/?utm_source=rss&utm_medium=rss&utm_campaign=coolrooms-hotels-madrid-general-manager",
-          "source": "Boutique Hotel News",
-          "source_name": "Boutique Hotel News",
-          "site_id": "boutiquehotel",
-          "published_at": "2026-06-12T11:55:03Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8242,
-      "importance": 0.5732,
-      "importance_score": 0.8242,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.866,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-12T11:55:03Z",
-      "latest_at": "2026-06-12T11:55:03Z",
-      "primary_item": {
-        "id": "hotelitem_729f24a798a2",
-        "title": "CoolRooms Hotels appoints general manager of Madrid hotel",
-        "url": "https://boutiquehotelnews.com/news/movers-and-shakers/coolrooms-hotels-madrid-general-manager/?utm_source=rss&utm_medium=rss&utm_campaign=coolrooms-hotels-madrid-general-manager",
-        "source": "Boutique Hotel News",
-        "source_name": "Boutique Hotel News"
       }
     },
     {
@@ -1609,14 +1550,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.818,
-      "importance": 0.598,
-      "importance_score": 0.818,
+      "score": 0.8163,
+      "importance": 0.5961,
+      "importance_score": 0.8163,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9899,
+        "recency": 0.9807,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1668,14 +1609,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8159,
-      "importance": 0.5984,
-      "importance_score": 0.8159,
+      "score": 0.8142,
+      "importance": 0.5965,
+      "importance_score": 0.8142,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9919,
+        "recency": 0.9826,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1693,65 +1634,6 @@
       }
     },
     {
-      "story_id": "story_280c4343f683",
-      "title": "Marriott Hotel Owners Want a Bigger Cut of Loyalty Income",
-      "url": "https://skift.com/2026/06/16/marriott-hotel-owners-want-a-bigger-cut-of-loyalty-income/",
-      "primary_url": "https://skift.com/2026/06/16/marriott-hotel-owners-want-a-bigger-cut-of-loyalty-income/",
-      "source": "Skift Hospitality",
-      "source_name": "Skift Hospitality",
-      "sources": [
-        {
-          "id": "hotelitem_280c4343f683",
-          "title": "Marriott Hotel Owners Want a Bigger Cut of Loyalty Income",
-          "url": "https://skift.com/2026/06/16/marriott-hotel-owners-want-a-bigger-cut-of-loyalty-income/",
-          "source": "Skift Hospitality",
-          "source_name": "Skift Hospitality",
-          "site_id": "skift",
-          "published_at": "2026-06-16T21:35:06Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Skift Hospitality"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_280c4343f683",
-          "title": "Marriott Hotel Owners Want a Bigger Cut of Loyalty Income",
-          "url": "https://skift.com/2026/06/16/marriott-hotel-owners-want-a-bigger-cut-of-loyalty-income/",
-          "source": "Skift Hospitality",
-          "source_name": "Skift Hospitality",
-          "site_id": "skift",
-          "published_at": "2026-06-16T21:35:06Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.813,
-      "importance": 0.5928,
-      "importance_score": 0.813,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9639,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-16T21:35:06Z",
-      "latest_at": "2026-06-16T21:35:06Z",
-      "primary_item": {
-        "id": "hotelitem_280c4343f683",
-        "title": "Marriott Hotel Owners Want a Bigger Cut of Loyalty Income",
-        "url": "https://skift.com/2026/06/16/marriott-hotel-owners-want-a-bigger-cut-of-loyalty-income/",
-        "source": "Skift Hospitality",
-        "source_name": "Skift Hospitality"
-      }
-    },
-    {
       "story_id": "story_fcd5981922e8",
       "title": "Agoda Establishes Strategic Partnership with ... Digital travel platform Agoda and Taipei City government have launched a strategic partnership aimed a ... April 16, 2026 / Partnership",
       "url": "https://www.agoda.com/press/agoda-establishes-strategic-partnership-with-taipei-city-government-promoting-international-tourism-development/",
@@ -1766,7 +1648,7 @@
           "source": "Agoda",
           "source_name": "Agoda",
           "site_id": "agoda_press",
-          "published_at": "2026-06-18T12:35:33.117175Z"
+          "published_at": "2026-06-18T22:32:17.672578Z"
         }
       ],
       "source_count": 1,
@@ -1781,7 +1663,7 @@
           "source": "Agoda",
           "source_name": "Agoda",
           "site_id": "agoda_press",
-          "published_at": "2026-06-18T12:35:33.117175Z"
+          "published_at": "2026-06-18T22:32:17.672578Z"
         }
       ],
       "item_count": 1,
@@ -1800,12 +1682,130 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-06-18T12:35:33.117175Z",
-      "latest_at": "2026-06-18T12:35:33.117175Z",
+      "earliest_at": "2026-06-18T22:32:17.672578Z",
+      "latest_at": "2026-06-18T22:32:17.672578Z",
       "primary_item": {
         "id": "hotelitem_fcd5981922e8",
         "title": "Agoda Establishes Strategic Partnership with ... Digital travel platform Agoda and Taipei City government have launched a strategic partnership aimed a ... April 16, 2026 / Partnership",
         "url": "https://www.agoda.com/press/agoda-establishes-strategic-partnership-with-taipei-city-government-promoting-international-tourism-development/",
+        "source": "Agoda",
+        "source_name": "Agoda"
+      }
+    },
+    {
+      "story_id": "story_641aacc78df4",
+      "title": "Agoda Recommends Destinations with Water Par ... Singapore, 29 May 2026 – Travelers looking to beat the summer heat can find refreshing escapes with di ... May 29, 2026 / Travel Trends",
+      "url": "https://www.agoda.com/press/agoda-recommends-destinations-with-water-parks-worth-traveling-for/",
+      "primary_url": "https://www.agoda.com/press/agoda-recommends-destinations-with-water-parks-worth-traveling-for/",
+      "source": "Agoda",
+      "source_name": "Agoda",
+      "sources": [
+        {
+          "id": "hotelitem_641aacc78df4",
+          "title": "Agoda Recommends Destinations with Water Par ... Singapore, 29 May 2026 – Travelers looking to beat the summer heat can find refreshing escapes with di ... May 29, 2026 / Travel Trends",
+          "url": "https://www.agoda.com/press/agoda-recommends-destinations-with-water-parks-worth-traveling-for/",
+          "source": "Agoda",
+          "source_name": "Agoda",
+          "site_id": "agoda_press",
+          "published_at": "2026-06-18T22:32:17.672578Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Agoda"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_641aacc78df4",
+          "title": "Agoda Recommends Destinations with Water Par ... Singapore, 29 May 2026 – Travelers looking to beat the summer heat can find refreshing escapes with di ... May 29, 2026 / Travel Trends",
+          "url": "https://www.agoda.com/press/agoda-recommends-destinations-with-water-parks-worth-traveling-for/",
+          "source": "Agoda",
+          "source_name": "Agoda",
+          "site_id": "agoda_press",
+          "published_at": "2026-06-18T22:32:17.672578Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8125,
+      "importance": 0.6,
+      "importance_score": 0.8125,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-06-18T22:32:17.672578Z",
+      "latest_at": "2026-06-18T22:32:17.672578Z",
+      "primary_item": {
+        "id": "hotelitem_641aacc78df4",
+        "title": "Agoda Recommends Destinations with Water Par ... Singapore, 29 May 2026 – Travelers looking to beat the summer heat can find refreshing escapes with di ... May 29, 2026 / Travel Trends",
+        "url": "https://www.agoda.com/press/agoda-recommends-destinations-with-water-parks-worth-traveling-for/",
+        "source": "Agoda",
+        "source_name": "Agoda"
+      }
+    },
+    {
+      "story_id": "story_c1356ce1f577",
+      "title": "Agoda Reveals Growing Interest Among Japanes ... Singapore, 10 June 2026: Agoda Company Pte. Ltd. (Headquarters: Singapore; CEO: Omri Morgenshtern), wh ... June 10, 2026 / Travel Trends",
+      "url": "https://www.agoda.com/press/agoda-reveals-growing-interest-among-japanese-travelers-ahead-of-global-football-event-in-summer-2026/",
+      "primary_url": "https://www.agoda.com/press/agoda-reveals-growing-interest-among-japanese-travelers-ahead-of-global-football-event-in-summer-2026/",
+      "source": "Agoda",
+      "source_name": "Agoda",
+      "sources": [
+        {
+          "id": "hotelitem_c1356ce1f577",
+          "title": "Agoda Reveals Growing Interest Among Japanes ... Singapore, 10 June 2026: Agoda Company Pte. Ltd. (Headquarters: Singapore; CEO: Omri Morgenshtern), wh ... June 10, 2026 / Travel Trends",
+          "url": "https://www.agoda.com/press/agoda-reveals-growing-interest-among-japanese-travelers-ahead-of-global-football-event-in-summer-2026/",
+          "source": "Agoda",
+          "source_name": "Agoda",
+          "site_id": "agoda_press",
+          "published_at": "2026-06-18T22:32:17.672578Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Agoda"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_c1356ce1f577",
+          "title": "Agoda Reveals Growing Interest Among Japanes ... Singapore, 10 June 2026: Agoda Company Pte. Ltd. (Headquarters: Singapore; CEO: Omri Morgenshtern), wh ... June 10, 2026 / Travel Trends",
+          "url": "https://www.agoda.com/press/agoda-reveals-growing-interest-among-japanese-travelers-ahead-of-global-football-event-in-summer-2026/",
+          "source": "Agoda",
+          "source_name": "Agoda",
+          "site_id": "agoda_press",
+          "published_at": "2026-06-18T22:32:17.672578Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8125,
+      "importance": 0.6,
+      "importance_score": 0.8125,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-06-18T22:32:17.672578Z",
+      "latest_at": "2026-06-18T22:32:17.672578Z",
+      "primary_item": {
+        "id": "hotelitem_c1356ce1f577",
+        "title": "Agoda Reveals Growing Interest Among Japanes ... Singapore, 10 June 2026: Agoda Company Pte. Ltd. (Headquarters: Singapore; CEO: Omri Morgenshtern), wh ... June 10, 2026 / Travel Trends",
+        "url": "https://www.agoda.com/press/agoda-reveals-growing-interest-among-japanese-travelers-ahead-of-global-football-event-in-summer-2026/",
         "source": "Agoda",
         "source_name": "Agoda"
       }
