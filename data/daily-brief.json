@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-18T22:32:17.672578Z",
+  "generated_at": "2026-06-19T13:01:42.442761Z",
   "window_hours": 1080,
   "total_items": 30,
   "items": [
@@ -38,14 +38,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9675,
-      "importance": 0.5586,
-      "importance_score": 0.9675,
+      "score": 0.9635,
+      "importance": 0.556,
+      "importance_score": 0.9635,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.7932,
+        "recency": 0.7798,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -60,6 +60,301 @@
         "url": "https://www.traveldaily.cn/article/190163",
         "source": "环球旅讯 TravelDaily",
         "source_name": "环球旅讯 TravelDaily"
+      }
+    },
+    {
+      "story_id": "story_64e8c18baed2",
+      "title": "Marriott’s connect 2026: Resilience, revenue, and a renewed focus on owners",
+      "url": "https://insights.ehotelier.com/global-news/2026/06/19/marriotts-connect-2026-resilience-revenue-and-a-renewed-focus-on-owners/?utm_source=rss&utm_medium=rss&utm_campaign=marriotts-connect-2026-resilience-revenue-and-a-renewed-focus-on-owners",
+      "primary_url": "https://insights.ehotelier.com/global-news/2026/06/19/marriotts-connect-2026-resilience-revenue-and-a-renewed-focus-on-owners/?utm_source=rss&utm_medium=rss&utm_campaign=marriotts-connect-2026-resilience-revenue-and-a-renewed-focus-on-owners",
+      "source": "eHotelier",
+      "source_name": "eHotelier",
+      "sources": [
+        {
+          "id": "hotelitem_64e8c18baed2",
+          "title": "Marriott’s connect 2026: Resilience, revenue, and a renewed focus on owners",
+          "url": "https://insights.ehotelier.com/global-news/2026/06/19/marriotts-connect-2026-resilience-revenue-and-a-renewed-focus-on-owners/?utm_source=rss&utm_medium=rss&utm_campaign=marriotts-connect-2026-resilience-revenue-and-a-renewed-focus-on-owners",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-06-19T01:03:07Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "eHotelier"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_64e8c18baed2",
+          "title": "Marriott’s connect 2026: Resilience, revenue, and a renewed focus on owners",
+          "url": "https://insights.ehotelier.com/global-news/2026/06/19/marriotts-connect-2026-resilience-revenue-and-a-renewed-focus-on-owners/?utm_source=rss&utm_medium=rss&utm_campaign=marriotts-connect-2026-resilience-revenue-and-a-renewed-focus-on-owners",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-06-19T01:03:07Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.9529,
+      "importance": 0.5978,
+      "importance_score": 0.9529,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9889,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-06-19T01:03:07Z",
+      "latest_at": "2026-06-19T01:03:07Z",
+      "primary_item": {
+        "id": "hotelitem_64e8c18baed2",
+        "title": "Marriott’s connect 2026: Resilience, revenue, and a renewed focus on owners",
+        "url": "https://insights.ehotelier.com/global-news/2026/06/19/marriotts-connect-2026-resilience-revenue-and-a-renewed-focus-on-owners/?utm_source=rss&utm_medium=rss&utm_campaign=marriotts-connect-2026-resilience-revenue-and-a-renewed-focus-on-owners",
+        "source": "eHotelier",
+        "source_name": "eHotelier"
+      }
+    },
+    {
+      "story_id": "story_b62eaf3928fa",
+      "title": "Delivery Apps are eating your revenue: Why hotels must bring ordering in house",
+      "url": "https://insights.ehotelier.com/suppliers/2026/06/19/delivery-apps-are-eating-your-revenue-why-hotels-must-bring-ordering-in-house/?utm_source=rss&utm_medium=rss&utm_campaign=delivery-apps-are-eating-your-revenue-why-hotels-must-bring-ordering-in-house",
+      "primary_url": "https://insights.ehotelier.com/suppliers/2026/06/19/delivery-apps-are-eating-your-revenue-why-hotels-must-bring-ordering-in-house/?utm_source=rss&utm_medium=rss&utm_campaign=delivery-apps-are-eating-your-revenue-why-hotels-must-bring-ordering-in-house",
+      "source": "eHotelier",
+      "source_name": "eHotelier",
+      "sources": [
+        {
+          "id": "hotelitem_b62eaf3928fa",
+          "title": "Delivery Apps are eating your revenue: Why hotels must bring ordering in house",
+          "url": "https://insights.ehotelier.com/suppliers/2026/06/19/delivery-apps-are-eating-your-revenue-why-hotels-must-bring-ordering-in-house/?utm_source=rss&utm_medium=rss&utm_campaign=delivery-apps-are-eating-your-revenue-why-hotels-must-bring-ordering-in-house",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-06-19T01:11:25Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "eHotelier"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_b62eaf3928fa",
+          "title": "Delivery Apps are eating your revenue: Why hotels must bring ordering in house",
+          "url": "https://insights.ehotelier.com/suppliers/2026/06/19/delivery-apps-are-eating-your-revenue-why-hotels-must-bring-ordering-in-house/?utm_source=rss&utm_medium=rss&utm_campaign=delivery-apps-are-eating-your-revenue-why-hotels-must-bring-ordering-in-house",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-06-19T01:11:25Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.9529,
+      "importance": 0.5978,
+      "importance_score": 0.9529,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.989,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-06-19T01:11:25Z",
+      "latest_at": "2026-06-19T01:11:25Z",
+      "primary_item": {
+        "id": "hotelitem_b62eaf3928fa",
+        "title": "Delivery Apps are eating your revenue: Why hotels must bring ordering in house",
+        "url": "https://insights.ehotelier.com/suppliers/2026/06/19/delivery-apps-are-eating-your-revenue-why-hotels-must-bring-ordering-in-house/?utm_source=rss&utm_medium=rss&utm_campaign=delivery-apps-are-eating-your-revenue-why-hotels-must-bring-ordering-in-house",
+        "source": "eHotelier",
+        "source_name": "eHotelier"
+      }
+    },
+    {
+      "story_id": "story_72f233c46170",
+      "title": "Accor opens bookings for reimagined Novotel St Kilda ahead of October debut",
+      "url": "https://insights.ehotelier.com/properties/2026/06/19/accor-opens-bookings-for-reimagined-novotel-st-kilda-ahead-of-october-debut/?utm_source=rss&utm_medium=rss&utm_campaign=accor-opens-bookings-for-reimagined-novotel-st-kilda-ahead-of-october-debut",
+      "primary_url": "https://insights.ehotelier.com/properties/2026/06/19/accor-opens-bookings-for-reimagined-novotel-st-kilda-ahead-of-october-debut/?utm_source=rss&utm_medium=rss&utm_campaign=accor-opens-bookings-for-reimagined-novotel-st-kilda-ahead-of-october-debut",
+      "source": "eHotelier",
+      "source_name": "eHotelier",
+      "sources": [
+        {
+          "id": "hotelitem_72f233c46170",
+          "title": "Accor opens bookings for reimagined Novotel St Kilda ahead of October debut",
+          "url": "https://insights.ehotelier.com/properties/2026/06/19/accor-opens-bookings-for-reimagined-novotel-st-kilda-ahead-of-october-debut/?utm_source=rss&utm_medium=rss&utm_campaign=accor-opens-bookings-for-reimagined-novotel-st-kilda-ahead-of-october-debut",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-06-19T00:51:18Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "eHotelier"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_72f233c46170",
+          "title": "Accor opens bookings for reimagined Novotel St Kilda ahead of October debut",
+          "url": "https://insights.ehotelier.com/properties/2026/06/19/accor-opens-bookings-for-reimagined-novotel-st-kilda-ahead-of-october-debut/?utm_source=rss&utm_medium=rss&utm_campaign=accor-opens-bookings-for-reimagined-novotel-st-kilda-ahead-of-october-debut",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-06-19T00:51:18Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.9528,
+      "importance": 0.5977,
+      "importance_score": 0.9528,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9887,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-06-19T00:51:18Z",
+      "latest_at": "2026-06-19T00:51:18Z",
+      "primary_item": {
+        "id": "hotelitem_72f233c46170",
+        "title": "Accor opens bookings for reimagined Novotel St Kilda ahead of October debut",
+        "url": "https://insights.ehotelier.com/properties/2026/06/19/accor-opens-bookings-for-reimagined-novotel-st-kilda-ahead-of-october-debut/?utm_source=rss&utm_medium=rss&utm_campaign=accor-opens-bookings-for-reimagined-novotel-st-kilda-ahead-of-october-debut",
+        "source": "eHotelier",
+        "source_name": "eHotelier"
+      }
+    },
+    {
+      "story_id": "story_d57ccdd34d99",
+      "title": "Swedish debut for Hotel Indigo by IHG with latest signing in Stockholm",
+      "url": "https://insights.ehotelier.com/properties/2026/06/19/swedish-debut-for-hotel-indigo-by-ihg-with-latest-signing-in-stockholm/?utm_source=rss&utm_medium=rss&utm_campaign=swedish-debut-for-hotel-indigo-by-ihg-with-latest-signing-in-stockholm",
+      "primary_url": "https://insights.ehotelier.com/properties/2026/06/19/swedish-debut-for-hotel-indigo-by-ihg-with-latest-signing-in-stockholm/?utm_source=rss&utm_medium=rss&utm_campaign=swedish-debut-for-hotel-indigo-by-ihg-with-latest-signing-in-stockholm",
+      "source": "eHotelier",
+      "source_name": "eHotelier",
+      "sources": [
+        {
+          "id": "hotelitem_d57ccdd34d99",
+          "title": "Swedish debut for Hotel Indigo by IHG with latest signing in Stockholm",
+          "url": "https://insights.ehotelier.com/properties/2026/06/19/swedish-debut-for-hotel-indigo-by-ihg-with-latest-signing-in-stockholm/?utm_source=rss&utm_medium=rss&utm_campaign=swedish-debut-for-hotel-indigo-by-ihg-with-latest-signing-in-stockholm",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-06-19T00:54:06Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "eHotelier"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_d57ccdd34d99",
+          "title": "Swedish debut for Hotel Indigo by IHG with latest signing in Stockholm",
+          "url": "https://insights.ehotelier.com/properties/2026/06/19/swedish-debut-for-hotel-indigo-by-ihg-with-latest-signing-in-stockholm/?utm_source=rss&utm_medium=rss&utm_campaign=swedish-debut-for-hotel-indigo-by-ihg-with-latest-signing-in-stockholm",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-06-19T00:54:06Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.9528,
+      "importance": 0.5978,
+      "importance_score": 0.9528,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9888,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-06-19T00:54:06Z",
+      "latest_at": "2026-06-19T00:54:06Z",
+      "primary_item": {
+        "id": "hotelitem_d57ccdd34d99",
+        "title": "Swedish debut for Hotel Indigo by IHG with latest signing in Stockholm",
+        "url": "https://insights.ehotelier.com/properties/2026/06/19/swedish-debut-for-hotel-indigo-by-ihg-with-latest-signing-in-stockholm/?utm_source=rss&utm_medium=rss&utm_campaign=swedish-debut-for-hotel-indigo-by-ihg-with-latest-signing-in-stockholm",
+        "source": "eHotelier",
+        "source_name": "eHotelier"
+      }
+    },
+    {
+      "story_id": "story_df3eed7d4b8d",
+      "title": "Kevin Siegrist appointed as Director of Sales and Marketing at The Curtis Hotel",
+      "url": "https://insights.ehotelier.com/people/2026/06/19/kevin-siegrist-appointed-as-director-of-sales-and-marketing-at-the-curtis-hotel/?utm_source=rss&utm_medium=rss&utm_campaign=kevin-siegrist-appointed-as-director-of-sales-and-marketing-at-the-curtis-hotel",
+      "primary_url": "https://insights.ehotelier.com/people/2026/06/19/kevin-siegrist-appointed-as-director-of-sales-and-marketing-at-the-curtis-hotel/?utm_source=rss&utm_medium=rss&utm_campaign=kevin-siegrist-appointed-as-director-of-sales-and-marketing-at-the-curtis-hotel",
+      "source": "eHotelier",
+      "source_name": "eHotelier",
+      "sources": [
+        {
+          "id": "hotelitem_df3eed7d4b8d",
+          "title": "Kevin Siegrist appointed as Director of Sales and Marketing at The Curtis Hotel",
+          "url": "https://insights.ehotelier.com/people/2026/06/19/kevin-siegrist-appointed-as-director-of-sales-and-marketing-at-the-curtis-hotel/?utm_source=rss&utm_medium=rss&utm_campaign=kevin-siegrist-appointed-as-director-of-sales-and-marketing-at-the-curtis-hotel",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-06-19T00:57:11Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "eHotelier"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_df3eed7d4b8d",
+          "title": "Kevin Siegrist appointed as Director of Sales and Marketing at The Curtis Hotel",
+          "url": "https://insights.ehotelier.com/people/2026/06/19/kevin-siegrist-appointed-as-director-of-sales-and-marketing-at-the-curtis-hotel/?utm_source=rss&utm_medium=rss&utm_campaign=kevin-siegrist-appointed-as-director-of-sales-and-marketing-at-the-curtis-hotel",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-06-19T00:57:11Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.9528,
+      "importance": 0.5978,
+      "importance_score": 0.9528,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9888,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-06-19T00:57:11Z",
+      "latest_at": "2026-06-19T00:57:11Z",
+      "primary_item": {
+        "id": "hotelitem_df3eed7d4b8d",
+        "title": "Kevin Siegrist appointed as Director of Sales and Marketing at The Curtis Hotel",
+        "url": "https://insights.ehotelier.com/people/2026/06/19/kevin-siegrist-appointed-as-director-of-sales-and-marketing-at-the-curtis-hotel/?utm_source=rss&utm_medium=rss&utm_campaign=kevin-siegrist-appointed-as-director-of-sales-and-marketing-at-the-curtis-hotel",
+        "source": "eHotelier",
+        "source_name": "eHotelier"
       }
     },
     {
@@ -97,14 +392,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9543,
-      "importance": 0.5992,
-      "importance_score": 0.9543,
+      "score": 0.9517,
+      "importance": 0.5965,
+      "importance_score": 0.9517,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9961,
+        "recency": 0.9827,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -117,6 +412,65 @@
         "id": "hotelitem_c0476935d713",
         "title": "The Best Luxury Experiences Leave Some Slack in the System",
         "url": "https://skift.com/2026/06/18/the-best-luxury-experiences-leave-some-slack-in-the-system/",
+        "source": "Skift Hospitality",
+        "source_name": "Skift Hospitality"
+      }
+    },
+    {
+      "story_id": "story_fd25313fce58",
+      "title": "Whitbread CEO’s Answer to Activist Investor: Plan Is Working, We Don’t Need to Sell",
+      "url": "https://skift.com/2026/06/18/whitbread-ceos-answer-to-activist-investor-plan-is-working-we-dont-need-to-sell/",
+      "primary_url": "https://skift.com/2026/06/18/whitbread-ceos-answer-to-activist-investor-plan-is-working-we-dont-need-to-sell/",
+      "source": "Skift Hospitality",
+      "source_name": "Skift Hospitality",
+      "sources": [
+        {
+          "id": "hotelitem_fd25313fce58",
+          "title": "Whitbread CEO’s Answer to Activist Investor: Plan Is Working, We Don’t Need to Sell",
+          "url": "https://skift.com/2026/06/18/whitbread-ceos-answer-to-activist-investor-plan-is-working-we-dont-need-to-sell/",
+          "source": "Skift Hospitality",
+          "source_name": "Skift Hospitality",
+          "site_id": "skift",
+          "published_at": "2026-06-18T16:04:32Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Skift Hospitality"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_fd25313fce58",
+          "title": "Whitbread CEO’s Answer to Activist Investor: Plan Is Working, We Don’t Need to Sell",
+          "url": "https://skift.com/2026/06/18/whitbread-ceos-answer-to-activist-investor-plan-is-working-we-dont-need-to-sell/",
+          "source": "Skift Hospitality",
+          "source_name": "Skift Hospitality",
+          "site_id": "skift",
+          "published_at": "2026-06-18T16:04:32Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.9513,
+      "importance": 0.5961,
+      "importance_score": 0.9513,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9806,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-06-18T16:04:32Z",
+      "latest_at": "2026-06-18T16:04:32Z",
+      "primary_item": {
+        "id": "hotelitem_fd25313fce58",
+        "title": "Whitbread CEO’s Answer to Activist Investor: Plan Is Working, We Don’t Need to Sell",
+        "url": "https://skift.com/2026/06/18/whitbread-ceos-answer-to-activist-investor-plan-is-working-we-dont-need-to-sell/",
         "source": "Skift Hospitality",
         "source_name": "Skift Hospitality"
       }
@@ -156,14 +510,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9539,
-      "importance": 0.5989,
-      "importance_score": 0.9539,
+      "score": 0.9513,
+      "importance": 0.5962,
+      "importance_score": 0.9513,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9945,
+        "recency": 0.9811,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -178,65 +532,6 @@
         "url": "https://www.hoteldive.com/news/union-workers-seattle-hilton-strike/823302/",
         "source": "Hotel Dive",
         "source_name": "Hotel Dive"
-      }
-    },
-    {
-      "story_id": "story_fd25313fce58",
-      "title": "Whitbread CEO’s Answer to Activist Investor: Plan Is Working, We Don’t Need to Sell",
-      "url": "https://skift.com/2026/06/18/whitbread-ceos-answer-to-activist-investor-plan-is-working-we-dont-need-to-sell/",
-      "primary_url": "https://skift.com/2026/06/18/whitbread-ceos-answer-to-activist-investor-plan-is-working-we-dont-need-to-sell/",
-      "source": "Skift Hospitality",
-      "source_name": "Skift Hospitality",
-      "sources": [
-        {
-          "id": "hotelitem_fd25313fce58",
-          "title": "Whitbread CEO’s Answer to Activist Investor: Plan Is Working, We Don’t Need to Sell",
-          "url": "https://skift.com/2026/06/18/whitbread-ceos-answer-to-activist-investor-plan-is-working-we-dont-need-to-sell/",
-          "source": "Skift Hospitality",
-          "source_name": "Skift Hospitality",
-          "site_id": "skift",
-          "published_at": "2026-06-18T16:04:32Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Skift Hospitality"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_fd25313fce58",
-          "title": "Whitbread CEO’s Answer to Activist Investor: Plan Is Working, We Don’t Need to Sell",
-          "url": "https://skift.com/2026/06/18/whitbread-ceos-answer-to-activist-investor-plan-is-working-we-dont-need-to-sell/",
-          "source": "Skift Hospitality",
-          "source_name": "Skift Hospitality",
-          "site_id": "skift",
-          "published_at": "2026-06-18T16:04:32Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.9538,
-      "importance": 0.5988,
-      "importance_score": 0.9538,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.994,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-18T16:04:32Z",
-      "latest_at": "2026-06-18T16:04:32Z",
-      "primary_item": {
-        "id": "hotelitem_fd25313fce58",
-        "title": "Whitbread CEO’s Answer to Activist Investor: Plan Is Working, We Don’t Need to Sell",
-        "url": "https://skift.com/2026/06/18/whitbread-ceos-answer-to-activist-investor-plan-is-working-we-dont-need-to-sell/",
-        "source": "Skift Hospitality",
-        "source_name": "Skift Hospitality"
       }
     },
     {
@@ -274,14 +569,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9491,
-      "importance": 0.5939,
-      "importance_score": 0.9491,
+      "score": 0.9465,
+      "importance": 0.5912,
+      "importance_score": 0.9465,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9695,
+        "recency": 0.9561,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -333,14 +628,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9452,
-      "importance": 0.5899,
-      "importance_score": 0.9452,
+      "score": 0.9426,
+      "importance": 0.5872,
+      "importance_score": 0.9426,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9493,
+        "recency": 0.9359,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -392,14 +687,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.94,
-      "importance": 0.5399,
-      "importance_score": 0.94,
+      "score": 0.936,
+      "importance": 0.5372,
+      "importance_score": 0.936,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.6995,
+        "recency": 0.6861,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -431,7 +726,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-06-18T22:32:17.672578Z"
+          "published_at": "2026-06-19T13:01:42.442761Z"
         },
         {
           "id": "hotelitem_c7c15b7680c9",
@@ -440,7 +735,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-06-18T22:32:17.672578Z"
+          "published_at": "2026-06-19T13:01:42.442761Z"
         },
         {
           "id": "hotelitem_6d8fa145e8af",
@@ -449,7 +744,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-06-18T22:32:17.672578Z"
+          "published_at": "2026-06-19T13:01:42.442761Z"
         }
       ],
       "source_count": 3,
@@ -464,7 +759,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-06-18T22:32:17.672578Z"
+          "published_at": "2026-06-19T13:01:42.442761Z"
         },
         {
           "id": "hotelitem_c7c15b7680c9",
@@ -473,7 +768,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-06-18T22:32:17.672578Z"
+          "published_at": "2026-06-19T13:01:42.442761Z"
         },
         {
           "id": "hotelitem_6d8fa145e8af",
@@ -482,7 +777,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-06-18T22:32:17.672578Z"
+          "published_at": "2026-06-19T13:01:42.442761Z"
         }
       ],
       "item_count": 3,
@@ -502,8 +797,8 @@
         "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-06-18T22:32:17.672578Z",
-      "latest_at": "2026-06-18T22:32:17.672578Z",
+      "earliest_at": "2026-06-19T13:01:42.442761Z",
+      "latest_at": "2026-06-19T13:01:42.442761Z",
       "primary_item": {
         "id": "hotelitem_d4370964909c",
         "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
@@ -527,7 +822,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-06-18T22:32:17.672578Z"
+          "published_at": "2026-06-19T13:01:42.442761Z"
         }
       ],
       "source_count": 1,
@@ -542,7 +837,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-06-18T22:32:17.672578Z"
+          "published_at": "2026-06-19T13:01:42.442761Z"
         }
       ],
       "item_count": 1,
@@ -561,8 +856,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-06-18T22:32:17.672578Z",
-      "latest_at": "2026-06-18T22:32:17.672578Z",
+      "earliest_at": "2026-06-19T13:01:42.442761Z",
+      "latest_at": "2026-06-19T13:01:42.442761Z",
       "primary_item": {
         "id": "hotelitem_86885009de08",
         "title": "文旅惠报|岭南控股与重庆黔江区签署战略合作协议；厦门国有资本牵手阿那亚，打造集美岛滨海文旅项目",
@@ -586,7 +881,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-06-18T22:32:17.672578Z"
+          "published_at": "2026-06-19T13:01:42.442761Z"
         }
       ],
       "source_count": 1,
@@ -601,7 +896,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-06-18T22:32:17.672578Z"
+          "published_at": "2026-06-19T13:01:42.442761Z"
         }
       ],
       "item_count": 1,
@@ -620,8 +915,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-06-18T22:32:17.672578Z",
-      "latest_at": "2026-06-18T22:32:17.672578Z",
+      "earliest_at": "2026-06-19T13:01:42.442761Z",
+      "latest_at": "2026-06-19T13:01:42.442761Z",
       "primary_item": {
         "id": "hotelitem_d94f35b8bbdc",
         "title": "文旅惠报|开封清明上河园向港交所提交上市申请；万豪国际全球酒店数量正式破万家",
@@ -645,7 +940,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-06-18T22:32:17.672578Z"
+          "published_at": "2026-06-19T13:01:42.442761Z"
         }
       ],
       "source_count": 1,
@@ -660,7 +955,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-06-18T22:32:17.672578Z"
+          "published_at": "2026-06-19T13:01:42.442761Z"
         }
       ],
       "item_count": 1,
@@ -679,8 +974,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-06-18T22:32:17.672578Z",
-      "latest_at": "2026-06-18T22:32:17.672578Z",
+      "earliest_at": "2026-06-19T13:01:42.442761Z",
+      "latest_at": "2026-06-19T13:01:42.442761Z",
       "primary_item": {
         "id": "hotelitem_7a0aafcf6ecc",
         "title": "文旅惠报|澳门银河与Trip.com签订三年战略合作协议；盈新发展转让西宁置业100%股权",
@@ -704,7 +999,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-06-18T22:32:17.672578Z"
+          "published_at": "2026-06-19T13:01:42.442761Z"
         }
       ],
       "source_count": 1,
@@ -719,7 +1014,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-06-18T22:32:17.672578Z"
+          "published_at": "2026-06-19T13:01:42.442761Z"
         }
       ],
       "item_count": 1,
@@ -738,8 +1033,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-06-18T22:32:17.672578Z",
-      "latest_at": "2026-06-18T22:32:17.672578Z",
+      "earliest_at": "2026-06-19T13:01:42.442761Z",
+      "latest_at": "2026-06-19T13:01:42.442761Z",
       "primary_item": {
         "id": "hotelitem_8bd428772b3b",
         "title": "文旅惠报|许铭出任锦江国际集团总裁；西藏旅游拟以6970.65万元公积金弥补累计亏损",
@@ -763,7 +1058,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-06-18T22:32:17.672578Z"
+          "published_at": "2026-06-19T13:01:42.442761Z"
         }
       ],
       "source_count": 1,
@@ -778,7 +1073,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-06-18T22:32:17.672578Z"
+          "published_at": "2026-06-19T13:01:42.442761Z"
         }
       ],
       "item_count": 1,
@@ -797,8 +1092,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-06-18T22:32:17.672578Z",
-      "latest_at": "2026-06-18T22:32:17.672578Z",
+      "earliest_at": "2026-06-19T13:01:42.442761Z",
+      "latest_at": "2026-06-19T13:01:42.442761Z",
       "primary_item": {
         "id": "hotelitem_4966ad3512b4",
         "title": "文旅惠报|雅高集团CEO宣布2028年卸任；众信优游与中视实业集团达成深度合作",
@@ -842,14 +1137,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8704,
-      "importance": 0.4447,
-      "importance_score": 0.8704,
+      "score": 0.8667,
+      "importance": 0.442,
+      "importance_score": 0.8667,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.2236,
+        "recency": 0.2102,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -864,6 +1159,183 @@
         "url": "https://www.globenewswire.com/news-release/2026/05/15/3295672/19355/en/h-world-group-limited-reports-first-quarter-of-2026-unaudited-financial-results.html",
         "source": "华住 H World IR",
         "source_name": "华住 H World IR"
+      }
+    },
+    {
+      "story_id": "story_385b8b1aba1d",
+      "title": "Jytte Vestergaard appointed as General Manager at Moxy Aarhus",
+      "url": "https://insights.ehotelier.com/people/2026/06/19/jytte-vestergaard-appointed-as-general-manager-at-moxy-aarhus/?utm_source=rss&utm_medium=rss&utm_campaign=jytte-vestergaard-appointed-as-general-manager-at-moxy-aarhus",
+      "primary_url": "https://insights.ehotelier.com/people/2026/06/19/jytte-vestergaard-appointed-as-general-manager-at-moxy-aarhus/?utm_source=rss&utm_medium=rss&utm_campaign=jytte-vestergaard-appointed-as-general-manager-at-moxy-aarhus",
+      "source": "eHotelier",
+      "source_name": "eHotelier",
+      "sources": [
+        {
+          "id": "hotelitem_385b8b1aba1d",
+          "title": "Jytte Vestergaard appointed as General Manager at Moxy Aarhus",
+          "url": "https://insights.ehotelier.com/people/2026/06/19/jytte-vestergaard-appointed-as-general-manager-at-moxy-aarhus/?utm_source=rss&utm_medium=rss&utm_campaign=jytte-vestergaard-appointed-as-general-manager-at-moxy-aarhus",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-06-19T00:59:30Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "eHotelier"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_385b8b1aba1d",
+          "title": "Jytte Vestergaard appointed as General Manager at Moxy Aarhus",
+          "url": "https://insights.ehotelier.com/people/2026/06/19/jytte-vestergaard-appointed-as-general-manager-at-moxy-aarhus/?utm_source=rss&utm_medium=rss&utm_campaign=jytte-vestergaard-appointed-as-general-manager-at-moxy-aarhus",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-06-19T00:59:30Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8629,
+      "importance": 0.5978,
+      "importance_score": 0.8629,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9889,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-06-19T00:59:30Z",
+      "latest_at": "2026-06-19T00:59:30Z",
+      "primary_item": {
+        "id": "hotelitem_385b8b1aba1d",
+        "title": "Jytte Vestergaard appointed as General Manager at Moxy Aarhus",
+        "url": "https://insights.ehotelier.com/people/2026/06/19/jytte-vestergaard-appointed-as-general-manager-at-moxy-aarhus/?utm_source=rss&utm_medium=rss&utm_campaign=jytte-vestergaard-appointed-as-general-manager-at-moxy-aarhus",
+        "source": "eHotelier",
+        "source_name": "eHotelier"
+      }
+    },
+    {
+      "story_id": "story_a1314ba26951",
+      "title": "The Black Box of Hotel Distribution",
+      "url": "https://insights.ehotelier.com/insights/2026/06/19/the-black-box-of-hotel-distribution/?utm_source=rss&utm_medium=rss&utm_campaign=the-black-box-of-hotel-distribution",
+      "primary_url": "https://insights.ehotelier.com/insights/2026/06/19/the-black-box-of-hotel-distribution/?utm_source=rss&utm_medium=rss&utm_campaign=the-black-box-of-hotel-distribution",
+      "source": "eHotelier",
+      "source_name": "eHotelier",
+      "sources": [
+        {
+          "id": "hotelitem_a1314ba26951",
+          "title": "The Black Box of Hotel Distribution",
+          "url": "https://insights.ehotelier.com/insights/2026/06/19/the-black-box-of-hotel-distribution/?utm_source=rss&utm_medium=rss&utm_campaign=the-black-box-of-hotel-distribution",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-06-19T01:24:59Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "eHotelier"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_a1314ba26951",
+          "title": "The Black Box of Hotel Distribution",
+          "url": "https://insights.ehotelier.com/insights/2026/06/19/the-black-box-of-hotel-distribution/?utm_source=rss&utm_medium=rss&utm_campaign=the-black-box-of-hotel-distribution",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-06-19T01:24:59Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8629,
+      "importance": 0.5978,
+      "importance_score": 0.8629,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9892,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-06-19T01:24:59Z",
+      "latest_at": "2026-06-19T01:24:59Z",
+      "primary_item": {
+        "id": "hotelitem_a1314ba26951",
+        "title": "The Black Box of Hotel Distribution",
+        "url": "https://insights.ehotelier.com/insights/2026/06/19/the-black-box-of-hotel-distribution/?utm_source=rss&utm_medium=rss&utm_campaign=the-black-box-of-hotel-distribution",
+        "source": "eHotelier",
+        "source_name": "eHotelier"
+      }
+    },
+    {
+      "story_id": "story_13a833e19250",
+      "title": "岭南控股：选举朱红为新任董事长，聘任邬琛为总经理",
+      "url": "https://www.meadin.com/wl/297567.html",
+      "primary_url": "https://www.meadin.com/wl/297567.html",
+      "source": "迈点研究院",
+      "source_name": "迈点研究院",
+      "sources": [
+        {
+          "id": "hotelitem_13a833e19250",
+          "title": "岭南控股：选举朱红为新任董事长，聘任邬琛为总经理",
+          "url": "https://www.meadin.com/wl/297567.html",
+          "source": "迈点研究院",
+          "source_name": "迈点研究院",
+          "site_id": "meadin",
+          "published_at": "2026-06-19T13:01:42.442761Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "迈点研究院"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_13a833e19250",
+          "title": "岭南控股：选举朱红为新任董事长，聘任邬琛为总经理",
+          "url": "https://www.meadin.com/wl/297567.html",
+          "source": "迈点研究院",
+          "source_name": "迈点研究院",
+          "site_id": "meadin",
+          "published_at": "2026-06-19T13:01:42.442761Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.86,
+      "importance": 0.6,
+      "importance_score": 0.86,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-06-19T13:01:42.442761Z",
+      "latest_at": "2026-06-19T13:01:42.442761Z",
+      "primary_item": {
+        "id": "hotelitem_13a833e19250",
+        "title": "岭南控股：选举朱红为新任董事长，聘任邬琛为总经理",
+        "url": "https://www.meadin.com/wl/297567.html",
+        "source": "迈点研究院",
+        "source_name": "迈点研究院"
       }
     },
     {
@@ -901,14 +1373,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8613,
-      "importance": 0.5962,
-      "importance_score": 0.8613,
+      "score": 0.8587,
+      "importance": 0.5935,
+      "importance_score": 0.8587,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9809,
+        "recency": 0.9675,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -923,6 +1395,124 @@
         "url": "https://insights.ehotelier.com/global-news/2026/06/18/emirates-launches-worlds-most-comprehensive-travel-insurance/?utm_source=rss&utm_medium=rss&utm_campaign=emirates-launches-worlds-most-comprehensive-travel-insurance",
         "source": "eHotelier",
         "source_name": "eHotelier"
+      }
+    },
+    {
+      "story_id": "story_aafbd26fe946",
+      "title": "文化和旅游部端午节假期和汛期、暑期出游提示",
+      "url": "https://www.mct.gov.cn/whzx/whyw/202606/t20260605_966153.htm",
+      "primary_url": "https://www.mct.gov.cn/whzx/whyw/202606/t20260605_966153.htm",
+      "source": "文化和旅游部",
+      "source_name": "文化和旅游部",
+      "sources": [
+        {
+          "id": "hotelitem_aafbd26fe946",
+          "title": "文化和旅游部端午节假期和汛期、暑期出游提示",
+          "url": "https://www.mct.gov.cn/whzx/whyw/202606/t20260605_966153.htm",
+          "source": "文化和旅游部",
+          "source_name": "文化和旅游部",
+          "site_id": "mct",
+          "published_at": "2026-06-19T13:01:42.442761Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "文化和旅游部"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_aafbd26fe946",
+          "title": "文化和旅游部端午节假期和汛期、暑期出游提示",
+          "url": "https://www.mct.gov.cn/whzx/whyw/202606/t20260605_966153.htm",
+          "source": "文化和旅游部",
+          "source_name": "文化和旅游部",
+          "site_id": "mct",
+          "published_at": "2026-06-19T13:01:42.442761Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.858,
+      "importance": 0.6,
+      "importance_score": 0.858,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-06-19T13:01:42.442761Z",
+      "latest_at": "2026-06-19T13:01:42.442761Z",
+      "primary_item": {
+        "id": "hotelitem_aafbd26fe946",
+        "title": "文化和旅游部端午节假期和汛期、暑期出游提示",
+        "url": "https://www.mct.gov.cn/whzx/whyw/202606/t20260605_966153.htm",
+        "source": "文化和旅游部",
+        "source_name": "文化和旅游部"
+      }
+    },
+    {
+      "story_id": "story_e2295ba596c9",
+      "title": "文化和旅游部部级社科研究项目公布",
+      "url": "https://www.mct.gov.cn/whzx/bnsj/whkjs/202606/t20260617_966274.html",
+      "primary_url": "https://www.mct.gov.cn/whzx/bnsj/whkjs/202606/t20260617_966274.html",
+      "source": "文化和旅游部",
+      "source_name": "文化和旅游部",
+      "sources": [
+        {
+          "id": "hotelitem_e2295ba596c9",
+          "title": "文化和旅游部部级社科研究项目公布",
+          "url": "https://www.mct.gov.cn/whzx/bnsj/whkjs/202606/t20260617_966274.html",
+          "source": "文化和旅游部",
+          "source_name": "文化和旅游部",
+          "site_id": "mct",
+          "published_at": "2026-06-19T13:01:42.442761Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "文化和旅游部"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_e2295ba596c9",
+          "title": "文化和旅游部部级社科研究项目公布",
+          "url": "https://www.mct.gov.cn/whzx/bnsj/whkjs/202606/t20260617_966274.html",
+          "source": "文化和旅游部",
+          "source_name": "文化和旅游部",
+          "site_id": "mct",
+          "published_at": "2026-06-19T13:01:42.442761Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.858,
+      "importance": 0.6,
+      "importance_score": 0.858,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-06-19T13:01:42.442761Z",
+      "latest_at": "2026-06-19T13:01:42.442761Z",
+      "primary_item": {
+        "id": "hotelitem_e2295ba596c9",
+        "title": "文化和旅游部部级社科研究项目公布",
+        "url": "https://www.mct.gov.cn/whzx/bnsj/whkjs/202606/t20260617_966274.html",
+        "source": "文化和旅游部",
+        "source_name": "文化和旅游部"
       }
     },
     {
@@ -960,14 +1550,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8604,
-      "importance": 0.5952,
-      "importance_score": 0.8604,
+      "score": 0.8578,
+      "importance": 0.5926,
+      "importance_score": 0.8578,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9762,
+        "recency": 0.9628,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -982,301 +1572,6 @@
         "url": "https://www.hoteldive.com/news/top-takeaways-from-2026s-nyu-international-hospitality-investment-forum/823216/",
         "source": "Hotel Dive",
         "source_name": "Hotel Dive"
-      }
-    },
-    {
-      "story_id": "story_13a833e19250",
-      "title": "岭南控股：选举朱红为新任董事长，聘任邬琛为总经理",
-      "url": "https://www.meadin.com/wl/297567.html",
-      "primary_url": "https://www.meadin.com/wl/297567.html",
-      "source": "迈点研究院",
-      "source_name": "迈点研究院",
-      "sources": [
-        {
-          "id": "hotelitem_13a833e19250",
-          "title": "岭南控股：选举朱红为新任董事长，聘任邬琛为总经理",
-          "url": "https://www.meadin.com/wl/297567.html",
-          "source": "迈点研究院",
-          "source_name": "迈点研究院",
-          "site_id": "meadin",
-          "published_at": "2026-06-18T22:32:17.672578Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "迈点研究院"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_13a833e19250",
-          "title": "岭南控股：选举朱红为新任董事长，聘任邬琛为总经理",
-          "url": "https://www.meadin.com/wl/297567.html",
-          "source": "迈点研究院",
-          "source_name": "迈点研究院",
-          "site_id": "meadin",
-          "published_at": "2026-06-18T22:32:17.672578Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.86,
-      "importance": 0.6,
-      "importance_score": 0.86,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-18T22:32:17.672578Z",
-      "latest_at": "2026-06-18T22:32:17.672578Z",
-      "primary_item": {
-        "id": "hotelitem_13a833e19250",
-        "title": "岭南控股：选举朱红为新任董事长，聘任邬琛为总经理",
-        "url": "https://www.meadin.com/wl/297567.html",
-        "source": "迈点研究院",
-        "source_name": "迈点研究院"
-      }
-    },
-    {
-      "story_id": "story_e4ce0593c384",
-      "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
-      "url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
-      "primary_url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
-      "source": "中国旅游研究院",
-      "source_name": "中国旅游研究院",
-      "sources": [
-        {
-          "id": "hotelitem_e4ce0593c384",
-          "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
-          "url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
-          "source": "中国旅游研究院",
-          "source_name": "中国旅游研究院",
-          "site_id": "cta",
-          "published_at": "2026-06-18T22:32:17.672578Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "中国旅游研究院"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_e4ce0593c384",
-          "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
-          "url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
-          "source": "中国旅游研究院",
-          "source_name": "中国旅游研究院",
-          "site_id": "cta",
-          "published_at": "2026-06-18T22:32:17.672578Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.858,
-      "importance": 0.6,
-      "importance_score": 0.858,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-18T22:32:17.672578Z",
-      "latest_at": "2026-06-18T22:32:17.672578Z",
-      "primary_item": {
-        "id": "hotelitem_e4ce0593c384",
-        "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
-        "url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
-        "source": "中国旅游研究院",
-        "source_name": "中国旅游研究院"
-      }
-    },
-    {
-      "story_id": "story_aafbd26fe946",
-      "title": "文化和旅游部端午节假期和汛期、暑期出游提示",
-      "url": "https://www.mct.gov.cn/whzx/whyw/202606/t20260605_966153.htm",
-      "primary_url": "https://www.mct.gov.cn/whzx/whyw/202606/t20260605_966153.htm",
-      "source": "文化和旅游部",
-      "source_name": "文化和旅游部",
-      "sources": [
-        {
-          "id": "hotelitem_aafbd26fe946",
-          "title": "文化和旅游部端午节假期和汛期、暑期出游提示",
-          "url": "https://www.mct.gov.cn/whzx/whyw/202606/t20260605_966153.htm",
-          "source": "文化和旅游部",
-          "source_name": "文化和旅游部",
-          "site_id": "mct",
-          "published_at": "2026-06-18T22:32:17.672578Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "文化和旅游部"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_aafbd26fe946",
-          "title": "文化和旅游部端午节假期和汛期、暑期出游提示",
-          "url": "https://www.mct.gov.cn/whzx/whyw/202606/t20260605_966153.htm",
-          "source": "文化和旅游部",
-          "source_name": "文化和旅游部",
-          "site_id": "mct",
-          "published_at": "2026-06-18T22:32:17.672578Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.858,
-      "importance": 0.6,
-      "importance_score": 0.858,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-18T22:32:17.672578Z",
-      "latest_at": "2026-06-18T22:32:17.672578Z",
-      "primary_item": {
-        "id": "hotelitem_aafbd26fe946",
-        "title": "文化和旅游部端午节假期和汛期、暑期出游提示",
-        "url": "https://www.mct.gov.cn/whzx/whyw/202606/t20260605_966153.htm",
-        "source": "文化和旅游部",
-        "source_name": "文化和旅游部"
-      }
-    },
-    {
-      "story_id": "story_e2295ba596c9",
-      "title": "文化和旅游部部级社科研究项目公布",
-      "url": "https://www.mct.gov.cn/whzx/bnsj/whkjs/202606/t20260617_966274.html",
-      "primary_url": "https://www.mct.gov.cn/whzx/bnsj/whkjs/202606/t20260617_966274.html",
-      "source": "文化和旅游部",
-      "source_name": "文化和旅游部",
-      "sources": [
-        {
-          "id": "hotelitem_e2295ba596c9",
-          "title": "文化和旅游部部级社科研究项目公布",
-          "url": "https://www.mct.gov.cn/whzx/bnsj/whkjs/202606/t20260617_966274.html",
-          "source": "文化和旅游部",
-          "source_name": "文化和旅游部",
-          "site_id": "mct",
-          "published_at": "2026-06-18T22:32:17.672578Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "文化和旅游部"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_e2295ba596c9",
-          "title": "文化和旅游部部级社科研究项目公布",
-          "url": "https://www.mct.gov.cn/whzx/bnsj/whkjs/202606/t20260617_966274.html",
-          "source": "文化和旅游部",
-          "source_name": "文化和旅游部",
-          "site_id": "mct",
-          "published_at": "2026-06-18T22:32:17.672578Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.858,
-      "importance": 0.6,
-      "importance_score": 0.858,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-18T22:32:17.672578Z",
-      "latest_at": "2026-06-18T22:32:17.672578Z",
-      "primary_item": {
-        "id": "hotelitem_e2295ba596c9",
-        "title": "文化和旅游部部级社科研究项目公布",
-        "url": "https://www.mct.gov.cn/whzx/bnsj/whkjs/202606/t20260617_966274.html",
-        "source": "文化和旅游部",
-        "source_name": "文化和旅游部"
-      }
-    },
-    {
-      "story_id": "story_fdcb7a6a62ca",
-      "title": "How SABA Hospitality’s Digital Compendium & Mobile Ordering boosted revenue and streamlined operations at Ingot Hotel Perth",
-      "url": "https://insights.ehotelier.com/suppliers/2026/06/17/how-saba-hospitalitys-digital-compendium-mobile-ordering-boosted-revenue-and-streamlined-operations-at-ingot-hotel-perth/?utm_source=rss&utm_medium=rss&utm_campaign=how-saba-hospitalitys-digital-compendium-mobile-ordering-boosted-revenue-and-streamlined-operations-at-ingot-hotel-perth",
-      "primary_url": "https://insights.ehotelier.com/suppliers/2026/06/17/how-saba-hospitalitys-digital-compendium-mobile-ordering-boosted-revenue-and-streamlined-operations-at-ingot-hotel-perth/?utm_source=rss&utm_medium=rss&utm_campaign=how-saba-hospitalitys-digital-compendium-mobile-ordering-boosted-revenue-and-streamlined-operations-at-ingot-hotel-perth",
-      "source": "eHotelier",
-      "source_name": "eHotelier",
-      "sources": [
-        {
-          "id": "hotelitem_fdcb7a6a62ca",
-          "title": "How SABA Hospitality’s Digital Compendium & Mobile Ordering boosted revenue and streamlined operations at Ingot Hotel Perth",
-          "url": "https://insights.ehotelier.com/suppliers/2026/06/17/how-saba-hospitalitys-digital-compendium-mobile-ordering-boosted-revenue-and-streamlined-operations-at-ingot-hotel-perth/?utm_source=rss&utm_medium=rss&utm_campaign=how-saba-hospitalitys-digital-compendium-mobile-ordering-boosted-revenue-and-streamlined-operations-at-ingot-hotel-perth",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-06-17T01:25:02Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "eHotelier"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_fdcb7a6a62ca",
-          "title": "How SABA Hospitality’s Digital Compendium & Mobile Ordering boosted revenue and streamlined operations at Ingot Hotel Perth",
-          "url": "https://insights.ehotelier.com/suppliers/2026/06/17/how-saba-hospitalitys-digital-compendium-mobile-ordering-boosted-revenue-and-streamlined-operations-at-ingot-hotel-perth/?utm_source=rss&utm_medium=rss&utm_campaign=how-saba-hospitalitys-digital-compendium-mobile-ordering-boosted-revenue-and-streamlined-operations-at-ingot-hotel-perth",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-06-17T01:25:02Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8569,
-      "importance": 0.5916,
-      "importance_score": 0.8569,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9582,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-17T01:25:02Z",
-      "latest_at": "2026-06-17T01:25:02Z",
-      "primary_item": {
-        "id": "hotelitem_fdcb7a6a62ca",
-        "title": "How SABA Hospitality’s Digital Compendium & Mobile Ordering boosted revenue and streamlined operations at Ingot Hotel Perth",
-        "url": "https://insights.ehotelier.com/suppliers/2026/06/17/how-saba-hospitalitys-digital-compendium-mobile-ordering-boosted-revenue-and-streamlined-operations-at-ingot-hotel-perth/?utm_source=rss&utm_medium=rss&utm_campaign=how-saba-hospitalitys-digital-compendium-mobile-ordering-boosted-revenue-and-streamlined-operations-at-ingot-hotel-perth",
-        "source": "eHotelier",
-        "source_name": "eHotelier"
       }
     },
     {
@@ -1314,14 +1609,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8549,
-      "importance": 0.5895,
-      "importance_score": 0.8549,
+      "score": 0.8523,
+      "importance": 0.5869,
+      "importance_score": 0.8523,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9477,
+        "recency": 0.9343,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1373,14 +1668,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.852,
-      "importance": 0.5865,
-      "importance_score": 0.852,
+      "score": 0.8494,
+      "importance": 0.5838,
+      "importance_score": 0.8494,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9326,
+        "recency": 0.9192,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1432,14 +1727,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8507,
-      "importance": 0.5852,
-      "importance_score": 0.8507,
+      "score": 0.8481,
+      "importance": 0.5825,
+      "importance_score": 0.8481,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9259,
+        "recency": 0.9124,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1491,14 +1786,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8497,
-      "importance": 0.5842,
-      "importance_score": 0.8497,
+      "score": 0.8471,
+      "importance": 0.5815,
+      "importance_score": 0.8471,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9208,
+        "recency": 0.9074,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1513,301 +1808,6 @@
         "url": "https://www.hoteldive.com/spons/your-revenue-team-doesnt-have-a-data-problem/822460/",
         "source": "Hotel Dive",
         "source_name": "Hotel Dive"
-      }
-    },
-    {
-      "story_id": "story_2cb9fb6b37e6",
-      "title": "JA Mar Hall joins global GHA DISCOVERY loyalty programme",
-      "url": "https://insights.ehotelier.com/global-news/2026/06/18/ja-mar-hall-joins-global-gha-discovery-loyalty-programme/?utm_source=rss&utm_medium=rss&utm_campaign=ja-mar-hall-joins-global-gha-discovery-loyalty-programme",
-      "primary_url": "https://insights.ehotelier.com/global-news/2026/06/18/ja-mar-hall-joins-global-gha-discovery-loyalty-programme/?utm_source=rss&utm_medium=rss&utm_campaign=ja-mar-hall-joins-global-gha-discovery-loyalty-programme",
-      "source": "eHotelier",
-      "source_name": "eHotelier",
-      "sources": [
-        {
-          "id": "hotelitem_2cb9fb6b37e6",
-          "title": "JA Mar Hall joins global GHA DISCOVERY loyalty programme",
-          "url": "https://insights.ehotelier.com/global-news/2026/06/18/ja-mar-hall-joins-global-gha-discovery-loyalty-programme/?utm_source=rss&utm_medium=rss&utm_campaign=ja-mar-hall-joins-global-gha-discovery-loyalty-programme",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-06-18T01:39:49Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "eHotelier"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_2cb9fb6b37e6",
-          "title": "JA Mar Hall joins global GHA DISCOVERY loyalty programme",
-          "url": "https://insights.ehotelier.com/global-news/2026/06/18/ja-mar-hall-joins-global-gha-discovery-loyalty-programme/?utm_source=rss&utm_medium=rss&utm_campaign=ja-mar-hall-joins-global-gha-discovery-loyalty-programme",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-06-18T01:39:49Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8163,
-      "importance": 0.5961,
-      "importance_score": 0.8163,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9807,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-18T01:39:49Z",
-      "latest_at": "2026-06-18T01:39:49Z",
-      "primary_item": {
-        "id": "hotelitem_2cb9fb6b37e6",
-        "title": "JA Mar Hall joins global GHA DISCOVERY loyalty programme",
-        "url": "https://insights.ehotelier.com/global-news/2026/06/18/ja-mar-hall-joins-global-gha-discovery-loyalty-programme/?utm_source=rss&utm_medium=rss&utm_campaign=ja-mar-hall-joins-global-gha-discovery-loyalty-programme",
-        "source": "eHotelier",
-        "source_name": "eHotelier"
-      }
-    },
-    {
-      "story_id": "story_372ec0fe66b3",
-      "title": "去哪儿旅行：端午飞广州外国游客同比增50%",
-      "url": "https://www.pinchain.com/article/347693",
-      "primary_url": "https://www.pinchain.com/article/347693",
-      "source": "品橙旅游",
-      "source_name": "品橙旅游",
-      "sources": [
-        {
-          "id": "hotelitem_372ec0fe66b3",
-          "title": "去哪儿旅行：端午飞广州外国游客同比增50%",
-          "url": "https://www.pinchain.com/article/347693",
-          "source": "品橙旅游",
-          "source_name": "品橙旅游",
-          "site_id": "pinchain",
-          "published_at": "2026-06-18T03:47:27Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "品橙旅游"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_372ec0fe66b3",
-          "title": "去哪儿旅行：端午飞广州外国游客同比增50%",
-          "url": "https://www.pinchain.com/article/347693",
-          "source": "品橙旅游",
-          "source_name": "品橙旅游",
-          "site_id": "pinchain",
-          "published_at": "2026-06-18T03:47:27Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8142,
-      "importance": 0.5965,
-      "importance_score": 0.8142,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9826,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-18T03:47:27Z",
-      "latest_at": "2026-06-18T03:47:27Z",
-      "primary_item": {
-        "id": "hotelitem_372ec0fe66b3",
-        "title": "去哪儿旅行：端午飞广州外国游客同比增50%",
-        "url": "https://www.pinchain.com/article/347693",
-        "source": "品橙旅游",
-        "source_name": "品橙旅游"
-      }
-    },
-    {
-      "story_id": "story_fcd5981922e8",
-      "title": "Agoda Establishes Strategic Partnership with ... Digital travel platform Agoda and Taipei City government have launched a strategic partnership aimed a ... April 16, 2026 / Partnership",
-      "url": "https://www.agoda.com/press/agoda-establishes-strategic-partnership-with-taipei-city-government-promoting-international-tourism-development/",
-      "primary_url": "https://www.agoda.com/press/agoda-establishes-strategic-partnership-with-taipei-city-government-promoting-international-tourism-development/",
-      "source": "Agoda",
-      "source_name": "Agoda",
-      "sources": [
-        {
-          "id": "hotelitem_fcd5981922e8",
-          "title": "Agoda Establishes Strategic Partnership with ... Digital travel platform Agoda and Taipei City government have launched a strategic partnership aimed a ... April 16, 2026 / Partnership",
-          "url": "https://www.agoda.com/press/agoda-establishes-strategic-partnership-with-taipei-city-government-promoting-international-tourism-development/",
-          "source": "Agoda",
-          "source_name": "Agoda",
-          "site_id": "agoda_press",
-          "published_at": "2026-06-18T22:32:17.672578Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Agoda"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_fcd5981922e8",
-          "title": "Agoda Establishes Strategic Partnership with ... Digital travel platform Agoda and Taipei City government have launched a strategic partnership aimed a ... April 16, 2026 / Partnership",
-          "url": "https://www.agoda.com/press/agoda-establishes-strategic-partnership-with-taipei-city-government-promoting-international-tourism-development/",
-          "source": "Agoda",
-          "source_name": "Agoda",
-          "site_id": "agoda_press",
-          "published_at": "2026-06-18T22:32:17.672578Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8125,
-      "importance": 0.6,
-      "importance_score": 0.8125,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-18T22:32:17.672578Z",
-      "latest_at": "2026-06-18T22:32:17.672578Z",
-      "primary_item": {
-        "id": "hotelitem_fcd5981922e8",
-        "title": "Agoda Establishes Strategic Partnership with ... Digital travel platform Agoda and Taipei City government have launched a strategic partnership aimed a ... April 16, 2026 / Partnership",
-        "url": "https://www.agoda.com/press/agoda-establishes-strategic-partnership-with-taipei-city-government-promoting-international-tourism-development/",
-        "source": "Agoda",
-        "source_name": "Agoda"
-      }
-    },
-    {
-      "story_id": "story_641aacc78df4",
-      "title": "Agoda Recommends Destinations with Water Par ... Singapore, 29 May 2026 – Travelers looking to beat the summer heat can find refreshing escapes with di ... May 29, 2026 / Travel Trends",
-      "url": "https://www.agoda.com/press/agoda-recommends-destinations-with-water-parks-worth-traveling-for/",
-      "primary_url": "https://www.agoda.com/press/agoda-recommends-destinations-with-water-parks-worth-traveling-for/",
-      "source": "Agoda",
-      "source_name": "Agoda",
-      "sources": [
-        {
-          "id": "hotelitem_641aacc78df4",
-          "title": "Agoda Recommends Destinations with Water Par ... Singapore, 29 May 2026 – Travelers looking to beat the summer heat can find refreshing escapes with di ... May 29, 2026 / Travel Trends",
-          "url": "https://www.agoda.com/press/agoda-recommends-destinations-with-water-parks-worth-traveling-for/",
-          "source": "Agoda",
-          "source_name": "Agoda",
-          "site_id": "agoda_press",
-          "published_at": "2026-06-18T22:32:17.672578Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Agoda"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_641aacc78df4",
-          "title": "Agoda Recommends Destinations with Water Par ... Singapore, 29 May 2026 – Travelers looking to beat the summer heat can find refreshing escapes with di ... May 29, 2026 / Travel Trends",
-          "url": "https://www.agoda.com/press/agoda-recommends-destinations-with-water-parks-worth-traveling-for/",
-          "source": "Agoda",
-          "source_name": "Agoda",
-          "site_id": "agoda_press",
-          "published_at": "2026-06-18T22:32:17.672578Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8125,
-      "importance": 0.6,
-      "importance_score": 0.8125,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-18T22:32:17.672578Z",
-      "latest_at": "2026-06-18T22:32:17.672578Z",
-      "primary_item": {
-        "id": "hotelitem_641aacc78df4",
-        "title": "Agoda Recommends Destinations with Water Par ... Singapore, 29 May 2026 – Travelers looking to beat the summer heat can find refreshing escapes with di ... May 29, 2026 / Travel Trends",
-        "url": "https://www.agoda.com/press/agoda-recommends-destinations-with-water-parks-worth-traveling-for/",
-        "source": "Agoda",
-        "source_name": "Agoda"
-      }
-    },
-    {
-      "story_id": "story_c1356ce1f577",
-      "title": "Agoda Reveals Growing Interest Among Japanes ... Singapore, 10 June 2026: Agoda Company Pte. Ltd. (Headquarters: Singapore; CEO: Omri Morgenshtern), wh ... June 10, 2026 / Travel Trends",
-      "url": "https://www.agoda.com/press/agoda-reveals-growing-interest-among-japanese-travelers-ahead-of-global-football-event-in-summer-2026/",
-      "primary_url": "https://www.agoda.com/press/agoda-reveals-growing-interest-among-japanese-travelers-ahead-of-global-football-event-in-summer-2026/",
-      "source": "Agoda",
-      "source_name": "Agoda",
-      "sources": [
-        {
-          "id": "hotelitem_c1356ce1f577",
-          "title": "Agoda Reveals Growing Interest Among Japanes ... Singapore, 10 June 2026: Agoda Company Pte. Ltd. (Headquarters: Singapore; CEO: Omri Morgenshtern), wh ... June 10, 2026 / Travel Trends",
-          "url": "https://www.agoda.com/press/agoda-reveals-growing-interest-among-japanese-travelers-ahead-of-global-football-event-in-summer-2026/",
-          "source": "Agoda",
-          "source_name": "Agoda",
-          "site_id": "agoda_press",
-          "published_at": "2026-06-18T22:32:17.672578Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Agoda"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_c1356ce1f577",
-          "title": "Agoda Reveals Growing Interest Among Japanes ... Singapore, 10 June 2026: Agoda Company Pte. Ltd. (Headquarters: Singapore; CEO: Omri Morgenshtern), wh ... June 10, 2026 / Travel Trends",
-          "url": "https://www.agoda.com/press/agoda-reveals-growing-interest-among-japanese-travelers-ahead-of-global-football-event-in-summer-2026/",
-          "source": "Agoda",
-          "source_name": "Agoda",
-          "site_id": "agoda_press",
-          "published_at": "2026-06-18T22:32:17.672578Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8125,
-      "importance": 0.6,
-      "importance_score": 0.8125,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-18T22:32:17.672578Z",
-      "latest_at": "2026-06-18T22:32:17.672578Z",
-      "primary_item": {
-        "id": "hotelitem_c1356ce1f577",
-        "title": "Agoda Reveals Growing Interest Among Japanes ... Singapore, 10 June 2026: Agoda Company Pte. Ltd. (Headquarters: Singapore; CEO: Omri Morgenshtern), wh ... June 10, 2026 / Travel Trends",
-        "url": "https://www.agoda.com/press/agoda-reveals-growing-interest-among-japanese-travelers-ahead-of-global-football-event-in-summer-2026/",
-        "source": "Agoda",
-        "source_name": "Agoda"
       }
     }
   ]
