@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-21T22:45:47.861551Z",
+  "generated_at": "2026-06-22T18:05:40.865442Z",
   "successful_sites": 22,
   "total_sites": 26,
-  "items_before_topic_filter": 130,
+  "items_before_topic_filter": 133,
   "sites": [
     {
       "site_id": "huazhu_ir",
@@ -10,7 +10,7 @@
       "category": "cr9_finance",
       "ok": true,
       "item_count": 1,
-      "duration_ms": 258,
+      "duration_ms": 210,
       "error": null
     },
     {
@@ -19,7 +19,7 @@
       "category": "cr9_finance",
       "ok": true,
       "item_count": 2,
-      "duration_ms": 439,
+      "duration_ms": 335,
       "error": null
     },
     {
@@ -28,7 +28,7 @@
       "category": "cr9_finance",
       "ok": true,
       "item_count": 0,
-      "duration_ms": 2258,
+      "duration_ms": 1604,
       "error": null
     },
     {
@@ -37,7 +37,7 @@
       "category": "supply_chain",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 3653,
+      "duration_ms": 3309,
       "error": null
     },
     {
@@ -46,7 +46,7 @@
       "category": "policy",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 30152,
+      "duration_ms": 22536,
       "error": "HTTPSConnectionPool(host='www.ctaweb.org.cn', port=443): Max retries exceeded with url: / (Caused by NewConnectionError(\"HTTPSConnection(host='www.ctaweb.org.cn', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable\"))"
     },
     {
@@ -55,7 +55,7 @@
       "category": "policy",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 2310,
+      "duration_ms": 1359,
       "error": null
     },
     {
@@ -63,8 +63,8 @@
       "site_name": "迈点研究院",
       "category": "supply_chain",
       "ok": true,
-      "item_count": 14,
-      "duration_ms": 2202,
+      "item_count": 15,
+      "duration_ms": 1537,
       "error": null
     },
     {
@@ -73,7 +73,7 @@
       "category": "supply_chain",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 2118,
+      "duration_ms": 6216,
       "error": null
     },
     {
@@ -82,7 +82,7 @@
       "category": "supply_chain",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1729,
+      "duration_ms": 1364,
       "error": null
     },
     {
@@ -91,7 +91,7 @@
       "category": "ai_hotel",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 101,
+      "duration_ms": 87,
       "error": null
     },
     {
@@ -100,7 +100,7 @@
       "category": "ai_hotel",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 982,
+      "duration_ms": 2328,
       "error": null
     },
     {
@@ -109,7 +109,7 @@
       "category": "ai_hotel",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1013,
+      "duration_ms": 715,
       "error": null
     },
     {
@@ -118,7 +118,7 @@
       "category": "supply_chain",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 44,
+      "duration_ms": 57,
       "error": "403 Client Error: Forbidden for url: https://lodgingmagazine.com/feed/"
     },
     {
@@ -127,8 +127,8 @@
       "category": "supply_chain",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 85263,
-      "error": "HTTPSConnectionPool(host='www.boutiquehotelnews.com', port=443): Max retries exceeded with url: /feed/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.boutiquehotelnews.com', port=443) at 0x7fab84bd4b90>, 'Connection to www.boutiquehotelnews.com timed out. (connect timeout=20)'))"
+      "duration_ms": 85191,
+      "error": "HTTPSConnectionPool(host='www.boutiquehotelnews.com', port=443): Max retries exceeded with url: /feed/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.boutiquehotelnews.com', port=443) at 0x7f0cb85de990>, 'Connection to www.boutiquehotelnews.com timed out. (connect timeout=20)'))"
     },
     {
       "site_id": "hoteldive",
@@ -136,7 +136,7 @@
       "category": "ai_hotel",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 169,
+      "duration_ms": 114,
       "error": null
     },
     {
@@ -145,7 +145,7 @@
       "category": "ota",
       "ok": true,
       "item_count": 0,
-      "duration_ms": 121,
+      "duration_ms": 254,
       "error": null
     },
     {
@@ -154,7 +154,7 @@
       "category": "ota",
       "ok": true,
       "item_count": 2,
-      "duration_ms": 628,
+      "duration_ms": 331,
       "error": null
     },
     {
@@ -163,7 +163,7 @@
       "category": "ota",
       "ok": true,
       "item_count": 0,
-      "duration_ms": 146,
+      "duration_ms": 247,
       "error": null
     },
     {
@@ -172,7 +172,7 @@
       "category": "ota",
       "ok": true,
       "item_count": 2,
-      "duration_ms": 95,
+      "duration_ms": 255,
       "error": null
     },
     {
@@ -181,7 +181,7 @@
       "category": "ota",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 123,
+      "duration_ms": 133,
       "error": null
     },
     {
@@ -190,7 +190,7 @@
       "category": "ota",
       "ok": true,
       "item_count": 1,
-      "duration_ms": 73,
+      "duration_ms": 168,
       "error": null
     },
     {
@@ -199,7 +199,7 @@
       "category": "ota",
       "ok": true,
       "item_count": 1,
-      "duration_ms": 151,
+      "duration_ms": 156,
       "error": null
     },
     {
@@ -208,7 +208,7 @@
       "category": "ota",
       "ok": true,
       "item_count": 0,
-      "duration_ms": 1793,
+      "duration_ms": 1337,
       "error": null
     },
     {
@@ -217,7 +217,7 @@
       "category": "ota",
       "ok": true,
       "item_count": 0,
-      "duration_ms": 955,
+      "duration_ms": 650,
       "error": null
     },
     {
@@ -226,7 +226,7 @@
       "category": "ota",
       "ok": true,
       "item_count": 20,
-      "duration_ms": 2400,
+      "duration_ms": 2675,
       "error": null
     },
     {
@@ -235,8 +235,8 @@
       "category": "ota",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 38355,
-      "error": "HTTPSConnectionPool(host='www.iresearch.com.cn', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.iresearch.com.cn', port=443) at 0x7fab844e9150>, 'Connection to www.iresearch.com.cn timed out. (connect timeout=8)'))"
+      "duration_ms": 37932,
+      "error": "HTTPSConnectionPool(host='www.iresearch.com.cn', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.iresearch.com.cn', port=443) at 0x7f0cb8259a10>, 'Connection to www.iresearch.com.cn timed out. (connect timeout=8)'))"
     }
   ]
 }
