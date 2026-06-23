@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-22T23:07:13.065722Z",
+  "generated_at": "2026-06-23T11:47:22.124404Z",
   "window_hours": 1080,
   "total_stories": 30,
   "stories": [
@@ -38,14 +38,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9532,
-      "importance": 0.5981,
-      "importance_score": 0.9532,
+      "score": 0.951,
+      "importance": 0.5958,
+      "importance_score": 0.951,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9907,
+        "recency": 0.979,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -60,124 +60,6 @@
         "url": "https://skift.com/2026/06/22/how-hyatts-lifestyle-chief-does-a-portfolio-cleanup/",
         "source": "Skift Hospitality",
         "source_name": "Skift Hospitality"
-      }
-    },
-    {
-      "story_id": "story_7806d15bee11",
-      "title": "详解美团酒店卫生新规争议 | TD独家",
-      "url": "https://www.traveldaily.cn/article/190163",
-      "primary_url": "https://www.traveldaily.cn/article/190163",
-      "source": "环球旅讯 TravelDaily",
-      "source_name": "环球旅讯 TravelDaily",
-      "sources": [
-        {
-          "id": "hotelitem_7806d15bee11",
-          "title": "详解美团酒店卫生新规争议 | TD独家",
-          "url": "https://www.traveldaily.cn/article/190163",
-          "source": "环球旅讯 TravelDaily",
-          "source_name": "环球旅讯 TravelDaily",
-          "site_id": "traveldaily",
-          "published_at": "2026-06-09T15:10:03Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "环球旅讯 TravelDaily"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_7806d15bee11",
-          "title": "详解美团酒店卫生新规争议 | TD独家",
-          "url": "https://www.traveldaily.cn/article/190163",
-          "source": "环球旅讯 TravelDaily",
-          "source_name": "环球旅讯 TravelDaily",
-          "site_id": "traveldaily",
-          "published_at": "2026-06-09T15:10:03Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.9412,
-      "importance": 0.5407,
-      "importance_score": 0.9412,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.7037,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-09T15:10:03Z",
-      "latest_at": "2026-06-09T15:10:03Z",
-      "primary_item": {
-        "id": "hotelitem_7806d15bee11",
-        "title": "详解美团酒店卫生新规争议 | TD独家",
-        "url": "https://www.traveldaily.cn/article/190163",
-        "source": "环球旅讯 TravelDaily",
-        "source_name": "环球旅讯 TravelDaily"
-      }
-    },
-    {
-      "story_id": "story_b62eaf3928fa",
-      "title": "Delivery Apps are eating your revenue: Why hotels must bring ordering in house",
-      "url": "https://insights.ehotelier.com/suppliers/2026/06/19/delivery-apps-are-eating-your-revenue-why-hotels-must-bring-ordering-in-house/?utm_source=rss&utm_medium=rss&utm_campaign=delivery-apps-are-eating-your-revenue-why-hotels-must-bring-ordering-in-house",
-      "primary_url": "https://insights.ehotelier.com/suppliers/2026/06/19/delivery-apps-are-eating-your-revenue-why-hotels-must-bring-ordering-in-house/?utm_source=rss&utm_medium=rss&utm_campaign=delivery-apps-are-eating-your-revenue-why-hotels-must-bring-ordering-in-house",
-      "source": "eHotelier",
-      "source_name": "eHotelier",
-      "sources": [
-        {
-          "id": "hotelitem_b62eaf3928fa",
-          "title": "Delivery Apps are eating your revenue: Why hotels must bring ordering in house",
-          "url": "https://insights.ehotelier.com/suppliers/2026/06/19/delivery-apps-are-eating-your-revenue-why-hotels-must-bring-ordering-in-house/?utm_source=rss&utm_medium=rss&utm_campaign=delivery-apps-are-eating-your-revenue-why-hotels-must-bring-ordering-in-house",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-06-19T01:11:25Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "eHotelier"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_b62eaf3928fa",
-          "title": "Delivery Apps are eating your revenue: Why hotels must bring ordering in house",
-          "url": "https://insights.ehotelier.com/suppliers/2026/06/19/delivery-apps-are-eating-your-revenue-why-hotels-must-bring-ordering-in-house/?utm_source=rss&utm_medium=rss&utm_campaign=delivery-apps-are-eating-your-revenue-why-hotels-must-bring-ordering-in-house",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-06-19T01:11:25Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.9382,
-      "importance": 0.5826,
-      "importance_score": 0.9382,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.913,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-19T01:11:25Z",
-      "latest_at": "2026-06-19T01:11:25Z",
-      "primary_item": {
-        "id": "hotelitem_b62eaf3928fa",
-        "title": "Delivery Apps are eating your revenue: Why hotels must bring ordering in house",
-        "url": "https://insights.ehotelier.com/suppliers/2026/06/19/delivery-apps-are-eating-your-revenue-why-hotels-must-bring-ordering-in-house/?utm_source=rss&utm_medium=rss&utm_campaign=delivery-apps-are-eating-your-revenue-why-hotels-must-bring-ordering-in-house",
-        "source": "eHotelier",
-        "source_name": "eHotelier"
       }
     },
     {
@@ -215,14 +97,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.937,
-      "importance": 0.5813,
-      "importance_score": 0.937,
+      "score": 0.9347,
+      "importance": 0.579,
+      "importance_score": 0.9347,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9067,
+        "recency": 0.895,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -274,14 +156,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9367,
-      "importance": 0.581,
-      "importance_score": 0.9367,
+      "score": 0.9344,
+      "importance": 0.5787,
+      "importance_score": 0.9344,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9051,
+        "recency": 0.8933,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -333,14 +215,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9366,
-      "importance": 0.5809,
-      "importance_score": 0.9366,
+      "score": 0.9343,
+      "importance": 0.5786,
+      "importance_score": 0.9343,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9046,
+        "recency": 0.8929,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -392,14 +274,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9319,
-      "importance": 0.576,
-      "importance_score": 0.9319,
+      "score": 0.9296,
+      "importance": 0.5737,
+      "importance_score": 0.9296,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8801,
+        "recency": 0.8683,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -451,14 +333,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.928,
-      "importance": 0.572,
-      "importance_score": 0.928,
+      "score": 0.9257,
+      "importance": 0.5696,
+      "importance_score": 0.9257,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8599,
+        "recency": 0.8481,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -510,14 +392,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9211,
-      "importance": 0.5986,
-      "importance_score": 0.9211,
+      "score": 0.9188,
+      "importance": 0.5962,
+      "importance_score": 0.9188,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9928,
+        "recency": 0.9811,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -569,14 +451,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9137,
-      "importance": 0.522,
-      "importance_score": 0.9137,
+      "score": 0.9103,
+      "importance": 0.5197,
+      "importance_score": 0.9103,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.6101,
+        "recency": 0.5983,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -608,7 +490,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-06-22T23:07:13.065722Z"
+          "published_at": "2026-06-23T11:47:22.124404Z"
         },
         {
           "id": "hotelitem_c7c15b7680c9",
@@ -617,7 +499,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-06-22T23:07:13.065722Z"
+          "published_at": "2026-06-23T11:47:22.124404Z"
         },
         {
           "id": "hotelitem_6d8fa145e8af",
@@ -626,7 +508,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-06-22T23:07:13.065722Z"
+          "published_at": "2026-06-23T11:47:22.124404Z"
         }
       ],
       "source_count": 3,
@@ -641,7 +523,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-06-22T23:07:13.065722Z"
+          "published_at": "2026-06-23T11:47:22.124404Z"
         },
         {
           "id": "hotelitem_c7c15b7680c9",
@@ -650,7 +532,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-06-22T23:07:13.065722Z"
+          "published_at": "2026-06-23T11:47:22.124404Z"
         },
         {
           "id": "hotelitem_6d8fa145e8af",
@@ -659,7 +541,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-06-22T23:07:13.065722Z"
+          "published_at": "2026-06-23T11:47:22.124404Z"
         }
       ],
       "item_count": 3,
@@ -679,8 +561,8 @@
         "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-06-22T23:07:13.065722Z",
-      "latest_at": "2026-06-22T23:07:13.065722Z",
+      "earliest_at": "2026-06-23T11:47:22.124404Z",
+      "latest_at": "2026-06-23T11:47:22.124404Z",
       "primary_item": {
         "id": "hotelitem_d4370964909c",
         "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
@@ -704,7 +586,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-06-22T23:07:13.065722Z"
+          "published_at": "2026-06-23T11:47:22.124404Z"
         }
       ],
       "source_count": 1,
@@ -719,7 +601,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-06-22T23:07:13.065722Z"
+          "published_at": "2026-06-23T11:47:22.124404Z"
         }
       ],
       "item_count": 1,
@@ -738,8 +620,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-06-22T23:07:13.065722Z",
-      "latest_at": "2026-06-22T23:07:13.065722Z",
+      "earliest_at": "2026-06-23T11:47:22.124404Z",
+      "latest_at": "2026-06-23T11:47:22.124404Z",
       "primary_item": {
         "id": "hotelitem_86885009de08",
         "title": "文旅惠报|岭南控股与重庆黔江区签署战略合作协议；厦门国有资本牵手阿那亚，打造集美岛滨海文旅项目",
@@ -763,7 +645,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-06-22T23:07:13.065722Z"
+          "published_at": "2026-06-23T11:47:22.124404Z"
         }
       ],
       "source_count": 1,
@@ -778,7 +660,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-06-22T23:07:13.065722Z"
+          "published_at": "2026-06-23T11:47:22.124404Z"
         }
       ],
       "item_count": 1,
@@ -797,8 +679,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-06-22T23:07:13.065722Z",
-      "latest_at": "2026-06-22T23:07:13.065722Z",
+      "earliest_at": "2026-06-23T11:47:22.124404Z",
+      "latest_at": "2026-06-23T11:47:22.124404Z",
       "primary_item": {
         "id": "hotelitem_d94f35b8bbdc",
         "title": "文旅惠报|开封清明上河园向港交所提交上市申请；万豪国际全球酒店数量正式破万家",
@@ -822,7 +704,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-06-22T23:07:13.065722Z"
+          "published_at": "2026-06-23T11:47:22.124404Z"
         }
       ],
       "source_count": 1,
@@ -837,7 +719,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-06-22T23:07:13.065722Z"
+          "published_at": "2026-06-23T11:47:22.124404Z"
         }
       ],
       "item_count": 1,
@@ -856,8 +738,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-06-22T23:07:13.065722Z",
-      "latest_at": "2026-06-22T23:07:13.065722Z",
+      "earliest_at": "2026-06-23T11:47:22.124404Z",
+      "latest_at": "2026-06-23T11:47:22.124404Z",
       "primary_item": {
         "id": "hotelitem_7a0aafcf6ecc",
         "title": "文旅惠报|澳门银河与Trip.com签订三年战略合作协议；盈新发展转让西宁置业100%股权",
@@ -881,7 +763,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-06-22T23:07:13.065722Z"
+          "published_at": "2026-06-23T11:47:22.124404Z"
         }
       ],
       "source_count": 1,
@@ -896,7 +778,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-06-22T23:07:13.065722Z"
+          "published_at": "2026-06-23T11:47:22.124404Z"
         }
       ],
       "item_count": 1,
@@ -915,8 +797,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-06-22T23:07:13.065722Z",
-      "latest_at": "2026-06-22T23:07:13.065722Z",
+      "earliest_at": "2026-06-23T11:47:22.124404Z",
+      "latest_at": "2026-06-23T11:47:22.124404Z",
       "primary_item": {
         "id": "hotelitem_8bd428772b3b",
         "title": "文旅惠报|许铭出任锦江国际集团总裁；西藏旅游拟以6970.65万元公积金弥补累计亏损",
@@ -940,7 +822,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-06-22T23:07:13.065722Z"
+          "published_at": "2026-06-23T11:47:22.124404Z"
         }
       ],
       "source_count": 1,
@@ -955,7 +837,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-06-22T23:07:13.065722Z"
+          "published_at": "2026-06-23T11:47:22.124404Z"
         }
       ],
       "item_count": 1,
@@ -974,14 +856,191 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-06-22T23:07:13.065722Z",
-      "latest_at": "2026-06-22T23:07:13.065722Z",
+      "earliest_at": "2026-06-23T11:47:22.124404Z",
+      "latest_at": "2026-06-23T11:47:22.124404Z",
       "primary_item": {
         "id": "hotelitem_4966ad3512b4",
         "title": "文旅惠报|雅高集团CEO宣布2028年卸任；众信优游与中视实业集团达成深度合作",
         "url": "https://www.tripvivid.com/47431.html",
         "source": "执惠 TripVivid",
         "source_name": "执惠 TripVivid"
+      }
+    },
+    {
+      "story_id": "story_ddf4e168780b",
+      "title": "Coast Coal Harbour Vancouver Hotel by APA completes renovation of guest rooms and prestons restaurant + lounge",
+      "url": "https://insights.ehotelier.com/global-news/2026/06/23/coast-coal-harbour-vancouver-hotel-by-apa-completes-renovation-of-guest-rooms-and-prestons-restaurant-lounge/?utm_source=rss&utm_medium=rss&utm_campaign=coast-coal-harbour-vancouver-hotel-by-apa-completes-renovation-of-guest-rooms-and-prestons-restaurant-lounge",
+      "primary_url": "https://insights.ehotelier.com/global-news/2026/06/23/coast-coal-harbour-vancouver-hotel-by-apa-completes-renovation-of-guest-rooms-and-prestons-restaurant-lounge/?utm_source=rss&utm_medium=rss&utm_campaign=coast-coal-harbour-vancouver-hotel-by-apa-completes-renovation-of-guest-rooms-and-prestons-restaurant-lounge",
+      "source": "eHotelier",
+      "source_name": "eHotelier",
+      "sources": [
+        {
+          "id": "hotelitem_ddf4e168780b",
+          "title": "Coast Coal Harbour Vancouver Hotel by APA completes renovation of guest rooms and prestons restaurant + lounge",
+          "url": "https://insights.ehotelier.com/global-news/2026/06/23/coast-coal-harbour-vancouver-hotel-by-apa-completes-renovation-of-guest-rooms-and-prestons-restaurant-lounge/?utm_source=rss&utm_medium=rss&utm_campaign=coast-coal-harbour-vancouver-hotel-by-apa-completes-renovation-of-guest-rooms-and-prestons-restaurant-lounge",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-06-23T01:32:10Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "eHotelier"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_ddf4e168780b",
+          "title": "Coast Coal Harbour Vancouver Hotel by APA completes renovation of guest rooms and prestons restaurant + lounge",
+          "url": "https://insights.ehotelier.com/global-news/2026/06/23/coast-coal-harbour-vancouver-hotel-by-apa-completes-renovation-of-guest-rooms-and-prestons-restaurant-lounge/?utm_source=rss&utm_medium=rss&utm_campaign=coast-coal-harbour-vancouver-hotel-by-apa-completes-renovation-of-guest-rooms-and-prestons-restaurant-lounge",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-06-23T01:32:10Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8632,
+      "importance": 0.5981,
+      "importance_score": 0.8632,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9905,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-06-23T01:32:10Z",
+      "latest_at": "2026-06-23T01:32:10Z",
+      "primary_item": {
+        "id": "hotelitem_ddf4e168780b",
+        "title": "Coast Coal Harbour Vancouver Hotel by APA completes renovation of guest rooms and prestons restaurant + lounge",
+        "url": "https://insights.ehotelier.com/global-news/2026/06/23/coast-coal-harbour-vancouver-hotel-by-apa-completes-renovation-of-guest-rooms-and-prestons-restaurant-lounge/?utm_source=rss&utm_medium=rss&utm_campaign=coast-coal-harbour-vancouver-hotel-by-apa-completes-renovation-of-guest-rooms-and-prestons-restaurant-lounge",
+        "source": "eHotelier",
+        "source_name": "eHotelier"
+      }
+    },
+    {
+      "story_id": "story_598d52604914",
+      "title": "Capella Hotel Group brings wellness-integrated branded residences to southeast Asia’s first wellness complex",
+      "url": "https://insights.ehotelier.com/global-news/2026/06/23/capella-hotel-group-brings-wellness-integrated-branded-residences-to-southeast-asias-first-wellness-complex/?utm_source=rss&utm_medium=rss&utm_campaign=capella-hotel-group-brings-wellness-integrated-branded-residences-to-southeast-asias-first-wellness-complex",
+      "primary_url": "https://insights.ehotelier.com/global-news/2026/06/23/capella-hotel-group-brings-wellness-integrated-branded-residences-to-southeast-asias-first-wellness-complex/?utm_source=rss&utm_medium=rss&utm_campaign=capella-hotel-group-brings-wellness-integrated-branded-residences-to-southeast-asias-first-wellness-complex",
+      "source": "eHotelier",
+      "source_name": "eHotelier",
+      "sources": [
+        {
+          "id": "hotelitem_598d52604914",
+          "title": "Capella Hotel Group brings wellness-integrated branded residences to southeast Asia’s first wellness complex",
+          "url": "https://insights.ehotelier.com/global-news/2026/06/23/capella-hotel-group-brings-wellness-integrated-branded-residences-to-southeast-asias-first-wellness-complex/?utm_source=rss&utm_medium=rss&utm_campaign=capella-hotel-group-brings-wellness-integrated-branded-residences-to-southeast-asias-first-wellness-complex",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-06-23T01:38:38Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "eHotelier"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_598d52604914",
+          "title": "Capella Hotel Group brings wellness-integrated branded residences to southeast Asia’s first wellness complex",
+          "url": "https://insights.ehotelier.com/global-news/2026/06/23/capella-hotel-group-brings-wellness-integrated-branded-residences-to-southeast-asias-first-wellness-complex/?utm_source=rss&utm_medium=rss&utm_campaign=capella-hotel-group-brings-wellness-integrated-branded-residences-to-southeast-asias-first-wellness-complex",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-06-23T01:38:38Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8632,
+      "importance": 0.5981,
+      "importance_score": 0.8632,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9906,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-06-23T01:38:38Z",
+      "latest_at": "2026-06-23T01:38:38Z",
+      "primary_item": {
+        "id": "hotelitem_598d52604914",
+        "title": "Capella Hotel Group brings wellness-integrated branded residences to southeast Asia’s first wellness complex",
+        "url": "https://insights.ehotelier.com/global-news/2026/06/23/capella-hotel-group-brings-wellness-integrated-branded-residences-to-southeast-asias-first-wellness-complex/?utm_source=rss&utm_medium=rss&utm_campaign=capella-hotel-group-brings-wellness-integrated-branded-residences-to-southeast-asias-first-wellness-complex",
+        "source": "eHotelier",
+        "source_name": "eHotelier"
+      }
+    },
+    {
+      "story_id": "story_312229a61c2d",
+      "title": "SCP Hotels debuts first wildfree property in Colorado Springs",
+      "url": "https://insights.ehotelier.com/properties/2026/06/23/scp-hotels-debuts-first-wildfree-property-in-colorado-springs/?utm_source=rss&utm_medium=rss&utm_campaign=scp-hotels-debuts-first-wildfree-property-in-colorado-springs",
+      "primary_url": "https://insights.ehotelier.com/properties/2026/06/23/scp-hotels-debuts-first-wildfree-property-in-colorado-springs/?utm_source=rss&utm_medium=rss&utm_campaign=scp-hotels-debuts-first-wildfree-property-in-colorado-springs",
+      "source": "eHotelier",
+      "source_name": "eHotelier",
+      "sources": [
+        {
+          "id": "hotelitem_312229a61c2d",
+          "title": "SCP Hotels debuts first wildfree property in Colorado Springs",
+          "url": "https://insights.ehotelier.com/properties/2026/06/23/scp-hotels-debuts-first-wildfree-property-in-colorado-springs/?utm_source=rss&utm_medium=rss&utm_campaign=scp-hotels-debuts-first-wildfree-property-in-colorado-springs",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-06-23T01:15:31Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "eHotelier"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_312229a61c2d",
+          "title": "SCP Hotels debuts first wildfree property in Colorado Springs",
+          "url": "https://insights.ehotelier.com/properties/2026/06/23/scp-hotels-debuts-first-wildfree-property-in-colorado-springs/?utm_source=rss&utm_medium=rss&utm_campaign=scp-hotels-debuts-first-wildfree-property-in-colorado-springs",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-06-23T01:15:31Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8631,
+      "importance": 0.598,
+      "importance_score": 0.8631,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9902,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-06-23T01:15:31Z",
+      "latest_at": "2026-06-23T01:15:31Z",
+      "primary_item": {
+        "id": "hotelitem_312229a61c2d",
+        "title": "SCP Hotels debuts first wildfree property in Colorado Springs",
+        "url": "https://insights.ehotelier.com/properties/2026/06/23/scp-hotels-debuts-first-wildfree-property-in-colorado-springs/?utm_source=rss&utm_medium=rss&utm_campaign=scp-hotels-debuts-first-wildfree-property-in-colorado-springs",
+        "source": "eHotelier",
+        "source_name": "eHotelier"
       }
     },
     {
@@ -1019,14 +1078,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8612,
-      "importance": 0.5961,
-      "importance_score": 0.8612,
+      "score": 0.859,
+      "importance": 0.5937,
+      "importance_score": 0.859,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9804,
+        "recency": 0.9687,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1058,7 +1117,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-06-22T23:07:13.065722Z"
+          "published_at": "2026-06-23T11:47:22.124404Z"
         }
       ],
       "source_count": 1,
@@ -1073,7 +1132,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-06-22T23:07:13.065722Z"
+          "published_at": "2026-06-23T11:47:22.124404Z"
         }
       ],
       "item_count": 1,
@@ -1092,8 +1151,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-06-22T23:07:13.065722Z",
-      "latest_at": "2026-06-22T23:07:13.065722Z",
+      "earliest_at": "2026-06-23T11:47:22.124404Z",
+      "latest_at": "2026-06-23T11:47:22.124404Z",
       "primary_item": {
         "id": "hotelitem_e4ce0593c384",
         "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
@@ -1117,7 +1176,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-06-22T23:07:13.065722Z"
+          "published_at": "2026-06-23T11:47:22.124404Z"
         }
       ],
       "source_count": 1,
@@ -1132,7 +1191,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-06-22T23:07:13.065722Z"
+          "published_at": "2026-06-23T11:47:22.124404Z"
         }
       ],
       "item_count": 1,
@@ -1151,8 +1210,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-06-22T23:07:13.065722Z",
-      "latest_at": "2026-06-22T23:07:13.065722Z",
+      "earliest_at": "2026-06-23T11:47:22.124404Z",
+      "latest_at": "2026-06-23T11:47:22.124404Z",
       "primary_item": {
         "id": "hotelitem_aafbd26fe946",
         "title": "文化和旅游部端午节假期和汛期、暑期出游提示",
@@ -1176,7 +1235,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-06-22T23:07:13.065722Z"
+          "published_at": "2026-06-23T11:47:22.124404Z"
         }
       ],
       "source_count": 1,
@@ -1191,7 +1250,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-06-22T23:07:13.065722Z"
+          "published_at": "2026-06-23T11:47:22.124404Z"
         }
       ],
       "item_count": 1,
@@ -1210,8 +1269,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-06-22T23:07:13.065722Z",
-      "latest_at": "2026-06-22T23:07:13.065722Z",
+      "earliest_at": "2026-06-23T11:47:22.124404Z",
+      "latest_at": "2026-06-23T11:47:22.124404Z",
       "primary_item": {
         "id": "hotelitem_e2295ba596c9",
         "title": "文化和旅游部部级社科研究项目公布",
@@ -1221,121 +1280,121 @@
       }
     },
     {
-      "story_id": "story_a1314ba26951",
-      "title": "The Black Box of Hotel Distribution",
-      "url": "https://insights.ehotelier.com/insights/2026/06/19/the-black-box-of-hotel-distribution/?utm_source=rss&utm_medium=rss&utm_campaign=the-black-box-of-hotel-distribution",
-      "primary_url": "https://insights.ehotelier.com/insights/2026/06/19/the-black-box-of-hotel-distribution/?utm_source=rss&utm_medium=rss&utm_campaign=the-black-box-of-hotel-distribution",
-      "source": "eHotelier",
-      "source_name": "eHotelier",
+      "story_id": "story_97144f1857f9",
+      "title": "Griffin Capital Partners and PRIMESTAR launch hotel platform in Poland",
+      "url": "https://boutiquehotelnews.com/news/industry/griffin-capital-primestar-poland/?utm_source=rss&utm_medium=rss&utm_campaign=griffin-capital-primestar-poland",
+      "primary_url": "https://boutiquehotelnews.com/news/industry/griffin-capital-primestar-poland/?utm_source=rss&utm_medium=rss&utm_campaign=griffin-capital-primestar-poland",
+      "source": "Boutique Hotel News",
+      "source_name": "Boutique Hotel News",
       "sources": [
         {
-          "id": "hotelitem_a1314ba26951",
-          "title": "The Black Box of Hotel Distribution",
-          "url": "https://insights.ehotelier.com/insights/2026/06/19/the-black-box-of-hotel-distribution/?utm_source=rss&utm_medium=rss&utm_campaign=the-black-box-of-hotel-distribution",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-06-19T01:24:59Z"
+          "id": "hotelitem_97144f1857f9",
+          "title": "Griffin Capital Partners and PRIMESTAR launch hotel platform in Poland",
+          "url": "https://boutiquehotelnews.com/news/industry/griffin-capital-primestar-poland/?utm_source=rss&utm_medium=rss&utm_campaign=griffin-capital-primestar-poland",
+          "source": "Boutique Hotel News",
+          "source_name": "Boutique Hotel News",
+          "site_id": "boutiquehotel",
+          "published_at": "2026-06-22T16:04:14Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "eHotelier"
+        "Boutique Hotel News"
       ],
       "items": [
         {
-          "id": "hotelitem_a1314ba26951",
-          "title": "The Black Box of Hotel Distribution",
-          "url": "https://insights.ehotelier.com/insights/2026/06/19/the-black-box-of-hotel-distribution/?utm_source=rss&utm_medium=rss&utm_campaign=the-black-box-of-hotel-distribution",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-06-19T01:24:59Z"
+          "id": "hotelitem_97144f1857f9",
+          "title": "Griffin Capital Partners and PRIMESTAR launch hotel platform in Poland",
+          "url": "https://boutiquehotelnews.com/news/industry/griffin-capital-primestar-poland/?utm_source=rss&utm_medium=rss&utm_campaign=griffin-capital-primestar-poland",
+          "source": "Boutique Hotel News",
+          "source_name": "Boutique Hotel News",
+          "site_id": "boutiquehotel",
+          "published_at": "2026-06-22T16:04:14Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8483,
-      "importance": 0.5826,
-      "importance_score": 0.8483,
+      "score": 0.8465,
+      "importance": 0.5963,
+      "importance_score": 0.8465,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9132,
+        "recency": 0.9817,
         "story_heat": 0.0
       },
       "category": "watch",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-06-19T01:24:59Z",
-      "latest_at": "2026-06-19T01:24:59Z",
+      "earliest_at": "2026-06-22T16:04:14Z",
+      "latest_at": "2026-06-22T16:04:14Z",
       "primary_item": {
-        "id": "hotelitem_a1314ba26951",
-        "title": "The Black Box of Hotel Distribution",
-        "url": "https://insights.ehotelier.com/insights/2026/06/19/the-black-box-of-hotel-distribution/?utm_source=rss&utm_medium=rss&utm_campaign=the-black-box-of-hotel-distribution",
-        "source": "eHotelier",
-        "source_name": "eHotelier"
+        "id": "hotelitem_97144f1857f9",
+        "title": "Griffin Capital Partners and PRIMESTAR launch hotel platform in Poland",
+        "url": "https://boutiquehotelnews.com/news/industry/griffin-capital-primestar-poland/?utm_source=rss&utm_medium=rss&utm_campaign=griffin-capital-primestar-poland",
+        "source": "Boutique Hotel News",
+        "source_name": "Boutique Hotel News"
       }
     },
     {
-      "story_id": "story_535558ff3b6b",
-      "title": "H World Group Limited Reports First Quarter Of 2026 Unaudited Financial Results",
-      "url": "https://www.globenewswire.com/news-release/2026/05/15/3295672/19355/en/h-world-group-limited-reports-first-quarter-of-2026-unaudited-financial-results.html",
-      "primary_url": "https://www.globenewswire.com/news-release/2026/05/15/3295672/19355/en/h-world-group-limited-reports-first-quarter-of-2026-unaudited-financial-results.html",
-      "source": "华住 H World IR",
-      "source_name": "华住 H World IR",
+      "story_id": "story_0cc929417005",
+      "title": "Kow acquires 100 per cent of Queensgate Investments",
+      "url": "https://boutiquehotelnews.com/news/finance-and-investment/kow-queensgate-investments/?utm_source=rss&utm_medium=rss&utm_campaign=kow-queensgate-investments",
+      "primary_url": "https://boutiquehotelnews.com/news/finance-and-investment/kow-queensgate-investments/?utm_source=rss&utm_medium=rss&utm_campaign=kow-queensgate-investments",
+      "source": "Boutique Hotel News",
+      "source_name": "Boutique Hotel News",
       "sources": [
         {
-          "id": "hotelitem_535558ff3b6b",
-          "title": "H World Group Limited Reports First Quarter Of 2026 Unaudited Financial Results",
-          "url": "https://www.globenewswire.com/news-release/2026/05/15/3295672/19355/en/h-world-group-limited-reports-first-quarter-of-2026-unaudited-financial-results.html",
-          "source": "华住 H World IR",
-          "source_name": "华住 H World IR",
-          "site_id": "huazhu_ir",
-          "published_at": "2026-05-15T00:00:00Z"
+          "id": "hotelitem_0cc929417005",
+          "title": "Kow acquires 100 per cent of Queensgate Investments",
+          "url": "https://boutiquehotelnews.com/news/finance-and-investment/kow-queensgate-investments/?utm_source=rss&utm_medium=rss&utm_campaign=kow-queensgate-investments",
+          "source": "Boutique Hotel News",
+          "source_name": "Boutique Hotel News",
+          "site_id": "boutiquehotel",
+          "published_at": "2026-06-22T12:25:13Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "华住 H World IR"
+        "Boutique Hotel News"
       ],
       "items": [
         {
-          "id": "hotelitem_535558ff3b6b",
-          "title": "H World Group Limited Reports First Quarter Of 2026 Unaudited Financial Results",
-          "url": "https://www.globenewswire.com/news-release/2026/05/15/3295672/19355/en/h-world-group-limited-reports-first-quarter-of-2026-unaudited-financial-results.html",
-          "source": "华住 H World IR",
-          "source_name": "华住 H World IR",
-          "site_id": "huazhu_ir",
-          "published_at": "2026-05-15T00:00:00Z"
+          "id": "hotelitem_0cc929417005",
+          "title": "Kow acquires 100 per cent of Queensgate Investments",
+          "url": "https://boutiquehotelnews.com/news/finance-and-investment/kow-queensgate-investments/?utm_source=rss&utm_medium=rss&utm_campaign=kow-queensgate-investments",
+          "source": "Boutique Hotel News",
+          "source_name": "Boutique Hotel News",
+          "site_id": "boutiquehotel",
+          "published_at": "2026-06-22T12:25:13Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8462,
-      "importance": 0.4268,
-      "importance_score": 0.8462,
+      "score": 0.8458,
+      "importance": 0.5957,
+      "importance_score": 0.8458,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.1341,
+        "recency": 0.9784,
         "story_heat": 0.0
       },
       "category": "watch",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-05-15T00:00:00Z",
-      "latest_at": "2026-05-15T00:00:00Z",
+      "earliest_at": "2026-06-22T12:25:13Z",
+      "latest_at": "2026-06-22T12:25:13Z",
       "primary_item": {
-        "id": "hotelitem_535558ff3b6b",
-        "title": "H World Group Limited Reports First Quarter Of 2026 Unaudited Financial Results",
-        "url": "https://www.globenewswire.com/news-release/2026/05/15/3295672/19355/en/h-world-group-limited-reports-first-quarter-of-2026-unaudited-financial-results.html",
-        "source": "华住 H World IR",
-        "source_name": "华住 H World IR"
+        "id": "hotelitem_0cc929417005",
+        "title": "Kow acquires 100 per cent of Queensgate Investments",
+        "url": "https://boutiquehotelnews.com/news/finance-and-investment/kow-queensgate-investments/?utm_source=rss&utm_medium=rss&utm_campaign=kow-queensgate-investments",
+        "source": "Boutique Hotel News",
+        "source_name": "Boutique Hotel News"
       }
     },
     {
@@ -1373,14 +1432,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8461,
-      "importance": 0.5804,
-      "importance_score": 0.8461,
+      "score": 0.8439,
+      "importance": 0.5781,
+      "importance_score": 0.8439,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9022,
+        "recency": 0.8905,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1395,6 +1454,65 @@
         "url": "https://www.hotelmanagement.net/sponsored/rediscovering-hospitality-distracted-world",
         "source": "Hotel Management",
         "source_name": "Hotel Management"
+      }
+    },
+    {
+      "story_id": "story_535558ff3b6b",
+      "title": "H World Group Limited Reports First Quarter Of 2026 Unaudited Financial Results",
+      "url": "https://www.globenewswire.com/news-release/2026/05/15/3295672/19355/en/h-world-group-limited-reports-first-quarter-of-2026-unaudited-financial-results.html",
+      "primary_url": "https://www.globenewswire.com/news-release/2026/05/15/3295672/19355/en/h-world-group-limited-reports-first-quarter-of-2026-unaudited-financial-results.html",
+      "source": "华住 H World IR",
+      "source_name": "华住 H World IR",
+      "sources": [
+        {
+          "id": "hotelitem_535558ff3b6b",
+          "title": "H World Group Limited Reports First Quarter Of 2026 Unaudited Financial Results",
+          "url": "https://www.globenewswire.com/news-release/2026/05/15/3295672/19355/en/h-world-group-limited-reports-first-quarter-of-2026-unaudited-financial-results.html",
+          "source": "华住 H World IR",
+          "source_name": "华住 H World IR",
+          "site_id": "huazhu_ir",
+          "published_at": "2026-05-15T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "华住 H World IR"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_535558ff3b6b",
+          "title": "H World Group Limited Reports First Quarter Of 2026 Unaudited Financial Results",
+          "url": "https://www.globenewswire.com/news-release/2026/05/15/3295672/19355/en/h-world-group-limited-reports-first-quarter-of-2026-unaudited-financial-results.html",
+          "source": "华住 H World IR",
+          "source_name": "华住 H World IR",
+          "site_id": "huazhu_ir",
+          "published_at": "2026-05-15T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8431,
+      "importance": 0.4245,
+      "importance_score": 0.8431,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.1224,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-05-15T00:00:00Z",
+      "latest_at": "2026-05-15T00:00:00Z",
+      "primary_item": {
+        "id": "hotelitem_535558ff3b6b",
+        "title": "H World Group Limited Reports First Quarter Of 2026 Unaudited Financial Results",
+        "url": "https://www.globenewswire.com/news-release/2026/05/15/3295672/19355/en/h-world-group-limited-reports-first-quarter-of-2026-unaudited-financial-results.html",
+        "source": "华住 H World IR",
+        "source_name": "华住 H World IR"
       }
     },
     {
@@ -1432,14 +1550,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8432,
-      "importance": 0.5774,
-      "importance_score": 0.8432,
+      "score": 0.8409,
+      "importance": 0.575,
+      "importance_score": 0.8409,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8868,
+        "recency": 0.8751,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1491,14 +1609,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8377,
-      "importance": 0.5717,
-      "importance_score": 0.8377,
+      "score": 0.8354,
+      "importance": 0.5693,
+      "importance_score": 0.8354,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8583,
+        "recency": 0.8465,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1516,298 +1634,180 @@
       }
     },
     {
-      "story_id": "story_43eb0f27e896",
-      "title": "G6 Hospitality CEO Sonal Sinha exits amid leadership changes",
-      "url": "https://www.hoteldive.com/news/g6-hospitality-ceo-sonal-sinha-exits-amid-leadership-changes/822978/",
-      "primary_url": "https://www.hoteldive.com/news/g6-hospitality-ceo-sonal-sinha-exits-amid-leadership-changes/822978/",
-      "source": "Hotel Dive",
-      "source_name": "Hotel Dive",
+      "story_id": "story_d12e71afa2f9",
+      "title": "Evok Collection expands Nolinski brand with French Alps acquisition",
+      "url": "https://boutiquehotelnews.com/news/finance-and-investment/nolinski-french-alps/?utm_source=rss&utm_medium=rss&utm_campaign=nolinski-french-alps",
+      "primary_url": "https://boutiquehotelnews.com/news/finance-and-investment/nolinski-french-alps/?utm_source=rss&utm_medium=rss&utm_campaign=nolinski-french-alps",
+      "source": "Boutique Hotel News",
+      "source_name": "Boutique Hotel News",
       "sources": [
         {
-          "id": "hotelitem_43eb0f27e896",
-          "title": "G6 Hospitality CEO Sonal Sinha exits amid leadership changes",
-          "url": "https://www.hoteldive.com/news/g6-hospitality-ceo-sonal-sinha-exits-amid-leadership-changes/822978/",
-          "source": "Hotel Dive",
-          "source_name": "Hotel Dive",
-          "site_id": "hoteldive",
-          "published_at": "2026-06-15T21:43:27Z"
+          "id": "hotelitem_d12e71afa2f9",
+          "title": "Evok Collection expands Nolinski brand with French Alps acquisition",
+          "url": "https://boutiquehotelnews.com/news/finance-and-investment/nolinski-french-alps/?utm_source=rss&utm_medium=rss&utm_campaign=nolinski-french-alps",
+          "source": "Boutique Hotel News",
+          "source_name": "Boutique Hotel News",
+          "site_id": "boutiquehotel",
+          "published_at": "2026-06-19T15:48:21Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Hotel Dive"
+        "Boutique Hotel News"
       ],
       "items": [
         {
-          "id": "hotelitem_43eb0f27e896",
-          "title": "G6 Hospitality CEO Sonal Sinha exits amid leadership changes",
-          "url": "https://www.hoteldive.com/news/g6-hospitality-ceo-sonal-sinha-exits-amid-leadership-changes/822978/",
-          "source": "Hotel Dive",
-          "source_name": "Hotel Dive",
-          "site_id": "hoteldive",
-          "published_at": "2026-06-15T21:43:27Z"
+          "id": "hotelitem_d12e71afa2f9",
+          "title": "Evok Collection expands Nolinski brand with French Alps acquisition",
+          "url": "https://boutiquehotelnews.com/news/finance-and-investment/nolinski-french-alps/?utm_source=rss&utm_medium=rss&utm_campaign=nolinski-french-alps",
+          "source": "Boutique Hotel News",
+          "source_name": "Boutique Hotel News",
+          "site_id": "boutiquehotel",
+          "published_at": "2026-06-19T15:48:21Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8346,
-      "importance": 0.5686,
-      "importance_score": 0.8346,
+      "score": 0.8336,
+      "importance": 0.583,
+      "importance_score": 0.8336,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8432,
+        "recency": 0.9148,
         "story_heat": 0.0
       },
       "category": "watch",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-06-15T21:43:27Z",
-      "latest_at": "2026-06-15T21:43:27Z",
+      "earliest_at": "2026-06-19T15:48:21Z",
+      "latest_at": "2026-06-19T15:48:21Z",
       "primary_item": {
-        "id": "hotelitem_43eb0f27e896",
-        "title": "G6 Hospitality CEO Sonal Sinha exits amid leadership changes",
-        "url": "https://www.hoteldive.com/news/g6-hospitality-ceo-sonal-sinha-exits-amid-leadership-changes/822978/",
-        "source": "Hotel Dive",
-        "source_name": "Hotel Dive"
+        "id": "hotelitem_d12e71afa2f9",
+        "title": "Evok Collection expands Nolinski brand with French Alps acquisition",
+        "url": "https://boutiquehotelnews.com/news/finance-and-investment/nolinski-french-alps/?utm_source=rss&utm_medium=rss&utm_campaign=nolinski-french-alps",
+        "source": "Boutique Hotel News",
+        "source_name": "Boutique Hotel News"
       }
     },
     {
-      "story_id": "story_da01f00dec82",
-      "title": "Luxury hotels to enter a ‘compelling’ investment cycle: JLL",
-      "url": "https://www.hoteldive.com/news/luxury-hotels-enter-compelling-investment-cycle-jll-report/822906/",
-      "primary_url": "https://www.hoteldive.com/news/luxury-hotels-enter-compelling-investment-cycle-jll-report/822906/",
-      "source": "Hotel Dive",
-      "source_name": "Hotel Dive",
+      "story_id": "story_48e9975e3d88",
+      "title": "Theobalds Estate launches first phase of wellness centre",
+      "url": "https://boutiquehotelnews.com/news/hotel/theobalds-estate-wellness-centre/?utm_source=rss&utm_medium=rss&utm_campaign=theobalds-estate-wellness-centre",
+      "primary_url": "https://boutiquehotelnews.com/news/hotel/theobalds-estate-wellness-centre/?utm_source=rss&utm_medium=rss&utm_campaign=theobalds-estate-wellness-centre",
+      "source": "Boutique Hotel News",
+      "source_name": "Boutique Hotel News",
       "sources": [
         {
-          "id": "hotelitem_da01f00dec82",
-          "title": "Luxury hotels to enter a ‘compelling’ investment cycle: JLL",
-          "url": "https://www.hoteldive.com/news/luxury-hotels-enter-compelling-investment-cycle-jll-report/822906/",
-          "source": "Hotel Dive",
-          "source_name": "Hotel Dive",
-          "site_id": "hoteldive",
-          "published_at": "2026-06-15T14:27:34Z"
+          "id": "hotelitem_48e9975e3d88",
+          "title": "Theobalds Estate launches first phase of wellness centre",
+          "url": "https://boutiquehotelnews.com/news/hotel/theobalds-estate-wellness-centre/?utm_source=rss&utm_medium=rss&utm_campaign=theobalds-estate-wellness-centre",
+          "source": "Boutique Hotel News",
+          "source_name": "Boutique Hotel News",
+          "site_id": "boutiquehotel",
+          "published_at": "2026-06-19T11:36:55Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Hotel Dive"
+        "Boutique Hotel News"
       ],
       "items": [
         {
-          "id": "hotelitem_da01f00dec82",
-          "title": "Luxury hotels to enter a ‘compelling’ investment cycle: JLL",
-          "url": "https://www.hoteldive.com/news/luxury-hotels-enter-compelling-investment-cycle-jll-report/822906/",
-          "source": "Hotel Dive",
-          "source_name": "Hotel Dive",
-          "site_id": "hoteldive",
-          "published_at": "2026-06-15T14:27:34Z"
+          "id": "hotelitem_48e9975e3d88",
+          "title": "Theobalds Estate launches first phase of wellness centre",
+          "url": "https://boutiquehotelnews.com/news/hotel/theobalds-estate-wellness-centre/?utm_source=rss&utm_medium=rss&utm_campaign=theobalds-estate-wellness-centre",
+          "source": "Boutique Hotel News",
+          "source_name": "Boutique Hotel News",
+          "site_id": "boutiquehotel",
+          "published_at": "2026-06-19T11:36:55Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8326,
-      "importance": 0.5673,
-      "importance_score": 0.8326,
+      "score": 0.8328,
+      "importance": 0.5822,
+      "importance_score": 0.8328,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8364,
+        "recency": 0.9109,
         "story_heat": 0.0
       },
       "category": "watch",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-06-15T14:27:34Z",
-      "latest_at": "2026-06-15T14:27:34Z",
+      "earliest_at": "2026-06-19T11:36:55Z",
+      "latest_at": "2026-06-19T11:36:55Z",
       "primary_item": {
-        "id": "hotelitem_da01f00dec82",
-        "title": "Luxury hotels to enter a ‘compelling’ investment cycle: JLL",
-        "url": "https://www.hoteldive.com/news/luxury-hotels-enter-compelling-investment-cycle-jll-report/822906/",
-        "source": "Hotel Dive",
-        "source_name": "Hotel Dive"
+        "id": "hotelitem_48e9975e3d88",
+        "title": "Theobalds Estate launches first phase of wellness centre",
+        "url": "https://boutiquehotelnews.com/news/hotel/theobalds-estate-wellness-centre/?utm_source=rss&utm_medium=rss&utm_campaign=theobalds-estate-wellness-centre",
+        "source": "Boutique Hotel News",
+        "source_name": "Boutique Hotel News"
       }
     },
     {
-      "story_id": "story_ed4259da059b",
-      "title": "Your revenue team doesn’t have a data problem",
-      "url": "https://www.hoteldive.com/spons/your-revenue-team-doesnt-have-a-data-problem/822460/",
-      "primary_url": "https://www.hoteldive.com/spons/your-revenue-team-doesnt-have-a-data-problem/822460/",
-      "source": "Hotel Dive",
-      "source_name": "Hotel Dive",
+      "story_id": "story_7b2fb44b9dea",
+      "title": "UMusic to debut hotel with residences in Austin",
+      "url": "https://boutiquehotelnews.com/news/branded-residences/umusic-hotel-residences-austin/?utm_source=rss&utm_medium=rss&utm_campaign=umusic-hotel-residences-austin",
+      "primary_url": "https://boutiquehotelnews.com/news/branded-residences/umusic-hotel-residences-austin/?utm_source=rss&utm_medium=rss&utm_campaign=umusic-hotel-residences-austin",
+      "source": "Boutique Hotel News",
+      "source_name": "Boutique Hotel News",
       "sources": [
         {
-          "id": "hotelitem_ed4259da059b",
-          "title": "Your revenue team doesn’t have a data problem",
-          "url": "https://www.hoteldive.com/spons/your-revenue-team-doesnt-have-a-data-problem/822460/",
-          "source": "Hotel Dive",
-          "source_name": "Hotel Dive",
-          "site_id": "hoteldive",
-          "published_at": "2026-06-15T09:00:00Z"
+          "id": "hotelitem_7b2fb44b9dea",
+          "title": "UMusic to debut hotel with residences in Austin",
+          "url": "https://boutiquehotelnews.com/news/branded-residences/umusic-hotel-residences-austin/?utm_source=rss&utm_medium=rss&utm_campaign=umusic-hotel-residences-austin",
+          "source": "Boutique Hotel News",
+          "source_name": "Boutique Hotel News",
+          "site_id": "boutiquehotel",
+          "published_at": "2026-06-19T08:56:37Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Hotel Dive"
+        "Boutique Hotel News"
       ],
       "items": [
         {
-          "id": "hotelitem_ed4259da059b",
-          "title": "Your revenue team doesn’t have a data problem",
-          "url": "https://www.hoteldive.com/spons/your-revenue-team-doesnt-have-a-data-problem/822460/",
-          "source": "Hotel Dive",
-          "source_name": "Hotel Dive",
-          "site_id": "hoteldive",
-          "published_at": "2026-06-15T09:00:00Z"
+          "id": "hotelitem_7b2fb44b9dea",
+          "title": "UMusic to debut hotel with residences in Austin",
+          "url": "https://boutiquehotelnews.com/news/branded-residences/umusic-hotel-residences-austin/?utm_source=rss&utm_medium=rss&utm_campaign=umusic-hotel-residences-austin",
+          "source": "Boutique Hotel News",
+          "source_name": "Boutique Hotel News",
+          "site_id": "boutiquehotel",
+          "published_at": "2026-06-19T08:56:37Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8312,
-      "importance": 0.5663,
-      "importance_score": 0.8312,
+      "score": 0.8323,
+      "importance": 0.5817,
+      "importance_score": 0.8323,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8314,
+        "recency": 0.9085,
         "story_heat": 0.0
       },
       "category": "watch",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-06-15T09:00:00Z",
-      "latest_at": "2026-06-15T09:00:00Z",
+      "earliest_at": "2026-06-19T08:56:37Z",
+      "latest_at": "2026-06-19T08:56:37Z",
       "primary_item": {
-        "id": "hotelitem_ed4259da059b",
-        "title": "Your revenue team doesn’t have a data problem",
-        "url": "https://www.hoteldive.com/spons/your-revenue-team-doesnt-have-a-data-problem/822460/",
-        "source": "Hotel Dive",
-        "source_name": "Hotel Dive"
-      }
-    },
-    {
-      "story_id": "story_a4f9716f581b",
-      "title": "Choice Hotels International opens 100th property in Japan with new opening in Chitose City",
-      "url": "https://insights.ehotelier.com/properties/2026/06/22/choice-hotels-international-opens-100th-property-in-japan-with-new-opening-in-chitose-city-2/?utm_source=rss&utm_medium=rss&utm_campaign=choice-hotels-international-opens-100th-property-in-japan-with-new-opening-in-chitose-city-2",
-      "primary_url": "https://insights.ehotelier.com/properties/2026/06/22/choice-hotels-international-opens-100th-property-in-japan-with-new-opening-in-chitose-city-2/?utm_source=rss&utm_medium=rss&utm_campaign=choice-hotels-international-opens-100th-property-in-japan-with-new-opening-in-chitose-city-2",
-      "source": "eHotelier",
-      "source_name": "eHotelier",
-      "sources": [
-        {
-          "id": "hotelitem_a4f9716f581b",
-          "title": "Choice Hotels International opens 100th property in Japan with new opening in Chitose City",
-          "url": "https://insights.ehotelier.com/properties/2026/06/22/choice-hotels-international-opens-100th-property-in-japan-with-new-opening-in-chitose-city-2/?utm_source=rss&utm_medium=rss&utm_campaign=choice-hotels-international-opens-100th-property-in-japan-with-new-opening-in-chitose-city-2",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-06-22T01:40:55Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "eHotelier"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_a4f9716f581b",
-          "title": "Choice Hotels International opens 100th property in Japan with new opening in Chitose City",
-          "url": "https://insights.ehotelier.com/properties/2026/06/22/choice-hotels-international-opens-100th-property-in-japan-with-new-opening-in-chitose-city-2/?utm_source=rss&utm_medium=rss&utm_campaign=choice-hotels-international-opens-100th-property-in-japan-with-new-opening-in-chitose-city-2",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-06-22T01:40:55Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8162,
-      "importance": 0.596,
-      "importance_score": 0.8162,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9801,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-22T01:40:55Z",
-      "latest_at": "2026-06-22T01:40:55Z",
-      "primary_item": {
-        "id": "hotelitem_a4f9716f581b",
-        "title": "Choice Hotels International opens 100th property in Japan with new opening in Chitose City",
-        "url": "https://insights.ehotelier.com/properties/2026/06/22/choice-hotels-international-opens-100th-property-in-japan-with-new-opening-in-chitose-city-2/?utm_source=rss&utm_medium=rss&utm_campaign=choice-hotels-international-opens-100th-property-in-japan-with-new-opening-in-chitose-city-2",
-        "source": "eHotelier",
-        "source_name": "eHotelier"
-      }
-    },
-    {
-      "story_id": "story_b9515e3212d6",
-      "title": "携程：以文化为桥激活入境游新动能",
-      "url": "https://www.pinchain.com/article/347851",
-      "primary_url": "https://www.pinchain.com/article/347851",
-      "source": "品橙旅游",
-      "source_name": "品橙旅游",
-      "sources": [
-        {
-          "id": "hotelitem_b9515e3212d6",
-          "title": "携程：以文化为桥激活入境游新动能",
-          "url": "https://www.pinchain.com/article/347851",
-          "source": "品橙旅游",
-          "source_name": "品橙旅游",
-          "site_id": "pinchain",
-          "published_at": "2026-06-22T07:10:37Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "品橙旅游"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_b9515e3212d6",
-          "title": "携程：以文化为桥激活入境游新动能",
-          "url": "https://www.pinchain.com/article/347851",
-          "source": "品橙旅游",
-          "source_name": "品橙旅游",
-          "site_id": "pinchain",
-          "published_at": "2026-06-22T07:10:37Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8147,
-      "importance": 0.597,
-      "importance_score": 0.8147,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9852,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-22T07:10:37Z",
-      "latest_at": "2026-06-22T07:10:37Z",
-      "primary_item": {
-        "id": "hotelitem_b9515e3212d6",
-        "title": "携程：以文化为桥激活入境游新动能",
-        "url": "https://www.pinchain.com/article/347851",
-        "source": "品橙旅游",
-        "source_name": "品橙旅游"
+        "id": "hotelitem_7b2fb44b9dea",
+        "title": "UMusic to debut hotel with residences in Austin",
+        "url": "https://boutiquehotelnews.com/news/branded-residences/umusic-hotel-residences-austin/?utm_source=rss&utm_medium=rss&utm_campaign=umusic-hotel-residences-austin",
+        "source": "Boutique Hotel News",
+        "source_name": "Boutique Hotel News"
       }
     }
   ]
