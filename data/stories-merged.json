@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-01T11:46:15.735762Z",
+  "generated_at": "2026-07-01T19:15:54.936352Z",
   "window_hours": 1080,
   "total_stories": 30,
   "stories": [
@@ -39,13 +39,13 @@
       "item_count": 1,
       "duplicate_count": 1,
       "score": 1.0,
-      "importance": 0.595,
+      "importance": 0.5936,
       "importance_score": 1.0,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.975,
+        "recency": 0.968,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -97,14 +97,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9523,
-      "importance": 0.5972,
-      "importance_score": 0.9523,
+      "score": 0.9509,
+      "importance": 0.5958,
+      "importance_score": 0.9509,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9858,
+        "recency": 0.9788,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -156,14 +156,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.949,
-      "importance": 0.5938,
-      "importance_score": 0.949,
+      "score": 0.9477,
+      "importance": 0.5924,
+      "importance_score": 0.9477,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.969,
+        "recency": 0.962,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -215,14 +215,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.949,
-      "importance": 0.5938,
-      "importance_score": 0.949,
+      "score": 0.9477,
+      "importance": 0.5924,
+      "importance_score": 0.9477,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9691,
+        "recency": 0.9621,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -274,14 +274,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9472,
-      "importance": 0.592,
-      "importance_score": 0.9472,
+      "score": 0.9459,
+      "importance": 0.5906,
+      "importance_score": 0.9459,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9598,
+        "recency": 0.9528,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -296,65 +296,6 @@
         "url": "https://skift.com/2026/06/29/best-western-has-been-shrinking-bwh-hotels-fix-is-to-shift-upscale-and-overseas/",
         "source": "Skift Hospitality",
         "source_name": "Skift Hospitality"
-      }
-    },
-    {
-      "story_id": "story_e3e6feb10cb9",
-      "title": "IHG launches Madrid’s first Kimpton hotel",
-      "url": "https://boutiquehotelnews.com/news/ihg-launches-madrids-first-kimpton-hotel/?utm_source=rss&utm_medium=rss&utm_campaign=ihg-launches-madrids-first-kimpton-hotel",
-      "primary_url": "https://boutiquehotelnews.com/news/ihg-launches-madrids-first-kimpton-hotel/?utm_source=rss&utm_medium=rss&utm_campaign=ihg-launches-madrids-first-kimpton-hotel",
-      "source": "Boutique Hotel News",
-      "source_name": "Boutique Hotel News",
-      "sources": [
-        {
-          "id": "hotelitem_e3e6feb10cb9",
-          "title": "IHG launches Madrid’s first Kimpton hotel",
-          "url": "https://boutiquehotelnews.com/news/ihg-launches-madrids-first-kimpton-hotel/?utm_source=rss&utm_medium=rss&utm_campaign=ihg-launches-madrids-first-kimpton-hotel",
-          "source": "Boutique Hotel News",
-          "source_name": "Boutique Hotel News",
-          "site_id": "boutiquehotel",
-          "published_at": "2026-06-30T08:51:29Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Boutique Hotel News"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_e3e6feb10cb9",
-          "title": "IHG launches Madrid’s first Kimpton hotel",
-          "url": "https://boutiquehotelnews.com/news/ihg-launches-madrids-first-kimpton-hotel/?utm_source=rss&utm_medium=rss&utm_campaign=ihg-launches-madrids-first-kimpton-hotel",
-          "source": "Boutique Hotel News",
-          "source_name": "Boutique Hotel News",
-          "site_id": "boutiquehotel",
-          "published_at": "2026-06-30T08:51:29Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.9352,
-      "importance": 0.595,
-      "importance_score": 0.9352,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9751,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-30T08:51:29Z",
-      "latest_at": "2026-06-30T08:51:29Z",
-      "primary_item": {
-        "id": "hotelitem_e3e6feb10cb9",
-        "title": "IHG launches Madrid’s first Kimpton hotel",
-        "url": "https://boutiquehotelnews.com/news/ihg-launches-madrids-first-kimpton-hotel/?utm_source=rss&utm_medium=rss&utm_campaign=ihg-launches-madrids-first-kimpton-hotel",
-        "source": "Boutique Hotel News",
-        "source_name": "Boutique Hotel News"
       }
     },
     {
@@ -392,14 +333,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.934,
-      "importance": 0.5783,
-      "importance_score": 0.934,
+      "score": 0.9327,
+      "importance": 0.5769,
+      "importance_score": 0.9327,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8914,
+        "recency": 0.8844,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -451,14 +392,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9293,
-      "importance": 0.5992,
-      "importance_score": 0.9293,
+      "score": 0.9279,
+      "importance": 0.5978,
+      "importance_score": 0.9279,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9961,
+        "recency": 0.9892,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -510,14 +451,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.929,
-      "importance": 0.599,
-      "importance_score": 0.929,
+      "score": 0.9277,
+      "importance": 0.5976,
+      "importance_score": 0.9277,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9948,
+        "recency": 0.9878,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -535,124 +476,6 @@
       }
     },
     {
-      "story_id": "story_365b72ab82e3",
-      "title": "CEO of Fairmont & Raffles: Luxury Isn’t What You Think It Is",
-      "url": "https://skift.com/2026/06/25/ceo-of-fairmont-raffles-luxury-isnt-what-you-think-it-is/",
-      "primary_url": "https://skift.com/2026/06/25/ceo-of-fairmont-raffles-luxury-isnt-what-you-think-it-is/",
-      "source": "Skift Hospitality",
-      "source_name": "Skift Hospitality",
-      "sources": [
-        {
-          "id": "hotelitem_365b72ab82e3",
-          "title": "CEO of Fairmont & Raffles: Luxury Isn’t What You Think It Is",
-          "url": "https://skift.com/2026/06/25/ceo-of-fairmont-raffles-luxury-isnt-what-you-think-it-is/",
-          "source": "Skift Hospitality",
-          "source_name": "Skift Hospitality",
-          "site_id": "skift",
-          "published_at": "2026-06-25T07:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Skift Hospitality"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_365b72ab82e3",
-          "title": "CEO of Fairmont & Raffles: Luxury Isn’t What You Think It Is",
-          "url": "https://skift.com/2026/06/25/ceo-of-fairmont-raffles-luxury-isnt-what-you-think-it-is/",
-          "source": "Skift Hospitality",
-          "source_name": "Skift Hospitality",
-          "site_id": "skift",
-          "published_at": "2026-06-25T07:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.9284,
-      "importance": 0.5724,
-      "importance_score": 0.9284,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.8622,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-25T07:00:00Z",
-      "latest_at": "2026-06-25T07:00:00Z",
-      "primary_item": {
-        "id": "hotelitem_365b72ab82e3",
-        "title": "CEO of Fairmont & Raffles: Luxury Isn’t What You Think It Is",
-        "url": "https://skift.com/2026/06/25/ceo-of-fairmont-raffles-luxury-isnt-what-you-think-it-is/",
-        "source": "Skift Hospitality",
-        "source_name": "Skift Hospitality"
-      }
-    },
-    {
-      "story_id": "story_4c56f10bb910",
-      "title": "Sunstone to sell Hyatt Regency San Francisco for $279 million",
-      "url": "https://www.hoteldive.com/news/sunstone-sell-hyatt-regency-san-francisco-279-million/823630/",
-      "primary_url": "https://www.hoteldive.com/news/sunstone-sell-hyatt-regency-san-francisco-279-million/823630/",
-      "source": "Hotel Dive",
-      "source_name": "Hotel Dive",
-      "sources": [
-        {
-          "id": "hotelitem_4c56f10bb910",
-          "title": "Sunstone to sell Hyatt Regency San Francisco for $279 million",
-          "url": "https://www.hoteldive.com/news/sunstone-sell-hyatt-regency-san-francisco-279-million/823630/",
-          "source": "Hotel Dive",
-          "source_name": "Hotel Dive",
-          "site_id": "hoteldive",
-          "published_at": "2026-06-24T13:48:38Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hotel Dive"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_4c56f10bb910",
-          "title": "Sunstone to sell Hyatt Regency San Francisco for $279 million",
-          "url": "https://www.hoteldive.com/news/sunstone-sell-hyatt-regency-san-francisco-279-million/823630/",
-          "source": "Hotel Dive",
-          "source_name": "Hotel Dive",
-          "site_id": "hoteldive",
-          "published_at": "2026-06-24T13:48:38Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.9254,
-      "importance": 0.5693,
-      "importance_score": 0.9254,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.8463,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-24T13:48:38Z",
-      "latest_at": "2026-06-24T13:48:38Z",
-      "primary_item": {
-        "id": "hotelitem_4c56f10bb910",
-        "title": "Sunstone to sell Hyatt Regency San Francisco for $279 million",
-        "url": "https://www.hoteldive.com/news/sunstone-sell-hyatt-regency-san-francisco-279-million/823630/",
-        "source": "Hotel Dive",
-        "source_name": "Hotel Dive"
-      }
-    },
-    {
       "story_id": "story_c7c15b7680c9",
       "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
       "url": "https://www.chinahotel.org.cn/articles/17408",
@@ -667,7 +490,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-01T11:46:15.735762Z"
+          "published_at": "2026-07-01T19:15:54.936352Z"
         },
         {
           "id": "hotelitem_c7c15b7680c9",
@@ -676,7 +499,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-01T11:46:15.735762Z"
+          "published_at": "2026-07-01T19:15:54.936352Z"
         },
         {
           "id": "hotelitem_6d8fa145e8af",
@@ -685,7 +508,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-01T11:46:15.735762Z"
+          "published_at": "2026-07-01T19:15:54.936352Z"
         }
       ],
       "source_count": 3,
@@ -700,7 +523,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-01T11:46:15.735762Z"
+          "published_at": "2026-07-01T19:15:54.936352Z"
         },
         {
           "id": "hotelitem_c7c15b7680c9",
@@ -709,7 +532,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-01T11:46:15.735762Z"
+          "published_at": "2026-07-01T19:15:54.936352Z"
         },
         {
           "id": "hotelitem_6d8fa145e8af",
@@ -718,7 +541,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-01T11:46:15.735762Z"
+          "published_at": "2026-07-01T19:15:54.936352Z"
         }
       ],
       "item_count": 3,
@@ -738,8 +561,8 @@
         "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-01T11:46:15.735762Z",
-      "latest_at": "2026-07-01T11:46:15.735762Z",
+      "earliest_at": "2026-07-01T19:15:54.936352Z",
+      "latest_at": "2026-07-01T19:15:54.936352Z",
       "primary_item": {
         "id": "hotelitem_d4370964909c",
         "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
@@ -783,14 +606,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9095,
-      "importance": 0.5865,
-      "importance_score": 0.9095,
+      "score": 0.9082,
+      "importance": 0.5852,
+      "importance_score": 0.9082,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9327,
+        "recency": 0.9258,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -822,7 +645,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-07-01T11:46:15.735762Z"
+          "published_at": "2026-07-01T19:15:54.936352Z"
         }
       ],
       "source_count": 1,
@@ -837,7 +660,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-07-01T11:46:15.735762Z"
+          "published_at": "2026-07-01T19:15:54.936352Z"
         }
       ],
       "item_count": 1,
@@ -856,8 +679,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-01T11:46:15.735762Z",
-      "latest_at": "2026-07-01T11:46:15.735762Z",
+      "earliest_at": "2026-07-01T19:15:54.936352Z",
+      "latest_at": "2026-07-01T19:15:54.936352Z",
       "primary_item": {
         "id": "hotelitem_86885009de08",
         "title": "文旅惠报|岭南控股与重庆黔江区签署战略合作协议；厦门国有资本牵手阿那亚，打造集美岛滨海文旅项目",
@@ -881,7 +704,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-07-01T11:46:15.735762Z"
+          "published_at": "2026-07-01T19:15:54.936352Z"
         }
       ],
       "source_count": 1,
@@ -896,7 +719,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-07-01T11:46:15.735762Z"
+          "published_at": "2026-07-01T19:15:54.936352Z"
         }
       ],
       "item_count": 1,
@@ -915,8 +738,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-01T11:46:15.735762Z",
-      "latest_at": "2026-07-01T11:46:15.735762Z",
+      "earliest_at": "2026-07-01T19:15:54.936352Z",
+      "latest_at": "2026-07-01T19:15:54.936352Z",
       "primary_item": {
         "id": "hotelitem_d94f35b8bbdc",
         "title": "文旅惠报|开封清明上河园向港交所提交上市申请；万豪国际全球酒店数量正式破万家",
@@ -940,7 +763,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-07-01T11:46:15.735762Z"
+          "published_at": "2026-07-01T19:15:54.936352Z"
         }
       ],
       "source_count": 1,
@@ -955,7 +778,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-07-01T11:46:15.735762Z"
+          "published_at": "2026-07-01T19:15:54.936352Z"
         }
       ],
       "item_count": 1,
@@ -974,8 +797,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-01T11:46:15.735762Z",
-      "latest_at": "2026-07-01T11:46:15.735762Z",
+      "earliest_at": "2026-07-01T19:15:54.936352Z",
+      "latest_at": "2026-07-01T19:15:54.936352Z",
       "primary_item": {
         "id": "hotelitem_7a0aafcf6ecc",
         "title": "文旅惠报|澳门银河与Trip.com签订三年战略合作协议；盈新发展转让西宁置业100%股权",
@@ -999,7 +822,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-07-01T11:46:15.735762Z"
+          "published_at": "2026-07-01T19:15:54.936352Z"
         }
       ],
       "source_count": 1,
@@ -1014,7 +837,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-07-01T11:46:15.735762Z"
+          "published_at": "2026-07-01T19:15:54.936352Z"
         }
       ],
       "item_count": 1,
@@ -1033,8 +856,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-01T11:46:15.735762Z",
-      "latest_at": "2026-07-01T11:46:15.735762Z",
+      "earliest_at": "2026-07-01T19:15:54.936352Z",
+      "latest_at": "2026-07-01T19:15:54.936352Z",
       "primary_item": {
         "id": "hotelitem_8bd428772b3b",
         "title": "文旅惠报|许铭出任锦江国际集团总裁；西藏旅游拟以6970.65万元公积金弥补累计亏损",
@@ -1058,7 +881,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-07-01T11:46:15.735762Z"
+          "published_at": "2026-07-01T19:15:54.936352Z"
         }
       ],
       "source_count": 1,
@@ -1073,7 +896,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-07-01T11:46:15.735762Z"
+          "published_at": "2026-07-01T19:15:54.936352Z"
         }
       ],
       "item_count": 1,
@@ -1092,8 +915,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-01T11:46:15.735762Z",
-      "latest_at": "2026-07-01T11:46:15.735762Z",
+      "earliest_at": "2026-07-01T19:15:54.936352Z",
+      "latest_at": "2026-07-01T19:15:54.936352Z",
       "primary_item": {
         "id": "hotelitem_4966ad3512b4",
         "title": "文旅惠报|雅高集团CEO宣布2028年卸任；众信优游与中视实业集团达成深度合作",
@@ -1137,14 +960,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8775,
-      "importance": 0.6,
-      "importance_score": 0.8775,
+      "score": 0.8773,
+      "importance": 0.5998,
+      "importance_score": 0.8773,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9989,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1159,6 +982,65 @@
         "url": "https://www.traveldaily.cn/article/190315",
         "source": "环球旅讯 TravelDaily",
         "source_name": "环球旅讯 TravelDaily"
+      }
+    },
+    {
+      "story_id": "story_20cd6b0f068b",
+      "title": "Top hospitality industry executive moves of Q2 2026",
+      "url": "https://www.hoteldive.com/news/top-hospitality-industry-executive-moves-q2-2026/824125/",
+      "primary_url": "https://www.hoteldive.com/news/top-hospitality-industry-executive-moves-q2-2026/824125/",
+      "source": "Hotel Dive",
+      "source_name": "Hotel Dive",
+      "sources": [
+        {
+          "id": "hotelitem_20cd6b0f068b",
+          "title": "Top hospitality industry executive moves of Q2 2026",
+          "url": "https://www.hoteldive.com/news/top-hospitality-industry-executive-moves-q2-2026/824125/",
+          "source": "Hotel Dive",
+          "source_name": "Hotel Dive",
+          "site_id": "hoteldive",
+          "published_at": "2026-07-01T13:13:03Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hotel Dive"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_20cd6b0f068b",
+          "title": "Top hospitality industry executive moves of Q2 2026",
+          "url": "https://www.hoteldive.com/news/top-hospitality-industry-executive-moves-q2-2026/824125/",
+          "source": "Hotel Dive",
+          "source_name": "Hotel Dive",
+          "site_id": "hoteldive",
+          "published_at": "2026-07-01T13:13:03Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8639,
+      "importance": 0.5989,
+      "importance_score": 0.8639,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9944,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-01T13:13:03Z",
+      "latest_at": "2026-07-01T13:13:03Z",
+      "primary_item": {
+        "id": "hotelitem_20cd6b0f068b",
+        "title": "Top hospitality industry executive moves of Q2 2026",
+        "url": "https://www.hoteldive.com/news/top-hospitality-industry-executive-moves-q2-2026/824125/",
+        "source": "Hotel Dive",
+        "source_name": "Hotel Dive"
       }
     },
     {
@@ -1196,14 +1078,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.865,
-      "importance": 0.6,
-      "importance_score": 0.865,
+      "score": 0.8636,
+      "importance": 0.5986,
+      "importance_score": 0.8636,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9999,
+        "recency": 0.993,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1218,6 +1100,84 @@
         "url": "https://www.hotelmanagement.net/resource/upgrade-every-stay-tvs-designed-make-you-money",
         "source": "Hotel Management",
         "source_name": "Hotel Management"
+      }
+    },
+    {
+      "story_id": "story_9a9bbd51ed3f",
+      "title": "Agoda Reveals Growing Interest Among Japanes ... Singapore, 10 June 2026: Agoda Company Pte. Ltd. (Headquarters: Singapore; CEO: Omri Morgenshtern), wh ... June 10, 2026 / Travel Trends",
+      "url": "https://www.agoda.com/press/agoda-reveals-growing-interest-among-japanese-travelers-ahead-of-global-football-event-in-summer-2026/",
+      "primary_url": "https://www.agoda.com/press/agoda-reveals-growing-interest-among-japanese-travelers-ahead-of-global-football-event-in-summer-2026/",
+      "source": "Agoda",
+      "source_name": "Agoda",
+      "sources": [
+        {
+          "id": "hotelitem_c1356ce1f577",
+          "title": "Agoda Reveals Growing Interest Among Japanes ... Singapore, 10 June 2026: Agoda Company Pte. Ltd. (Headquarters: Singapore; CEO: Omri Morgenshtern), wh ... June 10, 2026 / Travel Trends",
+          "url": "https://www.agoda.com/press/agoda-reveals-growing-interest-among-japanese-travelers-ahead-of-global-football-event-in-summer-2026/",
+          "source": "Agoda",
+          "source_name": "Agoda",
+          "site_id": "agoda_press",
+          "published_at": "2026-07-01T19:15:54.936352Z"
+        },
+        {
+          "id": "hotelitem_9a9bbd51ed3f",
+          "title": "Agoda Reveals Rising Travel Interest Ahead o ... Singapore, 25 June 2026: Agoda Company Pte. Ltd. (Headquarters: Singapore; CEO: Omri Morgenshtern), wh ... June 25, 2026 / Travel Trends",
+          "url": "https://www.agoda.com/press/agoda-reveals-rising-travel-interest-ahead-of-japans-2026-summer-music-festival-season/",
+          "source": "Agoda",
+          "source_name": "Agoda",
+          "site_id": "agoda_press",
+          "published_at": "2026-07-01T19:15:54.936352Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Agoda"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_c1356ce1f577",
+          "title": "Agoda Reveals Growing Interest Among Japanes ... Singapore, 10 June 2026: Agoda Company Pte. Ltd. (Headquarters: Singapore; CEO: Omri Morgenshtern), wh ... June 10, 2026 / Travel Trends",
+          "url": "https://www.agoda.com/press/agoda-reveals-growing-interest-among-japanese-travelers-ahead-of-global-football-event-in-summer-2026/",
+          "source": "Agoda",
+          "source_name": "Agoda",
+          "site_id": "agoda_press",
+          "published_at": "2026-07-01T19:15:54.936352Z"
+        },
+        {
+          "id": "hotelitem_9a9bbd51ed3f",
+          "title": "Agoda Reveals Rising Travel Interest Ahead o ... Singapore, 25 June 2026: Agoda Company Pte. Ltd. (Headquarters: Singapore; CEO: Omri Morgenshtern), wh ... June 25, 2026 / Travel Trends",
+          "url": "https://www.agoda.com/press/agoda-reveals-rising-travel-interest-ahead-of-japans-2026-summer-music-festival-season/",
+          "source": "Agoda",
+          "source_name": "Agoda",
+          "site_id": "agoda_press",
+          "published_at": "2026-07-01T19:15:54.936352Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8625,
+      "importance": 0.625,
+      "importance_score": 0.8625,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-01T19:15:54.936352Z",
+      "latest_at": "2026-07-01T19:15:54.936352Z",
+      "primary_item": {
+        "id": "hotelitem_c1356ce1f577",
+        "title": "Agoda Reveals Growing Interest Among Japanes ... Singapore, 10 June 2026: Agoda Company Pte. Ltd. (Headquarters: Singapore; CEO: Omri Morgenshtern), wh ... June 10, 2026 / Travel Trends",
+        "url": "https://www.agoda.com/press/agoda-reveals-growing-interest-among-japanese-travelers-ahead-of-global-football-event-in-summer-2026/",
+        "source": "Agoda",
+        "source_name": "Agoda"
       }
     },
     {
@@ -1255,14 +1215,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8632,
-      "importance": 0.5982,
-      "importance_score": 0.8632,
+      "score": 0.8619,
+      "importance": 0.5968,
+      "importance_score": 0.8619,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9908,
+        "recency": 0.9839,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1314,14 +1274,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8632,
-      "importance": 0.5982,
-      "importance_score": 0.8632,
+      "score": 0.8619,
+      "importance": 0.5968,
+      "importance_score": 0.8619,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9908,
+        "recency": 0.9839,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1336,84 +1296,6 @@
         "url": "https://insights.ehotelier.com/people/2026/07/01/kris-umstattd-appointed-general-manager-of-the-sun-rose-west-hollywood/?utm_source=rss&utm_medium=rss&utm_campaign=kris-umstattd-appointed-general-manager-of-the-sun-rose-west-hollywood",
         "source": "eHotelier",
         "source_name": "eHotelier"
-      }
-    },
-    {
-      "story_id": "story_9a9bbd51ed3f",
-      "title": "Agoda Reveals Growing Interest Among Japanes ... Singapore, 10 June 2026: Agoda Company Pte. Ltd. (Headquarters: Singapore; CEO: Omri Morgenshtern), wh ... June 10, 2026 / Travel Trends",
-      "url": "https://www.agoda.com/press/agoda-reveals-growing-interest-among-japanese-travelers-ahead-of-global-football-event-in-summer-2026/",
-      "primary_url": "https://www.agoda.com/press/agoda-reveals-growing-interest-among-japanese-travelers-ahead-of-global-football-event-in-summer-2026/",
-      "source": "Agoda",
-      "source_name": "Agoda",
-      "sources": [
-        {
-          "id": "hotelitem_c1356ce1f577",
-          "title": "Agoda Reveals Growing Interest Among Japanes ... Singapore, 10 June 2026: Agoda Company Pte. Ltd. (Headquarters: Singapore; CEO: Omri Morgenshtern), wh ... June 10, 2026 / Travel Trends",
-          "url": "https://www.agoda.com/press/agoda-reveals-growing-interest-among-japanese-travelers-ahead-of-global-football-event-in-summer-2026/",
-          "source": "Agoda",
-          "source_name": "Agoda",
-          "site_id": "agoda_press",
-          "published_at": "2026-07-01T11:46:15.735762Z"
-        },
-        {
-          "id": "hotelitem_9a9bbd51ed3f",
-          "title": "Agoda Reveals Rising Travel Interest Ahead o ... Singapore, 25 June 2026: Agoda Company Pte. Ltd. (Headquarters: Singapore; CEO: Omri Morgenshtern), wh ... June 25, 2026 / Travel Trends",
-          "url": "https://www.agoda.com/press/agoda-reveals-rising-travel-interest-ahead-of-japans-2026-summer-music-festival-season/",
-          "source": "Agoda",
-          "source_name": "Agoda",
-          "site_id": "agoda_press",
-          "published_at": "2026-07-01T11:46:15.735762Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Agoda"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_c1356ce1f577",
-          "title": "Agoda Reveals Growing Interest Among Japanes ... Singapore, 10 June 2026: Agoda Company Pte. Ltd. (Headquarters: Singapore; CEO: Omri Morgenshtern), wh ... June 10, 2026 / Travel Trends",
-          "url": "https://www.agoda.com/press/agoda-reveals-growing-interest-among-japanese-travelers-ahead-of-global-football-event-in-summer-2026/",
-          "source": "Agoda",
-          "source_name": "Agoda",
-          "site_id": "agoda_press",
-          "published_at": "2026-07-01T11:46:15.735762Z"
-        },
-        {
-          "id": "hotelitem_9a9bbd51ed3f",
-          "title": "Agoda Reveals Rising Travel Interest Ahead o ... Singapore, 25 June 2026: Agoda Company Pte. Ltd. (Headquarters: Singapore; CEO: Omri Morgenshtern), wh ... June 25, 2026 / Travel Trends",
-          "url": "https://www.agoda.com/press/agoda-reveals-rising-travel-interest-ahead-of-japans-2026-summer-music-festival-season/",
-          "source": "Agoda",
-          "source_name": "Agoda",
-          "site_id": "agoda_press",
-          "published_at": "2026-07-01T11:46:15.735762Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8625,
-      "importance": 0.625,
-      "importance_score": 0.8625,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-01T11:46:15.735762Z",
-      "latest_at": "2026-07-01T11:46:15.735762Z",
-      "primary_item": {
-        "id": "hotelitem_c1356ce1f577",
-        "title": "Agoda Reveals Growing Interest Among Japanes ... Singapore, 10 June 2026: Agoda Company Pte. Ltd. (Headquarters: Singapore; CEO: Omri Morgenshtern), wh ... June 10, 2026 / Travel Trends",
-        "url": "https://www.agoda.com/press/agoda-reveals-growing-interest-among-japanese-travelers-ahead-of-global-football-event-in-summer-2026/",
-        "source": "Agoda",
-        "source_name": "Agoda"
       }
     },
     {
@@ -1451,14 +1333,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8619,
-      "importance": 0.5968,
-      "importance_score": 0.8619,
+      "score": 0.8606,
+      "importance": 0.5954,
+      "importance_score": 0.8606,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9839,
+        "recency": 0.977,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1473,6 +1355,202 @@
         "url": "https://skift.com/2026/06/30/not-for-sale-sandals-ceo-shuts-down-deal-rumors/",
         "source": "Skift Hospitality",
         "source_name": "Skift Hospitality"
+      }
+    },
+    {
+      "story_id": "story_f293a3354c9e",
+      "title": "指数发布 | 中国住宿业消费指数报告（2026年5月）发布 为贯彻落实提振消费相关政策，真实反映中国住宿餐饮业市场消费情况，以数据引导促消费政策精准发力，为行业发展提供参考建议，中国饭店协会每月公开发布“中国饭店业消费指数体系”，包含“中国住宿业消费指数（China Hotel Industry Consumption Index, HCI）”与“中国餐饮业消费指数(China Catering Industry Consumption Index, CCI)”，欢迎关注。\n本篇发布的是“中国住宿业消费指数”。",
+      "url": "https://www.chinahotel.org.cn/articles/17871",
+      "primary_url": "https://www.chinahotel.org.cn/articles/17871",
+      "source": "中国饭店协会",
+      "source_name": "中国饭店协会",
+      "sources": [
+        {
+          "id": "hotelitem_e4f19d9fa626",
+          "title": "指数发布 | 中国住宿业消费指数报告（2026年5月）发布 为贯彻落实提振消费相关政策，真实反映中国住宿餐饮业市场消费情况，以数据引导促消费政策精准发力，为行业发展提供参考建议，中国饭店协会每月公开发布“中国饭店业消费指数体系”，包含“中国住宿业消费指数（China Hotel Industry Consumption Index, HCI）”与“中国餐饮业消费指数(China Catering Industry Consumption Index, CCI)”，欢迎关注。\n本篇发布的是“中国住宿业消费指数”。",
+          "url": "https://www.chinahotel.org.cn/articles/17871",
+          "source": "中国饭店协会",
+          "source_name": "中国饭店协会",
+          "site_id": "chinahotel",
+          "published_at": "2026-07-01T19:15:54.936352Z"
+        },
+        {
+          "id": "hotelitem_f293a3354c9e",
+          "title": "指数发布 | 中国餐饮业消费指数报告（2026年5月）发布 为贯彻落实提振消费相关政策，真实反映中国住宿餐饮业市场消费情况，以数据引导促消费政策精准发力，为行业发展提供参考建议，中国饭店协会每月公开发布“中国饭店业消费指数体系”，包含“中国住宿业消费指数（China Hotel Industry Consumption Index, HCI）”与“中国餐饮业消费指数(China Catering Industry Consumption Index, CCI)”，欢迎关注。\n本篇发布的是“中国餐饮业消费指数”。",
+          "url": "https://www.chinahotel.org.cn/articles/17875",
+          "source": "中国饭店协会",
+          "source_name": "中国饭店协会",
+          "site_id": "chinahotel",
+          "published_at": "2026-07-01T19:15:54.936352Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "中国饭店协会"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_e4f19d9fa626",
+          "title": "指数发布 | 中国住宿业消费指数报告（2026年5月）发布 为贯彻落实提振消费相关政策，真实反映中国住宿餐饮业市场消费情况，以数据引导促消费政策精准发力，为行业发展提供参考建议，中国饭店协会每月公开发布“中国饭店业消费指数体系”，包含“中国住宿业消费指数（China Hotel Industry Consumption Index, HCI）”与“中国餐饮业消费指数(China Catering Industry Consumption Index, CCI)”，欢迎关注。\n本篇发布的是“中国住宿业消费指数”。",
+          "url": "https://www.chinahotel.org.cn/articles/17871",
+          "source": "中国饭店协会",
+          "source_name": "中国饭店协会",
+          "site_id": "chinahotel",
+          "published_at": "2026-07-01T19:15:54.936352Z"
+        },
+        {
+          "id": "hotelitem_f293a3354c9e",
+          "title": "指数发布 | 中国餐饮业消费指数报告（2026年5月）发布 为贯彻落实提振消费相关政策，真实反映中国住宿餐饮业市场消费情况，以数据引导促消费政策精准发力，为行业发展提供参考建议，中国饭店协会每月公开发布“中国饭店业消费指数体系”，包含“中国住宿业消费指数（China Hotel Industry Consumption Index, HCI）”与“中国餐饮业消费指数(China Catering Industry Consumption Index, CCI)”，欢迎关注。\n本篇发布的是“中国餐饮业消费指数”。",
+          "url": "https://www.chinahotel.org.cn/articles/17875",
+          "source": "中国饭店协会",
+          "source_name": "中国饭店协会",
+          "site_id": "chinahotel",
+          "published_at": "2026-07-01T19:15:54.936352Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.86,
+      "importance": 0.625,
+      "importance_score": 0.86,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-01T19:15:54.936352Z",
+      "latest_at": "2026-07-01T19:15:54.936352Z",
+      "primary_item": {
+        "id": "hotelitem_e4f19d9fa626",
+        "title": "指数发布 | 中国住宿业消费指数报告（2026年5月）发布 为贯彻落实提振消费相关政策，真实反映中国住宿餐饮业市场消费情况，以数据引导促消费政策精准发力，为行业发展提供参考建议，中国饭店协会每月公开发布“中国饭店业消费指数体系”，包含“中国住宿业消费指数（China Hotel Industry Consumption Index, HCI）”与“中国餐饮业消费指数(China Catering Industry Consumption Index, CCI)”，欢迎关注。\n本篇发布的是“中国住宿业消费指数”。",
+        "url": "https://www.chinahotel.org.cn/articles/17871",
+        "source": "中国饭店协会",
+        "source_name": "中国饭店协会"
+      }
+    },
+    {
+      "story_id": "story_d0f4fa1dec28",
+      "title": "君亭酒店：控股股东及相关方终止29.99%股份转让及控制权变更",
+      "url": "https://www.meadin.com/jd/298103.html",
+      "primary_url": "https://www.meadin.com/jd/298103.html",
+      "source": "迈点研究院",
+      "source_name": "迈点研究院",
+      "sources": [
+        {
+          "id": "hotelitem_d0f4fa1dec28",
+          "title": "君亭酒店：控股股东及相关方终止29.99%股份转让及控制权变更",
+          "url": "https://www.meadin.com/jd/298103.html",
+          "source": "迈点研究院",
+          "source_name": "迈点研究院",
+          "site_id": "meadin",
+          "published_at": "2026-07-01T19:15:54.936352Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "迈点研究院"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_d0f4fa1dec28",
+          "title": "君亭酒店：控股股东及相关方终止29.99%股份转让及控制权变更",
+          "url": "https://www.meadin.com/jd/298103.html",
+          "source": "迈点研究院",
+          "source_name": "迈点研究院",
+          "site_id": "meadin",
+          "published_at": "2026-07-01T19:15:54.936352Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.86,
+      "importance": 0.6,
+      "importance_score": 0.86,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-01T19:15:54.936352Z",
+      "latest_at": "2026-07-01T19:15:54.936352Z",
+      "primary_item": {
+        "id": "hotelitem_d0f4fa1dec28",
+        "title": "君亭酒店：控股股东及相关方终止29.99%股份转让及控制权变更",
+        "url": "https://www.meadin.com/jd/298103.html",
+        "source": "迈点研究院",
+        "source_name": "迈点研究院"
+      }
+    },
+    {
+      "story_id": "story_cf84b2daf1e1",
+      "title": "美高梅中国2千万美元收购美高梅亚太全部股本",
+      "url": "https://www.meadin.com/jd/298081.html",
+      "primary_url": "https://www.meadin.com/jd/298081.html",
+      "source": "迈点研究院",
+      "source_name": "迈点研究院",
+      "sources": [
+        {
+          "id": "hotelitem_cf84b2daf1e1",
+          "title": "美高梅中国2千万美元收购美高梅亚太全部股本",
+          "url": "https://www.meadin.com/jd/298081.html",
+          "source": "迈点研究院",
+          "source_name": "迈点研究院",
+          "site_id": "meadin",
+          "published_at": "2026-07-01T19:15:54.936352Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "迈点研究院"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_cf84b2daf1e1",
+          "title": "美高梅中国2千万美元收购美高梅亚太全部股本",
+          "url": "https://www.meadin.com/jd/298081.html",
+          "source": "迈点研究院",
+          "source_name": "迈点研究院",
+          "site_id": "meadin",
+          "published_at": "2026-07-01T19:15:54.936352Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.86,
+      "importance": 0.6,
+      "importance_score": 0.86,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-01T19:15:54.936352Z",
+      "latest_at": "2026-07-01T19:15:54.936352Z",
+      "primary_item": {
+        "id": "hotelitem_cf84b2daf1e1",
+        "title": "美高梅中国2千万美元收购美高梅亚太全部股本",
+        "url": "https://www.meadin.com/jd/298081.html",
+        "source": "迈点研究院",
+        "source_name": "迈点研究院"
       }
     },
     {
@@ -1510,14 +1588,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8611,
-      "importance": 0.5959,
-      "importance_score": 0.8611,
+      "score": 0.8598,
+      "importance": 0.5946,
+      "importance_score": 0.8598,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9797,
+        "recency": 0.9728,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1569,14 +1647,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8608,
-      "importance": 0.5957,
-      "importance_score": 0.8608,
+      "score": 0.8595,
+      "importance": 0.5943,
+      "importance_score": 0.8595,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9784,
+        "recency": 0.9715,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1594,121 +1672,43 @@
       }
     },
     {
-      "story_id": "story_f293a3354c9e",
-      "title": "指数发布 | 中国住宿业消费指数报告（2026年5月）发布 为贯彻落实提振消费相关政策，真实反映中国住宿餐饮业市场消费情况，以数据引导促消费政策精准发力，为行业发展提供参考建议，中国饭店协会每月公开发布“中国饭店业消费指数体系”，包含“中国住宿业消费指数（China Hotel Industry Consumption Index, HCI）”与“中国餐饮业消费指数(China Catering Industry Consumption Index, CCI)”，欢迎关注。\n本篇发布的是“中国住宿业消费指数”。",
-      "url": "https://www.chinahotel.org.cn/articles/17871",
-      "primary_url": "https://www.chinahotel.org.cn/articles/17871",
-      "source": "中国饭店协会",
-      "source_name": "中国饭店协会",
+      "story_id": "story_e4ce0593c384",
+      "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
+      "url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
+      "primary_url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
+      "source": "中国旅游研究院",
+      "source_name": "中国旅游研究院",
       "sources": [
         {
-          "id": "hotelitem_e4f19d9fa626",
-          "title": "指数发布 | 中国住宿业消费指数报告（2026年5月）发布 为贯彻落实提振消费相关政策，真实反映中国住宿餐饮业市场消费情况，以数据引导促消费政策精准发力，为行业发展提供参考建议，中国饭店协会每月公开发布“中国饭店业消费指数体系”，包含“中国住宿业消费指数（China Hotel Industry Consumption Index, HCI）”与“中国餐饮业消费指数(China Catering Industry Consumption Index, CCI)”，欢迎关注。\n本篇发布的是“中国住宿业消费指数”。",
-          "url": "https://www.chinahotel.org.cn/articles/17871",
-          "source": "中国饭店协会",
-          "source_name": "中国饭店协会",
-          "site_id": "chinahotel",
-          "published_at": "2026-07-01T11:46:15.735762Z"
-        },
-        {
-          "id": "hotelitem_f293a3354c9e",
-          "title": "指数发布 | 中国餐饮业消费指数报告（2026年5月）发布 为贯彻落实提振消费相关政策，真实反映中国住宿餐饮业市场消费情况，以数据引导促消费政策精准发力，为行业发展提供参考建议，中国饭店协会每月公开发布“中国饭店业消费指数体系”，包含“中国住宿业消费指数（China Hotel Industry Consumption Index, HCI）”与“中国餐饮业消费指数(China Catering Industry Consumption Index, CCI)”，欢迎关注。\n本篇发布的是“中国餐饮业消费指数”。",
-          "url": "https://www.chinahotel.org.cn/articles/17875",
-          "source": "中国饭店协会",
-          "source_name": "中国饭店协会",
-          "site_id": "chinahotel",
-          "published_at": "2026-07-01T11:46:15.735762Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "中国饭店协会"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_e4f19d9fa626",
-          "title": "指数发布 | 中国住宿业消费指数报告（2026年5月）发布 为贯彻落实提振消费相关政策，真实反映中国住宿餐饮业市场消费情况，以数据引导促消费政策精准发力，为行业发展提供参考建议，中国饭店协会每月公开发布“中国饭店业消费指数体系”，包含“中国住宿业消费指数（China Hotel Industry Consumption Index, HCI）”与“中国餐饮业消费指数(China Catering Industry Consumption Index, CCI)”，欢迎关注。\n本篇发布的是“中国住宿业消费指数”。",
-          "url": "https://www.chinahotel.org.cn/articles/17871",
-          "source": "中国饭店协会",
-          "source_name": "中国饭店协会",
-          "site_id": "chinahotel",
-          "published_at": "2026-07-01T11:46:15.735762Z"
-        },
-        {
-          "id": "hotelitem_f293a3354c9e",
-          "title": "指数发布 | 中国餐饮业消费指数报告（2026年5月）发布 为贯彻落实提振消费相关政策，真实反映中国住宿餐饮业市场消费情况，以数据引导促消费政策精准发力，为行业发展提供参考建议，中国饭店协会每月公开发布“中国饭店业消费指数体系”，包含“中国住宿业消费指数（China Hotel Industry Consumption Index, HCI）”与“中国餐饮业消费指数(China Catering Industry Consumption Index, CCI)”，欢迎关注。\n本篇发布的是“中国餐饮业消费指数”。",
-          "url": "https://www.chinahotel.org.cn/articles/17875",
-          "source": "中国饭店协会",
-          "source_name": "中国饭店协会",
-          "site_id": "chinahotel",
-          "published_at": "2026-07-01T11:46:15.735762Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.86,
-      "importance": 0.625,
-      "importance_score": 0.86,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-01T11:46:15.735762Z",
-      "latest_at": "2026-07-01T11:46:15.735762Z",
-      "primary_item": {
-        "id": "hotelitem_e4f19d9fa626",
-        "title": "指数发布 | 中国住宿业消费指数报告（2026年5月）发布 为贯彻落实提振消费相关政策，真实反映中国住宿餐饮业市场消费情况，以数据引导促消费政策精准发力，为行业发展提供参考建议，中国饭店协会每月公开发布“中国饭店业消费指数体系”，包含“中国住宿业消费指数（China Hotel Industry Consumption Index, HCI）”与“中国餐饮业消费指数(China Catering Industry Consumption Index, CCI)”，欢迎关注。\n本篇发布的是“中国住宿业消费指数”。",
-        "url": "https://www.chinahotel.org.cn/articles/17871",
-        "source": "中国饭店协会",
-        "source_name": "中国饭店协会"
-      }
-    },
-    {
-      "story_id": "story_d0f4fa1dec28",
-      "title": "君亭酒店：控股股东及相关方终止29.99%股份转让及控制权变更",
-      "url": "https://www.meadin.com/jd/298103.html",
-      "primary_url": "https://www.meadin.com/jd/298103.html",
-      "source": "迈点研究院",
-      "source_name": "迈点研究院",
-      "sources": [
-        {
-          "id": "hotelitem_d0f4fa1dec28",
-          "title": "君亭酒店：控股股东及相关方终止29.99%股份转让及控制权变更",
-          "url": "https://www.meadin.com/jd/298103.html",
-          "source": "迈点研究院",
-          "source_name": "迈点研究院",
-          "site_id": "meadin",
-          "published_at": "2026-07-01T11:46:15.735762Z"
+          "id": "hotelitem_e4ce0593c384",
+          "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
+          "url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
+          "source": "中国旅游研究院",
+          "source_name": "中国旅游研究院",
+          "site_id": "cta",
+          "published_at": "2026-07-01T19:15:54.936352Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "迈点研究院"
+        "中国旅游研究院"
       ],
       "items": [
         {
-          "id": "hotelitem_d0f4fa1dec28",
-          "title": "君亭酒店：控股股东及相关方终止29.99%股份转让及控制权变更",
-          "url": "https://www.meadin.com/jd/298103.html",
-          "source": "迈点研究院",
-          "source_name": "迈点研究院",
-          "site_id": "meadin",
-          "published_at": "2026-07-01T11:46:15.735762Z"
+          "id": "hotelitem_e4ce0593c384",
+          "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
+          "url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
+          "source": "中国旅游研究院",
+          "source_name": "中国旅游研究院",
+          "site_id": "cta",
+          "published_at": "2026-07-01T19:15:54.936352Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.86,
+      "score": 0.858,
       "importance": 0.6,
-      "importance_score": 0.86,
+      "importance_score": 0.858,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
@@ -1720,54 +1720,54 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-01T11:46:15.735762Z",
-      "latest_at": "2026-07-01T11:46:15.735762Z",
+      "earliest_at": "2026-07-01T19:15:54.936352Z",
+      "latest_at": "2026-07-01T19:15:54.936352Z",
       "primary_item": {
-        "id": "hotelitem_d0f4fa1dec28",
-        "title": "君亭酒店：控股股东及相关方终止29.99%股份转让及控制权变更",
-        "url": "https://www.meadin.com/jd/298103.html",
-        "source": "迈点研究院",
-        "source_name": "迈点研究院"
+        "id": "hotelitem_e4ce0593c384",
+        "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
+        "url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
+        "source": "中国旅游研究院",
+        "source_name": "中国旅游研究院"
       }
     },
     {
-      "story_id": "story_cf84b2daf1e1",
-      "title": "美高梅中国2千万美元收购美高梅亚太全部股本",
-      "url": "https://www.meadin.com/jd/298081.html",
-      "primary_url": "https://www.meadin.com/jd/298081.html",
-      "source": "迈点研究院",
-      "source_name": "迈点研究院",
+      "story_id": "story_aafbd26fe946",
+      "title": "文化和旅游部端午节假期和汛期、暑期出游提示",
+      "url": "https://www.mct.gov.cn/whzx/whyw/202606/t20260605_966153.htm",
+      "primary_url": "https://www.mct.gov.cn/whzx/whyw/202606/t20260605_966153.htm",
+      "source": "文化和旅游部",
+      "source_name": "文化和旅游部",
       "sources": [
         {
-          "id": "hotelitem_cf84b2daf1e1",
-          "title": "美高梅中国2千万美元收购美高梅亚太全部股本",
-          "url": "https://www.meadin.com/jd/298081.html",
-          "source": "迈点研究院",
-          "source_name": "迈点研究院",
-          "site_id": "meadin",
-          "published_at": "2026-07-01T11:46:15.735762Z"
+          "id": "hotelitem_aafbd26fe946",
+          "title": "文化和旅游部端午节假期和汛期、暑期出游提示",
+          "url": "https://www.mct.gov.cn/whzx/whyw/202606/t20260605_966153.htm",
+          "source": "文化和旅游部",
+          "source_name": "文化和旅游部",
+          "site_id": "mct",
+          "published_at": "2026-07-01T19:15:54.936352Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "迈点研究院"
+        "文化和旅游部"
       ],
       "items": [
         {
-          "id": "hotelitem_cf84b2daf1e1",
-          "title": "美高梅中国2千万美元收购美高梅亚太全部股本",
-          "url": "https://www.meadin.com/jd/298081.html",
-          "source": "迈点研究院",
-          "source_name": "迈点研究院",
-          "site_id": "meadin",
-          "published_at": "2026-07-01T11:46:15.735762Z"
+          "id": "hotelitem_aafbd26fe946",
+          "title": "文化和旅游部端午节假期和汛期、暑期出游提示",
+          "url": "https://www.mct.gov.cn/whzx/whyw/202606/t20260605_966153.htm",
+          "source": "文化和旅游部",
+          "source_name": "文化和旅游部",
+          "site_id": "mct",
+          "published_at": "2026-07-01T19:15:54.936352Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.86,
+      "score": 0.858,
       "importance": 0.6,
-      "importance_score": 0.86,
+      "importance_score": 0.858,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
@@ -1779,73 +1779,73 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-01T11:46:15.735762Z",
-      "latest_at": "2026-07-01T11:46:15.735762Z",
+      "earliest_at": "2026-07-01T19:15:54.936352Z",
+      "latest_at": "2026-07-01T19:15:54.936352Z",
       "primary_item": {
-        "id": "hotelitem_cf84b2daf1e1",
-        "title": "美高梅中国2千万美元收购美高梅亚太全部股本",
-        "url": "https://www.meadin.com/jd/298081.html",
-        "source": "迈点研究院",
-        "source_name": "迈点研究院"
+        "id": "hotelitem_aafbd26fe946",
+        "title": "文化和旅游部端午节假期和汛期、暑期出游提示",
+        "url": "https://www.mct.gov.cn/whzx/whyw/202606/t20260605_966153.htm",
+        "source": "文化和旅游部",
+        "source_name": "文化和旅游部"
       }
     },
     {
-      "story_id": "story_d17a6c47d4e0",
-      "title": "Tuniu Announces Unaudited First Quarter 2026 Financial Results",
-      "url": "https://ir.tuniu.com/2026-06-05-Tuniu-Announces-Unaudited-First-Quarter-2026-Financial-Results",
-      "primary_url": "https://ir.tuniu.com/2026-06-05-Tuniu-Announces-Unaudited-First-Quarter-2026-Financial-Results",
-      "source": "途牛 Tuniu IR",
-      "source_name": "途牛 Tuniu IR",
+      "story_id": "story_e2295ba596c9",
+      "title": "文化和旅游部部级社科研究项目公布",
+      "url": "https://www.mct.gov.cn/whzx/bnsj/whkjs/202606/t20260617_966274.html",
+      "primary_url": "https://www.mct.gov.cn/whzx/bnsj/whkjs/202606/t20260617_966274.html",
+      "source": "文化和旅游部",
+      "source_name": "文化和旅游部",
       "sources": [
         {
-          "id": "hotelitem_d17a6c47d4e0",
-          "title": "Tuniu Announces Unaudited First Quarter 2026 Financial Results",
-          "url": "https://ir.tuniu.com/2026-06-05-Tuniu-Announces-Unaudited-First-Quarter-2026-Financial-Results",
-          "source": "途牛 Tuniu IR",
-          "source_name": "途牛 Tuniu IR",
-          "site_id": "tuniu_ir",
-          "published_at": "2026-06-05T10:00:00Z"
+          "id": "hotelitem_e2295ba596c9",
+          "title": "文化和旅游部部级社科研究项目公布",
+          "url": "https://www.mct.gov.cn/whzx/bnsj/whkjs/202606/t20260617_966274.html",
+          "source": "文化和旅游部",
+          "source_name": "文化和旅游部",
+          "site_id": "mct",
+          "published_at": "2026-07-01T19:15:54.936352Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "途牛 Tuniu IR"
+        "文化和旅游部"
       ],
       "items": [
         {
-          "id": "hotelitem_d17a6c47d4e0",
-          "title": "Tuniu Announces Unaudited First Quarter 2026 Financial Results",
-          "url": "https://ir.tuniu.com/2026-06-05-Tuniu-Announces-Unaudited-First-Quarter-2026-Financial-Results",
-          "source": "途牛 Tuniu IR",
-          "source_name": "途牛 Tuniu IR",
-          "site_id": "tuniu_ir",
-          "published_at": "2026-06-05T10:00:00Z"
+          "id": "hotelitem_e2295ba596c9",
+          "title": "文化和旅游部部级社科研究项目公布",
+          "url": "https://www.mct.gov.cn/whzx/bnsj/whkjs/202606/t20260617_966274.html",
+          "source": "文化和旅游部",
+          "source_name": "文化和旅游部",
+          "site_id": "mct",
+          "published_at": "2026-07-01T19:15:54.936352Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8581,
-      "importance": 0.4841,
-      "importance_score": 0.8581,
+      "score": 0.858,
+      "importance": 0.6,
+      "importance_score": 0.858,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.4206,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "watch",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-06-05T10:00:00Z",
-      "latest_at": "2026-06-05T10:00:00Z",
+      "earliest_at": "2026-07-01T19:15:54.936352Z",
+      "latest_at": "2026-07-01T19:15:54.936352Z",
       "primary_item": {
-        "id": "hotelitem_d17a6c47d4e0",
-        "title": "Tuniu Announces Unaudited First Quarter 2026 Financial Results",
-        "url": "https://ir.tuniu.com/2026-06-05-Tuniu-Announces-Unaudited-First-Quarter-2026-Financial-Results",
-        "source": "途牛 Tuniu IR",
-        "source_name": "途牛 Tuniu IR"
+        "id": "hotelitem_e2295ba596c9",
+        "title": "文化和旅游部部级社科研究项目公布",
+        "url": "https://www.mct.gov.cn/whzx/bnsj/whkjs/202606/t20260617_966274.html",
+        "source": "文化和旅游部",
+        "source_name": "文化和旅游部"
       }
     }
   ]
