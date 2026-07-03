@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-02T22:18:34.708490Z",
+  "generated_at": "2026-07-03T10:17:37.793449Z",
   "window_hours": 1080,
   "total_stories": 30,
   "stories": [
@@ -38,14 +38,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 1.0,
-      "importance": 0.5886,
-      "importance_score": 1.0,
+      "score": 0.9994,
+      "importance": 0.5864,
+      "importance_score": 0.9994,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.943,
+        "recency": 0.9319,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -60,6 +60,124 @@
         "url": "https://www.traveldaily.cn/article/190301",
         "source": "环球旅讯 TravelDaily",
         "source_name": "环球旅讯 TravelDaily"
+      }
+    },
+    {
+      "story_id": "story_bfc6421d7883",
+      "title": "Hilton expands Florida Keys Portfolio with the debut of Hilton Key West Resort & Marina",
+      "url": "https://insights.ehotelier.com/properties/2026/07/03/hilton-expands-florida-keys-portfolio-with-the-debut-of-hilton-key-west-resort-marina/?utm_source=rss&utm_medium=rss&utm_campaign=hilton-expands-florida-keys-portfolio-with-the-debut-of-hilton-key-west-resort-marina",
+      "primary_url": "https://insights.ehotelier.com/properties/2026/07/03/hilton-expands-florida-keys-portfolio-with-the-debut-of-hilton-key-west-resort-marina/?utm_source=rss&utm_medium=rss&utm_campaign=hilton-expands-florida-keys-portfolio-with-the-debut-of-hilton-key-west-resort-marina",
+      "source": "eHotelier",
+      "source_name": "eHotelier",
+      "sources": [
+        {
+          "id": "hotelitem_bfc6421d7883",
+          "title": "Hilton expands Florida Keys Portfolio with the debut of Hilton Key West Resort & Marina",
+          "url": "https://insights.ehotelier.com/properties/2026/07/03/hilton-expands-florida-keys-portfolio-with-the-debut-of-hilton-key-west-resort-marina/?utm_source=rss&utm_medium=rss&utm_campaign=hilton-expands-florida-keys-portfolio-with-the-debut-of-hilton-key-west-resort-marina",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-07-03T01:41:31Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "eHotelier"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_bfc6421d7883",
+          "title": "Hilton expands Florida Keys Portfolio with the debut of Hilton Key West Resort & Marina",
+          "url": "https://insights.ehotelier.com/properties/2026/07/03/hilton-expands-florida-keys-portfolio-with-the-debut-of-hilton-key-west-resort-marina/?utm_source=rss&utm_medium=rss&utm_campaign=hilton-expands-florida-keys-portfolio-with-the-debut-of-hilton-key-west-resort-marina",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-07-03T01:41:31Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.9535,
+      "importance": 0.5984,
+      "importance_score": 0.9535,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.992,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-03T01:41:31Z",
+      "latest_at": "2026-07-03T01:41:31Z",
+      "primary_item": {
+        "id": "hotelitem_bfc6421d7883",
+        "title": "Hilton expands Florida Keys Portfolio with the debut of Hilton Key West Resort & Marina",
+        "url": "https://insights.ehotelier.com/properties/2026/07/03/hilton-expands-florida-keys-portfolio-with-the-debut-of-hilton-key-west-resort-marina/?utm_source=rss&utm_medium=rss&utm_campaign=hilton-expands-florida-keys-portfolio-with-the-debut-of-hilton-key-west-resort-marina",
+        "source": "eHotelier",
+        "source_name": "eHotelier"
+      }
+    },
+    {
+      "story_id": "story_f81d438218e7",
+      "title": "Sajit Sebastian appointed as Director of Sales & Marketing at Hyatt Regency Trivandrum",
+      "url": "https://insights.ehotelier.com/people/2026/07/03/sajit-sebastian-appointed-as-director-of-sales-marketing-at-hyatt-regency-trivandrum/?utm_source=rss&utm_medium=rss&utm_campaign=sajit-sebastian-appointed-as-director-of-sales-marketing-at-hyatt-regency-trivandrum",
+      "primary_url": "https://insights.ehotelier.com/people/2026/07/03/sajit-sebastian-appointed-as-director-of-sales-marketing-at-hyatt-regency-trivandrum/?utm_source=rss&utm_medium=rss&utm_campaign=sajit-sebastian-appointed-as-director-of-sales-marketing-at-hyatt-regency-trivandrum",
+      "source": "eHotelier",
+      "source_name": "eHotelier",
+      "sources": [
+        {
+          "id": "hotelitem_f81d438218e7",
+          "title": "Sajit Sebastian appointed as Director of Sales & Marketing at Hyatt Regency Trivandrum",
+          "url": "https://insights.ehotelier.com/people/2026/07/03/sajit-sebastian-appointed-as-director-of-sales-marketing-at-hyatt-regency-trivandrum/?utm_source=rss&utm_medium=rss&utm_campaign=sajit-sebastian-appointed-as-director-of-sales-marketing-at-hyatt-regency-trivandrum",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-07-03T01:46:56Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "eHotelier"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_f81d438218e7",
+          "title": "Sajit Sebastian appointed as Director of Sales & Marketing at Hyatt Regency Trivandrum",
+          "url": "https://insights.ehotelier.com/people/2026/07/03/sajit-sebastian-appointed-as-director-of-sales-marketing-at-hyatt-regency-trivandrum/?utm_source=rss&utm_medium=rss&utm_campaign=sajit-sebastian-appointed-as-director-of-sales-marketing-at-hyatt-regency-trivandrum",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-07-03T01:46:56Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.9535,
+      "importance": 0.5984,
+      "importance_score": 0.9535,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9921,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-03T01:46:56Z",
+      "latest_at": "2026-07-03T01:46:56Z",
+      "primary_item": {
+        "id": "hotelitem_f81d438218e7",
+        "title": "Sajit Sebastian appointed as Director of Sales & Marketing at Hyatt Regency Trivandrum",
+        "url": "https://insights.ehotelier.com/people/2026/07/03/sajit-sebastian-appointed-as-director-of-sales-marketing-at-hyatt-regency-trivandrum/?utm_source=rss&utm_medium=rss&utm_campaign=sajit-sebastian-appointed-as-director-of-sales-marketing-at-hyatt-regency-trivandrum",
+        "source": "eHotelier",
+        "source_name": "eHotelier"
       }
     },
     {
@@ -97,14 +215,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9543,
-      "importance": 0.5992,
-      "importance_score": 0.9543,
+      "score": 0.9521,
+      "importance": 0.597,
+      "importance_score": 0.9521,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9962,
+        "recency": 0.9851,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -156,14 +274,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9491,
-      "importance": 0.5939,
-      "importance_score": 0.9491,
+      "score": 0.9469,
+      "importance": 0.5916,
+      "importance_score": 0.9469,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9693,
+        "recency": 0.9582,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -215,14 +333,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9461,
-      "importance": 0.5908,
-      "importance_score": 0.9461,
+      "score": 0.9439,
+      "importance": 0.5885,
+      "importance_score": 0.9439,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9538,
+        "recency": 0.9427,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -274,14 +392,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9411,
-      "importance": 0.5856,
-      "importance_score": 0.9411,
+      "score": 0.9389,
+      "importance": 0.5833,
+      "importance_score": 0.9389,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9278,
+        "recency": 0.9167,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -333,14 +451,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.929,
-      "importance": 0.5886,
-      "importance_score": 0.929,
+      "score": 0.9269,
+      "importance": 0.5864,
+      "importance_score": 0.9269,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9431,
+        "recency": 0.932,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -392,14 +510,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9279,
-      "importance": 0.5719,
-      "importance_score": 0.9279,
+      "score": 0.9257,
+      "importance": 0.5697,
+      "importance_score": 0.9257,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8594,
+        "recency": 0.8483,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -431,7 +549,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-02T22:18:34.708490Z"
+          "published_at": "2026-07-03T10:17:37.793449Z"
         },
         {
           "id": "hotelitem_c7c15b7680c9",
@@ -440,7 +558,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-02T22:18:34.708490Z"
+          "published_at": "2026-07-03T10:17:37.793449Z"
         },
         {
           "id": "hotelitem_6d8fa145e8af",
@@ -449,7 +567,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-02T22:18:34.708490Z"
+          "published_at": "2026-07-03T10:17:37.793449Z"
         }
       ],
       "source_count": 3,
@@ -464,7 +582,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-02T22:18:34.708490Z"
+          "published_at": "2026-07-03T10:17:37.793449Z"
         },
         {
           "id": "hotelitem_c7c15b7680c9",
@@ -473,7 +591,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-02T22:18:34.708490Z"
+          "published_at": "2026-07-03T10:17:37.793449Z"
         },
         {
           "id": "hotelitem_6d8fa145e8af",
@@ -482,7 +600,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-02T22:18:34.708490Z"
+          "published_at": "2026-07-03T10:17:37.793449Z"
         }
       ],
       "item_count": 3,
@@ -502,8 +620,8 @@
         "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-02T22:18:34.708490Z",
-      "latest_at": "2026-07-02T22:18:34.708490Z",
+      "earliest_at": "2026-07-03T10:17:37.793449Z",
+      "latest_at": "2026-07-03T10:17:37.793449Z",
       "primary_item": {
         "id": "hotelitem_d4370964909c",
         "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
@@ -547,14 +665,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9034,
-      "importance": 0.5802,
-      "importance_score": 0.9034,
+      "score": 0.9012,
+      "importance": 0.5779,
+      "importance_score": 0.9012,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9008,
+        "recency": 0.8897,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -586,7 +704,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-07-02T22:18:34.708490Z"
+          "published_at": "2026-07-03T10:17:37.793449Z"
         }
       ],
       "source_count": 1,
@@ -601,7 +719,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-07-02T22:18:34.708490Z"
+          "published_at": "2026-07-03T10:17:37.793449Z"
         }
       ],
       "item_count": 1,
@@ -620,8 +738,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-02T22:18:34.708490Z",
-      "latest_at": "2026-07-02T22:18:34.708490Z",
+      "earliest_at": "2026-07-03T10:17:37.793449Z",
+      "latest_at": "2026-07-03T10:17:37.793449Z",
       "primary_item": {
         "id": "hotelitem_86885009de08",
         "title": "文旅惠报|岭南控股与重庆黔江区签署战略合作协议；厦门国有资本牵手阿那亚，打造集美岛滨海文旅项目",
@@ -645,7 +763,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-07-02T22:18:34.708490Z"
+          "published_at": "2026-07-03T10:17:37.793449Z"
         }
       ],
       "source_count": 1,
@@ -660,7 +778,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-07-02T22:18:34.708490Z"
+          "published_at": "2026-07-03T10:17:37.793449Z"
         }
       ],
       "item_count": 1,
@@ -679,8 +797,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-02T22:18:34.708490Z",
-      "latest_at": "2026-07-02T22:18:34.708490Z",
+      "earliest_at": "2026-07-03T10:17:37.793449Z",
+      "latest_at": "2026-07-03T10:17:37.793449Z",
       "primary_item": {
         "id": "hotelitem_d94f35b8bbdc",
         "title": "文旅惠报|开封清明上河园向港交所提交上市申请；万豪国际全球酒店数量正式破万家",
@@ -704,7 +822,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-07-02T22:18:34.708490Z"
+          "published_at": "2026-07-03T10:17:37.793449Z"
         }
       ],
       "source_count": 1,
@@ -719,7 +837,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-07-02T22:18:34.708490Z"
+          "published_at": "2026-07-03T10:17:37.793449Z"
         }
       ],
       "item_count": 1,
@@ -738,8 +856,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-02T22:18:34.708490Z",
-      "latest_at": "2026-07-02T22:18:34.708490Z",
+      "earliest_at": "2026-07-03T10:17:37.793449Z",
+      "latest_at": "2026-07-03T10:17:37.793449Z",
       "primary_item": {
         "id": "hotelitem_7a0aafcf6ecc",
         "title": "文旅惠报|澳门银河与Trip.com签订三年战略合作协议；盈新发展转让西宁置业100%股权",
@@ -763,7 +881,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-07-02T22:18:34.708490Z"
+          "published_at": "2026-07-03T10:17:37.793449Z"
         }
       ],
       "source_count": 1,
@@ -778,7 +896,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-07-02T22:18:34.708490Z"
+          "published_at": "2026-07-03T10:17:37.793449Z"
         }
       ],
       "item_count": 1,
@@ -797,8 +915,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-02T22:18:34.708490Z",
-      "latest_at": "2026-07-02T22:18:34.708490Z",
+      "earliest_at": "2026-07-03T10:17:37.793449Z",
+      "latest_at": "2026-07-03T10:17:37.793449Z",
       "primary_item": {
         "id": "hotelitem_8bd428772b3b",
         "title": "文旅惠报|许铭出任锦江国际集团总裁；西藏旅游拟以6970.65万元公积金弥补累计亏损",
@@ -822,7 +940,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-07-02T22:18:34.708490Z"
+          "published_at": "2026-07-03T10:17:37.793449Z"
         }
       ],
       "source_count": 1,
@@ -837,7 +955,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-07-02T22:18:34.708490Z"
+          "published_at": "2026-07-03T10:17:37.793449Z"
         }
       ],
       "item_count": 1,
@@ -856,14 +974,191 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-02T22:18:34.708490Z",
-      "latest_at": "2026-07-02T22:18:34.708490Z",
+      "earliest_at": "2026-07-03T10:17:37.793449Z",
+      "latest_at": "2026-07-03T10:17:37.793449Z",
       "primary_item": {
         "id": "hotelitem_4966ad3512b4",
         "title": "文旅惠报|雅高集团CEO宣布2028年卸任；众信优游与中视实业集团达成深度合作",
         "url": "https://www.tripvivid.com/47431.html",
         "source": "执惠 TripVivid",
         "source_name": "执惠 TripVivid"
+      }
+    },
+    {
+      "story_id": "story_e4e723c15a04",
+      "title": "Food Delivery Apps are the new OTAs – and they are quietly eating your hotel’s F&B revenue",
+      "url": "https://insights.ehotelier.com/suppliers/2026/07/03/food-delivery-apps-are-the-new-otas-and-they-are-quietly-eating-your-hotels-fb-revenue/?utm_source=rss&utm_medium=rss&utm_campaign=food-delivery-apps-are-the-new-otas-and-they-are-quietly-eating-your-hotels-fb-revenue",
+      "primary_url": "https://insights.ehotelier.com/suppliers/2026/07/03/food-delivery-apps-are-the-new-otas-and-they-are-quietly-eating-your-hotels-fb-revenue/?utm_source=rss&utm_medium=rss&utm_campaign=food-delivery-apps-are-the-new-otas-and-they-are-quietly-eating-your-hotels-fb-revenue",
+      "source": "eHotelier",
+      "source_name": "eHotelier",
+      "sources": [
+        {
+          "id": "hotelitem_e4e723c15a04",
+          "title": "Food Delivery Apps are the new OTAs – and they are quietly eating your hotel’s F&B revenue",
+          "url": "https://insights.ehotelier.com/suppliers/2026/07/03/food-delivery-apps-are-the-new-otas-and-they-are-quietly-eating-your-hotels-fb-revenue/?utm_source=rss&utm_medium=rss&utm_campaign=food-delivery-apps-are-the-new-otas-and-they-are-quietly-eating-your-hotels-fb-revenue",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-07-03T02:18:47Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "eHotelier"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_e4e723c15a04",
+          "title": "Food Delivery Apps are the new OTAs – and they are quietly eating your hotel’s F&B revenue",
+          "url": "https://insights.ehotelier.com/suppliers/2026/07/03/food-delivery-apps-are-the-new-otas-and-they-are-quietly-eating-your-hotels-fb-revenue/?utm_source=rss&utm_medium=rss&utm_campaign=food-delivery-apps-are-the-new-otas-and-they-are-quietly-eating-your-hotels-fb-revenue",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-07-03T02:18:47Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8636,
+      "importance": 0.5985,
+      "importance_score": 0.8636,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9926,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-03T02:18:47Z",
+      "latest_at": "2026-07-03T02:18:47Z",
+      "primary_item": {
+        "id": "hotelitem_e4e723c15a04",
+        "title": "Food Delivery Apps are the new OTAs – and they are quietly eating your hotel’s F&B revenue",
+        "url": "https://insights.ehotelier.com/suppliers/2026/07/03/food-delivery-apps-are-the-new-otas-and-they-are-quietly-eating-your-hotels-fb-revenue/?utm_source=rss&utm_medium=rss&utm_campaign=food-delivery-apps-are-the-new-otas-and-they-are-quietly-eating-your-hotels-fb-revenue",
+        "source": "eHotelier",
+        "source_name": "eHotelier"
+      }
+    },
+    {
+      "story_id": "story_f76fbb220b14",
+      "title": "Creating the Caribbean’s First Longevity Village with TheLifeCo Saint Lucia",
+      "url": "https://insights.ehotelier.com/insights/2026/07/03/creating-the-caribbeans-first-longevity-village-with-thelifeco-saint-lucia/?utm_source=rss&utm_medium=rss&utm_campaign=creating-the-caribbeans-first-longevity-village-with-thelifeco-saint-lucia",
+      "primary_url": "https://insights.ehotelier.com/insights/2026/07/03/creating-the-caribbeans-first-longevity-village-with-thelifeco-saint-lucia/?utm_source=rss&utm_medium=rss&utm_campaign=creating-the-caribbeans-first-longevity-village-with-thelifeco-saint-lucia",
+      "source": "eHotelier",
+      "source_name": "eHotelier",
+      "sources": [
+        {
+          "id": "hotelitem_f76fbb220b14",
+          "title": "Creating the Caribbean’s First Longevity Village with TheLifeCo Saint Lucia",
+          "url": "https://insights.ehotelier.com/insights/2026/07/03/creating-the-caribbeans-first-longevity-village-with-thelifeco-saint-lucia/?utm_source=rss&utm_medium=rss&utm_campaign=creating-the-caribbeans-first-longevity-village-with-thelifeco-saint-lucia",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-07-03T02:25:40Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "eHotelier"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_f76fbb220b14",
+          "title": "Creating the Caribbean’s First Longevity Village with TheLifeCo Saint Lucia",
+          "url": "https://insights.ehotelier.com/insights/2026/07/03/creating-the-caribbeans-first-longevity-village-with-thelifeco-saint-lucia/?utm_source=rss&utm_medium=rss&utm_campaign=creating-the-caribbeans-first-longevity-village-with-thelifeco-saint-lucia",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-07-03T02:25:40Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8636,
+      "importance": 0.5985,
+      "importance_score": 0.8636,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9927,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-03T02:25:40Z",
+      "latest_at": "2026-07-03T02:25:40Z",
+      "primary_item": {
+        "id": "hotelitem_f76fbb220b14",
+        "title": "Creating the Caribbean’s First Longevity Village with TheLifeCo Saint Lucia",
+        "url": "https://insights.ehotelier.com/insights/2026/07/03/creating-the-caribbeans-first-longevity-village-with-thelifeco-saint-lucia/?utm_source=rss&utm_medium=rss&utm_campaign=creating-the-caribbeans-first-longevity-village-with-thelifeco-saint-lucia",
+        "source": "eHotelier",
+        "source_name": "eHotelier"
+      }
+    },
+    {
+      "story_id": "story_122e2acae0d2",
+      "title": "Emirates arrives in Cape Town with a third daily service and its newest air",
+      "url": "https://insights.ehotelier.com/global-news/2026/07/03/emirates-arrives-in-cape-town-with-a-third-daily-service-and-its-newest-air/?utm_source=rss&utm_medium=rss&utm_campaign=emirates-arrives-in-cape-town-with-a-third-daily-service-and-its-newest-air",
+      "primary_url": "https://insights.ehotelier.com/global-news/2026/07/03/emirates-arrives-in-cape-town-with-a-third-daily-service-and-its-newest-air/?utm_source=rss&utm_medium=rss&utm_campaign=emirates-arrives-in-cape-town-with-a-third-daily-service-and-its-newest-air",
+      "source": "eHotelier",
+      "source_name": "eHotelier",
+      "sources": [
+        {
+          "id": "hotelitem_122e2acae0d2",
+          "title": "Emirates arrives in Cape Town with a third daily service and its newest air",
+          "url": "https://insights.ehotelier.com/global-news/2026/07/03/emirates-arrives-in-cape-town-with-a-third-daily-service-and-its-newest-air/?utm_source=rss&utm_medium=rss&utm_campaign=emirates-arrives-in-cape-town-with-a-third-daily-service-and-its-newest-air",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-07-03T01:57:30Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "eHotelier"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_122e2acae0d2",
+          "title": "Emirates arrives in Cape Town with a third daily service and its newest air",
+          "url": "https://insights.ehotelier.com/global-news/2026/07/03/emirates-arrives-in-cape-town-with-a-third-daily-service-and-its-newest-air/?utm_source=rss&utm_medium=rss&utm_campaign=emirates-arrives-in-cape-town-with-a-third-daily-service-and-its-newest-air",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-07-03T01:57:30Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8635,
+      "importance": 0.5985,
+      "importance_score": 0.8635,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9923,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-03T01:57:30Z",
+      "latest_at": "2026-07-03T01:57:30Z",
+      "primary_item": {
+        "id": "hotelitem_122e2acae0d2",
+        "title": "Emirates arrives in Cape Town with a third daily service and its newest air",
+        "url": "https://insights.ehotelier.com/global-news/2026/07/03/emirates-arrives-in-cape-town-with-a-third-daily-service-and-its-newest-air/?utm_source=rss&utm_medium=rss&utm_campaign=emirates-arrives-in-cape-town-with-a-third-daily-service-and-its-newest-air",
+        "source": "eHotelier",
+        "source_name": "eHotelier"
       }
     },
     {
@@ -901,14 +1196,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8636,
-      "importance": 0.5985,
-      "importance_score": 0.8636,
+      "score": 0.8614,
+      "importance": 0.5963,
+      "importance_score": 0.8614,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9925,
+        "recency": 0.9814,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -926,61 +1221,61 @@
       }
     },
     {
-      "story_id": "story_9a9bbd51ed3f",
-      "title": "Agoda Reveals Growing Interest Among Japanes ... Singapore, 10 June 2026: Agoda Company Pte. Ltd. (Headquarters: Singapore; CEO: Omri Morgenshtern), wh ... June 10, 2026 / Travel Trends",
-      "url": "https://www.agoda.com/press/agoda-reveals-growing-interest-among-japanese-travelers-ahead-of-global-football-event-in-summer-2026/",
-      "primary_url": "https://www.agoda.com/press/agoda-reveals-growing-interest-among-japanese-travelers-ahead-of-global-football-event-in-summer-2026/",
-      "source": "Agoda",
-      "source_name": "Agoda",
+      "story_id": "story_f293a3354c9e",
+      "title": "指数发布 | 中国住宿业消费指数报告（2026年5月）发布 为贯彻落实提振消费相关政策，真实反映中国住宿餐饮业市场消费情况，以数据引导促消费政策精准发力，为行业发展提供参考建议，中国饭店协会每月公开发布“中国饭店业消费指数体系”，包含“中国住宿业消费指数（China Hotel Industry Consumption Index, HCI）”与“中国餐饮业消费指数(China Catering Industry Consumption Index, CCI)”，欢迎关注。\n本篇发布的是“中国住宿业消费指数”。",
+      "url": "https://www.chinahotel.org.cn/articles/17871",
+      "primary_url": "https://www.chinahotel.org.cn/articles/17871",
+      "source": "中国饭店协会",
+      "source_name": "中国饭店协会",
       "sources": [
         {
-          "id": "hotelitem_c1356ce1f577",
-          "title": "Agoda Reveals Growing Interest Among Japanes ... Singapore, 10 June 2026: Agoda Company Pte. Ltd. (Headquarters: Singapore; CEO: Omri Morgenshtern), wh ... June 10, 2026 / Travel Trends",
-          "url": "https://www.agoda.com/press/agoda-reveals-growing-interest-among-japanese-travelers-ahead-of-global-football-event-in-summer-2026/",
-          "source": "Agoda",
-          "source_name": "Agoda",
-          "site_id": "agoda_press",
-          "published_at": "2026-07-02T22:18:34.708490Z"
+          "id": "hotelitem_e4f19d9fa626",
+          "title": "指数发布 | 中国住宿业消费指数报告（2026年5月）发布 为贯彻落实提振消费相关政策，真实反映中国住宿餐饮业市场消费情况，以数据引导促消费政策精准发力，为行业发展提供参考建议，中国饭店协会每月公开发布“中国饭店业消费指数体系”，包含“中国住宿业消费指数（China Hotel Industry Consumption Index, HCI）”与“中国餐饮业消费指数(China Catering Industry Consumption Index, CCI)”，欢迎关注。\n本篇发布的是“中国住宿业消费指数”。",
+          "url": "https://www.chinahotel.org.cn/articles/17871",
+          "source": "中国饭店协会",
+          "source_name": "中国饭店协会",
+          "site_id": "chinahotel",
+          "published_at": "2026-07-03T10:17:37.793449Z"
         },
         {
-          "id": "hotelitem_9a9bbd51ed3f",
-          "title": "Agoda Reveals Rising Travel Interest Ahead o ... Singapore, 25 June 2026: Agoda Company Pte. Ltd. (Headquarters: Singapore; CEO: Omri Morgenshtern), wh ... June 25, 2026 / Travel Trends",
-          "url": "https://www.agoda.com/press/agoda-reveals-rising-travel-interest-ahead-of-japans-2026-summer-music-festival-season/",
-          "source": "Agoda",
-          "source_name": "Agoda",
-          "site_id": "agoda_press",
-          "published_at": "2026-07-02T22:18:34.708490Z"
+          "id": "hotelitem_f293a3354c9e",
+          "title": "指数发布 | 中国餐饮业消费指数报告（2026年5月）发布 为贯彻落实提振消费相关政策，真实反映中国住宿餐饮业市场消费情况，以数据引导促消费政策精准发力，为行业发展提供参考建议，中国饭店协会每月公开发布“中国饭店业消费指数体系”，包含“中国住宿业消费指数（China Hotel Industry Consumption Index, HCI）”与“中国餐饮业消费指数(China Catering Industry Consumption Index, CCI)”，欢迎关注。\n本篇发布的是“中国餐饮业消费指数”。",
+          "url": "https://www.chinahotel.org.cn/articles/17875",
+          "source": "中国饭店协会",
+          "source_name": "中国饭店协会",
+          "site_id": "chinahotel",
+          "published_at": "2026-07-03T10:17:37.793449Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Agoda"
+        "中国饭店协会"
       ],
       "items": [
         {
-          "id": "hotelitem_c1356ce1f577",
-          "title": "Agoda Reveals Growing Interest Among Japanes ... Singapore, 10 June 2026: Agoda Company Pte. Ltd. (Headquarters: Singapore; CEO: Omri Morgenshtern), wh ... June 10, 2026 / Travel Trends",
-          "url": "https://www.agoda.com/press/agoda-reveals-growing-interest-among-japanese-travelers-ahead-of-global-football-event-in-summer-2026/",
-          "source": "Agoda",
-          "source_name": "Agoda",
-          "site_id": "agoda_press",
-          "published_at": "2026-07-02T22:18:34.708490Z"
+          "id": "hotelitem_e4f19d9fa626",
+          "title": "指数发布 | 中国住宿业消费指数报告（2026年5月）发布 为贯彻落实提振消费相关政策，真实反映中国住宿餐饮业市场消费情况，以数据引导促消费政策精准发力，为行业发展提供参考建议，中国饭店协会每月公开发布“中国饭店业消费指数体系”，包含“中国住宿业消费指数（China Hotel Industry Consumption Index, HCI）”与“中国餐饮业消费指数(China Catering Industry Consumption Index, CCI)”，欢迎关注。\n本篇发布的是“中国住宿业消费指数”。",
+          "url": "https://www.chinahotel.org.cn/articles/17871",
+          "source": "中国饭店协会",
+          "source_name": "中国饭店协会",
+          "site_id": "chinahotel",
+          "published_at": "2026-07-03T10:17:37.793449Z"
         },
         {
-          "id": "hotelitem_9a9bbd51ed3f",
-          "title": "Agoda Reveals Rising Travel Interest Ahead o ... Singapore, 25 June 2026: Agoda Company Pte. Ltd. (Headquarters: Singapore; CEO: Omri Morgenshtern), wh ... June 25, 2026 / Travel Trends",
-          "url": "https://www.agoda.com/press/agoda-reveals-rising-travel-interest-ahead-of-japans-2026-summer-music-festival-season/",
-          "source": "Agoda",
-          "source_name": "Agoda",
-          "site_id": "agoda_press",
-          "published_at": "2026-07-02T22:18:34.708490Z"
+          "id": "hotelitem_f293a3354c9e",
+          "title": "指数发布 | 中国餐饮业消费指数报告（2026年5月）发布 为贯彻落实提振消费相关政策，真实反映中国住宿餐饮业市场消费情况，以数据引导促消费政策精准发力，为行业发展提供参考建议，中国饭店协会每月公开发布“中国饭店业消费指数体系”，包含“中国住宿业消费指数（China Hotel Industry Consumption Index, HCI）”与“中国餐饮业消费指数(China Catering Industry Consumption Index, CCI)”，欢迎关注。\n本篇发布的是“中国餐饮业消费指数”。",
+          "url": "https://www.chinahotel.org.cn/articles/17875",
+          "source": "中国饭店协会",
+          "source_name": "中国饭店协会",
+          "site_id": "chinahotel",
+          "published_at": "2026-07-03T10:17:37.793449Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8625,
+      "score": 0.86,
       "importance": 0.625,
-      "importance_score": 0.8625,
+      "importance_score": 0.86,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
@@ -993,191 +1288,14 @@
         "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-02T22:18:34.708490Z",
-      "latest_at": "2026-07-02T22:18:34.708490Z",
+      "earliest_at": "2026-07-03T10:17:37.793449Z",
+      "latest_at": "2026-07-03T10:17:37.793449Z",
       "primary_item": {
-        "id": "hotelitem_c1356ce1f577",
-        "title": "Agoda Reveals Growing Interest Among Japanes ... Singapore, 10 June 2026: Agoda Company Pte. Ltd. (Headquarters: Singapore; CEO: Omri Morgenshtern), wh ... June 10, 2026 / Travel Trends",
-        "url": "https://www.agoda.com/press/agoda-reveals-growing-interest-among-japanese-travelers-ahead-of-global-football-event-in-summer-2026/",
-        "source": "Agoda",
-        "source_name": "Agoda"
-      }
-    },
-    {
-      "story_id": "story_8fd954afdc32",
-      "title": "Four distinct luxury mindsets reshaping travel in Asia Pacific",
-      "url": "https://insights.ehotelier.com/global-news/2026/07/02/four-distinct-luxury-mindsets-reshaping-travel-in-asia-pacific/?utm_source=rss&utm_medium=rss&utm_campaign=four-distinct-luxury-mindsets-reshaping-travel-in-asia-pacific",
-      "primary_url": "https://insights.ehotelier.com/global-news/2026/07/02/four-distinct-luxury-mindsets-reshaping-travel-in-asia-pacific/?utm_source=rss&utm_medium=rss&utm_campaign=four-distinct-luxury-mindsets-reshaping-travel-in-asia-pacific",
-      "source": "eHotelier",
-      "source_name": "eHotelier",
-      "sources": [
-        {
-          "id": "hotelitem_8fd954afdc32",
-          "title": "Four distinct luxury mindsets reshaping travel in Asia Pacific",
-          "url": "https://insights.ehotelier.com/global-news/2026/07/02/four-distinct-luxury-mindsets-reshaping-travel-in-asia-pacific/?utm_source=rss&utm_medium=rss&utm_campaign=four-distinct-luxury-mindsets-reshaping-travel-in-asia-pacific",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-07-02T00:49:09Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "eHotelier"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_8fd954afdc32",
-          "title": "Four distinct luxury mindsets reshaping travel in Asia Pacific",
-          "url": "https://insights.ehotelier.com/global-news/2026/07/02/four-distinct-luxury-mindsets-reshaping-travel-in-asia-pacific/?utm_source=rss&utm_medium=rss&utm_campaign=four-distinct-luxury-mindsets-reshaping-travel-in-asia-pacific",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-07-02T00:49:09Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8612,
-      "importance": 0.596,
-      "importance_score": 0.8612,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9801,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-02T00:49:09Z",
-      "latest_at": "2026-07-02T00:49:09Z",
-      "primary_item": {
-        "id": "hotelitem_8fd954afdc32",
-        "title": "Four distinct luxury mindsets reshaping travel in Asia Pacific",
-        "url": "https://insights.ehotelier.com/global-news/2026/07/02/four-distinct-luxury-mindsets-reshaping-travel-in-asia-pacific/?utm_source=rss&utm_medium=rss&utm_campaign=four-distinct-luxury-mindsets-reshaping-travel-in-asia-pacific",
-        "source": "eHotelier",
-        "source_name": "eHotelier"
-      }
-    },
-    {
-      "story_id": "story_cf40d6ca34ab",
-      "title": "Nonius TV+ & Mobile now integrate with Guesty PMS",
-      "url": "https://insights.ehotelier.com/suppliers/2026/07/02/nonius-tv-mobile-now-integrate-with-guesty-pms/?utm_source=rss&utm_medium=rss&utm_campaign=nonius-tv-mobile-now-integrate-with-guesty-pms",
-      "primary_url": "https://insights.ehotelier.com/suppliers/2026/07/02/nonius-tv-mobile-now-integrate-with-guesty-pms/?utm_source=rss&utm_medium=rss&utm_campaign=nonius-tv-mobile-now-integrate-with-guesty-pms",
-      "source": "eHotelier",
-      "source_name": "eHotelier",
-      "sources": [
-        {
-          "id": "hotelitem_cf40d6ca34ab",
-          "title": "Nonius TV+ & Mobile now integrate with Guesty PMS",
-          "url": "https://insights.ehotelier.com/suppliers/2026/07/02/nonius-tv-mobile-now-integrate-with-guesty-pms/?utm_source=rss&utm_medium=rss&utm_campaign=nonius-tv-mobile-now-integrate-with-guesty-pms",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-07-02T00:58:29Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "eHotelier"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_cf40d6ca34ab",
-          "title": "Nonius TV+ & Mobile now integrate with Guesty PMS",
-          "url": "https://insights.ehotelier.com/suppliers/2026/07/02/nonius-tv-mobile-now-integrate-with-guesty-pms/?utm_source=rss&utm_medium=rss&utm_campaign=nonius-tv-mobile-now-integrate-with-guesty-pms",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-07-02T00:58:29Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8612,
-      "importance": 0.596,
-      "importance_score": 0.8612,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9802,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-02T00:58:29Z",
-      "latest_at": "2026-07-02T00:58:29Z",
-      "primary_item": {
-        "id": "hotelitem_cf40d6ca34ab",
-        "title": "Nonius TV+ & Mobile now integrate with Guesty PMS",
-        "url": "https://insights.ehotelier.com/suppliers/2026/07/02/nonius-tv-mobile-now-integrate-with-guesty-pms/?utm_source=rss&utm_medium=rss&utm_campaign=nonius-tv-mobile-now-integrate-with-guesty-pms",
-        "source": "eHotelier",
-        "source_name": "eHotelier"
-      }
-    },
-    {
-      "story_id": "story_f76695e7450d",
-      "title": "Unlock your hotel’s F&B potential with the IRIS Revenue Calculator",
-      "url": "https://insights.ehotelier.com/suppliers/2026/07/02/unlock-your-hotels-fb-potential-with-the-iris-revenue-calculator/?utm_source=rss&utm_medium=rss&utm_campaign=unlock-your-hotels-fb-potential-with-the-iris-revenue-calculator",
-      "primary_url": "https://insights.ehotelier.com/suppliers/2026/07/02/unlock-your-hotels-fb-potential-with-the-iris-revenue-calculator/?utm_source=rss&utm_medium=rss&utm_campaign=unlock-your-hotels-fb-potential-with-the-iris-revenue-calculator",
-      "source": "eHotelier",
-      "source_name": "eHotelier",
-      "sources": [
-        {
-          "id": "hotelitem_f76695e7450d",
-          "title": "Unlock your hotel’s F&B potential with the IRIS Revenue Calculator",
-          "url": "https://insights.ehotelier.com/suppliers/2026/07/02/unlock-your-hotels-fb-potential-with-the-iris-revenue-calculator/?utm_source=rss&utm_medium=rss&utm_campaign=unlock-your-hotels-fb-potential-with-the-iris-revenue-calculator",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-07-02T01:02:11Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "eHotelier"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_f76695e7450d",
-          "title": "Unlock your hotel’s F&B potential with the IRIS Revenue Calculator",
-          "url": "https://insights.ehotelier.com/suppliers/2026/07/02/unlock-your-hotels-fb-potential-with-the-iris-revenue-calculator/?utm_source=rss&utm_medium=rss&utm_campaign=unlock-your-hotels-fb-potential-with-the-iris-revenue-calculator",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-07-02T01:02:11Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8612,
-      "importance": 0.5961,
-      "importance_score": 0.8612,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9803,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-02T01:02:11Z",
-      "latest_at": "2026-07-02T01:02:11Z",
-      "primary_item": {
-        "id": "hotelitem_f76695e7450d",
-        "title": "Unlock your hotel’s F&B potential with the IRIS Revenue Calculator",
-        "url": "https://insights.ehotelier.com/suppliers/2026/07/02/unlock-your-hotels-fb-potential-with-the-iris-revenue-calculator/?utm_source=rss&utm_medium=rss&utm_campaign=unlock-your-hotels-fb-potential-with-the-iris-revenue-calculator",
-        "source": "eHotelier",
-        "source_name": "eHotelier"
+        "id": "hotelitem_e4f19d9fa626",
+        "title": "指数发布 | 中国住宿业消费指数报告（2026年5月）发布 为贯彻落实提振消费相关政策，真实反映中国住宿餐饮业市场消费情况，以数据引导促消费政策精准发力，为行业发展提供参考建议，中国饭店协会每月公开发布“中国饭店业消费指数体系”，包含“中国住宿业消费指数（China Hotel Industry Consumption Index, HCI）”与“中国餐饮业消费指数(China Catering Industry Consumption Index, CCI)”，欢迎关注。\n本篇发布的是“中国住宿业消费指数”。",
+        "url": "https://www.chinahotel.org.cn/articles/17871",
+        "source": "中国饭店协会",
+        "source_name": "中国饭店协会"
       }
     },
     {
@@ -1215,14 +1333,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8612,
-      "importance": 0.5961,
-      "importance_score": 0.8612,
+      "score": 0.8591,
+      "importance": 0.5939,
+      "importance_score": 0.8591,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9804,
+        "recency": 0.9693,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1235,65 +1353,6 @@
         "id": "hotelitem_b883427a8f6e",
         "title": "Empathy in Leadership: The key to customer problem solving and customer satisfaction",
         "url": "https://insights.ehotelier.com/insights/2026/07/02/empathy-in-leadership-the-key-to-customer-problem-solving-and-customer-satisfaction/?utm_source=rss&utm_medium=rss&utm_campaign=empathy-in-leadership-the-key-to-customer-problem-solving-and-customer-satisfaction",
-        "source": "eHotelier",
-        "source_name": "eHotelier"
-      }
-    },
-    {
-      "story_id": "story_4e62f5747deb",
-      "title": "Small Luxury Hotels strengthens Australian portfolio with five new properties from Salter Brothers Hospitality",
-      "url": "https://insights.ehotelier.com/properties/2026/07/02/small-luxury-hotels-strengthens-australian-portfolio-with-five-new-properties-from-salter-brothers-hospitality/?utm_source=rss&utm_medium=rss&utm_campaign=small-luxury-hotels-strengthens-australian-portfolio-with-five-new-properties-from-salter-brothers-hospitality",
-      "primary_url": "https://insights.ehotelier.com/properties/2026/07/02/small-luxury-hotels-strengthens-australian-portfolio-with-five-new-properties-from-salter-brothers-hospitality/?utm_source=rss&utm_medium=rss&utm_campaign=small-luxury-hotels-strengthens-australian-portfolio-with-five-new-properties-from-salter-brothers-hospitality",
-      "source": "eHotelier",
-      "source_name": "eHotelier",
-      "sources": [
-        {
-          "id": "hotelitem_4e62f5747deb",
-          "title": "Small Luxury Hotels strengthens Australian portfolio with five new properties from Salter Brothers Hospitality",
-          "url": "https://insights.ehotelier.com/properties/2026/07/02/small-luxury-hotels-strengthens-australian-portfolio-with-five-new-properties-from-salter-brothers-hospitality/?utm_source=rss&utm_medium=rss&utm_campaign=small-luxury-hotels-strengthens-australian-portfolio-with-five-new-properties-from-salter-brothers-hospitality",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-07-02T00:25:27Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "eHotelier"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_4e62f5747deb",
-          "title": "Small Luxury Hotels strengthens Australian portfolio with five new properties from Salter Brothers Hospitality",
-          "url": "https://insights.ehotelier.com/properties/2026/07/02/small-luxury-hotels-strengthens-australian-portfolio-with-five-new-properties-from-salter-brothers-hospitality/?utm_source=rss&utm_medium=rss&utm_campaign=small-luxury-hotels-strengthens-australian-portfolio-with-five-new-properties-from-salter-brothers-hospitality",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-07-02T00:25:27Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8611,
-      "importance": 0.5959,
-      "importance_score": 0.8611,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9797,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-02T00:25:27Z",
-      "latest_at": "2026-07-02T00:25:27Z",
-      "primary_item": {
-        "id": "hotelitem_4e62f5747deb",
-        "title": "Small Luxury Hotels strengthens Australian portfolio with five new properties from Salter Brothers Hospitality",
-        "url": "https://insights.ehotelier.com/properties/2026/07/02/small-luxury-hotels-strengthens-australian-portfolio-with-five-new-properties-from-salter-brothers-hospitality/?utm_source=rss&utm_medium=rss&utm_campaign=small-luxury-hotels-strengthens-australian-portfolio-with-five-new-properties-from-salter-brothers-hospitality",
         "source": "eHotelier",
         "source_name": "eHotelier"
       }
@@ -1333,14 +1392,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8603,
-      "importance": 0.5952,
-      "importance_score": 0.8603,
+      "score": 0.8582,
+      "importance": 0.5929,
+      "importance_score": 0.8582,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9758,
+        "recency": 0.9647,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1358,121 +1417,43 @@
       }
     },
     {
-      "story_id": "story_f293a3354c9e",
-      "title": "指数发布 | 中国住宿业消费指数报告（2026年5月）发布 为贯彻落实提振消费相关政策，真实反映中国住宿餐饮业市场消费情况，以数据引导促消费政策精准发力，为行业发展提供参考建议，中国饭店协会每月公开发布“中国饭店业消费指数体系”，包含“中国住宿业消费指数（China Hotel Industry Consumption Index, HCI）”与“中国餐饮业消费指数(China Catering Industry Consumption Index, CCI)”，欢迎关注。\n本篇发布的是“中国住宿业消费指数”。",
-      "url": "https://www.chinahotel.org.cn/articles/17871",
-      "primary_url": "https://www.chinahotel.org.cn/articles/17871",
-      "source": "中国饭店协会",
-      "source_name": "中国饭店协会",
+      "story_id": "story_e4ce0593c384",
+      "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
+      "url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
+      "primary_url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
+      "source": "中国旅游研究院",
+      "source_name": "中国旅游研究院",
       "sources": [
         {
-          "id": "hotelitem_e4f19d9fa626",
-          "title": "指数发布 | 中国住宿业消费指数报告（2026年5月）发布 为贯彻落实提振消费相关政策，真实反映中国住宿餐饮业市场消费情况，以数据引导促消费政策精准发力，为行业发展提供参考建议，中国饭店协会每月公开发布“中国饭店业消费指数体系”，包含“中国住宿业消费指数（China Hotel Industry Consumption Index, HCI）”与“中国餐饮业消费指数(China Catering Industry Consumption Index, CCI)”，欢迎关注。\n本篇发布的是“中国住宿业消费指数”。",
-          "url": "https://www.chinahotel.org.cn/articles/17871",
-          "source": "中国饭店协会",
-          "source_name": "中国饭店协会",
-          "site_id": "chinahotel",
-          "published_at": "2026-07-02T22:18:34.708490Z"
-        },
-        {
-          "id": "hotelitem_f293a3354c9e",
-          "title": "指数发布 | 中国餐饮业消费指数报告（2026年5月）发布 为贯彻落实提振消费相关政策，真实反映中国住宿餐饮业市场消费情况，以数据引导促消费政策精准发力，为行业发展提供参考建议，中国饭店协会每月公开发布“中国饭店业消费指数体系”，包含“中国住宿业消费指数（China Hotel Industry Consumption Index, HCI）”与“中国餐饮业消费指数(China Catering Industry Consumption Index, CCI)”，欢迎关注。\n本篇发布的是“中国餐饮业消费指数”。",
-          "url": "https://www.chinahotel.org.cn/articles/17875",
-          "source": "中国饭店协会",
-          "source_name": "中国饭店协会",
-          "site_id": "chinahotel",
-          "published_at": "2026-07-02T22:18:34.708490Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "中国饭店协会"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_e4f19d9fa626",
-          "title": "指数发布 | 中国住宿业消费指数报告（2026年5月）发布 为贯彻落实提振消费相关政策，真实反映中国住宿餐饮业市场消费情况，以数据引导促消费政策精准发力，为行业发展提供参考建议，中国饭店协会每月公开发布“中国饭店业消费指数体系”，包含“中国住宿业消费指数（China Hotel Industry Consumption Index, HCI）”与“中国餐饮业消费指数(China Catering Industry Consumption Index, CCI)”，欢迎关注。\n本篇发布的是“中国住宿业消费指数”。",
-          "url": "https://www.chinahotel.org.cn/articles/17871",
-          "source": "中国饭店协会",
-          "source_name": "中国饭店协会",
-          "site_id": "chinahotel",
-          "published_at": "2026-07-02T22:18:34.708490Z"
-        },
-        {
-          "id": "hotelitem_f293a3354c9e",
-          "title": "指数发布 | 中国餐饮业消费指数报告（2026年5月）发布 为贯彻落实提振消费相关政策，真实反映中国住宿餐饮业市场消费情况，以数据引导促消费政策精准发力，为行业发展提供参考建议，中国饭店协会每月公开发布“中国饭店业消费指数体系”，包含“中国住宿业消费指数（China Hotel Industry Consumption Index, HCI）”与“中国餐饮业消费指数(China Catering Industry Consumption Index, CCI)”，欢迎关注。\n本篇发布的是“中国餐饮业消费指数”。",
-          "url": "https://www.chinahotel.org.cn/articles/17875",
-          "source": "中国饭店协会",
-          "source_name": "中国饭店协会",
-          "site_id": "chinahotel",
-          "published_at": "2026-07-02T22:18:34.708490Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.86,
-      "importance": 0.625,
-      "importance_score": 0.86,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-02T22:18:34.708490Z",
-      "latest_at": "2026-07-02T22:18:34.708490Z",
-      "primary_item": {
-        "id": "hotelitem_e4f19d9fa626",
-        "title": "指数发布 | 中国住宿业消费指数报告（2026年5月）发布 为贯彻落实提振消费相关政策，真实反映中国住宿餐饮业市场消费情况，以数据引导促消费政策精准发力，为行业发展提供参考建议，中国饭店协会每月公开发布“中国饭店业消费指数体系”，包含“中国住宿业消费指数（China Hotel Industry Consumption Index, HCI）”与“中国餐饮业消费指数(China Catering Industry Consumption Index, CCI)”，欢迎关注。\n本篇发布的是“中国住宿业消费指数”。",
-        "url": "https://www.chinahotel.org.cn/articles/17871",
-        "source": "中国饭店协会",
-        "source_name": "中国饭店协会"
-      }
-    },
-    {
-      "story_id": "story_d0f4fa1dec28",
-      "title": "君亭酒店：控股股东及相关方终止29.99%股份转让及控制权变更",
-      "url": "https://www.meadin.com/jd/298103.html",
-      "primary_url": "https://www.meadin.com/jd/298103.html",
-      "source": "迈点研究院",
-      "source_name": "迈点研究院",
-      "sources": [
-        {
-          "id": "hotelitem_d0f4fa1dec28",
-          "title": "君亭酒店：控股股东及相关方终止29.99%股份转让及控制权变更",
-          "url": "https://www.meadin.com/jd/298103.html",
-          "source": "迈点研究院",
-          "source_name": "迈点研究院",
-          "site_id": "meadin",
-          "published_at": "2026-07-02T22:18:34.708490Z"
+          "id": "hotelitem_e4ce0593c384",
+          "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
+          "url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
+          "source": "中国旅游研究院",
+          "source_name": "中国旅游研究院",
+          "site_id": "cta",
+          "published_at": "2026-07-03T10:17:37.793449Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "迈点研究院"
+        "中国旅游研究院"
       ],
       "items": [
         {
-          "id": "hotelitem_d0f4fa1dec28",
-          "title": "君亭酒店：控股股东及相关方终止29.99%股份转让及控制权变更",
-          "url": "https://www.meadin.com/jd/298103.html",
-          "source": "迈点研究院",
-          "source_name": "迈点研究院",
-          "site_id": "meadin",
-          "published_at": "2026-07-02T22:18:34.708490Z"
+          "id": "hotelitem_e4ce0593c384",
+          "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
+          "url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
+          "source": "中国旅游研究院",
+          "source_name": "中国旅游研究院",
+          "site_id": "cta",
+          "published_at": "2026-07-03T10:17:37.793449Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.86,
+      "score": 0.858,
       "importance": 0.6,
-      "importance_score": 0.86,
+      "importance_score": 0.858,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
@@ -1484,14 +1465,132 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-02T22:18:34.708490Z",
-      "latest_at": "2026-07-02T22:18:34.708490Z",
+      "earliest_at": "2026-07-03T10:17:37.793449Z",
+      "latest_at": "2026-07-03T10:17:37.793449Z",
       "primary_item": {
-        "id": "hotelitem_d0f4fa1dec28",
-        "title": "君亭酒店：控股股东及相关方终止29.99%股份转让及控制权变更",
-        "url": "https://www.meadin.com/jd/298103.html",
-        "source": "迈点研究院",
-        "source_name": "迈点研究院"
+        "id": "hotelitem_e4ce0593c384",
+        "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
+        "url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
+        "source": "中国旅游研究院",
+        "source_name": "中国旅游研究院"
+      }
+    },
+    {
+      "story_id": "story_aafbd26fe946",
+      "title": "文化和旅游部端午节假期和汛期、暑期出游提示",
+      "url": "https://www.mct.gov.cn/whzx/whyw/202606/t20260605_966153.htm",
+      "primary_url": "https://www.mct.gov.cn/whzx/whyw/202606/t20260605_966153.htm",
+      "source": "文化和旅游部",
+      "source_name": "文化和旅游部",
+      "sources": [
+        {
+          "id": "hotelitem_aafbd26fe946",
+          "title": "文化和旅游部端午节假期和汛期、暑期出游提示",
+          "url": "https://www.mct.gov.cn/whzx/whyw/202606/t20260605_966153.htm",
+          "source": "文化和旅游部",
+          "source_name": "文化和旅游部",
+          "site_id": "mct",
+          "published_at": "2026-07-03T10:17:37.793449Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "文化和旅游部"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_aafbd26fe946",
+          "title": "文化和旅游部端午节假期和汛期、暑期出游提示",
+          "url": "https://www.mct.gov.cn/whzx/whyw/202606/t20260605_966153.htm",
+          "source": "文化和旅游部",
+          "source_name": "文化和旅游部",
+          "site_id": "mct",
+          "published_at": "2026-07-03T10:17:37.793449Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.858,
+      "importance": 0.6,
+      "importance_score": 0.858,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-03T10:17:37.793449Z",
+      "latest_at": "2026-07-03T10:17:37.793449Z",
+      "primary_item": {
+        "id": "hotelitem_aafbd26fe946",
+        "title": "文化和旅游部端午节假期和汛期、暑期出游提示",
+        "url": "https://www.mct.gov.cn/whzx/whyw/202606/t20260605_966153.htm",
+        "source": "文化和旅游部",
+        "source_name": "文化和旅游部"
+      }
+    },
+    {
+      "story_id": "story_e2295ba596c9",
+      "title": "文化和旅游部部级社科研究项目公布",
+      "url": "https://www.mct.gov.cn/whzx/bnsj/whkjs/202606/t20260617_966274.html",
+      "primary_url": "https://www.mct.gov.cn/whzx/bnsj/whkjs/202606/t20260617_966274.html",
+      "source": "文化和旅游部",
+      "source_name": "文化和旅游部",
+      "sources": [
+        {
+          "id": "hotelitem_e2295ba596c9",
+          "title": "文化和旅游部部级社科研究项目公布",
+          "url": "https://www.mct.gov.cn/whzx/bnsj/whkjs/202606/t20260617_966274.html",
+          "source": "文化和旅游部",
+          "source_name": "文化和旅游部",
+          "site_id": "mct",
+          "published_at": "2026-07-03T10:17:37.793449Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "文化和旅游部"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_e2295ba596c9",
+          "title": "文化和旅游部部级社科研究项目公布",
+          "url": "https://www.mct.gov.cn/whzx/bnsj/whkjs/202606/t20260617_966274.html",
+          "source": "文化和旅游部",
+          "source_name": "文化和旅游部",
+          "site_id": "mct",
+          "published_at": "2026-07-03T10:17:37.793449Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.858,
+      "importance": 0.6,
+      "importance_score": 0.858,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-03T10:17:37.793449Z",
+      "latest_at": "2026-07-03T10:17:37.793449Z",
+      "primary_item": {
+        "id": "hotelitem_e2295ba596c9",
+        "title": "文化和旅游部部级社科研究项目公布",
+        "url": "https://www.mct.gov.cn/whzx/bnsj/whkjs/202606/t20260617_966274.html",
+        "source": "文化和旅游部",
+        "source_name": "文化和旅游部"
       }
     },
     {
@@ -1529,14 +1628,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8591,
-      "importance": 0.5939,
-      "importance_score": 0.8591,
+      "score": 0.857,
+      "importance": 0.5917,
+      "importance_score": 0.857,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9694,
+        "recency": 0.9583,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1588,14 +1687,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8588,
-      "importance": 0.5936,
-      "importance_score": 0.8588,
+      "score": 0.8567,
+      "importance": 0.5914,
+      "importance_score": 0.8567,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.968,
+        "recency": 0.9569,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1610,183 +1709,6 @@
         "url": "https://www.hotelmanagement.net/resource/upgrade-every-stay-tvs-designed-make-you-money",
         "source": "Hotel Management",
         "source_name": "Hotel Management"
-      }
-    },
-    {
-      "story_id": "story_e4ce0593c384",
-      "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
-      "url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
-      "primary_url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
-      "source": "中国旅游研究院",
-      "source_name": "中国旅游研究院",
-      "sources": [
-        {
-          "id": "hotelitem_e4ce0593c384",
-          "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
-          "url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
-          "source": "中国旅游研究院",
-          "source_name": "中国旅游研究院",
-          "site_id": "cta",
-          "published_at": "2026-07-02T22:18:34.708490Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "中国旅游研究院"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_e4ce0593c384",
-          "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
-          "url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
-          "source": "中国旅游研究院",
-          "source_name": "中国旅游研究院",
-          "site_id": "cta",
-          "published_at": "2026-07-02T22:18:34.708490Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.858,
-      "importance": 0.6,
-      "importance_score": 0.858,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-02T22:18:34.708490Z",
-      "latest_at": "2026-07-02T22:18:34.708490Z",
-      "primary_item": {
-        "id": "hotelitem_e4ce0593c384",
-        "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
-        "url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
-        "source": "中国旅游研究院",
-        "source_name": "中国旅游研究院"
-      }
-    },
-    {
-      "story_id": "story_aafbd26fe946",
-      "title": "文化和旅游部端午节假期和汛期、暑期出游提示",
-      "url": "https://www.mct.gov.cn/whzx/whyw/202606/t20260605_966153.htm",
-      "primary_url": "https://www.mct.gov.cn/whzx/whyw/202606/t20260605_966153.htm",
-      "source": "文化和旅游部",
-      "source_name": "文化和旅游部",
-      "sources": [
-        {
-          "id": "hotelitem_aafbd26fe946",
-          "title": "文化和旅游部端午节假期和汛期、暑期出游提示",
-          "url": "https://www.mct.gov.cn/whzx/whyw/202606/t20260605_966153.htm",
-          "source": "文化和旅游部",
-          "source_name": "文化和旅游部",
-          "site_id": "mct",
-          "published_at": "2026-07-02T22:18:34.708490Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "文化和旅游部"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_aafbd26fe946",
-          "title": "文化和旅游部端午节假期和汛期、暑期出游提示",
-          "url": "https://www.mct.gov.cn/whzx/whyw/202606/t20260605_966153.htm",
-          "source": "文化和旅游部",
-          "source_name": "文化和旅游部",
-          "site_id": "mct",
-          "published_at": "2026-07-02T22:18:34.708490Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.858,
-      "importance": 0.6,
-      "importance_score": 0.858,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-02T22:18:34.708490Z",
-      "latest_at": "2026-07-02T22:18:34.708490Z",
-      "primary_item": {
-        "id": "hotelitem_aafbd26fe946",
-        "title": "文化和旅游部端午节假期和汛期、暑期出游提示",
-        "url": "https://www.mct.gov.cn/whzx/whyw/202606/t20260605_966153.htm",
-        "source": "文化和旅游部",
-        "source_name": "文化和旅游部"
-      }
-    },
-    {
-      "story_id": "story_e2295ba596c9",
-      "title": "文化和旅游部部级社科研究项目公布",
-      "url": "https://www.mct.gov.cn/whzx/bnsj/whkjs/202606/t20260617_966274.html",
-      "primary_url": "https://www.mct.gov.cn/whzx/bnsj/whkjs/202606/t20260617_966274.html",
-      "source": "文化和旅游部",
-      "source_name": "文化和旅游部",
-      "sources": [
-        {
-          "id": "hotelitem_e2295ba596c9",
-          "title": "文化和旅游部部级社科研究项目公布",
-          "url": "https://www.mct.gov.cn/whzx/bnsj/whkjs/202606/t20260617_966274.html",
-          "source": "文化和旅游部",
-          "source_name": "文化和旅游部",
-          "site_id": "mct",
-          "published_at": "2026-07-02T22:18:34.708490Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "文化和旅游部"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_e2295ba596c9",
-          "title": "文化和旅游部部级社科研究项目公布",
-          "url": "https://www.mct.gov.cn/whzx/bnsj/whkjs/202606/t20260617_966274.html",
-          "source": "文化和旅游部",
-          "source_name": "文化和旅游部",
-          "site_id": "mct",
-          "published_at": "2026-07-02T22:18:34.708490Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.858,
-      "importance": 0.6,
-      "importance_score": 0.858,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-02T22:18:34.708490Z",
-      "latest_at": "2026-07-02T22:18:34.708490Z",
-      "primary_item": {
-        "id": "hotelitem_e2295ba596c9",
-        "title": "文化和旅游部部级社科研究项目公布",
-        "url": "https://www.mct.gov.cn/whzx/bnsj/whkjs/202606/t20260617_966274.html",
-        "source": "文化和旅游部",
-        "source_name": "文化和旅游部"
       }
     },
     {
@@ -1824,14 +1746,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8557,
-      "importance": 0.5904,
-      "importance_score": 0.8557,
+      "score": 0.8536,
+      "importance": 0.5882,
+      "importance_score": 0.8536,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9519,
+        "recency": 0.9408,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1846,6 +1768,65 @@
         "url": "https://skift.com/2026/06/30/not-for-sale-sandals-ceo-shuts-down-deal-rumors/",
         "source": "Skift Hospitality",
         "source_name": "Skift Hospitality"
+      }
+    },
+    {
+      "story_id": "story_a40d7ba18a53",
+      "title": "Hotel Tech-in: The dual-strategy loyalty product producing instant rewards",
+      "url": "https://www.hoteldive.com/news/tech-enabled-hotel-loyalty-program-instant-rewards-laasie/824076/",
+      "primary_url": "https://www.hoteldive.com/news/tech-enabled-hotel-loyalty-program-instant-rewards-laasie/824076/",
+      "source": "Hotel Dive",
+      "source_name": "Hotel Dive",
+      "sources": [
+        {
+          "id": "hotelitem_a40d7ba18a53",
+          "title": "Hotel Tech-in: The dual-strategy loyalty product producing instant rewards",
+          "url": "https://www.hoteldive.com/news/tech-enabled-hotel-loyalty-program-instant-rewards-laasie/824076/",
+          "source": "Hotel Dive",
+          "source_name": "Hotel Dive",
+          "site_id": "hoteldive",
+          "published_at": "2026-06-30T13:54:03Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hotel Dive"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_a40d7ba18a53",
+          "title": "Hotel Tech-in: The dual-strategy loyalty product producing instant rewards",
+          "url": "https://www.hoteldive.com/news/tech-enabled-hotel-loyalty-program-instant-rewards-laasie/824076/",
+          "source": "Hotel Dive",
+          "source_name": "Hotel Dive",
+          "site_id": "hoteldive",
+          "published_at": "2026-06-30T13:54:03Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8528,
+      "importance": 0.5873,
+      "importance_score": 0.8528,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9367,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-06-30T13:54:03Z",
+      "latest_at": "2026-06-30T13:54:03Z",
+      "primary_item": {
+        "id": "hotelitem_a40d7ba18a53",
+        "title": "Hotel Tech-in: The dual-strategy loyalty product producing instant rewards",
+        "url": "https://www.hoteldive.com/news/tech-enabled-hotel-loyalty-program-instant-rewards-laasie/824076/",
+        "source": "Hotel Dive",
+        "source_name": "Hotel Dive"
       }
     }
   ]
