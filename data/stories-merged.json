@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-06T12:25:43.080737Z",
+  "generated_at": "2026-07-06T21:13:29.250517Z",
   "window_hours": 1080,
   "total_stories": 30,
   "stories": [
@@ -38,14 +38,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9861,
-      "importance": 0.5727,
-      "importance_score": 0.9861,
+      "score": 0.9846,
+      "importance": 0.571,
+      "importance_score": 0.9846,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8633,
+        "recency": 0.8551,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -60,6 +60,65 @@
         "url": "https://www.traveldaily.cn/article/190301",
         "source": "环球旅讯 TravelDaily",
         "source_name": "环球旅讯 TravelDaily"
+      }
+    },
+    {
+      "story_id": "story_95ed0de88ceb",
+      "title": "IHG opens dual-branded Staybridge, Even Hotel property in Orlando",
+      "url": "https://www.hoteldive.com/news/ihg-opens-dual-branded-staybridge-even-hotel-orlando/824449/",
+      "primary_url": "https://www.hoteldive.com/news/ihg-opens-dual-branded-staybridge-even-hotel-orlando/824449/",
+      "source": "Hotel Dive",
+      "source_name": "Hotel Dive",
+      "sources": [
+        {
+          "id": "hotelitem_95ed0de88ceb",
+          "title": "IHG opens dual-branded Staybridge, Even Hotel property in Orlando",
+          "url": "https://www.hoteldive.com/news/ihg-opens-dual-branded-staybridge-even-hotel-orlando/824449/",
+          "source": "Hotel Dive",
+          "source_name": "Hotel Dive",
+          "site_id": "hoteldive",
+          "published_at": "2026-07-06T13:30:52Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hotel Dive"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_95ed0de88ceb",
+          "title": "IHG opens dual-branded Staybridge, Even Hotel property in Orlando",
+          "url": "https://www.hoteldive.com/news/ihg-opens-dual-branded-staybridge-even-hotel-orlando/824449/",
+          "source": "Hotel Dive",
+          "source_name": "Hotel Dive",
+          "site_id": "hoteldive",
+          "published_at": "2026-07-06T13:30:52Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.9536,
+      "importance": 0.5986,
+      "importance_score": 0.9536,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9929,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-06T13:30:52Z",
+      "latest_at": "2026-07-06T13:30:52Z",
+      "primary_item": {
+        "id": "hotelitem_95ed0de88ceb",
+        "title": "IHG opens dual-branded Staybridge, Even Hotel property in Orlando",
+        "url": "https://www.hoteldive.com/news/ihg-opens-dual-branded-staybridge-even-hotel-orlando/824449/",
+        "source": "Hotel Dive",
+        "source_name": "Hotel Dive"
       }
     },
     {
@@ -97,14 +156,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9529,
-      "importance": 0.5978,
-      "importance_score": 0.9529,
+      "score": 0.9513,
+      "importance": 0.5962,
+      "importance_score": 0.9513,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.989,
+        "recency": 0.9808,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -156,14 +215,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9529,
-      "importance": 0.5978,
-      "importance_score": 0.9529,
+      "score": 0.9513,
+      "importance": 0.5962,
+      "importance_score": 0.9513,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9891,
+        "recency": 0.981,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -215,14 +274,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9389,
-      "importance": 0.5833,
-      "importance_score": 0.9389,
+      "score": 0.9373,
+      "importance": 0.5817,
+      "importance_score": 0.9373,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9164,
+        "recency": 0.9083,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -274,14 +333,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9337,
-      "importance": 0.5779,
-      "importance_score": 0.9337,
+      "score": 0.9321,
+      "importance": 0.5763,
+      "importance_score": 0.9321,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8896,
+        "recency": 0.8814,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -333,14 +392,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9307,
-      "importance": 0.5748,
-      "importance_score": 0.9307,
+      "score": 0.9291,
+      "importance": 0.5732,
+      "importance_score": 0.9291,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8741,
+        "recency": 0.8659,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -358,65 +417,6 @@
       }
     },
     {
-      "story_id": "story_9bb98b760dac",
-      "title": "Best Western Has Been Shrinking. BWH Hotels’ Fix Is to Shift Upscale and Overseas.",
-      "url": "https://skift.com/2026/06/29/best-western-has-been-shrinking-bwh-hotels-fix-is-to-shift-upscale-and-overseas/",
-      "primary_url": "https://skift.com/2026/06/29/best-western-has-been-shrinking-bwh-hotels-fix-is-to-shift-upscale-and-overseas/",
-      "source": "Skift Hospitality",
-      "source_name": "Skift Hospitality",
-      "sources": [
-        {
-          "id": "hotelitem_9bb98b760dac",
-          "title": "Best Western Has Been Shrinking. BWH Hotels’ Fix Is to Shift Upscale and Overseas.",
-          "url": "https://skift.com/2026/06/29/best-western-has-been-shrinking-bwh-hotels-fix-is-to-shift-upscale-and-overseas/",
-          "source": "Skift Hospitality",
-          "source_name": "Skift Hospitality",
-          "site_id": "skift",
-          "published_at": "2026-06-29T16:19:14Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Skift Hospitality"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_9bb98b760dac",
-          "title": "Best Western Has Been Shrinking. BWH Hotels’ Fix Is to Shift Upscale and Overseas.",
-          "url": "https://skift.com/2026/06/29/best-western-has-been-shrinking-bwh-hotels-fix-is-to-shift-upscale-and-overseas/",
-          "source": "Skift Hospitality",
-          "source_name": "Skift Hospitality",
-          "site_id": "skift",
-          "published_at": "2026-06-29T16:19:14Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.9257,
-      "importance": 0.5696,
-      "importance_score": 0.9257,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.848,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-29T16:19:14Z",
-      "latest_at": "2026-06-29T16:19:14Z",
-      "primary_item": {
-        "id": "hotelitem_9bb98b760dac",
-        "title": "Best Western Has Been Shrinking. BWH Hotels’ Fix Is to Shift Upscale and Overseas.",
-        "url": "https://skift.com/2026/06/29/best-western-has-been-shrinking-bwh-hotels-fix-is-to-shift-upscale-and-overseas/",
-        "source": "Skift Hospitality",
-        "source_name": "Skift Hospitality"
-      }
-    },
-    {
       "story_id": "story_c7c15b7680c9",
       "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
       "url": "https://www.chinahotel.org.cn/articles/17408",
@@ -431,7 +431,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-06T12:25:43.080737Z"
+          "published_at": "2026-07-06T21:13:29.250517Z"
         },
         {
           "id": "hotelitem_c7c15b7680c9",
@@ -440,7 +440,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-06T12:25:43.080737Z"
+          "published_at": "2026-07-06T21:13:29.250517Z"
         },
         {
           "id": "hotelitem_6d8fa145e8af",
@@ -449,7 +449,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-06T12:25:43.080737Z"
+          "published_at": "2026-07-06T21:13:29.250517Z"
         }
       ],
       "source_count": 3,
@@ -464,7 +464,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-06T12:25:43.080737Z"
+          "published_at": "2026-07-06T21:13:29.250517Z"
         },
         {
           "id": "hotelitem_c7c15b7680c9",
@@ -473,7 +473,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-06T12:25:43.080737Z"
+          "published_at": "2026-07-06T21:13:29.250517Z"
         },
         {
           "id": "hotelitem_6d8fa145e8af",
@@ -482,7 +482,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-06T12:25:43.080737Z"
+          "published_at": "2026-07-06T21:13:29.250517Z"
         }
       ],
       "item_count": 3,
@@ -502,8 +502,8 @@
         "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-06T12:25:43.080737Z",
-      "latest_at": "2026-07-06T12:25:43.080737Z",
+      "earliest_at": "2026-07-06T21:13:29.250517Z",
+      "latest_at": "2026-07-06T21:13:29.250517Z",
       "primary_item": {
         "id": "hotelitem_d4370964909c",
         "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
@@ -547,14 +547,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.906,
-      "importance": 0.5559,
-      "importance_score": 0.906,
+      "score": 0.9036,
+      "importance": 0.5543,
+      "importance_score": 0.9036,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.7796,
+        "recency": 0.7715,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -586,7 +586,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-07-06T12:25:43.080737Z"
+          "published_at": "2026-07-06T21:13:29.250517Z"
         }
       ],
       "source_count": 1,
@@ -601,7 +601,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-07-06T12:25:43.080737Z"
+          "published_at": "2026-07-06T21:13:29.250517Z"
         }
       ],
       "item_count": 1,
@@ -620,8 +620,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-06T12:25:43.080737Z",
-      "latest_at": "2026-07-06T12:25:43.080737Z",
+      "earliest_at": "2026-07-06T21:13:29.250517Z",
+      "latest_at": "2026-07-06T21:13:29.250517Z",
       "primary_item": {
         "id": "hotelitem_86885009de08",
         "title": "文旅惠报|岭南控股与重庆黔江区签署战略合作协议；厦门国有资本牵手阿那亚，打造集美岛滨海文旅项目",
@@ -645,7 +645,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-07-06T12:25:43.080737Z"
+          "published_at": "2026-07-06T21:13:29.250517Z"
         }
       ],
       "source_count": 1,
@@ -660,7 +660,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-07-06T12:25:43.080737Z"
+          "published_at": "2026-07-06T21:13:29.250517Z"
         }
       ],
       "item_count": 1,
@@ -679,8 +679,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-06T12:25:43.080737Z",
-      "latest_at": "2026-07-06T12:25:43.080737Z",
+      "earliest_at": "2026-07-06T21:13:29.250517Z",
+      "latest_at": "2026-07-06T21:13:29.250517Z",
       "primary_item": {
         "id": "hotelitem_d94f35b8bbdc",
         "title": "文旅惠报|开封清明上河园向港交所提交上市申请；万豪国际全球酒店数量正式破万家",
@@ -704,7 +704,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-07-06T12:25:43.080737Z"
+          "published_at": "2026-07-06T21:13:29.250517Z"
         }
       ],
       "source_count": 1,
@@ -719,7 +719,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-07-06T12:25:43.080737Z"
+          "published_at": "2026-07-06T21:13:29.250517Z"
         }
       ],
       "item_count": 1,
@@ -738,8 +738,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-06T12:25:43.080737Z",
-      "latest_at": "2026-07-06T12:25:43.080737Z",
+      "earliest_at": "2026-07-06T21:13:29.250517Z",
+      "latest_at": "2026-07-06T21:13:29.250517Z",
       "primary_item": {
         "id": "hotelitem_7a0aafcf6ecc",
         "title": "文旅惠报|澳门银河与Trip.com签订三年战略合作协议；盈新发展转让西宁置业100%股权",
@@ -763,7 +763,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-07-06T12:25:43.080737Z"
+          "published_at": "2026-07-06T21:13:29.250517Z"
         }
       ],
       "source_count": 1,
@@ -778,7 +778,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-07-06T12:25:43.080737Z"
+          "published_at": "2026-07-06T21:13:29.250517Z"
         }
       ],
       "item_count": 1,
@@ -797,8 +797,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-06T12:25:43.080737Z",
-      "latest_at": "2026-07-06T12:25:43.080737Z",
+      "earliest_at": "2026-07-06T21:13:29.250517Z",
+      "latest_at": "2026-07-06T21:13:29.250517Z",
       "primary_item": {
         "id": "hotelitem_8bd428772b3b",
         "title": "文旅惠报|许铭出任锦江国际集团总裁；西藏旅游拟以6970.65万元公积金弥补累计亏损",
@@ -822,7 +822,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-07-06T12:25:43.080737Z"
+          "published_at": "2026-07-06T21:13:29.250517Z"
         }
       ],
       "source_count": 1,
@@ -837,7 +837,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-07-06T12:25:43.080737Z"
+          "published_at": "2026-07-06T21:13:29.250517Z"
         }
       ],
       "item_count": 1,
@@ -856,8 +856,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-06T12:25:43.080737Z",
-      "latest_at": "2026-07-06T12:25:43.080737Z",
+      "earliest_at": "2026-07-06T21:13:29.250517Z",
+      "latest_at": "2026-07-06T21:13:29.250517Z",
       "primary_item": {
         "id": "hotelitem_4966ad3512b4",
         "title": "文旅惠报|雅高集团CEO宣布2028年卸任；众信优游与中视实业集团达成深度合作",
@@ -901,14 +901,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8856,
-      "importance": 0.5642,
-      "importance_score": 0.8856,
+      "score": 0.8832,
+      "importance": 0.5626,
+      "importance_score": 0.8832,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.821,
+        "recency": 0.8129,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -923,6 +923,124 @@
         "url": "https://www.traveldaily.cn/article/190287",
         "source": "环球旅讯 TravelDaily",
         "source_name": "环球旅讯 TravelDaily"
+      }
+    },
+    {
+      "story_id": "story_6afe63ce6797",
+      "title": "How an Airline Pilot Built One of Portugal’s Most Distinctive Hotels",
+      "url": "https://skift.com/2026/07/06/how-an-airline-pilot-built-one-of-portugals-most-distinctive-hotels/",
+      "primary_url": "https://skift.com/2026/07/06/how-an-airline-pilot-built-one-of-portugals-most-distinctive-hotels/",
+      "source": "Skift Hospitality",
+      "source_name": "Skift Hospitality",
+      "sources": [
+        {
+          "id": "hotelitem_6afe63ce6797",
+          "title": "How an Airline Pilot Built One of Portugal’s Most Distinctive Hotels",
+          "url": "https://skift.com/2026/07/06/how-an-airline-pilot-built-one-of-portugals-most-distinctive-hotels/",
+          "source": "Skift Hospitality",
+          "source_name": "Skift Hospitality",
+          "site_id": "skift",
+          "published_at": "2026-07-06T19:32:50Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Skift Hospitality"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_6afe63ce6797",
+          "title": "How an Airline Pilot Built One of Portugal’s Most Distinctive Hotels",
+          "url": "https://skift.com/2026/07/06/how-an-airline-pilot-built-one-of-portugals-most-distinctive-hotels/",
+          "source": "Skift Hospitality",
+          "source_name": "Skift Hospitality",
+          "site_id": "skift",
+          "published_at": "2026-07-06T19:32:50Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8647,
+      "importance": 0.5997,
+      "importance_score": 0.8647,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9984,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-06T19:32:50Z",
+      "latest_at": "2026-07-06T19:32:50Z",
+      "primary_item": {
+        "id": "hotelitem_6afe63ce6797",
+        "title": "How an Airline Pilot Built One of Portugal’s Most Distinctive Hotels",
+        "url": "https://skift.com/2026/07/06/how-an-airline-pilot-built-one-of-portugals-most-distinctive-hotels/",
+        "source": "Skift Hospitality",
+        "source_name": "Skift Hospitality"
+      }
+    },
+    {
+      "story_id": "story_31f17987d8ff",
+      "title": "Hotels in World Cup host cities exceed initial RevPAR forecast",
+      "url": "https://www.hoteldive.com/news/hotels-world-cup-host-cities-exceed-revpar-forecast/824474/",
+      "primary_url": "https://www.hoteldive.com/news/hotels-world-cup-host-cities-exceed-revpar-forecast/824474/",
+      "source": "Hotel Dive",
+      "source_name": "Hotel Dive",
+      "sources": [
+        {
+          "id": "hotelitem_31f17987d8ff",
+          "title": "Hotels in World Cup host cities exceed initial RevPAR forecast",
+          "url": "https://www.hoteldive.com/news/hotels-world-cup-host-cities-exceed-revpar-forecast/824474/",
+          "source": "Hotel Dive",
+          "source_name": "Hotel Dive",
+          "site_id": "hoteldive",
+          "published_at": "2026-07-06T15:10:31Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hotel Dive"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_31f17987d8ff",
+          "title": "Hotels in World Cup host cities exceed initial RevPAR forecast",
+          "url": "https://www.hoteldive.com/news/hotels-world-cup-host-cities-exceed-revpar-forecast/824474/",
+          "source": "Hotel Dive",
+          "source_name": "Hotel Dive",
+          "site_id": "hoteldive",
+          "published_at": "2026-07-06T15:10:31Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8639,
+      "importance": 0.5989,
+      "importance_score": 0.8639,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9944,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-06T15:10:31Z",
+      "latest_at": "2026-07-06T15:10:31Z",
+      "primary_item": {
+        "id": "hotelitem_31f17987d8ff",
+        "title": "Hotels in World Cup host cities exceed initial RevPAR forecast",
+        "url": "https://www.hoteldive.com/news/hotels-world-cup-host-cities-exceed-revpar-forecast/824474/",
+        "source": "Hotel Dive",
+        "source_name": "Hotel Dive"
       }
     },
     {
@@ -960,14 +1078,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8629,
-      "importance": 0.5978,
-      "importance_score": 0.8629,
+      "score": 0.8613,
+      "importance": 0.5962,
+      "importance_score": 0.8613,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9891,
+        "recency": 0.981,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1019,14 +1137,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8629,
-      "importance": 0.5978,
-      "importance_score": 0.8629,
+      "score": 0.8613,
+      "importance": 0.5962,
+      "importance_score": 0.8613,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9892,
+        "recency": 0.9811,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1041,6 +1159,84 @@
         "url": "https://insights.ehotelier.com/insights/2026/07/06/hospitalitys-real-question-isnt-legal-its-cultural/?utm_source=rss&utm_medium=rss&utm_campaign=hospitalitys-real-question-isnt-legal-its-cultural",
         "source": "eHotelier",
         "source_name": "eHotelier"
+      }
+    },
+    {
+      "story_id": "story_f293a3354c9e",
+      "title": "指数发布 | 中国住宿业消费指数报告（2026年5月）发布 为贯彻落实提振消费相关政策，真实反映中国住宿餐饮业市场消费情况，以数据引导促消费政策精准发力，为行业发展提供参考建议，中国饭店协会每月公开发布“中国饭店业消费指数体系”，包含“中国住宿业消费指数（China Hotel Industry Consumption Index, HCI）”与“中国餐饮业消费指数(China Catering Industry Consumption Index, CCI)”，欢迎关注。\n本篇发布的是“中国住宿业消费指数”。",
+      "url": "https://www.chinahotel.org.cn/articles/17871",
+      "primary_url": "https://www.chinahotel.org.cn/articles/17871",
+      "source": "中国饭店协会",
+      "source_name": "中国饭店协会",
+      "sources": [
+        {
+          "id": "hotelitem_e4f19d9fa626",
+          "title": "指数发布 | 中国住宿业消费指数报告（2026年5月）发布 为贯彻落实提振消费相关政策，真实反映中国住宿餐饮业市场消费情况，以数据引导促消费政策精准发力，为行业发展提供参考建议，中国饭店协会每月公开发布“中国饭店业消费指数体系”，包含“中国住宿业消费指数（China Hotel Industry Consumption Index, HCI）”与“中国餐饮业消费指数(China Catering Industry Consumption Index, CCI)”，欢迎关注。\n本篇发布的是“中国住宿业消费指数”。",
+          "url": "https://www.chinahotel.org.cn/articles/17871",
+          "source": "中国饭店协会",
+          "source_name": "中国饭店协会",
+          "site_id": "chinahotel",
+          "published_at": "2026-07-06T21:13:29.250517Z"
+        },
+        {
+          "id": "hotelitem_f293a3354c9e",
+          "title": "指数发布 | 中国餐饮业消费指数报告（2026年5月）发布 为贯彻落实提振消费相关政策，真实反映中国住宿餐饮业市场消费情况，以数据引导促消费政策精准发力，为行业发展提供参考建议，中国饭店协会每月公开发布“中国饭店业消费指数体系”，包含“中国住宿业消费指数（China Hotel Industry Consumption Index, HCI）”与“中国餐饮业消费指数(China Catering Industry Consumption Index, CCI)”，欢迎关注。\n本篇发布的是“中国餐饮业消费指数”。",
+          "url": "https://www.chinahotel.org.cn/articles/17875",
+          "source": "中国饭店协会",
+          "source_name": "中国饭店协会",
+          "site_id": "chinahotel",
+          "published_at": "2026-07-06T21:13:29.250517Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "中国饭店协会"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_e4f19d9fa626",
+          "title": "指数发布 | 中国住宿业消费指数报告（2026年5月）发布 为贯彻落实提振消费相关政策，真实反映中国住宿餐饮业市场消费情况，以数据引导促消费政策精准发力，为行业发展提供参考建议，中国饭店协会每月公开发布“中国饭店业消费指数体系”，包含“中国住宿业消费指数（China Hotel Industry Consumption Index, HCI）”与“中国餐饮业消费指数(China Catering Industry Consumption Index, CCI)”，欢迎关注。\n本篇发布的是“中国住宿业消费指数”。",
+          "url": "https://www.chinahotel.org.cn/articles/17871",
+          "source": "中国饭店协会",
+          "source_name": "中国饭店协会",
+          "site_id": "chinahotel",
+          "published_at": "2026-07-06T21:13:29.250517Z"
+        },
+        {
+          "id": "hotelitem_f293a3354c9e",
+          "title": "指数发布 | 中国餐饮业消费指数报告（2026年5月）发布 为贯彻落实提振消费相关政策，真实反映中国住宿餐饮业市场消费情况，以数据引导促消费政策精准发力，为行业发展提供参考建议，中国饭店协会每月公开发布“中国饭店业消费指数体系”，包含“中国住宿业消费指数（China Hotel Industry Consumption Index, HCI）”与“中国餐饮业消费指数(China Catering Industry Consumption Index, CCI)”，欢迎关注。\n本篇发布的是“中国餐饮业消费指数”。",
+          "url": "https://www.chinahotel.org.cn/articles/17875",
+          "source": "中国饭店协会",
+          "source_name": "中国饭店协会",
+          "site_id": "chinahotel",
+          "published_at": "2026-07-06T21:13:29.250517Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.86,
+      "importance": 0.625,
+      "importance_score": 0.86,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-06T21:13:29.250517Z",
+      "latest_at": "2026-07-06T21:13:29.250517Z",
+      "primary_item": {
+        "id": "hotelitem_e4f19d9fa626",
+        "title": "指数发布 | 中国住宿业消费指数报告（2026年5月）发布 为贯彻落实提振消费相关政策，真实反映中国住宿餐饮业市场消费情况，以数据引导促消费政策精准发力，为行业发展提供参考建议，中国饭店协会每月公开发布“中国饭店业消费指数体系”，包含“中国住宿业消费指数（China Hotel Industry Consumption Index, HCI）”与“中国餐饮业消费指数(China Catering Industry Consumption Index, CCI)”，欢迎关注。\n本篇发布的是“中国住宿业消费指数”。",
+        "url": "https://www.chinahotel.org.cn/articles/17871",
+        "source": "中国饭店协会",
+        "source_name": "中国饭店协会"
       }
     },
     {
@@ -1078,14 +1274,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8609,
-      "importance": 0.5957,
-      "importance_score": 0.8609,
+      "score": 0.8593,
+      "importance": 0.5941,
+      "importance_score": 0.8593,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9786,
+        "recency": 0.9704,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1103,114 +1299,36 @@
       }
     },
     {
-      "story_id": "story_f293a3354c9e",
-      "title": "指数发布 | 中国住宿业消费指数报告（2026年5月）发布 为贯彻落实提振消费相关政策，真实反映中国住宿餐饮业市场消费情况，以数据引导促消费政策精准发力，为行业发展提供参考建议，中国饭店协会每月公开发布“中国饭店业消费指数体系”，包含“中国住宿业消费指数（China Hotel Industry Consumption Index, HCI）”与“中国餐饮业消费指数(China Catering Industry Consumption Index, CCI)”，欢迎关注。\n本篇发布的是“中国住宿业消费指数”。",
-      "url": "https://www.chinahotel.org.cn/articles/17871",
-      "primary_url": "https://www.chinahotel.org.cn/articles/17871",
-      "source": "中国饭店协会",
-      "source_name": "中国饭店协会",
+      "story_id": "story_e4ce0593c384",
+      "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
+      "url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
+      "primary_url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
+      "source": "中国旅游研究院",
+      "source_name": "中国旅游研究院",
       "sources": [
         {
-          "id": "hotelitem_e4f19d9fa626",
-          "title": "指数发布 | 中国住宿业消费指数报告（2026年5月）发布 为贯彻落实提振消费相关政策，真实反映中国住宿餐饮业市场消费情况，以数据引导促消费政策精准发力，为行业发展提供参考建议，中国饭店协会每月公开发布“中国饭店业消费指数体系”，包含“中国住宿业消费指数（China Hotel Industry Consumption Index, HCI）”与“中国餐饮业消费指数(China Catering Industry Consumption Index, CCI)”，欢迎关注。\n本篇发布的是“中国住宿业消费指数”。",
-          "url": "https://www.chinahotel.org.cn/articles/17871",
-          "source": "中国饭店协会",
-          "source_name": "中国饭店协会",
-          "site_id": "chinahotel",
-          "published_at": "2026-07-06T12:25:43.080737Z"
-        },
-        {
-          "id": "hotelitem_f293a3354c9e",
-          "title": "指数发布 | 中国餐饮业消费指数报告（2026年5月）发布 为贯彻落实提振消费相关政策，真实反映中国住宿餐饮业市场消费情况，以数据引导促消费政策精准发力，为行业发展提供参考建议，中国饭店协会每月公开发布“中国饭店业消费指数体系”，包含“中国住宿业消费指数（China Hotel Industry Consumption Index, HCI）”与“中国餐饮业消费指数(China Catering Industry Consumption Index, CCI)”，欢迎关注。\n本篇发布的是“中国餐饮业消费指数”。",
-          "url": "https://www.chinahotel.org.cn/articles/17875",
-          "source": "中国饭店协会",
-          "source_name": "中国饭店协会",
-          "site_id": "chinahotel",
-          "published_at": "2026-07-06T12:25:43.080737Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "中国饭店协会"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_e4f19d9fa626",
-          "title": "指数发布 | 中国住宿业消费指数报告（2026年5月）发布 为贯彻落实提振消费相关政策，真实反映中国住宿餐饮业市场消费情况，以数据引导促消费政策精准发力，为行业发展提供参考建议，中国饭店协会每月公开发布“中国饭店业消费指数体系”，包含“中国住宿业消费指数（China Hotel Industry Consumption Index, HCI）”与“中国餐饮业消费指数(China Catering Industry Consumption Index, CCI)”，欢迎关注。\n本篇发布的是“中国住宿业消费指数”。",
-          "url": "https://www.chinahotel.org.cn/articles/17871",
-          "source": "中国饭店协会",
-          "source_name": "中国饭店协会",
-          "site_id": "chinahotel",
-          "published_at": "2026-07-06T12:25:43.080737Z"
-        },
-        {
-          "id": "hotelitem_f293a3354c9e",
-          "title": "指数发布 | 中国餐饮业消费指数报告（2026年5月）发布 为贯彻落实提振消费相关政策，真实反映中国住宿餐饮业市场消费情况，以数据引导促消费政策精准发力，为行业发展提供参考建议，中国饭店协会每月公开发布“中国饭店业消费指数体系”，包含“中国住宿业消费指数（China Hotel Industry Consumption Index, HCI）”与“中国餐饮业消费指数(China Catering Industry Consumption Index, CCI)”，欢迎关注。\n本篇发布的是“中国餐饮业消费指数”。",
-          "url": "https://www.chinahotel.org.cn/articles/17875",
-          "source": "中国饭店协会",
-          "source_name": "中国饭店协会",
-          "site_id": "chinahotel",
-          "published_at": "2026-07-06T12:25:43.080737Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.86,
-      "importance": 0.625,
-      "importance_score": 0.86,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-06T12:25:43.080737Z",
-      "latest_at": "2026-07-06T12:25:43.080737Z",
-      "primary_item": {
-        "id": "hotelitem_e4f19d9fa626",
-        "title": "指数发布 | 中国住宿业消费指数报告（2026年5月）发布 为贯彻落实提振消费相关政策，真实反映中国住宿餐饮业市场消费情况，以数据引导促消费政策精准发力，为行业发展提供参考建议，中国饭店协会每月公开发布“中国饭店业消费指数体系”，包含“中国住宿业消费指数（China Hotel Industry Consumption Index, HCI）”与“中国餐饮业消费指数(China Catering Industry Consumption Index, CCI)”，欢迎关注。\n本篇发布的是“中国住宿业消费指数”。",
-        "url": "https://www.chinahotel.org.cn/articles/17871",
-        "source": "中国饭店协会",
-        "source_name": "中国饭店协会"
-      }
-    },
-    {
-      "story_id": "story_aafbd26fe946",
-      "title": "文化和旅游部端午节假期和汛期、暑期出游提示",
-      "url": "https://www.mct.gov.cn/whzx/whyw/202606/t20260605_966153.htm",
-      "primary_url": "https://www.mct.gov.cn/whzx/whyw/202606/t20260605_966153.htm",
-      "source": "文化和旅游部",
-      "source_name": "文化和旅游部",
-      "sources": [
-        {
-          "id": "hotelitem_aafbd26fe946",
-          "title": "文化和旅游部端午节假期和汛期、暑期出游提示",
-          "url": "https://www.mct.gov.cn/whzx/whyw/202606/t20260605_966153.htm",
-          "source": "文化和旅游部",
-          "source_name": "文化和旅游部",
-          "site_id": "mct",
-          "published_at": "2026-07-06T12:25:43.080737Z"
+          "id": "hotelitem_e4ce0593c384",
+          "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
+          "url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
+          "source": "中国旅游研究院",
+          "source_name": "中国旅游研究院",
+          "site_id": "cta",
+          "published_at": "2026-07-06T21:13:29.250517Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "文化和旅游部"
+        "中国旅游研究院"
       ],
       "items": [
         {
-          "id": "hotelitem_aafbd26fe946",
-          "title": "文化和旅游部端午节假期和汛期、暑期出游提示",
-          "url": "https://www.mct.gov.cn/whzx/whyw/202606/t20260605_966153.htm",
-          "source": "文化和旅游部",
-          "source_name": "文化和旅游部",
-          "site_id": "mct",
-          "published_at": "2026-07-06T12:25:43.080737Z"
+          "id": "hotelitem_e4ce0593c384",
+          "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
+          "url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
+          "source": "中国旅游研究院",
+          "source_name": "中国旅游研究院",
+          "site_id": "cta",
+          "published_at": "2026-07-06T21:13:29.250517Z"
         }
       ],
       "item_count": 1,
@@ -1229,8 +1347,67 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-06T12:25:43.080737Z",
-      "latest_at": "2026-07-06T12:25:43.080737Z",
+      "earliest_at": "2026-07-06T21:13:29.250517Z",
+      "latest_at": "2026-07-06T21:13:29.250517Z",
+      "primary_item": {
+        "id": "hotelitem_e4ce0593c384",
+        "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
+        "url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
+        "source": "中国旅游研究院",
+        "source_name": "中国旅游研究院"
+      }
+    },
+    {
+      "story_id": "story_aafbd26fe946",
+      "title": "文化和旅游部端午节假期和汛期、暑期出游提示",
+      "url": "https://www.mct.gov.cn/whzx/whyw/202606/t20260605_966153.htm",
+      "primary_url": "https://www.mct.gov.cn/whzx/whyw/202606/t20260605_966153.htm",
+      "source": "文化和旅游部",
+      "source_name": "文化和旅游部",
+      "sources": [
+        {
+          "id": "hotelitem_aafbd26fe946",
+          "title": "文化和旅游部端午节假期和汛期、暑期出游提示",
+          "url": "https://www.mct.gov.cn/whzx/whyw/202606/t20260605_966153.htm",
+          "source": "文化和旅游部",
+          "source_name": "文化和旅游部",
+          "site_id": "mct",
+          "published_at": "2026-07-06T21:13:29.250517Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "文化和旅游部"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_aafbd26fe946",
+          "title": "文化和旅游部端午节假期和汛期、暑期出游提示",
+          "url": "https://www.mct.gov.cn/whzx/whyw/202606/t20260605_966153.htm",
+          "source": "文化和旅游部",
+          "source_name": "文化和旅游部",
+          "site_id": "mct",
+          "published_at": "2026-07-06T21:13:29.250517Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.858,
+      "importance": 0.6,
+      "importance_score": 0.858,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-06T21:13:29.250517Z",
+      "latest_at": "2026-07-06T21:13:29.250517Z",
       "primary_item": {
         "id": "hotelitem_aafbd26fe946",
         "title": "文化和旅游部端午节假期和汛期、暑期出游提示",
@@ -1254,7 +1431,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-07-06T12:25:43.080737Z"
+          "published_at": "2026-07-06T21:13:29.250517Z"
         }
       ],
       "source_count": 1,
@@ -1269,7 +1446,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-07-06T12:25:43.080737Z"
+          "published_at": "2026-07-06T21:13:29.250517Z"
         }
       ],
       "item_count": 1,
@@ -1288,8 +1465,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-06T12:25:43.080737Z",
-      "latest_at": "2026-07-06T12:25:43.080737Z",
+      "earliest_at": "2026-07-06T21:13:29.250517Z",
+      "latest_at": "2026-07-06T21:13:29.250517Z",
       "primary_item": {
         "id": "hotelitem_e2295ba596c9",
         "title": "文化和旅游部部级社科研究项目公布",
@@ -1299,62 +1476,62 @@
       }
     },
     {
-      "story_id": "story_f76fbb220b14",
-      "title": "Creating the Caribbean’s First Longevity Village with TheLifeCo Saint Lucia",
-      "url": "https://insights.ehotelier.com/insights/2026/07/03/creating-the-caribbeans-first-longevity-village-with-thelifeco-saint-lucia/?utm_source=rss&utm_medium=rss&utm_campaign=creating-the-caribbeans-first-longevity-village-with-thelifeco-saint-lucia",
-      "primary_url": "https://insights.ehotelier.com/insights/2026/07/03/creating-the-caribbeans-first-longevity-village-with-thelifeco-saint-lucia/?utm_source=rss&utm_medium=rss&utm_campaign=creating-the-caribbeans-first-longevity-village-with-thelifeco-saint-lucia",
-      "source": "eHotelier",
-      "source_name": "eHotelier",
+      "story_id": "story_67cf3c517381",
+      "title": "Chedi Hospitality appoints chief asset and investment officer",
+      "url": "https://boutiquehotelnews.com/news/movers-and-shakers/chedi-asset-investment-officer/?utm_source=rss&utm_medium=rss&utm_campaign=chedi-asset-investment-officer",
+      "primary_url": "https://boutiquehotelnews.com/news/movers-and-shakers/chedi-asset-investment-officer/?utm_source=rss&utm_medium=rss&utm_campaign=chedi-asset-investment-officer",
+      "source": "Boutique Hotel News",
+      "source_name": "Boutique Hotel News",
       "sources": [
         {
-          "id": "hotelitem_f76fbb220b14",
-          "title": "Creating the Caribbean’s First Longevity Village with TheLifeCo Saint Lucia",
-          "url": "https://insights.ehotelier.com/insights/2026/07/03/creating-the-caribbeans-first-longevity-village-with-thelifeco-saint-lucia/?utm_source=rss&utm_medium=rss&utm_campaign=creating-the-caribbeans-first-longevity-village-with-thelifeco-saint-lucia",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-07-03T02:25:40Z"
+          "id": "hotelitem_67cf3c517381",
+          "title": "Chedi Hospitality appoints chief asset and investment officer",
+          "url": "https://boutiquehotelnews.com/news/movers-and-shakers/chedi-asset-investment-officer/?utm_source=rss&utm_medium=rss&utm_campaign=chedi-asset-investment-officer",
+          "source": "Boutique Hotel News",
+          "source_name": "Boutique Hotel News",
+          "site_id": "boutiquehotel",
+          "published_at": "2026-07-06T14:53:42Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "eHotelier"
+        "Boutique Hotel News"
       ],
       "items": [
         {
-          "id": "hotelitem_f76fbb220b14",
-          "title": "Creating the Caribbean’s First Longevity Village with TheLifeCo Saint Lucia",
-          "url": "https://insights.ehotelier.com/insights/2026/07/03/creating-the-caribbeans-first-longevity-village-with-thelifeco-saint-lucia/?utm_source=rss&utm_medium=rss&utm_campaign=creating-the-caribbeans-first-longevity-village-with-thelifeco-saint-lucia",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-07-03T02:25:40Z"
+          "id": "hotelitem_67cf3c517381",
+          "title": "Chedi Hospitality appoints chief asset and investment officer",
+          "url": "https://boutiquehotelnews.com/news/movers-and-shakers/chedi-asset-investment-officer/?utm_source=rss&utm_medium=rss&utm_campaign=chedi-asset-investment-officer",
+          "source": "Boutique Hotel News",
+          "source_name": "Boutique Hotel News",
+          "site_id": "boutiquehotel",
+          "published_at": "2026-07-06T14:53:42Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8504,
-      "importance": 0.5848,
-      "importance_score": 0.8504,
+      "score": 0.8489,
+      "importance": 0.5988,
+      "importance_score": 0.8489,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9241,
+        "recency": 0.9941,
         "story_heat": 0.0
       },
       "category": "watch",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-03T02:25:40Z",
-      "latest_at": "2026-07-03T02:25:40Z",
+      "earliest_at": "2026-07-06T14:53:42Z",
+      "latest_at": "2026-07-06T14:53:42Z",
       "primary_item": {
-        "id": "hotelitem_f76fbb220b14",
-        "title": "Creating the Caribbean’s First Longevity Village with TheLifeCo Saint Lucia",
-        "url": "https://insights.ehotelier.com/insights/2026/07/03/creating-the-caribbeans-first-longevity-village-with-thelifeco-saint-lucia/?utm_source=rss&utm_medium=rss&utm_campaign=creating-the-caribbeans-first-longevity-village-with-thelifeco-saint-lucia",
-        "source": "eHotelier",
-        "source_name": "eHotelier"
+        "id": "hotelitem_67cf3c517381",
+        "title": "Chedi Hospitality appoints chief asset and investment officer",
+        "url": "https://boutiquehotelnews.com/news/movers-and-shakers/chedi-asset-investment-officer/?utm_source=rss&utm_medium=rss&utm_campaign=chedi-asset-investment-officer",
+        "source": "Boutique Hotel News",
+        "source_name": "Boutique Hotel News"
       }
     },
     {
@@ -1392,14 +1569,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8503,
-      "importance": 0.5848,
-      "importance_score": 0.8503,
+      "score": 0.8488,
+      "importance": 0.5832,
+      "importance_score": 0.8488,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.924,
+        "recency": 0.9158,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1414,6 +1591,124 @@
         "url": "https://insights.ehotelier.com/suppliers/2026/07/03/food-delivery-apps-are-the-new-otas-and-they-are-quietly-eating-your-hotels-fb-revenue/?utm_source=rss&utm_medium=rss&utm_campaign=food-delivery-apps-are-the-new-otas-and-they-are-quietly-eating-your-hotels-fb-revenue",
         "source": "eHotelier",
         "source_name": "eHotelier"
+      }
+    },
+    {
+      "story_id": "story_f76fbb220b14",
+      "title": "Creating the Caribbean’s First Longevity Village with TheLifeCo Saint Lucia",
+      "url": "https://insights.ehotelier.com/insights/2026/07/03/creating-the-caribbeans-first-longevity-village-with-thelifeco-saint-lucia/?utm_source=rss&utm_medium=rss&utm_campaign=creating-the-caribbeans-first-longevity-village-with-thelifeco-saint-lucia",
+      "primary_url": "https://insights.ehotelier.com/insights/2026/07/03/creating-the-caribbeans-first-longevity-village-with-thelifeco-saint-lucia/?utm_source=rss&utm_medium=rss&utm_campaign=creating-the-caribbeans-first-longevity-village-with-thelifeco-saint-lucia",
+      "source": "eHotelier",
+      "source_name": "eHotelier",
+      "sources": [
+        {
+          "id": "hotelitem_f76fbb220b14",
+          "title": "Creating the Caribbean’s First Longevity Village with TheLifeCo Saint Lucia",
+          "url": "https://insights.ehotelier.com/insights/2026/07/03/creating-the-caribbeans-first-longevity-village-with-thelifeco-saint-lucia/?utm_source=rss&utm_medium=rss&utm_campaign=creating-the-caribbeans-first-longevity-village-with-thelifeco-saint-lucia",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-07-03T02:25:40Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "eHotelier"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_f76fbb220b14",
+          "title": "Creating the Caribbean’s First Longevity Village with TheLifeCo Saint Lucia",
+          "url": "https://insights.ehotelier.com/insights/2026/07/03/creating-the-caribbeans-first-longevity-village-with-thelifeco-saint-lucia/?utm_source=rss&utm_medium=rss&utm_campaign=creating-the-caribbeans-first-longevity-village-with-thelifeco-saint-lucia",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-07-03T02:25:40Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8488,
+      "importance": 0.5832,
+      "importance_score": 0.8488,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9159,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-03T02:25:40Z",
+      "latest_at": "2026-07-03T02:25:40Z",
+      "primary_item": {
+        "id": "hotelitem_f76fbb220b14",
+        "title": "Creating the Caribbean’s First Longevity Village with TheLifeCo Saint Lucia",
+        "url": "https://insights.ehotelier.com/insights/2026/07/03/creating-the-caribbeans-first-longevity-village-with-thelifeco-saint-lucia/?utm_source=rss&utm_medium=rss&utm_campaign=creating-the-caribbeans-first-longevity-village-with-thelifeco-saint-lucia",
+        "source": "eHotelier",
+        "source_name": "eHotelier"
+      }
+    },
+    {
+      "story_id": "story_fcfeba8cc688",
+      "title": "The Dean opens a 281-room lifestyle hotel in Munich",
+      "url": "https://boutiquehotelnews.com/news/hotel/the-dean-munich/?utm_source=rss&utm_medium=rss&utm_campaign=the-dean-munich",
+      "primary_url": "https://boutiquehotelnews.com/news/hotel/the-dean-munich/?utm_source=rss&utm_medium=rss&utm_campaign=the-dean-munich",
+      "source": "Boutique Hotel News",
+      "source_name": "Boutique Hotel News",
+      "sources": [
+        {
+          "id": "hotelitem_fcfeba8cc688",
+          "title": "The Dean opens a 281-room lifestyle hotel in Munich",
+          "url": "https://boutiquehotelnews.com/news/hotel/the-dean-munich/?utm_source=rss&utm_medium=rss&utm_campaign=the-dean-munich",
+          "source": "Boutique Hotel News",
+          "source_name": "Boutique Hotel News",
+          "site_id": "boutiquehotel",
+          "published_at": "2026-07-06T14:38:12Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Boutique Hotel News"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_fcfeba8cc688",
+          "title": "The Dean opens a 281-room lifestyle hotel in Munich",
+          "url": "https://boutiquehotelnews.com/news/hotel/the-dean-munich/?utm_source=rss&utm_medium=rss&utm_campaign=the-dean-munich",
+          "source": "Boutique Hotel News",
+          "source_name": "Boutique Hotel News",
+          "site_id": "boutiquehotel",
+          "published_at": "2026-07-06T14:38:12Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8488,
+      "importance": 0.5988,
+      "importance_score": 0.8488,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9939,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-06T14:38:12Z",
+      "latest_at": "2026-07-06T14:38:12Z",
+      "primary_item": {
+        "id": "hotelitem_fcfeba8cc688",
+        "title": "The Dean opens a 281-room lifestyle hotel in Munich",
+        "url": "https://boutiquehotelnews.com/news/hotel/the-dean-munich/?utm_source=rss&utm_medium=rss&utm_campaign=the-dean-munich",
+        "source": "Boutique Hotel News",
+        "source_name": "Boutique Hotel News"
       }
     },
     {
@@ -1451,14 +1746,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8482,
-      "importance": 0.5826,
-      "importance_score": 0.8482,
+      "score": 0.8466,
+      "importance": 0.5809,
+      "importance_score": 0.8466,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9128,
+        "recency": 0.9047,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1510,14 +1805,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.845,
-      "importance": 0.5792,
-      "importance_score": 0.845,
+      "score": 0.8434,
+      "importance": 0.5776,
+      "importance_score": 0.8434,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8961,
+        "recency": 0.888,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1532,301 +1827,6 @@
         "url": "https://www.hoteldive.com/news/virgin-hotels-collection-appoints-ceo/824285/",
         "source": "Hotel Dive",
         "source_name": "Hotel Dive"
-      }
-    },
-    {
-      "story_id": "story_20cd6b0f068b",
-      "title": "Top hospitality industry executive moves of Q2 2026",
-      "url": "https://www.hoteldive.com/news/top-hospitality-industry-executive-moves-q2-2026/824125/",
-      "primary_url": "https://www.hoteldive.com/news/top-hospitality-industry-executive-moves-q2-2026/824125/",
-      "source": "Hotel Dive",
-      "source_name": "Hotel Dive",
-      "sources": [
-        {
-          "id": "hotelitem_20cd6b0f068b",
-          "title": "Top hospitality industry executive moves of Q2 2026",
-          "url": "https://www.hoteldive.com/news/top-hospitality-industry-executive-moves-q2-2026/824125/",
-          "source": "Hotel Dive",
-          "source_name": "Hotel Dive",
-          "site_id": "hoteldive",
-          "published_at": "2026-07-01T13:13:03Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hotel Dive"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_20cd6b0f068b",
-          "title": "Top hospitality industry executive moves of Q2 2026",
-          "url": "https://www.hoteldive.com/news/top-hospitality-industry-executive-moves-q2-2026/824125/",
-          "source": "Hotel Dive",
-          "source_name": "Hotel Dive",
-          "site_id": "hoteldive",
-          "published_at": "2026-07-01T13:13:03Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8437,
-      "importance": 0.5779,
-      "importance_score": 0.8437,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.8896,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-01T13:13:03Z",
-      "latest_at": "2026-07-01T13:13:03Z",
-      "primary_item": {
-        "id": "hotelitem_20cd6b0f068b",
-        "title": "Top hospitality industry executive moves of Q2 2026",
-        "url": "https://www.hoteldive.com/news/top-hospitality-industry-executive-moves-q2-2026/824125/",
-        "source": "Hotel Dive",
-        "source_name": "Hotel Dive"
-      }
-    },
-    {
-      "story_id": "story_081342dccc76",
-      "title": "Upgrade every stay with TVs designed to make you money",
-      "url": "https://www.hotelmanagement.net/resource/upgrade-every-stay-tvs-designed-make-you-money",
-      "primary_url": "https://www.hotelmanagement.net/resource/upgrade-every-stay-tvs-designed-make-you-money",
-      "source": "Hotel Management",
-      "source_name": "Hotel Management",
-      "sources": [
-        {
-          "id": "hotelitem_081342dccc76",
-          "title": "Upgrade every stay with TVs designed to make you money",
-          "url": "https://www.hotelmanagement.net/resource/upgrade-every-stay-tvs-designed-make-you-money",
-          "source": "Hotel Management",
-          "source_name": "Hotel Management",
-          "site_id": "hotelmgmt",
-          "published_at": "2026-07-01T11:42:11Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hotel Management"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_081342dccc76",
-          "title": "Upgrade every stay with TVs designed to make you money",
-          "url": "https://www.hotelmanagement.net/resource/upgrade-every-stay-tvs-designed-make-you-money",
-          "source": "Hotel Management",
-          "source_name": "Hotel Management",
-          "site_id": "hotelmgmt",
-          "published_at": "2026-07-01T11:42:11Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8434,
-      "importance": 0.5776,
-      "importance_score": 0.8434,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.8882,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-01T11:42:11Z",
-      "latest_at": "2026-07-01T11:42:11Z",
-      "primary_item": {
-        "id": "hotelitem_081342dccc76",
-        "title": "Upgrade every stay with TVs designed to make you money",
-        "url": "https://www.hotelmanagement.net/resource/upgrade-every-stay-tvs-designed-make-you-money",
-        "source": "Hotel Management",
-        "source_name": "Hotel Management"
-      }
-    },
-    {
-      "story_id": "story_ac2d4b8aa4be",
-      "title": "Not For Sale: Sandals CEO Shuts Down Deal Rumors",
-      "url": "https://skift.com/2026/06/30/not-for-sale-sandals-ceo-shuts-down-deal-rumors/",
-      "primary_url": "https://skift.com/2026/06/30/not-for-sale-sandals-ceo-shuts-down-deal-rumors/",
-      "source": "Skift Hospitality",
-      "source_name": "Skift Hospitality",
-      "sources": [
-        {
-          "id": "hotelitem_ac2d4b8aa4be",
-          "title": "Not For Sale: Sandals CEO Shuts Down Deal Rumors",
-          "url": "https://skift.com/2026/06/30/not-for-sale-sandals-ceo-shuts-down-deal-rumors/",
-          "source": "Skift Hospitality",
-          "source_name": "Skift Hospitality",
-          "site_id": "skift",
-          "published_at": "2026-06-30T18:23:38Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Skift Hospitality"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_ac2d4b8aa4be",
-          "title": "Not For Sale: Sandals CEO Shuts Down Deal Rumors",
-          "url": "https://skift.com/2026/06/30/not-for-sale-sandals-ceo-shuts-down-deal-rumors/",
-          "source": "Skift Hospitality",
-          "source_name": "Skift Hospitality",
-          "site_id": "skift",
-          "published_at": "2026-06-30T18:23:38Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8404,
-      "importance": 0.5744,
-      "importance_score": 0.8404,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.8722,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-30T18:23:38Z",
-      "latest_at": "2026-06-30T18:23:38Z",
-      "primary_item": {
-        "id": "hotelitem_ac2d4b8aa4be",
-        "title": "Not For Sale: Sandals CEO Shuts Down Deal Rumors",
-        "url": "https://skift.com/2026/06/30/not-for-sale-sandals-ceo-shuts-down-deal-rumors/",
-        "source": "Skift Hospitality",
-        "source_name": "Skift Hospitality"
-      }
-    },
-    {
-      "story_id": "story_a40d7ba18a53",
-      "title": "Hotel Tech-in: The dual-strategy loyalty product producing instant rewards",
-      "url": "https://www.hoteldive.com/news/tech-enabled-hotel-loyalty-program-instant-rewards-laasie/824076/",
-      "primary_url": "https://www.hoteldive.com/news/tech-enabled-hotel-loyalty-program-instant-rewards-laasie/824076/",
-      "source": "Hotel Dive",
-      "source_name": "Hotel Dive",
-      "sources": [
-        {
-          "id": "hotelitem_a40d7ba18a53",
-          "title": "Hotel Tech-in: The dual-strategy loyalty product producing instant rewards",
-          "url": "https://www.hoteldive.com/news/tech-enabled-hotel-loyalty-program-instant-rewards-laasie/824076/",
-          "source": "Hotel Dive",
-          "source_name": "Hotel Dive",
-          "site_id": "hoteldive",
-          "published_at": "2026-06-30T13:54:03Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hotel Dive"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_a40d7ba18a53",
-          "title": "Hotel Tech-in: The dual-strategy loyalty product producing instant rewards",
-          "url": "https://www.hoteldive.com/news/tech-enabled-hotel-loyalty-program-instant-rewards-laasie/824076/",
-          "source": "Hotel Dive",
-          "source_name": "Hotel Dive",
-          "site_id": "hoteldive",
-          "published_at": "2026-06-30T13:54:03Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8395,
-      "importance": 0.5736,
-      "importance_score": 0.8395,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.868,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-30T13:54:03Z",
-      "latest_at": "2026-06-30T13:54:03Z",
-      "primary_item": {
-        "id": "hotelitem_a40d7ba18a53",
-        "title": "Hotel Tech-in: The dual-strategy loyalty product producing instant rewards",
-        "url": "https://www.hoteldive.com/news/tech-enabled-hotel-loyalty-program-instant-rewards-laasie/824076/",
-        "source": "Hotel Dive",
-        "source_name": "Hotel Dive"
-      }
-    },
-    {
-      "story_id": "story_183058955b92",
-      "title": "U.S. Motel 6 Business Is Driving Prism’s Indian IPO, New Filing Shows",
-      "url": "https://skift.com/2026/06/30/u-s-motel-6-business-is-driving-prisms-indian-ipo-new-filing-shows/",
-      "primary_url": "https://skift.com/2026/06/30/u-s-motel-6-business-is-driving-prisms-indian-ipo-new-filing-shows/",
-      "source": "Skift Hospitality",
-      "source_name": "Skift Hospitality",
-      "sources": [
-        {
-          "id": "hotelitem_183058955b92",
-          "title": "U.S. Motel 6 Business Is Driving Prism’s Indian IPO, New Filing Shows",
-          "url": "https://skift.com/2026/06/30/u-s-motel-6-business-is-driving-prisms-indian-ipo-new-filing-shows/",
-          "source": "Skift Hospitality",
-          "source_name": "Skift Hospitality",
-          "site_id": "skift",
-          "published_at": "2026-06-30T12:26:03Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Skift Hospitality"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_183058955b92",
-          "title": "U.S. Motel 6 Business Is Driving Prism’s Indian IPO, New Filing Shows",
-          "url": "https://skift.com/2026/06/30/u-s-motel-6-business-is-driving-prisms-indian-ipo-new-filing-shows/",
-          "source": "Skift Hospitality",
-          "source_name": "Skift Hospitality",
-          "site_id": "skift",
-          "published_at": "2026-06-30T12:26:03Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8393,
-      "importance": 0.5733,
-      "importance_score": 0.8393,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.8667,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-30T12:26:03Z",
-      "latest_at": "2026-06-30T12:26:03Z",
-      "primary_item": {
-        "id": "hotelitem_183058955b92",
-        "title": "U.S. Motel 6 Business Is Driving Prism’s Indian IPO, New Filing Shows",
-        "url": "https://skift.com/2026/06/30/u-s-motel-6-business-is-driving-prisms-indian-ipo-new-filing-shows/",
-        "source": "Skift Hospitality",
-        "source_name": "Skift Hospitality"
       }
     }
   ]
