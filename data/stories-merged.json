@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-06T21:13:29.250517Z",
+  "generated_at": "2026-07-07T10:30:24.312458Z",
   "window_hours": 1080,
   "total_stories": 30,
   "stories": [
@@ -38,14 +38,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9846,
-      "importance": 0.571,
-      "importance_score": 0.9846,
+      "score": 0.982,
+      "importance": 0.5686,
+      "importance_score": 0.982,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8551,
+        "recency": 0.8428,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -97,14 +97,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9536,
-      "importance": 0.5986,
-      "importance_score": 0.9536,
+      "score": 0.9513,
+      "importance": 0.5961,
+      "importance_score": 0.9513,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9929,
+        "recency": 0.9806,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -119,65 +119,6 @@
         "url": "https://www.hoteldive.com/news/ihg-opens-dual-branded-staybridge-even-hotel-orlando/824449/",
         "source": "Hotel Dive",
         "source_name": "Hotel Dive"
-      }
-    },
-    {
-      "story_id": "story_8110de66887c",
-      "title": "Ascott to bring Oakwood brand to Ho Chi Minh City’s Thao Dien District",
-      "url": "https://insights.ehotelier.com/properties/2026/07/06/ascott-to-bring-oakwood-brand-to-ho-chi-minh-citys-thao-dien-district/?utm_source=rss&utm_medium=rss&utm_campaign=ascott-to-bring-oakwood-brand-to-ho-chi-minh-citys-thao-dien-district",
-      "primary_url": "https://insights.ehotelier.com/properties/2026/07/06/ascott-to-bring-oakwood-brand-to-ho-chi-minh-citys-thao-dien-district/?utm_source=rss&utm_medium=rss&utm_campaign=ascott-to-bring-oakwood-brand-to-ho-chi-minh-citys-thao-dien-district",
-      "source": "eHotelier",
-      "source_name": "eHotelier",
-      "sources": [
-        {
-          "id": "hotelitem_8110de66887c",
-          "title": "Ascott to bring Oakwood brand to Ho Chi Minh City’s Thao Dien District",
-          "url": "https://insights.ehotelier.com/properties/2026/07/06/ascott-to-bring-oakwood-brand-to-ho-chi-minh-citys-thao-dien-district/?utm_source=rss&utm_medium=rss&utm_campaign=ascott-to-bring-oakwood-brand-to-ho-chi-minh-citys-thao-dien-district",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-07-06T00:31:53Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "eHotelier"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_8110de66887c",
-          "title": "Ascott to bring Oakwood brand to Ho Chi Minh City’s Thao Dien District",
-          "url": "https://insights.ehotelier.com/properties/2026/07/06/ascott-to-bring-oakwood-brand-to-ho-chi-minh-citys-thao-dien-district/?utm_source=rss&utm_medium=rss&utm_campaign=ascott-to-bring-oakwood-brand-to-ho-chi-minh-citys-thao-dien-district",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-07-06T00:31:53Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.9513,
-      "importance": 0.5962,
-      "importance_score": 0.9513,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9808,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-06T00:31:53Z",
-      "latest_at": "2026-07-06T00:31:53Z",
-      "primary_item": {
-        "id": "hotelitem_8110de66887c",
-        "title": "Ascott to bring Oakwood brand to Ho Chi Minh City’s Thao Dien District",
-        "url": "https://insights.ehotelier.com/properties/2026/07/06/ascott-to-bring-oakwood-brand-to-ho-chi-minh-citys-thao-dien-district/?utm_source=rss&utm_medium=rss&utm_campaign=ascott-to-bring-oakwood-brand-to-ho-chi-minh-citys-thao-dien-district",
-        "source": "eHotelier",
-        "source_name": "eHotelier"
       }
     },
     {
@@ -215,14 +156,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9513,
-      "importance": 0.5962,
-      "importance_score": 0.9513,
+      "score": 0.949,
+      "importance": 0.5937,
+      "importance_score": 0.949,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.981,
+        "recency": 0.9687,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -237,6 +178,65 @@
         "url": "https://insights.ehotelier.com/global-news/2026/07/06/radisson-hotel-group-launches-hospitality-industry-leading-ai-powered-real-time-price-matching-technology/?utm_source=rss&utm_medium=rss&utm_campaign=radisson-hotel-group-launches-hospitality-industry-leading-ai-powered-real-time-price-matching-technology",
         "source": "eHotelier",
         "source_name": "eHotelier"
+      }
+    },
+    {
+      "story_id": "story_9699887c72ea",
+      "title": "中国旅游研究院与中青旅控股股份有限公司开展主题党日联学联",
+      "url": "https://www.ctaweb.org.cn/gongzuodongtai/10519.html",
+      "primary_url": "https://www.ctaweb.org.cn/gongzuodongtai/10519.html",
+      "source": "中国旅游研究院",
+      "source_name": "中国旅游研究院",
+      "sources": [
+        {
+          "id": "hotelitem_9699887c72ea",
+          "title": "中国旅游研究院与中青旅控股股份有限公司开展主题党日联学联",
+          "url": "https://www.ctaweb.org.cn/gongzuodongtai/10519.html",
+          "source": "中国旅游研究院",
+          "source_name": "中国旅游研究院",
+          "site_id": "cta",
+          "published_at": "2026-07-07T10:30:24.312458Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "中国旅游研究院"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_9699887c72ea",
+          "title": "中国旅游研究院与中青旅控股股份有限公司开展主题党日联学联",
+          "url": "https://www.ctaweb.org.cn/gongzuodongtai/10519.html",
+          "source": "中国旅游研究院",
+          "source_name": "中国旅游研究院",
+          "site_id": "cta",
+          "published_at": "2026-07-07T10:30:24.312458Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.948,
+      "importance": 0.6,
+      "importance_score": 0.948,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-07T10:30:24.312458Z",
+      "latest_at": "2026-07-07T10:30:24.312458Z",
+      "primary_item": {
+        "id": "hotelitem_9699887c72ea",
+        "title": "中国旅游研究院与中青旅控股股份有限公司开展主题党日联学联",
+        "url": "https://www.ctaweb.org.cn/gongzuodongtai/10519.html",
+        "source": "中国旅游研究院",
+        "source_name": "中国旅游研究院"
       }
     },
     {
@@ -274,14 +274,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9373,
-      "importance": 0.5817,
-      "importance_score": 0.9373,
+      "score": 0.9349,
+      "importance": 0.5792,
+      "importance_score": 0.9349,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9083,
+        "recency": 0.896,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -333,14 +333,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9321,
-      "importance": 0.5763,
-      "importance_score": 0.9321,
+      "score": 0.9298,
+      "importance": 0.5738,
+      "importance_score": 0.9298,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8814,
+        "recency": 0.8691,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -392,14 +392,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9291,
-      "importance": 0.5732,
-      "importance_score": 0.9291,
+      "score": 0.9268,
+      "importance": 0.5707,
+      "importance_score": 0.9268,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8659,
+        "recency": 0.8536,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -431,7 +431,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-06T21:13:29.250517Z"
+          "published_at": "2026-07-07T10:30:24.312458Z"
         },
         {
           "id": "hotelitem_c7c15b7680c9",
@@ -440,7 +440,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-06T21:13:29.250517Z"
+          "published_at": "2026-07-07T10:30:24.312458Z"
         },
         {
           "id": "hotelitem_6d8fa145e8af",
@@ -449,7 +449,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-06T21:13:29.250517Z"
+          "published_at": "2026-07-07T10:30:24.312458Z"
         }
       ],
       "source_count": 3,
@@ -464,7 +464,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-06T21:13:29.250517Z"
+          "published_at": "2026-07-07T10:30:24.312458Z"
         },
         {
           "id": "hotelitem_c7c15b7680c9",
@@ -473,7 +473,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-06T21:13:29.250517Z"
+          "published_at": "2026-07-07T10:30:24.312458Z"
         },
         {
           "id": "hotelitem_6d8fa145e8af",
@@ -482,7 +482,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-06T21:13:29.250517Z"
+          "published_at": "2026-07-07T10:30:24.312458Z"
         }
       ],
       "item_count": 3,
@@ -502,8 +502,8 @@
         "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-06T21:13:29.250517Z",
-      "latest_at": "2026-07-06T21:13:29.250517Z",
+      "earliest_at": "2026-07-07T10:30:24.312458Z",
+      "latest_at": "2026-07-07T10:30:24.312458Z",
       "primary_item": {
         "id": "hotelitem_d4370964909c",
         "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
@@ -547,14 +547,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9036,
-      "importance": 0.5543,
-      "importance_score": 0.9036,
+      "score": 0.9,
+      "importance": 0.5518,
+      "importance_score": 0.9,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.7715,
+        "recency": 0.7592,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -586,7 +586,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-07-06T21:13:29.250517Z"
+          "published_at": "2026-07-07T10:30:24.312458Z"
         }
       ],
       "source_count": 1,
@@ -601,7 +601,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-07-06T21:13:29.250517Z"
+          "published_at": "2026-07-07T10:30:24.312458Z"
         }
       ],
       "item_count": 1,
@@ -620,8 +620,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-06T21:13:29.250517Z",
-      "latest_at": "2026-07-06T21:13:29.250517Z",
+      "earliest_at": "2026-07-07T10:30:24.312458Z",
+      "latest_at": "2026-07-07T10:30:24.312458Z",
       "primary_item": {
         "id": "hotelitem_86885009de08",
         "title": "文旅惠报|岭南控股与重庆黔江区签署战略合作协议；厦门国有资本牵手阿那亚，打造集美岛滨海文旅项目",
@@ -645,7 +645,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-07-06T21:13:29.250517Z"
+          "published_at": "2026-07-07T10:30:24.312458Z"
         }
       ],
       "source_count": 1,
@@ -660,7 +660,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-07-06T21:13:29.250517Z"
+          "published_at": "2026-07-07T10:30:24.312458Z"
         }
       ],
       "item_count": 1,
@@ -679,8 +679,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-06T21:13:29.250517Z",
-      "latest_at": "2026-07-06T21:13:29.250517Z",
+      "earliest_at": "2026-07-07T10:30:24.312458Z",
+      "latest_at": "2026-07-07T10:30:24.312458Z",
       "primary_item": {
         "id": "hotelitem_d94f35b8bbdc",
         "title": "文旅惠报|开封清明上河园向港交所提交上市申请；万豪国际全球酒店数量正式破万家",
@@ -704,7 +704,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-07-06T21:13:29.250517Z"
+          "published_at": "2026-07-07T10:30:24.312458Z"
         }
       ],
       "source_count": 1,
@@ -719,7 +719,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-07-06T21:13:29.250517Z"
+          "published_at": "2026-07-07T10:30:24.312458Z"
         }
       ],
       "item_count": 1,
@@ -738,8 +738,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-06T21:13:29.250517Z",
-      "latest_at": "2026-07-06T21:13:29.250517Z",
+      "earliest_at": "2026-07-07T10:30:24.312458Z",
+      "latest_at": "2026-07-07T10:30:24.312458Z",
       "primary_item": {
         "id": "hotelitem_7a0aafcf6ecc",
         "title": "文旅惠报|澳门银河与Trip.com签订三年战略合作协议；盈新发展转让西宁置业100%股权",
@@ -763,7 +763,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-07-06T21:13:29.250517Z"
+          "published_at": "2026-07-07T10:30:24.312458Z"
         }
       ],
       "source_count": 1,
@@ -778,7 +778,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-07-06T21:13:29.250517Z"
+          "published_at": "2026-07-07T10:30:24.312458Z"
         }
       ],
       "item_count": 1,
@@ -797,8 +797,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-06T21:13:29.250517Z",
-      "latest_at": "2026-07-06T21:13:29.250517Z",
+      "earliest_at": "2026-07-07T10:30:24.312458Z",
+      "latest_at": "2026-07-07T10:30:24.312458Z",
       "primary_item": {
         "id": "hotelitem_8bd428772b3b",
         "title": "文旅惠报|许铭出任锦江国际集团总裁；西藏旅游拟以6970.65万元公积金弥补累计亏损",
@@ -822,7 +822,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-07-06T21:13:29.250517Z"
+          "published_at": "2026-07-07T10:30:24.312458Z"
         }
       ],
       "source_count": 1,
@@ -837,7 +837,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-07-06T21:13:29.250517Z"
+          "published_at": "2026-07-07T10:30:24.312458Z"
         }
       ],
       "item_count": 1,
@@ -856,8 +856,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-06T21:13:29.250517Z",
-      "latest_at": "2026-07-06T21:13:29.250517Z",
+      "earliest_at": "2026-07-07T10:30:24.312458Z",
+      "latest_at": "2026-07-07T10:30:24.312458Z",
       "primary_item": {
         "id": "hotelitem_4966ad3512b4",
         "title": "文旅惠报|雅高集团CEO宣布2028年卸任；众信优游与中视实业集团达成深度合作",
@@ -867,62 +867,121 @@
       }
     },
     {
-      "story_id": "story_1045d1d0ca7a",
-      "title": "TMC调查黑客入侵传闻；航空联盟再生变数 | 一周商旅动态",
-      "url": "https://www.traveldaily.cn/article/190287",
-      "primary_url": "https://www.traveldaily.cn/article/190287",
-      "source": "环球旅讯 TravelDaily",
-      "source_name": "环球旅讯 TravelDaily",
+      "story_id": "story_6bed83be8207",
+      "title": "Milos Nedovic appointed as Chief Asset & Investment Officer at Chedi Hospitality",
+      "url": "https://insights.ehotelier.com/people/2026/07/07/milos-nedovic-appointed-as-chief-asset-investment-officer-at-chedi-hospitality/?utm_source=rss&utm_medium=rss&utm_campaign=milos-nedovic-appointed-as-chief-asset-investment-officer-at-chedi-hospitality",
+      "primary_url": "https://insights.ehotelier.com/people/2026/07/07/milos-nedovic-appointed-as-chief-asset-investment-officer-at-chedi-hospitality/?utm_source=rss&utm_medium=rss&utm_campaign=milos-nedovic-appointed-as-chief-asset-investment-officer-at-chedi-hospitality",
+      "source": "eHotelier",
+      "source_name": "eHotelier",
       "sources": [
         {
-          "id": "hotelitem_1045d1d0ca7a",
-          "title": "TMC调查黑客入侵传闻；航空联盟再生变数 | 一周商旅动态",
-          "url": "https://www.traveldaily.cn/article/190287",
-          "source": "环球旅讯 TravelDaily",
-          "source_name": "环球旅讯 TravelDaily",
-          "site_id": "traveldaily",
-          "published_at": "2026-06-28T11:07:51Z"
+          "id": "hotelitem_6bed83be8207",
+          "title": "Milos Nedovic appointed as Chief Asset & Investment Officer at Chedi Hospitality",
+          "url": "https://insights.ehotelier.com/people/2026/07/07/milos-nedovic-appointed-as-chief-asset-investment-officer-at-chedi-hospitality/?utm_source=rss&utm_medium=rss&utm_campaign=milos-nedovic-appointed-as-chief-asset-investment-officer-at-chedi-hospitality",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-07-07T00:43:03Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "环球旅讯 TravelDaily"
+        "eHotelier"
       ],
       "items": [
         {
-          "id": "hotelitem_1045d1d0ca7a",
-          "title": "TMC调查黑客入侵传闻；航空联盟再生变数 | 一周商旅动态",
-          "url": "https://www.traveldaily.cn/article/190287",
-          "source": "环球旅讯 TravelDaily",
-          "source_name": "环球旅讯 TravelDaily",
-          "site_id": "traveldaily",
-          "published_at": "2026-06-28T11:07:51Z"
+          "id": "hotelitem_6bed83be8207",
+          "title": "Milos Nedovic appointed as Chief Asset & Investment Officer at Chedi Hospitality",
+          "url": "https://insights.ehotelier.com/people/2026/07/07/milos-nedovic-appointed-as-chief-asset-investment-officer-at-chedi-hospitality/?utm_source=rss&utm_medium=rss&utm_campaign=milos-nedovic-appointed-as-chief-asset-investment-officer-at-chedi-hospitality",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-07-07T00:43:03Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8832,
-      "importance": 0.5626,
-      "importance_score": 0.8832,
+      "score": 0.8633,
+      "importance": 0.5982,
+      "importance_score": 0.8633,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8129,
+        "recency": 0.9909,
         "story_heat": 0.0
       },
       "category": "watch",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-06-28T11:07:51Z",
-      "latest_at": "2026-06-28T11:07:51Z",
+      "earliest_at": "2026-07-07T00:43:03Z",
+      "latest_at": "2026-07-07T00:43:03Z",
       "primary_item": {
-        "id": "hotelitem_1045d1d0ca7a",
-        "title": "TMC调查黑客入侵传闻；航空联盟再生变数 | 一周商旅动态",
-        "url": "https://www.traveldaily.cn/article/190287",
-        "source": "环球旅讯 TravelDaily",
-        "source_name": "环球旅讯 TravelDaily"
+        "id": "hotelitem_6bed83be8207",
+        "title": "Milos Nedovic appointed as Chief Asset & Investment Officer at Chedi Hospitality",
+        "url": "https://insights.ehotelier.com/people/2026/07/07/milos-nedovic-appointed-as-chief-asset-investment-officer-at-chedi-hospitality/?utm_source=rss&utm_medium=rss&utm_campaign=milos-nedovic-appointed-as-chief-asset-investment-officer-at-chedi-hospitality",
+        "source": "eHotelier",
+        "source_name": "eHotelier"
+      }
+    },
+    {
+      "story_id": "story_9dacc3dd8cc9",
+      "title": "Paper Moon debuts at the iconic Cervo Hotel in Porto Cervo, Sardinia’s Costa Smeralda",
+      "url": "https://insights.ehotelier.com/properties/2026/07/07/paper-moon-debuts-at-the-iconic-cervo-hotel-in-porto-cervo-sardinias-costa-smeralda/?utm_source=rss&utm_medium=rss&utm_campaign=paper-moon-debuts-at-the-iconic-cervo-hotel-in-porto-cervo-sardinias-costa-smeralda",
+      "primary_url": "https://insights.ehotelier.com/properties/2026/07/07/paper-moon-debuts-at-the-iconic-cervo-hotel-in-porto-cervo-sardinias-costa-smeralda/?utm_source=rss&utm_medium=rss&utm_campaign=paper-moon-debuts-at-the-iconic-cervo-hotel-in-porto-cervo-sardinias-costa-smeralda",
+      "source": "eHotelier",
+      "source_name": "eHotelier",
+      "sources": [
+        {
+          "id": "hotelitem_9dacc3dd8cc9",
+          "title": "Paper Moon debuts at the iconic Cervo Hotel in Porto Cervo, Sardinia’s Costa Smeralda",
+          "url": "https://insights.ehotelier.com/properties/2026/07/07/paper-moon-debuts-at-the-iconic-cervo-hotel-in-porto-cervo-sardinias-costa-smeralda/?utm_source=rss&utm_medium=rss&utm_campaign=paper-moon-debuts-at-the-iconic-cervo-hotel-in-porto-cervo-sardinias-costa-smeralda",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-07-07T00:40:17Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "eHotelier"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_9dacc3dd8cc9",
+          "title": "Paper Moon debuts at the iconic Cervo Hotel in Porto Cervo, Sardinia’s Costa Smeralda",
+          "url": "https://insights.ehotelier.com/properties/2026/07/07/paper-moon-debuts-at-the-iconic-cervo-hotel-in-porto-cervo-sardinias-costa-smeralda/?utm_source=rss&utm_medium=rss&utm_campaign=paper-moon-debuts-at-the-iconic-cervo-hotel-in-porto-cervo-sardinias-costa-smeralda",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-07-07T00:40:17Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8632,
+      "importance": 0.5982,
+      "importance_score": 0.8632,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9909,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-07T00:40:17Z",
+      "latest_at": "2026-07-07T00:40:17Z",
+      "primary_item": {
+        "id": "hotelitem_9dacc3dd8cc9",
+        "title": "Paper Moon debuts at the iconic Cervo Hotel in Porto Cervo, Sardinia’s Costa Smeralda",
+        "url": "https://insights.ehotelier.com/properties/2026/07/07/paper-moon-debuts-at-the-iconic-cervo-hotel-in-porto-cervo-sardinias-costa-smeralda/?utm_source=rss&utm_medium=rss&utm_campaign=paper-moon-debuts-at-the-iconic-cervo-hotel-in-porto-cervo-sardinias-costa-smeralda",
+        "source": "eHotelier",
+        "source_name": "eHotelier"
       }
     },
     {
@@ -960,14 +1019,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8647,
-      "importance": 0.5997,
-      "importance_score": 0.8647,
+      "score": 0.8623,
+      "importance": 0.5972,
+      "importance_score": 0.8623,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9984,
+        "recency": 0.9861,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1019,14 +1078,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8639,
-      "importance": 0.5989,
-      "importance_score": 0.8639,
+      "score": 0.8615,
+      "importance": 0.5964,
+      "importance_score": 0.8615,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9944,
+        "recency": 0.9821,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1041,6 +1100,84 @@
         "url": "https://www.hoteldive.com/news/hotels-world-cup-host-cities-exceed-revpar-forecast/824474/",
         "source": "Hotel Dive",
         "source_name": "Hotel Dive"
+      }
+    },
+    {
+      "story_id": "story_f293a3354c9e",
+      "title": "指数发布 | 中国住宿业消费指数报告（2026年5月）发布 为贯彻落实提振消费相关政策，真实反映中国住宿餐饮业市场消费情况，以数据引导促消费政策精准发力，为行业发展提供参考建议，中国饭店协会每月公开发布“中国饭店业消费指数体系”，包含“中国住宿业消费指数（China Hotel Industry Consumption Index, HCI）”与“中国餐饮业消费指数(China Catering Industry Consumption Index, CCI)”，欢迎关注。\n本篇发布的是“中国住宿业消费指数”。",
+      "url": "https://www.chinahotel.org.cn/articles/17871",
+      "primary_url": "https://www.chinahotel.org.cn/articles/17871",
+      "source": "中国饭店协会",
+      "source_name": "中国饭店协会",
+      "sources": [
+        {
+          "id": "hotelitem_e4f19d9fa626",
+          "title": "指数发布 | 中国住宿业消费指数报告（2026年5月）发布 为贯彻落实提振消费相关政策，真实反映中国住宿餐饮业市场消费情况，以数据引导促消费政策精准发力，为行业发展提供参考建议，中国饭店协会每月公开发布“中国饭店业消费指数体系”，包含“中国住宿业消费指数（China Hotel Industry Consumption Index, HCI）”与“中国餐饮业消费指数(China Catering Industry Consumption Index, CCI)”，欢迎关注。\n本篇发布的是“中国住宿业消费指数”。",
+          "url": "https://www.chinahotel.org.cn/articles/17871",
+          "source": "中国饭店协会",
+          "source_name": "中国饭店协会",
+          "site_id": "chinahotel",
+          "published_at": "2026-07-07T10:30:24.312458Z"
+        },
+        {
+          "id": "hotelitem_f293a3354c9e",
+          "title": "指数发布 | 中国餐饮业消费指数报告（2026年5月）发布 为贯彻落实提振消费相关政策，真实反映中国住宿餐饮业市场消费情况，以数据引导促消费政策精准发力，为行业发展提供参考建议，中国饭店协会每月公开发布“中国饭店业消费指数体系”，包含“中国住宿业消费指数（China Hotel Industry Consumption Index, HCI）”与“中国餐饮业消费指数(China Catering Industry Consumption Index, CCI)”，欢迎关注。\n本篇发布的是“中国餐饮业消费指数”。",
+          "url": "https://www.chinahotel.org.cn/articles/17875",
+          "source": "中国饭店协会",
+          "source_name": "中国饭店协会",
+          "site_id": "chinahotel",
+          "published_at": "2026-07-07T10:30:24.312458Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "中国饭店协会"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_e4f19d9fa626",
+          "title": "指数发布 | 中国住宿业消费指数报告（2026年5月）发布 为贯彻落实提振消费相关政策，真实反映中国住宿餐饮业市场消费情况，以数据引导促消费政策精准发力，为行业发展提供参考建议，中国饭店协会每月公开发布“中国饭店业消费指数体系”，包含“中国住宿业消费指数（China Hotel Industry Consumption Index, HCI）”与“中国餐饮业消费指数(China Catering Industry Consumption Index, CCI)”，欢迎关注。\n本篇发布的是“中国住宿业消费指数”。",
+          "url": "https://www.chinahotel.org.cn/articles/17871",
+          "source": "中国饭店协会",
+          "source_name": "中国饭店协会",
+          "site_id": "chinahotel",
+          "published_at": "2026-07-07T10:30:24.312458Z"
+        },
+        {
+          "id": "hotelitem_f293a3354c9e",
+          "title": "指数发布 | 中国餐饮业消费指数报告（2026年5月）发布 为贯彻落实提振消费相关政策，真实反映中国住宿餐饮业市场消费情况，以数据引导促消费政策精准发力，为行业发展提供参考建议，中国饭店协会每月公开发布“中国饭店业消费指数体系”，包含“中国住宿业消费指数（China Hotel Industry Consumption Index, HCI）”与“中国餐饮业消费指数(China Catering Industry Consumption Index, CCI)”，欢迎关注。\n本篇发布的是“中国餐饮业消费指数”。",
+          "url": "https://www.chinahotel.org.cn/articles/17875",
+          "source": "中国饭店协会",
+          "source_name": "中国饭店协会",
+          "site_id": "chinahotel",
+          "published_at": "2026-07-07T10:30:24.312458Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.86,
+      "importance": 0.625,
+      "importance_score": 0.86,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-07T10:30:24.312458Z",
+      "latest_at": "2026-07-07T10:30:24.312458Z",
+      "primary_item": {
+        "id": "hotelitem_e4f19d9fa626",
+        "title": "指数发布 | 中国住宿业消费指数报告（2026年5月）发布 为贯彻落实提振消费相关政策，真实反映中国住宿餐饮业市场消费情况，以数据引导促消费政策精准发力，为行业发展提供参考建议，中国饭店协会每月公开发布“中国饭店业消费指数体系”，包含“中国住宿业消费指数（China Hotel Industry Consumption Index, HCI）”与“中国餐饮业消费指数(China Catering Industry Consumption Index, CCI)”，欢迎关注。\n本篇发布的是“中国住宿业消费指数”。",
+        "url": "https://www.chinahotel.org.cn/articles/17871",
+        "source": "中国饭店协会",
+        "source_name": "中国饭店协会"
       }
     },
     {
@@ -1078,14 +1215,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8613,
-      "importance": 0.5962,
-      "importance_score": 0.8613,
+      "score": 0.859,
+      "importance": 0.5937,
+      "importance_score": 0.859,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.981,
+        "recency": 0.9687,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1137,14 +1274,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8613,
-      "importance": 0.5962,
-      "importance_score": 0.8613,
+      "score": 0.859,
+      "importance": 0.5938,
+      "importance_score": 0.859,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9811,
+        "recency": 0.9688,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1162,81 +1299,180 @@
       }
     },
     {
-      "story_id": "story_f293a3354c9e",
-      "title": "指数发布 | 中国住宿业消费指数报告（2026年5月）发布 为贯彻落实提振消费相关政策，真实反映中国住宿餐饮业市场消费情况，以数据引导促消费政策精准发力，为行业发展提供参考建议，中国饭店协会每月公开发布“中国饭店业消费指数体系”，包含“中国住宿业消费指数（China Hotel Industry Consumption Index, HCI）”与“中国餐饮业消费指数(China Catering Industry Consumption Index, CCI)”，欢迎关注。\n本篇发布的是“中国住宿业消费指数”。",
-      "url": "https://www.chinahotel.org.cn/articles/17871",
-      "primary_url": "https://www.chinahotel.org.cn/articles/17871",
-      "source": "中国饭店协会",
-      "source_name": "中国饭店协会",
+      "story_id": "story_e4ce0593c384",
+      "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
+      "url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
+      "primary_url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
+      "source": "中国旅游研究院",
+      "source_name": "中国旅游研究院",
       "sources": [
         {
-          "id": "hotelitem_e4f19d9fa626",
-          "title": "指数发布 | 中国住宿业消费指数报告（2026年5月）发布 为贯彻落实提振消费相关政策，真实反映中国住宿餐饮业市场消费情况，以数据引导促消费政策精准发力，为行业发展提供参考建议，中国饭店协会每月公开发布“中国饭店业消费指数体系”，包含“中国住宿业消费指数（China Hotel Industry Consumption Index, HCI）”与“中国餐饮业消费指数(China Catering Industry Consumption Index, CCI)”，欢迎关注。\n本篇发布的是“中国住宿业消费指数”。",
-          "url": "https://www.chinahotel.org.cn/articles/17871",
-          "source": "中国饭店协会",
-          "source_name": "中国饭店协会",
-          "site_id": "chinahotel",
-          "published_at": "2026-07-06T21:13:29.250517Z"
-        },
-        {
-          "id": "hotelitem_f293a3354c9e",
-          "title": "指数发布 | 中国餐饮业消费指数报告（2026年5月）发布 为贯彻落实提振消费相关政策，真实反映中国住宿餐饮业市场消费情况，以数据引导促消费政策精准发力，为行业发展提供参考建议，中国饭店协会每月公开发布“中国饭店业消费指数体系”，包含“中国住宿业消费指数（China Hotel Industry Consumption Index, HCI）”与“中国餐饮业消费指数(China Catering Industry Consumption Index, CCI)”，欢迎关注。\n本篇发布的是“中国餐饮业消费指数”。",
-          "url": "https://www.chinahotel.org.cn/articles/17875",
-          "source": "中国饭店协会",
-          "source_name": "中国饭店协会",
-          "site_id": "chinahotel",
-          "published_at": "2026-07-06T21:13:29.250517Z"
+          "id": "hotelitem_e4ce0593c384",
+          "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
+          "url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
+          "source": "中国旅游研究院",
+          "source_name": "中国旅游研究院",
+          "site_id": "cta",
+          "published_at": "2026-07-07T10:30:24.312458Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "中国饭店协会"
+        "中国旅游研究院"
       ],
       "items": [
         {
-          "id": "hotelitem_e4f19d9fa626",
-          "title": "指数发布 | 中国住宿业消费指数报告（2026年5月）发布 为贯彻落实提振消费相关政策，真实反映中国住宿餐饮业市场消费情况，以数据引导促消费政策精准发力，为行业发展提供参考建议，中国饭店协会每月公开发布“中国饭店业消费指数体系”，包含“中国住宿业消费指数（China Hotel Industry Consumption Index, HCI）”与“中国餐饮业消费指数(China Catering Industry Consumption Index, CCI)”，欢迎关注。\n本篇发布的是“中国住宿业消费指数”。",
-          "url": "https://www.chinahotel.org.cn/articles/17871",
-          "source": "中国饭店协会",
-          "source_name": "中国饭店协会",
-          "site_id": "chinahotel",
-          "published_at": "2026-07-06T21:13:29.250517Z"
-        },
-        {
-          "id": "hotelitem_f293a3354c9e",
-          "title": "指数发布 | 中国餐饮业消费指数报告（2026年5月）发布 为贯彻落实提振消费相关政策，真实反映中国住宿餐饮业市场消费情况，以数据引导促消费政策精准发力，为行业发展提供参考建议，中国饭店协会每月公开发布“中国饭店业消费指数体系”，包含“中国住宿业消费指数（China Hotel Industry Consumption Index, HCI）”与“中国餐饮业消费指数(China Catering Industry Consumption Index, CCI)”，欢迎关注。\n本篇发布的是“中国餐饮业消费指数”。",
-          "url": "https://www.chinahotel.org.cn/articles/17875",
-          "source": "中国饭店协会",
-          "source_name": "中国饭店协会",
-          "site_id": "chinahotel",
-          "published_at": "2026-07-06T21:13:29.250517Z"
+          "id": "hotelitem_e4ce0593c384",
+          "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
+          "url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
+          "source": "中国旅游研究院",
+          "source_name": "中国旅游研究院",
+          "site_id": "cta",
+          "published_at": "2026-07-07T10:30:24.312458Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.86,
-      "importance": 0.625,
-      "importance_score": 0.86,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.858,
+      "importance": 0.6,
+      "importance_score": 0.858,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
         "recency": 1.0,
-        "story_heat": 0.25
+        "story_heat": 0.0
       },
       "category": "watch",
       "reasons": [
-        "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-06T21:13:29.250517Z",
-      "latest_at": "2026-07-06T21:13:29.250517Z",
+      "earliest_at": "2026-07-07T10:30:24.312458Z",
+      "latest_at": "2026-07-07T10:30:24.312458Z",
       "primary_item": {
-        "id": "hotelitem_e4f19d9fa626",
-        "title": "指数发布 | 中国住宿业消费指数报告（2026年5月）发布 为贯彻落实提振消费相关政策，真实反映中国住宿餐饮业市场消费情况，以数据引导促消费政策精准发力，为行业发展提供参考建议，中国饭店协会每月公开发布“中国饭店业消费指数体系”，包含“中国住宿业消费指数（China Hotel Industry Consumption Index, HCI）”与“中国餐饮业消费指数(China Catering Industry Consumption Index, CCI)”，欢迎关注。\n本篇发布的是“中国住宿业消费指数”。",
-        "url": "https://www.chinahotel.org.cn/articles/17871",
-        "source": "中国饭店协会",
-        "source_name": "中国饭店协会"
+        "id": "hotelitem_e4ce0593c384",
+        "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
+        "url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
+        "source": "中国旅游研究院",
+        "source_name": "中国旅游研究院"
+      }
+    },
+    {
+      "story_id": "story_aafbd26fe946",
+      "title": "文化和旅游部端午节假期和汛期、暑期出游提示",
+      "url": "https://www.mct.gov.cn/whzx/whyw/202606/t20260605_966153.htm",
+      "primary_url": "https://www.mct.gov.cn/whzx/whyw/202606/t20260605_966153.htm",
+      "source": "文化和旅游部",
+      "source_name": "文化和旅游部",
+      "sources": [
+        {
+          "id": "hotelitem_aafbd26fe946",
+          "title": "文化和旅游部端午节假期和汛期、暑期出游提示",
+          "url": "https://www.mct.gov.cn/whzx/whyw/202606/t20260605_966153.htm",
+          "source": "文化和旅游部",
+          "source_name": "文化和旅游部",
+          "site_id": "mct",
+          "published_at": "2026-07-07T10:30:24.312458Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "文化和旅游部"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_aafbd26fe946",
+          "title": "文化和旅游部端午节假期和汛期、暑期出游提示",
+          "url": "https://www.mct.gov.cn/whzx/whyw/202606/t20260605_966153.htm",
+          "source": "文化和旅游部",
+          "source_name": "文化和旅游部",
+          "site_id": "mct",
+          "published_at": "2026-07-07T10:30:24.312458Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.858,
+      "importance": 0.6,
+      "importance_score": 0.858,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-07T10:30:24.312458Z",
+      "latest_at": "2026-07-07T10:30:24.312458Z",
+      "primary_item": {
+        "id": "hotelitem_aafbd26fe946",
+        "title": "文化和旅游部端午节假期和汛期、暑期出游提示",
+        "url": "https://www.mct.gov.cn/whzx/whyw/202606/t20260605_966153.htm",
+        "source": "文化和旅游部",
+        "source_name": "文化和旅游部"
+      }
+    },
+    {
+      "story_id": "story_e2295ba596c9",
+      "title": "文化和旅游部部级社科研究项目公布",
+      "url": "https://www.mct.gov.cn/whzx/bnsj/whkjs/202606/t20260617_966274.html",
+      "primary_url": "https://www.mct.gov.cn/whzx/bnsj/whkjs/202606/t20260617_966274.html",
+      "source": "文化和旅游部",
+      "source_name": "文化和旅游部",
+      "sources": [
+        {
+          "id": "hotelitem_e2295ba596c9",
+          "title": "文化和旅游部部级社科研究项目公布",
+          "url": "https://www.mct.gov.cn/whzx/bnsj/whkjs/202606/t20260617_966274.html",
+          "source": "文化和旅游部",
+          "source_name": "文化和旅游部",
+          "site_id": "mct",
+          "published_at": "2026-07-07T10:30:24.312458Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "文化和旅游部"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_e2295ba596c9",
+          "title": "文化和旅游部部级社科研究项目公布",
+          "url": "https://www.mct.gov.cn/whzx/bnsj/whkjs/202606/t20260617_966274.html",
+          "source": "文化和旅游部",
+          "source_name": "文化和旅游部",
+          "site_id": "mct",
+          "published_at": "2026-07-07T10:30:24.312458Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.858,
+      "importance": 0.6,
+      "importance_score": 0.858,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-07T10:30:24.312458Z",
+      "latest_at": "2026-07-07T10:30:24.312458Z",
+      "primary_item": {
+        "id": "hotelitem_e2295ba596c9",
+        "title": "文化和旅游部部级社科研究项目公布",
+        "url": "https://www.mct.gov.cn/whzx/bnsj/whkjs/202606/t20260617_966274.html",
+        "source": "文化和旅游部",
+        "source_name": "文化和旅游部"
       }
     },
     {
@@ -1274,14 +1510,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8593,
-      "importance": 0.5941,
-      "importance_score": 0.8593,
+      "score": 0.8569,
+      "importance": 0.5916,
+      "importance_score": 0.8569,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9704,
+        "recency": 0.9581,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1296,360 +1532,6 @@
         "url": "https://skift.com/2026/07/05/extended-stay-demand-hits-a-four-year-high-as-supply-pipeline-thins/",
         "source": "Skift Hospitality",
         "source_name": "Skift Hospitality"
-      }
-    },
-    {
-      "story_id": "story_e4ce0593c384",
-      "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
-      "url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
-      "primary_url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
-      "source": "中国旅游研究院",
-      "source_name": "中国旅游研究院",
-      "sources": [
-        {
-          "id": "hotelitem_e4ce0593c384",
-          "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
-          "url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
-          "source": "中国旅游研究院",
-          "source_name": "中国旅游研究院",
-          "site_id": "cta",
-          "published_at": "2026-07-06T21:13:29.250517Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "中国旅游研究院"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_e4ce0593c384",
-          "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
-          "url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
-          "source": "中国旅游研究院",
-          "source_name": "中国旅游研究院",
-          "site_id": "cta",
-          "published_at": "2026-07-06T21:13:29.250517Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.858,
-      "importance": 0.6,
-      "importance_score": 0.858,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-06T21:13:29.250517Z",
-      "latest_at": "2026-07-06T21:13:29.250517Z",
-      "primary_item": {
-        "id": "hotelitem_e4ce0593c384",
-        "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
-        "url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
-        "source": "中国旅游研究院",
-        "source_name": "中国旅游研究院"
-      }
-    },
-    {
-      "story_id": "story_aafbd26fe946",
-      "title": "文化和旅游部端午节假期和汛期、暑期出游提示",
-      "url": "https://www.mct.gov.cn/whzx/whyw/202606/t20260605_966153.htm",
-      "primary_url": "https://www.mct.gov.cn/whzx/whyw/202606/t20260605_966153.htm",
-      "source": "文化和旅游部",
-      "source_name": "文化和旅游部",
-      "sources": [
-        {
-          "id": "hotelitem_aafbd26fe946",
-          "title": "文化和旅游部端午节假期和汛期、暑期出游提示",
-          "url": "https://www.mct.gov.cn/whzx/whyw/202606/t20260605_966153.htm",
-          "source": "文化和旅游部",
-          "source_name": "文化和旅游部",
-          "site_id": "mct",
-          "published_at": "2026-07-06T21:13:29.250517Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "文化和旅游部"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_aafbd26fe946",
-          "title": "文化和旅游部端午节假期和汛期、暑期出游提示",
-          "url": "https://www.mct.gov.cn/whzx/whyw/202606/t20260605_966153.htm",
-          "source": "文化和旅游部",
-          "source_name": "文化和旅游部",
-          "site_id": "mct",
-          "published_at": "2026-07-06T21:13:29.250517Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.858,
-      "importance": 0.6,
-      "importance_score": 0.858,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-06T21:13:29.250517Z",
-      "latest_at": "2026-07-06T21:13:29.250517Z",
-      "primary_item": {
-        "id": "hotelitem_aafbd26fe946",
-        "title": "文化和旅游部端午节假期和汛期、暑期出游提示",
-        "url": "https://www.mct.gov.cn/whzx/whyw/202606/t20260605_966153.htm",
-        "source": "文化和旅游部",
-        "source_name": "文化和旅游部"
-      }
-    },
-    {
-      "story_id": "story_e2295ba596c9",
-      "title": "文化和旅游部部级社科研究项目公布",
-      "url": "https://www.mct.gov.cn/whzx/bnsj/whkjs/202606/t20260617_966274.html",
-      "primary_url": "https://www.mct.gov.cn/whzx/bnsj/whkjs/202606/t20260617_966274.html",
-      "source": "文化和旅游部",
-      "source_name": "文化和旅游部",
-      "sources": [
-        {
-          "id": "hotelitem_e2295ba596c9",
-          "title": "文化和旅游部部级社科研究项目公布",
-          "url": "https://www.mct.gov.cn/whzx/bnsj/whkjs/202606/t20260617_966274.html",
-          "source": "文化和旅游部",
-          "source_name": "文化和旅游部",
-          "site_id": "mct",
-          "published_at": "2026-07-06T21:13:29.250517Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "文化和旅游部"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_e2295ba596c9",
-          "title": "文化和旅游部部级社科研究项目公布",
-          "url": "https://www.mct.gov.cn/whzx/bnsj/whkjs/202606/t20260617_966274.html",
-          "source": "文化和旅游部",
-          "source_name": "文化和旅游部",
-          "site_id": "mct",
-          "published_at": "2026-07-06T21:13:29.250517Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.858,
-      "importance": 0.6,
-      "importance_score": 0.858,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-06T21:13:29.250517Z",
-      "latest_at": "2026-07-06T21:13:29.250517Z",
-      "primary_item": {
-        "id": "hotelitem_e2295ba596c9",
-        "title": "文化和旅游部部级社科研究项目公布",
-        "url": "https://www.mct.gov.cn/whzx/bnsj/whkjs/202606/t20260617_966274.html",
-        "source": "文化和旅游部",
-        "source_name": "文化和旅游部"
-      }
-    },
-    {
-      "story_id": "story_67cf3c517381",
-      "title": "Chedi Hospitality appoints chief asset and investment officer",
-      "url": "https://boutiquehotelnews.com/news/movers-and-shakers/chedi-asset-investment-officer/?utm_source=rss&utm_medium=rss&utm_campaign=chedi-asset-investment-officer",
-      "primary_url": "https://boutiquehotelnews.com/news/movers-and-shakers/chedi-asset-investment-officer/?utm_source=rss&utm_medium=rss&utm_campaign=chedi-asset-investment-officer",
-      "source": "Boutique Hotel News",
-      "source_name": "Boutique Hotel News",
-      "sources": [
-        {
-          "id": "hotelitem_67cf3c517381",
-          "title": "Chedi Hospitality appoints chief asset and investment officer",
-          "url": "https://boutiquehotelnews.com/news/movers-and-shakers/chedi-asset-investment-officer/?utm_source=rss&utm_medium=rss&utm_campaign=chedi-asset-investment-officer",
-          "source": "Boutique Hotel News",
-          "source_name": "Boutique Hotel News",
-          "site_id": "boutiquehotel",
-          "published_at": "2026-07-06T14:53:42Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Boutique Hotel News"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_67cf3c517381",
-          "title": "Chedi Hospitality appoints chief asset and investment officer",
-          "url": "https://boutiquehotelnews.com/news/movers-and-shakers/chedi-asset-investment-officer/?utm_source=rss&utm_medium=rss&utm_campaign=chedi-asset-investment-officer",
-          "source": "Boutique Hotel News",
-          "source_name": "Boutique Hotel News",
-          "site_id": "boutiquehotel",
-          "published_at": "2026-07-06T14:53:42Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8489,
-      "importance": 0.5988,
-      "importance_score": 0.8489,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9941,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-06T14:53:42Z",
-      "latest_at": "2026-07-06T14:53:42Z",
-      "primary_item": {
-        "id": "hotelitem_67cf3c517381",
-        "title": "Chedi Hospitality appoints chief asset and investment officer",
-        "url": "https://boutiquehotelnews.com/news/movers-and-shakers/chedi-asset-investment-officer/?utm_source=rss&utm_medium=rss&utm_campaign=chedi-asset-investment-officer",
-        "source": "Boutique Hotel News",
-        "source_name": "Boutique Hotel News"
-      }
-    },
-    {
-      "story_id": "story_e4e723c15a04",
-      "title": "Food Delivery Apps are the new OTAs – and they are quietly eating your hotel’s F&B revenue",
-      "url": "https://insights.ehotelier.com/suppliers/2026/07/03/food-delivery-apps-are-the-new-otas-and-they-are-quietly-eating-your-hotels-fb-revenue/?utm_source=rss&utm_medium=rss&utm_campaign=food-delivery-apps-are-the-new-otas-and-they-are-quietly-eating-your-hotels-fb-revenue",
-      "primary_url": "https://insights.ehotelier.com/suppliers/2026/07/03/food-delivery-apps-are-the-new-otas-and-they-are-quietly-eating-your-hotels-fb-revenue/?utm_source=rss&utm_medium=rss&utm_campaign=food-delivery-apps-are-the-new-otas-and-they-are-quietly-eating-your-hotels-fb-revenue",
-      "source": "eHotelier",
-      "source_name": "eHotelier",
-      "sources": [
-        {
-          "id": "hotelitem_e4e723c15a04",
-          "title": "Food Delivery Apps are the new OTAs – and they are quietly eating your hotel’s F&B revenue",
-          "url": "https://insights.ehotelier.com/suppliers/2026/07/03/food-delivery-apps-are-the-new-otas-and-they-are-quietly-eating-your-hotels-fb-revenue/?utm_source=rss&utm_medium=rss&utm_campaign=food-delivery-apps-are-the-new-otas-and-they-are-quietly-eating-your-hotels-fb-revenue",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-07-03T02:18:47Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "eHotelier"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_e4e723c15a04",
-          "title": "Food Delivery Apps are the new OTAs – and they are quietly eating your hotel’s F&B revenue",
-          "url": "https://insights.ehotelier.com/suppliers/2026/07/03/food-delivery-apps-are-the-new-otas-and-they-are-quietly-eating-your-hotels-fb-revenue/?utm_source=rss&utm_medium=rss&utm_campaign=food-delivery-apps-are-the-new-otas-and-they-are-quietly-eating-your-hotels-fb-revenue",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-07-03T02:18:47Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8488,
-      "importance": 0.5832,
-      "importance_score": 0.8488,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9158,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-03T02:18:47Z",
-      "latest_at": "2026-07-03T02:18:47Z",
-      "primary_item": {
-        "id": "hotelitem_e4e723c15a04",
-        "title": "Food Delivery Apps are the new OTAs – and they are quietly eating your hotel’s F&B revenue",
-        "url": "https://insights.ehotelier.com/suppliers/2026/07/03/food-delivery-apps-are-the-new-otas-and-they-are-quietly-eating-your-hotels-fb-revenue/?utm_source=rss&utm_medium=rss&utm_campaign=food-delivery-apps-are-the-new-otas-and-they-are-quietly-eating-your-hotels-fb-revenue",
-        "source": "eHotelier",
-        "source_name": "eHotelier"
-      }
-    },
-    {
-      "story_id": "story_f76fbb220b14",
-      "title": "Creating the Caribbean’s First Longevity Village with TheLifeCo Saint Lucia",
-      "url": "https://insights.ehotelier.com/insights/2026/07/03/creating-the-caribbeans-first-longevity-village-with-thelifeco-saint-lucia/?utm_source=rss&utm_medium=rss&utm_campaign=creating-the-caribbeans-first-longevity-village-with-thelifeco-saint-lucia",
-      "primary_url": "https://insights.ehotelier.com/insights/2026/07/03/creating-the-caribbeans-first-longevity-village-with-thelifeco-saint-lucia/?utm_source=rss&utm_medium=rss&utm_campaign=creating-the-caribbeans-first-longevity-village-with-thelifeco-saint-lucia",
-      "source": "eHotelier",
-      "source_name": "eHotelier",
-      "sources": [
-        {
-          "id": "hotelitem_f76fbb220b14",
-          "title": "Creating the Caribbean’s First Longevity Village with TheLifeCo Saint Lucia",
-          "url": "https://insights.ehotelier.com/insights/2026/07/03/creating-the-caribbeans-first-longevity-village-with-thelifeco-saint-lucia/?utm_source=rss&utm_medium=rss&utm_campaign=creating-the-caribbeans-first-longevity-village-with-thelifeco-saint-lucia",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-07-03T02:25:40Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "eHotelier"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_f76fbb220b14",
-          "title": "Creating the Caribbean’s First Longevity Village with TheLifeCo Saint Lucia",
-          "url": "https://insights.ehotelier.com/insights/2026/07/03/creating-the-caribbeans-first-longevity-village-with-thelifeco-saint-lucia/?utm_source=rss&utm_medium=rss&utm_campaign=creating-the-caribbeans-first-longevity-village-with-thelifeco-saint-lucia",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-07-03T02:25:40Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8488,
-      "importance": 0.5832,
-      "importance_score": 0.8488,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9159,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-03T02:25:40Z",
-      "latest_at": "2026-07-03T02:25:40Z",
-      "primary_item": {
-        "id": "hotelitem_f76fbb220b14",
-        "title": "Creating the Caribbean’s First Longevity Village with TheLifeCo Saint Lucia",
-        "url": "https://insights.ehotelier.com/insights/2026/07/03/creating-the-caribbeans-first-longevity-village-with-thelifeco-saint-lucia/?utm_source=rss&utm_medium=rss&utm_campaign=creating-the-caribbeans-first-longevity-village-with-thelifeco-saint-lucia",
-        "source": "eHotelier",
-        "source_name": "eHotelier"
       }
     },
     {
@@ -1687,14 +1569,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8488,
-      "importance": 0.5988,
-      "importance_score": 0.8488,
+      "score": 0.8465,
+      "importance": 0.5963,
+      "importance_score": 0.8465,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9939,
+        "recency": 0.9816,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1707,6 +1589,65 @@
         "id": "hotelitem_fcfeba8cc688",
         "title": "The Dean opens a 281-room lifestyle hotel in Munich",
         "url": "https://boutiquehotelnews.com/news/hotel/the-dean-munich/?utm_source=rss&utm_medium=rss&utm_campaign=the-dean-munich",
+        "source": "Boutique Hotel News",
+        "source_name": "Boutique Hotel News"
+      }
+    },
+    {
+      "story_id": "story_67cf3c517381",
+      "title": "Chedi Hospitality appoints chief asset and investment officer",
+      "url": "https://boutiquehotelnews.com/news/movers-and-shakers/chedi-asset-investment-officer/?utm_source=rss&utm_medium=rss&utm_campaign=chedi-asset-investment-officer",
+      "primary_url": "https://boutiquehotelnews.com/news/movers-and-shakers/chedi-asset-investment-officer/?utm_source=rss&utm_medium=rss&utm_campaign=chedi-asset-investment-officer",
+      "source": "Boutique Hotel News",
+      "source_name": "Boutique Hotel News",
+      "sources": [
+        {
+          "id": "hotelitem_67cf3c517381",
+          "title": "Chedi Hospitality appoints chief asset and investment officer",
+          "url": "https://boutiquehotelnews.com/news/movers-and-shakers/chedi-asset-investment-officer/?utm_source=rss&utm_medium=rss&utm_campaign=chedi-asset-investment-officer",
+          "source": "Boutique Hotel News",
+          "source_name": "Boutique Hotel News",
+          "site_id": "boutiquehotel",
+          "published_at": "2026-07-06T14:53:42Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Boutique Hotel News"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_67cf3c517381",
+          "title": "Chedi Hospitality appoints chief asset and investment officer",
+          "url": "https://boutiquehotelnews.com/news/movers-and-shakers/chedi-asset-investment-officer/?utm_source=rss&utm_medium=rss&utm_campaign=chedi-asset-investment-officer",
+          "source": "Boutique Hotel News",
+          "source_name": "Boutique Hotel News",
+          "site_id": "boutiquehotel",
+          "published_at": "2026-07-06T14:53:42Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8465,
+      "importance": 0.5964,
+      "importance_score": 0.8465,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9818,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-06T14:53:42Z",
+      "latest_at": "2026-07-06T14:53:42Z",
+      "primary_item": {
+        "id": "hotelitem_67cf3c517381",
+        "title": "Chedi Hospitality appoints chief asset and investment officer",
+        "url": "https://boutiquehotelnews.com/news/movers-and-shakers/chedi-asset-investment-officer/?utm_source=rss&utm_medium=rss&utm_campaign=chedi-asset-investment-officer",
         "source": "Boutique Hotel News",
         "source_name": "Boutique Hotel News"
       }
@@ -1746,14 +1687,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8466,
-      "importance": 0.5809,
-      "importance_score": 0.8466,
+      "score": 0.8442,
+      "importance": 0.5785,
+      "importance_score": 0.8442,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9047,
+        "recency": 0.8924,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1805,14 +1746,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8434,
-      "importance": 0.5776,
-      "importance_score": 0.8434,
+      "score": 0.841,
+      "importance": 0.5751,
+      "importance_score": 0.841,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.888,
+        "recency": 0.8757,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1825,6 +1766,65 @@
         "id": "hotelitem_08a0902bc268",
         "title": "Virgin Hotels Collection appoints CEO",
         "url": "https://www.hoteldive.com/news/virgin-hotels-collection-appoints-ceo/824285/",
+        "source": "Hotel Dive",
+        "source_name": "Hotel Dive"
+      }
+    },
+    {
+      "story_id": "story_20cd6b0f068b",
+      "title": "Top hospitality industry executive moves of Q2 2026",
+      "url": "https://www.hoteldive.com/news/top-hospitality-industry-executive-moves-q2-2026/824125/",
+      "primary_url": "https://www.hoteldive.com/news/top-hospitality-industry-executive-moves-q2-2026/824125/",
+      "source": "Hotel Dive",
+      "source_name": "Hotel Dive",
+      "sources": [
+        {
+          "id": "hotelitem_20cd6b0f068b",
+          "title": "Top hospitality industry executive moves of Q2 2026",
+          "url": "https://www.hoteldive.com/news/top-hospitality-industry-executive-moves-q2-2026/824125/",
+          "source": "Hotel Dive",
+          "source_name": "Hotel Dive",
+          "site_id": "hoteldive",
+          "published_at": "2026-07-01T13:13:03Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hotel Dive"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_20cd6b0f068b",
+          "title": "Top hospitality industry executive moves of Q2 2026",
+          "url": "https://www.hoteldive.com/news/top-hospitality-industry-executive-moves-q2-2026/824125/",
+          "source": "Hotel Dive",
+          "source_name": "Hotel Dive",
+          "site_id": "hoteldive",
+          "published_at": "2026-07-01T13:13:03Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8398,
+      "importance": 0.5738,
+      "importance_score": 0.8398,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.8692,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-01T13:13:03Z",
+      "latest_at": "2026-07-01T13:13:03Z",
+      "primary_item": {
+        "id": "hotelitem_20cd6b0f068b",
+        "title": "Top hospitality industry executive moves of Q2 2026",
+        "url": "https://www.hoteldive.com/news/top-hospitality-industry-executive-moves-q2-2026/824125/",
         "source": "Hotel Dive",
         "source_name": "Hotel Dive"
       }
