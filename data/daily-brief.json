@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-07T19:20:23.409670Z",
+  "generated_at": "2026-07-08T06:37:56.628977Z",
   "window_hours": 1080,
   "total_items": 30,
   "items": [
@@ -38,14 +38,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9796,
-      "importance": 0.5669,
-      "importance_score": 0.9796,
+      "score": 0.9766,
+      "importance": 0.5648,
+      "importance_score": 0.9766,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8346,
+        "recency": 0.8242,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -60,6 +60,124 @@
         "url": "https://www.traveldaily.cn/article/190301",
         "source": "环球旅讯 TravelDaily",
         "source_name": "环球旅讯 TravelDaily"
+      }
+    },
+    {
+      "story_id": "story_e0addd662e0a",
+      "title": "Why guests stop coming back (and the 4 winback signals to watch)",
+      "url": "https://insights.ehotelier.com/suppliers/2026/07/08/why-guests-stop-coming-back-and-the-4-winback-signals-to-watch/?utm_source=rss&utm_medium=rss&utm_campaign=why-guests-stop-coming-back-and-the-4-winback-signals-to-watch",
+      "primary_url": "https://insights.ehotelier.com/suppliers/2026/07/08/why-guests-stop-coming-back-and-the-4-winback-signals-to-watch/?utm_source=rss&utm_medium=rss&utm_campaign=why-guests-stop-coming-back-and-the-4-winback-signals-to-watch",
+      "source": "eHotelier",
+      "source_name": "eHotelier",
+      "sources": [
+        {
+          "id": "hotelitem_e0addd662e0a",
+          "title": "Why guests stop coming back (and the 4 winback signals to watch)",
+          "url": "https://insights.ehotelier.com/suppliers/2026/07/08/why-guests-stop-coming-back-and-the-4-winback-signals-to-watch/?utm_source=rss&utm_medium=rss&utm_campaign=why-guests-stop-coming-back-and-the-4-winback-signals-to-watch",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-07-08T00:39:14Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "eHotelier"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_e0addd662e0a",
+          "title": "Why guests stop coming back (and the 4 winback signals to watch)",
+          "url": "https://insights.ehotelier.com/suppliers/2026/07/08/why-guests-stop-coming-back-and-the-4-winback-signals-to-watch/?utm_source=rss&utm_medium=rss&utm_campaign=why-guests-stop-coming-back-and-the-4-winback-signals-to-watch",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-07-08T00:39:14Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.9539,
+      "importance": 0.5989,
+      "importance_score": 0.9539,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9945,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-08T00:39:14Z",
+      "latest_at": "2026-07-08T00:39:14Z",
+      "primary_item": {
+        "id": "hotelitem_e0addd662e0a",
+        "title": "Why guests stop coming back (and the 4 winback signals to watch)",
+        "url": "https://insights.ehotelier.com/suppliers/2026/07/08/why-guests-stop-coming-back-and-the-4-winback-signals-to-watch/?utm_source=rss&utm_medium=rss&utm_campaign=why-guests-stop-coming-back-and-the-4-winback-signals-to-watch",
+        "source": "eHotelier",
+        "source_name": "eHotelier"
+      }
+    },
+    {
+      "story_id": "story_263fed2ab089",
+      "title": "Kimpton El Castelar Polanco opens in historic Mexico City Architectural Landmark",
+      "url": "https://insights.ehotelier.com/properties/2026/07/08/kimpton-el-castelar-polanco-opens-in-historic-mexico-city-architectural-landmark/?utm_source=rss&utm_medium=rss&utm_campaign=kimpton-el-castelar-polanco-opens-in-historic-mexico-city-architectural-landmark",
+      "primary_url": "https://insights.ehotelier.com/properties/2026/07/08/kimpton-el-castelar-polanco-opens-in-historic-mexico-city-architectural-landmark/?utm_source=rss&utm_medium=rss&utm_campaign=kimpton-el-castelar-polanco-opens-in-historic-mexico-city-architectural-landmark",
+      "source": "eHotelier",
+      "source_name": "eHotelier",
+      "sources": [
+        {
+          "id": "hotelitem_263fed2ab089",
+          "title": "Kimpton El Castelar Polanco opens in historic Mexico City Architectural Landmark",
+          "url": "https://insights.ehotelier.com/properties/2026/07/08/kimpton-el-castelar-polanco-opens-in-historic-mexico-city-architectural-landmark/?utm_source=rss&utm_medium=rss&utm_campaign=kimpton-el-castelar-polanco-opens-in-historic-mexico-city-architectural-landmark",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-07-07T22:22:53Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "eHotelier"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_263fed2ab089",
+          "title": "Kimpton El Castelar Polanco opens in historic Mexico City Architectural Landmark",
+          "url": "https://insights.ehotelier.com/properties/2026/07/08/kimpton-el-castelar-polanco-opens-in-historic-mexico-city-architectural-landmark/?utm_source=rss&utm_medium=rss&utm_campaign=kimpton-el-castelar-polanco-opens-in-historic-mexico-city-architectural-landmark",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-07-07T22:22:53Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.9535,
+      "importance": 0.5985,
+      "importance_score": 0.9535,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9924,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-07T22:22:53Z",
+      "latest_at": "2026-07-07T22:22:53Z",
+      "primary_item": {
+        "id": "hotelitem_263fed2ab089",
+        "title": "Kimpton El Castelar Polanco opens in historic Mexico City Architectural Landmark",
+        "url": "https://insights.ehotelier.com/properties/2026/07/08/kimpton-el-castelar-polanco-opens-in-historic-mexico-city-architectural-landmark/?utm_source=rss&utm_medium=rss&utm_campaign=kimpton-el-castelar-polanco-opens-in-historic-mexico-city-architectural-landmark",
+        "source": "eHotelier",
+        "source_name": "eHotelier"
       }
     },
     {
@@ -97,14 +215,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9541,
-      "importance": 0.599,
-      "importance_score": 0.9541,
+      "score": 0.9521,
+      "importance": 0.5969,
+      "importance_score": 0.9521,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9952,
+        "recency": 0.9847,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -156,14 +274,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9539,
-      "importance": 0.5989,
-      "importance_score": 0.9539,
+      "score": 0.9519,
+      "importance": 0.5968,
+      "importance_score": 0.9519,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9944,
+        "recency": 0.9839,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -178,6 +296,65 @@
         "url": "https://www.hoteldive.com/news/hilton-recreation-first-property-key-west-florida/824562/",
         "source": "Hotel Dive",
         "source_name": "Hotel Dive"
+      }
+    },
+    {
+      "story_id": "story_9699887c72ea",
+      "title": "中国旅游研究院与中青旅控股股份有限公司开展主题党日联学联",
+      "url": "https://www.ctaweb.org.cn/gongzuodongtai/10519.html",
+      "primary_url": "https://www.ctaweb.org.cn/gongzuodongtai/10519.html",
+      "source": "中国旅游研究院",
+      "source_name": "中国旅游研究院",
+      "sources": [
+        {
+          "id": "hotelitem_9699887c72ea",
+          "title": "中国旅游研究院与中青旅控股股份有限公司开展主题党日联学联",
+          "url": "https://www.ctaweb.org.cn/gongzuodongtai/10519.html",
+          "source": "中国旅游研究院",
+          "source_name": "中国旅游研究院",
+          "site_id": "cta",
+          "published_at": "2026-07-08T06:37:56.628977Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "中国旅游研究院"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_9699887c72ea",
+          "title": "中国旅游研究院与中青旅控股股份有限公司开展主题党日联学联",
+          "url": "https://www.ctaweb.org.cn/gongzuodongtai/10519.html",
+          "source": "中国旅游研究院",
+          "source_name": "中国旅游研究院",
+          "site_id": "cta",
+          "published_at": "2026-07-08T06:37:56.628977Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.948,
+      "importance": 0.6,
+      "importance_score": 0.948,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-08T06:37:56.628977Z",
+      "latest_at": "2026-07-08T06:37:56.628977Z",
+      "primary_item": {
+        "id": "hotelitem_9699887c72ea",
+        "title": "中国旅游研究院与中青旅控股股份有限公司开展主题党日联学联",
+        "url": "https://www.ctaweb.org.cn/gongzuodongtai/10519.html",
+        "source": "中国旅游研究院",
+        "source_name": "中国旅游研究院"
       }
     },
     {
@@ -215,14 +392,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9497,
-      "importance": 0.5945,
-      "importance_score": 0.9497,
+      "score": 0.9477,
+      "importance": 0.5924,
+      "importance_score": 0.9477,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9724,
+        "recency": 0.9619,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -237,124 +414,6 @@
         "url": "https://www.hoteldive.com/news/ihg-opens-dual-branded-staybridge-even-hotel-orlando/824449/",
         "source": "Hotel Dive",
         "source_name": "Hotel Dive"
-      }
-    },
-    {
-      "story_id": "story_9699887c72ea",
-      "title": "中国旅游研究院与中青旅控股股份有限公司开展主题党日联学联",
-      "url": "https://www.ctaweb.org.cn/gongzuodongtai/10519.html",
-      "primary_url": "https://www.ctaweb.org.cn/gongzuodongtai/10519.html",
-      "source": "中国旅游研究院",
-      "source_name": "中国旅游研究院",
-      "sources": [
-        {
-          "id": "hotelitem_9699887c72ea",
-          "title": "中国旅游研究院与中青旅控股股份有限公司开展主题党日联学联",
-          "url": "https://www.ctaweb.org.cn/gongzuodongtai/10519.html",
-          "source": "中国旅游研究院",
-          "source_name": "中国旅游研究院",
-          "site_id": "cta",
-          "published_at": "2026-07-07T19:20:23.409670Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "中国旅游研究院"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_9699887c72ea",
-          "title": "中国旅游研究院与中青旅控股股份有限公司开展主题党日联学联",
-          "url": "https://www.ctaweb.org.cn/gongzuodongtai/10519.html",
-          "source": "中国旅游研究院",
-          "source_name": "中国旅游研究院",
-          "site_id": "cta",
-          "published_at": "2026-07-07T19:20:23.409670Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.948,
-      "importance": 0.6,
-      "importance_score": 0.948,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-07T19:20:23.409670Z",
-      "latest_at": "2026-07-07T19:20:23.409670Z",
-      "primary_item": {
-        "id": "hotelitem_9699887c72ea",
-        "title": "中国旅游研究院与中青旅控股股份有限公司开展主题党日联学联",
-        "url": "https://www.ctaweb.org.cn/gongzuodongtai/10519.html",
-        "source": "中国旅游研究院",
-        "source_name": "中国旅游研究院"
-      }
-    },
-    {
-      "story_id": "story_5628ae0bf4c7",
-      "title": "Radisson Hotel Group launches hospitality industry-leading AI-powered real-time price matching technology",
-      "url": "https://insights.ehotelier.com/global-news/2026/07/06/radisson-hotel-group-launches-hospitality-industry-leading-ai-powered-real-time-price-matching-technology/?utm_source=rss&utm_medium=rss&utm_campaign=radisson-hotel-group-launches-hospitality-industry-leading-ai-powered-real-time-price-matching-technology",
-      "primary_url": "https://insights.ehotelier.com/global-news/2026/07/06/radisson-hotel-group-launches-hospitality-industry-leading-ai-powered-real-time-price-matching-technology/?utm_source=rss&utm_medium=rss&utm_campaign=radisson-hotel-group-launches-hospitality-industry-leading-ai-powered-real-time-price-matching-technology",
-      "source": "eHotelier",
-      "source_name": "eHotelier",
-      "sources": [
-        {
-          "id": "hotelitem_5628ae0bf4c7",
-          "title": "Radisson Hotel Group launches hospitality industry-leading AI-powered real-time price matching technology",
-          "url": "https://insights.ehotelier.com/global-news/2026/07/06/radisson-hotel-group-launches-hospitality-industry-leading-ai-powered-real-time-price-matching-technology/?utm_source=rss&utm_medium=rss&utm_campaign=radisson-hotel-group-launches-hospitality-industry-leading-ai-powered-real-time-price-matching-technology",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-07-06T00:39:51Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "eHotelier"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_5628ae0bf4c7",
-          "title": "Radisson Hotel Group launches hospitality industry-leading AI-powered real-time price matching technology",
-          "url": "https://insights.ehotelier.com/global-news/2026/07/06/radisson-hotel-group-launches-hospitality-industry-leading-ai-powered-real-time-price-matching-technology/?utm_source=rss&utm_medium=rss&utm_campaign=radisson-hotel-group-launches-hospitality-industry-leading-ai-powered-real-time-price-matching-technology",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-07-06T00:39:51Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.9474,
-      "importance": 0.5921,
-      "importance_score": 0.9474,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9605,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-06T00:39:51Z",
-      "latest_at": "2026-07-06T00:39:51Z",
-      "primary_item": {
-        "id": "hotelitem_5628ae0bf4c7",
-        "title": "Radisson Hotel Group launches hospitality industry-leading AI-powered real-time price matching technology",
-        "url": "https://insights.ehotelier.com/global-news/2026/07/06/radisson-hotel-group-launches-hospitality-industry-leading-ai-powered-real-time-price-matching-technology/?utm_source=rss&utm_medium=rss&utm_campaign=radisson-hotel-group-launches-hospitality-industry-leading-ai-powered-real-time-price-matching-technology",
-        "source": "eHotelier",
-        "source_name": "eHotelier"
       }
     },
     {
@@ -392,14 +451,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9334,
-      "importance": 0.5776,
-      "importance_score": 0.9334,
+      "score": 0.9313,
+      "importance": 0.5755,
+      "importance_score": 0.9313,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8878,
+        "recency": 0.8774,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -414,6 +473,65 @@
         "url": "https://www.hoteldive.com/news/marriott-branded-apartment-rental-property-cleveland/824400/",
         "source": "Hotel Dive",
         "source_name": "Hotel Dive"
+      }
+    },
+    {
+      "story_id": "story_7bcc7a5c38b3",
+      "title": "离境退税2.0版政策落地 广州入境消费跑出“加速度”",
+      "url": "https://www.pinchain.com/article/348514",
+      "primary_url": "https://www.pinchain.com/article/348514",
+      "source": "品橙旅游",
+      "source_name": "品橙旅游",
+      "sources": [
+        {
+          "id": "hotelitem_7bcc7a5c38b3",
+          "title": "离境退税2.0版政策落地 广州入境消费跑出“加速度”",
+          "url": "https://www.pinchain.com/article/348514",
+          "source": "品橙旅游",
+          "source_name": "品橙旅游",
+          "site_id": "pinchain",
+          "published_at": "2026-07-08T04:49:43Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "品橙旅游"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_7bcc7a5c38b3",
+          "title": "离境退税2.0版政策落地 广州入境消费跑出“加速度”",
+          "url": "https://www.pinchain.com/article/348514",
+          "source": "品橙旅游",
+          "source_name": "品橙旅游",
+          "site_id": "pinchain",
+          "published_at": "2026-07-08T04:49:43Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.9297,
+      "importance": 0.5997,
+      "importance_score": 0.9297,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9983,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-08T04:49:43Z",
+      "latest_at": "2026-07-08T04:49:43Z",
+      "primary_item": {
+        "id": "hotelitem_7bcc7a5c38b3",
+        "title": "离境退税2.0版政策落地 广州入境消费跑出“加速度”",
+        "url": "https://www.pinchain.com/article/348514",
+        "source": "品橙旅游",
+        "source_name": "品橙旅游"
       }
     },
     {
@@ -451,14 +569,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9282,
-      "importance": 0.5722,
-      "importance_score": 0.9282,
+      "score": 0.9262,
+      "importance": 0.5701,
+      "importance_score": 0.9262,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8609,
+        "recency": 0.8505,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -510,14 +628,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9252,
-      "importance": 0.5691,
-      "importance_score": 0.9252,
+      "score": 0.9222,
+      "importance": 0.567,
+      "importance_score": 0.9222,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8454,
+        "recency": 0.835,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -549,7 +667,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-07T19:20:23.409670Z"
+          "published_at": "2026-07-08T06:37:56.628977Z"
         },
         {
           "id": "hotelitem_c7c15b7680c9",
@@ -558,7 +676,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-07T19:20:23.409670Z"
+          "published_at": "2026-07-08T06:37:56.628977Z"
         },
         {
           "id": "hotelitem_6d8fa145e8af",
@@ -567,7 +685,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-07T19:20:23.409670Z"
+          "published_at": "2026-07-08T06:37:56.628977Z"
         }
       ],
       "source_count": 3,
@@ -582,7 +700,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-07T19:20:23.409670Z"
+          "published_at": "2026-07-08T06:37:56.628977Z"
         },
         {
           "id": "hotelitem_c7c15b7680c9",
@@ -591,7 +709,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-07T19:20:23.409670Z"
+          "published_at": "2026-07-08T06:37:56.628977Z"
         },
         {
           "id": "hotelitem_6d8fa145e8af",
@@ -600,7 +718,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-07T19:20:23.409670Z"
+          "published_at": "2026-07-08T06:37:56.628977Z"
         }
       ],
       "item_count": 3,
@@ -620,8 +738,8 @@
         "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-07T19:20:23.409670Z",
-      "latest_at": "2026-07-07T19:20:23.409670Z",
+      "earliest_at": "2026-07-08T06:37:56.628977Z",
+      "latest_at": "2026-07-08T06:37:56.628977Z",
       "primary_item": {
         "id": "hotelitem_d4370964909c",
         "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
@@ -645,7 +763,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-07-07T19:20:23.409670Z"
+          "published_at": "2026-07-08T06:37:56.628977Z"
         }
       ],
       "source_count": 1,
@@ -660,7 +778,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-07-07T19:20:23.409670Z"
+          "published_at": "2026-07-08T06:37:56.628977Z"
         }
       ],
       "item_count": 1,
@@ -679,8 +797,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-07T19:20:23.409670Z",
-      "latest_at": "2026-07-07T19:20:23.409670Z",
+      "earliest_at": "2026-07-08T06:37:56.628977Z",
+      "latest_at": "2026-07-08T06:37:56.628977Z",
       "primary_item": {
         "id": "hotelitem_86885009de08",
         "title": "文旅惠报|岭南控股与重庆黔江区签署战略合作协议；厦门国有资本牵手阿那亚，打造集美岛滨海文旅项目",
@@ -704,7 +822,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-07-07T19:20:23.409670Z"
+          "published_at": "2026-07-08T06:37:56.628977Z"
         }
       ],
       "source_count": 1,
@@ -719,7 +837,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-07-07T19:20:23.409670Z"
+          "published_at": "2026-07-08T06:37:56.628977Z"
         }
       ],
       "item_count": 1,
@@ -738,8 +856,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-07T19:20:23.409670Z",
-      "latest_at": "2026-07-07T19:20:23.409670Z",
+      "earliest_at": "2026-07-08T06:37:56.628977Z",
+      "latest_at": "2026-07-08T06:37:56.628977Z",
       "primary_item": {
         "id": "hotelitem_d94f35b8bbdc",
         "title": "文旅惠报|开封清明上河园向港交所提交上市申请；万豪国际全球酒店数量正式破万家",
@@ -763,7 +881,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-07-07T19:20:23.409670Z"
+          "published_at": "2026-07-08T06:37:56.628977Z"
         }
       ],
       "source_count": 1,
@@ -778,7 +896,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-07-07T19:20:23.409670Z"
+          "published_at": "2026-07-08T06:37:56.628977Z"
         }
       ],
       "item_count": 1,
@@ -797,8 +915,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-07T19:20:23.409670Z",
-      "latest_at": "2026-07-07T19:20:23.409670Z",
+      "earliest_at": "2026-07-08T06:37:56.628977Z",
+      "latest_at": "2026-07-08T06:37:56.628977Z",
       "primary_item": {
         "id": "hotelitem_7a0aafcf6ecc",
         "title": "文旅惠报|澳门银河与Trip.com签订三年战略合作协议；盈新发展转让西宁置业100%股权",
@@ -822,7 +940,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-07-07T19:20:23.409670Z"
+          "published_at": "2026-07-08T06:37:56.628977Z"
         }
       ],
       "source_count": 1,
@@ -837,7 +955,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-07-07T19:20:23.409670Z"
+          "published_at": "2026-07-08T06:37:56.628977Z"
         }
       ],
       "item_count": 1,
@@ -856,8 +974,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-07T19:20:23.409670Z",
-      "latest_at": "2026-07-07T19:20:23.409670Z",
+      "earliest_at": "2026-07-08T06:37:56.628977Z",
+      "latest_at": "2026-07-08T06:37:56.628977Z",
       "primary_item": {
         "id": "hotelitem_8bd428772b3b",
         "title": "文旅惠报|许铭出任锦江国际集团总裁；西藏旅游拟以6970.65万元公积金弥补累计亏损",
@@ -881,7 +999,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-07-07T19:20:23.409670Z"
+          "published_at": "2026-07-08T06:37:56.628977Z"
         }
       ],
       "source_count": 1,
@@ -896,7 +1014,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-07-07T19:20:23.409670Z"
+          "published_at": "2026-07-08T06:37:56.628977Z"
         }
       ],
       "item_count": 1,
@@ -915,8 +1033,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-07T19:20:23.409670Z",
-      "latest_at": "2026-07-07T19:20:23.409670Z",
+      "earliest_at": "2026-07-08T06:37:56.628977Z",
+      "latest_at": "2026-07-08T06:37:56.628977Z",
       "primary_item": {
         "id": "hotelitem_4966ad3512b4",
         "title": "文旅惠报|雅高集团CEO宣布2028年卸任；众信优游与中视实业集团达成深度合作",
@@ -960,14 +1078,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8976,
-      "importance": 0.5502,
-      "importance_score": 0.8976,
+      "score": 0.8945,
+      "importance": 0.5481,
+      "importance_score": 0.8945,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.751,
+        "recency": 0.7406,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -985,21 +1103,21 @@
       }
     },
     {
-      "story_id": "story_9dacc3dd8cc9",
-      "title": "Paper Moon debuts at the iconic Cervo Hotel in Porto Cervo, Sardinia’s Costa Smeralda",
-      "url": "https://insights.ehotelier.com/properties/2026/07/07/paper-moon-debuts-at-the-iconic-cervo-hotel-in-porto-cervo-sardinias-costa-smeralda/?utm_source=rss&utm_medium=rss&utm_campaign=paper-moon-debuts-at-the-iconic-cervo-hotel-in-porto-cervo-sardinias-costa-smeralda",
-      "primary_url": "https://insights.ehotelier.com/properties/2026/07/07/paper-moon-debuts-at-the-iconic-cervo-hotel-in-porto-cervo-sardinias-costa-smeralda/?utm_source=rss&utm_medium=rss&utm_campaign=paper-moon-debuts-at-the-iconic-cervo-hotel-in-porto-cervo-sardinias-costa-smeralda",
+      "story_id": "story_5b0c4bd810b9",
+      "title": "System Integration is not a technical detail – it’s a staff efficiency multiplier",
+      "url": "https://insights.ehotelier.com/insights/2026/07/08/system-integration-is-not-a-technical-detail-its-a-staff-efficiency-multiplier/?utm_source=rss&utm_medium=rss&utm_campaign=system-integration-is-not-a-technical-detail-its-a-staff-efficiency-multiplier",
+      "primary_url": "https://insights.ehotelier.com/insights/2026/07/08/system-integration-is-not-a-technical-detail-its-a-staff-efficiency-multiplier/?utm_source=rss&utm_medium=rss&utm_campaign=system-integration-is-not-a-technical-detail-its-a-staff-efficiency-multiplier",
       "source": "eHotelier",
       "source_name": "eHotelier",
       "sources": [
         {
-          "id": "hotelitem_9dacc3dd8cc9",
-          "title": "Paper Moon debuts at the iconic Cervo Hotel in Porto Cervo, Sardinia’s Costa Smeralda",
-          "url": "https://insights.ehotelier.com/properties/2026/07/07/paper-moon-debuts-at-the-iconic-cervo-hotel-in-porto-cervo-sardinias-costa-smeralda/?utm_source=rss&utm_medium=rss&utm_campaign=paper-moon-debuts-at-the-iconic-cervo-hotel-in-porto-cervo-sardinias-costa-smeralda",
+          "id": "hotelitem_5b0c4bd810b9",
+          "title": "System Integration is not a technical detail – it’s a staff efficiency multiplier",
+          "url": "https://insights.ehotelier.com/insights/2026/07/08/system-integration-is-not-a-technical-detail-its-a-staff-efficiency-multiplier/?utm_source=rss&utm_medium=rss&utm_campaign=system-integration-is-not-a-technical-detail-its-a-staff-efficiency-multiplier",
           "source": "eHotelier",
           "source_name": "eHotelier",
           "site_id": "ehotelier",
-          "published_at": "2026-07-07T00:40:17Z"
+          "published_at": "2026-07-08T00:54:45Z"
         }
       ],
       "source_count": 1,
@@ -1008,57 +1126,57 @@
       ],
       "items": [
         {
-          "id": "hotelitem_9dacc3dd8cc9",
-          "title": "Paper Moon debuts at the iconic Cervo Hotel in Porto Cervo, Sardinia’s Costa Smeralda",
-          "url": "https://insights.ehotelier.com/properties/2026/07/07/paper-moon-debuts-at-the-iconic-cervo-hotel-in-porto-cervo-sardinias-costa-smeralda/?utm_source=rss&utm_medium=rss&utm_campaign=paper-moon-debuts-at-the-iconic-cervo-hotel-in-porto-cervo-sardinias-costa-smeralda",
+          "id": "hotelitem_5b0c4bd810b9",
+          "title": "System Integration is not a technical detail – it’s a staff efficiency multiplier",
+          "url": "https://insights.ehotelier.com/insights/2026/07/08/system-integration-is-not-a-technical-detail-its-a-staff-efficiency-multiplier/?utm_source=rss&utm_medium=rss&utm_campaign=system-integration-is-not-a-technical-detail-its-a-staff-efficiency-multiplier",
           "source": "eHotelier",
           "source_name": "eHotelier",
           "site_id": "ehotelier",
-          "published_at": "2026-07-07T00:40:17Z"
+          "published_at": "2026-07-08T00:54:45Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8617,
-      "importance": 0.5965,
-      "importance_score": 0.8617,
+      "score": 0.864,
+      "importance": 0.5989,
+      "importance_score": 0.864,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9827,
+        "recency": 0.9947,
         "story_heat": 0.0
       },
       "category": "watch",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-07T00:40:17Z",
-      "latest_at": "2026-07-07T00:40:17Z",
+      "earliest_at": "2026-07-08T00:54:45Z",
+      "latest_at": "2026-07-08T00:54:45Z",
       "primary_item": {
-        "id": "hotelitem_9dacc3dd8cc9",
-        "title": "Paper Moon debuts at the iconic Cervo Hotel in Porto Cervo, Sardinia’s Costa Smeralda",
-        "url": "https://insights.ehotelier.com/properties/2026/07/07/paper-moon-debuts-at-the-iconic-cervo-hotel-in-porto-cervo-sardinias-costa-smeralda/?utm_source=rss&utm_medium=rss&utm_campaign=paper-moon-debuts-at-the-iconic-cervo-hotel-in-porto-cervo-sardinias-costa-smeralda",
+        "id": "hotelitem_5b0c4bd810b9",
+        "title": "System Integration is not a technical detail – it’s a staff efficiency multiplier",
+        "url": "https://insights.ehotelier.com/insights/2026/07/08/system-integration-is-not-a-technical-detail-its-a-staff-efficiency-multiplier/?utm_source=rss&utm_medium=rss&utm_campaign=system-integration-is-not-a-technical-detail-its-a-staff-efficiency-multiplier",
         "source": "eHotelier",
         "source_name": "eHotelier"
       }
     },
     {
-      "story_id": "story_6bed83be8207",
-      "title": "Milos Nedovic appointed as Chief Asset & Investment Officer at Chedi Hospitality",
-      "url": "https://insights.ehotelier.com/people/2026/07/07/milos-nedovic-appointed-as-chief-asset-investment-officer-at-chedi-hospitality/?utm_source=rss&utm_medium=rss&utm_campaign=milos-nedovic-appointed-as-chief-asset-investment-officer-at-chedi-hospitality",
-      "primary_url": "https://insights.ehotelier.com/people/2026/07/07/milos-nedovic-appointed-as-chief-asset-investment-officer-at-chedi-hospitality/?utm_source=rss&utm_medium=rss&utm_campaign=milos-nedovic-appointed-as-chief-asset-investment-officer-at-chedi-hospitality",
+      "story_id": "story_0d8ca80835b9",
+      "title": "Scotland advised to invest growth in quality",
+      "url": "https://insights.ehotelier.com/global-news/2026/07/08/scotland-advised-to-invest-growth-in-quality/?utm_source=rss&utm_medium=rss&utm_campaign=scotland-advised-to-invest-growth-in-quality",
+      "primary_url": "https://insights.ehotelier.com/global-news/2026/07/08/scotland-advised-to-invest-growth-in-quality/?utm_source=rss&utm_medium=rss&utm_campaign=scotland-advised-to-invest-growth-in-quality",
       "source": "eHotelier",
       "source_name": "eHotelier",
       "sources": [
         {
-          "id": "hotelitem_6bed83be8207",
-          "title": "Milos Nedovic appointed as Chief Asset & Investment Officer at Chedi Hospitality",
-          "url": "https://insights.ehotelier.com/people/2026/07/07/milos-nedovic-appointed-as-chief-asset-investment-officer-at-chedi-hospitality/?utm_source=rss&utm_medium=rss&utm_campaign=milos-nedovic-appointed-as-chief-asset-investment-officer-at-chedi-hospitality",
+          "id": "hotelitem_0d8ca80835b9",
+          "title": "Scotland advised to invest growth in quality",
+          "url": "https://insights.ehotelier.com/global-news/2026/07/08/scotland-advised-to-invest-growth-in-quality/?utm_source=rss&utm_medium=rss&utm_campaign=scotland-advised-to-invest-growth-in-quality",
           "source": "eHotelier",
           "source_name": "eHotelier",
           "site_id": "ehotelier",
-          "published_at": "2026-07-07T00:43:03Z"
+          "published_at": "2026-07-08T00:17:57Z"
         }
       ],
       "source_count": 1,
@@ -1067,39 +1185,353 @@
       ],
       "items": [
         {
-          "id": "hotelitem_6bed83be8207",
-          "title": "Milos Nedovic appointed as Chief Asset & Investment Officer at Chedi Hospitality",
-          "url": "https://insights.ehotelier.com/people/2026/07/07/milos-nedovic-appointed-as-chief-asset-investment-officer-at-chedi-hospitality/?utm_source=rss&utm_medium=rss&utm_campaign=milos-nedovic-appointed-as-chief-asset-investment-officer-at-chedi-hospitality",
+          "id": "hotelitem_0d8ca80835b9",
+          "title": "Scotland advised to invest growth in quality",
+          "url": "https://insights.ehotelier.com/global-news/2026/07/08/scotland-advised-to-invest-growth-in-quality/?utm_source=rss&utm_medium=rss&utm_campaign=scotland-advised-to-invest-growth-in-quality",
           "source": "eHotelier",
           "source_name": "eHotelier",
           "site_id": "ehotelier",
-          "published_at": "2026-07-07T00:43:03Z"
+          "published_at": "2026-07-08T00:17:57Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8617,
-      "importance": 0.5966,
-      "importance_score": 0.8617,
+      "score": 0.8639,
+      "importance": 0.5988,
+      "importance_score": 0.8639,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9828,
+        "recency": 0.9941,
         "story_heat": 0.0
       },
       "category": "watch",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-07T00:43:03Z",
-      "latest_at": "2026-07-07T00:43:03Z",
+      "earliest_at": "2026-07-08T00:17:57Z",
+      "latest_at": "2026-07-08T00:17:57Z",
       "primary_item": {
-        "id": "hotelitem_6bed83be8207",
-        "title": "Milos Nedovic appointed as Chief Asset & Investment Officer at Chedi Hospitality",
-        "url": "https://insights.ehotelier.com/people/2026/07/07/milos-nedovic-appointed-as-chief-asset-investment-officer-at-chedi-hospitality/?utm_source=rss&utm_medium=rss&utm_campaign=milos-nedovic-appointed-as-chief-asset-investment-officer-at-chedi-hospitality",
+        "id": "hotelitem_0d8ca80835b9",
+        "title": "Scotland advised to invest growth in quality",
+        "url": "https://insights.ehotelier.com/global-news/2026/07/08/scotland-advised-to-invest-growth-in-quality/?utm_source=rss&utm_medium=rss&utm_campaign=scotland-advised-to-invest-growth-in-quality",
         "source": "eHotelier",
         "source_name": "eHotelier"
+      }
+    },
+    {
+      "story_id": "story_884b380113d2",
+      "title": "Innspire officially launches ‘Guest Flows’ at HITEC",
+      "url": "https://insights.ehotelier.com/global-news/2026/07/08/innspire-officially-launches-guest-flows-at-hitec/?utm_source=rss&utm_medium=rss&utm_campaign=innspire-officially-launches-guest-flows-at-hitec",
+      "primary_url": "https://insights.ehotelier.com/global-news/2026/07/08/innspire-officially-launches-guest-flows-at-hitec/?utm_source=rss&utm_medium=rss&utm_campaign=innspire-officially-launches-guest-flows-at-hitec",
+      "source": "eHotelier",
+      "source_name": "eHotelier",
+      "sources": [
+        {
+          "id": "hotelitem_884b380113d2",
+          "title": "Innspire officially launches ‘Guest Flows’ at HITEC",
+          "url": "https://insights.ehotelier.com/global-news/2026/07/08/innspire-officially-launches-guest-flows-at-hitec/?utm_source=rss&utm_medium=rss&utm_campaign=innspire-officially-launches-guest-flows-at-hitec",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-07-08T00:03:12Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "eHotelier"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_884b380113d2",
+          "title": "Innspire officially launches ‘Guest Flows’ at HITEC",
+          "url": "https://insights.ehotelier.com/global-news/2026/07/08/innspire-officially-launches-guest-flows-at-hitec/?utm_source=rss&utm_medium=rss&utm_campaign=innspire-officially-launches-guest-flows-at-hitec",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-07-08T00:03:12Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8638,
+      "importance": 0.5988,
+      "importance_score": 0.8638,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9939,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-08T00:03:12Z",
+      "latest_at": "2026-07-08T00:03:12Z",
+      "primary_item": {
+        "id": "hotelitem_884b380113d2",
+        "title": "Innspire officially launches ‘Guest Flows’ at HITEC",
+        "url": "https://insights.ehotelier.com/global-news/2026/07/08/innspire-officially-launches-guest-flows-at-hitec/?utm_source=rss&utm_medium=rss&utm_campaign=innspire-officially-launches-guest-flows-at-hitec",
+        "source": "eHotelier",
+        "source_name": "eHotelier"
+      }
+    },
+    {
+      "story_id": "story_7b11bf22c9da",
+      "title": "Starhotels announces new partnership with Taj Hotels",
+      "url": "https://insights.ehotelier.com/properties/2026/07/08/starhotels-announces-new-partnership-with-taj-hotels/?utm_source=rss&utm_medium=rss&utm_campaign=starhotels-announces-new-partnership-with-taj-hotels",
+      "primary_url": "https://insights.ehotelier.com/properties/2026/07/08/starhotels-announces-new-partnership-with-taj-hotels/?utm_source=rss&utm_medium=rss&utm_campaign=starhotels-announces-new-partnership-with-taj-hotels",
+      "source": "eHotelier",
+      "source_name": "eHotelier",
+      "sources": [
+        {
+          "id": "hotelitem_7b11bf22c9da",
+          "title": "Starhotels announces new partnership with Taj Hotels",
+          "url": "https://insights.ehotelier.com/properties/2026/07/08/starhotels-announces-new-partnership-with-taj-hotels/?utm_source=rss&utm_medium=rss&utm_campaign=starhotels-announces-new-partnership-with-taj-hotels",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-07-07T22:26:12Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "eHotelier"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_7b11bf22c9da",
+          "title": "Starhotels announces new partnership with Taj Hotels",
+          "url": "https://insights.ehotelier.com/properties/2026/07/08/starhotels-announces-new-partnership-with-taj-hotels/?utm_source=rss&utm_medium=rss&utm_campaign=starhotels-announces-new-partnership-with-taj-hotels",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-07-07T22:26:12Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8635,
+      "importance": 0.5985,
+      "importance_score": 0.8635,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9924,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-07T22:26:12Z",
+      "latest_at": "2026-07-07T22:26:12Z",
+      "primary_item": {
+        "id": "hotelitem_7b11bf22c9da",
+        "title": "Starhotels announces new partnership with Taj Hotels",
+        "url": "https://insights.ehotelier.com/properties/2026/07/08/starhotels-announces-new-partnership-with-taj-hotels/?utm_source=rss&utm_medium=rss&utm_campaign=starhotels-announces-new-partnership-with-taj-hotels",
+        "source": "eHotelier",
+        "source_name": "eHotelier"
+      }
+    },
+    {
+      "story_id": "story_f293a3354c9e",
+      "title": "指数发布 | 中国住宿业消费指数报告（2026年5月）发布 为贯彻落实提振消费相关政策，真实反映中国住宿餐饮业市场消费情况，以数据引导促消费政策精准发力，为行业发展提供参考建议，中国饭店协会每月公开发布“中国饭店业消费指数体系”，包含“中国住宿业消费指数（China Hotel Industry Consumption Index, HCI）”与“中国餐饮业消费指数(China Catering Industry Consumption Index, CCI)”，欢迎关注。\n本篇发布的是“中国住宿业消费指数”。",
+      "url": "https://www.chinahotel.org.cn/articles/17871",
+      "primary_url": "https://www.chinahotel.org.cn/articles/17871",
+      "source": "中国饭店协会",
+      "source_name": "中国饭店协会",
+      "sources": [
+        {
+          "id": "hotelitem_e4f19d9fa626",
+          "title": "指数发布 | 中国住宿业消费指数报告（2026年5月）发布 为贯彻落实提振消费相关政策，真实反映中国住宿餐饮业市场消费情况，以数据引导促消费政策精准发力，为行业发展提供参考建议，中国饭店协会每月公开发布“中国饭店业消费指数体系”，包含“中国住宿业消费指数（China Hotel Industry Consumption Index, HCI）”与“中国餐饮业消费指数(China Catering Industry Consumption Index, CCI)”，欢迎关注。\n本篇发布的是“中国住宿业消费指数”。",
+          "url": "https://www.chinahotel.org.cn/articles/17871",
+          "source": "中国饭店协会",
+          "source_name": "中国饭店协会",
+          "site_id": "chinahotel",
+          "published_at": "2026-07-08T06:37:56.628977Z"
+        },
+        {
+          "id": "hotelitem_f293a3354c9e",
+          "title": "指数发布 | 中国餐饮业消费指数报告（2026年5月）发布 为贯彻落实提振消费相关政策，真实反映中国住宿餐饮业市场消费情况，以数据引导促消费政策精准发力，为行业发展提供参考建议，中国饭店协会每月公开发布“中国饭店业消费指数体系”，包含“中国住宿业消费指数（China Hotel Industry Consumption Index, HCI）”与“中国餐饮业消费指数(China Catering Industry Consumption Index, CCI)”，欢迎关注。\n本篇发布的是“中国餐饮业消费指数”。",
+          "url": "https://www.chinahotel.org.cn/articles/17875",
+          "source": "中国饭店协会",
+          "source_name": "中国饭店协会",
+          "site_id": "chinahotel",
+          "published_at": "2026-07-08T06:37:56.628977Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "中国饭店协会"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_e4f19d9fa626",
+          "title": "指数发布 | 中国住宿业消费指数报告（2026年5月）发布 为贯彻落实提振消费相关政策，真实反映中国住宿餐饮业市场消费情况，以数据引导促消费政策精准发力，为行业发展提供参考建议，中国饭店协会每月公开发布“中国饭店业消费指数体系”，包含“中国住宿业消费指数（China Hotel Industry Consumption Index, HCI）”与“中国餐饮业消费指数(China Catering Industry Consumption Index, CCI)”，欢迎关注。\n本篇发布的是“中国住宿业消费指数”。",
+          "url": "https://www.chinahotel.org.cn/articles/17871",
+          "source": "中国饭店协会",
+          "source_name": "中国饭店协会",
+          "site_id": "chinahotel",
+          "published_at": "2026-07-08T06:37:56.628977Z"
+        },
+        {
+          "id": "hotelitem_f293a3354c9e",
+          "title": "指数发布 | 中国餐饮业消费指数报告（2026年5月）发布 为贯彻落实提振消费相关政策，真实反映中国住宿餐饮业市场消费情况，以数据引导促消费政策精准发力，为行业发展提供参考建议，中国饭店协会每月公开发布“中国饭店业消费指数体系”，包含“中国住宿业消费指数（China Hotel Industry Consumption Index, HCI）”与“中国餐饮业消费指数(China Catering Industry Consumption Index, CCI)”，欢迎关注。\n本篇发布的是“中国餐饮业消费指数”。",
+          "url": "https://www.chinahotel.org.cn/articles/17875",
+          "source": "中国饭店协会",
+          "source_name": "中国饭店协会",
+          "site_id": "chinahotel",
+          "published_at": "2026-07-08T06:37:56.628977Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.86,
+      "importance": 0.625,
+      "importance_score": 0.86,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-08T06:37:56.628977Z",
+      "latest_at": "2026-07-08T06:37:56.628977Z",
+      "primary_item": {
+        "id": "hotelitem_e4f19d9fa626",
+        "title": "指数发布 | 中国住宿业消费指数报告（2026年5月）发布 为贯彻落实提振消费相关政策，真实反映中国住宿餐饮业市场消费情况，以数据引导促消费政策精准发力，为行业发展提供参考建议，中国饭店协会每月公开发布“中国饭店业消费指数体系”，包含“中国住宿业消费指数（China Hotel Industry Consumption Index, HCI）”与“中国餐饮业消费指数(China Catering Industry Consumption Index, CCI)”，欢迎关注。\n本篇发布的是“中国住宿业消费指数”。",
+        "url": "https://www.chinahotel.org.cn/articles/17871",
+        "source": "中国饭店协会",
+        "source_name": "中国饭店协会"
+      }
+    },
+    {
+      "story_id": "story_9bb4f408a9db",
+      "title": "凯撒旅业：控股子公司持有7199.90万股将被司法拍卖",
+      "url": "https://www.meadin.com/wl/298248.html",
+      "primary_url": "https://www.meadin.com/wl/298248.html",
+      "source": "迈点研究院",
+      "source_name": "迈点研究院",
+      "sources": [
+        {
+          "id": "hotelitem_9bb4f408a9db",
+          "title": "凯撒旅业：控股子公司持有7199.90万股将被司法拍卖",
+          "url": "https://www.meadin.com/wl/298248.html",
+          "source": "迈点研究院",
+          "source_name": "迈点研究院",
+          "site_id": "meadin",
+          "published_at": "2026-07-08T06:37:56.628977Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "迈点研究院"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_9bb4f408a9db",
+          "title": "凯撒旅业：控股子公司持有7199.90万股将被司法拍卖",
+          "url": "https://www.meadin.com/wl/298248.html",
+          "source": "迈点研究院",
+          "source_name": "迈点研究院",
+          "site_id": "meadin",
+          "published_at": "2026-07-08T06:37:56.628977Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.86,
+      "importance": 0.6,
+      "importance_score": 0.86,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-08T06:37:56.628977Z",
+      "latest_at": "2026-07-08T06:37:56.628977Z",
+      "primary_item": {
+        "id": "hotelitem_9bb4f408a9db",
+        "title": "凯撒旅业：控股子公司持有7199.90万股将被司法拍卖",
+        "url": "https://www.meadin.com/wl/298248.html",
+        "source": "迈点研究院",
+        "source_name": "迈点研究院"
+      }
+    },
+    {
+      "story_id": "story_bf8ec93c5d26",
+      "title": "岭南控股：拟购买广电城服85%股份",
+      "url": "https://www.meadin.com/wl/298240.html",
+      "primary_url": "https://www.meadin.com/wl/298240.html",
+      "source": "迈点研究院",
+      "source_name": "迈点研究院",
+      "sources": [
+        {
+          "id": "hotelitem_bf8ec93c5d26",
+          "title": "岭南控股：拟购买广电城服85%股份",
+          "url": "https://www.meadin.com/wl/298240.html",
+          "source": "迈点研究院",
+          "source_name": "迈点研究院",
+          "site_id": "meadin",
+          "published_at": "2026-07-08T06:37:56.628977Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "迈点研究院"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_bf8ec93c5d26",
+          "title": "岭南控股：拟购买广电城服85%股份",
+          "url": "https://www.meadin.com/wl/298240.html",
+          "source": "迈点研究院",
+          "source_name": "迈点研究院",
+          "site_id": "meadin",
+          "published_at": "2026-07-08T06:37:56.628977Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.86,
+      "importance": 0.6,
+      "importance_score": 0.86,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-08T06:37:56.628977Z",
+      "latest_at": "2026-07-08T06:37:56.628977Z",
+      "primary_item": {
+        "id": "hotelitem_bf8ec93c5d26",
+        "title": "岭南控股：拟购买广电城服85%股份",
+        "url": "https://www.meadin.com/wl/298240.html",
+        "source": "迈点研究院",
+        "source_name": "迈点研究院"
       }
     },
     {
@@ -1137,14 +1569,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8608,
-      "importance": 0.5956,
-      "importance_score": 0.8608,
+      "score": 0.8587,
+      "importance": 0.5935,
+      "importance_score": 0.8587,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.978,
+        "recency": 0.9675,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1196,14 +1628,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.86,
-      "importance": 0.5948,
-      "importance_score": 0.86,
+      "score": 0.858,
+      "importance": 0.5927,
+      "importance_score": 0.858,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9739,
+        "recency": 0.9635,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1221,84 +1653,6 @@
       }
     },
     {
-      "story_id": "story_f293a3354c9e",
-      "title": "指数发布 | 中国住宿业消费指数报告（2026年5月）发布 为贯彻落实提振消费相关政策，真实反映中国住宿餐饮业市场消费情况，以数据引导促消费政策精准发力，为行业发展提供参考建议，中国饭店协会每月公开发布“中国饭店业消费指数体系”，包含“中国住宿业消费指数（China Hotel Industry Consumption Index, HCI）”与“中国餐饮业消费指数(China Catering Industry Consumption Index, CCI)”，欢迎关注。\n本篇发布的是“中国住宿业消费指数”。",
-      "url": "https://www.chinahotel.org.cn/articles/17871",
-      "primary_url": "https://www.chinahotel.org.cn/articles/17871",
-      "source": "中国饭店协会",
-      "source_name": "中国饭店协会",
-      "sources": [
-        {
-          "id": "hotelitem_e4f19d9fa626",
-          "title": "指数发布 | 中国住宿业消费指数报告（2026年5月）发布 为贯彻落实提振消费相关政策，真实反映中国住宿餐饮业市场消费情况，以数据引导促消费政策精准发力，为行业发展提供参考建议，中国饭店协会每月公开发布“中国饭店业消费指数体系”，包含“中国住宿业消费指数（China Hotel Industry Consumption Index, HCI）”与“中国餐饮业消费指数(China Catering Industry Consumption Index, CCI)”，欢迎关注。\n本篇发布的是“中国住宿业消费指数”。",
-          "url": "https://www.chinahotel.org.cn/articles/17871",
-          "source": "中国饭店协会",
-          "source_name": "中国饭店协会",
-          "site_id": "chinahotel",
-          "published_at": "2026-07-07T19:20:23.409670Z"
-        },
-        {
-          "id": "hotelitem_f293a3354c9e",
-          "title": "指数发布 | 中国餐饮业消费指数报告（2026年5月）发布 为贯彻落实提振消费相关政策，真实反映中国住宿餐饮业市场消费情况，以数据引导促消费政策精准发力，为行业发展提供参考建议，中国饭店协会每月公开发布“中国饭店业消费指数体系”，包含“中国住宿业消费指数（China Hotel Industry Consumption Index, HCI）”与“中国餐饮业消费指数(China Catering Industry Consumption Index, CCI)”，欢迎关注。\n本篇发布的是“中国餐饮业消费指数”。",
-          "url": "https://www.chinahotel.org.cn/articles/17875",
-          "source": "中国饭店协会",
-          "source_name": "中国饭店协会",
-          "site_id": "chinahotel",
-          "published_at": "2026-07-07T19:20:23.409670Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "中国饭店协会"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_e4f19d9fa626",
-          "title": "指数发布 | 中国住宿业消费指数报告（2026年5月）发布 为贯彻落实提振消费相关政策，真实反映中国住宿餐饮业市场消费情况，以数据引导促消费政策精准发力，为行业发展提供参考建议，中国饭店协会每月公开发布“中国饭店业消费指数体系”，包含“中国住宿业消费指数（China Hotel Industry Consumption Index, HCI）”与“中国餐饮业消费指数(China Catering Industry Consumption Index, CCI)”，欢迎关注。\n本篇发布的是“中国住宿业消费指数”。",
-          "url": "https://www.chinahotel.org.cn/articles/17871",
-          "source": "中国饭店协会",
-          "source_name": "中国饭店协会",
-          "site_id": "chinahotel",
-          "published_at": "2026-07-07T19:20:23.409670Z"
-        },
-        {
-          "id": "hotelitem_f293a3354c9e",
-          "title": "指数发布 | 中国餐饮业消费指数报告（2026年5月）发布 为贯彻落实提振消费相关政策，真实反映中国住宿餐饮业市场消费情况，以数据引导促消费政策精准发力，为行业发展提供参考建议，中国饭店协会每月公开发布“中国饭店业消费指数体系”，包含“中国住宿业消费指数（China Hotel Industry Consumption Index, HCI）”与“中国餐饮业消费指数(China Catering Industry Consumption Index, CCI)”，欢迎关注。\n本篇发布的是“中国餐饮业消费指数”。",
-          "url": "https://www.chinahotel.org.cn/articles/17875",
-          "source": "中国饭店协会",
-          "source_name": "中国饭店协会",
-          "site_id": "chinahotel",
-          "published_at": "2026-07-07T19:20:23.409670Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.86,
-      "importance": 0.625,
-      "importance_score": 0.86,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-07T19:20:23.409670Z",
-      "latest_at": "2026-07-07T19:20:23.409670Z",
-      "primary_item": {
-        "id": "hotelitem_e4f19d9fa626",
-        "title": "指数发布 | 中国住宿业消费指数报告（2026年5月）发布 为贯彻落实提振消费相关政策，真实反映中国住宿餐饮业市场消费情况，以数据引导促消费政策精准发力，为行业发展提供参考建议，中国饭店协会每月公开发布“中国饭店业消费指数体系”，包含“中国住宿业消费指数（China Hotel Industry Consumption Index, HCI）”与“中国餐饮业消费指数(China Catering Industry Consumption Index, CCI)”，欢迎关注。\n本篇发布的是“中国住宿业消费指数”。",
-        "url": "https://www.chinahotel.org.cn/articles/17871",
-        "source": "中国饭店协会",
-        "source_name": "中国饭店协会"
-      }
-    },
-    {
       "story_id": "story_e4ce0593c384",
       "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
       "url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
@@ -1313,7 +1667,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-07-07T19:20:23.409670Z"
+          "published_at": "2026-07-08T06:37:56.628977Z"
         }
       ],
       "source_count": 1,
@@ -1328,7 +1682,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-07-07T19:20:23.409670Z"
+          "published_at": "2026-07-08T06:37:56.628977Z"
         }
       ],
       "item_count": 1,
@@ -1347,8 +1701,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-07T19:20:23.409670Z",
-      "latest_at": "2026-07-07T19:20:23.409670Z",
+      "earliest_at": "2026-07-08T06:37:56.628977Z",
+      "latest_at": "2026-07-08T06:37:56.628977Z",
       "primary_item": {
         "id": "hotelitem_e4ce0593c384",
         "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
@@ -1372,7 +1726,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-07-07T19:20:23.409670Z"
+          "published_at": "2026-07-08T06:37:56.628977Z"
         }
       ],
       "source_count": 1,
@@ -1387,7 +1741,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-07-07T19:20:23.409670Z"
+          "published_at": "2026-07-08T06:37:56.628977Z"
         }
       ],
       "item_count": 1,
@@ -1406,8 +1760,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-07T19:20:23.409670Z",
-      "latest_at": "2026-07-07T19:20:23.409670Z",
+      "earliest_at": "2026-07-08T06:37:56.628977Z",
+      "latest_at": "2026-07-08T06:37:56.628977Z",
       "primary_item": {
         "id": "hotelitem_9a958319a874",
         "title": "文化和旅游部印发《旅游强国建设“十五五”...",
@@ -1431,7 +1785,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-07-07T19:20:23.409670Z"
+          "published_at": "2026-07-08T06:37:56.628977Z"
         }
       ],
       "source_count": 1,
@@ -1446,7 +1800,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-07-07T19:20:23.409670Z"
+          "published_at": "2026-07-08T06:37:56.628977Z"
         }
       ],
       "item_count": 1,
@@ -1465,368 +1819,14 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-07T19:20:23.409670Z",
-      "latest_at": "2026-07-07T19:20:23.409670Z",
+      "earliest_at": "2026-07-08T06:37:56.628977Z",
+      "latest_at": "2026-07-08T06:37:56.628977Z",
       "primary_item": {
         "id": "hotelitem_e2295ba596c9",
         "title": "文化和旅游部部级社科研究项目公布",
         "url": "https://www.mct.gov.cn/whzx/bnsj/whkjs/202606/t20260617_966274.html",
         "source": "文化和旅游部",
         "source_name": "文化和旅游部"
-      }
-    },
-    {
-      "story_id": "story_3e953a4f992d",
-      "title": "VisitBritain courts North East Asia with culture, countryside and cuisine",
-      "url": "https://insights.ehotelier.com/global-news/2026/07/06/visitbritain-courts-north-east-asia-with-culture-countryside-and-cuisine/?utm_source=rss&utm_medium=rss&utm_campaign=visitbritain-courts-north-east-asia-with-culture-countryside-and-cuisine",
-      "primary_url": "https://insights.ehotelier.com/global-news/2026/07/06/visitbritain-courts-north-east-asia-with-culture-countryside-and-cuisine/?utm_source=rss&utm_medium=rss&utm_campaign=visitbritain-courts-north-east-asia-with-culture-countryside-and-cuisine",
-      "source": "eHotelier",
-      "source_name": "eHotelier",
-      "sources": [
-        {
-          "id": "hotelitem_3e953a4f992d",
-          "title": "VisitBritain courts North East Asia with culture, countryside and cuisine",
-          "url": "https://insights.ehotelier.com/global-news/2026/07/06/visitbritain-courts-north-east-asia-with-culture-countryside-and-cuisine/?utm_source=rss&utm_medium=rss&utm_campaign=visitbritain-courts-north-east-asia-with-culture-countryside-and-cuisine",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-07-06T00:41:54Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "eHotelier"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_3e953a4f992d",
-          "title": "VisitBritain courts North East Asia with culture, countryside and cuisine",
-          "url": "https://insights.ehotelier.com/global-news/2026/07/06/visitbritain-courts-north-east-asia-with-culture-countryside-and-cuisine/?utm_source=rss&utm_medium=rss&utm_campaign=visitbritain-courts-north-east-asia-with-culture-countryside-and-cuisine",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-07-06T00:41:54Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8574,
-      "importance": 0.5921,
-      "importance_score": 0.8574,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9605,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-06T00:41:54Z",
-      "latest_at": "2026-07-06T00:41:54Z",
-      "primary_item": {
-        "id": "hotelitem_3e953a4f992d",
-        "title": "VisitBritain courts North East Asia with culture, countryside and cuisine",
-        "url": "https://insights.ehotelier.com/global-news/2026/07/06/visitbritain-courts-north-east-asia-with-culture-countryside-and-cuisine/?utm_source=rss&utm_medium=rss&utm_campaign=visitbritain-courts-north-east-asia-with-culture-countryside-and-cuisine",
-        "source": "eHotelier",
-        "source_name": "eHotelier"
-      }
-    },
-    {
-      "story_id": "story_9e30740becee",
-      "title": "Hospitality’s real question isn’t legal. It’s cultural.",
-      "url": "https://insights.ehotelier.com/insights/2026/07/06/hospitalitys-real-question-isnt-legal-its-cultural/?utm_source=rss&utm_medium=rss&utm_campaign=hospitalitys-real-question-isnt-legal-its-cultural",
-      "primary_url": "https://insights.ehotelier.com/insights/2026/07/06/hospitalitys-real-question-isnt-legal-its-cultural/?utm_source=rss&utm_medium=rss&utm_campaign=hospitalitys-real-question-isnt-legal-its-cultural",
-      "source": "eHotelier",
-      "source_name": "eHotelier",
-      "sources": [
-        {
-          "id": "hotelitem_9e30740becee",
-          "title": "Hospitality’s real question isn’t legal. It’s cultural.",
-          "url": "https://insights.ehotelier.com/insights/2026/07/06/hospitalitys-real-question-isnt-legal-its-cultural/?utm_source=rss&utm_medium=rss&utm_campaign=hospitalitys-real-question-isnt-legal-its-cultural",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-07-06T00:46:54Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "eHotelier"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_9e30740becee",
-          "title": "Hospitality’s real question isn’t legal. It’s cultural.",
-          "url": "https://insights.ehotelier.com/insights/2026/07/06/hospitalitys-real-question-isnt-legal-its-cultural/?utm_source=rss&utm_medium=rss&utm_campaign=hospitalitys-real-question-isnt-legal-its-cultural",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-07-06T00:46:54Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8574,
-      "importance": 0.5921,
-      "importance_score": 0.8574,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9606,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-06T00:46:54Z",
-      "latest_at": "2026-07-06T00:46:54Z",
-      "primary_item": {
-        "id": "hotelitem_9e30740becee",
-        "title": "Hospitality’s real question isn’t legal. It’s cultural.",
-        "url": "https://insights.ehotelier.com/insights/2026/07/06/hospitalitys-real-question-isnt-legal-its-cultural/?utm_source=rss&utm_medium=rss&utm_campaign=hospitalitys-real-question-isnt-legal-its-cultural",
-        "source": "eHotelier",
-        "source_name": "eHotelier"
-      }
-    },
-    {
-      "story_id": "story_8425bfaf39cc",
-      "title": "Extended-Stay Demand Hits a Four-Year High as Supply Pipeline Thins",
-      "url": "https://skift.com/2026/07/05/extended-stay-demand-hits-a-four-year-high-as-supply-pipeline-thins/",
-      "primary_url": "https://skift.com/2026/07/05/extended-stay-demand-hits-a-four-year-high-as-supply-pipeline-thins/",
-      "source": "Skift Hospitality",
-      "source_name": "Skift Hospitality",
-      "sources": [
-        {
-          "id": "hotelitem_8425bfaf39cc",
-          "title": "Extended-Stay Demand Hits a Four-Year High as Supply Pipeline Thins",
-          "url": "https://skift.com/2026/07/05/extended-stay-demand-hits-a-four-year-high-as-supply-pipeline-thins/",
-          "source": "Skift Hospitality",
-          "source_name": "Skift Hospitality",
-          "site_id": "skift",
-          "published_at": "2026-07-05T13:17:01Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Skift Hospitality"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_8425bfaf39cc",
-          "title": "Extended-Stay Demand Hits a Four-Year High as Supply Pipeline Thins",
-          "url": "https://skift.com/2026/07/05/extended-stay-demand-hits-a-four-year-high-as-supply-pipeline-thins/",
-          "source": "Skift Hospitality",
-          "source_name": "Skift Hospitality",
-          "site_id": "skift",
-          "published_at": "2026-07-05T13:17:01Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8553,
-      "importance": 0.59,
-      "importance_score": 0.8553,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9499,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-05T13:17:01Z",
-      "latest_at": "2026-07-05T13:17:01Z",
-      "primary_item": {
-        "id": "hotelitem_8425bfaf39cc",
-        "title": "Extended-Stay Demand Hits a Four-Year High as Supply Pipeline Thins",
-        "url": "https://skift.com/2026/07/05/extended-stay-demand-hits-a-four-year-high-as-supply-pipeline-thins/",
-        "source": "Skift Hospitality",
-        "source_name": "Skift Hospitality"
-      }
-    },
-    {
-      "story_id": "story_fcfeba8cc688",
-      "title": "The Dean opens a 281-room lifestyle hotel in Munich",
-      "url": "https://boutiquehotelnews.com/news/hotel/the-dean-munich/?utm_source=rss&utm_medium=rss&utm_campaign=the-dean-munich",
-      "primary_url": "https://boutiquehotelnews.com/news/hotel/the-dean-munich/?utm_source=rss&utm_medium=rss&utm_campaign=the-dean-munich",
-      "source": "Boutique Hotel News",
-      "source_name": "Boutique Hotel News",
-      "sources": [
-        {
-          "id": "hotelitem_fcfeba8cc688",
-          "title": "The Dean opens a 281-room lifestyle hotel in Munich",
-          "url": "https://boutiquehotelnews.com/news/hotel/the-dean-munich/?utm_source=rss&utm_medium=rss&utm_campaign=the-dean-munich",
-          "source": "Boutique Hotel News",
-          "source_name": "Boutique Hotel News",
-          "site_id": "boutiquehotel",
-          "published_at": "2026-07-06T14:38:12Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Boutique Hotel News"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_fcfeba8cc688",
-          "title": "The Dean opens a 281-room lifestyle hotel in Munich",
-          "url": "https://boutiquehotelnews.com/news/hotel/the-dean-munich/?utm_source=rss&utm_medium=rss&utm_campaign=the-dean-munich",
-          "source": "Boutique Hotel News",
-          "source_name": "Boutique Hotel News",
-          "site_id": "boutiquehotel",
-          "published_at": "2026-07-06T14:38:12Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8449,
-      "importance": 0.5947,
-      "importance_score": 0.8449,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9734,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-06T14:38:12Z",
-      "latest_at": "2026-07-06T14:38:12Z",
-      "primary_item": {
-        "id": "hotelitem_fcfeba8cc688",
-        "title": "The Dean opens a 281-room lifestyle hotel in Munich",
-        "url": "https://boutiquehotelnews.com/news/hotel/the-dean-munich/?utm_source=rss&utm_medium=rss&utm_campaign=the-dean-munich",
-        "source": "Boutique Hotel News",
-        "source_name": "Boutique Hotel News"
-      }
-    },
-    {
-      "story_id": "story_67cf3c517381",
-      "title": "Chedi Hospitality appoints chief asset and investment officer",
-      "url": "https://boutiquehotelnews.com/news/movers-and-shakers/chedi-asset-investment-officer/?utm_source=rss&utm_medium=rss&utm_campaign=chedi-asset-investment-officer",
-      "primary_url": "https://boutiquehotelnews.com/news/movers-and-shakers/chedi-asset-investment-officer/?utm_source=rss&utm_medium=rss&utm_campaign=chedi-asset-investment-officer",
-      "source": "Boutique Hotel News",
-      "source_name": "Boutique Hotel News",
-      "sources": [
-        {
-          "id": "hotelitem_67cf3c517381",
-          "title": "Chedi Hospitality appoints chief asset and investment officer",
-          "url": "https://boutiquehotelnews.com/news/movers-and-shakers/chedi-asset-investment-officer/?utm_source=rss&utm_medium=rss&utm_campaign=chedi-asset-investment-officer",
-          "source": "Boutique Hotel News",
-          "source_name": "Boutique Hotel News",
-          "site_id": "boutiquehotel",
-          "published_at": "2026-07-06T14:53:42Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Boutique Hotel News"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_67cf3c517381",
-          "title": "Chedi Hospitality appoints chief asset and investment officer",
-          "url": "https://boutiquehotelnews.com/news/movers-and-shakers/chedi-asset-investment-officer/?utm_source=rss&utm_medium=rss&utm_campaign=chedi-asset-investment-officer",
-          "source": "Boutique Hotel News",
-          "source_name": "Boutique Hotel News",
-          "site_id": "boutiquehotel",
-          "published_at": "2026-07-06T14:53:42Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8449,
-      "importance": 0.5947,
-      "importance_score": 0.8449,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9737,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-06T14:53:42Z",
-      "latest_at": "2026-07-06T14:53:42Z",
-      "primary_item": {
-        "id": "hotelitem_67cf3c517381",
-        "title": "Chedi Hospitality appoints chief asset and investment officer",
-        "url": "https://boutiquehotelnews.com/news/movers-and-shakers/chedi-asset-investment-officer/?utm_source=rss&utm_medium=rss&utm_campaign=chedi-asset-investment-officer",
-        "source": "Boutique Hotel News",
-        "source_name": "Boutique Hotel News"
-      }
-    },
-    {
-      "story_id": "story_05cd31569704",
-      "title": "Noble Investment Group’s Extended-Stay Bet Is Behind a 149-Hotel Buying Spree",
-      "url": "https://skift.com/2026/07/02/noble-investment-groups-extended-stay-bet-is-behind-a-149-hotel-buying-spree/",
-      "primary_url": "https://skift.com/2026/07/02/noble-investment-groups-extended-stay-bet-is-behind-a-149-hotel-buying-spree/",
-      "source": "Skift Hospitality",
-      "source_name": "Skift Hospitality",
-      "sources": [
-        {
-          "id": "hotelitem_05cd31569704",
-          "title": "Noble Investment Group’s Extended-Stay Bet Is Behind a 149-Hotel Buying Spree",
-          "url": "https://skift.com/2026/07/02/noble-investment-groups-extended-stay-bet-is-behind-a-149-hotel-buying-spree/",
-          "source": "Skift Hospitality",
-          "source_name": "Skift Hospitality",
-          "site_id": "skift",
-          "published_at": "2026-07-02T14:14:56Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Skift Hospitality"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_05cd31569704",
-          "title": "Noble Investment Group’s Extended-Stay Bet Is Behind a 149-Hotel Buying Spree",
-          "url": "https://skift.com/2026/07/02/noble-investment-groups-extended-stay-bet-is-behind-a-149-hotel-buying-spree/",
-          "source": "Skift Hospitality",
-          "source_name": "Skift Hospitality",
-          "site_id": "skift",
-          "published_at": "2026-07-02T14:14:56Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8427,
-      "importance": 0.5768,
-      "importance_score": 0.8427,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.8842,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-02T14:14:56Z",
-      "latest_at": "2026-07-02T14:14:56Z",
-      "primary_item": {
-        "id": "hotelitem_05cd31569704",
-        "title": "Noble Investment Group’s Extended-Stay Bet Is Behind a 149-Hotel Buying Spree",
-        "url": "https://skift.com/2026/07/02/noble-investment-groups-extended-stay-bet-is-behind-a-149-hotel-buying-spree/",
-        "source": "Skift Hospitality",
-        "source_name": "Skift Hospitality"
       }
     }
   ]
