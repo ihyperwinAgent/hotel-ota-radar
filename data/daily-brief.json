@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-10T21:43:41.331066Z",
+  "generated_at": "2026-07-11T07:25:20.235644Z",
   "window_hours": 1080,
   "total_items": 30,
   "items": [
@@ -39,13 +39,13 @@
       "item_count": 1,
       "duplicate_count": 1,
       "score": 1.0,
-      "importance": 0.5911,
+      "importance": 0.5893,
       "importance_score": 1.0,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9557,
+        "recency": 0.9467,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -97,14 +97,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9543,
-      "importance": 0.5993,
-      "importance_score": 0.9543,
+      "score": 0.9526,
+      "importance": 0.5975,
+      "importance_score": 0.9526,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9965,
+        "recency": 0.9876,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -156,14 +156,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9535,
-      "importance": 0.5985,
-      "importance_score": 0.9535,
+      "score": 0.9518,
+      "importance": 0.5967,
+      "importance_score": 0.9518,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9923,
+        "recency": 0.9833,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -178,6 +178,65 @@
         "url": "https://www.hoteldive.com/news/nevada-regulators-approve-fertitta-executives-amid-caesars-acquisition-process/824936/",
         "source": "Hotel Dive",
         "source_name": "Hotel Dive"
+      }
+    },
+    {
+      "story_id": "story_9699887c72ea",
+      "title": "中国旅游研究院与中青旅控股股份有限公司开展主题党日联学联",
+      "url": "https://www.ctaweb.org.cn/gongzuodongtai/10519.html",
+      "primary_url": "https://www.ctaweb.org.cn/gongzuodongtai/10519.html",
+      "source": "中国旅游研究院",
+      "source_name": "中国旅游研究院",
+      "sources": [
+        {
+          "id": "hotelitem_9699887c72ea",
+          "title": "中国旅游研究院与中青旅控股股份有限公司开展主题党日联学联",
+          "url": "https://www.ctaweb.org.cn/gongzuodongtai/10519.html",
+          "source": "中国旅游研究院",
+          "source_name": "中国旅游研究院",
+          "site_id": "cta",
+          "published_at": "2026-07-11T07:25:20.235644Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "中国旅游研究院"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_9699887c72ea",
+          "title": "中国旅游研究院与中青旅控股股份有限公司开展主题党日联学联",
+          "url": "https://www.ctaweb.org.cn/gongzuodongtai/10519.html",
+          "source": "中国旅游研究院",
+          "source_name": "中国旅游研究院",
+          "site_id": "cta",
+          "published_at": "2026-07-11T07:25:20.235644Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.948,
+      "importance": 0.6,
+      "importance_score": 0.948,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-11T07:25:20.235644Z",
+      "latest_at": "2026-07-11T07:25:20.235644Z",
+      "primary_item": {
+        "id": "hotelitem_9699887c72ea",
+        "title": "中国旅游研究院与中青旅控股股份有限公司开展主题党日联学联",
+        "url": "https://www.ctaweb.org.cn/gongzuodongtai/10519.html",
+        "source": "中国旅游研究院",
+        "source_name": "中国旅游研究院"
       }
     },
     {
@@ -215,14 +274,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9496,
-      "importance": 0.5944,
-      "importance_score": 0.9496,
+      "score": 0.9479,
+      "importance": 0.5926,
+      "importance_score": 0.9479,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.972,
+        "recency": 0.963,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -237,65 +296,6 @@
         "url": "https://skift.com/2026/07/09/this-obscure-marriott-fee-will-be-a-key-signal-of-profit-strength/",
         "source": "Skift Hospitality",
         "source_name": "Skift Hospitality"
-      }
-    },
-    {
-      "story_id": "story_9699887c72ea",
-      "title": "中国旅游研究院与中青旅控股股份有限公司开展主题党日联学联",
-      "url": "https://www.ctaweb.org.cn/gongzuodongtai/10519.html",
-      "primary_url": "https://www.ctaweb.org.cn/gongzuodongtai/10519.html",
-      "source": "中国旅游研究院",
-      "source_name": "中国旅游研究院",
-      "sources": [
-        {
-          "id": "hotelitem_9699887c72ea",
-          "title": "中国旅游研究院与中青旅控股股份有限公司开展主题党日联学联",
-          "url": "https://www.ctaweb.org.cn/gongzuodongtai/10519.html",
-          "source": "中国旅游研究院",
-          "source_name": "中国旅游研究院",
-          "site_id": "cta",
-          "published_at": "2026-07-10T21:43:41.331066Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "中国旅游研究院"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_9699887c72ea",
-          "title": "中国旅游研究院与中青旅控股股份有限公司开展主题党日联学联",
-          "url": "https://www.ctaweb.org.cn/gongzuodongtai/10519.html",
-          "source": "中国旅游研究院",
-          "source_name": "中国旅游研究院",
-          "site_id": "cta",
-          "published_at": "2026-07-10T21:43:41.331066Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.948,
-      "importance": 0.6,
-      "importance_score": 0.948,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-10T21:43:41.331066Z",
-      "latest_at": "2026-07-10T21:43:41.331066Z",
-      "primary_item": {
-        "id": "hotelitem_9699887c72ea",
-        "title": "中国旅游研究院与中青旅控股股份有限公司开展主题党日联学联",
-        "url": "https://www.ctaweb.org.cn/gongzuodongtai/10519.html",
-        "source": "中国旅游研究院",
-        "source_name": "中国旅游研究院"
       }
     },
     {
@@ -333,14 +333,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9449,
-      "importance": 0.5895,
-      "importance_score": 0.9449,
+      "score": 0.9432,
+      "importance": 0.5877,
+      "importance_score": 0.9432,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9476,
+        "recency": 0.9387,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -392,14 +392,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9408,
-      "importance": 0.5853,
-      "importance_score": 0.9408,
+      "score": 0.9391,
+      "importance": 0.5835,
+      "importance_score": 0.9391,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9263,
+        "recency": 0.9173,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -451,14 +451,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9406,
-      "importance": 0.5851,
-      "importance_score": 0.9406,
+      "score": 0.9389,
+      "importance": 0.5833,
+      "importance_score": 0.9389,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9255,
+        "recency": 0.9165,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -490,7 +490,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-10T21:43:41.331066Z"
+          "published_at": "2026-07-11T07:25:20.235644Z"
         },
         {
           "id": "hotelitem_c7c15b7680c9",
@@ -499,7 +499,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-10T21:43:41.331066Z"
+          "published_at": "2026-07-11T07:25:20.235644Z"
         },
         {
           "id": "hotelitem_6d8fa145e8af",
@@ -508,7 +508,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-10T21:43:41.331066Z"
+          "published_at": "2026-07-11T07:25:20.235644Z"
         }
       ],
       "source_count": 3,
@@ -523,7 +523,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-10T21:43:41.331066Z"
+          "published_at": "2026-07-11T07:25:20.235644Z"
         },
         {
           "id": "hotelitem_c7c15b7680c9",
@@ -532,7 +532,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-10T21:43:41.331066Z"
+          "published_at": "2026-07-11T07:25:20.235644Z"
         },
         {
           "id": "hotelitem_6d8fa145e8af",
@@ -541,7 +541,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-10T21:43:41.331066Z"
+          "published_at": "2026-07-11T07:25:20.235644Z"
         }
       ],
       "item_count": 3,
@@ -561,8 +561,8 @@
         "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-10T21:43:41.331066Z",
-      "latest_at": "2026-07-10T21:43:41.331066Z",
+      "earliest_at": "2026-07-11T07:25:20.235644Z",
+      "latest_at": "2026-07-11T07:25:20.235644Z",
       "primary_item": {
         "id": "hotelitem_d4370964909c",
         "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
@@ -606,14 +606,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9051,
-      "importance": 0.5553,
-      "importance_score": 0.9051,
+      "score": 0.9024,
+      "importance": 0.5535,
+      "importance_score": 0.9024,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.7766,
+        "recency": 0.7676,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -645,7 +645,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-10T21:43:41.331066Z"
+          "published_at": "2026-07-11T07:25:20.235644Z"
         }
       ],
       "source_count": 1,
@@ -660,7 +660,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-10T21:43:41.331066Z"
+          "published_at": "2026-07-11T07:25:20.235644Z"
         }
       ],
       "item_count": 1,
@@ -679,8 +679,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-10T21:43:41.331066Z",
-      "latest_at": "2026-07-10T21:43:41.331066Z",
+      "earliest_at": "2026-07-11T07:25:20.235644Z",
+      "latest_at": "2026-07-11T07:25:20.235644Z",
       "primary_item": {
         "id": "hotelitem_2c7d18362dc5",
         "title": "协会动态 | 中国饭店协会休闲度假专业委员会一届一次主任办公会在太仓召开 2026年7月8日，中国饭店协会休闲度假专业委员会一届一次主任办公会在太仓金茂隐逸玫瑰庄园度假酒店召开。中国饭店协会会长陈新华，中国饭店协会副会长、休闲度假专业委员会主任委员、君澜酒店董事长兼总裁王建平，苏州市旅游饭店业协会会长孙子元出席会议。会议由中国饭店协会副秘书长张乐然主持。",
@@ -704,7 +704,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-07-10T21:43:41.331066Z"
+          "published_at": "2026-07-11T07:25:20.235644Z"
         }
       ],
       "source_count": 1,
@@ -719,7 +719,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-07-10T21:43:41.331066Z"
+          "published_at": "2026-07-11T07:25:20.235644Z"
         }
       ],
       "item_count": 1,
@@ -738,8 +738,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-10T21:43:41.331066Z",
-      "latest_at": "2026-07-10T21:43:41.331066Z",
+      "earliest_at": "2026-07-11T07:25:20.235644Z",
+      "latest_at": "2026-07-11T07:25:20.235644Z",
       "primary_item": {
         "id": "hotelitem_d34e2868e8eb",
         "title": "惠评文旅|18亿收购，君亭没卖成，国资文旅买壳真正逻辑是什么？",
@@ -763,7 +763,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-07-10T21:43:41.331066Z"
+          "published_at": "2026-07-11T07:25:20.235644Z"
         }
       ],
       "source_count": 1,
@@ -778,7 +778,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-07-10T21:43:41.331066Z"
+          "published_at": "2026-07-11T07:25:20.235644Z"
         }
       ],
       "item_count": 1,
@@ -797,8 +797,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-10T21:43:41.331066Z",
-      "latest_at": "2026-07-10T21:43:41.331066Z",
+      "earliest_at": "2026-07-11T07:25:20.235644Z",
+      "latest_at": "2026-07-11T07:25:20.235644Z",
       "primary_item": {
         "id": "hotelitem_2c03113fa391",
         "title": "文旅惠报|飞猪与浙旅投集团达成战略合作；凯联国际酒店年度亏损收窄至4.74亿港元",
@@ -822,7 +822,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-07-10T21:43:41.331066Z"
+          "published_at": "2026-07-11T07:25:20.235644Z"
         }
       ],
       "source_count": 1,
@@ -837,7 +837,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-07-10T21:43:41.331066Z"
+          "published_at": "2026-07-11T07:25:20.235644Z"
         }
       ],
       "item_count": 1,
@@ -856,8 +856,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-10T21:43:41.331066Z",
-      "latest_at": "2026-07-10T21:43:41.331066Z",
+      "earliest_at": "2026-07-11T07:25:20.235644Z",
+      "latest_at": "2026-07-11T07:25:20.235644Z",
       "primary_item": {
         "id": "hotelitem_50c135faab60",
         "title": "文旅惠报|首旅集团拟发行20亿元超短期融资券，期限95天；广西旅发集团任命向红为副董事长、总经理",
@@ -901,14 +901,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8819,
-      "importance": 0.5968,
-      "importance_score": 0.8819,
+      "score": 0.8802,
+      "importance": 0.595,
+      "importance_score": 0.8802,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9841,
+        "recency": 0.9751,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -960,14 +960,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8774,
-      "importance": 0.5364,
-      "importance_score": 0.8774,
+      "score": 0.8747,
+      "importance": 0.5346,
+      "importance_score": 0.8747,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.6821,
+        "recency": 0.6732,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1019,14 +1019,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8636,
-      "importance": 0.5986,
-      "importance_score": 0.8636,
+      "score": 0.8619,
+      "importance": 0.5968,
+      "importance_score": 0.8619,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9929,
+        "recency": 0.984,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1078,14 +1078,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8634,
-      "importance": 0.5983,
-      "importance_score": 0.8634,
+      "score": 0.8617,
+      "importance": 0.5965,
+      "importance_score": 0.8617,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9917,
+        "recency": 0.9827,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1100,65 +1100,6 @@
         "url": "https://skift.com/2026/07/10/reddoorzs-ipo-plan-singapore-first-nasdaq-later/",
         "source": "Skift Hospitality",
         "source_name": "Skift Hospitality"
-      }
-    },
-    {
-      "story_id": "story_e52cbef61cb0",
-      "title": "Capella Hotels and Resorts voted World’s Best Hotel Brand for fourth consecutive year",
-      "url": "https://insights.ehotelier.com/global-news/2026/07/10/capella-hotels-and-resorts-voted-worlds-best-hotel-brand-for-fourth-consecutive-year/?utm_source=rss&utm_medium=rss&utm_campaign=capella-hotels-and-resorts-voted-worlds-best-hotel-brand-for-fourth-consecutive-year",
-      "primary_url": "https://insights.ehotelier.com/global-news/2026/07/10/capella-hotels-and-resorts-voted-worlds-best-hotel-brand-for-fourth-consecutive-year/?utm_source=rss&utm_medium=rss&utm_campaign=capella-hotels-and-resorts-voted-worlds-best-hotel-brand-for-fourth-consecutive-year",
-      "source": "eHotelier",
-      "source_name": "eHotelier",
-      "sources": [
-        {
-          "id": "hotelitem_e52cbef61cb0",
-          "title": "Capella Hotels and Resorts voted World’s Best Hotel Brand for fourth consecutive year",
-          "url": "https://insights.ehotelier.com/global-news/2026/07/10/capella-hotels-and-resorts-voted-worlds-best-hotel-brand-for-fourth-consecutive-year/?utm_source=rss&utm_medium=rss&utm_campaign=capella-hotels-and-resorts-voted-worlds-best-hotel-brand-for-fourth-consecutive-year",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-07-10T01:57:05Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "eHotelier"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_e52cbef61cb0",
-          "title": "Capella Hotels and Resorts voted World’s Best Hotel Brand for fourth consecutive year",
-          "url": "https://insights.ehotelier.com/global-news/2026/07/10/capella-hotels-and-resorts-voted-worlds-best-hotel-brand-for-fourth-consecutive-year/?utm_source=rss&utm_medium=rss&utm_campaign=capella-hotels-and-resorts-voted-worlds-best-hotel-brand-for-fourth-consecutive-year",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-07-10T01:57:05Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8615,
-      "importance": 0.5963,
-      "importance_score": 0.8615,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9817,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-10T01:57:05Z",
-      "latest_at": "2026-07-10T01:57:05Z",
-      "primary_item": {
-        "id": "hotelitem_e52cbef61cb0",
-        "title": "Capella Hotels and Resorts voted World’s Best Hotel Brand for fourth consecutive year",
-        "url": "https://insights.ehotelier.com/global-news/2026/07/10/capella-hotels-and-resorts-voted-worlds-best-hotel-brand-for-fourth-consecutive-year/?utm_source=rss&utm_medium=rss&utm_campaign=capella-hotels-and-resorts-voted-worlds-best-hotel-brand-for-fourth-consecutive-year",
-        "source": "eHotelier",
-        "source_name": "eHotelier"
       }
     },
     {
@@ -1196,14 +1137,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8615,
-      "importance": 0.5964,
-      "importance_score": 0.8615,
+      "score": 0.8598,
+      "importance": 0.5946,
+      "importance_score": 0.8598,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9819,
+        "recency": 0.9729,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1255,14 +1196,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8614,
-      "importance": 0.5963,
-      "importance_score": 0.8614,
+      "score": 0.8597,
+      "importance": 0.5945,
+      "importance_score": 0.8597,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9814,
+        "recency": 0.9724,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1314,14 +1255,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8614,
-      "importance": 0.5963,
-      "importance_score": 0.8614,
+      "score": 0.8597,
+      "importance": 0.5945,
+      "importance_score": 0.8597,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9815,
+        "recency": 0.9725,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1336,6 +1277,242 @@
         "url": "https://insights.ehotelier.com/people/2026/07/10/dani-stern-appointed-as-president-of-hospitality-operations-at-black-desert-resort/?utm_source=rss&utm_medium=rss&utm_campaign=dani-stern-appointed-as-president-of-hospitality-operations-at-black-desert-resort",
         "source": "eHotelier",
         "source_name": "eHotelier"
+      }
+    },
+    {
+      "story_id": "story_e52cbef61cb0",
+      "title": "Capella Hotels and Resorts voted World’s Best Hotel Brand for fourth consecutive year",
+      "url": "https://insights.ehotelier.com/global-news/2026/07/10/capella-hotels-and-resorts-voted-worlds-best-hotel-brand-for-fourth-consecutive-year/?utm_source=rss&utm_medium=rss&utm_campaign=capella-hotels-and-resorts-voted-worlds-best-hotel-brand-for-fourth-consecutive-year",
+      "primary_url": "https://insights.ehotelier.com/global-news/2026/07/10/capella-hotels-and-resorts-voted-worlds-best-hotel-brand-for-fourth-consecutive-year/?utm_source=rss&utm_medium=rss&utm_campaign=capella-hotels-and-resorts-voted-worlds-best-hotel-brand-for-fourth-consecutive-year",
+      "source": "eHotelier",
+      "source_name": "eHotelier",
+      "sources": [
+        {
+          "id": "hotelitem_e52cbef61cb0",
+          "title": "Capella Hotels and Resorts voted World’s Best Hotel Brand for fourth consecutive year",
+          "url": "https://insights.ehotelier.com/global-news/2026/07/10/capella-hotels-and-resorts-voted-worlds-best-hotel-brand-for-fourth-consecutive-year/?utm_source=rss&utm_medium=rss&utm_campaign=capella-hotels-and-resorts-voted-worlds-best-hotel-brand-for-fourth-consecutive-year",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-07-10T01:57:05Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "eHotelier"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_e52cbef61cb0",
+          "title": "Capella Hotels and Resorts voted World’s Best Hotel Brand for fourth consecutive year",
+          "url": "https://insights.ehotelier.com/global-news/2026/07/10/capella-hotels-and-resorts-voted-worlds-best-hotel-brand-for-fourth-consecutive-year/?utm_source=rss&utm_medium=rss&utm_campaign=capella-hotels-and-resorts-voted-worlds-best-hotel-brand-for-fourth-consecutive-year",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-07-10T01:57:05Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8597,
+      "importance": 0.5945,
+      "importance_score": 0.8597,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9727,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-10T01:57:05Z",
+      "latest_at": "2026-07-10T01:57:05Z",
+      "primary_item": {
+        "id": "hotelitem_e52cbef61cb0",
+        "title": "Capella Hotels and Resorts voted World’s Best Hotel Brand for fourth consecutive year",
+        "url": "https://insights.ehotelier.com/global-news/2026/07/10/capella-hotels-and-resorts-voted-worlds-best-hotel-brand-for-fourth-consecutive-year/?utm_source=rss&utm_medium=rss&utm_campaign=capella-hotels-and-resorts-voted-worlds-best-hotel-brand-for-fourth-consecutive-year",
+        "source": "eHotelier",
+        "source_name": "eHotelier"
+      }
+    },
+    {
+      "story_id": "story_e4ce0593c384",
+      "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
+      "url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
+      "primary_url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
+      "source": "中国旅游研究院",
+      "source_name": "中国旅游研究院",
+      "sources": [
+        {
+          "id": "hotelitem_e4ce0593c384",
+          "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
+          "url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
+          "source": "中国旅游研究院",
+          "source_name": "中国旅游研究院",
+          "site_id": "cta",
+          "published_at": "2026-07-11T07:25:20.235644Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "中国旅游研究院"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_e4ce0593c384",
+          "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
+          "url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
+          "source": "中国旅游研究院",
+          "source_name": "中国旅游研究院",
+          "site_id": "cta",
+          "published_at": "2026-07-11T07:25:20.235644Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.858,
+      "importance": 0.6,
+      "importance_score": 0.858,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-11T07:25:20.235644Z",
+      "latest_at": "2026-07-11T07:25:20.235644Z",
+      "primary_item": {
+        "id": "hotelitem_e4ce0593c384",
+        "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
+        "url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
+        "source": "中国旅游研究院",
+        "source_name": "中国旅游研究院"
+      }
+    },
+    {
+      "story_id": "story_9a958319a874",
+      "title": "文化和旅游部印发《旅游强国建设“十五五”...",
+      "url": "https://www.mct.gov.cn/whzx/whyw/202607/t20260708_966448.htm",
+      "primary_url": "https://www.mct.gov.cn/whzx/whyw/202607/t20260708_966448.htm",
+      "source": "文化和旅游部",
+      "source_name": "文化和旅游部",
+      "sources": [
+        {
+          "id": "hotelitem_9a958319a874",
+          "title": "文化和旅游部印发《旅游强国建设“十五五”...",
+          "url": "https://www.mct.gov.cn/whzx/whyw/202607/t20260708_966448.htm",
+          "source": "文化和旅游部",
+          "source_name": "文化和旅游部",
+          "site_id": "mct",
+          "published_at": "2026-07-11T07:25:20.235644Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "文化和旅游部"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_9a958319a874",
+          "title": "文化和旅游部印发《旅游强国建设“十五五”...",
+          "url": "https://www.mct.gov.cn/whzx/whyw/202607/t20260708_966448.htm",
+          "source": "文化和旅游部",
+          "source_name": "文化和旅游部",
+          "site_id": "mct",
+          "published_at": "2026-07-11T07:25:20.235644Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.858,
+      "importance": 0.6,
+      "importance_score": 0.858,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-11T07:25:20.235644Z",
+      "latest_at": "2026-07-11T07:25:20.235644Z",
+      "primary_item": {
+        "id": "hotelitem_9a958319a874",
+        "title": "文化和旅游部印发《旅游强国建设“十五五”...",
+        "url": "https://www.mct.gov.cn/whzx/whyw/202607/t20260708_966448.htm",
+        "source": "文化和旅游部",
+        "source_name": "文化和旅游部"
+      }
+    },
+    {
+      "story_id": "story_e2295ba596c9",
+      "title": "文化和旅游部部级社科研究项目公布",
+      "url": "https://www.mct.gov.cn/whzx/bnsj/whkjs/202606/t20260617_966274.html",
+      "primary_url": "https://www.mct.gov.cn/whzx/bnsj/whkjs/202606/t20260617_966274.html",
+      "source": "文化和旅游部",
+      "source_name": "文化和旅游部",
+      "sources": [
+        {
+          "id": "hotelitem_e2295ba596c9",
+          "title": "文化和旅游部部级社科研究项目公布",
+          "url": "https://www.mct.gov.cn/whzx/bnsj/whkjs/202606/t20260617_966274.html",
+          "source": "文化和旅游部",
+          "source_name": "文化和旅游部",
+          "site_id": "mct",
+          "published_at": "2026-07-11T07:25:20.235644Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "文化和旅游部"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_e2295ba596c9",
+          "title": "文化和旅游部部级社科研究项目公布",
+          "url": "https://www.mct.gov.cn/whzx/bnsj/whkjs/202606/t20260617_966274.html",
+          "source": "文化和旅游部",
+          "source_name": "文化和旅游部",
+          "site_id": "mct",
+          "published_at": "2026-07-11T07:25:20.235644Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.858,
+      "importance": 0.6,
+      "importance_score": 0.858,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-11T07:25:20.235644Z",
+      "latest_at": "2026-07-11T07:25:20.235644Z",
+      "primary_item": {
+        "id": "hotelitem_e2295ba596c9",
+        "title": "文化和旅游部部级社科研究项目公布",
+        "url": "https://www.mct.gov.cn/whzx/bnsj/whkjs/202606/t20260617_966274.html",
+        "source": "文化和旅游部",
+        "source_name": "文化和旅游部"
       }
     },
     {
@@ -1373,14 +1550,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8592,
-      "importance": 0.594,
-      "importance_score": 0.8592,
+      "score": 0.8575,
+      "importance": 0.5922,
+      "importance_score": 0.8575,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.97,
+        "recency": 0.961,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1395,183 +1572,6 @@
         "url": "https://www.hoteldive.com/news/fattal-hotel-group-first-us-investment/824814/",
         "source": "Hotel Dive",
         "source_name": "Hotel Dive"
-      }
-    },
-    {
-      "story_id": "story_e4ce0593c384",
-      "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
-      "url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
-      "primary_url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
-      "source": "中国旅游研究院",
-      "source_name": "中国旅游研究院",
-      "sources": [
-        {
-          "id": "hotelitem_e4ce0593c384",
-          "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
-          "url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
-          "source": "中国旅游研究院",
-          "source_name": "中国旅游研究院",
-          "site_id": "cta",
-          "published_at": "2026-07-10T21:43:41.331066Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "中国旅游研究院"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_e4ce0593c384",
-          "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
-          "url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
-          "source": "中国旅游研究院",
-          "source_name": "中国旅游研究院",
-          "site_id": "cta",
-          "published_at": "2026-07-10T21:43:41.331066Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.858,
-      "importance": 0.6,
-      "importance_score": 0.858,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-10T21:43:41.331066Z",
-      "latest_at": "2026-07-10T21:43:41.331066Z",
-      "primary_item": {
-        "id": "hotelitem_e4ce0593c384",
-        "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
-        "url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
-        "source": "中国旅游研究院",
-        "source_name": "中国旅游研究院"
-      }
-    },
-    {
-      "story_id": "story_9a958319a874",
-      "title": "文化和旅游部印发《旅游强国建设“十五五”...",
-      "url": "https://www.mct.gov.cn/whzx/whyw/202607/t20260708_966448.htm",
-      "primary_url": "https://www.mct.gov.cn/whzx/whyw/202607/t20260708_966448.htm",
-      "source": "文化和旅游部",
-      "source_name": "文化和旅游部",
-      "sources": [
-        {
-          "id": "hotelitem_9a958319a874",
-          "title": "文化和旅游部印发《旅游强国建设“十五五”...",
-          "url": "https://www.mct.gov.cn/whzx/whyw/202607/t20260708_966448.htm",
-          "source": "文化和旅游部",
-          "source_name": "文化和旅游部",
-          "site_id": "mct",
-          "published_at": "2026-07-10T21:43:41.331066Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "文化和旅游部"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_9a958319a874",
-          "title": "文化和旅游部印发《旅游强国建设“十五五”...",
-          "url": "https://www.mct.gov.cn/whzx/whyw/202607/t20260708_966448.htm",
-          "source": "文化和旅游部",
-          "source_name": "文化和旅游部",
-          "site_id": "mct",
-          "published_at": "2026-07-10T21:43:41.331066Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.858,
-      "importance": 0.6,
-      "importance_score": 0.858,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-10T21:43:41.331066Z",
-      "latest_at": "2026-07-10T21:43:41.331066Z",
-      "primary_item": {
-        "id": "hotelitem_9a958319a874",
-        "title": "文化和旅游部印发《旅游强国建设“十五五”...",
-        "url": "https://www.mct.gov.cn/whzx/whyw/202607/t20260708_966448.htm",
-        "source": "文化和旅游部",
-        "source_name": "文化和旅游部"
-      }
-    },
-    {
-      "story_id": "story_e2295ba596c9",
-      "title": "文化和旅游部部级社科研究项目公布",
-      "url": "https://www.mct.gov.cn/whzx/bnsj/whkjs/202606/t20260617_966274.html",
-      "primary_url": "https://www.mct.gov.cn/whzx/bnsj/whkjs/202606/t20260617_966274.html",
-      "source": "文化和旅游部",
-      "source_name": "文化和旅游部",
-      "sources": [
-        {
-          "id": "hotelitem_e2295ba596c9",
-          "title": "文化和旅游部部级社科研究项目公布",
-          "url": "https://www.mct.gov.cn/whzx/bnsj/whkjs/202606/t20260617_966274.html",
-          "source": "文化和旅游部",
-          "source_name": "文化和旅游部",
-          "site_id": "mct",
-          "published_at": "2026-07-10T21:43:41.331066Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "文化和旅游部"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_e2295ba596c9",
-          "title": "文化和旅游部部级社科研究项目公布",
-          "url": "https://www.mct.gov.cn/whzx/bnsj/whkjs/202606/t20260617_966274.html",
-          "source": "文化和旅游部",
-          "source_name": "文化和旅游部",
-          "site_id": "mct",
-          "published_at": "2026-07-10T21:43:41.331066Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.858,
-      "importance": 0.6,
-      "importance_score": 0.858,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-10T21:43:41.331066Z",
-      "latest_at": "2026-07-10T21:43:41.331066Z",
-      "primary_item": {
-        "id": "hotelitem_e2295ba596c9",
-        "title": "文化和旅游部部级社科研究项目公布",
-        "url": "https://www.mct.gov.cn/whzx/bnsj/whkjs/202606/t20260617_966274.html",
-        "source": "文化和旅游部",
-        "source_name": "文化和旅游部"
       }
     },
     {
@@ -1609,14 +1609,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8562,
-      "importance": 0.5909,
-      "importance_score": 0.8562,
+      "score": 0.8545,
+      "importance": 0.5891,
+      "importance_score": 0.8545,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9544,
+        "recency": 0.9454,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1668,14 +1668,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8551,
-      "importance": 0.5897,
-      "importance_score": 0.8551,
+      "score": 0.8534,
+      "importance": 0.5879,
+      "importance_score": 0.8534,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9486,
+        "recency": 0.9396,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1727,14 +1727,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8541,
-      "importance": 0.5887,
-      "importance_score": 0.8541,
+      "score": 0.8524,
+      "importance": 0.5869,
+      "importance_score": 0.8524,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9435,
+        "recency": 0.9345,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1752,62 +1752,62 @@
       }
     },
     {
-      "story_id": "story_6afe63ce6797",
-      "title": "How an Airline Pilot Built One of Portugal’s Most Distinctive Hotels",
-      "url": "https://skift.com/2026/07/06/how-an-airline-pilot-built-one-of-portugals-most-distinctive-hotels/",
-      "primary_url": "https://skift.com/2026/07/06/how-an-airline-pilot-built-one-of-portugals-most-distinctive-hotels/",
-      "source": "Skift Hospitality",
-      "source_name": "Skift Hospitality",
+      "story_id": "story_c7ff37d10220",
+      "title": "LEVEN Manchester appoints general manager",
+      "url": "https://boutiquehotelnews.com/news/movers-and-shakers/leven-manchester-general-manager/?utm_source=rss&utm_medium=rss&utm_campaign=leven-manchester-general-manager",
+      "primary_url": "https://boutiquehotelnews.com/news/movers-and-shakers/leven-manchester-general-manager/?utm_source=rss&utm_medium=rss&utm_campaign=leven-manchester-general-manager",
+      "source": "Boutique Hotel News",
+      "source_name": "Boutique Hotel News",
       "sources": [
         {
-          "id": "hotelitem_6afe63ce6797",
-          "title": "How an Airline Pilot Built One of Portugal’s Most Distinctive Hotels",
-          "url": "https://skift.com/2026/07/06/how-an-airline-pilot-built-one-of-portugals-most-distinctive-hotels/",
-          "source": "Skift Hospitality",
-          "source_name": "Skift Hospitality",
-          "site_id": "skift",
-          "published_at": "2026-07-06T19:32:50Z"
+          "id": "hotelitem_c7ff37d10220",
+          "title": "LEVEN Manchester appoints general manager",
+          "url": "https://boutiquehotelnews.com/news/movers-and-shakers/leven-manchester-general-manager/?utm_source=rss&utm_medium=rss&utm_campaign=leven-manchester-general-manager",
+          "source": "Boutique Hotel News",
+          "source_name": "Boutique Hotel News",
+          "site_id": "boutiquehotel",
+          "published_at": "2026-07-10T08:28:23Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Skift Hospitality"
+        "Boutique Hotel News"
       ],
       "items": [
         {
-          "id": "hotelitem_6afe63ce6797",
-          "title": "How an Airline Pilot Built One of Portugal’s Most Distinctive Hotels",
-          "url": "https://skift.com/2026/07/06/how-an-airline-pilot-built-one-of-portugals-most-distinctive-hotels/",
-          "source": "Skift Hospitality",
-          "source_name": "Skift Hospitality",
-          "site_id": "skift",
-          "published_at": "2026-07-06T19:32:50Z"
+          "id": "hotelitem_c7ff37d10220",
+          "title": "LEVEN Manchester appoints general manager",
+          "url": "https://boutiquehotelnews.com/news/movers-and-shakers/leven-manchester-general-manager/?utm_source=rss&utm_medium=rss&utm_campaign=leven-manchester-general-manager",
+          "source": "Boutique Hotel News",
+          "source_name": "Boutique Hotel News",
+          "site_id": "boutiquehotel",
+          "published_at": "2026-07-10T08:28:23Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8475,
-      "importance": 0.5818,
-      "importance_score": 0.8475,
+      "score": 0.8459,
+      "importance": 0.5958,
+      "importance_score": 0.8459,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9091,
+        "recency": 0.9788,
         "story_heat": 0.0
       },
       "category": "watch",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-06T19:32:50Z",
-      "latest_at": "2026-07-06T19:32:50Z",
+      "earliest_at": "2026-07-10T08:28:23Z",
+      "latest_at": "2026-07-10T08:28:23Z",
       "primary_item": {
-        "id": "hotelitem_6afe63ce6797",
-        "title": "How an Airline Pilot Built One of Portugal’s Most Distinctive Hotels",
-        "url": "https://skift.com/2026/07/06/how-an-airline-pilot-built-one-of-portugals-most-distinctive-hotels/",
-        "source": "Skift Hospitality",
-        "source_name": "Skift Hospitality"
+        "id": "hotelitem_c7ff37d10220",
+        "title": "LEVEN Manchester appoints general manager",
+        "url": "https://boutiquehotelnews.com/news/movers-and-shakers/leven-manchester-general-manager/?utm_source=rss&utm_medium=rss&utm_campaign=leven-manchester-general-manager",
+        "source": "Boutique Hotel News",
+        "source_name": "Boutique Hotel News"
       }
     }
   ]
