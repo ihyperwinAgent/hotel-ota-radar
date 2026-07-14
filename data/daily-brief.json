@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13T22:12:42.344694Z",
+  "generated_at": "2026-07-14T03:38:18.143568Z",
   "window_hours": 1080,
   "total_items": 30,
   "items": [
@@ -38,14 +38,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.991,
-      "importance": 0.5777,
-      "importance_score": 0.991,
+      "score": 0.99,
+      "importance": 0.5767,
+      "importance_score": 0.99,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8886,
+        "recency": 0.8835,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -97,14 +97,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9512,
-      "importance": 0.5961,
-      "importance_score": 0.9512,
+      "score": 0.9503,
+      "importance": 0.5951,
+      "importance_score": 0.9503,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9805,
+        "recency": 0.9755,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -117,65 +117,6 @@
         "id": "hotelitem_64a6322baf7d",
         "title": "Radisson Hotel Group leverages its strong owner confidence to accelerate global growth",
         "url": "https://insights.ehotelier.com/global-news/2026/07/13/radisson-hotel-group-leverages-its-strong-owner-confidence-to-accelerate-global-growth/?utm_source=rss&utm_medium=rss&utm_campaign=radisson-hotel-group-leverages-its-strong-owner-confidence-to-accelerate-global-growth",
-        "source": "eHotelier",
-        "source_name": "eHotelier"
-      }
-    },
-    {
-      "story_id": "story_57395acb8120",
-      "title": "Fairmont La Hacienda Costa del Sol launches new villa experiences",
-      "url": "https://insights.ehotelier.com/properties/2026/07/13/fairmont-la-hacienda-costa-del-sol-launches-new-villa-experiences/?utm_source=rss&utm_medium=rss&utm_campaign=fairmont-la-hacienda-costa-del-sol-launches-new-villa-experiences",
-      "primary_url": "https://insights.ehotelier.com/properties/2026/07/13/fairmont-la-hacienda-costa-del-sol-launches-new-villa-experiences/?utm_source=rss&utm_medium=rss&utm_campaign=fairmont-la-hacienda-costa-del-sol-launches-new-villa-experiences",
-      "source": "eHotelier",
-      "source_name": "eHotelier",
-      "sources": [
-        {
-          "id": "hotelitem_57395acb8120",
-          "title": "Fairmont La Hacienda Costa del Sol launches new villa experiences",
-          "url": "https://insights.ehotelier.com/properties/2026/07/13/fairmont-la-hacienda-costa-del-sol-launches-new-villa-experiences/?utm_source=rss&utm_medium=rss&utm_campaign=fairmont-la-hacienda-costa-del-sol-launches-new-villa-experiences",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-07-13T00:33:55Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "eHotelier"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_57395acb8120",
-          "title": "Fairmont La Hacienda Costa del Sol launches new villa experiences",
-          "url": "https://insights.ehotelier.com/properties/2026/07/13/fairmont-la-hacienda-costa-del-sol-launches-new-villa-experiences/?utm_source=rss&utm_medium=rss&utm_campaign=fairmont-la-hacienda-costa-del-sol-launches-new-villa-experiences",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-07-13T00:33:55Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.9511,
-      "importance": 0.596,
-      "importance_score": 0.9511,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.98,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-13T00:33:55Z",
-      "latest_at": "2026-07-13T00:33:55Z",
-      "primary_item": {
-        "id": "hotelitem_57395acb8120",
-        "title": "Fairmont La Hacienda Costa del Sol launches new villa experiences",
-        "url": "https://insights.ehotelier.com/properties/2026/07/13/fairmont-la-hacienda-costa-del-sol-launches-new-villa-experiences/?utm_source=rss&utm_medium=rss&utm_campaign=fairmont-la-hacienda-costa-del-sol-launches-new-villa-experiences",
         "source": "eHotelier",
         "source_name": "eHotelier"
       }
@@ -195,7 +136,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-07-13T22:12:42.344694Z"
+          "published_at": "2026-07-14T03:38:18.143568Z"
         }
       ],
       "source_count": 1,
@@ -210,7 +151,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-07-13T22:12:42.344694Z"
+          "published_at": "2026-07-14T03:38:18.143568Z"
         }
       ],
       "item_count": 1,
@@ -229,8 +170,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-13T22:12:42.344694Z",
-      "latest_at": "2026-07-13T22:12:42.344694Z",
+      "earliest_at": "2026-07-14T03:38:18.143568Z",
+      "latest_at": "2026-07-14T03:38:18.143568Z",
       "primary_item": {
         "id": "hotelitem_9699887c72ea",
         "title": "中国旅游研究院与中青旅控股股份有限公司开展主题党日联学联",
@@ -274,14 +215,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9414,
-      "importance": 0.5859,
-      "importance_score": 0.9414,
+      "score": 0.9404,
+      "importance": 0.5849,
+      "importance_score": 0.9404,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9294,
+        "recency": 0.9244,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -333,14 +274,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9406,
-      "importance": 0.585,
-      "importance_score": 0.9406,
+      "score": 0.9396,
+      "importance": 0.584,
+      "importance_score": 0.9396,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9252,
+        "recency": 0.9202,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -392,14 +333,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9366,
-      "importance": 0.581,
-      "importance_score": 0.9366,
+      "score": 0.9357,
+      "importance": 0.58,
+      "importance_score": 0.9357,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9048,
+        "recency": 0.8998,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -451,14 +392,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.932,
-      "importance": 0.5761,
-      "importance_score": 0.932,
+      "score": 0.931,
+      "importance": 0.5751,
+      "importance_score": 0.931,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8805,
+        "recency": 0.8755,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -510,14 +451,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9278,
-      "importance": 0.5718,
-      "importance_score": 0.9278,
+      "score": 0.9269,
+      "importance": 0.5708,
+      "importance_score": 0.9269,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8592,
+        "recency": 0.8542,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -569,14 +510,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9277,
-      "importance": 0.5717,
-      "importance_score": 0.9277,
+      "score": 0.9267,
+      "importance": 0.5707,
+      "importance_score": 0.9267,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8584,
+        "recency": 0.8534,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -608,7 +549,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-13T22:12:42.344694Z"
+          "published_at": "2026-07-14T03:38:18.143568Z"
         },
         {
           "id": "hotelitem_c7c15b7680c9",
@@ -617,7 +558,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-13T22:12:42.344694Z"
+          "published_at": "2026-07-14T03:38:18.143568Z"
         },
         {
           "id": "hotelitem_6d8fa145e8af",
@@ -626,7 +567,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-13T22:12:42.344694Z"
+          "published_at": "2026-07-14T03:38:18.143568Z"
         }
       ],
       "source_count": 3,
@@ -641,7 +582,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-13T22:12:42.344694Z"
+          "published_at": "2026-07-14T03:38:18.143568Z"
         },
         {
           "id": "hotelitem_c7c15b7680c9",
@@ -650,7 +591,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-13T22:12:42.344694Z"
+          "published_at": "2026-07-14T03:38:18.143568Z"
         },
         {
           "id": "hotelitem_6d8fa145e8af",
@@ -659,7 +600,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-13T22:12:42.344694Z"
+          "published_at": "2026-07-14T03:38:18.143568Z"
         }
       ],
       "item_count": 3,
@@ -679,8 +620,8 @@
         "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-13T22:12:42.344694Z",
-      "latest_at": "2026-07-13T22:12:42.344694Z",
+      "earliest_at": "2026-07-14T03:38:18.143568Z",
+      "latest_at": "2026-07-14T03:38:18.143568Z",
       "primary_item": {
         "id": "hotelitem_d4370964909c",
         "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
@@ -704,7 +645,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-13T22:12:42.344694Z"
+          "published_at": "2026-07-14T03:38:18.143568Z"
         }
       ],
       "source_count": 1,
@@ -719,7 +660,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-13T22:12:42.344694Z"
+          "published_at": "2026-07-14T03:38:18.143568Z"
         }
       ],
       "item_count": 1,
@@ -738,8 +679,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-13T22:12:42.344694Z",
-      "latest_at": "2026-07-13T22:12:42.344694Z",
+      "earliest_at": "2026-07-14T03:38:18.143568Z",
+      "latest_at": "2026-07-14T03:38:18.143568Z",
       "primary_item": {
         "id": "hotelitem_2c7d18362dc5",
         "title": "协会动态 | 中国饭店协会休闲度假专业委员会一届一次主任办公会在太仓召开 2026年7月8日，中国饭店协会休闲度假专业委员会一届一次主任办公会在太仓金茂隐逸玫瑰庄园度假酒店召开。中国饭店协会会长陈新华，中国饭店协会副会长、休闲度假专业委员会主任委员、君澜酒店董事长兼总裁王建平，苏州市旅游饭店业协会会长孙子元出席会议。会议由中国饭店协会副秘书长张乐然主持。",
@@ -763,7 +704,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-07-13T22:12:42.344694Z"
+          "published_at": "2026-07-14T03:38:18.143568Z"
         }
       ],
       "source_count": 1,
@@ -778,7 +719,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-07-13T22:12:42.344694Z"
+          "published_at": "2026-07-14T03:38:18.143568Z"
         }
       ],
       "item_count": 1,
@@ -797,8 +738,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-13T22:12:42.344694Z",
-      "latest_at": "2026-07-13T22:12:42.344694Z",
+      "earliest_at": "2026-07-14T03:38:18.143568Z",
+      "latest_at": "2026-07-14T03:38:18.143568Z",
       "primary_item": {
         "id": "hotelitem_d34e2868e8eb",
         "title": "惠评文旅|18亿收购，君亭没卖成，国资文旅买壳真正逻辑是什么？",
@@ -822,7 +763,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-07-13T22:12:42.344694Z"
+          "published_at": "2026-07-14T03:38:18.143568Z"
         }
       ],
       "source_count": 1,
@@ -837,7 +778,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-07-13T22:12:42.344694Z"
+          "published_at": "2026-07-14T03:38:18.143568Z"
         }
       ],
       "item_count": 1,
@@ -856,8 +797,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-13T22:12:42.344694Z",
-      "latest_at": "2026-07-13T22:12:42.344694Z",
+      "earliest_at": "2026-07-14T03:38:18.143568Z",
+      "latest_at": "2026-07-14T03:38:18.143568Z",
       "primary_item": {
         "id": "hotelitem_2c03113fa391",
         "title": "文旅惠报|飞猪与浙旅投集团达成战略合作；凯联国际酒店年度亏损收窄至4.74亿港元",
@@ -881,7 +822,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-07-13T22:12:42.344694Z"
+          "published_at": "2026-07-14T03:38:18.143568Z"
         }
       ],
       "source_count": 1,
@@ -896,7 +837,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-07-13T22:12:42.344694Z"
+          "published_at": "2026-07-14T03:38:18.143568Z"
         }
       ],
       "item_count": 1,
@@ -915,8 +856,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-13T22:12:42.344694Z",
-      "latest_at": "2026-07-13T22:12:42.344694Z",
+      "earliest_at": "2026-07-14T03:38:18.143568Z",
+      "latest_at": "2026-07-14T03:38:18.143568Z",
       "primary_item": {
         "id": "hotelitem_50c135faab60",
         "title": "文旅惠报|首旅集团拟发行20亿元超短期融资券，期限95天；广西旅发集团任命向红为副董事长、总经理",
@@ -960,14 +901,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8854,
-      "importance": 0.5419,
-      "importance_score": 0.8854,
+      "score": 0.8839,
+      "importance": 0.5409,
+      "importance_score": 0.8839,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.7094,
+        "recency": 0.7044,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -982,6 +923,65 @@
         "url": "https://www.hotelmanagement.net/resource/reactive-proactive-leveraging-data-prevent-device-failures-protect-guest-experience",
         "source": "Hotel Management",
         "source_name": "Hotel Management"
+      }
+    },
+    {
+      "story_id": "story_3c0fc4a9ba4e",
+      "title": "Centara expands Vietnam portfolio with stunning new coastal address",
+      "url": "https://insights.ehotelier.com/properties/2026/07/14/centara-expands-vietnam-portfolio-with-stunning-new-coastal-address/?utm_source=rss&utm_medium=rss&utm_campaign=centara-expands-vietnam-portfolio-with-stunning-new-coastal-address",
+      "primary_url": "https://insights.ehotelier.com/properties/2026/07/14/centara-expands-vietnam-portfolio-with-stunning-new-coastal-address/?utm_source=rss&utm_medium=rss&utm_campaign=centara-expands-vietnam-portfolio-with-stunning-new-coastal-address",
+      "source": "eHotelier",
+      "source_name": "eHotelier",
+      "sources": [
+        {
+          "id": "hotelitem_3c0fc4a9ba4e",
+          "title": "Centara expands Vietnam portfolio with stunning new coastal address",
+          "url": "https://insights.ehotelier.com/properties/2026/07/14/centara-expands-vietnam-portfolio-with-stunning-new-coastal-address/?utm_source=rss&utm_medium=rss&utm_campaign=centara-expands-vietnam-portfolio-with-stunning-new-coastal-address",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-07-14T01:01:19Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "eHotelier"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_3c0fc4a9ba4e",
+          "title": "Centara expands Vietnam portfolio with stunning new coastal address",
+          "url": "https://insights.ehotelier.com/properties/2026/07/14/centara-expands-vietnam-portfolio-with-stunning-new-coastal-address/?utm_source=rss&utm_medium=rss&utm_campaign=centara-expands-vietnam-portfolio-with-stunning-new-coastal-address",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-07-14T01:01:19Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8645,
+      "importance": 0.5995,
+      "importance_score": 0.8645,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9976,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-14T01:01:19Z",
+      "latest_at": "2026-07-14T01:01:19Z",
+      "primary_item": {
+        "id": "hotelitem_3c0fc4a9ba4e",
+        "title": "Centara expands Vietnam portfolio with stunning new coastal address",
+        "url": "https://insights.ehotelier.com/properties/2026/07/14/centara-expands-vietnam-portfolio-with-stunning-new-coastal-address/?utm_source=rss&utm_medium=rss&utm_campaign=centara-expands-vietnam-portfolio-with-stunning-new-coastal-address",
+        "source": "eHotelier",
+        "source_name": "eHotelier"
       }
     },
     {
@@ -1019,14 +1019,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8634,
-      "importance": 0.5983,
-      "importance_score": 0.8634,
+      "score": 0.8624,
+      "importance": 0.5973,
+      "importance_score": 0.8624,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9917,
+        "recency": 0.9866,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1078,14 +1078,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8631,
-      "importance": 0.598,
-      "importance_score": 0.8631,
+      "score": 0.8621,
+      "importance": 0.597,
+      "importance_score": 0.8621,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9901,
+        "recency": 0.9851,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1100,65 +1100,6 @@
         "url": "https://skift.com/2026/07/13/ennismore-thinks-lifestyle-brands-can-survive-all-inclusive-mondrian-is-the-next-test/",
         "source": "Skift Hospitality",
         "source_name": "Skift Hospitality"
-      }
-    },
-    {
-      "story_id": "story_c169e9f28cee",
-      "title": "Brian Harris appointed as Director of International Commercial Strategy at Halekulani Hotel",
-      "url": "https://insights.ehotelier.com/people/2026/07/13/brian-harris-appointed-as-director-of-international-commercial-strategy-at-halekulani-hotel/?utm_source=rss&utm_medium=rss&utm_campaign=brian-harris-appointed-as-director-of-international-commercial-strategy-at-halekulani-hotel",
-      "primary_url": "https://insights.ehotelier.com/people/2026/07/13/brian-harris-appointed-as-director-of-international-commercial-strategy-at-halekulani-hotel/?utm_source=rss&utm_medium=rss&utm_campaign=brian-harris-appointed-as-director-of-international-commercial-strategy-at-halekulani-hotel",
-      "source": "eHotelier",
-      "source_name": "eHotelier",
-      "sources": [
-        {
-          "id": "hotelitem_c169e9f28cee",
-          "title": "Brian Harris appointed as Director of International Commercial Strategy at Halekulani Hotel",
-          "url": "https://insights.ehotelier.com/people/2026/07/13/brian-harris-appointed-as-director-of-international-commercial-strategy-at-halekulani-hotel/?utm_source=rss&utm_medium=rss&utm_campaign=brian-harris-appointed-as-director-of-international-commercial-strategy-at-halekulani-hotel",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-07-13T00:50:40Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "eHotelier"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_c169e9f28cee",
-          "title": "Brian Harris appointed as Director of International Commercial Strategy at Halekulani Hotel",
-          "url": "https://insights.ehotelier.com/people/2026/07/13/brian-harris-appointed-as-director-of-international-commercial-strategy-at-halekulani-hotel/?utm_source=rss&utm_medium=rss&utm_campaign=brian-harris-appointed-as-director-of-international-commercial-strategy-at-halekulani-hotel",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-07-13T00:50:40Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8612,
-      "importance": 0.596,
-      "importance_score": 0.8612,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9802,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-13T00:50:40Z",
-      "latest_at": "2026-07-13T00:50:40Z",
-      "primary_item": {
-        "id": "hotelitem_c169e9f28cee",
-        "title": "Brian Harris appointed as Director of International Commercial Strategy at Halekulani Hotel",
-        "url": "https://insights.ehotelier.com/people/2026/07/13/brian-harris-appointed-as-director-of-international-commercial-strategy-at-halekulani-hotel/?utm_source=rss&utm_medium=rss&utm_campaign=brian-harris-appointed-as-director-of-international-commercial-strategy-at-halekulani-hotel",
-        "source": "eHotelier",
-        "source_name": "eHotelier"
       }
     },
     {
@@ -1196,14 +1137,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8612,
-      "importance": 0.5961,
-      "importance_score": 0.8612,
+      "score": 0.8603,
+      "importance": 0.5951,
+      "importance_score": 0.8603,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9805,
+        "recency": 0.9755,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1221,21 +1162,21 @@
       }
     },
     {
-      "story_id": "story_757c593cc4ad",
-      "title": "同程旅行非执行董事谢晴华辞任 腾讯高管李浣娜接任",
-      "url": "https://www.meadin.com/wl/298316.html",
-      "primary_url": "https://www.meadin.com/wl/298316.html",
+      "story_id": "story_c497f004c4ee",
+      "title": "首旅酒店收到首旅集团支付的业绩补偿款636.6万元",
+      "url": "https://www.meadin.com/jd/298351.html",
+      "primary_url": "https://www.meadin.com/jd/298351.html",
       "source": "迈点研究院",
       "source_name": "迈点研究院",
       "sources": [
         {
-          "id": "hotelitem_757c593cc4ad",
-          "title": "同程旅行非执行董事谢晴华辞任 腾讯高管李浣娜接任",
-          "url": "https://www.meadin.com/wl/298316.html",
+          "id": "hotelitem_c497f004c4ee",
+          "title": "首旅酒店收到首旅集团支付的业绩补偿款636.6万元",
+          "url": "https://www.meadin.com/jd/298351.html",
           "source": "迈点研究院",
           "source_name": "迈点研究院",
           "site_id": "meadin",
-          "published_at": "2026-07-13T22:12:42.344694Z"
+          "published_at": "2026-07-14T03:38:18.143568Z"
         }
       ],
       "source_count": 1,
@@ -1244,13 +1185,13 @@
       ],
       "items": [
         {
-          "id": "hotelitem_757c593cc4ad",
-          "title": "同程旅行非执行董事谢晴华辞任 腾讯高管李浣娜接任",
-          "url": "https://www.meadin.com/wl/298316.html",
+          "id": "hotelitem_c497f004c4ee",
+          "title": "首旅酒店收到首旅集团支付的业绩补偿款636.6万元",
+          "url": "https://www.meadin.com/jd/298351.html",
           "source": "迈点研究院",
           "source_name": "迈点研究院",
           "site_id": "meadin",
-          "published_at": "2026-07-13T22:12:42.344694Z"
+          "published_at": "2026-07-14T03:38:18.143568Z"
         }
       ],
       "item_count": 1,
@@ -1269,12 +1210,12 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-13T22:12:42.344694Z",
-      "latest_at": "2026-07-13T22:12:42.344694Z",
+      "earliest_at": "2026-07-14T03:38:18.143568Z",
+      "latest_at": "2026-07-14T03:38:18.143568Z",
       "primary_item": {
-        "id": "hotelitem_757c593cc4ad",
-        "title": "同程旅行非执行董事谢晴华辞任 腾讯高管李浣娜接任",
-        "url": "https://www.meadin.com/wl/298316.html",
+        "id": "hotelitem_c497f004c4ee",
+        "title": "首旅酒店收到首旅集团支付的业绩补偿款636.6万元",
+        "url": "https://www.meadin.com/jd/298351.html",
         "source": "迈点研究院",
         "source_name": "迈点研究院"
       }
@@ -1294,7 +1235,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-07-13T22:12:42.344694Z"
+          "published_at": "2026-07-14T03:38:18.143568Z"
         }
       ],
       "source_count": 1,
@@ -1309,7 +1250,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-07-13T22:12:42.344694Z"
+          "published_at": "2026-07-14T03:38:18.143568Z"
         }
       ],
       "item_count": 1,
@@ -1328,8 +1269,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-13T22:12:42.344694Z",
-      "latest_at": "2026-07-13T22:12:42.344694Z",
+      "earliest_at": "2026-07-14T03:38:18.143568Z",
+      "latest_at": "2026-07-14T03:38:18.143568Z",
       "primary_item": {
         "id": "hotelitem_e4ce0593c384",
         "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
@@ -1353,7 +1294,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-07-13T22:12:42.344694Z"
+          "published_at": "2026-07-14T03:38:18.143568Z"
         }
       ],
       "source_count": 1,
@@ -1368,7 +1309,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-07-13T22:12:42.344694Z"
+          "published_at": "2026-07-14T03:38:18.143568Z"
         }
       ],
       "item_count": 1,
@@ -1387,8 +1328,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-13T22:12:42.344694Z",
-      "latest_at": "2026-07-13T22:12:42.344694Z",
+      "earliest_at": "2026-07-14T03:38:18.143568Z",
+      "latest_at": "2026-07-14T03:38:18.143568Z",
       "primary_item": {
         "id": "hotelitem_6bb66367ea13",
         "title": "文化和旅游部产业项目服务平台第47期精品...",
@@ -1412,7 +1353,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-07-13T22:12:42.344694Z"
+          "published_at": "2026-07-14T03:38:18.143568Z"
         }
       ],
       "source_count": 1,
@@ -1427,7 +1368,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-07-13T22:12:42.344694Z"
+          "published_at": "2026-07-14T03:38:18.143568Z"
         }
       ],
       "item_count": 1,
@@ -1446,8 +1387,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-13T22:12:42.344694Z",
-      "latest_at": "2026-07-13T22:12:42.344694Z",
+      "earliest_at": "2026-07-14T03:38:18.143568Z",
+      "latest_at": "2026-07-14T03:38:18.143568Z",
       "primary_item": {
         "id": "hotelitem_9a958319a874",
         "title": "文化和旅游部印发《旅游强国建设“十五五”...",
@@ -1471,7 +1412,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-07-13T22:12:42.344694Z"
+          "published_at": "2026-07-14T03:38:18.143568Z"
         }
       ],
       "source_count": 1,
@@ -1486,7 +1427,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-07-13T22:12:42.344694Z"
+          "published_at": "2026-07-14T03:38:18.143568Z"
         }
       ],
       "item_count": 1,
@@ -1505,8 +1446,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-13T22:12:42.344694Z",
-      "latest_at": "2026-07-13T22:12:42.344694Z",
+      "earliest_at": "2026-07-14T03:38:18.143568Z",
+      "latest_at": "2026-07-14T03:38:18.143568Z",
       "primary_item": {
         "id": "hotelitem_e2295ba596c9",
         "title": "文化和旅游部部级社科研究项目公布",
@@ -1550,14 +1491,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8577,
-      "importance": 0.523,
-      "importance_score": 0.8577,
+      "score": 0.8562,
+      "importance": 0.522,
+      "importance_score": 0.8562,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.615,
+        "recency": 0.61,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1609,14 +1550,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8507,
-      "importance": 0.5852,
-      "importance_score": 0.8507,
+      "score": 0.8497,
+      "importance": 0.5842,
+      "importance_score": 0.8497,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9258,
+        "recency": 0.9208,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1668,14 +1609,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8505,
-      "importance": 0.5849,
-      "importance_score": 0.8505,
+      "score": 0.8495,
+      "importance": 0.5839,
+      "importance_score": 0.8495,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9246,
+        "recency": 0.9196,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1690,65 +1631,6 @@
         "url": "https://skift.com/2026/07/10/reddoorzs-ipo-plan-singapore-first-nasdaq-later/",
         "source": "Skift Hospitality",
         "source_name": "Skift Hospitality"
-      }
-    },
-    {
-      "story_id": "story_e70d7bc93f37",
-      "title": "Nocturne Luxury Villas strengthens its Luxury Hospitality Collection with the acquisition of Jayne’s Luxury Rentals",
-      "url": "https://insights.ehotelier.com/global-news/2026/07/10/nocturne-luxury-villas-strengthens-its-luxury-hospitality-collection-with-the-acquisition-of-jaynes-luxury-rentals/?utm_source=rss&utm_medium=rss&utm_campaign=nocturne-luxury-villas-strengthens-its-luxury-hospitality-collection-with-the-acquisition-of-jaynes-luxury-rentals",
-      "primary_url": "https://insights.ehotelier.com/global-news/2026/07/10/nocturne-luxury-villas-strengthens-its-luxury-hospitality-collection-with-the-acquisition-of-jaynes-luxury-rentals/?utm_source=rss&utm_medium=rss&utm_campaign=nocturne-luxury-villas-strengthens-its-luxury-hospitality-collection-with-the-acquisition-of-jaynes-luxury-rentals",
-      "source": "eHotelier",
-      "source_name": "eHotelier",
-      "sources": [
-        {
-          "id": "hotelitem_e70d7bc93f37",
-          "title": "Nocturne Luxury Villas strengthens its Luxury Hospitality Collection with the acquisition of Jayne’s Luxury Rentals",
-          "url": "https://insights.ehotelier.com/global-news/2026/07/10/nocturne-luxury-villas-strengthens-its-luxury-hospitality-collection-with-the-acquisition-of-jaynes-luxury-rentals/?utm_source=rss&utm_medium=rss&utm_campaign=nocturne-luxury-villas-strengthens-its-luxury-hospitality-collection-with-the-acquisition-of-jaynes-luxury-rentals",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-07-10T02:08:12Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "eHotelier"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_e70d7bc93f37",
-          "title": "Nocturne Luxury Villas strengthens its Luxury Hospitality Collection with the acquisition of Jayne’s Luxury Rentals",
-          "url": "https://insights.ehotelier.com/global-news/2026/07/10/nocturne-luxury-villas-strengthens-its-luxury-hospitality-collection-with-the-acquisition-of-jaynes-luxury-rentals/?utm_source=rss&utm_medium=rss&utm_campaign=nocturne-luxury-villas-strengthens-its-luxury-hospitality-collection-with-the-acquisition-of-jaynes-luxury-rentals",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-07-10T02:08:12Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8486,
-      "importance": 0.5829,
-      "importance_score": 0.8486,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9147,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-10T02:08:12Z",
-      "latest_at": "2026-07-10T02:08:12Z",
-      "primary_item": {
-        "id": "hotelitem_e70d7bc93f37",
-        "title": "Nocturne Luxury Villas strengthens its Luxury Hospitality Collection with the acquisition of Jayne’s Luxury Rentals",
-        "url": "https://insights.ehotelier.com/global-news/2026/07/10/nocturne-luxury-villas-strengthens-its-luxury-hospitality-collection-with-the-acquisition-of-jaynes-luxury-rentals/?utm_source=rss&utm_medium=rss&utm_campaign=nocturne-luxury-villas-strengthens-its-luxury-hospitality-collection-with-the-acquisition-of-jaynes-luxury-rentals",
-        "source": "eHotelier",
-        "source_name": "eHotelier"
       }
     },
     {
@@ -1786,14 +1668,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8463,
-      "importance": 0.5806,
-      "importance_score": 0.8463,
+      "score": 0.8453,
+      "importance": 0.5796,
+      "importance_score": 0.8453,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9029,
+        "recency": 0.8978,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1806,6 +1688,124 @@
         "id": "hotelitem_1166ed20f69e",
         "title": "Fattal Hotel Group acquires first US hotel in Manhattan",
         "url": "https://www.hoteldive.com/news/fattal-hotel-group-first-us-investment/824814/",
+        "source": "Hotel Dive",
+        "source_name": "Hotel Dive"
+      }
+    },
+    {
+      "story_id": "story_5da5388b67ca",
+      "title": "Fattal Buys Its First U.S. Hotel, Testing an Asset-Heavy Model Against the Giants",
+      "url": "https://skift.com/2026/07/08/fattal-buys-its-first-u-s-hotel-testing-an-asset-heavy-model-against-the-giants/",
+      "primary_url": "https://skift.com/2026/07/08/fattal-buys-its-first-u-s-hotel-testing-an-asset-heavy-model-against-the-giants/",
+      "source": "Skift Hospitality",
+      "source_name": "Skift Hospitality",
+      "sources": [
+        {
+          "id": "hotelitem_5da5388b67ca",
+          "title": "Fattal Buys Its First U.S. Hotel, Testing an Asset-Heavy Model Against the Giants",
+          "url": "https://skift.com/2026/07/08/fattal-buys-its-first-u-s-hotel-testing-an-asset-heavy-model-against-the-giants/",
+          "source": "Skift Hospitality",
+          "source_name": "Skift Hospitality",
+          "site_id": "skift",
+          "published_at": "2026-07-08T20:29:27Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Skift Hospitality"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_5da5388b67ca",
+          "title": "Fattal Buys Its First U.S. Hotel, Testing an Asset-Heavy Model Against the Giants",
+          "url": "https://skift.com/2026/07/08/fattal-buys-its-first-u-s-hotel-testing-an-asset-heavy-model-against-the-giants/",
+          "source": "Skift Hospitality",
+          "source_name": "Skift Hospitality",
+          "site_id": "skift",
+          "published_at": "2026-07-08T20:29:27Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8423,
+      "importance": 0.5765,
+      "importance_score": 0.8423,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.8823,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-08T20:29:27Z",
+      "latest_at": "2026-07-08T20:29:27Z",
+      "primary_item": {
+        "id": "hotelitem_5da5388b67ca",
+        "title": "Fattal Buys Its First U.S. Hotel, Testing an Asset-Heavy Model Against the Giants",
+        "url": "https://skift.com/2026/07/08/fattal-buys-its-first-u-s-hotel-testing-an-asset-heavy-model-against-the-giants/",
+        "source": "Skift Hospitality",
+        "source_name": "Skift Hospitality"
+      }
+    },
+    {
+      "story_id": "story_6d9690f3a1f5",
+      "title": "Mews lays off 15% of staff in pivot to ‘AI-native’ future",
+      "url": "https://www.hoteldive.com/news/mews-cuts-staff-ai-native-future/824687/",
+      "primary_url": "https://www.hoteldive.com/news/mews-cuts-staff-ai-native-future/824687/",
+      "source": "Hotel Dive",
+      "source_name": "Hotel Dive",
+      "sources": [
+        {
+          "id": "hotelitem_6d9690f3a1f5",
+          "title": "Mews lays off 15% of staff in pivot to ‘AI-native’ future",
+          "url": "https://www.hoteldive.com/news/mews-cuts-staff-ai-native-future/824687/",
+          "source": "Hotel Dive",
+          "source_name": "Hotel Dive",
+          "site_id": "hoteldive",
+          "published_at": "2026-07-08T14:11:51Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hotel Dive"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_6d9690f3a1f5",
+          "title": "Mews lays off 15% of staff in pivot to ‘AI-native’ future",
+          "url": "https://www.hoteldive.com/news/mews-cuts-staff-ai-native-future/824687/",
+          "source": "Hotel Dive",
+          "source_name": "Hotel Dive",
+          "site_id": "hoteldive",
+          "published_at": "2026-07-08T14:11:51Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8412,
+      "importance": 0.5753,
+      "importance_score": 0.8412,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.8764,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-08T14:11:51Z",
+      "latest_at": "2026-07-08T14:11:51Z",
+      "primary_item": {
+        "id": "hotelitem_6d9690f3a1f5",
+        "title": "Mews lays off 15% of staff in pivot to ‘AI-native’ future",
+        "url": "https://www.hoteldive.com/news/mews-cuts-staff-ai-native-future/824687/",
         "source": "Hotel Dive",
         "source_name": "Hotel Dive"
       }
