@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T10:56:54.958347Z",
+  "generated_at": "2026-07-14T14:15:41.470762Z",
   "window_hours": 1080,
   "total_items": 30,
   "items": [
@@ -38,14 +38,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9887,
-      "importance": 0.5754,
-      "importance_score": 0.9887,
+      "score": 0.9881,
+      "importance": 0.5747,
+      "importance_score": 0.9881,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8768,
+        "recency": 0.8737,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -60,6 +60,65 @@
         "url": "https://www.traveldaily.cn/article/190359",
         "source": "环球旅讯 TravelDaily",
         "source_name": "环球旅讯 TravelDaily"
+      }
+    },
+    {
+      "story_id": "story_48b749046c12",
+      "title": "Airbnb’s Best Hotel Strategy Is Sitting in Ennismore’s IPO Filing",
+      "url": "https://skift.com/2026/07/14/airbnbs-best-hotel-strategy-is-sitting-in-ennismores-ipo-filing/",
+      "primary_url": "https://skift.com/2026/07/14/airbnbs-best-hotel-strategy-is-sitting-in-ennismores-ipo-filing/",
+      "source": "Skift Hospitality",
+      "source_name": "Skift Hospitality",
+      "sources": [
+        {
+          "id": "hotelitem_48b749046c12",
+          "title": "Airbnb’s Best Hotel Strategy Is Sitting in Ennismore’s IPO Filing",
+          "url": "https://skift.com/2026/07/14/airbnbs-best-hotel-strategy-is-sitting-in-ennismores-ipo-filing/",
+          "source": "Skift Hospitality",
+          "source_name": "Skift Hospitality",
+          "site_id": "skift",
+          "published_at": "2026-07-14T12:17:48Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Skift Hospitality"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_48b749046c12",
+          "title": "Airbnb’s Best Hotel Strategy Is Sitting in Ennismore’s IPO Filing",
+          "url": "https://skift.com/2026/07/14/airbnbs-best-hotel-strategy-is-sitting-in-ennismores-ipo-filing/",
+          "source": "Skift Hospitality",
+          "source_name": "Skift Hospitality",
+          "site_id": "skift",
+          "published_at": "2026-07-14T12:17:48Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.9546,
+      "importance": 0.5996,
+      "importance_score": 0.9546,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9982,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-14T12:17:48Z",
+      "latest_at": "2026-07-14T12:17:48Z",
+      "primary_item": {
+        "id": "hotelitem_48b749046c12",
+        "title": "Airbnb’s Best Hotel Strategy Is Sitting in Ennismore’s IPO Filing",
+        "url": "https://skift.com/2026/07/14/airbnbs-best-hotel-strategy-is-sitting-in-ennismores-ipo-filing/",
+        "source": "Skift Hospitality",
+        "source_name": "Skift Hospitality"
       }
     },
     {
@@ -97,14 +156,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.949,
-      "importance": 0.5937,
-      "importance_score": 0.949,
+      "score": 0.9484,
+      "importance": 0.5931,
+      "importance_score": 0.9484,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9687,
+        "recency": 0.9656,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -136,7 +195,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-07-14T10:56:54.958347Z"
+          "published_at": "2026-07-14T14:15:41.470762Z"
         }
       ],
       "source_count": 1,
@@ -151,7 +210,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-07-14T10:56:54.958347Z"
+          "published_at": "2026-07-14T14:15:41.470762Z"
         }
       ],
       "item_count": 1,
@@ -170,8 +229,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-14T10:56:54.958347Z",
-      "latest_at": "2026-07-14T10:56:54.958347Z",
+      "earliest_at": "2026-07-14T14:15:41.470762Z",
+      "latest_at": "2026-07-14T14:15:41.470762Z",
       "primary_item": {
         "id": "hotelitem_9699887c72ea",
         "title": "中国旅游研究院与中青旅控股股份有限公司开展主题党日联学联",
@@ -215,14 +274,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9391,
-      "importance": 0.5835,
-      "importance_score": 0.9391,
+      "score": 0.9385,
+      "importance": 0.5829,
+      "importance_score": 0.9385,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9176,
+        "recency": 0.9146,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -274,14 +333,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9383,
-      "importance": 0.5827,
-      "importance_score": 0.9383,
+      "score": 0.9377,
+      "importance": 0.5821,
+      "importance_score": 0.9377,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9134,
+        "recency": 0.9103,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -333,14 +392,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9344,
-      "importance": 0.5786,
-      "importance_score": 0.9344,
+      "score": 0.9338,
+      "importance": 0.578,
+      "importance_score": 0.9338,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8931,
+        "recency": 0.89,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -358,183 +417,6 @@
       }
     },
     {
-      "story_id": "story_ed473f778aaa",
-      "title": "Caesars Republic opens in Lake Tahoe amid operator’s regional strength",
-      "url": "https://www.hoteldive.com/news/caesars-republic-hotel-casino-opens-lake-tahoe/824635/",
-      "primary_url": "https://www.hoteldive.com/news/caesars-republic-hotel-casino-opens-lake-tahoe/824635/",
-      "source": "Hotel Dive",
-      "source_name": "Hotel Dive",
-      "sources": [
-        {
-          "id": "hotelitem_ed473f778aaa",
-          "title": "Caesars Republic opens in Lake Tahoe amid operator’s regional strength",
-          "url": "https://www.hoteldive.com/news/caesars-republic-hotel-casino-opens-lake-tahoe/824635/",
-          "source": "Hotel Dive",
-          "source_name": "Hotel Dive",
-          "site_id": "hoteldive",
-          "published_at": "2026-07-08T13:11:04Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hotel Dive"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_ed473f778aaa",
-          "title": "Caesars Republic opens in Lake Tahoe amid operator’s regional strength",
-          "url": "https://www.hoteldive.com/news/caesars-republic-hotel-casino-opens-lake-tahoe/824635/",
-          "source": "Hotel Dive",
-          "source_name": "Hotel Dive",
-          "site_id": "hoteldive",
-          "published_at": "2026-07-08T13:11:04Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.9297,
-      "importance": 0.5737,
-      "importance_score": 0.9297,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.8687,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-08T13:11:04Z",
-      "latest_at": "2026-07-08T13:11:04Z",
-      "primary_item": {
-        "id": "hotelitem_ed473f778aaa",
-        "title": "Caesars Republic opens in Lake Tahoe amid operator’s regional strength",
-        "url": "https://www.hoteldive.com/news/caesars-republic-hotel-casino-opens-lake-tahoe/824635/",
-        "source": "Hotel Dive",
-        "source_name": "Hotel Dive"
-      }
-    },
-    {
-      "story_id": "story_8d72192abfe3",
-      "title": "Marriott’s W South Beach rebrands to Hilton’s Waldorf Astoria",
-      "url": "https://www.hoteldive.com/news/w-south-beach-hotel-rebranding-waldorf-astoria/824575/",
-      "primary_url": "https://www.hoteldive.com/news/w-south-beach-hotel-rebranding-waldorf-astoria/824575/",
-      "source": "Hotel Dive",
-      "source_name": "Hotel Dive",
-      "sources": [
-        {
-          "id": "hotelitem_8d72192abfe3",
-          "title": "Marriott’s W South Beach rebrands to Hilton’s Waldorf Astoria",
-          "url": "https://www.hoteldive.com/news/w-south-beach-hotel-rebranding-waldorf-astoria/824575/",
-          "source": "Hotel Dive",
-          "source_name": "Hotel Dive",
-          "site_id": "hoteldive",
-          "published_at": "2026-07-07T14:09:10Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hotel Dive"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_8d72192abfe3",
-          "title": "Marriott’s W South Beach rebrands to Hilton’s Waldorf Astoria",
-          "url": "https://www.hoteldive.com/news/w-south-beach-hotel-rebranding-waldorf-astoria/824575/",
-          "source": "Hotel Dive",
-          "source_name": "Hotel Dive",
-          "site_id": "hoteldive",
-          "published_at": "2026-07-07T14:09:10Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.9256,
-      "importance": 0.5695,
-      "importance_score": 0.9256,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.8474,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-07T14:09:10Z",
-      "latest_at": "2026-07-07T14:09:10Z",
-      "primary_item": {
-        "id": "hotelitem_8d72192abfe3",
-        "title": "Marriott’s W South Beach rebrands to Hilton’s Waldorf Astoria",
-        "url": "https://www.hoteldive.com/news/w-south-beach-hotel-rebranding-waldorf-astoria/824575/",
-        "source": "Hotel Dive",
-        "source_name": "Hotel Dive"
-      }
-    },
-    {
-      "story_id": "story_5cc98bbbd796",
-      "title": "Hilton highlights recreation with first property in Key West, Florida",
-      "url": "https://www.hoteldive.com/news/hilton-recreation-first-property-key-west-florida/824562/",
-      "primary_url": "https://www.hoteldive.com/news/hilton-recreation-first-property-key-west-florida/824562/",
-      "source": "Hotel Dive",
-      "source_name": "Hotel Dive",
-      "sources": [
-        {
-          "id": "hotelitem_5cc98bbbd796",
-          "title": "Hilton highlights recreation with first property in Key West, Florida",
-          "url": "https://www.hoteldive.com/news/hilton-recreation-first-property-key-west-florida/824562/",
-          "source": "Hotel Dive",
-          "source_name": "Hotel Dive",
-          "site_id": "hoteldive",
-          "published_at": "2026-07-07T13:17:35Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hotel Dive"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_5cc98bbbd796",
-          "title": "Hilton highlights recreation with first property in Key West, Florida",
-          "url": "https://www.hoteldive.com/news/hilton-recreation-first-property-key-west-florida/824562/",
-          "source": "Hotel Dive",
-          "source_name": "Hotel Dive",
-          "site_id": "hoteldive",
-          "published_at": "2026-07-07T13:17:35Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.9254,
-      "importance": 0.5693,
-      "importance_score": 0.9254,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.8466,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-07T13:17:35Z",
-      "latest_at": "2026-07-07T13:17:35Z",
-      "primary_item": {
-        "id": "hotelitem_5cc98bbbd796",
-        "title": "Hilton highlights recreation with first property in Key West, Florida",
-        "url": "https://www.hoteldive.com/news/hilton-recreation-first-property-key-west-florida/824562/",
-        "source": "Hotel Dive",
-        "source_name": "Hotel Dive"
-      }
-    },
-    {
       "story_id": "story_c7c15b7680c9",
       "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
       "url": "https://www.chinahotel.org.cn/articles/17408",
@@ -549,7 +431,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-14T10:56:54.958347Z"
+          "published_at": "2026-07-14T14:15:41.470762Z"
         },
         {
           "id": "hotelitem_c7c15b7680c9",
@@ -558,7 +440,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-14T10:56:54.958347Z"
+          "published_at": "2026-07-14T14:15:41.470762Z"
         },
         {
           "id": "hotelitem_6d8fa145e8af",
@@ -567,7 +449,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-14T10:56:54.958347Z"
+          "published_at": "2026-07-14T14:15:41.470762Z"
         }
       ],
       "source_count": 3,
@@ -582,7 +464,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-14T10:56:54.958347Z"
+          "published_at": "2026-07-14T14:15:41.470762Z"
         },
         {
           "id": "hotelitem_c7c15b7680c9",
@@ -591,7 +473,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-14T10:56:54.958347Z"
+          "published_at": "2026-07-14T14:15:41.470762Z"
         },
         {
           "id": "hotelitem_6d8fa145e8af",
@@ -600,7 +482,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-14T10:56:54.958347Z"
+          "published_at": "2026-07-14T14:15:41.470762Z"
         }
       ],
       "item_count": 3,
@@ -620,8 +502,8 @@
         "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-14T10:56:54.958347Z",
-      "latest_at": "2026-07-14T10:56:54.958347Z",
+      "earliest_at": "2026-07-14T14:15:41.470762Z",
+      "latest_at": "2026-07-14T14:15:41.470762Z",
       "primary_item": {
         "id": "hotelitem_d4370964909c",
         "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
@@ -645,7 +527,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-14T10:56:54.958347Z"
+          "published_at": "2026-07-14T14:15:41.470762Z"
         }
       ],
       "source_count": 1,
@@ -660,7 +542,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-14T10:56:54.958347Z"
+          "published_at": "2026-07-14T14:15:41.470762Z"
         }
       ],
       "item_count": 1,
@@ -679,8 +561,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-14T10:56:54.958347Z",
-      "latest_at": "2026-07-14T10:56:54.958347Z",
+      "earliest_at": "2026-07-14T14:15:41.470762Z",
+      "latest_at": "2026-07-14T14:15:41.470762Z",
       "primary_item": {
         "id": "hotelitem_2c7d18362dc5",
         "title": "协会动态 | 中国饭店协会休闲度假专业委员会一届一次主任办公会在太仓召开 2026年7月8日，中国饭店协会休闲度假专业委员会一届一次主任办公会在太仓金茂隐逸玫瑰庄园度假酒店召开。中国饭店协会会长陈新华，中国饭店协会副会长、休闲度假专业委员会主任委员、君澜酒店董事长兼总裁王建平，苏州市旅游饭店业协会会长孙子元出席会议。会议由中国饭店协会副秘书长张乐然主持。",
@@ -704,7 +586,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-07-14T10:56:54.958347Z"
+          "published_at": "2026-07-14T14:15:41.470762Z"
         }
       ],
       "source_count": 1,
@@ -719,7 +601,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-07-14T10:56:54.958347Z"
+          "published_at": "2026-07-14T14:15:41.470762Z"
         }
       ],
       "item_count": 1,
@@ -738,8 +620,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-14T10:56:54.958347Z",
-      "latest_at": "2026-07-14T10:56:54.958347Z",
+      "earliest_at": "2026-07-14T14:15:41.470762Z",
+      "latest_at": "2026-07-14T14:15:41.470762Z",
       "primary_item": {
         "id": "hotelitem_d34e2868e8eb",
         "title": "惠评文旅|18亿收购，君亭没卖成，国资文旅买壳真正逻辑是什么？",
@@ -763,7 +645,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-07-14T10:56:54.958347Z"
+          "published_at": "2026-07-14T14:15:41.470762Z"
         }
       ],
       "source_count": 1,
@@ -778,7 +660,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-07-14T10:56:54.958347Z"
+          "published_at": "2026-07-14T14:15:41.470762Z"
         }
       ],
       "item_count": 1,
@@ -797,8 +679,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-14T10:56:54.958347Z",
-      "latest_at": "2026-07-14T10:56:54.958347Z",
+      "earliest_at": "2026-07-14T14:15:41.470762Z",
+      "latest_at": "2026-07-14T14:15:41.470762Z",
       "primary_item": {
         "id": "hotelitem_2c03113fa391",
         "title": "文旅惠报|飞猪与浙旅投集团达成战略合作；凯联国际酒店年度亏损收窄至4.74亿港元",
@@ -822,7 +704,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-07-14T10:56:54.958347Z"
+          "published_at": "2026-07-14T14:15:41.470762Z"
         }
       ],
       "source_count": 1,
@@ -837,7 +719,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-07-14T10:56:54.958347Z"
+          "published_at": "2026-07-14T14:15:41.470762Z"
         }
       ],
       "item_count": 1,
@@ -856,8 +738,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-14T10:56:54.958347Z",
-      "latest_at": "2026-07-14T10:56:54.958347Z",
+      "earliest_at": "2026-07-14T14:15:41.470762Z",
+      "latest_at": "2026-07-14T14:15:41.470762Z",
       "primary_item": {
         "id": "hotelitem_50c135faab60",
         "title": "文旅惠报|首旅集团拟发行20亿元超短期融资券，期限95天；广西旅发集团任命向红为副董事长、总经理",
@@ -901,14 +783,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8819,
-      "importance": 0.5395,
-      "importance_score": 0.8819,
+      "score": 0.881,
+      "importance": 0.5389,
+      "importance_score": 0.881,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.6977,
+        "recency": 0.6946,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -923,6 +805,65 @@
         "url": "https://www.hotelmanagement.net/resource/reactive-proactive-leveraging-data-prevent-device-failures-protect-guest-experience",
         "source": "Hotel Management",
         "source_name": "Hotel Management"
+      }
+    },
+    {
+      "story_id": "story_b19d3724d4ed",
+      "title": "Hotel guest satisfaction up across every segment in 2026: J.D. Power",
+      "url": "https://www.hoteldive.com/news/hotel-guest-satisfaction-survey-2026-jd-power/825123/",
+      "primary_url": "https://www.hoteldive.com/news/hotel-guest-satisfaction-survey-2026-jd-power/825123/",
+      "source": "Hotel Dive",
+      "source_name": "Hotel Dive",
+      "sources": [
+        {
+          "id": "hotelitem_b19d3724d4ed",
+          "title": "Hotel guest satisfaction up across every segment in 2026: J.D. Power",
+          "url": "https://www.hoteldive.com/news/hotel-guest-satisfaction-survey-2026-jd-power/825123/",
+          "source": "Hotel Dive",
+          "source_name": "Hotel Dive",
+          "site_id": "hoteldive",
+          "published_at": "2026-07-14T13:14:03Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hotel Dive"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_b19d3724d4ed",
+          "title": "Hotel guest satisfaction up across every segment in 2026: J.D. Power",
+          "url": "https://www.hoteldive.com/news/hotel-guest-satisfaction-survey-2026-jd-power/825123/",
+          "source": "Hotel Dive",
+          "source_name": "Hotel Dive",
+          "site_id": "hoteldive",
+          "published_at": "2026-07-14T13:14:03Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8648,
+      "importance": 0.5998,
+      "importance_score": 0.8648,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.999,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-14T13:14:03Z",
+      "latest_at": "2026-07-14T13:14:03Z",
+      "primary_item": {
+        "id": "hotelitem_b19d3724d4ed",
+        "title": "Hotel guest satisfaction up across every segment in 2026: J.D. Power",
+        "url": "https://www.hoteldive.com/news/hotel-guest-satisfaction-survey-2026-jd-power/825123/",
+        "source": "Hotel Dive",
+        "source_name": "Hotel Dive"
       }
     },
     {
@@ -960,14 +901,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8632,
-      "importance": 0.5982,
-      "importance_score": 0.8632,
+      "score": 0.8626,
+      "importance": 0.5975,
+      "importance_score": 0.8626,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9908,
+        "recency": 0.9877,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1019,14 +960,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8611,
-      "importance": 0.596,
-      "importance_score": 0.8611,
+      "score": 0.8605,
+      "importance": 0.5954,
+      "importance_score": 0.8605,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9799,
+        "recency": 0.9768,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1078,14 +1019,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8608,
-      "importance": 0.5957,
-      "importance_score": 0.8608,
+      "score": 0.8602,
+      "importance": 0.595,
+      "importance_score": 0.8602,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9783,
+        "recency": 0.9752,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1103,21 +1044,21 @@
       }
     },
     {
-      "story_id": "story_c497f004c4ee",
-      "title": "首旅酒店收到首旅集团支付的业绩补偿款636.6万元",
-      "url": "https://www.meadin.com/jd/298351.html",
-      "primary_url": "https://www.meadin.com/jd/298351.html",
+      "story_id": "story_6f4b18269ea0",
+      "title": "前京东酒旅负责人已正式离职 携程系高管团队退场",
+      "url": "https://www.meadin.com/wl/298397.html",
+      "primary_url": "https://www.meadin.com/wl/298397.html",
       "source": "迈点研究院",
       "source_name": "迈点研究院",
       "sources": [
         {
-          "id": "hotelitem_c497f004c4ee",
-          "title": "首旅酒店收到首旅集团支付的业绩补偿款636.6万元",
-          "url": "https://www.meadin.com/jd/298351.html",
+          "id": "hotelitem_6f4b18269ea0",
+          "title": "前京东酒旅负责人已正式离职 携程系高管团队退场",
+          "url": "https://www.meadin.com/wl/298397.html",
           "source": "迈点研究院",
           "source_name": "迈点研究院",
           "site_id": "meadin",
-          "published_at": "2026-07-14T10:56:54.958347Z"
+          "published_at": "2026-07-14T14:15:41.470762Z"
         }
       ],
       "source_count": 1,
@@ -1126,13 +1067,13 @@
       ],
       "items": [
         {
-          "id": "hotelitem_c497f004c4ee",
-          "title": "首旅酒店收到首旅集团支付的业绩补偿款636.6万元",
-          "url": "https://www.meadin.com/jd/298351.html",
+          "id": "hotelitem_6f4b18269ea0",
+          "title": "前京东酒旅负责人已正式离职 携程系高管团队退场",
+          "url": "https://www.meadin.com/wl/298397.html",
           "source": "迈点研究院",
           "source_name": "迈点研究院",
           "site_id": "meadin",
-          "published_at": "2026-07-14T10:56:54.958347Z"
+          "published_at": "2026-07-14T14:15:41.470762Z"
         }
       ],
       "item_count": 1,
@@ -1151,8 +1092,67 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-14T10:56:54.958347Z",
-      "latest_at": "2026-07-14T10:56:54.958347Z",
+      "earliest_at": "2026-07-14T14:15:41.470762Z",
+      "latest_at": "2026-07-14T14:15:41.470762Z",
+      "primary_item": {
+        "id": "hotelitem_6f4b18269ea0",
+        "title": "前京东酒旅负责人已正式离职 携程系高管团队退场",
+        "url": "https://www.meadin.com/wl/298397.html",
+        "source": "迈点研究院",
+        "source_name": "迈点研究院"
+      }
+    },
+    {
+      "story_id": "story_c497f004c4ee",
+      "title": "首旅酒店收到首旅集团支付的业绩补偿款636.6万元",
+      "url": "https://www.meadin.com/jd/298351.html",
+      "primary_url": "https://www.meadin.com/jd/298351.html",
+      "source": "迈点研究院",
+      "source_name": "迈点研究院",
+      "sources": [
+        {
+          "id": "hotelitem_c497f004c4ee",
+          "title": "首旅酒店收到首旅集团支付的业绩补偿款636.6万元",
+          "url": "https://www.meadin.com/jd/298351.html",
+          "source": "迈点研究院",
+          "source_name": "迈点研究院",
+          "site_id": "meadin",
+          "published_at": "2026-07-14T14:15:41.470762Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "迈点研究院"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_c497f004c4ee",
+          "title": "首旅酒店收到首旅集团支付的业绩补偿款636.6万元",
+          "url": "https://www.meadin.com/jd/298351.html",
+          "source": "迈点研究院",
+          "source_name": "迈点研究院",
+          "site_id": "meadin",
+          "published_at": "2026-07-14T14:15:41.470762Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.86,
+      "importance": 0.6,
+      "importance_score": 0.86,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-14T14:15:41.470762Z",
+      "latest_at": "2026-07-14T14:15:41.470762Z",
       "primary_item": {
         "id": "hotelitem_c497f004c4ee",
         "title": "首旅酒店收到首旅集团支付的业绩补偿款636.6万元",
@@ -1196,14 +1196,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.859,
-      "importance": 0.5937,
-      "importance_score": 0.859,
+      "score": 0.8584,
+      "importance": 0.5931,
+      "importance_score": 0.8584,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9687,
+        "recency": 0.9657,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1235,7 +1235,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-07-14T10:56:54.958347Z"
+          "published_at": "2026-07-14T14:15:41.470762Z"
         }
       ],
       "source_count": 1,
@@ -1250,7 +1250,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-07-14T10:56:54.958347Z"
+          "published_at": "2026-07-14T14:15:41.470762Z"
         }
       ],
       "item_count": 1,
@@ -1269,14 +1269,73 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-14T10:56:54.958347Z",
-      "latest_at": "2026-07-14T10:56:54.958347Z",
+      "earliest_at": "2026-07-14T14:15:41.470762Z",
+      "latest_at": "2026-07-14T14:15:41.470762Z",
       "primary_item": {
         "id": "hotelitem_e4ce0593c384",
         "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
         "url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
         "source": "中国旅游研究院",
         "source_name": "中国旅游研究院"
+      }
+    },
+    {
+      "story_id": "story_fa34986b4fc0",
+      "title": "文化和旅游部、金融监管总局关于警惕借“保...",
+      "url": "https://www.mct.gov.cn/whzx/whyw/202607/t20260714_966526.htm",
+      "primary_url": "https://www.mct.gov.cn/whzx/whyw/202607/t20260714_966526.htm",
+      "source": "文化和旅游部",
+      "source_name": "文化和旅游部",
+      "sources": [
+        {
+          "id": "hotelitem_fa34986b4fc0",
+          "title": "文化和旅游部、金融监管总局关于警惕借“保...",
+          "url": "https://www.mct.gov.cn/whzx/whyw/202607/t20260714_966526.htm",
+          "source": "文化和旅游部",
+          "source_name": "文化和旅游部",
+          "site_id": "mct",
+          "published_at": "2026-07-14T14:15:41.470762Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "文化和旅游部"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_fa34986b4fc0",
+          "title": "文化和旅游部、金融监管总局关于警惕借“保...",
+          "url": "https://www.mct.gov.cn/whzx/whyw/202607/t20260714_966526.htm",
+          "source": "文化和旅游部",
+          "source_name": "文化和旅游部",
+          "site_id": "mct",
+          "published_at": "2026-07-14T14:15:41.470762Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.858,
+      "importance": 0.6,
+      "importance_score": 0.858,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-14T14:15:41.470762Z",
+      "latest_at": "2026-07-14T14:15:41.470762Z",
+      "primary_item": {
+        "id": "hotelitem_fa34986b4fc0",
+        "title": "文化和旅游部、金融监管总局关于警惕借“保...",
+        "url": "https://www.mct.gov.cn/whzx/whyw/202607/t20260714_966526.htm",
+        "source": "文化和旅游部",
+        "source_name": "文化和旅游部"
       }
     },
     {
@@ -1294,7 +1353,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-07-14T10:56:54.958347Z"
+          "published_at": "2026-07-14T14:15:41.470762Z"
         }
       ],
       "source_count": 1,
@@ -1309,7 +1368,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-07-14T10:56:54.958347Z"
+          "published_at": "2026-07-14T14:15:41.470762Z"
         }
       ],
       "item_count": 1,
@@ -1328,8 +1387,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-14T10:56:54.958347Z",
-      "latest_at": "2026-07-14T10:56:54.958347Z",
+      "earliest_at": "2026-07-14T14:15:41.470762Z",
+      "latest_at": "2026-07-14T14:15:41.470762Z",
       "primary_item": {
         "id": "hotelitem_6bb66367ea13",
         "title": "文化和旅游部产业项目服务平台第47期精品...",
@@ -1353,7 +1412,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-07-14T10:56:54.958347Z"
+          "published_at": "2026-07-14T14:15:41.470762Z"
         }
       ],
       "source_count": 1,
@@ -1368,7 +1427,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-07-14T10:56:54.958347Z"
+          "published_at": "2026-07-14T14:15:41.470762Z"
         }
       ],
       "item_count": 1,
@@ -1387,8 +1446,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-14T10:56:54.958347Z",
-      "latest_at": "2026-07-14T10:56:54.958347Z",
+      "earliest_at": "2026-07-14T14:15:41.470762Z",
+      "latest_at": "2026-07-14T14:15:41.470762Z",
       "primary_item": {
         "id": "hotelitem_9a958319a874",
         "title": "文化和旅游部印发《旅游强国建设“十五五”...",
@@ -1412,7 +1471,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-07-14T10:56:54.958347Z"
+          "published_at": "2026-07-14T14:15:41.470762Z"
         }
       ],
       "source_count": 1,
@@ -1427,7 +1486,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-07-14T10:56:54.958347Z"
+          "published_at": "2026-07-14T14:15:41.470762Z"
         }
       ],
       "item_count": 1,
@@ -1446,8 +1505,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-14T10:56:54.958347Z",
-      "latest_at": "2026-07-14T10:56:54.958347Z",
+      "earliest_at": "2026-07-14T14:15:41.470762Z",
+      "latest_at": "2026-07-14T14:15:41.470762Z",
       "primary_item": {
         "id": "hotelitem_e2295ba596c9",
         "title": "文化和旅游部部级社科研究项目公布",
@@ -1491,14 +1550,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8542,
-      "importance": 0.5206,
-      "importance_score": 0.8542,
+      "score": 0.8533,
+      "importance": 0.52,
+      "importance_score": 0.8533,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.6032,
+        "recency": 0.6002,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1550,14 +1609,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8496,
-      "importance": 0.5996,
-      "importance_score": 0.8496,
+      "score": 0.849,
+      "importance": 0.599,
+      "importance_score": 0.849,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.998,
+        "recency": 0.9949,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1572,6 +1631,65 @@
         "url": "https://boutiquehotelnews.com/news/hotel/club-metropolis-opens-in-madrid/?utm_source=rss&utm_medium=rss&utm_campaign=club-metropolis-opens-in-madrid",
         "source": "Boutique Hotel News",
         "source_name": "Boutique Hotel News"
+      }
+    },
+    {
+      "story_id": "story_08dc8d90e85e",
+      "title": "How accessibility features can help hotels win guests in an aging America",
+      "url": "https://www.hoteldive.com/news/how-accessibility-can-help-hotels-win-aging-guests/824963/",
+      "primary_url": "https://www.hoteldive.com/news/how-accessibility-can-help-hotels-win-aging-guests/824963/",
+      "source": "Hotel Dive",
+      "source_name": "Hotel Dive",
+      "sources": [
+        {
+          "id": "hotelitem_08dc8d90e85e",
+          "title": "How accessibility features can help hotels win guests in an aging America",
+          "url": "https://www.hoteldive.com/news/how-accessibility-can-help-hotels-win-aging-guests/824963/",
+          "source": "Hotel Dive",
+          "source_name": "Hotel Dive",
+          "site_id": "hoteldive",
+          "published_at": "2026-07-10T15:29:09Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hotel Dive"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_08dc8d90e85e",
+          "title": "How accessibility features can help hotels win guests in an aging America",
+          "url": "https://www.hoteldive.com/news/how-accessibility-can-help-hotels-win-aging-guests/824963/",
+          "source": "Hotel Dive",
+          "source_name": "Hotel Dive",
+          "site_id": "hoteldive",
+          "published_at": "2026-07-10T15:29:09Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8481,
+      "importance": 0.5824,
+      "importance_score": 0.8481,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9122,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-10T15:29:09Z",
+      "latest_at": "2026-07-10T15:29:09Z",
+      "primary_item": {
+        "id": "hotelitem_08dc8d90e85e",
+        "title": "How accessibility features can help hotels win guests in an aging America",
+        "url": "https://www.hoteldive.com/news/how-accessibility-can-help-hotels-win-aging-guests/824963/",
+        "source": "Hotel Dive",
+        "source_name": "Hotel Dive"
       }
     },
     {
@@ -1609,14 +1727,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8484,
-      "importance": 0.5828,
-      "importance_score": 0.8484,
+      "score": 0.8478,
+      "importance": 0.5822,
+      "importance_score": 0.8478,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.914,
+        "recency": 0.911,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1668,14 +1786,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8482,
-      "importance": 0.5826,
-      "importance_score": 0.8482,
+      "score": 0.8476,
+      "importance": 0.5819,
+      "importance_score": 0.8476,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9128,
+        "recency": 0.9097,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1688,124 +1806,6 @@
         "id": "hotelitem_b61aae47b260",
         "title": "RedDoorz’s IPO Plan: Singapore First, Nasdaq Later",
         "url": "https://skift.com/2026/07/10/reddoorzs-ipo-plan-singapore-first-nasdaq-later/",
-        "source": "Skift Hospitality",
-        "source_name": "Skift Hospitality"
-      }
-    },
-    {
-      "story_id": "story_1166ed20f69e",
-      "title": "Fattal Hotel Group acquires first US hotel in Manhattan",
-      "url": "https://www.hoteldive.com/news/fattal-hotel-group-first-us-investment/824814/",
-      "primary_url": "https://www.hoteldive.com/news/fattal-hotel-group-first-us-investment/824814/",
-      "source": "Hotel Dive",
-      "source_name": "Hotel Dive",
-      "sources": [
-        {
-          "id": "hotelitem_1166ed20f69e",
-          "title": "Fattal Hotel Group acquires first US hotel in Manhattan",
-          "url": "https://www.hoteldive.com/news/fattal-hotel-group-first-us-investment/824814/",
-          "source": "Hotel Dive",
-          "source_name": "Hotel Dive",
-          "site_id": "hoteldive",
-          "published_at": "2026-07-09T13:18:51Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hotel Dive"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_1166ed20f69e",
-          "title": "Fattal Hotel Group acquires first US hotel in Manhattan",
-          "url": "https://www.hoteldive.com/news/fattal-hotel-group-first-us-investment/824814/",
-          "source": "Hotel Dive",
-          "source_name": "Hotel Dive",
-          "site_id": "hoteldive",
-          "published_at": "2026-07-09T13:18:51Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.844,
-      "importance": 0.5782,
-      "importance_score": 0.844,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.8911,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-09T13:18:51Z",
-      "latest_at": "2026-07-09T13:18:51Z",
-      "primary_item": {
-        "id": "hotelitem_1166ed20f69e",
-        "title": "Fattal Hotel Group acquires first US hotel in Manhattan",
-        "url": "https://www.hoteldive.com/news/fattal-hotel-group-first-us-investment/824814/",
-        "source": "Hotel Dive",
-        "source_name": "Hotel Dive"
-      }
-    },
-    {
-      "story_id": "story_5da5388b67ca",
-      "title": "Fattal Buys Its First U.S. Hotel, Testing an Asset-Heavy Model Against the Giants",
-      "url": "https://skift.com/2026/07/08/fattal-buys-its-first-u-s-hotel-testing-an-asset-heavy-model-against-the-giants/",
-      "primary_url": "https://skift.com/2026/07/08/fattal-buys-its-first-u-s-hotel-testing-an-asset-heavy-model-against-the-giants/",
-      "source": "Skift Hospitality",
-      "source_name": "Skift Hospitality",
-      "sources": [
-        {
-          "id": "hotelitem_5da5388b67ca",
-          "title": "Fattal Buys Its First U.S. Hotel, Testing an Asset-Heavy Model Against the Giants",
-          "url": "https://skift.com/2026/07/08/fattal-buys-its-first-u-s-hotel-testing-an-asset-heavy-model-against-the-giants/",
-          "source": "Skift Hospitality",
-          "source_name": "Skift Hospitality",
-          "site_id": "skift",
-          "published_at": "2026-07-08T20:29:27Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Skift Hospitality"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_5da5388b67ca",
-          "title": "Fattal Buys Its First U.S. Hotel, Testing an Asset-Heavy Model Against the Giants",
-          "url": "https://skift.com/2026/07/08/fattal-buys-its-first-u-s-hotel-testing-an-asset-heavy-model-against-the-giants/",
-          "source": "Skift Hospitality",
-          "source_name": "Skift Hospitality",
-          "site_id": "skift",
-          "published_at": "2026-07-08T20:29:27Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.841,
-      "importance": 0.5751,
-      "importance_score": 0.841,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.8755,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-08T20:29:27Z",
-      "latest_at": "2026-07-08T20:29:27Z",
-      "primary_item": {
-        "id": "hotelitem_5da5388b67ca",
-        "title": "Fattal Buys Its First U.S. Hotel, Testing an Asset-Heavy Model Against the Giants",
-        "url": "https://skift.com/2026/07/08/fattal-buys-its-first-u-s-hotel-testing-an-asset-heavy-model-against-the-giants/",
         "source": "Skift Hospitality",
         "source_name": "Skift Hospitality"
       }
