@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-15T14:13:22.904325Z",
+  "generated_at": "2026-07-15T16:46:10.948499Z",
   "window_hours": 1080,
   "total_items": 30,
   "items": [
@@ -39,13 +39,13 @@
       "item_count": 1,
       "duplicate_count": 1,
       "score": 1.0,
-      "importance": 0.5986,
+      "importance": 0.5981,
       "importance_score": 1.0,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9931,
+        "recency": 0.9907,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -97,14 +97,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9839,
-      "importance": 0.5703,
-      "importance_score": 0.9839,
+      "score": 0.9834,
+      "importance": 0.5698,
+      "importance_score": 0.9834,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8515,
+        "recency": 0.8492,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -119,6 +119,65 @@
         "url": "https://www.traveldaily.cn/article/190359",
         "source": "环球旅讯 TravelDaily",
         "source_name": "环球旅讯 TravelDaily"
+      }
+    },
+    {
+      "story_id": "story_15979c8366a7",
+      "title": "Radisson Hotel Group signs Hotel Erzsébet City Center Budapest, a member of Radisson Individuals",
+      "url": "https://insights.ehotelier.com/properties/2026/07/15/radisson-hotel-group-signs-hotel-erzsebet-city-center-budapest-a-member-of-radisson-individuals/?utm_source=rss&utm_medium=rss&utm_campaign=radisson-hotel-group-signs-hotel-erzsebet-city-center-budapest-a-member-of-radisson-individuals",
+      "primary_url": "https://insights.ehotelier.com/properties/2026/07/15/radisson-hotel-group-signs-hotel-erzsebet-city-center-budapest-a-member-of-radisson-individuals/?utm_source=rss&utm_medium=rss&utm_campaign=radisson-hotel-group-signs-hotel-erzsebet-city-center-budapest-a-member-of-radisson-individuals",
+      "source": "eHotelier",
+      "source_name": "eHotelier",
+      "sources": [
+        {
+          "id": "hotelitem_15979c8366a7",
+          "title": "Radisson Hotel Group signs Hotel Erzsébet City Center Budapest, a member of Radisson Individuals",
+          "url": "https://insights.ehotelier.com/properties/2026/07/15/radisson-hotel-group-signs-hotel-erzsebet-city-center-budapest-a-member-of-radisson-individuals/?utm_source=rss&utm_medium=rss&utm_campaign=radisson-hotel-group-signs-hotel-erzsebet-city-center-budapest-a-member-of-radisson-individuals",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-07-15T00:49:15Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "eHotelier"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_15979c8366a7",
+          "title": "Radisson Hotel Group signs Hotel Erzsébet City Center Budapest, a member of Radisson Individuals",
+          "url": "https://insights.ehotelier.com/properties/2026/07/15/radisson-hotel-group-signs-hotel-erzsebet-city-center-budapest-a-member-of-radisson-individuals/?utm_source=rss&utm_medium=rss&utm_campaign=radisson-hotel-group-signs-hotel-erzsebet-city-center-budapest-a-member-of-radisson-individuals",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-07-15T00:49:15Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.9522,
+      "importance": 0.597,
+      "importance_score": 0.9522,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9852,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-15T00:49:15Z",
+      "latest_at": "2026-07-15T00:49:15Z",
+      "primary_item": {
+        "id": "hotelitem_15979c8366a7",
+        "title": "Radisson Hotel Group signs Hotel Erzsébet City Center Budapest, a member of Radisson Individuals",
+        "url": "https://insights.ehotelier.com/properties/2026/07/15/radisson-hotel-group-signs-hotel-erzsebet-city-center-budapest-a-member-of-radisson-individuals/?utm_source=rss&utm_medium=rss&utm_campaign=radisson-hotel-group-signs-hotel-erzsebet-city-center-budapest-a-member-of-radisson-individuals",
+        "source": "eHotelier",
+        "source_name": "eHotelier"
       }
     },
     {
@@ -156,14 +215,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9527,
-      "importance": 0.5976,
-      "importance_score": 0.9527,
+      "score": 0.9522,
+      "importance": 0.5971,
+      "importance_score": 0.9522,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.988,
+        "recency": 0.9856,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -215,14 +274,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9527,
-      "importance": 0.5976,
-      "importance_score": 0.9527,
+      "score": 0.9522,
+      "importance": 0.5971,
+      "importance_score": 0.9522,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9881,
+        "recency": 0.9857,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -235,65 +294,6 @@
         "id": "hotelitem_9e91b56489ab",
         "title": "The Everlasting Appeal of Santorini with Markos Chaidemenos of Canaves Collection",
         "url": "https://insights.ehotelier.com/insights/2026/07/15/the-everlasting-appeal-of-santorini-with-markos-chaidemenos-of-canaves-collection-2/?utm_source=rss&utm_medium=rss&utm_campaign=the-everlasting-appeal-of-santorini-with-markos-chaidemenos-of-canaves-collection-2",
-        "source": "eHotelier",
-        "source_name": "eHotelier"
-      }
-    },
-    {
-      "story_id": "story_15979c8366a7",
-      "title": "Radisson Hotel Group signs Hotel Erzsébet City Center Budapest, a member of Radisson Individuals",
-      "url": "https://insights.ehotelier.com/properties/2026/07/15/radisson-hotel-group-signs-hotel-erzsebet-city-center-budapest-a-member-of-radisson-individuals/?utm_source=rss&utm_medium=rss&utm_campaign=radisson-hotel-group-signs-hotel-erzsebet-city-center-budapest-a-member-of-radisson-individuals",
-      "primary_url": "https://insights.ehotelier.com/properties/2026/07/15/radisson-hotel-group-signs-hotel-erzsebet-city-center-budapest-a-member-of-radisson-individuals/?utm_source=rss&utm_medium=rss&utm_campaign=radisson-hotel-group-signs-hotel-erzsebet-city-center-budapest-a-member-of-radisson-individuals",
-      "source": "eHotelier",
-      "source_name": "eHotelier",
-      "sources": [
-        {
-          "id": "hotelitem_15979c8366a7",
-          "title": "Radisson Hotel Group signs Hotel Erzsébet City Center Budapest, a member of Radisson Individuals",
-          "url": "https://insights.ehotelier.com/properties/2026/07/15/radisson-hotel-group-signs-hotel-erzsebet-city-center-budapest-a-member-of-radisson-individuals/?utm_source=rss&utm_medium=rss&utm_campaign=radisson-hotel-group-signs-hotel-erzsebet-city-center-budapest-a-member-of-radisson-individuals",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-07-15T00:49:15Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "eHotelier"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_15979c8366a7",
-          "title": "Radisson Hotel Group signs Hotel Erzsébet City Center Budapest, a member of Radisson Individuals",
-          "url": "https://insights.ehotelier.com/properties/2026/07/15/radisson-hotel-group-signs-hotel-erzsebet-city-center-budapest-a-member-of-radisson-individuals/?utm_source=rss&utm_medium=rss&utm_campaign=radisson-hotel-group-signs-hotel-erzsebet-city-center-budapest-a-member-of-radisson-individuals",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-07-15T00:49:15Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.9526,
-      "importance": 0.5975,
-      "importance_score": 0.9526,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9876,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-15T00:49:15Z",
-      "latest_at": "2026-07-15T00:49:15Z",
-      "primary_item": {
-        "id": "hotelitem_15979c8366a7",
-        "title": "Radisson Hotel Group signs Hotel Erzsébet City Center Budapest, a member of Radisson Individuals",
-        "url": "https://insights.ehotelier.com/properties/2026/07/15/radisson-hotel-group-signs-hotel-erzsebet-city-center-budapest-a-member-of-radisson-individuals/?utm_source=rss&utm_medium=rss&utm_campaign=radisson-hotel-group-signs-hotel-erzsebet-city-center-budapest-a-member-of-radisson-individuals",
         "source": "eHotelier",
         "source_name": "eHotelier"
       }
@@ -333,14 +333,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9504,
-      "importance": 0.5952,
-      "importance_score": 0.9504,
+      "score": 0.9499,
+      "importance": 0.5947,
+      "importance_score": 0.9499,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.976,
+        "recency": 0.9736,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -372,7 +372,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-07-15T14:13:22.904325Z"
+          "published_at": "2026-07-15T16:46:10.948499Z"
         }
       ],
       "source_count": 1,
@@ -387,7 +387,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-07-15T14:13:22.904325Z"
+          "published_at": "2026-07-15T16:46:10.948499Z"
         }
       ],
       "item_count": 1,
@@ -406,8 +406,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-15T14:13:22.904325Z",
-      "latest_at": "2026-07-15T14:13:22.904325Z",
+      "earliest_at": "2026-07-15T16:46:10.948499Z",
+      "latest_at": "2026-07-15T16:46:10.948499Z",
       "primary_item": {
         "id": "hotelitem_9699887c72ea",
         "title": "中国旅游研究院与中青旅控股股份有限公司开展主题党日联学联",
@@ -451,14 +451,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9342,
-      "importance": 0.5785,
-      "importance_score": 0.9342,
+      "score": 0.9338,
+      "importance": 0.578,
+      "importance_score": 0.9338,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8924,
+        "recency": 0.89,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -510,14 +510,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9334,
-      "importance": 0.5776,
-      "importance_score": 0.9334,
+      "score": 0.933,
+      "importance": 0.5772,
+      "importance_score": 0.933,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8882,
+        "recency": 0.8858,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -569,14 +569,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9295,
-      "importance": 0.5736,
-      "importance_score": 0.9295,
+      "score": 0.929,
+      "importance": 0.5731,
+      "importance_score": 0.929,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8678,
+        "recency": 0.8654,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -628,14 +628,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9287,
-      "importance": 0.5986,
-      "importance_score": 0.9287,
+      "score": 0.9282,
+      "importance": 0.5981,
+      "importance_score": 0.9282,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9931,
+        "recency": 0.9907,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -687,14 +687,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9287,
-      "importance": 0.5986,
-      "importance_score": 0.9287,
+      "score": 0.9282,
+      "importance": 0.5982,
+      "importance_score": 0.9282,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9931,
+        "recency": 0.9908,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -746,14 +746,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9287,
-      "importance": 0.5986,
-      "importance_score": 0.9287,
+      "score": 0.9282,
+      "importance": 0.5982,
+      "importance_score": 0.9282,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9932,
+        "recency": 0.9908,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -805,14 +805,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9287,
-      "importance": 0.5986,
-      "importance_score": 0.9287,
+      "score": 0.9282,
+      "importance": 0.5982,
+      "importance_score": 0.9282,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9932,
+        "recency": 0.9909,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -864,14 +864,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9185,
-      "importance": 0.5777,
-      "importance_score": 0.9185,
+      "score": 0.9181,
+      "importance": 0.5773,
+      "importance_score": 0.9181,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8886,
+        "recency": 0.8863,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -903,7 +903,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-15T14:13:22.904325Z"
+          "published_at": "2026-07-15T16:46:10.948499Z"
         },
         {
           "id": "hotelitem_c7c15b7680c9",
@@ -912,7 +912,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-15T14:13:22.904325Z"
+          "published_at": "2026-07-15T16:46:10.948499Z"
         },
         {
           "id": "hotelitem_6d8fa145e8af",
@@ -921,7 +921,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-15T14:13:22.904325Z"
+          "published_at": "2026-07-15T16:46:10.948499Z"
         }
       ],
       "source_count": 3,
@@ -936,7 +936,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-15T14:13:22.904325Z"
+          "published_at": "2026-07-15T16:46:10.948499Z"
         },
         {
           "id": "hotelitem_c7c15b7680c9",
@@ -945,7 +945,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-15T14:13:22.904325Z"
+          "published_at": "2026-07-15T16:46:10.948499Z"
         },
         {
           "id": "hotelitem_6d8fa145e8af",
@@ -954,7 +954,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-15T14:13:22.904325Z"
+          "published_at": "2026-07-15T16:46:10.948499Z"
         }
       ],
       "item_count": 3,
@@ -974,8 +974,8 @@
         "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-15T14:13:22.904325Z",
-      "latest_at": "2026-07-15T14:13:22.904325Z",
+      "earliest_at": "2026-07-15T16:46:10.948499Z",
+      "latest_at": "2026-07-15T16:46:10.948499Z",
       "primary_item": {
         "id": "hotelitem_d4370964909c",
         "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
@@ -999,7 +999,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-15T14:13:22.904325Z"
+          "published_at": "2026-07-15T16:46:10.948499Z"
         }
       ],
       "source_count": 1,
@@ -1014,7 +1014,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-15T14:13:22.904325Z"
+          "published_at": "2026-07-15T16:46:10.948499Z"
         }
       ],
       "item_count": 1,
@@ -1033,8 +1033,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-15T14:13:22.904325Z",
-      "latest_at": "2026-07-15T14:13:22.904325Z",
+      "earliest_at": "2026-07-15T16:46:10.948499Z",
+      "latest_at": "2026-07-15T16:46:10.948499Z",
       "primary_item": {
         "id": "hotelitem_2c7d18362dc5",
         "title": "协会动态 | 中国饭店协会休闲度假专业委员会一届一次主任办公会在太仓召开 2026年7月8日，中国饭店协会休闲度假专业委员会一届一次主任办公会在太仓金茂隐逸玫瑰庄园度假酒店召开。中国饭店协会会长陈新华，中国饭店协会副会长、休闲度假专业委员会主任委员、君澜酒店董事长兼总裁王建平，苏州市旅游饭店业协会会长孙子元出席会议。会议由中国饭店协会副秘书长张乐然主持。",
@@ -1058,7 +1058,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-07-15T14:13:22.904325Z"
+          "published_at": "2026-07-15T16:46:10.948499Z"
         }
       ],
       "source_count": 1,
@@ -1073,7 +1073,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-07-15T14:13:22.904325Z"
+          "published_at": "2026-07-15T16:46:10.948499Z"
         }
       ],
       "item_count": 1,
@@ -1092,8 +1092,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-15T14:13:22.904325Z",
-      "latest_at": "2026-07-15T14:13:22.904325Z",
+      "earliest_at": "2026-07-15T16:46:10.948499Z",
+      "latest_at": "2026-07-15T16:46:10.948499Z",
       "primary_item": {
         "id": "hotelitem_d34e2868e8eb",
         "title": "惠评文旅|18亿收购，君亭没卖成，国资文旅买壳真正逻辑是什么？",
@@ -1117,7 +1117,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-07-15T14:13:22.904325Z"
+          "published_at": "2026-07-15T16:46:10.948499Z"
         }
       ],
       "source_count": 1,
@@ -1132,7 +1132,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-07-15T14:13:22.904325Z"
+          "published_at": "2026-07-15T16:46:10.948499Z"
         }
       ],
       "item_count": 1,
@@ -1151,8 +1151,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-15T14:13:22.904325Z",
-      "latest_at": "2026-07-15T14:13:22.904325Z",
+      "earliest_at": "2026-07-15T16:46:10.948499Z",
+      "latest_at": "2026-07-15T16:46:10.948499Z",
       "primary_item": {
         "id": "hotelitem_2c03113fa391",
         "title": "文旅惠报|飞猪与浙旅投集团达成战略合作；凯联国际酒店年度亏损收窄至4.74亿港元",
@@ -1176,7 +1176,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-07-15T14:13:22.904325Z"
+          "published_at": "2026-07-15T16:46:10.948499Z"
         }
       ],
       "source_count": 1,
@@ -1191,7 +1191,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-07-15T14:13:22.904325Z"
+          "published_at": "2026-07-15T16:46:10.948499Z"
         }
       ],
       "item_count": 1,
@@ -1210,8 +1210,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-15T14:13:22.904325Z",
-      "latest_at": "2026-07-15T14:13:22.904325Z",
+      "earliest_at": "2026-07-15T16:46:10.948499Z",
+      "latest_at": "2026-07-15T16:46:10.948499Z",
       "primary_item": {
         "id": "hotelitem_50c135faab60",
         "title": "文旅惠报|首旅集团拟发行20亿元超短期融资券，期限95天；广西旅发集团任命向红为副董事长、总经理",
@@ -1255,14 +1255,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8745,
-      "importance": 0.5345,
-      "importance_score": 0.8745,
+      "score": 0.8738,
+      "importance": 0.534,
+      "importance_score": 0.8738,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.6724,
+        "recency": 0.67,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1277,6 +1277,84 @@
         "url": "https://www.hotelmanagement.net/resource/reactive-proactive-leveraging-data-prevent-device-failures-protect-guest-experience",
         "source": "Hotel Management",
         "source_name": "Hotel Management"
+      }
+    },
+    {
+      "story_id": "story_8198bc289a0c",
+      "title": "Agoda Unveils Taiwan H1 Travel Insights: Ban ... Singapore, 14 July 2026 – Digital travel platform Agoda has released the latest insights on travel tre ... July 14, 2026 / Travel Trends",
+      "url": "https://www.agoda.com/press/agoda-unveils-taiwan-h1-travel-insights-bangkok-exits-top-five-philippines-leads-inbound-travel-interest-growth/",
+      "primary_url": "https://www.agoda.com/press/agoda-unveils-taiwan-h1-travel-insights-bangkok-exits-top-five-philippines-leads-inbound-travel-interest-growth/",
+      "source": "Agoda",
+      "source_name": "Agoda",
+      "sources": [
+        {
+          "id": "hotelitem_8198bc289a0c",
+          "title": "Agoda Unveils Taiwan H1 Travel Insights: Ban ... Singapore, 14 July 2026 – Digital travel platform Agoda has released the latest insights on travel tre ... July 14, 2026 / Travel Trends",
+          "url": "https://www.agoda.com/press/agoda-unveils-taiwan-h1-travel-insights-bangkok-exits-top-five-philippines-leads-inbound-travel-interest-growth/",
+          "source": "Agoda",
+          "source_name": "Agoda",
+          "site_id": "agoda_press",
+          "published_at": "2026-07-15T16:46:10.948499Z"
+        },
+        {
+          "id": "hotelitem_4eb38ce2a1e7",
+          "title": "Agoda: China Leads Inbound Travel Interest G ... Singapore, 10 July 2026 – Digital travel platform Agoda has released the latest insights on travel tre ... July 10, 2026 / Travel Trends",
+          "url": "https://www.agoda.com/press/agoda-china-leads-inbound-travel-interest-growth-to-indonesia-in-h1-2026/",
+          "source": "Agoda",
+          "source_name": "Agoda",
+          "site_id": "agoda_press",
+          "published_at": "2026-07-15T16:46:10.948499Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Agoda"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_8198bc289a0c",
+          "title": "Agoda Unveils Taiwan H1 Travel Insights: Ban ... Singapore, 14 July 2026 – Digital travel platform Agoda has released the latest insights on travel tre ... July 14, 2026 / Travel Trends",
+          "url": "https://www.agoda.com/press/agoda-unveils-taiwan-h1-travel-insights-bangkok-exits-top-five-philippines-leads-inbound-travel-interest-growth/",
+          "source": "Agoda",
+          "source_name": "Agoda",
+          "site_id": "agoda_press",
+          "published_at": "2026-07-15T16:46:10.948499Z"
+        },
+        {
+          "id": "hotelitem_4eb38ce2a1e7",
+          "title": "Agoda: China Leads Inbound Travel Interest G ... Singapore, 10 July 2026 – Digital travel platform Agoda has released the latest insights on travel tre ... July 10, 2026 / Travel Trends",
+          "url": "https://www.agoda.com/press/agoda-china-leads-inbound-travel-interest-growth-to-indonesia-in-h1-2026/",
+          "source": "Agoda",
+          "source_name": "Agoda",
+          "site_id": "agoda_press",
+          "published_at": "2026-07-15T16:46:10.948499Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8625,
+      "importance": 0.625,
+      "importance_score": 0.8625,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-15T16:46:10.948499Z",
+      "latest_at": "2026-07-15T16:46:10.948499Z",
+      "primary_item": {
+        "id": "hotelitem_8198bc289a0c",
+        "title": "Agoda Unveils Taiwan H1 Travel Insights: Ban ... Singapore, 14 July 2026 – Digital travel platform Agoda has released the latest insights on travel tre ... July 14, 2026 / Travel Trends",
+        "url": "https://www.agoda.com/press/agoda-unveils-taiwan-h1-travel-insights-bangkok-exits-top-five-philippines-leads-inbound-travel-interest-growth/",
+        "source": "Agoda",
+        "source_name": "Agoda"
       }
     },
     {
@@ -1314,14 +1392,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8626,
-      "importance": 0.5976,
-      "importance_score": 0.8626,
+      "score": 0.8622,
+      "importance": 0.5971,
+      "importance_score": 0.8622,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9878,
+        "recency": 0.9854,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1336,84 +1414,6 @@
         "url": "https://insights.ehotelier.com/people/2026/07/15/william-courtney-lowe-appointed-chief-business-development-and-brand-strategist-at-cliff-house-maine/?utm_source=rss&utm_medium=rss&utm_campaign=william-courtney-lowe-appointed-chief-business-development-and-brand-strategist-at-cliff-house-maine",
         "source": "eHotelier",
         "source_name": "eHotelier"
-      }
-    },
-    {
-      "story_id": "story_8198bc289a0c",
-      "title": "Agoda Unveils Taiwan H1 Travel Insights: Ban ... Singapore, 14 July 2026 – Digital travel platform Agoda has released the latest insights on travel tre ... July 14, 2026 / Travel Trends",
-      "url": "https://www.agoda.com/press/agoda-unveils-taiwan-h1-travel-insights-bangkok-exits-top-five-philippines-leads-inbound-travel-interest-growth/",
-      "primary_url": "https://www.agoda.com/press/agoda-unveils-taiwan-h1-travel-insights-bangkok-exits-top-five-philippines-leads-inbound-travel-interest-growth/",
-      "source": "Agoda",
-      "source_name": "Agoda",
-      "sources": [
-        {
-          "id": "hotelitem_8198bc289a0c",
-          "title": "Agoda Unveils Taiwan H1 Travel Insights: Ban ... Singapore, 14 July 2026 – Digital travel platform Agoda has released the latest insights on travel tre ... July 14, 2026 / Travel Trends",
-          "url": "https://www.agoda.com/press/agoda-unveils-taiwan-h1-travel-insights-bangkok-exits-top-five-philippines-leads-inbound-travel-interest-growth/",
-          "source": "Agoda",
-          "source_name": "Agoda",
-          "site_id": "agoda_press",
-          "published_at": "2026-07-15T14:13:22.904325Z"
-        },
-        {
-          "id": "hotelitem_4eb38ce2a1e7",
-          "title": "Agoda: China Leads Inbound Travel Interest G ... Singapore, 10 July 2026 – Digital travel platform Agoda has released the latest insights on travel tre ... July 10, 2026 / Travel Trends",
-          "url": "https://www.agoda.com/press/agoda-china-leads-inbound-travel-interest-growth-to-indonesia-in-h1-2026/",
-          "source": "Agoda",
-          "source_name": "Agoda",
-          "site_id": "agoda_press",
-          "published_at": "2026-07-15T14:13:22.904325Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Agoda"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_8198bc289a0c",
-          "title": "Agoda Unveils Taiwan H1 Travel Insights: Ban ... Singapore, 14 July 2026 – Digital travel platform Agoda has released the latest insights on travel tre ... July 14, 2026 / Travel Trends",
-          "url": "https://www.agoda.com/press/agoda-unveils-taiwan-h1-travel-insights-bangkok-exits-top-five-philippines-leads-inbound-travel-interest-growth/",
-          "source": "Agoda",
-          "source_name": "Agoda",
-          "site_id": "agoda_press",
-          "published_at": "2026-07-15T14:13:22.904325Z"
-        },
-        {
-          "id": "hotelitem_4eb38ce2a1e7",
-          "title": "Agoda: China Leads Inbound Travel Interest G ... Singapore, 10 July 2026 – Digital travel platform Agoda has released the latest insights on travel tre ... July 10, 2026 / Travel Trends",
-          "url": "https://www.agoda.com/press/agoda-china-leads-inbound-travel-interest-growth-to-indonesia-in-h1-2026/",
-          "source": "Agoda",
-          "source_name": "Agoda",
-          "site_id": "agoda_press",
-          "published_at": "2026-07-15T14:13:22.904325Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8625,
-      "importance": 0.625,
-      "importance_score": 0.8625,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-15T14:13:22.904325Z",
-      "latest_at": "2026-07-15T14:13:22.904325Z",
-      "primary_item": {
-        "id": "hotelitem_8198bc289a0c",
-        "title": "Agoda Unveils Taiwan H1 Travel Insights: Ban ... Singapore, 14 July 2026 – Digital travel platform Agoda has released the latest insights on travel tre ... July 14, 2026 / Travel Trends",
-        "url": "https://www.agoda.com/press/agoda-unveils-taiwan-h1-travel-insights-bangkok-exits-top-five-philippines-leads-inbound-travel-interest-growth/",
-        "source": "Agoda",
-        "source_name": "Agoda"
       }
     },
     {
@@ -1451,14 +1451,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8605,
-      "importance": 0.5954,
-      "importance_score": 0.8605,
+      "score": 0.8601,
+      "importance": 0.5949,
+      "importance_score": 0.8601,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9769,
+        "recency": 0.9745,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1490,7 +1490,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-07-15T14:13:22.904325Z"
+          "published_at": "2026-07-15T16:46:10.948499Z"
         }
       ],
       "source_count": 1,
@@ -1505,7 +1505,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-07-15T14:13:22.904325Z"
+          "published_at": "2026-07-15T16:46:10.948499Z"
         }
       ],
       "item_count": 1,
@@ -1524,8 +1524,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-15T14:13:22.904325Z",
-      "latest_at": "2026-07-15T14:13:22.904325Z",
+      "earliest_at": "2026-07-15T16:46:10.948499Z",
+      "latest_at": "2026-07-15T16:46:10.948499Z",
       "primary_item": {
         "id": "hotelitem_e4ce0593c384",
         "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
@@ -1549,7 +1549,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-07-15T14:13:22.904325Z"
+          "published_at": "2026-07-15T16:46:10.948499Z"
         }
       ],
       "source_count": 1,
@@ -1564,7 +1564,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-07-15T14:13:22.904325Z"
+          "published_at": "2026-07-15T16:46:10.948499Z"
         }
       ],
       "item_count": 1,
@@ -1583,8 +1583,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-15T14:13:22.904325Z",
-      "latest_at": "2026-07-15T14:13:22.904325Z",
+      "earliest_at": "2026-07-15T16:46:10.948499Z",
+      "latest_at": "2026-07-15T16:46:10.948499Z",
       "primary_item": {
         "id": "hotelitem_fa34986b4fc0",
         "title": "文化和旅游部、金融监管总局关于警惕借“保...",
@@ -1608,7 +1608,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-07-15T14:13:22.904325Z"
+          "published_at": "2026-07-15T16:46:10.948499Z"
         }
       ],
       "source_count": 1,
@@ -1623,7 +1623,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-07-15T14:13:22.904325Z"
+          "published_at": "2026-07-15T16:46:10.948499Z"
         }
       ],
       "item_count": 1,
@@ -1642,8 +1642,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-15T14:13:22.904325Z",
-      "latest_at": "2026-07-15T14:13:22.904325Z",
+      "earliest_at": "2026-07-15T16:46:10.948499Z",
+      "latest_at": "2026-07-15T16:46:10.948499Z",
       "primary_item": {
         "id": "hotelitem_6bb66367ea13",
         "title": "文化和旅游部产业项目服务平台第47期精品...",
@@ -1667,7 +1667,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-07-15T14:13:22.904325Z"
+          "published_at": "2026-07-15T16:46:10.948499Z"
         }
       ],
       "source_count": 1,
@@ -1682,7 +1682,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-07-15T14:13:22.904325Z"
+          "published_at": "2026-07-15T16:46:10.948499Z"
         }
       ],
       "item_count": 1,
@@ -1701,8 +1701,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-15T14:13:22.904325Z",
-      "latest_at": "2026-07-15T14:13:22.904325Z",
+      "earliest_at": "2026-07-15T16:46:10.948499Z",
+      "latest_at": "2026-07-15T16:46:10.948499Z",
       "primary_item": {
         "id": "hotelitem_9a958319a874",
         "title": "文化和旅游部印发《旅游强国建设“十五五”...",
@@ -1726,7 +1726,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-07-15T14:13:22.904325Z"
+          "published_at": "2026-07-15T16:46:10.948499Z"
         }
       ],
       "source_count": 1,
@@ -1741,7 +1741,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-07-15T14:13:22.904325Z"
+          "published_at": "2026-07-15T16:46:10.948499Z"
         }
       ],
       "item_count": 1,
@@ -1760,8 +1760,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-15T14:13:22.904325Z",
-      "latest_at": "2026-07-15T14:13:22.904325Z",
+      "earliest_at": "2026-07-15T16:46:10.948499Z",
+      "latest_at": "2026-07-15T16:46:10.948499Z",
       "primary_item": {
         "id": "hotelitem_e2295ba596c9",
         "title": "文化和旅游部部级社科研究项目公布",
@@ -1805,14 +1805,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8562,
-      "importance": 0.5909,
-      "importance_score": 0.8562,
+      "score": 0.8558,
+      "importance": 0.5905,
+      "importance_score": 0.8558,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9546,
+        "recency": 0.9523,
         "story_heat": 0.0
       },
       "category": "watch",
