@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T22:16:41.773128Z",
+  "generated_at": "2026-07-17T03:40:48.176345Z",
   "window_hours": 1080,
   "total_items": 30,
   "items": [
@@ -38,14 +38,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9759,
-      "importance": 0.5644,
-      "importance_score": 0.9759,
+      "score": 0.9744,
+      "importance": 0.5634,
+      "importance_score": 0.9744,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8218,
+        "recency": 0.8168,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -63,62 +63,121 @@
       }
     },
     {
-      "story_id": "story_f5e73e82c51c",
-      "title": "Travelers are booking hotel stays based on F&B: report",
-      "url": "https://www.hoteldive.com/news/hotel-restaurant-travel-booking-trends/825399/",
-      "primary_url": "https://www.hoteldive.com/news/hotel-restaurant-travel-booking-trends/825399/",
-      "source": "Hotel Dive",
-      "source_name": "Hotel Dive",
+      "story_id": "story_519ed7399dde",
+      "title": "Capital Projects are about more than construction; they’re about protecting the guest experience",
+      "url": "https://insights.ehotelier.com/insights/2026/07/17/capital-projects-are-about-more-than-construction-theyre-about-protecting-the-guest-experience/?utm_source=rss&utm_medium=rss&utm_campaign=capital-projects-are-about-more-than-construction-theyre-about-protecting-the-guest-experience",
+      "primary_url": "https://insights.ehotelier.com/insights/2026/07/17/capital-projects-are-about-more-than-construction-theyre-about-protecting-the-guest-experience/?utm_source=rss&utm_medium=rss&utm_campaign=capital-projects-are-about-more-than-construction-theyre-about-protecting-the-guest-experience",
+      "source": "eHotelier",
+      "source_name": "eHotelier",
       "sources": [
         {
-          "id": "hotelitem_f5e73e82c51c",
-          "title": "Travelers are booking hotel stays based on F&B: report",
-          "url": "https://www.hoteldive.com/news/hotel-restaurant-travel-booking-trends/825399/",
-          "source": "Hotel Dive",
-          "source_name": "Hotel Dive",
-          "site_id": "hoteldive",
-          "published_at": "2026-07-16T13:52:54Z"
+          "id": "hotelitem_519ed7399dde",
+          "title": "Capital Projects are about more than construction; they’re about protecting the guest experience",
+          "url": "https://insights.ehotelier.com/insights/2026/07/17/capital-projects-are-about-more-than-construction-theyre-about-protecting-the-guest-experience/?utm_source=rss&utm_medium=rss&utm_campaign=capital-projects-are-about-more-than-construction-theyre-about-protecting-the-guest-experience",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-07-17T01:40:38Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Hotel Dive"
+        "eHotelier"
       ],
       "items": [
         {
-          "id": "hotelitem_f5e73e82c51c",
-          "title": "Travelers are booking hotel stays based on F&B: report",
-          "url": "https://www.hoteldive.com/news/hotel-restaurant-travel-booking-trends/825399/",
-          "source": "Hotel Dive",
-          "source_name": "Hotel Dive",
-          "site_id": "hoteldive",
-          "published_at": "2026-07-16T13:52:54Z"
+          "id": "hotelitem_519ed7399dde",
+          "title": "Capital Projects are about more than construction; they’re about protecting the guest experience",
+          "url": "https://insights.ehotelier.com/insights/2026/07/17/capital-projects-are-about-more-than-construction-theyre-about-protecting-the-guest-experience/?utm_source=rss&utm_medium=rss&utm_campaign=capital-projects-are-about-more-than-construction-theyre-about-protecting-the-guest-experience",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-07-17T01:40:38Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9535,
-      "importance": 0.5984,
-      "importance_score": 0.9535,
+      "score": 0.9546,
+      "importance": 0.5996,
+      "importance_score": 0.9546,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9922,
+        "recency": 0.9981,
         "story_heat": 0.0
       },
       "category": "watch",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-16T13:52:54Z",
-      "latest_at": "2026-07-16T13:52:54Z",
+      "earliest_at": "2026-07-17T01:40:38Z",
+      "latest_at": "2026-07-17T01:40:38Z",
       "primary_item": {
-        "id": "hotelitem_f5e73e82c51c",
-        "title": "Travelers are booking hotel stays based on F&B: report",
-        "url": "https://www.hoteldive.com/news/hotel-restaurant-travel-booking-trends/825399/",
-        "source": "Hotel Dive",
-        "source_name": "Hotel Dive"
+        "id": "hotelitem_519ed7399dde",
+        "title": "Capital Projects are about more than construction; they’re about protecting the guest experience",
+        "url": "https://insights.ehotelier.com/insights/2026/07/17/capital-projects-are-about-more-than-construction-theyre-about-protecting-the-guest-experience/?utm_source=rss&utm_medium=rss&utm_campaign=capital-projects-are-about-more-than-construction-theyre-about-protecting-the-guest-experience",
+        "source": "eHotelier",
+        "source_name": "eHotelier"
+      }
+    },
+    {
+      "story_id": "story_682267ced92b",
+      "title": "Radisson Resort Layan Phuket opens on Phuket’s peaceful Northwest coast",
+      "url": "https://insights.ehotelier.com/properties/2026/07/17/radisson-resort-layan-phuket-opens-on-phukets-peaceful-northwest-coast/?utm_source=rss&utm_medium=rss&utm_campaign=radisson-resort-layan-phuket-opens-on-phukets-peaceful-northwest-coast",
+      "primary_url": "https://insights.ehotelier.com/properties/2026/07/17/radisson-resort-layan-phuket-opens-on-phukets-peaceful-northwest-coast/?utm_source=rss&utm_medium=rss&utm_campaign=radisson-resort-layan-phuket-opens-on-phukets-peaceful-northwest-coast",
+      "source": "eHotelier",
+      "source_name": "eHotelier",
+      "sources": [
+        {
+          "id": "hotelitem_682267ced92b",
+          "title": "Radisson Resort Layan Phuket opens on Phuket’s peaceful Northwest coast",
+          "url": "https://insights.ehotelier.com/properties/2026/07/17/radisson-resort-layan-phuket-opens-on-phukets-peaceful-northwest-coast/?utm_source=rss&utm_medium=rss&utm_campaign=radisson-resort-layan-phuket-opens-on-phukets-peaceful-northwest-coast",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-07-17T00:56:01Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "eHotelier"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_682267ced92b",
+          "title": "Radisson Resort Layan Phuket opens on Phuket’s peaceful Northwest coast",
+          "url": "https://insights.ehotelier.com/properties/2026/07/17/radisson-resort-layan-phuket-opens-on-phukets-peaceful-northwest-coast/?utm_source=rss&utm_medium=rss&utm_campaign=radisson-resort-layan-phuket-opens-on-phukets-peaceful-northwest-coast",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-07-17T00:56:01Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.9545,
+      "importance": 0.5995,
+      "importance_score": 0.9545,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9975,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-17T00:56:01Z",
+      "latest_at": "2026-07-17T00:56:01Z",
+      "primary_item": {
+        "id": "hotelitem_682267ced92b",
+        "title": "Radisson Resort Layan Phuket opens on Phuket’s peaceful Northwest coast",
+        "url": "https://insights.ehotelier.com/properties/2026/07/17/radisson-resort-layan-phuket-opens-on-phukets-peaceful-northwest-coast/?utm_source=rss&utm_medium=rss&utm_campaign=radisson-resort-layan-phuket-opens-on-phukets-peaceful-northwest-coast",
+        "source": "eHotelier",
+        "source_name": "eHotelier"
       }
     },
     {
@@ -156,14 +215,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9535,
-      "importance": 0.5985,
-      "importance_score": 0.9535,
+      "score": 0.9526,
+      "importance": 0.5975,
+      "importance_score": 0.9526,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9924,
+        "recency": 0.9874,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -181,62 +240,62 @@
       }
     },
     {
-      "story_id": "story_cf7216c6cc97",
-      "title": "Bruno Fuentes appointed as Director of Restaurants, Penthouse at The St. Regis Mumbai",
-      "url": "https://insights.ehotelier.com/people/2026/07/16/bruno-fuentes-appointed-as-director-of-restaurants-penthouse-at-the-st-regis-mumbai/?utm_source=rss&utm_medium=rss&utm_campaign=bruno-fuentes-appointed-as-director-of-restaurants-penthouse-at-the-st-regis-mumbai",
-      "primary_url": "https://insights.ehotelier.com/people/2026/07/16/bruno-fuentes-appointed-as-director-of-restaurants-penthouse-at-the-st-regis-mumbai/?utm_source=rss&utm_medium=rss&utm_campaign=bruno-fuentes-appointed-as-director-of-restaurants-penthouse-at-the-st-regis-mumbai",
-      "source": "eHotelier",
-      "source_name": "eHotelier",
+      "story_id": "story_f5e73e82c51c",
+      "title": "Travelers are booking hotel stays based on F&B: report",
+      "url": "https://www.hoteldive.com/news/hotel-restaurant-travel-booking-trends/825399/",
+      "primary_url": "https://www.hoteldive.com/news/hotel-restaurant-travel-booking-trends/825399/",
+      "source": "Hotel Dive",
+      "source_name": "Hotel Dive",
       "sources": [
         {
-          "id": "hotelitem_cf7216c6cc97",
-          "title": "Bruno Fuentes appointed as Director of Restaurants, Penthouse at The St. Regis Mumbai",
-          "url": "https://insights.ehotelier.com/people/2026/07/16/bruno-fuentes-appointed-as-director-of-restaurants-penthouse-at-the-st-regis-mumbai/?utm_source=rss&utm_medium=rss&utm_campaign=bruno-fuentes-appointed-as-director-of-restaurants-penthouse-at-the-st-regis-mumbai",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-07-16T01:04:47Z"
+          "id": "hotelitem_f5e73e82c51c",
+          "title": "Travelers are booking hotel stays based on F&B: report",
+          "url": "https://www.hoteldive.com/news/hotel-restaurant-travel-booking-trends/825399/",
+          "source": "Hotel Dive",
+          "source_name": "Hotel Dive",
+          "site_id": "hoteldive",
+          "published_at": "2026-07-16T13:52:54Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "eHotelier"
+        "Hotel Dive"
       ],
       "items": [
         {
-          "id": "hotelitem_cf7216c6cc97",
-          "title": "Bruno Fuentes appointed as Director of Restaurants, Penthouse at The St. Regis Mumbai",
-          "url": "https://insights.ehotelier.com/people/2026/07/16/bruno-fuentes-appointed-as-director-of-restaurants-penthouse-at-the-st-regis-mumbai/?utm_source=rss&utm_medium=rss&utm_campaign=bruno-fuentes-appointed-as-director-of-restaurants-penthouse-at-the-st-regis-mumbai",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-07-16T01:04:47Z"
+          "id": "hotelitem_f5e73e82c51c",
+          "title": "Travelers are booking hotel stays based on F&B: report",
+          "url": "https://www.hoteldive.com/news/hotel-restaurant-travel-booking-trends/825399/",
+          "source": "Hotel Dive",
+          "source_name": "Hotel Dive",
+          "site_id": "hoteldive",
+          "published_at": "2026-07-16T13:52:54Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9512,
-      "importance": 0.5961,
-      "importance_score": 0.9512,
+      "score": 0.9525,
+      "importance": 0.5974,
+      "importance_score": 0.9525,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9804,
+        "recency": 0.9872,
         "story_heat": 0.0
       },
       "category": "watch",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-16T01:04:47Z",
-      "latest_at": "2026-07-16T01:04:47Z",
+      "earliest_at": "2026-07-16T13:52:54Z",
+      "latest_at": "2026-07-16T13:52:54Z",
       "primary_item": {
-        "id": "hotelitem_cf7216c6cc97",
-        "title": "Bruno Fuentes appointed as Director of Restaurants, Penthouse at The St. Regis Mumbai",
-        "url": "https://insights.ehotelier.com/people/2026/07/16/bruno-fuentes-appointed-as-director-of-restaurants-penthouse-at-the-st-regis-mumbai/?utm_source=rss&utm_medium=rss&utm_campaign=bruno-fuentes-appointed-as-director-of-restaurants-penthouse-at-the-st-regis-mumbai",
-        "source": "eHotelier",
-        "source_name": "eHotelier"
+        "id": "hotelitem_f5e73e82c51c",
+        "title": "Travelers are booking hotel stays based on F&B: report",
+        "url": "https://www.hoteldive.com/news/hotel-restaurant-travel-booking-trends/825399/",
+        "source": "Hotel Dive",
+        "source_name": "Hotel Dive"
       }
     },
     {
@@ -254,7 +313,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-07-16T22:16:41.773128Z"
+          "published_at": "2026-07-17T03:40:48.176345Z"
         }
       ],
       "source_count": 1,
@@ -269,7 +328,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-07-16T22:16:41.773128Z"
+          "published_at": "2026-07-17T03:40:48.176345Z"
         }
       ],
       "item_count": 1,
@@ -288,132 +347,14 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-16T22:16:41.773128Z",
-      "latest_at": "2026-07-16T22:16:41.773128Z",
+      "earliest_at": "2026-07-17T03:40:48.176345Z",
+      "latest_at": "2026-07-17T03:40:48.176345Z",
       "primary_item": {
         "id": "hotelitem_9699887c72ea",
         "title": "中国旅游研究院与中青旅控股股份有限公司开展主题党日联学联",
         "url": "https://www.ctaweb.org.cn/gongzuodongtai/10519.html",
         "source": "中国旅游研究院",
         "source_name": "中国旅游研究院"
-      }
-    },
-    {
-      "story_id": "story_9c24f9c96dc8",
-      "title": "WTTC and UNEP forge landmark alliance to fast-track sustainable travel and tourism",
-      "url": "https://insights.ehotelier.com/global-news/2026/07/15/wttc-and-unep-forge-landmark-alliance-to-fast-track-sustainable-travel-and-tourism/?utm_source=rss&utm_medium=rss&utm_campaign=wttc-and-unep-forge-landmark-alliance-to-fast-track-sustainable-travel-and-tourism",
-      "primary_url": "https://insights.ehotelier.com/global-news/2026/07/15/wttc-and-unep-forge-landmark-alliance-to-fast-track-sustainable-travel-and-tourism/?utm_source=rss&utm_medium=rss&utm_campaign=wttc-and-unep-forge-landmark-alliance-to-fast-track-sustainable-travel-and-tourism",
-      "source": "eHotelier",
-      "source_name": "eHotelier",
-      "sources": [
-        {
-          "id": "hotelitem_9c24f9c96dc8",
-          "title": "WTTC and UNEP forge landmark alliance to fast-track sustainable travel and tourism",
-          "url": "https://insights.ehotelier.com/global-news/2026/07/15/wttc-and-unep-forge-landmark-alliance-to-fast-track-sustainable-travel-and-tourism/?utm_source=rss&utm_medium=rss&utm_campaign=wttc-and-unep-forge-landmark-alliance-to-fast-track-sustainable-travel-and-tourism",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-07-15T01:13:13Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "eHotelier"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_9c24f9c96dc8",
-          "title": "WTTC and UNEP forge landmark alliance to fast-track sustainable travel and tourism",
-          "url": "https://insights.ehotelier.com/global-news/2026/07/15/wttc-and-unep-forge-landmark-alliance-to-fast-track-sustainable-travel-and-tourism/?utm_source=rss&utm_medium=rss&utm_campaign=wttc-and-unep-forge-landmark-alliance-to-fast-track-sustainable-travel-and-tourism",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-07-15T01:13:13Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.947,
-      "importance": 0.5917,
-      "importance_score": 0.947,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9583,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-15T01:13:13Z",
-      "latest_at": "2026-07-15T01:13:13Z",
-      "primary_item": {
-        "id": "hotelitem_9c24f9c96dc8",
-        "title": "WTTC and UNEP forge landmark alliance to fast-track sustainable travel and tourism",
-        "url": "https://insights.ehotelier.com/global-news/2026/07/15/wttc-and-unep-forge-landmark-alliance-to-fast-track-sustainable-travel-and-tourism/?utm_source=rss&utm_medium=rss&utm_campaign=wttc-and-unep-forge-landmark-alliance-to-fast-track-sustainable-travel-and-tourism",
-        "source": "eHotelier",
-        "source_name": "eHotelier"
-      }
-    },
-    {
-      "story_id": "story_9e91b56489ab",
-      "title": "The Everlasting Appeal of Santorini with Markos Chaidemenos of Canaves Collection",
-      "url": "https://insights.ehotelier.com/insights/2026/07/15/the-everlasting-appeal-of-santorini-with-markos-chaidemenos-of-canaves-collection-2/?utm_source=rss&utm_medium=rss&utm_campaign=the-everlasting-appeal-of-santorini-with-markos-chaidemenos-of-canaves-collection-2",
-      "primary_url": "https://insights.ehotelier.com/insights/2026/07/15/the-everlasting-appeal-of-santorini-with-markos-chaidemenos-of-canaves-collection-2/?utm_source=rss&utm_medium=rss&utm_campaign=the-everlasting-appeal-of-santorini-with-markos-chaidemenos-of-canaves-collection-2",
-      "source": "eHotelier",
-      "source_name": "eHotelier",
-      "sources": [
-        {
-          "id": "hotelitem_9e91b56489ab",
-          "title": "The Everlasting Appeal of Santorini with Markos Chaidemenos of Canaves Collection",
-          "url": "https://insights.ehotelier.com/insights/2026/07/15/the-everlasting-appeal-of-santorini-with-markos-chaidemenos-of-canaves-collection-2/?utm_source=rss&utm_medium=rss&utm_campaign=the-everlasting-appeal-of-santorini-with-markos-chaidemenos-of-canaves-collection-2",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-07-15T01:21:44Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "eHotelier"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_9e91b56489ab",
-          "title": "The Everlasting Appeal of Santorini with Markos Chaidemenos of Canaves Collection",
-          "url": "https://insights.ehotelier.com/insights/2026/07/15/the-everlasting-appeal-of-santorini-with-markos-chaidemenos-of-canaves-collection-2/?utm_source=rss&utm_medium=rss&utm_campaign=the-everlasting-appeal-of-santorini-with-markos-chaidemenos-of-canaves-collection-2",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-07-15T01:21:44Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.947,
-      "importance": 0.5917,
-      "importance_score": 0.947,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9584,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-15T01:21:44Z",
-      "latest_at": "2026-07-15T01:21:44Z",
-      "primary_item": {
-        "id": "hotelitem_9e91b56489ab",
-        "title": "The Everlasting Appeal of Santorini with Markos Chaidemenos of Canaves Collection",
-        "url": "https://insights.ehotelier.com/insights/2026/07/15/the-everlasting-appeal-of-santorini-with-markos-chaidemenos-of-canaves-collection-2/?utm_source=rss&utm_medium=rss&utm_campaign=the-everlasting-appeal-of-santorini-with-markos-chaidemenos-of-canaves-collection-2",
-        "source": "eHotelier",
-        "source_name": "eHotelier"
       }
     },
     {
@@ -451,14 +392,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9446,
-      "importance": 0.5893,
-      "importance_score": 0.9446,
+      "score": 0.9437,
+      "importance": 0.5883,
+      "importance_score": 0.9437,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9463,
+        "recency": 0.9413,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -510,14 +451,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9285,
-      "importance": 0.5725,
-      "importance_score": 0.9285,
+      "score": 0.9276,
+      "importance": 0.5715,
+      "importance_score": 0.9276,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8627,
+        "recency": 0.8577,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -569,14 +510,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9277,
-      "importance": 0.5717,
-      "importance_score": 0.9277,
+      "score": 0.9267,
+      "importance": 0.5707,
+      "importance_score": 0.9267,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8585,
+        "recency": 0.8535,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -594,65 +535,6 @@
       }
     },
     {
-      "story_id": "story_27374bf870d1",
-      "title": "UK hotel investors chase experience over square footage",
-      "url": "https://boutiquehotelnews.com/features/uk-hotel-investors/?utm_source=rss&utm_medium=rss&utm_campaign=uk-hotel-investors",
-      "primary_url": "https://boutiquehotelnews.com/features/uk-hotel-investors/?utm_source=rss&utm_medium=rss&utm_campaign=uk-hotel-investors",
-      "source": "Boutique Hotel News",
-      "source_name": "Boutique Hotel News",
-      "sources": [
-        {
-          "id": "hotelitem_27374bf870d1",
-          "title": "UK hotel investors chase experience over square footage",
-          "url": "https://boutiquehotelnews.com/features/uk-hotel-investors/?utm_source=rss&utm_medium=rss&utm_campaign=uk-hotel-investors",
-          "source": "Boutique Hotel News",
-          "source_name": "Boutique Hotel News",
-          "site_id": "boutiquehotel",
-          "published_at": "2026-07-10T13:56:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Boutique Hotel News"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_27374bf870d1",
-          "title": "UK hotel investors chase experience over square footage",
-          "url": "https://boutiquehotelnews.com/features/uk-hotel-investors/?utm_source=rss&utm_medium=rss&utm_campaign=uk-hotel-investors",
-          "source": "Boutique Hotel News",
-          "source_name": "Boutique Hotel News",
-          "site_id": "boutiquehotel",
-          "published_at": "2026-07-10T13:56:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.9128,
-      "importance": 0.5718,
-      "importance_score": 0.9128,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.8589,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-10T13:56:00Z",
-      "latest_at": "2026-07-10T13:56:00Z",
-      "primary_item": {
-        "id": "hotelitem_27374bf870d1",
-        "title": "UK hotel investors chase experience over square footage",
-        "url": "https://boutiquehotelnews.com/features/uk-hotel-investors/?utm_source=rss&utm_medium=rss&utm_campaign=uk-hotel-investors",
-        "source": "Boutique Hotel News",
-        "source_name": "Boutique Hotel News"
-      }
-    },
-    {
       "story_id": "story_c7c15b7680c9",
       "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
       "url": "https://www.chinahotel.org.cn/articles/17408",
@@ -667,7 +549,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-16T22:16:41.773128Z"
+          "published_at": "2026-07-17T03:40:48.176345Z"
         },
         {
           "id": "hotelitem_c7c15b7680c9",
@@ -676,7 +558,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-16T22:16:41.773128Z"
+          "published_at": "2026-07-17T03:40:48.176345Z"
         },
         {
           "id": "hotelitem_6d8fa145e8af",
@@ -685,7 +567,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-16T22:16:41.773128Z"
+          "published_at": "2026-07-17T03:40:48.176345Z"
         }
       ],
       "source_count": 3,
@@ -700,7 +582,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-16T22:16:41.773128Z"
+          "published_at": "2026-07-17T03:40:48.176345Z"
         },
         {
           "id": "hotelitem_c7c15b7680c9",
@@ -709,7 +591,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-16T22:16:41.773128Z"
+          "published_at": "2026-07-17T03:40:48.176345Z"
         },
         {
           "id": "hotelitem_6d8fa145e8af",
@@ -718,7 +600,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-16T22:16:41.773128Z"
+          "published_at": "2026-07-17T03:40:48.176345Z"
         }
       ],
       "item_count": 3,
@@ -738,8 +620,8 @@
         "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-16T22:16:41.773128Z",
-      "latest_at": "2026-07-16T22:16:41.773128Z",
+      "earliest_at": "2026-07-17T03:40:48.176345Z",
+      "latest_at": "2026-07-17T03:40:48.176345Z",
       "primary_item": {
         "id": "hotelitem_d4370964909c",
         "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
@@ -763,7 +645,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-16T22:16:41.773128Z"
+          "published_at": "2026-07-17T03:40:48.176345Z"
         }
       ],
       "source_count": 1,
@@ -778,7 +660,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-16T22:16:41.773128Z"
+          "published_at": "2026-07-17T03:40:48.176345Z"
         }
       ],
       "item_count": 1,
@@ -797,8 +679,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-16T22:16:41.773128Z",
-      "latest_at": "2026-07-16T22:16:41.773128Z",
+      "earliest_at": "2026-07-17T03:40:48.176345Z",
+      "latest_at": "2026-07-17T03:40:48.176345Z",
       "primary_item": {
         "id": "hotelitem_2c7d18362dc5",
         "title": "协会动态 | 中国饭店协会休闲度假专业委员会一届一次主任办公会在太仓召开 2026年7月8日，中国饭店协会休闲度假专业委员会一届一次主任办公会在太仓金茂隐逸玫瑰庄园度假酒店召开。中国饭店协会会长陈新华，中国饭店协会副会长、休闲度假专业委员会主任委员、君澜酒店董事长兼总裁王建平，苏州市旅游饭店业协会会长孙子元出席会议。会议由中国饭店协会副秘书长张乐然主持。",
@@ -822,7 +704,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-07-16T22:16:41.773128Z"
+          "published_at": "2026-07-17T03:40:48.176345Z"
         }
       ],
       "source_count": 1,
@@ -837,7 +719,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-07-16T22:16:41.773128Z"
+          "published_at": "2026-07-17T03:40:48.176345Z"
         }
       ],
       "item_count": 1,
@@ -856,8 +738,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-16T22:16:41.773128Z",
-      "latest_at": "2026-07-16T22:16:41.773128Z",
+      "earliest_at": "2026-07-17T03:40:48.176345Z",
+      "latest_at": "2026-07-17T03:40:48.176345Z",
       "primary_item": {
         "id": "hotelitem_d34e2868e8eb",
         "title": "惠评文旅|18亿收购，君亭没卖成，国资文旅买壳真正逻辑是什么？",
@@ -881,7 +763,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-07-16T22:16:41.773128Z"
+          "published_at": "2026-07-17T03:40:48.176345Z"
         }
       ],
       "source_count": 1,
@@ -896,7 +778,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-07-16T22:16:41.773128Z"
+          "published_at": "2026-07-17T03:40:48.176345Z"
         }
       ],
       "item_count": 1,
@@ -915,8 +797,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-16T22:16:41.773128Z",
-      "latest_at": "2026-07-16T22:16:41.773128Z",
+      "earliest_at": "2026-07-17T03:40:48.176345Z",
+      "latest_at": "2026-07-17T03:40:48.176345Z",
       "primary_item": {
         "id": "hotelitem_2c03113fa391",
         "title": "文旅惠报|飞猪与浙旅投集团达成战略合作；凯联国际酒店年度亏损收窄至4.74亿港元",
@@ -940,7 +822,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-07-16T22:16:41.773128Z"
+          "published_at": "2026-07-17T03:40:48.176345Z"
         }
       ],
       "source_count": 1,
@@ -955,7 +837,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-07-16T22:16:41.773128Z"
+          "published_at": "2026-07-17T03:40:48.176345Z"
         }
       ],
       "item_count": 1,
@@ -974,14 +856,132 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-16T22:16:41.773128Z",
-      "latest_at": "2026-07-16T22:16:41.773128Z",
+      "earliest_at": "2026-07-17T03:40:48.176345Z",
+      "latest_at": "2026-07-17T03:40:48.176345Z",
       "primary_item": {
         "id": "hotelitem_50c135faab60",
         "title": "文旅惠报|首旅集团拟发行20亿元超短期融资券，期限95天；广西旅发集团任命向红为副董事长、总经理",
         "url": "https://www.tripvivid.com/47529.html",
         "source": "执惠 TripVivid",
         "source_name": "执惠 TripVivid"
+      }
+    },
+    {
+      "story_id": "story_f2a9b1ff5750",
+      "title": "Six Senses AMAALA opens between desert cliffs, lagoon waters, and the Red Sea coast",
+      "url": "https://insights.ehotelier.com/global-news/2026/07/17/six-senses-amaala-opens-between-desert-cliffs-lagoon-waters-and-the-red-sea-coast/?utm_source=rss&utm_medium=rss&utm_campaign=six-senses-amaala-opens-between-desert-cliffs-lagoon-waters-and-the-red-sea-coast",
+      "primary_url": "https://insights.ehotelier.com/global-news/2026/07/17/six-senses-amaala-opens-between-desert-cliffs-lagoon-waters-and-the-red-sea-coast/?utm_source=rss&utm_medium=rss&utm_campaign=six-senses-amaala-opens-between-desert-cliffs-lagoon-waters-and-the-red-sea-coast",
+      "source": "eHotelier",
+      "source_name": "eHotelier",
+      "sources": [
+        {
+          "id": "hotelitem_f2a9b1ff5750",
+          "title": "Six Senses AMAALA opens between desert cliffs, lagoon waters, and the Red Sea coast",
+          "url": "https://insights.ehotelier.com/global-news/2026/07/17/six-senses-amaala-opens-between-desert-cliffs-lagoon-waters-and-the-red-sea-coast/?utm_source=rss&utm_medium=rss&utm_campaign=six-senses-amaala-opens-between-desert-cliffs-lagoon-waters-and-the-red-sea-coast",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-07-17T01:23:01Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "eHotelier"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_f2a9b1ff5750",
+          "title": "Six Senses AMAALA opens between desert cliffs, lagoon waters, and the Red Sea coast",
+          "url": "https://insights.ehotelier.com/global-news/2026/07/17/six-senses-amaala-opens-between-desert-cliffs-lagoon-waters-and-the-red-sea-coast/?utm_source=rss&utm_medium=rss&utm_campaign=six-senses-amaala-opens-between-desert-cliffs-lagoon-waters-and-the-red-sea-coast",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-07-17T01:23:01Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8646,
+      "importance": 0.5996,
+      "importance_score": 0.8646,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9979,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-17T01:23:01Z",
+      "latest_at": "2026-07-17T01:23:01Z",
+      "primary_item": {
+        "id": "hotelitem_f2a9b1ff5750",
+        "title": "Six Senses AMAALA opens between desert cliffs, lagoon waters, and the Red Sea coast",
+        "url": "https://insights.ehotelier.com/global-news/2026/07/17/six-senses-amaala-opens-between-desert-cliffs-lagoon-waters-and-the-red-sea-coast/?utm_source=rss&utm_medium=rss&utm_campaign=six-senses-amaala-opens-between-desert-cliffs-lagoon-waters-and-the-red-sea-coast",
+        "source": "eHotelier",
+        "source_name": "eHotelier"
+      }
+    },
+    {
+      "story_id": "story_7dd406878018",
+      "title": "Nesuto Apartment Hotels records growth in health and logistics sectors as extended-stay demand rises",
+      "url": "https://insights.ehotelier.com/global-news/2026/07/17/nesuto-apartment-hotels-records-growth-in-health-and-logistics-sectors-as-extended-stay-demand-rises/?utm_source=rss&utm_medium=rss&utm_campaign=nesuto-apartment-hotels-records-growth-in-health-and-logistics-sectors-as-extended-stay-demand-rises",
+      "primary_url": "https://insights.ehotelier.com/global-news/2026/07/17/nesuto-apartment-hotels-records-growth-in-health-and-logistics-sectors-as-extended-stay-demand-rises/?utm_source=rss&utm_medium=rss&utm_campaign=nesuto-apartment-hotels-records-growth-in-health-and-logistics-sectors-as-extended-stay-demand-rises",
+      "source": "eHotelier",
+      "source_name": "eHotelier",
+      "sources": [
+        {
+          "id": "hotelitem_7dd406878018",
+          "title": "Nesuto Apartment Hotels records growth in health and logistics sectors as extended-stay demand rises",
+          "url": "https://insights.ehotelier.com/global-news/2026/07/17/nesuto-apartment-hotels-records-growth-in-health-and-logistics-sectors-as-extended-stay-demand-rises/?utm_source=rss&utm_medium=rss&utm_campaign=nesuto-apartment-hotels-records-growth-in-health-and-logistics-sectors-as-extended-stay-demand-rises",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-07-17T01:31:17Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "eHotelier"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_7dd406878018",
+          "title": "Nesuto Apartment Hotels records growth in health and logistics sectors as extended-stay demand rises",
+          "url": "https://insights.ehotelier.com/global-news/2026/07/17/nesuto-apartment-hotels-records-growth-in-health-and-logistics-sectors-as-extended-stay-demand-rises/?utm_source=rss&utm_medium=rss&utm_campaign=nesuto-apartment-hotels-records-growth-in-health-and-logistics-sectors-as-extended-stay-demand-rises",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-07-17T01:31:17Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8646,
+      "importance": 0.5996,
+      "importance_score": 0.8646,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.998,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-17T01:31:17Z",
+      "latest_at": "2026-07-17T01:31:17Z",
+      "primary_item": {
+        "id": "hotelitem_7dd406878018",
+        "title": "Nesuto Apartment Hotels records growth in health and logistics sectors as extended-stay demand rises",
+        "url": "https://insights.ehotelier.com/global-news/2026/07/17/nesuto-apartment-hotels-records-growth-in-health-and-logistics-sectors-as-extended-stay-demand-rises/?utm_source=rss&utm_medium=rss&utm_campaign=nesuto-apartment-hotels-records-growth-in-health-and-logistics-sectors-as-extended-stay-demand-rises",
+        "source": "eHotelier",
+        "source_name": "eHotelier"
       }
     },
     {
@@ -1019,14 +1019,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8658,
-      "importance": 0.5285,
-      "importance_score": 0.8658,
+      "score": 0.8643,
+      "importance": 0.5275,
+      "importance_score": 0.8643,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.6427,
+        "recency": 0.6377,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1058,7 +1058,7 @@
           "source": "Agoda",
           "source_name": "Agoda",
           "site_id": "agoda_press",
-          "published_at": "2026-07-16T22:16:41.773128Z"
+          "published_at": "2026-07-17T03:40:48.176345Z"
         },
         {
           "id": "hotelitem_4eb38ce2a1e7",
@@ -1067,7 +1067,7 @@
           "source": "Agoda",
           "source_name": "Agoda",
           "site_id": "agoda_press",
-          "published_at": "2026-07-16T22:16:41.773128Z"
+          "published_at": "2026-07-17T03:40:48.176345Z"
         }
       ],
       "source_count": 2,
@@ -1082,7 +1082,7 @@
           "source": "Agoda",
           "source_name": "Agoda",
           "site_id": "agoda_press",
-          "published_at": "2026-07-16T22:16:41.773128Z"
+          "published_at": "2026-07-17T03:40:48.176345Z"
         },
         {
           "id": "hotelitem_4eb38ce2a1e7",
@@ -1091,7 +1091,7 @@
           "source": "Agoda",
           "source_name": "Agoda",
           "site_id": "agoda_press",
-          "published_at": "2026-07-16T22:16:41.773128Z"
+          "published_at": "2026-07-17T03:40:48.176345Z"
         }
       ],
       "item_count": 2,
@@ -1111,8 +1111,8 @@
         "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-16T22:16:41.773128Z",
-      "latest_at": "2026-07-16T22:16:41.773128Z",
+      "earliest_at": "2026-07-17T03:40:48.176345Z",
+      "latest_at": "2026-07-17T03:40:48.176345Z",
       "primary_item": {
         "id": "hotelitem_8198bc289a0c",
         "title": "Agoda Unveils Taiwan H1 Travel Insights: Ban ... Singapore, 14 July 2026 – Digital travel platform Agoda has released the latest insights on travel tre ... July 14, 2026 / Travel Trends",
@@ -1156,14 +1156,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8613,
-      "importance": 0.5961,
-      "importance_score": 0.8613,
+      "score": 0.8603,
+      "importance": 0.5951,
+      "importance_score": 0.8603,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9806,
+        "recency": 0.9756,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1181,65 +1181,6 @@
       }
     },
     {
-      "story_id": "story_1ac9315981ca",
-      "title": "中青旅：上半年净利润同比预降66%",
-      "url": "https://www.meadin.com/wl/298483.html",
-      "primary_url": "https://www.meadin.com/wl/298483.html",
-      "source": "迈点研究院",
-      "source_name": "迈点研究院",
-      "sources": [
-        {
-          "id": "hotelitem_1ac9315981ca",
-          "title": "中青旅：上半年净利润同比预降66%",
-          "url": "https://www.meadin.com/wl/298483.html",
-          "source": "迈点研究院",
-          "source_name": "迈点研究院",
-          "site_id": "meadin",
-          "published_at": "2026-07-16T22:16:41.773128Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "迈点研究院"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_1ac9315981ca",
-          "title": "中青旅：上半年净利润同比预降66%",
-          "url": "https://www.meadin.com/wl/298483.html",
-          "source": "迈点研究院",
-          "source_name": "迈点研究院",
-          "site_id": "meadin",
-          "published_at": "2026-07-16T22:16:41.773128Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.86,
-      "importance": 0.6,
-      "importance_score": 0.86,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-16T22:16:41.773128Z",
-      "latest_at": "2026-07-16T22:16:41.773128Z",
-      "primary_item": {
-        "id": "hotelitem_1ac9315981ca",
-        "title": "中青旅：上半年净利润同比预降66%",
-        "url": "https://www.meadin.com/wl/298483.html",
-        "source": "迈点研究院",
-        "source_name": "迈点研究院"
-      }
-    },
-    {
       "story_id": "story_59179e8d4d95",
       "title": "5项文化和旅游行业标准发布",
       "url": "https://www.mct.gov.cn/whzx/bnsj/whkjs/202607/t20260716_966560.html",
@@ -1254,7 +1195,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-07-16T22:16:41.773128Z"
+          "published_at": "2026-07-17T03:40:48.176345Z"
         }
       ],
       "source_count": 1,
@@ -1269,7 +1210,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-07-16T22:16:41.773128Z"
+          "published_at": "2026-07-17T03:40:48.176345Z"
         }
       ],
       "item_count": 1,
@@ -1288,8 +1229,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-16T22:16:41.773128Z",
-      "latest_at": "2026-07-16T22:16:41.773128Z",
+      "earliest_at": "2026-07-17T03:40:48.176345Z",
+      "latest_at": "2026-07-17T03:40:48.176345Z",
       "primary_item": {
         "id": "hotelitem_59179e8d4d95",
         "title": "5项文化和旅游行业标准发布",
@@ -1313,7 +1254,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-07-16T22:16:41.773128Z"
+          "published_at": "2026-07-17T03:40:48.176345Z"
         }
       ],
       "source_count": 1,
@@ -1328,7 +1269,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-07-16T22:16:41.773128Z"
+          "published_at": "2026-07-17T03:40:48.176345Z"
         }
       ],
       "item_count": 1,
@@ -1347,8 +1288,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-16T22:16:41.773128Z",
-      "latest_at": "2026-07-16T22:16:41.773128Z",
+      "earliest_at": "2026-07-17T03:40:48.176345Z",
+      "latest_at": "2026-07-17T03:40:48.176345Z",
       "primary_item": {
         "id": "hotelitem_e4ce0593c384",
         "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
@@ -1372,7 +1313,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-07-16T22:16:41.773128Z"
+          "published_at": "2026-07-17T03:40:48.176345Z"
         }
       ],
       "source_count": 1,
@@ -1387,7 +1328,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-07-16T22:16:41.773128Z"
+          "published_at": "2026-07-17T03:40:48.176345Z"
         }
       ],
       "item_count": 1,
@@ -1406,8 +1347,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-16T22:16:41.773128Z",
-      "latest_at": "2026-07-16T22:16:41.773128Z",
+      "earliest_at": "2026-07-17T03:40:48.176345Z",
+      "latest_at": "2026-07-17T03:40:48.176345Z",
       "primary_item": {
         "id": "hotelitem_fa34986b4fc0",
         "title": "文化和旅游部、金融监管总局关于警惕借“保...",
@@ -1431,7 +1372,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-07-16T22:16:41.773128Z"
+          "published_at": "2026-07-17T03:40:48.176345Z"
         }
       ],
       "source_count": 1,
@@ -1446,7 +1387,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-07-16T22:16:41.773128Z"
+          "published_at": "2026-07-17T03:40:48.176345Z"
         }
       ],
       "item_count": 1,
@@ -1465,8 +1406,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-16T22:16:41.773128Z",
-      "latest_at": "2026-07-16T22:16:41.773128Z",
+      "earliest_at": "2026-07-17T03:40:48.176345Z",
+      "latest_at": "2026-07-17T03:40:48.176345Z",
       "primary_item": {
         "id": "hotelitem_6bb66367ea13",
         "title": "文化和旅游部产业项目服务平台第47期精品...",
@@ -1490,7 +1431,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-07-16T22:16:41.773128Z"
+          "published_at": "2026-07-17T03:40:48.176345Z"
         }
       ],
       "source_count": 1,
@@ -1505,7 +1446,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-07-16T22:16:41.773128Z"
+          "published_at": "2026-07-17T03:40:48.176345Z"
         }
       ],
       "item_count": 1,
@@ -1524,8 +1465,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-16T22:16:41.773128Z",
-      "latest_at": "2026-07-16T22:16:41.773128Z",
+      "earliest_at": "2026-07-17T03:40:48.176345Z",
+      "latest_at": "2026-07-17T03:40:48.176345Z",
       "primary_item": {
         "id": "hotelitem_9a958319a874",
         "title": "文化和旅游部印发《旅游强国建设“十五五”...",
@@ -1549,7 +1490,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-07-16T22:16:41.773128Z"
+          "published_at": "2026-07-17T03:40:48.176345Z"
         }
       ],
       "source_count": 1,
@@ -1564,7 +1505,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-07-16T22:16:41.773128Z"
+          "published_at": "2026-07-17T03:40:48.176345Z"
         }
       ],
       "item_count": 1,
@@ -1583,8 +1524,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-16T22:16:41.773128Z",
-      "latest_at": "2026-07-16T22:16:41.773128Z",
+      "earliest_at": "2026-07-17T03:40:48.176345Z",
+      "latest_at": "2026-07-17T03:40:48.176345Z",
       "primary_item": {
         "id": "hotelitem_9a179dce1533",
         "title": "文化和旅游部第16期西藏文化和旅游管理干...",
@@ -1628,14 +1569,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8548,
-      "importance": 0.5894,
-      "importance_score": 0.8548,
+      "score": 0.8538,
+      "importance": 0.5884,
+      "importance_score": 0.8538,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9472,
+        "recency": 0.9422,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1687,14 +1628,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8505,
-      "importance": 0.585,
-      "importance_score": 0.8505,
+      "score": 0.8496,
+      "importance": 0.584,
+      "importance_score": 0.8496,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9249,
+        "recency": 0.9199,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1746,14 +1687,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8502,
-      "importance": 0.5847,
-      "importance_score": 0.8502,
+      "score": 0.8493,
+      "importance": 0.5837,
+      "importance_score": 0.8493,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9234,
+        "recency": 0.9184,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1771,62 +1712,121 @@
       }
     },
     {
-      "story_id": "story_c2ae7ac5bd49",
-      "title": "Relais & Châteaux adds 10 hotel and restaurant members",
-      "url": "https://boutiquehotelnews.com/news/industry/relais-chateaux/?utm_source=rss&utm_medium=rss&utm_campaign=relais-chateaux",
-      "primary_url": "https://boutiquehotelnews.com/news/industry/relais-chateaux/?utm_source=rss&utm_medium=rss&utm_campaign=relais-chateaux",
-      "source": "Boutique Hotel News",
-      "source_name": "Boutique Hotel News",
+      "story_id": "story_08dc8d90e85e",
+      "title": "How accessibility features can help hotels win guests in an aging America",
+      "url": "https://www.hoteldive.com/news/how-accessibility-can-help-hotels-win-aging-guests/824963/",
+      "primary_url": "https://www.hoteldive.com/news/how-accessibility-can-help-hotels-win-aging-guests/824963/",
+      "source": "Hotel Dive",
+      "source_name": "Hotel Dive",
       "sources": [
         {
-          "id": "hotelitem_c2ae7ac5bd49",
-          "title": "Relais & Châteaux adds 10 hotel and restaurant members",
-          "url": "https://boutiquehotelnews.com/news/industry/relais-chateaux/?utm_source=rss&utm_medium=rss&utm_campaign=relais-chateaux",
-          "source": "Boutique Hotel News",
-          "source_name": "Boutique Hotel News",
-          "site_id": "boutiquehotel",
-          "published_at": "2026-07-16T09:46:35Z"
+          "id": "hotelitem_08dc8d90e85e",
+          "title": "How accessibility features can help hotels win guests in an aging America",
+          "url": "https://www.hoteldive.com/news/how-accessibility-can-help-hotels-win-aging-guests/824963/",
+          "source": "Hotel Dive",
+          "source_name": "Hotel Dive",
+          "site_id": "hoteldive",
+          "published_at": "2026-07-10T15:29:09Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Boutique Hotel News"
+        "Hotel Dive"
       ],
       "items": [
         {
-          "id": "hotelitem_c2ae7ac5bd49",
-          "title": "Relais & Châteaux adds 10 hotel and restaurant members",
-          "url": "https://boutiquehotelnews.com/news/industry/relais-chateaux/?utm_source=rss&utm_medium=rss&utm_campaign=relais-chateaux",
-          "source": "Boutique Hotel News",
-          "source_name": "Boutique Hotel News",
-          "site_id": "boutiquehotel",
-          "published_at": "2026-07-16T09:46:35Z"
+          "id": "hotelitem_08dc8d90e85e",
+          "title": "How accessibility features can help hotels win guests in an aging America",
+          "url": "https://www.hoteldive.com/news/how-accessibility-can-help-hotels-win-aging-guests/824963/",
+          "source": "Hotel Dive",
+          "source_name": "Hotel Dive",
+          "site_id": "hoteldive",
+          "published_at": "2026-07-10T15:29:09Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8478,
-      "importance": 0.5977,
-      "importance_score": 0.8478,
+      "score": 0.8371,
+      "importance": 0.5711,
+      "importance_score": 0.8371,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9884,
+        "recency": 0.8554,
         "story_heat": 0.0
       },
       "category": "watch",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-16T09:46:35Z",
-      "latest_at": "2026-07-16T09:46:35Z",
+      "earliest_at": "2026-07-10T15:29:09Z",
+      "latest_at": "2026-07-10T15:29:09Z",
       "primary_item": {
-        "id": "hotelitem_c2ae7ac5bd49",
-        "title": "Relais & Châteaux adds 10 hotel and restaurant members",
-        "url": "https://boutiquehotelnews.com/news/industry/relais-chateaux/?utm_source=rss&utm_medium=rss&utm_campaign=relais-chateaux",
-        "source": "Boutique Hotel News",
-        "source_name": "Boutique Hotel News"
+        "id": "hotelitem_08dc8d90e85e",
+        "title": "How accessibility features can help hotels win guests in an aging America",
+        "url": "https://www.hoteldive.com/news/how-accessibility-can-help-hotels-win-aging-guests/824963/",
+        "source": "Hotel Dive",
+        "source_name": "Hotel Dive"
+      }
+    },
+    {
+      "story_id": "story_c7b345fb316c",
+      "title": "Accelerate Energy Savings. Reduce Your Capital Costs.",
+      "url": "https://www.hotelmanagement.net/resource/accelerate-energy-savings-reduce-your-capital-costs",
+      "primary_url": "https://www.hotelmanagement.net/resource/accelerate-energy-savings-reduce-your-capital-costs",
+      "source": "Hotel Management",
+      "source_name": "Hotel Management",
+      "sources": [
+        {
+          "id": "hotelitem_c7b345fb316c",
+          "title": "Accelerate Energy Savings. Reduce Your Capital Costs.",
+          "url": "https://www.hotelmanagement.net/resource/accelerate-energy-savings-reduce-your-capital-costs",
+          "source": "Hotel Management",
+          "source_name": "Hotel Management",
+          "site_id": "hotelmgmt",
+          "published_at": "2026-07-10T14:06:39Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hotel Management"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_c7b345fb316c",
+          "title": "Accelerate Energy Savings. Reduce Your Capital Costs.",
+          "url": "https://www.hotelmanagement.net/resource/accelerate-energy-savings-reduce-your-capital-costs",
+          "source": "Hotel Management",
+          "source_name": "Hotel Management",
+          "site_id": "hotelmgmt",
+          "published_at": "2026-07-10T14:06:39Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8369,
+      "importance": 0.5708,
+      "importance_score": 0.8369,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.8541,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-10T14:06:39Z",
+      "latest_at": "2026-07-10T14:06:39Z",
+      "primary_item": {
+        "id": "hotelitem_c7b345fb316c",
+        "title": "Accelerate Energy Savings. Reduce Your Capital Costs.",
+        "url": "https://www.hotelmanagement.net/resource/accelerate-energy-savings-reduce-your-capital-costs",
+        "source": "Hotel Management",
+        "source_name": "Hotel Management"
       }
     }
   ]
