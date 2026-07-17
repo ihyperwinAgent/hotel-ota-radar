@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17T10:58:23.310884Z",
+  "generated_at": "2026-07-17T14:05:08.364072Z",
   "window_hours": 1080,
   "total_items": 30,
   "items": [
@@ -38,14 +38,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9724,
-      "importance": 0.562,
-      "importance_score": 0.9724,
+      "score": 0.9716,
+      "importance": 0.5614,
+      "importance_score": 0.9716,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8101,
+        "recency": 0.8072,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -60,6 +60,65 @@
         "url": "https://www.traveldaily.cn/article/190359",
         "source": "环球旅讯 TravelDaily",
         "source_name": "环球旅讯 TravelDaily"
+      }
+    },
+    {
+      "story_id": "story_f0a2e8e00402",
+      "title": "Ashford Hospitality Trust sells Fremont Marriott Silicon Valley for $53M",
+      "url": "https://www.hoteldive.com/news/ashford-hospitality-trust-sells-fremont-marriott-silicon-valley/825518/",
+      "primary_url": "https://www.hoteldive.com/news/ashford-hospitality-trust-sells-fremont-marriott-silicon-valley/825518/",
+      "source": "Hotel Dive",
+      "source_name": "Hotel Dive",
+      "sources": [
+        {
+          "id": "hotelitem_f0a2e8e00402",
+          "title": "Ashford Hospitality Trust sells Fremont Marriott Silicon Valley for $53M",
+          "url": "https://www.hoteldive.com/news/ashford-hospitality-trust-sells-fremont-marriott-silicon-valley/825518/",
+          "source": "Hotel Dive",
+          "source_name": "Hotel Dive",
+          "site_id": "hoteldive",
+          "published_at": "2026-07-17T13:13:30Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hotel Dive"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_f0a2e8e00402",
+          "title": "Ashford Hospitality Trust sells Fremont Marriott Silicon Valley for $53M",
+          "url": "https://www.hoteldive.com/news/ashford-hospitality-trust-sells-fremont-marriott-silicon-valley/825518/",
+          "source": "Hotel Dive",
+          "source_name": "Hotel Dive",
+          "site_id": "hoteldive",
+          "published_at": "2026-07-17T13:13:30Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.9548,
+      "importance": 0.5998,
+      "importance_score": 0.9548,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9992,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-17T13:13:30Z",
+      "latest_at": "2026-07-17T13:13:30Z",
+      "primary_item": {
+        "id": "hotelitem_f0a2e8e00402",
+        "title": "Ashford Hospitality Trust sells Fremont Marriott Silicon Valley for $53M",
+        "url": "https://www.hoteldive.com/news/ashford-hospitality-trust-sells-fremont-marriott-silicon-valley/825518/",
+        "source": "Hotel Dive",
+        "source_name": "Hotel Dive"
       }
     },
     {
@@ -97,14 +156,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9533,
-      "importance": 0.5983,
-      "importance_score": 0.9533,
+      "score": 0.9528,
+      "importance": 0.5977,
+      "importance_score": 0.9528,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9914,
+        "recency": 0.9885,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -156,14 +215,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9532,
-      "importance": 0.5981,
-      "importance_score": 0.9532,
+      "score": 0.9527,
+      "importance": 0.5976,
+      "importance_score": 0.9527,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9907,
+        "recency": 0.9878,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -178,65 +237,6 @@
         "url": "https://insights.ehotelier.com/properties/2026/07/17/radisson-resort-layan-phuket-opens-on-phukets-peaceful-northwest-coast/?utm_source=rss&utm_medium=rss&utm_campaign=radisson-resort-layan-phuket-opens-on-phukets-peaceful-northwest-coast",
         "source": "eHotelier",
         "source_name": "eHotelier"
-      }
-    },
-    {
-      "story_id": "story_0f14165f8c65",
-      "title": "Hilton completes $100M renovation on first LXR hotel in Hawaii",
-      "url": "https://www.hoteldive.com/news/hilton-completes-100m-renovation-first-lxr-hotel-hawaii/825400/",
-      "primary_url": "https://www.hoteldive.com/news/hilton-completes-100m-renovation-first-lxr-hotel-hawaii/825400/",
-      "source": "Hotel Dive",
-      "source_name": "Hotel Dive",
-      "sources": [
-        {
-          "id": "hotelitem_0f14165f8c65",
-          "title": "Hilton completes $100M renovation on first LXR hotel in Hawaii",
-          "url": "https://www.hoteldive.com/news/hilton-completes-100m-renovation-first-lxr-hotel-hawaii/825400/",
-          "source": "Hotel Dive",
-          "source_name": "Hotel Dive",
-          "site_id": "hoteldive",
-          "published_at": "2026-07-16T14:05:52Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hotel Dive"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_0f14165f8c65",
-          "title": "Hilton completes $100M renovation on first LXR hotel in Hawaii",
-          "url": "https://www.hoteldive.com/news/hilton-completes-100m-renovation-first-lxr-hotel-hawaii/825400/",
-          "source": "Hotel Dive",
-          "source_name": "Hotel Dive",
-          "site_id": "hoteldive",
-          "published_at": "2026-07-16T14:05:52Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.9513,
-      "importance": 0.5961,
-      "importance_score": 0.9513,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9807,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-16T14:05:52Z",
-      "latest_at": "2026-07-16T14:05:52Z",
-      "primary_item": {
-        "id": "hotelitem_0f14165f8c65",
-        "title": "Hilton completes $100M renovation on first LXR hotel in Hawaii",
-        "url": "https://www.hoteldive.com/news/hilton-completes-100m-renovation-first-lxr-hotel-hawaii/825400/",
-        "source": "Hotel Dive",
-        "source_name": "Hotel Dive"
       }
     },
     {
@@ -274,14 +274,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9512,
-      "importance": 0.5961,
-      "importance_score": 0.9512,
+      "score": 0.9507,
+      "importance": 0.5955,
+      "importance_score": 0.9507,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9805,
+        "recency": 0.9776,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -294,6 +294,65 @@
         "id": "hotelitem_f5e73e82c51c",
         "title": "Travelers are booking hotel stays based on F&B: report",
         "url": "https://www.hoteldive.com/news/hotel-restaurant-travel-booking-trends/825399/",
+        "source": "Hotel Dive",
+        "source_name": "Hotel Dive"
+      }
+    },
+    {
+      "story_id": "story_0f14165f8c65",
+      "title": "Hilton completes $100M renovation on first LXR hotel in Hawaii",
+      "url": "https://www.hoteldive.com/news/hilton-completes-100m-renovation-first-lxr-hotel-hawaii/825400/",
+      "primary_url": "https://www.hoteldive.com/news/hilton-completes-100m-renovation-first-lxr-hotel-hawaii/825400/",
+      "source": "Hotel Dive",
+      "source_name": "Hotel Dive",
+      "sources": [
+        {
+          "id": "hotelitem_0f14165f8c65",
+          "title": "Hilton completes $100M renovation on first LXR hotel in Hawaii",
+          "url": "https://www.hoteldive.com/news/hilton-completes-100m-renovation-first-lxr-hotel-hawaii/825400/",
+          "source": "Hotel Dive",
+          "source_name": "Hotel Dive",
+          "site_id": "hoteldive",
+          "published_at": "2026-07-16T14:05:52Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hotel Dive"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_0f14165f8c65",
+          "title": "Hilton completes $100M renovation on first LXR hotel in Hawaii",
+          "url": "https://www.hoteldive.com/news/hilton-completes-100m-renovation-first-lxr-hotel-hawaii/825400/",
+          "source": "Hotel Dive",
+          "source_name": "Hotel Dive",
+          "site_id": "hoteldive",
+          "published_at": "2026-07-16T14:05:52Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.9507,
+      "importance": 0.5956,
+      "importance_score": 0.9507,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9778,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-16T14:05:52Z",
+      "latest_at": "2026-07-16T14:05:52Z",
+      "primary_item": {
+        "id": "hotelitem_0f14165f8c65",
+        "title": "Hilton completes $100M renovation on first LXR hotel in Hawaii",
+        "url": "https://www.hoteldive.com/news/hilton-completes-100m-renovation-first-lxr-hotel-hawaii/825400/",
         "source": "Hotel Dive",
         "source_name": "Hotel Dive"
       }
@@ -313,7 +372,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-07-17T10:58:23.310884Z"
+          "published_at": "2026-07-17T14:05:08.364072Z"
         }
       ],
       "source_count": 1,
@@ -328,7 +387,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-07-17T10:58:23.310884Z"
+          "published_at": "2026-07-17T14:05:08.364072Z"
         }
       ],
       "item_count": 1,
@@ -347,8 +406,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-17T10:58:23.310884Z",
-      "latest_at": "2026-07-17T10:58:23.310884Z",
+      "earliest_at": "2026-07-17T14:05:08.364072Z",
+      "latest_at": "2026-07-17T14:05:08.364072Z",
       "primary_item": {
         "id": "hotelitem_9699887c72ea",
         "title": "中国旅游研究院与中青旅控股股份有限公司开展主题党日联学联",
@@ -392,14 +451,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9424,
-      "importance": 0.5869,
-      "importance_score": 0.9424,
+      "score": 0.9418,
+      "importance": 0.5863,
+      "importance_score": 0.9418,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9346,
+        "recency": 0.9317,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -451,14 +510,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9263,
-      "importance": 0.5702,
-      "importance_score": 0.9263,
+      "score": 0.9257,
+      "importance": 0.5696,
+      "importance_score": 0.9257,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8509,
+        "recency": 0.8481,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -473,65 +532,6 @@
         "url": "https://skift.com/2026/07/10/accor-hires-banks-for-ennismores-u-s-ipo-report/",
         "source": "Skift Hospitality",
         "source_name": "Skift Hospitality"
-      }
-    },
-    {
-      "story_id": "story_d18c0411418c",
-      "title": "Fertitta advances Caesars acquisition process, but obstacles remain",
-      "url": "https://www.hoteldive.com/news/nevada-regulators-approve-fertitta-executives-amid-caesars-acquisition-process/824936/",
-      "primary_url": "https://www.hoteldive.com/news/nevada-regulators-approve-fertitta-executives-amid-caesars-acquisition-process/824936/",
-      "source": "Hotel Dive",
-      "source_name": "Hotel Dive",
-      "sources": [
-        {
-          "id": "hotelitem_d18c0411418c",
-          "title": "Fertitta advances Caesars acquisition process, but obstacles remain",
-          "url": "https://www.hoteldive.com/news/nevada-regulators-approve-fertitta-executives-amid-caesars-acquisition-process/824936/",
-          "source": "Hotel Dive",
-          "source_name": "Hotel Dive",
-          "site_id": "hoteldive",
-          "published_at": "2026-07-10T13:26:15Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hotel Dive"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_d18c0411418c",
-          "title": "Fertitta advances Caesars acquisition process, but obstacles remain",
-          "url": "https://www.hoteldive.com/news/nevada-regulators-approve-fertitta-executives-amid-caesars-acquisition-process/824936/",
-          "source": "Hotel Dive",
-          "source_name": "Hotel Dive",
-          "site_id": "hoteldive",
-          "published_at": "2026-07-10T13:26:15Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.9254,
-      "importance": 0.5693,
-      "importance_score": 0.9254,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.8467,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-10T13:26:15Z",
-      "latest_at": "2026-07-10T13:26:15Z",
-      "primary_item": {
-        "id": "hotelitem_d18c0411418c",
-        "title": "Fertitta advances Caesars acquisition process, but obstacles remain",
-        "url": "https://www.hoteldive.com/news/nevada-regulators-approve-fertitta-executives-amid-caesars-acquisition-process/824936/",
-        "source": "Hotel Dive",
-        "source_name": "Hotel Dive"
       }
     },
     {
@@ -569,14 +569,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9105,
-      "importance": 0.5694,
-      "importance_score": 0.9105,
+      "score": 0.91,
+      "importance": 0.5689,
+      "importance_score": 0.91,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8472,
+        "recency": 0.8443,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -608,7 +608,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-17T10:58:23.310884Z"
+          "published_at": "2026-07-17T14:05:08.364072Z"
         },
         {
           "id": "hotelitem_c7c15b7680c9",
@@ -617,7 +617,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-17T10:58:23.310884Z"
+          "published_at": "2026-07-17T14:05:08.364072Z"
         },
         {
           "id": "hotelitem_6d8fa145e8af",
@@ -626,7 +626,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-17T10:58:23.310884Z"
+          "published_at": "2026-07-17T14:05:08.364072Z"
         }
       ],
       "source_count": 3,
@@ -641,7 +641,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-17T10:58:23.310884Z"
+          "published_at": "2026-07-17T14:05:08.364072Z"
         },
         {
           "id": "hotelitem_c7c15b7680c9",
@@ -650,7 +650,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-17T10:58:23.310884Z"
+          "published_at": "2026-07-17T14:05:08.364072Z"
         },
         {
           "id": "hotelitem_6d8fa145e8af",
@@ -659,7 +659,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-17T10:58:23.310884Z"
+          "published_at": "2026-07-17T14:05:08.364072Z"
         }
       ],
       "item_count": 3,
@@ -679,8 +679,8 @@
         "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-17T10:58:23.310884Z",
-      "latest_at": "2026-07-17T10:58:23.310884Z",
+      "earliest_at": "2026-07-17T14:05:08.364072Z",
+      "latest_at": "2026-07-17T14:05:08.364072Z",
       "primary_item": {
         "id": "hotelitem_d4370964909c",
         "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
@@ -724,14 +724,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9093,
-      "importance": 0.5863,
-      "importance_score": 0.9093,
+      "score": 0.9087,
+      "importance": 0.5857,
+      "importance_score": 0.9087,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9313,
+        "recency": 0.9285,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -763,7 +763,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-17T10:58:23.310884Z"
+          "published_at": "2026-07-17T14:05:08.364072Z"
         }
       ],
       "source_count": 1,
@@ -778,7 +778,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-17T10:58:23.310884Z"
+          "published_at": "2026-07-17T14:05:08.364072Z"
         }
       ],
       "item_count": 1,
@@ -797,8 +797,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-17T10:58:23.310884Z",
-      "latest_at": "2026-07-17T10:58:23.310884Z",
+      "earliest_at": "2026-07-17T14:05:08.364072Z",
+      "latest_at": "2026-07-17T14:05:08.364072Z",
       "primary_item": {
         "id": "hotelitem_2c7d18362dc5",
         "title": "协会动态 | 中国饭店协会休闲度假专业委员会一届一次主任办公会在太仓召开 2026年7月8日，中国饭店协会休闲度假专业委员会一届一次主任办公会在太仓金茂隐逸玫瑰庄园度假酒店召开。中国饭店协会会长陈新华，中国饭店协会副会长、休闲度假专业委员会主任委员、君澜酒店董事长兼总裁王建平，苏州市旅游饭店业协会会长孙子元出席会议。会议由中国饭店协会副秘书长张乐然主持。",
@@ -822,7 +822,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-07-17T10:58:23.310884Z"
+          "published_at": "2026-07-17T14:05:08.364072Z"
         }
       ],
       "source_count": 1,
@@ -837,7 +837,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-07-17T10:58:23.310884Z"
+          "published_at": "2026-07-17T14:05:08.364072Z"
         }
       ],
       "item_count": 1,
@@ -856,8 +856,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-17T10:58:23.310884Z",
-      "latest_at": "2026-07-17T10:58:23.310884Z",
+      "earliest_at": "2026-07-17T14:05:08.364072Z",
+      "latest_at": "2026-07-17T14:05:08.364072Z",
       "primary_item": {
         "id": "hotelitem_d34e2868e8eb",
         "title": "惠评文旅|18亿收购，君亭没卖成，国资文旅买壳真正逻辑是什么？",
@@ -881,7 +881,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-07-17T10:58:23.310884Z"
+          "published_at": "2026-07-17T14:05:08.364072Z"
         }
       ],
       "source_count": 1,
@@ -896,7 +896,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-07-17T10:58:23.310884Z"
+          "published_at": "2026-07-17T14:05:08.364072Z"
         }
       ],
       "item_count": 1,
@@ -915,8 +915,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-17T10:58:23.310884Z",
-      "latest_at": "2026-07-17T10:58:23.310884Z",
+      "earliest_at": "2026-07-17T14:05:08.364072Z",
+      "latest_at": "2026-07-17T14:05:08.364072Z",
       "primary_item": {
         "id": "hotelitem_2c03113fa391",
         "title": "文旅惠报|飞猪与浙旅投集团达成战略合作；凯联国际酒店年度亏损收窄至4.74亿港元",
@@ -940,7 +940,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-07-17T10:58:23.310884Z"
+          "published_at": "2026-07-17T14:05:08.364072Z"
         }
       ],
       "source_count": 1,
@@ -955,7 +955,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-07-17T10:58:23.310884Z"
+          "published_at": "2026-07-17T14:05:08.364072Z"
         }
       ],
       "item_count": 1,
@@ -974,8 +974,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-17T10:58:23.310884Z",
-      "latest_at": "2026-07-17T10:58:23.310884Z",
+      "earliest_at": "2026-07-17T14:05:08.364072Z",
+      "latest_at": "2026-07-17T14:05:08.364072Z",
       "primary_item": {
         "id": "hotelitem_50c135faab60",
         "title": "文旅惠报|首旅集团拟发行20亿元超短期融资券，期限95天；广西旅发集团任命向红为副董事长、总经理",
@@ -985,62 +985,62 @@
       }
     },
     {
-      "story_id": "story_f2a9b1ff5750",
-      "title": "Six Senses AMAALA opens between desert cliffs, lagoon waters, and the Red Sea coast",
-      "url": "https://insights.ehotelier.com/global-news/2026/07/17/six-senses-amaala-opens-between-desert-cliffs-lagoon-waters-and-the-red-sea-coast/?utm_source=rss&utm_medium=rss&utm_campaign=six-senses-amaala-opens-between-desert-cliffs-lagoon-waters-and-the-red-sea-coast",
-      "primary_url": "https://insights.ehotelier.com/global-news/2026/07/17/six-senses-amaala-opens-between-desert-cliffs-lagoon-waters-and-the-red-sea-coast/?utm_source=rss&utm_medium=rss&utm_campaign=six-senses-amaala-opens-between-desert-cliffs-lagoon-waters-and-the-red-sea-coast",
-      "source": "eHotelier",
-      "source_name": "eHotelier",
+      "story_id": "story_e2ef92852037",
+      "title": "Lodging Lowdown: Travel + Leisure Co. makes pair of acquisitions, Peregrine grows presence in Napa Valley",
+      "url": "https://www.hoteldive.com/news/lodging-lowdown-travel-leisure-co-makes-pair-of-acquisitions-peregrine/825501/",
+      "primary_url": "https://www.hoteldive.com/news/lodging-lowdown-travel-leisure-co-makes-pair-of-acquisitions-peregrine/825501/",
+      "source": "Hotel Dive",
+      "source_name": "Hotel Dive",
       "sources": [
         {
-          "id": "hotelitem_f2a9b1ff5750",
-          "title": "Six Senses AMAALA opens between desert cliffs, lagoon waters, and the Red Sea coast",
-          "url": "https://insights.ehotelier.com/global-news/2026/07/17/six-senses-amaala-opens-between-desert-cliffs-lagoon-waters-and-the-red-sea-coast/?utm_source=rss&utm_medium=rss&utm_campaign=six-senses-amaala-opens-between-desert-cliffs-lagoon-waters-and-the-red-sea-coast",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-07-17T01:23:01Z"
+          "id": "hotelitem_e2ef92852037",
+          "title": "Lodging Lowdown: Travel + Leisure Co. makes pair of acquisitions, Peregrine grows presence in Napa Valley",
+          "url": "https://www.hoteldive.com/news/lodging-lowdown-travel-leisure-co-makes-pair-of-acquisitions-peregrine/825501/",
+          "source": "Hotel Dive",
+          "source_name": "Hotel Dive",
+          "site_id": "hoteldive",
+          "published_at": "2026-07-17T03:58:53Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "eHotelier"
+        "Hotel Dive"
       ],
       "items": [
         {
-          "id": "hotelitem_f2a9b1ff5750",
-          "title": "Six Senses AMAALA opens between desert cliffs, lagoon waters, and the Red Sea coast",
-          "url": "https://insights.ehotelier.com/global-news/2026/07/17/six-senses-amaala-opens-between-desert-cliffs-lagoon-waters-and-the-red-sea-coast/?utm_source=rss&utm_medium=rss&utm_campaign=six-senses-amaala-opens-between-desert-cliffs-lagoon-waters-and-the-red-sea-coast",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-07-17T01:23:01Z"
+          "id": "hotelitem_e2ef92852037",
+          "title": "Lodging Lowdown: Travel + Leisure Co. makes pair of acquisitions, Peregrine grows presence in Napa Valley",
+          "url": "https://www.hoteldive.com/news/lodging-lowdown-travel-leisure-co-makes-pair-of-acquisitions-peregrine/825501/",
+          "source": "Hotel Dive",
+          "source_name": "Hotel Dive",
+          "site_id": "hoteldive",
+          "published_at": "2026-07-17T03:58:53Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8633,
-      "importance": 0.5982,
-      "importance_score": 0.8633,
+      "score": 0.8632,
+      "importance": 0.5981,
+      "importance_score": 0.8632,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9911,
+        "recency": 0.9906,
         "story_heat": 0.0
       },
       "category": "watch",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-17T01:23:01Z",
-      "latest_at": "2026-07-17T01:23:01Z",
+      "earliest_at": "2026-07-17T03:58:53Z",
+      "latest_at": "2026-07-17T03:58:53Z",
       "primary_item": {
-        "id": "hotelitem_f2a9b1ff5750",
-        "title": "Six Senses AMAALA opens between desert cliffs, lagoon waters, and the Red Sea coast",
-        "url": "https://insights.ehotelier.com/global-news/2026/07/17/six-senses-amaala-opens-between-desert-cliffs-lagoon-waters-and-the-red-sea-coast/?utm_source=rss&utm_medium=rss&utm_campaign=six-senses-amaala-opens-between-desert-cliffs-lagoon-waters-and-the-red-sea-coast",
-        "source": "eHotelier",
-        "source_name": "eHotelier"
+        "id": "hotelitem_e2ef92852037",
+        "title": "Lodging Lowdown: Travel + Leisure Co. makes pair of acquisitions, Peregrine grows presence in Napa Valley",
+        "url": "https://www.hoteldive.com/news/lodging-lowdown-travel-leisure-co-makes-pair-of-acquisitions-peregrine/825501/",
+        "source": "Hotel Dive",
+        "source_name": "Hotel Dive"
       }
     },
     {
@@ -1078,14 +1078,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8633,
-      "importance": 0.5982,
-      "importance_score": 0.8633,
+      "score": 0.8628,
+      "importance": 0.5977,
+      "importance_score": 0.8628,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9912,
+        "recency": 0.9884,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1098,6 +1098,65 @@
         "id": "hotelitem_7dd406878018",
         "title": "Nesuto Apartment Hotels records growth in health and logistics sectors as extended-stay demand rises",
         "url": "https://insights.ehotelier.com/global-news/2026/07/17/nesuto-apartment-hotels-records-growth-in-health-and-logistics-sectors-as-extended-stay-demand-rises/?utm_source=rss&utm_medium=rss&utm_campaign=nesuto-apartment-hotels-records-growth-in-health-and-logistics-sectors-as-extended-stay-demand-rises",
+        "source": "eHotelier",
+        "source_name": "eHotelier"
+      }
+    },
+    {
+      "story_id": "story_f2a9b1ff5750",
+      "title": "Six Senses AMAALA opens between desert cliffs, lagoon waters, and the Red Sea coast",
+      "url": "https://insights.ehotelier.com/global-news/2026/07/17/six-senses-amaala-opens-between-desert-cliffs-lagoon-waters-and-the-red-sea-coast/?utm_source=rss&utm_medium=rss&utm_campaign=six-senses-amaala-opens-between-desert-cliffs-lagoon-waters-and-the-red-sea-coast",
+      "primary_url": "https://insights.ehotelier.com/global-news/2026/07/17/six-senses-amaala-opens-between-desert-cliffs-lagoon-waters-and-the-red-sea-coast/?utm_source=rss&utm_medium=rss&utm_campaign=six-senses-amaala-opens-between-desert-cliffs-lagoon-waters-and-the-red-sea-coast",
+      "source": "eHotelier",
+      "source_name": "eHotelier",
+      "sources": [
+        {
+          "id": "hotelitem_f2a9b1ff5750",
+          "title": "Six Senses AMAALA opens between desert cliffs, lagoon waters, and the Red Sea coast",
+          "url": "https://insights.ehotelier.com/global-news/2026/07/17/six-senses-amaala-opens-between-desert-cliffs-lagoon-waters-and-the-red-sea-coast/?utm_source=rss&utm_medium=rss&utm_campaign=six-senses-amaala-opens-between-desert-cliffs-lagoon-waters-and-the-red-sea-coast",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-07-17T01:23:01Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "eHotelier"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_f2a9b1ff5750",
+          "title": "Six Senses AMAALA opens between desert cliffs, lagoon waters, and the Red Sea coast",
+          "url": "https://insights.ehotelier.com/global-news/2026/07/17/six-senses-amaala-opens-between-desert-cliffs-lagoon-waters-and-the-red-sea-coast/?utm_source=rss&utm_medium=rss&utm_campaign=six-senses-amaala-opens-between-desert-cliffs-lagoon-waters-and-the-red-sea-coast",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-07-17T01:23:01Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8627,
+      "importance": 0.5976,
+      "importance_score": 0.8627,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9882,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-17T01:23:01Z",
+      "latest_at": "2026-07-17T01:23:01Z",
+      "primary_item": {
+        "id": "hotelitem_f2a9b1ff5750",
+        "title": "Six Senses AMAALA opens between desert cliffs, lagoon waters, and the Red Sea coast",
+        "url": "https://insights.ehotelier.com/global-news/2026/07/17/six-senses-amaala-opens-between-desert-cliffs-lagoon-waters-and-the-red-sea-coast/?utm_source=rss&utm_medium=rss&utm_campaign=six-senses-amaala-opens-between-desert-cliffs-lagoon-waters-and-the-red-sea-coast",
         "source": "eHotelier",
         "source_name": "eHotelier"
       }
@@ -1117,7 +1176,7 @@
           "source": "Agoda",
           "source_name": "Agoda",
           "site_id": "agoda_press",
-          "published_at": "2026-07-17T10:58:23.310884Z"
+          "published_at": "2026-07-17T14:05:08.364072Z"
         },
         {
           "id": "hotelitem_4eb38ce2a1e7",
@@ -1126,7 +1185,7 @@
           "source": "Agoda",
           "source_name": "Agoda",
           "site_id": "agoda_press",
-          "published_at": "2026-07-17T10:58:23.310884Z"
+          "published_at": "2026-07-17T14:05:08.364072Z"
         }
       ],
       "source_count": 2,
@@ -1141,7 +1200,7 @@
           "source": "Agoda",
           "source_name": "Agoda",
           "site_id": "agoda_press",
-          "published_at": "2026-07-17T10:58:23.310884Z"
+          "published_at": "2026-07-17T14:05:08.364072Z"
         },
         {
           "id": "hotelitem_4eb38ce2a1e7",
@@ -1150,7 +1209,7 @@
           "source": "Agoda",
           "source_name": "Agoda",
           "site_id": "agoda_press",
-          "published_at": "2026-07-17T10:58:23.310884Z"
+          "published_at": "2026-07-17T14:05:08.364072Z"
         }
       ],
       "item_count": 2,
@@ -1170,8 +1229,8 @@
         "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-17T10:58:23.310884Z",
-      "latest_at": "2026-07-17T10:58:23.310884Z",
+      "earliest_at": "2026-07-17T14:05:08.364072Z",
+      "latest_at": "2026-07-17T14:05:08.364072Z",
       "primary_item": {
         "id": "hotelitem_8198bc289a0c",
         "title": "Agoda Unveils Taiwan H1 Travel Insights: Ban ... Singapore, 14 July 2026 – Digital travel platform Agoda has released the latest insights on travel tre ... July 14, 2026 / Travel Trends",
@@ -1215,14 +1274,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8623,
-      "importance": 0.5262,
-      "importance_score": 0.8623,
+      "score": 0.8615,
+      "importance": 0.5256,
+      "importance_score": 0.8615,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.631,
+        "recency": 0.6281,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1274,14 +1333,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.859,
-      "importance": 0.5938,
-      "importance_score": 0.859,
+      "score": 0.8584,
+      "importance": 0.5932,
+      "importance_score": 0.8584,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9689,
+        "recency": 0.966,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1313,7 +1372,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-07-17T10:58:23.310884Z"
+          "published_at": "2026-07-17T14:05:08.364072Z"
         }
       ],
       "source_count": 1,
@@ -1328,7 +1387,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-07-17T10:58:23.310884Z"
+          "published_at": "2026-07-17T14:05:08.364072Z"
         }
       ],
       "item_count": 1,
@@ -1347,8 +1406,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-17T10:58:23.310884Z",
-      "latest_at": "2026-07-17T10:58:23.310884Z",
+      "earliest_at": "2026-07-17T14:05:08.364072Z",
+      "latest_at": "2026-07-17T14:05:08.364072Z",
       "primary_item": {
         "id": "hotelitem_59179e8d4d95",
         "title": "5项文化和旅游行业标准发布",
@@ -1372,7 +1431,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-07-17T10:58:23.310884Z"
+          "published_at": "2026-07-17T14:05:08.364072Z"
         }
       ],
       "source_count": 1,
@@ -1387,7 +1446,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-07-17T10:58:23.310884Z"
+          "published_at": "2026-07-17T14:05:08.364072Z"
         }
       ],
       "item_count": 1,
@@ -1406,8 +1465,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-17T10:58:23.310884Z",
-      "latest_at": "2026-07-17T10:58:23.310884Z",
+      "earliest_at": "2026-07-17T14:05:08.364072Z",
+      "latest_at": "2026-07-17T14:05:08.364072Z",
       "primary_item": {
         "id": "hotelitem_e4ce0593c384",
         "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
@@ -1431,7 +1490,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-07-17T10:58:23.310884Z"
+          "published_at": "2026-07-17T14:05:08.364072Z"
         }
       ],
       "source_count": 1,
@@ -1446,7 +1505,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-07-17T10:58:23.310884Z"
+          "published_at": "2026-07-17T14:05:08.364072Z"
         }
       ],
       "item_count": 1,
@@ -1465,8 +1524,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-17T10:58:23.310884Z",
-      "latest_at": "2026-07-17T10:58:23.310884Z",
+      "earliest_at": "2026-07-17T14:05:08.364072Z",
+      "latest_at": "2026-07-17T14:05:08.364072Z",
       "primary_item": {
         "id": "hotelitem_fa34986b4fc0",
         "title": "文化和旅游部、金融监管总局关于警惕借“保...",
@@ -1490,7 +1549,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-07-17T10:58:23.310884Z"
+          "published_at": "2026-07-17T14:05:08.364072Z"
         }
       ],
       "source_count": 1,
@@ -1505,7 +1564,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-07-17T10:58:23.310884Z"
+          "published_at": "2026-07-17T14:05:08.364072Z"
         }
       ],
       "item_count": 1,
@@ -1524,8 +1583,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-17T10:58:23.310884Z",
-      "latest_at": "2026-07-17T10:58:23.310884Z",
+      "earliest_at": "2026-07-17T14:05:08.364072Z",
+      "latest_at": "2026-07-17T14:05:08.364072Z",
       "primary_item": {
         "id": "hotelitem_6bb66367ea13",
         "title": "文化和旅游部产业项目服务平台第47期精品...",
@@ -1549,7 +1608,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-07-17T10:58:23.310884Z"
+          "published_at": "2026-07-17T14:05:08.364072Z"
         }
       ],
       "source_count": 1,
@@ -1564,7 +1623,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-07-17T10:58:23.310884Z"
+          "published_at": "2026-07-17T14:05:08.364072Z"
         }
       ],
       "item_count": 1,
@@ -1583,8 +1642,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-17T10:58:23.310884Z",
-      "latest_at": "2026-07-17T10:58:23.310884Z",
+      "earliest_at": "2026-07-17T14:05:08.364072Z",
+      "latest_at": "2026-07-17T14:05:08.364072Z",
       "primary_item": {
         "id": "hotelitem_9a958319a874",
         "title": "文化和旅游部印发《旅游强国建设“十五五”...",
@@ -1608,7 +1667,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-07-17T10:58:23.310884Z"
+          "published_at": "2026-07-17T14:05:08.364072Z"
         }
       ],
       "source_count": 1,
@@ -1623,7 +1682,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-07-17T10:58:23.310884Z"
+          "published_at": "2026-07-17T14:05:08.364072Z"
         }
       ],
       "item_count": 1,
@@ -1642,8 +1701,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-17T10:58:23.310884Z",
-      "latest_at": "2026-07-17T10:58:23.310884Z",
+      "earliest_at": "2026-07-17T14:05:08.364072Z",
+      "latest_at": "2026-07-17T14:05:08.364072Z",
       "primary_item": {
         "id": "hotelitem_9a179dce1533",
         "title": "文化和旅游部第16期西藏文化和旅游管理干...",
@@ -1687,14 +1746,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8525,
-      "importance": 0.5871,
-      "importance_score": 0.8525,
+      "score": 0.852,
+      "importance": 0.5865,
+      "importance_score": 0.852,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9354,
+        "recency": 0.9325,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1712,21 +1771,21 @@
       }
     },
     {
-      "story_id": "story_83a6cc434157",
-      "title": "Independent Hotel Show London opens for registration",
-      "url": "https://boutiquehotelnews.com/news/industry/independent-hotel-show-registration-2/?utm_source=rss&utm_medium=rss&utm_campaign=independent-hotel-show-registration-2",
-      "primary_url": "https://boutiquehotelnews.com/news/industry/independent-hotel-show-registration-2/?utm_source=rss&utm_medium=rss&utm_campaign=independent-hotel-show-registration-2",
+      "story_id": "story_d483e87b8a49",
+      "title": "W Hotels launches first property in Saudi Arabia",
+      "url": "https://boutiquehotelnews.com/news/hotel/w-hotels-saudi-arabia/?utm_source=rss&utm_medium=rss&utm_campaign=w-hotels-saudi-arabia",
+      "primary_url": "https://boutiquehotelnews.com/news/hotel/w-hotels-saudi-arabia/?utm_source=rss&utm_medium=rss&utm_campaign=w-hotels-saudi-arabia",
       "source": "Boutique Hotel News",
       "source_name": "Boutique Hotel News",
       "sources": [
         {
-          "id": "hotelitem_83a6cc434157",
-          "title": "Independent Hotel Show London opens for registration",
-          "url": "https://boutiquehotelnews.com/news/industry/independent-hotel-show-registration-2/?utm_source=rss&utm_medium=rss&utm_campaign=independent-hotel-show-registration-2",
+          "id": "hotelitem_d483e87b8a49",
+          "title": "W Hotels launches first property in Saudi Arabia",
+          "url": "https://boutiquehotelnews.com/news/hotel/w-hotels-saudi-arabia/?utm_source=rss&utm_medium=rss&utm_campaign=w-hotels-saudi-arabia",
           "source": "Boutique Hotel News",
           "source_name": "Boutique Hotel News",
           "site_id": "boutiquehotel",
-          "published_at": "2026-07-17T10:06:14Z"
+          "published_at": "2026-07-17T11:25:45Z"
         }
       ],
       "source_count": 1,
@@ -1735,98 +1794,39 @@
       ],
       "items": [
         {
-          "id": "hotelitem_83a6cc434157",
-          "title": "Independent Hotel Show London opens for registration",
-          "url": "https://boutiquehotelnews.com/news/industry/independent-hotel-show-registration-2/?utm_source=rss&utm_medium=rss&utm_campaign=independent-hotel-show-registration-2",
+          "id": "hotelitem_d483e87b8a49",
+          "title": "W Hotels launches first property in Saudi Arabia",
+          "url": "https://boutiquehotelnews.com/news/hotel/w-hotels-saudi-arabia/?utm_source=rss&utm_medium=rss&utm_campaign=w-hotels-saudi-arabia",
           "source": "Boutique Hotel News",
           "source_name": "Boutique Hotel News",
           "site_id": "boutiquehotel",
-          "published_at": "2026-07-17T10:06:14Z"
+          "published_at": "2026-07-17T11:25:45Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8498,
-      "importance": 0.5998,
-      "importance_score": 0.8498,
+      "score": 0.8495,
+      "importance": 0.5995,
+      "importance_score": 0.8495,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9992,
+        "recency": 0.9975,
         "story_heat": 0.0
       },
       "category": "watch",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-17T10:06:14Z",
-      "latest_at": "2026-07-17T10:06:14Z",
+      "earliest_at": "2026-07-17T11:25:45Z",
+      "latest_at": "2026-07-17T11:25:45Z",
       "primary_item": {
-        "id": "hotelitem_83a6cc434157",
-        "title": "Independent Hotel Show London opens for registration",
-        "url": "https://boutiquehotelnews.com/news/industry/independent-hotel-show-registration-2/?utm_source=rss&utm_medium=rss&utm_campaign=independent-hotel-show-registration-2",
+        "id": "hotelitem_d483e87b8a49",
+        "title": "W Hotels launches first property in Saudi Arabia",
+        "url": "https://boutiquehotelnews.com/news/hotel/w-hotels-saudi-arabia/?utm_source=rss&utm_medium=rss&utm_campaign=w-hotels-saudi-arabia",
         "source": "Boutique Hotel News",
         "source_name": "Boutique Hotel News"
-      }
-    },
-    {
-      "story_id": "story_63af4c153a88",
-      "title": "US hotels see RevPAR boost from America 250 events, World Cup",
-      "url": "https://www.hoteldive.com/news/hotel-revpar-america250-world-cup/825033/",
-      "primary_url": "https://www.hoteldive.com/news/hotel-revpar-america250-world-cup/825033/",
-      "source": "Hotel Dive",
-      "source_name": "Hotel Dive",
-      "sources": [
-        {
-          "id": "hotelitem_63af4c153a88",
-          "title": "US hotels see RevPAR boost from America 250 events, World Cup",
-          "url": "https://www.hoteldive.com/news/hotel-revpar-america250-world-cup/825033/",
-          "source": "Hotel Dive",
-          "source_name": "Hotel Dive",
-          "site_id": "hoteldive",
-          "published_at": "2026-07-13T13:12:24Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hotel Dive"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_63af4c153a88",
-          "title": "US hotels see RevPAR boost from America 250 events, World Cup",
-          "url": "https://www.hoteldive.com/news/hotel-revpar-america250-world-cup/825033/",
-          "source": "Hotel Dive",
-          "source_name": "Hotel Dive",
-          "site_id": "hoteldive",
-          "published_at": "2026-07-13T13:12:24Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8483,
-      "importance": 0.5826,
-      "importance_score": 0.8483,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9132,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-13T13:12:24Z",
-      "latest_at": "2026-07-13T13:12:24Z",
-      "primary_item": {
-        "id": "hotelitem_63af4c153a88",
-        "title": "US hotels see RevPAR boost from America 250 events, World Cup",
-        "url": "https://www.hoteldive.com/news/hotel-revpar-america250-world-cup/825033/",
-        "source": "Hotel Dive",
-        "source_name": "Hotel Dive"
       }
     }
   ]
