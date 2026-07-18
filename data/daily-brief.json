@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18T03:35:10.452836Z",
+  "generated_at": "2026-07-18T08:10:38.778612Z",
   "window_hours": 1080,
   "total_items": 30,
   "items": [
@@ -38,14 +38,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9679,
-      "importance": 0.5589,
-      "importance_score": 0.9679,
+      "score": 0.9667,
+      "importance": 0.5581,
+      "importance_score": 0.9667,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.7947,
+        "recency": 0.7904,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -97,14 +97,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9524,
-      "importance": 0.5973,
-      "importance_score": 0.9524,
+      "score": 0.9516,
+      "importance": 0.5965,
+      "importance_score": 0.9516,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9867,
+        "recency": 0.9825,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -156,14 +156,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9504,
-      "importance": 0.5952,
-      "importance_score": 0.9504,
+      "score": 0.9496,
+      "importance": 0.5944,
+      "importance_score": 0.9496,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.976,
+        "recency": 0.9718,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -215,14 +215,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9502,
-      "importance": 0.5951,
-      "importance_score": 0.9502,
+      "score": 0.9494,
+      "importance": 0.5942,
+      "importance_score": 0.9494,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9753,
+        "recency": 0.9711,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -240,62 +240,62 @@
       }
     },
     {
-      "story_id": "story_f5e73e82c51c",
-      "title": "Travelers are booking hotel stays based on F&B: report",
-      "url": "https://www.hoteldive.com/news/hotel-restaurant-travel-booking-trends/825399/",
-      "primary_url": "https://www.hoteldive.com/news/hotel-restaurant-travel-booking-trends/825399/",
-      "source": "Hotel Dive",
-      "source_name": "Hotel Dive",
+      "story_id": "story_9699887c72ea",
+      "title": "中国旅游研究院与中青旅控股股份有限公司开展主题党日联学联",
+      "url": "https://www.ctaweb.org.cn/gongzuodongtai/10519.html",
+      "primary_url": "https://www.ctaweb.org.cn/gongzuodongtai/10519.html",
+      "source": "中国旅游研究院",
+      "source_name": "中国旅游研究院",
       "sources": [
         {
-          "id": "hotelitem_f5e73e82c51c",
-          "title": "Travelers are booking hotel stays based on F&B: report",
-          "url": "https://www.hoteldive.com/news/hotel-restaurant-travel-booking-trends/825399/",
-          "source": "Hotel Dive",
-          "source_name": "Hotel Dive",
-          "site_id": "hoteldive",
-          "published_at": "2026-07-16T13:52:54Z"
+          "id": "hotelitem_9699887c72ea",
+          "title": "中国旅游研究院与中青旅控股股份有限公司开展主题党日联学联",
+          "url": "https://www.ctaweb.org.cn/gongzuodongtai/10519.html",
+          "source": "中国旅游研究院",
+          "source_name": "中国旅游研究院",
+          "site_id": "cta",
+          "published_at": "2026-07-18T08:10:38.778612Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Hotel Dive"
+        "中国旅游研究院"
       ],
       "items": [
         {
-          "id": "hotelitem_f5e73e82c51c",
-          "title": "Travelers are booking hotel stays based on F&B: report",
-          "url": "https://www.hoteldive.com/news/hotel-restaurant-travel-booking-trends/825399/",
-          "source": "Hotel Dive",
-          "source_name": "Hotel Dive",
-          "site_id": "hoteldive",
-          "published_at": "2026-07-16T13:52:54Z"
+          "id": "hotelitem_9699887c72ea",
+          "title": "中国旅游研究院与中青旅控股股份有限公司开展主题党日联学联",
+          "url": "https://www.ctaweb.org.cn/gongzuodongtai/10519.html",
+          "source": "中国旅游研究院",
+          "source_name": "中国旅游研究院",
+          "site_id": "cta",
+          "published_at": "2026-07-18T08:10:38.778612Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9483,
-      "importance": 0.593,
-      "importance_score": 0.9483,
+      "score": 0.948,
+      "importance": 0.6,
+      "importance_score": 0.948,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9651,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "watch",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-16T13:52:54Z",
-      "latest_at": "2026-07-16T13:52:54Z",
+      "earliest_at": "2026-07-18T08:10:38.778612Z",
+      "latest_at": "2026-07-18T08:10:38.778612Z",
       "primary_item": {
-        "id": "hotelitem_f5e73e82c51c",
-        "title": "Travelers are booking hotel stays based on F&B: report",
-        "url": "https://www.hoteldive.com/news/hotel-restaurant-travel-booking-trends/825399/",
-        "source": "Hotel Dive",
-        "source_name": "Hotel Dive"
+        "id": "hotelitem_9699887c72ea",
+        "title": "中国旅游研究院与中青旅控股股份有限公司开展主题党日联学联",
+        "url": "https://www.ctaweb.org.cn/gongzuodongtai/10519.html",
+        "source": "中国旅游研究院",
+        "source_name": "中国旅游研究院"
       }
     },
     {
@@ -333,14 +333,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9483,
-      "importance": 0.5931,
-      "importance_score": 0.9483,
+      "score": 0.9475,
+      "importance": 0.5922,
+      "importance_score": 0.9475,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9653,
+        "recency": 0.961,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -358,62 +358,62 @@
       }
     },
     {
-      "story_id": "story_9699887c72ea",
-      "title": "中国旅游研究院与中青旅控股股份有限公司开展主题党日联学联",
-      "url": "https://www.ctaweb.org.cn/gongzuodongtai/10519.html",
-      "primary_url": "https://www.ctaweb.org.cn/gongzuodongtai/10519.html",
-      "source": "中国旅游研究院",
-      "source_name": "中国旅游研究院",
+      "story_id": "story_f5e73e82c51c",
+      "title": "Travelers are booking hotel stays based on F&B: report",
+      "url": "https://www.hoteldive.com/news/hotel-restaurant-travel-booking-trends/825399/",
+      "primary_url": "https://www.hoteldive.com/news/hotel-restaurant-travel-booking-trends/825399/",
+      "source": "Hotel Dive",
+      "source_name": "Hotel Dive",
       "sources": [
         {
-          "id": "hotelitem_9699887c72ea",
-          "title": "中国旅游研究院与中青旅控股股份有限公司开展主题党日联学联",
-          "url": "https://www.ctaweb.org.cn/gongzuodongtai/10519.html",
-          "source": "中国旅游研究院",
-          "source_name": "中国旅游研究院",
-          "site_id": "cta",
-          "published_at": "2026-07-18T03:35:10.452836Z"
+          "id": "hotelitem_f5e73e82c51c",
+          "title": "Travelers are booking hotel stays based on F&B: report",
+          "url": "https://www.hoteldive.com/news/hotel-restaurant-travel-booking-trends/825399/",
+          "source": "Hotel Dive",
+          "source_name": "Hotel Dive",
+          "site_id": "hoteldive",
+          "published_at": "2026-07-16T13:52:54Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "中国旅游研究院"
+        "Hotel Dive"
       ],
       "items": [
         {
-          "id": "hotelitem_9699887c72ea",
-          "title": "中国旅游研究院与中青旅控股股份有限公司开展主题党日联学联",
-          "url": "https://www.ctaweb.org.cn/gongzuodongtai/10519.html",
-          "source": "中国旅游研究院",
-          "source_name": "中国旅游研究院",
-          "site_id": "cta",
-          "published_at": "2026-07-18T03:35:10.452836Z"
+          "id": "hotelitem_f5e73e82c51c",
+          "title": "Travelers are booking hotel stays based on F&B: report",
+          "url": "https://www.hoteldive.com/news/hotel-restaurant-travel-booking-trends/825399/",
+          "source": "Hotel Dive",
+          "source_name": "Hotel Dive",
+          "site_id": "hoteldive",
+          "published_at": "2026-07-16T13:52:54Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.948,
-      "importance": 0.6,
-      "importance_score": 0.948,
+      "score": 0.9474,
+      "importance": 0.5922,
+      "importance_score": 0.9474,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9608,
         "story_heat": 0.0
       },
       "category": "watch",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-18T03:35:10.452836Z",
-      "latest_at": "2026-07-18T03:35:10.452836Z",
+      "earliest_at": "2026-07-16T13:52:54Z",
+      "latest_at": "2026-07-16T13:52:54Z",
       "primary_item": {
-        "id": "hotelitem_9699887c72ea",
-        "title": "中国旅游研究院与中青旅控股股份有限公司开展主题党日联学联",
-        "url": "https://www.ctaweb.org.cn/gongzuodongtai/10519.html",
-        "source": "中国旅游研究院",
-        "source_name": "中国旅游研究院"
+        "id": "hotelitem_f5e73e82c51c",
+        "title": "Travelers are booking hotel stays based on F&B: report",
+        "url": "https://www.hoteldive.com/news/hotel-restaurant-travel-booking-trends/825399/",
+        "source": "Hotel Dive",
+        "source_name": "Hotel Dive"
       }
     },
     {
@@ -451,14 +451,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9394,
-      "importance": 0.5838,
-      "importance_score": 0.9394,
+      "score": 0.9386,
+      "importance": 0.583,
+      "importance_score": 0.9386,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9192,
+        "recency": 0.9149,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -510,14 +510,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9224,
-      "importance": 0.5671,
-      "importance_score": 0.9224,
+      "score": 0.9211,
+      "importance": 0.5663,
+      "importance_score": 0.9211,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8356,
+        "recency": 0.8313,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -549,7 +549,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-18T03:35:10.452836Z"
+          "published_at": "2026-07-18T08:10:38.778612Z"
         },
         {
           "id": "hotelitem_c7c15b7680c9",
@@ -558,7 +558,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-18T03:35:10.452836Z"
+          "published_at": "2026-07-18T08:10:38.778612Z"
         },
         {
           "id": "hotelitem_6d8fa145e8af",
@@ -567,7 +567,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-18T03:35:10.452836Z"
+          "published_at": "2026-07-18T08:10:38.778612Z"
         }
       ],
       "source_count": 3,
@@ -582,7 +582,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-18T03:35:10.452836Z"
+          "published_at": "2026-07-18T08:10:38.778612Z"
         },
         {
           "id": "hotelitem_c7c15b7680c9",
@@ -591,7 +591,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-18T03:35:10.452836Z"
+          "published_at": "2026-07-18T08:10:38.778612Z"
         },
         {
           "id": "hotelitem_6d8fa145e8af",
@@ -600,7 +600,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-18T03:35:10.452836Z"
+          "published_at": "2026-07-18T08:10:38.778612Z"
         }
       ],
       "item_count": 3,
@@ -620,73 +620,14 @@
         "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-18T03:35:10.452836Z",
-      "latest_at": "2026-07-18T03:35:10.452836Z",
+      "earliest_at": "2026-07-18T08:10:38.778612Z",
+      "latest_at": "2026-07-18T08:10:38.778612Z",
       "primary_item": {
         "id": "hotelitem_d4370964909c",
         "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
         "url": "https://www.chinahotel.org.cn/articles/17408",
         "source": "中国饭店协会",
         "source_name": "中国饭店协会"
-      }
-    },
-    {
-      "story_id": "story_27374bf870d1",
-      "title": "UK hotel investors chase experience over square footage",
-      "url": "https://boutiquehotelnews.com/features/uk-hotel-investors/?utm_source=rss&utm_medium=rss&utm_campaign=uk-hotel-investors",
-      "primary_url": "https://boutiquehotelnews.com/features/uk-hotel-investors/?utm_source=rss&utm_medium=rss&utm_campaign=uk-hotel-investors",
-      "source": "Boutique Hotel News",
-      "source_name": "Boutique Hotel News",
-      "sources": [
-        {
-          "id": "hotelitem_27374bf870d1",
-          "title": "UK hotel investors chase experience over square footage",
-          "url": "https://boutiquehotelnews.com/features/uk-hotel-investors/?utm_source=rss&utm_medium=rss&utm_campaign=uk-hotel-investors",
-          "source": "Boutique Hotel News",
-          "source_name": "Boutique Hotel News",
-          "site_id": "boutiquehotel",
-          "published_at": "2026-07-10T13:56:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Boutique Hotel News"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_27374bf870d1",
-          "title": "UK hotel investors chase experience over square footage",
-          "url": "https://boutiquehotelnews.com/features/uk-hotel-investors/?utm_source=rss&utm_medium=rss&utm_campaign=uk-hotel-investors",
-          "source": "Boutique Hotel News",
-          "source_name": "Boutique Hotel News",
-          "site_id": "boutiquehotel",
-          "published_at": "2026-07-10T13:56:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.9063,
-      "importance": 0.5664,
-      "importance_score": 0.9063,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.8318,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-10T13:56:00Z",
-      "latest_at": "2026-07-10T13:56:00Z",
-      "primary_item": {
-        "id": "hotelitem_27374bf870d1",
-        "title": "UK hotel investors chase experience over square footage",
-        "url": "https://boutiquehotelnews.com/features/uk-hotel-investors/?utm_source=rss&utm_medium=rss&utm_campaign=uk-hotel-investors",
-        "source": "Boutique Hotel News",
-        "source_name": "Boutique Hotel News"
       }
     },
     {
@@ -724,14 +665,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9063,
-      "importance": 0.5832,
-      "importance_score": 0.9063,
+      "score": 0.9055,
+      "importance": 0.5823,
+      "importance_score": 0.9055,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9159,
+        "recency": 0.9117,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -749,6 +690,65 @@
       }
     },
     {
+      "story_id": "story_27374bf870d1",
+      "title": "UK hotel investors chase experience over square footage",
+      "url": "https://boutiquehotelnews.com/features/uk-hotel-investors/?utm_source=rss&utm_medium=rss&utm_campaign=uk-hotel-investors",
+      "primary_url": "https://boutiquehotelnews.com/features/uk-hotel-investors/?utm_source=rss&utm_medium=rss&utm_campaign=uk-hotel-investors",
+      "source": "Boutique Hotel News",
+      "source_name": "Boutique Hotel News",
+      "sources": [
+        {
+          "id": "hotelitem_27374bf870d1",
+          "title": "UK hotel investors chase experience over square footage",
+          "url": "https://boutiquehotelnews.com/features/uk-hotel-investors/?utm_source=rss&utm_medium=rss&utm_campaign=uk-hotel-investors",
+          "source": "Boutique Hotel News",
+          "source_name": "Boutique Hotel News",
+          "site_id": "boutiquehotel",
+          "published_at": "2026-07-10T13:56:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Boutique Hotel News"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_27374bf870d1",
+          "title": "UK hotel investors chase experience over square footage",
+          "url": "https://boutiquehotelnews.com/features/uk-hotel-investors/?utm_source=rss&utm_medium=rss&utm_campaign=uk-hotel-investors",
+          "source": "Boutique Hotel News",
+          "source_name": "Boutique Hotel News",
+          "site_id": "boutiquehotel",
+          "published_at": "2026-07-10T13:56:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.905,
+      "importance": 0.5655,
+      "importance_score": 0.905,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.8276,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-10T13:56:00Z",
+      "latest_at": "2026-07-10T13:56:00Z",
+      "primary_item": {
+        "id": "hotelitem_27374bf870d1",
+        "title": "UK hotel investors chase experience over square footage",
+        "url": "https://boutiquehotelnews.com/features/uk-hotel-investors/?utm_source=rss&utm_medium=rss&utm_campaign=uk-hotel-investors",
+        "source": "Boutique Hotel News",
+        "source_name": "Boutique Hotel News"
+      }
+    },
+    {
       "story_id": "story_2c7d18362dc5",
       "title": "协会动态 | 中国饭店协会休闲度假专业委员会一届一次主任办公会在太仓召开 2026年7月8日，中国饭店协会休闲度假专业委员会一届一次主任办公会在太仓金茂隐逸玫瑰庄园度假酒店召开。中国饭店协会会长陈新华，中国饭店协会副会长、休闲度假专业委员会主任委员、君澜酒店董事长兼总裁王建平，苏州市旅游饭店业协会会长孙子元出席会议。会议由中国饭店协会副秘书长张乐然主持。",
       "url": "https://www.chinahotel.org.cn/articles/17892",
@@ -763,7 +763,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-18T03:35:10.452836Z"
+          "published_at": "2026-07-18T08:10:38.778612Z"
         }
       ],
       "source_count": 1,
@@ -778,7 +778,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-18T03:35:10.452836Z"
+          "published_at": "2026-07-18T08:10:38.778612Z"
         }
       ],
       "item_count": 1,
@@ -797,8 +797,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-18T03:35:10.452836Z",
-      "latest_at": "2026-07-18T03:35:10.452836Z",
+      "earliest_at": "2026-07-18T08:10:38.778612Z",
+      "latest_at": "2026-07-18T08:10:38.778612Z",
       "primary_item": {
         "id": "hotelitem_2c7d18362dc5",
         "title": "协会动态 | 中国饭店协会休闲度假专业委员会一届一次主任办公会在太仓召开 2026年7月8日，中国饭店协会休闲度假专业委员会一届一次主任办公会在太仓金茂隐逸玫瑰庄园度假酒店召开。中国饭店协会会长陈新华，中国饭店协会副会长、休闲度假专业委员会主任委员、君澜酒店董事长兼总裁王建平，苏州市旅游饭店业协会会长孙子元出席会议。会议由中国饭店协会副秘书长张乐然主持。",
@@ -822,7 +822,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-07-18T03:35:10.452836Z"
+          "published_at": "2026-07-18T08:10:38.778612Z"
         }
       ],
       "source_count": 1,
@@ -837,7 +837,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-07-18T03:35:10.452836Z"
+          "published_at": "2026-07-18T08:10:38.778612Z"
         }
       ],
       "item_count": 1,
@@ -856,8 +856,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-18T03:35:10.452836Z",
-      "latest_at": "2026-07-18T03:35:10.452836Z",
+      "earliest_at": "2026-07-18T08:10:38.778612Z",
+      "latest_at": "2026-07-18T08:10:38.778612Z",
       "primary_item": {
         "id": "hotelitem_d34e2868e8eb",
         "title": "惠评文旅|18亿收购，君亭没卖成，国资文旅买壳真正逻辑是什么？",
@@ -881,7 +881,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-07-18T03:35:10.452836Z"
+          "published_at": "2026-07-18T08:10:38.778612Z"
         }
       ],
       "source_count": 1,
@@ -896,7 +896,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-07-18T03:35:10.452836Z"
+          "published_at": "2026-07-18T08:10:38.778612Z"
         }
       ],
       "item_count": 1,
@@ -915,8 +915,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-18T03:35:10.452836Z",
-      "latest_at": "2026-07-18T03:35:10.452836Z",
+      "earliest_at": "2026-07-18T08:10:38.778612Z",
+      "latest_at": "2026-07-18T08:10:38.778612Z",
       "primary_item": {
         "id": "hotelitem_2c03113fa391",
         "title": "文旅惠报|飞猪与浙旅投集团达成战略合作；凯联国际酒店年度亏损收窄至4.74亿港元",
@@ -940,7 +940,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-07-18T03:35:10.452836Z"
+          "published_at": "2026-07-18T08:10:38.778612Z"
         }
       ],
       "source_count": 1,
@@ -955,7 +955,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-07-18T03:35:10.452836Z"
+          "published_at": "2026-07-18T08:10:38.778612Z"
         }
       ],
       "item_count": 1,
@@ -974,8 +974,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-18T03:35:10.452836Z",
-      "latest_at": "2026-07-18T03:35:10.452836Z",
+      "earliest_at": "2026-07-18T08:10:38.778612Z",
+      "latest_at": "2026-07-18T08:10:38.778612Z",
       "primary_item": {
         "id": "hotelitem_50c135faab60",
         "title": "文旅惠报|首旅集团拟发行20亿元超短期融资券，期限95天；广西旅发集团任命向红为副董事长、总经理",
@@ -999,7 +999,7 @@
           "source": "Agoda",
           "source_name": "Agoda",
           "site_id": "agoda_press",
-          "published_at": "2026-07-18T03:35:10.452836Z"
+          "published_at": "2026-07-18T08:10:38.778612Z"
         },
         {
           "id": "hotelitem_4eb38ce2a1e7",
@@ -1008,7 +1008,7 @@
           "source": "Agoda",
           "source_name": "Agoda",
           "site_id": "agoda_press",
-          "published_at": "2026-07-18T03:35:10.452836Z"
+          "published_at": "2026-07-18T08:10:38.778612Z"
         }
       ],
       "source_count": 2,
@@ -1023,7 +1023,7 @@
           "source": "Agoda",
           "source_name": "Agoda",
           "site_id": "agoda_press",
-          "published_at": "2026-07-18T03:35:10.452836Z"
+          "published_at": "2026-07-18T08:10:38.778612Z"
         },
         {
           "id": "hotelitem_4eb38ce2a1e7",
@@ -1032,7 +1032,7 @@
           "source": "Agoda",
           "source_name": "Agoda",
           "site_id": "agoda_press",
-          "published_at": "2026-07-18T03:35:10.452836Z"
+          "published_at": "2026-07-18T08:10:38.778612Z"
         }
       ],
       "item_count": 2,
@@ -1052,8 +1052,8 @@
         "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-18T03:35:10.452836Z",
-      "latest_at": "2026-07-18T03:35:10.452836Z",
+      "earliest_at": "2026-07-18T08:10:38.778612Z",
+      "latest_at": "2026-07-18T08:10:38.778612Z",
       "primary_item": {
         "id": "hotelitem_8198bc289a0c",
         "title": "Agoda Unveils Taiwan H1 Travel Insights: Ban ... Singapore, 14 July 2026 – Digital travel platform Agoda has released the latest insights on travel tre ... July 14, 2026 / Travel Trends",
@@ -1097,14 +1097,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8608,
-      "importance": 0.5956,
-      "importance_score": 0.8608,
+      "score": 0.86,
+      "importance": 0.5948,
+      "importance_score": 0.86,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9781,
+        "recency": 0.9739,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1156,14 +1156,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8603,
-      "importance": 0.5951,
-      "importance_score": 0.8603,
+      "score": 0.8595,
+      "importance": 0.5943,
+      "importance_score": 0.8595,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9757,
+        "recency": 0.9715,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1215,14 +1215,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8603,
-      "importance": 0.5952,
-      "importance_score": 0.8603,
+      "score": 0.8595,
+      "importance": 0.5943,
+      "importance_score": 0.8595,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9759,
+        "recency": 0.9716,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1254,7 +1254,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-07-18T03:35:10.452836Z"
+          "published_at": "2026-07-18T08:10:38.778612Z"
         }
       ],
       "source_count": 1,
@@ -1269,7 +1269,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-07-18T03:35:10.452836Z"
+          "published_at": "2026-07-18T08:10:38.778612Z"
         }
       ],
       "item_count": 1,
@@ -1288,8 +1288,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-18T03:35:10.452836Z",
-      "latest_at": "2026-07-18T03:35:10.452836Z",
+      "earliest_at": "2026-07-18T08:10:38.778612Z",
+      "latest_at": "2026-07-18T08:10:38.778612Z",
       "primary_item": {
         "id": "hotelitem_59179e8d4d95",
         "title": "5项文化和旅游行业标准发布",
@@ -1313,7 +1313,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-07-18T03:35:10.452836Z"
+          "published_at": "2026-07-18T08:10:38.778612Z"
         }
       ],
       "source_count": 1,
@@ -1328,7 +1328,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-07-18T03:35:10.452836Z"
+          "published_at": "2026-07-18T08:10:38.778612Z"
         }
       ],
       "item_count": 1,
@@ -1347,8 +1347,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-18T03:35:10.452836Z",
-      "latest_at": "2026-07-18T03:35:10.452836Z",
+      "earliest_at": "2026-07-18T08:10:38.778612Z",
+      "latest_at": "2026-07-18T08:10:38.778612Z",
       "primary_item": {
         "id": "hotelitem_e4ce0593c384",
         "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
@@ -1372,7 +1372,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-07-18T03:35:10.452836Z"
+          "published_at": "2026-07-18T08:10:38.778612Z"
         }
       ],
       "source_count": 1,
@@ -1387,7 +1387,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-07-18T03:35:10.452836Z"
+          "published_at": "2026-07-18T08:10:38.778612Z"
         }
       ],
       "item_count": 1,
@@ -1406,8 +1406,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-18T03:35:10.452836Z",
-      "latest_at": "2026-07-18T03:35:10.452836Z",
+      "earliest_at": "2026-07-18T08:10:38.778612Z",
+      "latest_at": "2026-07-18T08:10:38.778612Z",
       "primary_item": {
         "id": "hotelitem_fa34986b4fc0",
         "title": "文化和旅游部、金融监管总局关于警惕借“保...",
@@ -1431,7 +1431,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-07-18T03:35:10.452836Z"
+          "published_at": "2026-07-18T08:10:38.778612Z"
         }
       ],
       "source_count": 1,
@@ -1446,7 +1446,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-07-18T03:35:10.452836Z"
+          "published_at": "2026-07-18T08:10:38.778612Z"
         }
       ],
       "item_count": 1,
@@ -1465,8 +1465,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-18T03:35:10.452836Z",
-      "latest_at": "2026-07-18T03:35:10.452836Z",
+      "earliest_at": "2026-07-18T08:10:38.778612Z",
+      "latest_at": "2026-07-18T08:10:38.778612Z",
       "primary_item": {
         "id": "hotelitem_6bb66367ea13",
         "title": "文化和旅游部产业项目服务平台第47期精品...",
@@ -1490,7 +1490,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-07-18T03:35:10.452836Z"
+          "published_at": "2026-07-18T08:10:38.778612Z"
         }
       ],
       "source_count": 1,
@@ -1505,7 +1505,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-07-18T03:35:10.452836Z"
+          "published_at": "2026-07-18T08:10:38.778612Z"
         }
       ],
       "item_count": 1,
@@ -1524,8 +1524,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-18T03:35:10.452836Z",
-      "latest_at": "2026-07-18T03:35:10.452836Z",
+      "earliest_at": "2026-07-18T08:10:38.778612Z",
+      "latest_at": "2026-07-18T08:10:38.778612Z",
       "primary_item": {
         "id": "hotelitem_9a958319a874",
         "title": "文化和旅游部印发《旅游强国建设“十五五”...",
@@ -1549,7 +1549,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-07-18T03:35:10.452836Z"
+          "published_at": "2026-07-18T08:10:38.778612Z"
         }
       ],
       "source_count": 1,
@@ -1564,7 +1564,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-07-18T03:35:10.452836Z"
+          "published_at": "2026-07-18T08:10:38.778612Z"
         }
       ],
       "item_count": 1,
@@ -1583,8 +1583,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-18T03:35:10.452836Z",
-      "latest_at": "2026-07-18T03:35:10.452836Z",
+      "earliest_at": "2026-07-18T08:10:38.778612Z",
+      "latest_at": "2026-07-18T08:10:38.778612Z",
       "primary_item": {
         "id": "hotelitem_9a179dce1533",
         "title": "文化和旅游部第16期西藏文化和旅游管理干...",
@@ -1628,14 +1628,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8578,
-      "importance": 0.5231,
-      "importance_score": 0.8578,
+      "score": 0.8566,
+      "importance": 0.5223,
+      "importance_score": 0.8566,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.6156,
+        "recency": 0.6113,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1687,14 +1687,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.856,
-      "importance": 0.5907,
-      "importance_score": 0.856,
+      "score": 0.8552,
+      "importance": 0.5898,
+      "importance_score": 0.8552,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9535,
+        "recency": 0.9492,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1746,14 +1746,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8496,
-      "importance": 0.584,
-      "importance_score": 0.8496,
+      "score": 0.8488,
+      "importance": 0.5832,
+      "importance_score": 0.8488,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.92,
+        "recency": 0.9158,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1805,14 +1805,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8471,
-      "importance": 0.597,
-      "importance_score": 0.8471,
+      "score": 0.8463,
+      "importance": 0.5962,
+      "importance_score": 0.8463,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.985,
+        "recency": 0.9808,
         "story_heat": 0.0
       },
       "category": "watch",
