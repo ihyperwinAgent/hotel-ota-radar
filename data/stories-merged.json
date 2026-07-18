@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17T22:08:15.437951Z",
+  "generated_at": "2026-07-18T03:35:10.452836Z",
   "window_hours": 1080,
   "total_stories": 30,
   "stories": [
@@ -38,14 +38,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9694,
-      "importance": 0.5599,
-      "importance_score": 0.9694,
+      "score": 0.9679,
+      "importance": 0.5589,
+      "importance_score": 0.9679,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.7997,
+        "recency": 0.7947,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -97,14 +97,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9534,
-      "importance": 0.5983,
-      "importance_score": 0.9534,
+      "score": 0.9524,
+      "importance": 0.5973,
+      "importance_score": 0.9524,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9917,
+        "recency": 0.9867,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -156,14 +156,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9513,
-      "importance": 0.5962,
-      "importance_score": 0.9513,
+      "score": 0.9504,
+      "importance": 0.5952,
+      "importance_score": 0.9504,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9811,
+        "recency": 0.976,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -215,14 +215,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9512,
-      "importance": 0.5961,
-      "importance_score": 0.9512,
+      "score": 0.9502,
+      "importance": 0.5951,
+      "importance_score": 0.9502,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9804,
+        "recency": 0.9753,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -237,65 +237,6 @@
         "url": "https://insights.ehotelier.com/properties/2026/07/17/radisson-resort-layan-phuket-opens-on-phukets-peaceful-northwest-coast/?utm_source=rss&utm_medium=rss&utm_campaign=radisson-resort-layan-phuket-opens-on-phukets-peaceful-northwest-coast",
         "source": "eHotelier",
         "source_name": "eHotelier"
-      }
-    },
-    {
-      "story_id": "story_0f14165f8c65",
-      "title": "Hilton completes $100M renovation on first LXR hotel in Hawaii",
-      "url": "https://www.hoteldive.com/news/hilton-completes-100m-renovation-first-lxr-hotel-hawaii/825400/",
-      "primary_url": "https://www.hoteldive.com/news/hilton-completes-100m-renovation-first-lxr-hotel-hawaii/825400/",
-      "source": "Hotel Dive",
-      "source_name": "Hotel Dive",
-      "sources": [
-        {
-          "id": "hotelitem_0f14165f8c65",
-          "title": "Hilton completes $100M renovation on first LXR hotel in Hawaii",
-          "url": "https://www.hoteldive.com/news/hilton-completes-100m-renovation-first-lxr-hotel-hawaii/825400/",
-          "source": "Hotel Dive",
-          "source_name": "Hotel Dive",
-          "site_id": "hoteldive",
-          "published_at": "2026-07-16T14:05:52Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hotel Dive"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_0f14165f8c65",
-          "title": "Hilton completes $100M renovation on first LXR hotel in Hawaii",
-          "url": "https://www.hoteldive.com/news/hilton-completes-100m-renovation-first-lxr-hotel-hawaii/825400/",
-          "source": "Hotel Dive",
-          "source_name": "Hotel Dive",
-          "site_id": "hoteldive",
-          "published_at": "2026-07-16T14:05:52Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.9493,
-      "importance": 0.5941,
-      "importance_score": 0.9493,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9703,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-16T14:05:52Z",
-      "latest_at": "2026-07-16T14:05:52Z",
-      "primary_item": {
-        "id": "hotelitem_0f14165f8c65",
-        "title": "Hilton completes $100M renovation on first LXR hotel in Hawaii",
-        "url": "https://www.hoteldive.com/news/hilton-completes-100m-renovation-first-lxr-hotel-hawaii/825400/",
-        "source": "Hotel Dive",
-        "source_name": "Hotel Dive"
       }
     },
     {
@@ -333,14 +274,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9492,
-      "importance": 0.594,
-      "importance_score": 0.9492,
+      "score": 0.9483,
+      "importance": 0.593,
+      "importance_score": 0.9483,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9701,
+        "recency": 0.9651,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -353,6 +294,65 @@
         "id": "hotelitem_f5e73e82c51c",
         "title": "Travelers are booking hotel stays based on F&B: report",
         "url": "https://www.hoteldive.com/news/hotel-restaurant-travel-booking-trends/825399/",
+        "source": "Hotel Dive",
+        "source_name": "Hotel Dive"
+      }
+    },
+    {
+      "story_id": "story_0f14165f8c65",
+      "title": "Hilton completes $100M renovation on first LXR hotel in Hawaii",
+      "url": "https://www.hoteldive.com/news/hilton-completes-100m-renovation-first-lxr-hotel-hawaii/825400/",
+      "primary_url": "https://www.hoteldive.com/news/hilton-completes-100m-renovation-first-lxr-hotel-hawaii/825400/",
+      "source": "Hotel Dive",
+      "source_name": "Hotel Dive",
+      "sources": [
+        {
+          "id": "hotelitem_0f14165f8c65",
+          "title": "Hilton completes $100M renovation on first LXR hotel in Hawaii",
+          "url": "https://www.hoteldive.com/news/hilton-completes-100m-renovation-first-lxr-hotel-hawaii/825400/",
+          "source": "Hotel Dive",
+          "source_name": "Hotel Dive",
+          "site_id": "hoteldive",
+          "published_at": "2026-07-16T14:05:52Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hotel Dive"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_0f14165f8c65",
+          "title": "Hilton completes $100M renovation on first LXR hotel in Hawaii",
+          "url": "https://www.hoteldive.com/news/hilton-completes-100m-renovation-first-lxr-hotel-hawaii/825400/",
+          "source": "Hotel Dive",
+          "source_name": "Hotel Dive",
+          "site_id": "hoteldive",
+          "published_at": "2026-07-16T14:05:52Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.9483,
+      "importance": 0.5931,
+      "importance_score": 0.9483,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9653,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-16T14:05:52Z",
+      "latest_at": "2026-07-16T14:05:52Z",
+      "primary_item": {
+        "id": "hotelitem_0f14165f8c65",
+        "title": "Hilton completes $100M renovation on first LXR hotel in Hawaii",
+        "url": "https://www.hoteldive.com/news/hilton-completes-100m-renovation-first-lxr-hotel-hawaii/825400/",
         "source": "Hotel Dive",
         "source_name": "Hotel Dive"
       }
@@ -372,7 +372,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-07-17T22:08:15.437951Z"
+          "published_at": "2026-07-18T03:35:10.452836Z"
         }
       ],
       "source_count": 1,
@@ -387,7 +387,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-07-17T22:08:15.437951Z"
+          "published_at": "2026-07-18T03:35:10.452836Z"
         }
       ],
       "item_count": 1,
@@ -406,8 +406,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-17T22:08:15.437951Z",
-      "latest_at": "2026-07-17T22:08:15.437951Z",
+      "earliest_at": "2026-07-18T03:35:10.452836Z",
+      "latest_at": "2026-07-18T03:35:10.452836Z",
       "primary_item": {
         "id": "hotelitem_9699887c72ea",
         "title": "中国旅游研究院与中青旅控股股份有限公司开展主题党日联学联",
@@ -451,14 +451,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9404,
-      "importance": 0.5848,
-      "importance_score": 0.9404,
+      "score": 0.9394,
+      "importance": 0.5838,
+      "importance_score": 0.9394,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9242,
+        "recency": 0.9192,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -510,14 +510,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9239,
-      "importance": 0.5681,
-      "importance_score": 0.9239,
+      "score": 0.9224,
+      "importance": 0.5671,
+      "importance_score": 0.9224,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8406,
+        "recency": 0.8356,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -549,7 +549,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-17T22:08:15.437951Z"
+          "published_at": "2026-07-18T03:35:10.452836Z"
         },
         {
           "id": "hotelitem_c7c15b7680c9",
@@ -558,7 +558,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-17T22:08:15.437951Z"
+          "published_at": "2026-07-18T03:35:10.452836Z"
         },
         {
           "id": "hotelitem_6d8fa145e8af",
@@ -567,7 +567,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-17T22:08:15.437951Z"
+          "published_at": "2026-07-18T03:35:10.452836Z"
         }
       ],
       "source_count": 3,
@@ -582,7 +582,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-17T22:08:15.437951Z"
+          "published_at": "2026-07-18T03:35:10.452836Z"
         },
         {
           "id": "hotelitem_c7c15b7680c9",
@@ -591,7 +591,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-17T22:08:15.437951Z"
+          "published_at": "2026-07-18T03:35:10.452836Z"
         },
         {
           "id": "hotelitem_6d8fa145e8af",
@@ -600,7 +600,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-17T22:08:15.437951Z"
+          "published_at": "2026-07-18T03:35:10.452836Z"
         }
       ],
       "item_count": 3,
@@ -620,8 +620,8 @@
         "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-17T22:08:15.437951Z",
-      "latest_at": "2026-07-17T22:08:15.437951Z",
+      "earliest_at": "2026-07-18T03:35:10.452836Z",
+      "latest_at": "2026-07-18T03:35:10.452836Z",
       "primary_item": {
         "id": "hotelitem_d4370964909c",
         "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
@@ -665,14 +665,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9078,
-      "importance": 0.5674,
-      "importance_score": 0.9078,
+      "score": 0.9063,
+      "importance": 0.5664,
+      "importance_score": 0.9063,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8368,
+        "recency": 0.8318,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -724,14 +724,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9073,
-      "importance": 0.5842,
-      "importance_score": 0.9073,
+      "score": 0.9063,
+      "importance": 0.5832,
+      "importance_score": 0.9063,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.921,
+        "recency": 0.9159,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -763,7 +763,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-17T22:08:15.437951Z"
+          "published_at": "2026-07-18T03:35:10.452836Z"
         }
       ],
       "source_count": 1,
@@ -778,7 +778,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-17T22:08:15.437951Z"
+          "published_at": "2026-07-18T03:35:10.452836Z"
         }
       ],
       "item_count": 1,
@@ -797,8 +797,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-17T22:08:15.437951Z",
-      "latest_at": "2026-07-17T22:08:15.437951Z",
+      "earliest_at": "2026-07-18T03:35:10.452836Z",
+      "latest_at": "2026-07-18T03:35:10.452836Z",
       "primary_item": {
         "id": "hotelitem_2c7d18362dc5",
         "title": "协会动态 | 中国饭店协会休闲度假专业委员会一届一次主任办公会在太仓召开 2026年7月8日，中国饭店协会休闲度假专业委员会一届一次主任办公会在太仓金茂隐逸玫瑰庄园度假酒店召开。中国饭店协会会长陈新华，中国饭店协会副会长、休闲度假专业委员会主任委员、君澜酒店董事长兼总裁王建平，苏州市旅游饭店业协会会长孙子元出席会议。会议由中国饭店协会副秘书长张乐然主持。",
@@ -822,7 +822,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-07-17T22:08:15.437951Z"
+          "published_at": "2026-07-18T03:35:10.452836Z"
         }
       ],
       "source_count": 1,
@@ -837,7 +837,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-07-17T22:08:15.437951Z"
+          "published_at": "2026-07-18T03:35:10.452836Z"
         }
       ],
       "item_count": 1,
@@ -856,8 +856,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-17T22:08:15.437951Z",
-      "latest_at": "2026-07-17T22:08:15.437951Z",
+      "earliest_at": "2026-07-18T03:35:10.452836Z",
+      "latest_at": "2026-07-18T03:35:10.452836Z",
       "primary_item": {
         "id": "hotelitem_d34e2868e8eb",
         "title": "惠评文旅|18亿收购，君亭没卖成，国资文旅买壳真正逻辑是什么？",
@@ -881,7 +881,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-07-17T22:08:15.437951Z"
+          "published_at": "2026-07-18T03:35:10.452836Z"
         }
       ],
       "source_count": 1,
@@ -896,7 +896,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-07-17T22:08:15.437951Z"
+          "published_at": "2026-07-18T03:35:10.452836Z"
         }
       ],
       "item_count": 1,
@@ -915,8 +915,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-17T22:08:15.437951Z",
-      "latest_at": "2026-07-17T22:08:15.437951Z",
+      "earliest_at": "2026-07-18T03:35:10.452836Z",
+      "latest_at": "2026-07-18T03:35:10.452836Z",
       "primary_item": {
         "id": "hotelitem_2c03113fa391",
         "title": "文旅惠报|飞猪与浙旅投集团达成战略合作；凯联国际酒店年度亏损收窄至4.74亿港元",
@@ -940,7 +940,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-07-17T22:08:15.437951Z"
+          "published_at": "2026-07-18T03:35:10.452836Z"
         }
       ],
       "source_count": 1,
@@ -955,7 +955,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-07-17T22:08:15.437951Z"
+          "published_at": "2026-07-18T03:35:10.452836Z"
         }
       ],
       "item_count": 1,
@@ -974,8 +974,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-17T22:08:15.437951Z",
-      "latest_at": "2026-07-17T22:08:15.437951Z",
+      "earliest_at": "2026-07-18T03:35:10.452836Z",
+      "latest_at": "2026-07-18T03:35:10.452836Z",
       "primary_item": {
         "id": "hotelitem_50c135faab60",
         "title": "文旅惠报|首旅集团拟发行20亿元超短期融资券，期限95天；广西旅发集团任命向红为副董事长、总经理",
@@ -999,7 +999,7 @@
           "source": "Agoda",
           "source_name": "Agoda",
           "site_id": "agoda_press",
-          "published_at": "2026-07-17T22:08:15.437951Z"
+          "published_at": "2026-07-18T03:35:10.452836Z"
         },
         {
           "id": "hotelitem_4eb38ce2a1e7",
@@ -1008,7 +1008,7 @@
           "source": "Agoda",
           "source_name": "Agoda",
           "site_id": "agoda_press",
-          "published_at": "2026-07-17T22:08:15.437951Z"
+          "published_at": "2026-07-18T03:35:10.452836Z"
         }
       ],
       "source_count": 2,
@@ -1023,7 +1023,7 @@
           "source": "Agoda",
           "source_name": "Agoda",
           "site_id": "agoda_press",
-          "published_at": "2026-07-17T22:08:15.437951Z"
+          "published_at": "2026-07-18T03:35:10.452836Z"
         },
         {
           "id": "hotelitem_4eb38ce2a1e7",
@@ -1032,7 +1032,7 @@
           "source": "Agoda",
           "source_name": "Agoda",
           "site_id": "agoda_press",
-          "published_at": "2026-07-17T22:08:15.437951Z"
+          "published_at": "2026-07-18T03:35:10.452836Z"
         }
       ],
       "item_count": 2,
@@ -1052,8 +1052,8 @@
         "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-17T22:08:15.437951Z",
-      "latest_at": "2026-07-17T22:08:15.437951Z",
+      "earliest_at": "2026-07-18T03:35:10.452836Z",
+      "latest_at": "2026-07-18T03:35:10.452836Z",
       "primary_item": {
         "id": "hotelitem_8198bc289a0c",
         "title": "Agoda Unveils Taiwan H1 Travel Insights: Ban ... Singapore, 14 July 2026 – Digital travel platform Agoda has released the latest insights on travel tre ... July 14, 2026 / Travel Trends",
@@ -1097,14 +1097,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8618,
-      "importance": 0.5966,
-      "importance_score": 0.8618,
+      "score": 0.8608,
+      "importance": 0.5956,
+      "importance_score": 0.8608,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9832,
+        "recency": 0.9781,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1156,14 +1156,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8613,
-      "importance": 0.5962,
-      "importance_score": 0.8613,
+      "score": 0.8603,
+      "importance": 0.5951,
+      "importance_score": 0.8603,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9808,
+        "recency": 0.9757,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1215,14 +1215,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8613,
-      "importance": 0.5962,
-      "importance_score": 0.8613,
+      "score": 0.8603,
+      "importance": 0.5952,
+      "importance_score": 0.8603,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9809,
+        "recency": 0.9759,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1237,6 +1237,360 @@
         "url": "https://insights.ehotelier.com/global-news/2026/07/17/nesuto-apartment-hotels-records-growth-in-health-and-logistics-sectors-as-extended-stay-demand-rises/?utm_source=rss&utm_medium=rss&utm_campaign=nesuto-apartment-hotels-records-growth-in-health-and-logistics-sectors-as-extended-stay-demand-rises",
         "source": "eHotelier",
         "source_name": "eHotelier"
+      }
+    },
+    {
+      "story_id": "story_59179e8d4d95",
+      "title": "5项文化和旅游行业标准发布",
+      "url": "https://www.mct.gov.cn/whzx/bnsj/whkjs/202607/t20260716_966560.html",
+      "primary_url": "https://www.mct.gov.cn/whzx/bnsj/whkjs/202607/t20260716_966560.html",
+      "source": "文化和旅游部",
+      "source_name": "文化和旅游部",
+      "sources": [
+        {
+          "id": "hotelitem_59179e8d4d95",
+          "title": "5项文化和旅游行业标准发布",
+          "url": "https://www.mct.gov.cn/whzx/bnsj/whkjs/202607/t20260716_966560.html",
+          "source": "文化和旅游部",
+          "source_name": "文化和旅游部",
+          "site_id": "mct",
+          "published_at": "2026-07-18T03:35:10.452836Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "文化和旅游部"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_59179e8d4d95",
+          "title": "5项文化和旅游行业标准发布",
+          "url": "https://www.mct.gov.cn/whzx/bnsj/whkjs/202607/t20260716_966560.html",
+          "source": "文化和旅游部",
+          "source_name": "文化和旅游部",
+          "site_id": "mct",
+          "published_at": "2026-07-18T03:35:10.452836Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.858,
+      "importance": 0.6,
+      "importance_score": 0.858,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-18T03:35:10.452836Z",
+      "latest_at": "2026-07-18T03:35:10.452836Z",
+      "primary_item": {
+        "id": "hotelitem_59179e8d4d95",
+        "title": "5项文化和旅游行业标准发布",
+        "url": "https://www.mct.gov.cn/whzx/bnsj/whkjs/202607/t20260716_966560.html",
+        "source": "文化和旅游部",
+        "source_name": "文化和旅游部"
+      }
+    },
+    {
+      "story_id": "story_e4ce0593c384",
+      "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
+      "url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
+      "primary_url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
+      "source": "中国旅游研究院",
+      "source_name": "中国旅游研究院",
+      "sources": [
+        {
+          "id": "hotelitem_e4ce0593c384",
+          "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
+          "url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
+          "source": "中国旅游研究院",
+          "source_name": "中国旅游研究院",
+          "site_id": "cta",
+          "published_at": "2026-07-18T03:35:10.452836Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "中国旅游研究院"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_e4ce0593c384",
+          "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
+          "url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
+          "source": "中国旅游研究院",
+          "source_name": "中国旅游研究院",
+          "site_id": "cta",
+          "published_at": "2026-07-18T03:35:10.452836Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.858,
+      "importance": 0.6,
+      "importance_score": 0.858,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-18T03:35:10.452836Z",
+      "latest_at": "2026-07-18T03:35:10.452836Z",
+      "primary_item": {
+        "id": "hotelitem_e4ce0593c384",
+        "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
+        "url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
+        "source": "中国旅游研究院",
+        "source_name": "中国旅游研究院"
+      }
+    },
+    {
+      "story_id": "story_fa34986b4fc0",
+      "title": "文化和旅游部、金融监管总局关于警惕借“保...",
+      "url": "https://www.mct.gov.cn/whzx/whyw/202607/t20260714_966526.htm",
+      "primary_url": "https://www.mct.gov.cn/whzx/whyw/202607/t20260714_966526.htm",
+      "source": "文化和旅游部",
+      "source_name": "文化和旅游部",
+      "sources": [
+        {
+          "id": "hotelitem_fa34986b4fc0",
+          "title": "文化和旅游部、金融监管总局关于警惕借“保...",
+          "url": "https://www.mct.gov.cn/whzx/whyw/202607/t20260714_966526.htm",
+          "source": "文化和旅游部",
+          "source_name": "文化和旅游部",
+          "site_id": "mct",
+          "published_at": "2026-07-18T03:35:10.452836Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "文化和旅游部"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_fa34986b4fc0",
+          "title": "文化和旅游部、金融监管总局关于警惕借“保...",
+          "url": "https://www.mct.gov.cn/whzx/whyw/202607/t20260714_966526.htm",
+          "source": "文化和旅游部",
+          "source_name": "文化和旅游部",
+          "site_id": "mct",
+          "published_at": "2026-07-18T03:35:10.452836Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.858,
+      "importance": 0.6,
+      "importance_score": 0.858,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-18T03:35:10.452836Z",
+      "latest_at": "2026-07-18T03:35:10.452836Z",
+      "primary_item": {
+        "id": "hotelitem_fa34986b4fc0",
+        "title": "文化和旅游部、金融监管总局关于警惕借“保...",
+        "url": "https://www.mct.gov.cn/whzx/whyw/202607/t20260714_966526.htm",
+        "source": "文化和旅游部",
+        "source_name": "文化和旅游部"
+      }
+    },
+    {
+      "story_id": "story_6bb66367ea13",
+      "title": "文化和旅游部产业项目服务平台第47期精品...",
+      "url": "https://www.mct.gov.cn/whzx/bnsj/whcys/202607/t20260713_966502.html",
+      "primary_url": "https://www.mct.gov.cn/whzx/bnsj/whcys/202607/t20260713_966502.html",
+      "source": "文化和旅游部",
+      "source_name": "文化和旅游部",
+      "sources": [
+        {
+          "id": "hotelitem_6bb66367ea13",
+          "title": "文化和旅游部产业项目服务平台第47期精品...",
+          "url": "https://www.mct.gov.cn/whzx/bnsj/whcys/202607/t20260713_966502.html",
+          "source": "文化和旅游部",
+          "source_name": "文化和旅游部",
+          "site_id": "mct",
+          "published_at": "2026-07-18T03:35:10.452836Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "文化和旅游部"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_6bb66367ea13",
+          "title": "文化和旅游部产业项目服务平台第47期精品...",
+          "url": "https://www.mct.gov.cn/whzx/bnsj/whcys/202607/t20260713_966502.html",
+          "source": "文化和旅游部",
+          "source_name": "文化和旅游部",
+          "site_id": "mct",
+          "published_at": "2026-07-18T03:35:10.452836Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.858,
+      "importance": 0.6,
+      "importance_score": 0.858,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-18T03:35:10.452836Z",
+      "latest_at": "2026-07-18T03:35:10.452836Z",
+      "primary_item": {
+        "id": "hotelitem_6bb66367ea13",
+        "title": "文化和旅游部产业项目服务平台第47期精品...",
+        "url": "https://www.mct.gov.cn/whzx/bnsj/whcys/202607/t20260713_966502.html",
+        "source": "文化和旅游部",
+        "source_name": "文化和旅游部"
+      }
+    },
+    {
+      "story_id": "story_9a958319a874",
+      "title": "文化和旅游部印发《旅游强国建设“十五五”...",
+      "url": "https://www.mct.gov.cn/whzx/whyw/202607/t20260708_966448.htm",
+      "primary_url": "https://www.mct.gov.cn/whzx/whyw/202607/t20260708_966448.htm",
+      "source": "文化和旅游部",
+      "source_name": "文化和旅游部",
+      "sources": [
+        {
+          "id": "hotelitem_9a958319a874",
+          "title": "文化和旅游部印发《旅游强国建设“十五五”...",
+          "url": "https://www.mct.gov.cn/whzx/whyw/202607/t20260708_966448.htm",
+          "source": "文化和旅游部",
+          "source_name": "文化和旅游部",
+          "site_id": "mct",
+          "published_at": "2026-07-18T03:35:10.452836Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "文化和旅游部"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_9a958319a874",
+          "title": "文化和旅游部印发《旅游强国建设“十五五”...",
+          "url": "https://www.mct.gov.cn/whzx/whyw/202607/t20260708_966448.htm",
+          "source": "文化和旅游部",
+          "source_name": "文化和旅游部",
+          "site_id": "mct",
+          "published_at": "2026-07-18T03:35:10.452836Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.858,
+      "importance": 0.6,
+      "importance_score": 0.858,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-18T03:35:10.452836Z",
+      "latest_at": "2026-07-18T03:35:10.452836Z",
+      "primary_item": {
+        "id": "hotelitem_9a958319a874",
+        "title": "文化和旅游部印发《旅游强国建设“十五五”...",
+        "url": "https://www.mct.gov.cn/whzx/whyw/202607/t20260708_966448.htm",
+        "source": "文化和旅游部",
+        "source_name": "文化和旅游部"
+      }
+    },
+    {
+      "story_id": "story_9a179dce1533",
+      "title": "文化和旅游部第16期西藏文化和旅游管理干...",
+      "url": "https://www.mct.gov.cn/whzx/bnsj/rss/202607/t20260716_966565.html",
+      "primary_url": "https://www.mct.gov.cn/whzx/bnsj/rss/202607/t20260716_966565.html",
+      "source": "文化和旅游部",
+      "source_name": "文化和旅游部",
+      "sources": [
+        {
+          "id": "hotelitem_9a179dce1533",
+          "title": "文化和旅游部第16期西藏文化和旅游管理干...",
+          "url": "https://www.mct.gov.cn/whzx/bnsj/rss/202607/t20260716_966565.html",
+          "source": "文化和旅游部",
+          "source_name": "文化和旅游部",
+          "site_id": "mct",
+          "published_at": "2026-07-18T03:35:10.452836Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "文化和旅游部"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_9a179dce1533",
+          "title": "文化和旅游部第16期西藏文化和旅游管理干...",
+          "url": "https://www.mct.gov.cn/whzx/bnsj/rss/202607/t20260716_966565.html",
+          "source": "文化和旅游部",
+          "source_name": "文化和旅游部",
+          "site_id": "mct",
+          "published_at": "2026-07-18T03:35:10.452836Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.858,
+      "importance": 0.6,
+      "importance_score": 0.858,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-18T03:35:10.452836Z",
+      "latest_at": "2026-07-18T03:35:10.452836Z",
+      "primary_item": {
+        "id": "hotelitem_9a179dce1533",
+        "title": "文化和旅游部第16期西藏文化和旅游管理干...",
+        "url": "https://www.mct.gov.cn/whzx/bnsj/rss/202607/t20260716_966565.html",
+        "source": "文化和旅游部",
+        "source_name": "文化和旅游部"
       }
     },
     {
@@ -1274,14 +1628,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8593,
-      "importance": 0.5241,
-      "importance_score": 0.8593,
+      "score": 0.8578,
+      "importance": 0.5231,
+      "importance_score": 0.8578,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.6206,
+        "recency": 0.6156,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1296,360 +1650,6 @@
         "url": "https://www.hotelmanagement.net/resource/reactive-proactive-leveraging-data-prevent-device-failures-protect-guest-experience",
         "source": "Hotel Management",
         "source_name": "Hotel Management"
-      }
-    },
-    {
-      "story_id": "story_59179e8d4d95",
-      "title": "5项文化和旅游行业标准发布",
-      "url": "https://www.mct.gov.cn/whzx/bnsj/whkjs/202607/t20260716_966560.html",
-      "primary_url": "https://www.mct.gov.cn/whzx/bnsj/whkjs/202607/t20260716_966560.html",
-      "source": "文化和旅游部",
-      "source_name": "文化和旅游部",
-      "sources": [
-        {
-          "id": "hotelitem_59179e8d4d95",
-          "title": "5项文化和旅游行业标准发布",
-          "url": "https://www.mct.gov.cn/whzx/bnsj/whkjs/202607/t20260716_966560.html",
-          "source": "文化和旅游部",
-          "source_name": "文化和旅游部",
-          "site_id": "mct",
-          "published_at": "2026-07-17T22:08:15.437951Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "文化和旅游部"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_59179e8d4d95",
-          "title": "5项文化和旅游行业标准发布",
-          "url": "https://www.mct.gov.cn/whzx/bnsj/whkjs/202607/t20260716_966560.html",
-          "source": "文化和旅游部",
-          "source_name": "文化和旅游部",
-          "site_id": "mct",
-          "published_at": "2026-07-17T22:08:15.437951Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.858,
-      "importance": 0.6,
-      "importance_score": 0.858,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-17T22:08:15.437951Z",
-      "latest_at": "2026-07-17T22:08:15.437951Z",
-      "primary_item": {
-        "id": "hotelitem_59179e8d4d95",
-        "title": "5项文化和旅游行业标准发布",
-        "url": "https://www.mct.gov.cn/whzx/bnsj/whkjs/202607/t20260716_966560.html",
-        "source": "文化和旅游部",
-        "source_name": "文化和旅游部"
-      }
-    },
-    {
-      "story_id": "story_e4ce0593c384",
-      "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
-      "url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
-      "primary_url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
-      "source": "中国旅游研究院",
-      "source_name": "中国旅游研究院",
-      "sources": [
-        {
-          "id": "hotelitem_e4ce0593c384",
-          "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
-          "url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
-          "source": "中国旅游研究院",
-          "source_name": "中国旅游研究院",
-          "site_id": "cta",
-          "published_at": "2026-07-17T22:08:15.437951Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "中国旅游研究院"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_e4ce0593c384",
-          "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
-          "url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
-          "source": "中国旅游研究院",
-          "source_name": "中国旅游研究院",
-          "site_id": "cta",
-          "published_at": "2026-07-17T22:08:15.437951Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.858,
-      "importance": 0.6,
-      "importance_score": 0.858,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-17T22:08:15.437951Z",
-      "latest_at": "2026-07-17T22:08:15.437951Z",
-      "primary_item": {
-        "id": "hotelitem_e4ce0593c384",
-        "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
-        "url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
-        "source": "中国旅游研究院",
-        "source_name": "中国旅游研究院"
-      }
-    },
-    {
-      "story_id": "story_fa34986b4fc0",
-      "title": "文化和旅游部、金融监管总局关于警惕借“保...",
-      "url": "https://www.mct.gov.cn/whzx/whyw/202607/t20260714_966526.htm",
-      "primary_url": "https://www.mct.gov.cn/whzx/whyw/202607/t20260714_966526.htm",
-      "source": "文化和旅游部",
-      "source_name": "文化和旅游部",
-      "sources": [
-        {
-          "id": "hotelitem_fa34986b4fc0",
-          "title": "文化和旅游部、金融监管总局关于警惕借“保...",
-          "url": "https://www.mct.gov.cn/whzx/whyw/202607/t20260714_966526.htm",
-          "source": "文化和旅游部",
-          "source_name": "文化和旅游部",
-          "site_id": "mct",
-          "published_at": "2026-07-17T22:08:15.437951Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "文化和旅游部"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_fa34986b4fc0",
-          "title": "文化和旅游部、金融监管总局关于警惕借“保...",
-          "url": "https://www.mct.gov.cn/whzx/whyw/202607/t20260714_966526.htm",
-          "source": "文化和旅游部",
-          "source_name": "文化和旅游部",
-          "site_id": "mct",
-          "published_at": "2026-07-17T22:08:15.437951Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.858,
-      "importance": 0.6,
-      "importance_score": 0.858,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-17T22:08:15.437951Z",
-      "latest_at": "2026-07-17T22:08:15.437951Z",
-      "primary_item": {
-        "id": "hotelitem_fa34986b4fc0",
-        "title": "文化和旅游部、金融监管总局关于警惕借“保...",
-        "url": "https://www.mct.gov.cn/whzx/whyw/202607/t20260714_966526.htm",
-        "source": "文化和旅游部",
-        "source_name": "文化和旅游部"
-      }
-    },
-    {
-      "story_id": "story_6bb66367ea13",
-      "title": "文化和旅游部产业项目服务平台第47期精品...",
-      "url": "https://www.mct.gov.cn/whzx/bnsj/whcys/202607/t20260713_966502.html",
-      "primary_url": "https://www.mct.gov.cn/whzx/bnsj/whcys/202607/t20260713_966502.html",
-      "source": "文化和旅游部",
-      "source_name": "文化和旅游部",
-      "sources": [
-        {
-          "id": "hotelitem_6bb66367ea13",
-          "title": "文化和旅游部产业项目服务平台第47期精品...",
-          "url": "https://www.mct.gov.cn/whzx/bnsj/whcys/202607/t20260713_966502.html",
-          "source": "文化和旅游部",
-          "source_name": "文化和旅游部",
-          "site_id": "mct",
-          "published_at": "2026-07-17T22:08:15.437951Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "文化和旅游部"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_6bb66367ea13",
-          "title": "文化和旅游部产业项目服务平台第47期精品...",
-          "url": "https://www.mct.gov.cn/whzx/bnsj/whcys/202607/t20260713_966502.html",
-          "source": "文化和旅游部",
-          "source_name": "文化和旅游部",
-          "site_id": "mct",
-          "published_at": "2026-07-17T22:08:15.437951Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.858,
-      "importance": 0.6,
-      "importance_score": 0.858,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-17T22:08:15.437951Z",
-      "latest_at": "2026-07-17T22:08:15.437951Z",
-      "primary_item": {
-        "id": "hotelitem_6bb66367ea13",
-        "title": "文化和旅游部产业项目服务平台第47期精品...",
-        "url": "https://www.mct.gov.cn/whzx/bnsj/whcys/202607/t20260713_966502.html",
-        "source": "文化和旅游部",
-        "source_name": "文化和旅游部"
-      }
-    },
-    {
-      "story_id": "story_9a958319a874",
-      "title": "文化和旅游部印发《旅游强国建设“十五五”...",
-      "url": "https://www.mct.gov.cn/whzx/whyw/202607/t20260708_966448.htm",
-      "primary_url": "https://www.mct.gov.cn/whzx/whyw/202607/t20260708_966448.htm",
-      "source": "文化和旅游部",
-      "source_name": "文化和旅游部",
-      "sources": [
-        {
-          "id": "hotelitem_9a958319a874",
-          "title": "文化和旅游部印发《旅游强国建设“十五五”...",
-          "url": "https://www.mct.gov.cn/whzx/whyw/202607/t20260708_966448.htm",
-          "source": "文化和旅游部",
-          "source_name": "文化和旅游部",
-          "site_id": "mct",
-          "published_at": "2026-07-17T22:08:15.437951Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "文化和旅游部"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_9a958319a874",
-          "title": "文化和旅游部印发《旅游强国建设“十五五”...",
-          "url": "https://www.mct.gov.cn/whzx/whyw/202607/t20260708_966448.htm",
-          "source": "文化和旅游部",
-          "source_name": "文化和旅游部",
-          "site_id": "mct",
-          "published_at": "2026-07-17T22:08:15.437951Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.858,
-      "importance": 0.6,
-      "importance_score": 0.858,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-17T22:08:15.437951Z",
-      "latest_at": "2026-07-17T22:08:15.437951Z",
-      "primary_item": {
-        "id": "hotelitem_9a958319a874",
-        "title": "文化和旅游部印发《旅游强国建设“十五五”...",
-        "url": "https://www.mct.gov.cn/whzx/whyw/202607/t20260708_966448.htm",
-        "source": "文化和旅游部",
-        "source_name": "文化和旅游部"
-      }
-    },
-    {
-      "story_id": "story_9a179dce1533",
-      "title": "文化和旅游部第16期西藏文化和旅游管理干...",
-      "url": "https://www.mct.gov.cn/whzx/bnsj/rss/202607/t20260716_966565.html",
-      "primary_url": "https://www.mct.gov.cn/whzx/bnsj/rss/202607/t20260716_966565.html",
-      "source": "文化和旅游部",
-      "source_name": "文化和旅游部",
-      "sources": [
-        {
-          "id": "hotelitem_9a179dce1533",
-          "title": "文化和旅游部第16期西藏文化和旅游管理干...",
-          "url": "https://www.mct.gov.cn/whzx/bnsj/rss/202607/t20260716_966565.html",
-          "source": "文化和旅游部",
-          "source_name": "文化和旅游部",
-          "site_id": "mct",
-          "published_at": "2026-07-17T22:08:15.437951Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "文化和旅游部"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_9a179dce1533",
-          "title": "文化和旅游部第16期西藏文化和旅游管理干...",
-          "url": "https://www.mct.gov.cn/whzx/bnsj/rss/202607/t20260716_966565.html",
-          "source": "文化和旅游部",
-          "source_name": "文化和旅游部",
-          "site_id": "mct",
-          "published_at": "2026-07-17T22:08:15.437951Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.858,
-      "importance": 0.6,
-      "importance_score": 0.858,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-17T22:08:15.437951Z",
-      "latest_at": "2026-07-17T22:08:15.437951Z",
-      "primary_item": {
-        "id": "hotelitem_9a179dce1533",
-        "title": "文化和旅游部第16期西藏文化和旅游管理干...",
-        "url": "https://www.mct.gov.cn/whzx/bnsj/rss/202607/t20260716_966565.html",
-        "source": "文化和旅游部",
-        "source_name": "文化和旅游部"
       }
     },
     {
@@ -1687,14 +1687,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.857,
-      "importance": 0.5917,
-      "importance_score": 0.857,
+      "score": 0.856,
+      "importance": 0.5907,
+      "importance_score": 0.856,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9585,
+        "recency": 0.9535,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1746,14 +1746,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8506,
-      "importance": 0.585,
-      "importance_score": 0.8506,
+      "score": 0.8496,
+      "importance": 0.584,
+      "importance_score": 0.8496,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9251,
+        "recency": 0.92,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1805,14 +1805,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8481,
-      "importance": 0.598,
-      "importance_score": 0.8481,
+      "score": 0.8471,
+      "importance": 0.597,
+      "importance_score": 0.8471,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9901,
+        "recency": 0.985,
         "story_heat": 0.0
       },
       "category": "watch",
