@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-19T03:57:43.269031Z",
+  "generated_at": "2026-07-19T08:34:55.330664Z",
   "window_hours": 1080,
   "total_stories": 30,
   "stories": [
@@ -38,14 +38,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9613,
-      "importance": 0.5544,
-      "importance_score": 0.9613,
+      "score": 0.96,
+      "importance": 0.5536,
+      "importance_score": 0.96,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.7721,
+        "recency": 0.7678,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -60,6 +60,65 @@
         "url": "https://www.traveldaily.cn/article/190359",
         "source": "环球旅讯 TravelDaily",
         "source_name": "环球旅讯 TravelDaily"
+      }
+    },
+    {
+      "story_id": "story_9699887c72ea",
+      "title": "中国旅游研究院与中青旅控股股份有限公司开展主题党日联学联",
+      "url": "https://www.ctaweb.org.cn/gongzuodongtai/10519.html",
+      "primary_url": "https://www.ctaweb.org.cn/gongzuodongtai/10519.html",
+      "source": "中国旅游研究院",
+      "source_name": "中国旅游研究院",
+      "sources": [
+        {
+          "id": "hotelitem_9699887c72ea",
+          "title": "中国旅游研究院与中青旅控股股份有限公司开展主题党日联学联",
+          "url": "https://www.ctaweb.org.cn/gongzuodongtai/10519.html",
+          "source": "中国旅游研究院",
+          "source_name": "中国旅游研究院",
+          "site_id": "cta",
+          "published_at": "2026-07-19T08:34:55.330664Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "中国旅游研究院"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_9699887c72ea",
+          "title": "中国旅游研究院与中青旅控股股份有限公司开展主题党日联学联",
+          "url": "https://www.ctaweb.org.cn/gongzuodongtai/10519.html",
+          "source": "中国旅游研究院",
+          "source_name": "中国旅游研究院",
+          "site_id": "cta",
+          "published_at": "2026-07-19T08:34:55.330664Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.948,
+      "importance": 0.6,
+      "importance_score": 0.948,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-19T08:34:55.330664Z",
+      "latest_at": "2026-07-19T08:34:55.330664Z",
+      "primary_item": {
+        "id": "hotelitem_9699887c72ea",
+        "title": "中国旅游研究院与中青旅控股股份有限公司开展主题党日联学联",
+        "url": "https://www.ctaweb.org.cn/gongzuodongtai/10519.html",
+        "source": "中国旅游研究院",
+        "source_name": "中国旅游研究院"
       }
     },
     {
@@ -97,14 +156,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9481,
-      "importance": 0.5928,
-      "importance_score": 0.9481,
+      "score": 0.9473,
+      "importance": 0.592,
+      "importance_score": 0.9473,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9641,
+        "recency": 0.9599,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -119,65 +178,6 @@
         "url": "https://www.hoteldive.com/news/ashford-hospitality-trust-sells-fremont-marriott-silicon-valley/825518/",
         "source": "Hotel Dive",
         "source_name": "Hotel Dive"
-      }
-    },
-    {
-      "story_id": "story_9699887c72ea",
-      "title": "中国旅游研究院与中青旅控股股份有限公司开展主题党日联学联",
-      "url": "https://www.ctaweb.org.cn/gongzuodongtai/10519.html",
-      "primary_url": "https://www.ctaweb.org.cn/gongzuodongtai/10519.html",
-      "source": "中国旅游研究院",
-      "source_name": "中国旅游研究院",
-      "sources": [
-        {
-          "id": "hotelitem_9699887c72ea",
-          "title": "中国旅游研究院与中青旅控股股份有限公司开展主题党日联学联",
-          "url": "https://www.ctaweb.org.cn/gongzuodongtai/10519.html",
-          "source": "中国旅游研究院",
-          "source_name": "中国旅游研究院",
-          "site_id": "cta",
-          "published_at": "2026-07-19T03:57:43.269031Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "中国旅游研究院"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_9699887c72ea",
-          "title": "中国旅游研究院与中青旅控股股份有限公司开展主题党日联学联",
-          "url": "https://www.ctaweb.org.cn/gongzuodongtai/10519.html",
-          "source": "中国旅游研究院",
-          "source_name": "中国旅游研究院",
-          "site_id": "cta",
-          "published_at": "2026-07-19T03:57:43.269031Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.948,
-      "importance": 0.6,
-      "importance_score": 0.948,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-19T03:57:43.269031Z",
-      "latest_at": "2026-07-19T03:57:43.269031Z",
-      "primary_item": {
-        "id": "hotelitem_9699887c72ea",
-        "title": "中国旅游研究院与中青旅控股股份有限公司开展主题党日联学联",
-        "url": "https://www.ctaweb.org.cn/gongzuodongtai/10519.html",
-        "source": "中国旅游研究院",
-        "source_name": "中国旅游研究院"
       }
     },
     {
@@ -215,14 +215,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.946,
-      "importance": 0.5907,
-      "importance_score": 0.946,
+      "score": 0.9452,
+      "importance": 0.5898,
+      "importance_score": 0.9452,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9534,
+        "recency": 0.9492,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -274,14 +274,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9459,
-      "importance": 0.5906,
-      "importance_score": 0.9459,
+      "score": 0.9451,
+      "importance": 0.5897,
+      "importance_score": 0.9451,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9528,
+        "recency": 0.9485,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -296,65 +296,6 @@
         "url": "https://insights.ehotelier.com/properties/2026/07/17/radisson-resort-layan-phuket-opens-on-phukets-peaceful-northwest-coast/?utm_source=rss&utm_medium=rss&utm_campaign=radisson-resort-layan-phuket-opens-on-phukets-peaceful-northwest-coast",
         "source": "eHotelier",
         "source_name": "eHotelier"
-      }
-    },
-    {
-      "story_id": "story_0f14165f8c65",
-      "title": "Hilton completes $100M renovation on first LXR hotel in Hawaii",
-      "url": "https://www.hoteldive.com/news/hilton-completes-100m-renovation-first-lxr-hotel-hawaii/825400/",
-      "primary_url": "https://www.hoteldive.com/news/hilton-completes-100m-renovation-first-lxr-hotel-hawaii/825400/",
-      "source": "Hotel Dive",
-      "source_name": "Hotel Dive",
-      "sources": [
-        {
-          "id": "hotelitem_0f14165f8c65",
-          "title": "Hilton completes $100M renovation on first LXR hotel in Hawaii",
-          "url": "https://www.hoteldive.com/news/hilton-completes-100m-renovation-first-lxr-hotel-hawaii/825400/",
-          "source": "Hotel Dive",
-          "source_name": "Hotel Dive",
-          "site_id": "hoteldive",
-          "published_at": "2026-07-16T14:05:52Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hotel Dive"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_0f14165f8c65",
-          "title": "Hilton completes $100M renovation on first LXR hotel in Hawaii",
-          "url": "https://www.hoteldive.com/news/hilton-completes-100m-renovation-first-lxr-hotel-hawaii/825400/",
-          "source": "Hotel Dive",
-          "source_name": "Hotel Dive",
-          "site_id": "hoteldive",
-          "published_at": "2026-07-16T14:05:52Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.944,
-      "importance": 0.5885,
-      "importance_score": 0.944,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9427,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-16T14:05:52Z",
-      "latest_at": "2026-07-16T14:05:52Z",
-      "primary_item": {
-        "id": "hotelitem_0f14165f8c65",
-        "title": "Hilton completes $100M renovation on first LXR hotel in Hawaii",
-        "url": "https://www.hoteldive.com/news/hilton-completes-100m-renovation-first-lxr-hotel-hawaii/825400/",
-        "source": "Hotel Dive",
-        "source_name": "Hotel Dive"
       }
     },
     {
@@ -392,14 +333,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9439,
-      "importance": 0.5885,
-      "importance_score": 0.9439,
+      "score": 0.9431,
+      "importance": 0.5876,
+      "importance_score": 0.9431,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9425,
+        "recency": 0.9382,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -412,6 +353,65 @@
         "id": "hotelitem_f5e73e82c51c",
         "title": "Travelers are booking hotel stays based on F&B: report",
         "url": "https://www.hoteldive.com/news/hotel-restaurant-travel-booking-trends/825399/",
+        "source": "Hotel Dive",
+        "source_name": "Hotel Dive"
+      }
+    },
+    {
+      "story_id": "story_0f14165f8c65",
+      "title": "Hilton completes $100M renovation on first LXR hotel in Hawaii",
+      "url": "https://www.hoteldive.com/news/hilton-completes-100m-renovation-first-lxr-hotel-hawaii/825400/",
+      "primary_url": "https://www.hoteldive.com/news/hilton-completes-100m-renovation-first-lxr-hotel-hawaii/825400/",
+      "source": "Hotel Dive",
+      "source_name": "Hotel Dive",
+      "sources": [
+        {
+          "id": "hotelitem_0f14165f8c65",
+          "title": "Hilton completes $100M renovation on first LXR hotel in Hawaii",
+          "url": "https://www.hoteldive.com/news/hilton-completes-100m-renovation-first-lxr-hotel-hawaii/825400/",
+          "source": "Hotel Dive",
+          "source_name": "Hotel Dive",
+          "site_id": "hoteldive",
+          "published_at": "2026-07-16T14:05:52Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hotel Dive"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_0f14165f8c65",
+          "title": "Hilton completes $100M renovation on first LXR hotel in Hawaii",
+          "url": "https://www.hoteldive.com/news/hilton-completes-100m-renovation-first-lxr-hotel-hawaii/825400/",
+          "source": "Hotel Dive",
+          "source_name": "Hotel Dive",
+          "site_id": "hoteldive",
+          "published_at": "2026-07-16T14:05:52Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.9431,
+      "importance": 0.5877,
+      "importance_score": 0.9431,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9384,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-16T14:05:52Z",
+      "latest_at": "2026-07-16T14:05:52Z",
+      "primary_item": {
+        "id": "hotelitem_0f14165f8c65",
+        "title": "Hilton completes $100M renovation on first LXR hotel in Hawaii",
+        "url": "https://www.hoteldive.com/news/hilton-completes-100m-renovation-first-lxr-hotel-hawaii/825400/",
         "source": "Hotel Dive",
         "source_name": "Hotel Dive"
       }
@@ -451,14 +451,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9351,
-      "importance": 0.5793,
-      "importance_score": 0.9351,
+      "score": 0.9342,
+      "importance": 0.5785,
+      "importance_score": 0.9342,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8966,
+        "recency": 0.8923,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -510,14 +510,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9158,
-      "importance": 0.5626,
-      "importance_score": 0.9158,
+      "score": 0.9145,
+      "importance": 0.5617,
+      "importance_score": 0.9145,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.813,
+        "recency": 0.8087,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -549,7 +549,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-19T03:57:43.269031Z"
+          "published_at": "2026-07-19T08:34:55.330664Z"
         },
         {
           "id": "hotelitem_c7c15b7680c9",
@@ -558,7 +558,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-19T03:57:43.269031Z"
+          "published_at": "2026-07-19T08:34:55.330664Z"
         },
         {
           "id": "hotelitem_6d8fa145e8af",
@@ -567,7 +567,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-19T03:57:43.269031Z"
+          "published_at": "2026-07-19T08:34:55.330664Z"
         }
       ],
       "source_count": 3,
@@ -582,7 +582,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-19T03:57:43.269031Z"
+          "published_at": "2026-07-19T08:34:55.330664Z"
         },
         {
           "id": "hotelitem_c7c15b7680c9",
@@ -591,7 +591,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-19T03:57:43.269031Z"
+          "published_at": "2026-07-19T08:34:55.330664Z"
         },
         {
           "id": "hotelitem_6d8fa145e8af",
@@ -600,7 +600,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-19T03:57:43.269031Z"
+          "published_at": "2026-07-19T08:34:55.330664Z"
         }
       ],
       "item_count": 3,
@@ -620,8 +620,8 @@
         "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-19T03:57:43.269031Z",
-      "latest_at": "2026-07-19T03:57:43.269031Z",
+      "earliest_at": "2026-07-19T08:34:55.330664Z",
+      "latest_at": "2026-07-19T08:34:55.330664Z",
       "primary_item": {
         "id": "hotelitem_d4370964909c",
         "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
@@ -665,14 +665,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9019,
-      "importance": 0.5787,
-      "importance_score": 0.9019,
+      "score": 0.9011,
+      "importance": 0.5778,
+      "importance_score": 0.9011,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8934,
+        "recency": 0.8891,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -704,7 +704,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-19T03:57:43.269031Z"
+          "published_at": "2026-07-19T08:34:55.330664Z"
         }
       ],
       "source_count": 1,
@@ -719,7 +719,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-19T03:57:43.269031Z"
+          "published_at": "2026-07-19T08:34:55.330664Z"
         }
       ],
       "item_count": 1,
@@ -738,8 +738,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-19T03:57:43.269031Z",
-      "latest_at": "2026-07-19T03:57:43.269031Z",
+      "earliest_at": "2026-07-19T08:34:55.330664Z",
+      "latest_at": "2026-07-19T08:34:55.330664Z",
       "primary_item": {
         "id": "hotelitem_2c7d18362dc5",
         "title": "协会动态 | 中国饭店协会休闲度假专业委员会一届一次主任办公会在太仓召开 2026年7月8日，中国饭店协会休闲度假专业委员会一届一次主任办公会在太仓金茂隐逸玫瑰庄园度假酒店召开。中国饭店协会会长陈新华，中国饭店协会副会长、休闲度假专业委员会主任委员、君澜酒店董事长兼总裁王建平，苏州市旅游饭店业协会会长孙子元出席会议。会议由中国饭店协会副秘书长张乐然主持。",
@@ -763,7 +763,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-07-19T03:57:43.269031Z"
+          "published_at": "2026-07-19T08:34:55.330664Z"
         }
       ],
       "source_count": 1,
@@ -778,7 +778,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-07-19T03:57:43.269031Z"
+          "published_at": "2026-07-19T08:34:55.330664Z"
         }
       ],
       "item_count": 1,
@@ -797,8 +797,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-19T03:57:43.269031Z",
-      "latest_at": "2026-07-19T03:57:43.269031Z",
+      "earliest_at": "2026-07-19T08:34:55.330664Z",
+      "latest_at": "2026-07-19T08:34:55.330664Z",
       "primary_item": {
         "id": "hotelitem_d34e2868e8eb",
         "title": "惠评文旅|18亿收购，君亭没卖成，国资文旅买壳真正逻辑是什么？",
@@ -822,7 +822,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-07-19T03:57:43.269031Z"
+          "published_at": "2026-07-19T08:34:55.330664Z"
         }
       ],
       "source_count": 1,
@@ -837,7 +837,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-07-19T03:57:43.269031Z"
+          "published_at": "2026-07-19T08:34:55.330664Z"
         }
       ],
       "item_count": 1,
@@ -856,8 +856,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-19T03:57:43.269031Z",
-      "latest_at": "2026-07-19T03:57:43.269031Z",
+      "earliest_at": "2026-07-19T08:34:55.330664Z",
+      "latest_at": "2026-07-19T08:34:55.330664Z",
       "primary_item": {
         "id": "hotelitem_2c03113fa391",
         "title": "文旅惠报|飞猪与浙旅投集团达成战略合作；凯联国际酒店年度亏损收窄至4.74亿港元",
@@ -881,7 +881,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-07-19T03:57:43.269031Z"
+          "published_at": "2026-07-19T08:34:55.330664Z"
         }
       ],
       "source_count": 1,
@@ -896,7 +896,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-07-19T03:57:43.269031Z"
+          "published_at": "2026-07-19T08:34:55.330664Z"
         }
       ],
       "item_count": 1,
@@ -915,8 +915,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-19T03:57:43.269031Z",
-      "latest_at": "2026-07-19T03:57:43.269031Z",
+      "earliest_at": "2026-07-19T08:34:55.330664Z",
+      "latest_at": "2026-07-19T08:34:55.330664Z",
       "primary_item": {
         "id": "hotelitem_50c135faab60",
         "title": "文旅惠报|首旅集团拟发行20亿元超短期融资券，期限95天；广西旅发集团任命向红为副董事长、总经理",
@@ -960,14 +960,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8997,
-      "importance": 0.5618,
-      "importance_score": 0.8997,
+      "score": 0.8984,
+      "importance": 0.561,
+      "importance_score": 0.8984,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8092,
+        "recency": 0.805,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -999,7 +999,7 @@
           "source": "Agoda",
           "source_name": "Agoda",
           "site_id": "agoda_press",
-          "published_at": "2026-07-19T03:57:43.269031Z"
+          "published_at": "2026-07-19T08:34:55.330664Z"
         },
         {
           "id": "hotelitem_4eb38ce2a1e7",
@@ -1008,7 +1008,7 @@
           "source": "Agoda",
           "source_name": "Agoda",
           "site_id": "agoda_press",
-          "published_at": "2026-07-19T03:57:43.269031Z"
+          "published_at": "2026-07-19T08:34:55.330664Z"
         }
       ],
       "source_count": 2,
@@ -1023,7 +1023,7 @@
           "source": "Agoda",
           "source_name": "Agoda",
           "site_id": "agoda_press",
-          "published_at": "2026-07-19T03:57:43.269031Z"
+          "published_at": "2026-07-19T08:34:55.330664Z"
         },
         {
           "id": "hotelitem_4eb38ce2a1e7",
@@ -1032,7 +1032,7 @@
           "source": "Agoda",
           "source_name": "Agoda",
           "site_id": "agoda_press",
-          "published_at": "2026-07-19T03:57:43.269031Z"
+          "published_at": "2026-07-19T08:34:55.330664Z"
         }
       ],
       "item_count": 2,
@@ -1052,8 +1052,8 @@
         "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-19T03:57:43.269031Z",
-      "latest_at": "2026-07-19T03:57:43.269031Z",
+      "earliest_at": "2026-07-19T08:34:55.330664Z",
+      "latest_at": "2026-07-19T08:34:55.330664Z",
       "primary_item": {
         "id": "hotelitem_8198bc289a0c",
         "title": "Agoda Unveils Taiwan H1 Travel Insights: Ban ... Singapore, 14 July 2026 – Digital travel platform Agoda has released the latest insights on travel tre ... July 14, 2026 / Travel Trends",
@@ -1077,7 +1077,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-07-19T03:57:43.269031Z"
+          "published_at": "2026-07-19T08:34:55.330664Z"
         }
       ],
       "source_count": 1,
@@ -1092,7 +1092,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-07-19T03:57:43.269031Z"
+          "published_at": "2026-07-19T08:34:55.330664Z"
         }
       ],
       "item_count": 1,
@@ -1111,8 +1111,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-19T03:57:43.269031Z",
-      "latest_at": "2026-07-19T03:57:43.269031Z",
+      "earliest_at": "2026-07-19T08:34:55.330664Z",
+      "latest_at": "2026-07-19T08:34:55.330664Z",
       "primary_item": {
         "id": "hotelitem_59179e8d4d95",
         "title": "5项文化和旅游行业标准发布",
@@ -1136,7 +1136,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-07-19T03:57:43.269031Z"
+          "published_at": "2026-07-19T08:34:55.330664Z"
         }
       ],
       "source_count": 1,
@@ -1151,7 +1151,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-07-19T03:57:43.269031Z"
+          "published_at": "2026-07-19T08:34:55.330664Z"
         }
       ],
       "item_count": 1,
@@ -1170,8 +1170,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-19T03:57:43.269031Z",
-      "latest_at": "2026-07-19T03:57:43.269031Z",
+      "earliest_at": "2026-07-19T08:34:55.330664Z",
+      "latest_at": "2026-07-19T08:34:55.330664Z",
       "primary_item": {
         "id": "hotelitem_e4ce0593c384",
         "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
@@ -1195,7 +1195,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-07-19T03:57:43.269031Z"
+          "published_at": "2026-07-19T08:34:55.330664Z"
         }
       ],
       "source_count": 1,
@@ -1210,7 +1210,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-07-19T03:57:43.269031Z"
+          "published_at": "2026-07-19T08:34:55.330664Z"
         }
       ],
       "item_count": 1,
@@ -1229,8 +1229,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-19T03:57:43.269031Z",
-      "latest_at": "2026-07-19T03:57:43.269031Z",
+      "earliest_at": "2026-07-19T08:34:55.330664Z",
+      "latest_at": "2026-07-19T08:34:55.330664Z",
       "primary_item": {
         "id": "hotelitem_fa34986b4fc0",
         "title": "文化和旅游部、金融监管总局关于警惕借“保...",
@@ -1254,7 +1254,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-07-19T03:57:43.269031Z"
+          "published_at": "2026-07-19T08:34:55.330664Z"
         }
       ],
       "source_count": 1,
@@ -1269,7 +1269,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-07-19T03:57:43.269031Z"
+          "published_at": "2026-07-19T08:34:55.330664Z"
         }
       ],
       "item_count": 1,
@@ -1288,8 +1288,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-19T03:57:43.269031Z",
-      "latest_at": "2026-07-19T03:57:43.269031Z",
+      "earliest_at": "2026-07-19T08:34:55.330664Z",
+      "latest_at": "2026-07-19T08:34:55.330664Z",
       "primary_item": {
         "id": "hotelitem_6bb66367ea13",
         "title": "文化和旅游部产业项目服务平台第47期精品...",
@@ -1313,7 +1313,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-07-19T03:57:43.269031Z"
+          "published_at": "2026-07-19T08:34:55.330664Z"
         }
       ],
       "source_count": 1,
@@ -1328,7 +1328,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-07-19T03:57:43.269031Z"
+          "published_at": "2026-07-19T08:34:55.330664Z"
         }
       ],
       "item_count": 1,
@@ -1347,8 +1347,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-19T03:57:43.269031Z",
-      "latest_at": "2026-07-19T03:57:43.269031Z",
+      "earliest_at": "2026-07-19T08:34:55.330664Z",
+      "latest_at": "2026-07-19T08:34:55.330664Z",
       "primary_item": {
         "id": "hotelitem_9a958319a874",
         "title": "文化和旅游部印发《旅游强国建设“十五五”...",
@@ -1372,7 +1372,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-07-19T03:57:43.269031Z"
+          "published_at": "2026-07-19T08:34:55.330664Z"
         }
       ],
       "source_count": 1,
@@ -1387,7 +1387,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-07-19T03:57:43.269031Z"
+          "published_at": "2026-07-19T08:34:55.330664Z"
         }
       ],
       "item_count": 1,
@@ -1406,8 +1406,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-19T03:57:43.269031Z",
-      "latest_at": "2026-07-19T03:57:43.269031Z",
+      "earliest_at": "2026-07-19T08:34:55.330664Z",
+      "latest_at": "2026-07-19T08:34:55.330664Z",
       "primary_item": {
         "id": "hotelitem_9a179dce1533",
         "title": "文化和旅游部第16期西藏文化和旅游管理干...",
@@ -1451,14 +1451,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8564,
-      "importance": 0.5911,
-      "importance_score": 0.8564,
+      "score": 0.8556,
+      "importance": 0.5903,
+      "importance_score": 0.8556,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9556,
+        "recency": 0.9513,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1473,65 +1473,6 @@
         "url": "https://www.hoteldive.com/news/lodging-lowdown-travel-leisure-co-makes-pair-of-acquisitions-peregrine/825501/",
         "source": "Hotel Dive",
         "source_name": "Hotel Dive"
-      }
-    },
-    {
-      "story_id": "story_f2a9b1ff5750",
-      "title": "Six Senses AMAALA opens between desert cliffs, lagoon waters, and the Red Sea coast",
-      "url": "https://insights.ehotelier.com/global-news/2026/07/17/six-senses-amaala-opens-between-desert-cliffs-lagoon-waters-and-the-red-sea-coast/?utm_source=rss&utm_medium=rss&utm_campaign=six-senses-amaala-opens-between-desert-cliffs-lagoon-waters-and-the-red-sea-coast",
-      "primary_url": "https://insights.ehotelier.com/global-news/2026/07/17/six-senses-amaala-opens-between-desert-cliffs-lagoon-waters-and-the-red-sea-coast/?utm_source=rss&utm_medium=rss&utm_campaign=six-senses-amaala-opens-between-desert-cliffs-lagoon-waters-and-the-red-sea-coast",
-      "source": "eHotelier",
-      "source_name": "eHotelier",
-      "sources": [
-        {
-          "id": "hotelitem_f2a9b1ff5750",
-          "title": "Six Senses AMAALA opens between desert cliffs, lagoon waters, and the Red Sea coast",
-          "url": "https://insights.ehotelier.com/global-news/2026/07/17/six-senses-amaala-opens-between-desert-cliffs-lagoon-waters-and-the-red-sea-coast/?utm_source=rss&utm_medium=rss&utm_campaign=six-senses-amaala-opens-between-desert-cliffs-lagoon-waters-and-the-red-sea-coast",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-07-17T01:23:01Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "eHotelier"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_f2a9b1ff5750",
-          "title": "Six Senses AMAALA opens between desert cliffs, lagoon waters, and the Red Sea coast",
-          "url": "https://insights.ehotelier.com/global-news/2026/07/17/six-senses-amaala-opens-between-desert-cliffs-lagoon-waters-and-the-red-sea-coast/?utm_source=rss&utm_medium=rss&utm_campaign=six-senses-amaala-opens-between-desert-cliffs-lagoon-waters-and-the-red-sea-coast",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-07-17T01:23:01Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.856,
-      "importance": 0.5906,
-      "importance_score": 0.856,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9532,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-17T01:23:01Z",
-      "latest_at": "2026-07-17T01:23:01Z",
-      "primary_item": {
-        "id": "hotelitem_f2a9b1ff5750",
-        "title": "Six Senses AMAALA opens between desert cliffs, lagoon waters, and the Red Sea coast",
-        "url": "https://insights.ehotelier.com/global-news/2026/07/17/six-senses-amaala-opens-between-desert-cliffs-lagoon-waters-and-the-red-sea-coast/?utm_source=rss&utm_medium=rss&utm_campaign=six-senses-amaala-opens-between-desert-cliffs-lagoon-waters-and-the-red-sea-coast",
-        "source": "eHotelier",
-        "source_name": "eHotelier"
       }
     },
     {
@@ -1569,14 +1510,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.856,
-      "importance": 0.5907,
-      "importance_score": 0.856,
+      "score": 0.8552,
+      "importance": 0.5898,
+      "importance_score": 0.8552,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9533,
+        "recency": 0.949,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1589,6 +1530,65 @@
         "id": "hotelitem_7dd406878018",
         "title": "Nesuto Apartment Hotels records growth in health and logistics sectors as extended-stay demand rises",
         "url": "https://insights.ehotelier.com/global-news/2026/07/17/nesuto-apartment-hotels-records-growth-in-health-and-logistics-sectors-as-extended-stay-demand-rises/?utm_source=rss&utm_medium=rss&utm_campaign=nesuto-apartment-hotels-records-growth-in-health-and-logistics-sectors-as-extended-stay-demand-rises",
+        "source": "eHotelier",
+        "source_name": "eHotelier"
+      }
+    },
+    {
+      "story_id": "story_f2a9b1ff5750",
+      "title": "Six Senses AMAALA opens between desert cliffs, lagoon waters, and the Red Sea coast",
+      "url": "https://insights.ehotelier.com/global-news/2026/07/17/six-senses-amaala-opens-between-desert-cliffs-lagoon-waters-and-the-red-sea-coast/?utm_source=rss&utm_medium=rss&utm_campaign=six-senses-amaala-opens-between-desert-cliffs-lagoon-waters-and-the-red-sea-coast",
+      "primary_url": "https://insights.ehotelier.com/global-news/2026/07/17/six-senses-amaala-opens-between-desert-cliffs-lagoon-waters-and-the-red-sea-coast/?utm_source=rss&utm_medium=rss&utm_campaign=six-senses-amaala-opens-between-desert-cliffs-lagoon-waters-and-the-red-sea-coast",
+      "source": "eHotelier",
+      "source_name": "eHotelier",
+      "sources": [
+        {
+          "id": "hotelitem_f2a9b1ff5750",
+          "title": "Six Senses AMAALA opens between desert cliffs, lagoon waters, and the Red Sea coast",
+          "url": "https://insights.ehotelier.com/global-news/2026/07/17/six-senses-amaala-opens-between-desert-cliffs-lagoon-waters-and-the-red-sea-coast/?utm_source=rss&utm_medium=rss&utm_campaign=six-senses-amaala-opens-between-desert-cliffs-lagoon-waters-and-the-red-sea-coast",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-07-17T01:23:01Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "eHotelier"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_f2a9b1ff5750",
+          "title": "Six Senses AMAALA opens between desert cliffs, lagoon waters, and the Red Sea coast",
+          "url": "https://insights.ehotelier.com/global-news/2026/07/17/six-senses-amaala-opens-between-desert-cliffs-lagoon-waters-and-the-red-sea-coast/?utm_source=rss&utm_medium=rss&utm_campaign=six-senses-amaala-opens-between-desert-cliffs-lagoon-waters-and-the-red-sea-coast",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-07-17T01:23:01Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8551,
+      "importance": 0.5898,
+      "importance_score": 0.8551,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9489,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-17T01:23:01Z",
+      "latest_at": "2026-07-17T01:23:01Z",
+      "primary_item": {
+        "id": "hotelitem_f2a9b1ff5750",
+        "title": "Six Senses AMAALA opens between desert cliffs, lagoon waters, and the Red Sea coast",
+        "url": "https://insights.ehotelier.com/global-news/2026/07/17/six-senses-amaala-opens-between-desert-cliffs-lagoon-waters-and-the-red-sea-coast/?utm_source=rss&utm_medium=rss&utm_campaign=six-senses-amaala-opens-between-desert-cliffs-lagoon-waters-and-the-red-sea-coast",
         "source": "eHotelier",
         "source_name": "eHotelier"
       }
@@ -1628,14 +1628,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8517,
-      "importance": 0.5862,
-      "importance_score": 0.8517,
+      "score": 0.8508,
+      "importance": 0.5853,
+      "importance_score": 0.8508,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9309,
+        "recency": 0.9266,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1687,14 +1687,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8512,
-      "importance": 0.5186,
-      "importance_score": 0.8512,
+      "score": 0.85,
+      "importance": 0.5177,
+      "importance_score": 0.85,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.593,
+        "recency": 0.5887,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1746,14 +1746,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8452,
-      "importance": 0.5795,
-      "importance_score": 0.8452,
+      "score": 0.8444,
+      "importance": 0.5786,
+      "importance_score": 0.8444,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8975,
+        "recency": 0.8932,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1805,14 +1805,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8428,
-      "importance": 0.5925,
-      "importance_score": 0.8428,
+      "score": 0.8419,
+      "importance": 0.5916,
+      "importance_score": 0.8419,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9625,
+        "recency": 0.9582,
         "story_heat": 0.0
       },
       "category": "watch",
