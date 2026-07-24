@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T19:48:37.375748Z",
+  "generated_at": "2026-07-24T22:29:16.492462Z",
   "window_hours": 1080,
   "total_items": 30,
   "items": [
@@ -38,14 +38,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9541,
-      "importance": 0.5991,
-      "importance_score": 0.9541,
+      "score": 0.9537,
+      "importance": 0.5986,
+      "importance_score": 0.9537,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9955,
+        "recency": 0.993,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -97,14 +97,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9538,
-      "importance": 0.5988,
-      "importance_score": 0.9538,
+      "score": 0.9534,
+      "importance": 0.5983,
+      "importance_score": 0.9534,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.994,
+        "recency": 0.9915,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -156,14 +156,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9518,
-      "importance": 0.5967,
-      "importance_score": 0.9518,
+      "score": 0.9513,
+      "importance": 0.5962,
+      "importance_score": 0.9513,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9834,
+        "recency": 0.9809,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -215,14 +215,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9517,
-      "importance": 0.5966,
-      "importance_score": 0.9517,
+      "score": 0.9512,
+      "importance": 0.5961,
+      "importance_score": 0.9512,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.983,
+        "recency": 0.9805,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -274,14 +274,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9496,
-      "importance": 0.5944,
-      "importance_score": 0.9496,
+      "score": 0.9491,
+      "importance": 0.5939,
+      "importance_score": 0.9491,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.972,
+        "recency": 0.9696,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -313,7 +313,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-07-24T19:48:37.375748Z"
+          "published_at": "2026-07-24T22:29:16.492462Z"
         }
       ],
       "source_count": 1,
@@ -328,7 +328,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-07-24T19:48:37.375748Z"
+          "published_at": "2026-07-24T22:29:16.492462Z"
         }
       ],
       "item_count": 1,
@@ -347,14 +347,73 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-24T19:48:37.375748Z",
-      "latest_at": "2026-07-24T19:48:37.375748Z",
+      "earliest_at": "2026-07-24T22:29:16.492462Z",
+      "latest_at": "2026-07-24T22:29:16.492462Z",
       "primary_item": {
         "id": "hotelitem_9699887c72ea",
         "title": "中国旅游研究院与中青旅控股股份有限公司开展主题党日联学联",
         "url": "https://www.ctaweb.org.cn/gongzuodongtai/10519.html",
         "source": "中国旅游研究院",
         "source_name": "中国旅游研究院"
+      }
+    },
+    {
+      "story_id": "story_b0a48c4a94aa",
+      "title": "Lancaster Landmark Hotel Company rebrands as The Landmark Collection",
+      "url": "https://boutiquehotelnews.com/news/industry/the-landmark-collection/?utm_source=rss&utm_medium=rss&utm_campaign=the-landmark-collection",
+      "primary_url": "https://boutiquehotelnews.com/news/industry/the-landmark-collection/?utm_source=rss&utm_medium=rss&utm_campaign=the-landmark-collection",
+      "source": "Boutique Hotel News",
+      "source_name": "Boutique Hotel News",
+      "sources": [
+        {
+          "id": "hotelitem_b0a48c4a94aa",
+          "title": "Lancaster Landmark Hotel Company rebrands as The Landmark Collection",
+          "url": "https://boutiquehotelnews.com/news/industry/the-landmark-collection/?utm_source=rss&utm_medium=rss&utm_campaign=the-landmark-collection",
+          "source": "Boutique Hotel News",
+          "source_name": "Boutique Hotel News",
+          "site_id": "boutiquehotel",
+          "published_at": "2026-07-24T09:06:26Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Boutique Hotel News"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_b0a48c4a94aa",
+          "title": "Lancaster Landmark Hotel Company rebrands as The Landmark Collection",
+          "url": "https://boutiquehotelnews.com/news/industry/the-landmark-collection/?utm_source=rss&utm_medium=rss&utm_campaign=the-landmark-collection",
+          "source": "Boutique Hotel News",
+          "source_name": "Boutique Hotel News",
+          "site_id": "boutiquehotel",
+          "published_at": "2026-07-24T09:06:26Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.9376,
+      "importance": 0.5975,
+      "importance_score": 0.9376,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9876,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-24T09:06:26Z",
+      "latest_at": "2026-07-24T09:06:26Z",
+      "primary_item": {
+        "id": "hotelitem_b0a48c4a94aa",
+        "title": "Lancaster Landmark Hotel Company rebrands as The Landmark Collection",
+        "url": "https://boutiquehotelnews.com/news/industry/the-landmark-collection/?utm_source=rss&utm_medium=rss&utm_campaign=the-landmark-collection",
+        "source": "Boutique Hotel News",
+        "source_name": "Boutique Hotel News"
       }
     },
     {
@@ -392,14 +451,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.922,
-      "importance": 0.5995,
-      "importance_score": 0.922,
+      "score": 0.9215,
+      "importance": 0.599,
+      "importance_score": 0.9215,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9975,
+        "recency": 0.9951,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -431,7 +490,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-24T19:48:37.375748Z"
+          "published_at": "2026-07-24T22:29:16.492462Z"
         },
         {
           "id": "hotelitem_c7c15b7680c9",
@@ -440,7 +499,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-24T19:48:37.375748Z"
+          "published_at": "2026-07-24T22:29:16.492462Z"
         },
         {
           "id": "hotelitem_6d8fa145e8af",
@@ -449,7 +508,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-24T19:48:37.375748Z"
+          "published_at": "2026-07-24T22:29:16.492462Z"
         }
       ],
       "source_count": 3,
@@ -464,7 +523,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-24T19:48:37.375748Z"
+          "published_at": "2026-07-24T22:29:16.492462Z"
         },
         {
           "id": "hotelitem_c7c15b7680c9",
@@ -473,7 +532,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-24T19:48:37.375748Z"
+          "published_at": "2026-07-24T22:29:16.492462Z"
         },
         {
           "id": "hotelitem_6d8fa145e8af",
@@ -482,7 +541,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-24T19:48:37.375748Z"
+          "published_at": "2026-07-24T22:29:16.492462Z"
         }
       ],
       "item_count": 3,
@@ -502,8 +561,8 @@
         "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-24T19:48:37.375748Z",
-      "latest_at": "2026-07-24T19:48:37.375748Z",
+      "earliest_at": "2026-07-24T22:29:16.492462Z",
+      "latest_at": "2026-07-24T22:29:16.492462Z",
       "primary_item": {
         "id": "hotelitem_d4370964909c",
         "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
@@ -547,14 +606,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8699,
-      "importance": 0.5535,
-      "importance_score": 0.8699,
+      "score": 0.8692,
+      "importance": 0.553,
+      "importance_score": 0.8692,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.7676,
+        "recency": 0.7651,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -606,14 +665,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8642,
-      "importance": 0.5991,
-      "importance_score": 0.8642,
+      "score": 0.8637,
+      "importance": 0.5986,
+      "importance_score": 0.8637,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9957,
+        "recency": 0.9932,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -628,65 +687,6 @@
         "url": "https://skift.com/2026/07/24/wildfire-risk-is-increasing-rising-insurance-costs-are-pushing-hotels-to-prepare/",
         "source": "Skift Hospitality",
         "source_name": "Skift Hospitality"
-      }
-    },
-    {
-      "story_id": "story_64dc415d0514",
-      "title": "Fixing the Greatest Irony in Travel with the Global Sleep Symposium by Equinox Hotels",
-      "url": "https://insights.ehotelier.com/insights/2026/07/24/fixing-the-greatest-irony-in-travel-with-the-global-sleep-symposium-by-equinox-hotels/?utm_source=rss&utm_medium=rss&utm_campaign=fixing-the-greatest-irony-in-travel-with-the-global-sleep-symposium-by-equinox-hotels",
-      "primary_url": "https://insights.ehotelier.com/insights/2026/07/24/fixing-the-greatest-irony-in-travel-with-the-global-sleep-symposium-by-equinox-hotels/?utm_source=rss&utm_medium=rss&utm_campaign=fixing-the-greatest-irony-in-travel-with-the-global-sleep-symposium-by-equinox-hotels",
-      "source": "eHotelier",
-      "source_name": "eHotelier",
-      "sources": [
-        {
-          "id": "hotelitem_64dc415d0514",
-          "title": "Fixing the Greatest Irony in Travel with the Global Sleep Symposium by Equinox Hotels",
-          "url": "https://insights.ehotelier.com/insights/2026/07/24/fixing-the-greatest-irony-in-travel-with-the-global-sleep-symposium-by-equinox-hotels/?utm_source=rss&utm_medium=rss&utm_campaign=fixing-the-greatest-irony-in-travel-with-the-global-sleep-symposium-by-equinox-hotels",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-07-24T02:10:16Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "eHotelier"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_64dc415d0514",
-          "title": "Fixing the Greatest Irony in Travel with the Global Sleep Symposium by Equinox Hotels",
-          "url": "https://insights.ehotelier.com/insights/2026/07/24/fixing-the-greatest-irony-in-travel-with-the-global-sleep-symposium-by-equinox-hotels/?utm_source=rss&utm_medium=rss&utm_campaign=fixing-the-greatest-irony-in-travel-with-the-global-sleep-symposium-by-equinox-hotels",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-07-24T02:10:16Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8619,
-      "importance": 0.5967,
-      "importance_score": 0.8619,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9837,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-24T02:10:16Z",
-      "latest_at": "2026-07-24T02:10:16Z",
-      "primary_item": {
-        "id": "hotelitem_64dc415d0514",
-        "title": "Fixing the Greatest Irony in Travel with the Global Sleep Symposium by Equinox Hotels",
-        "url": "https://insights.ehotelier.com/insights/2026/07/24/fixing-the-greatest-irony-in-travel-with-the-global-sleep-symposium-by-equinox-hotels/?utm_source=rss&utm_medium=rss&utm_campaign=fixing-the-greatest-irony-in-travel-with-the-global-sleep-symposium-by-equinox-hotels",
-        "source": "eHotelier",
-        "source_name": "eHotelier"
       }
     },
     {
@@ -724,14 +724,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8618,
-      "importance": 0.5967,
-      "importance_score": 0.8618,
+      "score": 0.8614,
+      "importance": 0.5962,
+      "importance_score": 0.8614,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9836,
+        "recency": 0.9811,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -744,6 +744,65 @@
         "id": "hotelitem_b833b1f797d5",
         "title": "Cloudbeds launches Insights, setting a new standard for real-time hotel reporting and enterprise data access",
         "url": "https://insights.ehotelier.com/suppliers/2026/07/24/cloudbeds-launches-insights-setting-a-new-standard-for-real-time-hotel-reporting-and-enterprise-data-access/?utm_source=rss&utm_medium=rss&utm_campaign=cloudbeds-launches-insights-setting-a-new-standard-for-real-time-hotel-reporting-and-enterprise-data-access",
+        "source": "eHotelier",
+        "source_name": "eHotelier"
+      }
+    },
+    {
+      "story_id": "story_64dc415d0514",
+      "title": "Fixing the Greatest Irony in Travel with the Global Sleep Symposium by Equinox Hotels",
+      "url": "https://insights.ehotelier.com/insights/2026/07/24/fixing-the-greatest-irony-in-travel-with-the-global-sleep-symposium-by-equinox-hotels/?utm_source=rss&utm_medium=rss&utm_campaign=fixing-the-greatest-irony-in-travel-with-the-global-sleep-symposium-by-equinox-hotels",
+      "primary_url": "https://insights.ehotelier.com/insights/2026/07/24/fixing-the-greatest-irony-in-travel-with-the-global-sleep-symposium-by-equinox-hotels/?utm_source=rss&utm_medium=rss&utm_campaign=fixing-the-greatest-irony-in-travel-with-the-global-sleep-symposium-by-equinox-hotels",
+      "source": "eHotelier",
+      "source_name": "eHotelier",
+      "sources": [
+        {
+          "id": "hotelitem_64dc415d0514",
+          "title": "Fixing the Greatest Irony in Travel with the Global Sleep Symposium by Equinox Hotels",
+          "url": "https://insights.ehotelier.com/insights/2026/07/24/fixing-the-greatest-irony-in-travel-with-the-global-sleep-symposium-by-equinox-hotels/?utm_source=rss&utm_medium=rss&utm_campaign=fixing-the-greatest-irony-in-travel-with-the-global-sleep-symposium-by-equinox-hotels",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-07-24T02:10:16Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "eHotelier"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_64dc415d0514",
+          "title": "Fixing the Greatest Irony in Travel with the Global Sleep Symposium by Equinox Hotels",
+          "url": "https://insights.ehotelier.com/insights/2026/07/24/fixing-the-greatest-irony-in-travel-with-the-global-sleep-symposium-by-equinox-hotels/?utm_source=rss&utm_medium=rss&utm_campaign=fixing-the-greatest-irony-in-travel-with-the-global-sleep-symposium-by-equinox-hotels",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-07-24T02:10:16Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8614,
+      "importance": 0.5962,
+      "importance_score": 0.8614,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9812,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-24T02:10:16Z",
+      "latest_at": "2026-07-24T02:10:16Z",
+      "primary_item": {
+        "id": "hotelitem_64dc415d0514",
+        "title": "Fixing the Greatest Irony in Travel with the Global Sleep Symposium by Equinox Hotels",
+        "url": "https://insights.ehotelier.com/insights/2026/07/24/fixing-the-greatest-irony-in-travel-with-the-global-sleep-symposium-by-equinox-hotels/?utm_source=rss&utm_medium=rss&utm_campaign=fixing-the-greatest-irony-in-travel-with-the-global-sleep-symposium-by-equinox-hotels",
         "source": "eHotelier",
         "source_name": "eHotelier"
       }
@@ -783,14 +842,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8617,
-      "importance": 0.5966,
-      "importance_score": 0.8617,
+      "score": 0.8613,
+      "importance": 0.5961,
+      "importance_score": 0.8613,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9831,
+        "recency": 0.9806,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -842,14 +901,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8617,
-      "importance": 0.5966,
-      "importance_score": 0.8617,
+      "score": 0.8613,
+      "importance": 0.5961,
+      "importance_score": 0.8613,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9831,
+        "recency": 0.9806,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -881,7 +940,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-24T19:48:37.375748Z"
+          "published_at": "2026-07-24T22:29:16.492462Z"
         },
         {
           "id": "hotelitem_816c6fb1ed6e",
@@ -890,7 +949,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-24T19:48:37.375748Z"
+          "published_at": "2026-07-24T22:29:16.492462Z"
         }
       ],
       "source_count": 2,
@@ -905,7 +964,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-24T19:48:37.375748Z"
+          "published_at": "2026-07-24T22:29:16.492462Z"
         },
         {
           "id": "hotelitem_816c6fb1ed6e",
@@ -914,7 +973,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-24T19:48:37.375748Z"
+          "published_at": "2026-07-24T22:29:16.492462Z"
         }
       ],
       "item_count": 2,
@@ -934,8 +993,8 @@
         "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-24T19:48:37.375748Z",
-      "latest_at": "2026-07-24T19:48:37.375748Z",
+      "earliest_at": "2026-07-24T22:29:16.492462Z",
+      "latest_at": "2026-07-24T22:29:16.492462Z",
       "primary_item": {
         "id": "hotelitem_3e02fd1a1636",
         "title": "指数发布 | 中国住宿业消费指数报告（2026年上半年）发布 为贯彻落实提振消费相关政策，真实反映中国住宿餐饮业市场消费情况，以数据引导促消费政策精准发力，为行业发展提供参考建议，中国饭店协会每月公开发布“中国饭店业消费指数体系”，包含“中国住宿业消费指数（China Hotel Industry Consumption Index, HCI）”与“中国餐饮业消费指数(China Catering Industry Consumption Index, CCI)”，欢迎关注。\n本篇发布的是“中国住宿业消费指数”。",
@@ -959,7 +1018,7 @@
           "source": "迈点研究院",
           "source_name": "迈点研究院",
           "site_id": "meadin",
-          "published_at": "2026-07-24T19:48:37.375748Z"
+          "published_at": "2026-07-24T22:29:16.492462Z"
         }
       ],
       "source_count": 1,
@@ -974,7 +1033,7 @@
           "source": "迈点研究院",
           "source_name": "迈点研究院",
           "site_id": "meadin",
-          "published_at": "2026-07-24T19:48:37.375748Z"
+          "published_at": "2026-07-24T22:29:16.492462Z"
         }
       ],
       "item_count": 1,
@@ -993,8 +1052,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-24T19:48:37.375748Z",
-      "latest_at": "2026-07-24T19:48:37.375748Z",
+      "earliest_at": "2026-07-24T22:29:16.492462Z",
+      "latest_at": "2026-07-24T22:29:16.492462Z",
       "primary_item": {
         "id": "hotelitem_e3f8d26943fc",
         "title": "温德姆酒店集团发布2026Q2财报，中国区RevPAR下降5%",
@@ -1038,14 +1097,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8596,
-      "importance": 0.5944,
-      "importance_score": 0.8596,
+      "score": 0.8591,
+      "importance": 0.5939,
+      "importance_score": 0.8591,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9719,
+        "recency": 0.9694,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1077,7 +1136,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-07-24T19:48:37.375748Z"
+          "published_at": "2026-07-24T22:29:16.492462Z"
         }
       ],
       "source_count": 1,
@@ -1092,7 +1151,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-07-24T19:48:37.375748Z"
+          "published_at": "2026-07-24T22:29:16.492462Z"
         }
       ],
       "item_count": 1,
@@ -1111,8 +1170,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-24T19:48:37.375748Z",
-      "latest_at": "2026-07-24T19:48:37.375748Z",
+      "earliest_at": "2026-07-24T22:29:16.492462Z",
+      "latest_at": "2026-07-24T22:29:16.492462Z",
       "primary_item": {
         "id": "hotelitem_e4ce0593c384",
         "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
@@ -1136,7 +1195,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-07-24T19:48:37.375748Z"
+          "published_at": "2026-07-24T22:29:16.492462Z"
         }
       ],
       "source_count": 1,
@@ -1151,7 +1210,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-07-24T19:48:37.375748Z"
+          "published_at": "2026-07-24T22:29:16.492462Z"
         }
       ],
       "item_count": 1,
@@ -1170,8 +1229,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-24T19:48:37.375748Z",
-      "latest_at": "2026-07-24T19:48:37.375748Z",
+      "earliest_at": "2026-07-24T22:29:16.492462Z",
+      "latest_at": "2026-07-24T22:29:16.492462Z",
       "primary_item": {
         "id": "hotelitem_fa34986b4fc0",
         "title": "文化和旅游部、金融监管总局关于警惕借“保...",
@@ -1195,7 +1254,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-07-24T19:48:37.375748Z"
+          "published_at": "2026-07-24T22:29:16.492462Z"
         }
       ],
       "source_count": 1,
@@ -1210,7 +1269,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-07-24T19:48:37.375748Z"
+          "published_at": "2026-07-24T22:29:16.492462Z"
         }
       ],
       "item_count": 1,
@@ -1229,8 +1288,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-24T19:48:37.375748Z",
-      "latest_at": "2026-07-24T19:48:37.375748Z",
+      "earliest_at": "2026-07-24T22:29:16.492462Z",
+      "latest_at": "2026-07-24T22:29:16.492462Z",
       "primary_item": {
         "id": "hotelitem_9a958319a874",
         "title": "文化和旅游部印发《旅游强国建设“十五五”...",
@@ -1254,7 +1313,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-07-24T19:48:37.375748Z"
+          "published_at": "2026-07-24T22:29:16.492462Z"
         }
       ],
       "source_count": 1,
@@ -1269,7 +1328,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-07-24T19:48:37.375748Z"
+          "published_at": "2026-07-24T22:29:16.492462Z"
         }
       ],
       "item_count": 1,
@@ -1288,8 +1347,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-24T19:48:37.375748Z",
-      "latest_at": "2026-07-24T19:48:37.375748Z",
+      "earliest_at": "2026-07-24T22:29:16.492462Z",
+      "latest_at": "2026-07-24T22:29:16.492462Z",
       "primary_item": {
         "id": "hotelitem_9a179dce1533",
         "title": "文化和旅游部第16期西藏文化和旅游管理干...",
@@ -1333,14 +1392,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.855,
-      "importance": 0.5897,
-      "importance_score": 0.855,
+      "score": 0.8546,
+      "importance": 0.5892,
+      "importance_score": 0.8546,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9484,
+        "recency": 0.9459,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1392,14 +1451,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8534,
-      "importance": 0.5879,
-      "importance_score": 0.8534,
+      "score": 0.8529,
+      "importance": 0.5874,
+      "importance_score": 0.8529,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9396,
+        "recency": 0.9371,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1451,14 +1510,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8511,
-      "importance": 0.5856,
-      "importance_score": 0.8511,
+      "score": 0.8506,
+      "importance": 0.5851,
+      "importance_score": 0.8506,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9281,
+        "recency": 0.9256,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1473,6 +1532,65 @@
         "url": "https://www.hoteldive.com/news/how-data-center-projects-reshape-extended-stay-hotel-demand/825716/",
         "source": "Hotel Dive",
         "source_name": "Hotel Dive"
+      }
+    },
+    {
+      "story_id": "story_65f5e43c1c1f",
+      "title": "HMRC files winding-up petition against Avison Young",
+      "url": "https://boutiquehotelnews.com/news/industry/hmrc-avison-young/?utm_source=rss&utm_medium=rss&utm_campaign=hmrc-avison-young",
+      "primary_url": "https://boutiquehotelnews.com/news/industry/hmrc-avison-young/?utm_source=rss&utm_medium=rss&utm_campaign=hmrc-avison-young",
+      "source": "Boutique Hotel News",
+      "source_name": "Boutique Hotel News",
+      "sources": [
+        {
+          "id": "hotelitem_65f5e43c1c1f",
+          "title": "HMRC files winding-up petition against Avison Young",
+          "url": "https://boutiquehotelnews.com/news/industry/hmrc-avison-young/?utm_source=rss&utm_medium=rss&utm_campaign=hmrc-avison-young",
+          "source": "Boutique Hotel News",
+          "source_name": "Boutique Hotel News",
+          "site_id": "boutiquehotel",
+          "published_at": "2026-07-24T08:14:34Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Boutique Hotel News"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_65f5e43c1c1f",
+          "title": "HMRC files winding-up petition against Avison Young",
+          "url": "https://boutiquehotelnews.com/news/industry/hmrc-avison-young/?utm_source=rss&utm_medium=rss&utm_campaign=hmrc-avison-young",
+          "source": "Boutique Hotel News",
+          "source_name": "Boutique Hotel News",
+          "site_id": "boutiquehotel",
+          "published_at": "2026-07-24T08:14:34Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8475,
+      "importance": 0.5974,
+      "importance_score": 0.8475,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9868,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-24T08:14:34Z",
+      "latest_at": "2026-07-24T08:14:34Z",
+      "primary_item": {
+        "id": "hotelitem_65f5e43c1c1f",
+        "title": "HMRC files winding-up petition against Avison Young",
+        "url": "https://boutiquehotelnews.com/news/industry/hmrc-avison-young/?utm_source=rss&utm_medium=rss&utm_campaign=hmrc-avison-young",
+        "source": "Boutique Hotel News",
+        "source_name": "Boutique Hotel News"
       }
     },
     {
@@ -1510,14 +1628,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8468,
-      "importance": 0.5811,
-      "importance_score": 0.8468,
+      "score": 0.8463,
+      "importance": 0.5806,
+      "importance_score": 0.8463,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9057,
+        "recency": 0.9032,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1535,298 +1653,180 @@
       }
     },
     {
-      "story_id": "story_d44e25b788e0",
-      "title": "From Reactive To Proactive: Leveraging Data To Prevent Device Failures & Protect The Guest Experience",
-      "url": "https://www.hotelmanagement.net/resource/reactive-proactive-leveraging-data-prevent-device-failures-protect-guest-experience",
-      "primary_url": "https://www.hotelmanagement.net/resource/reactive-proactive-leveraging-data-prevent-device-failures-protect-guest-experience",
-      "source": "Hotel Management",
-      "source_name": "Hotel Management",
+      "story_id": "story_00c14c000469",
+      "title": "Viceroy partners with Pearlstone to launch residences in Texas",
+      "url": "https://boutiquehotelnews.com/news/branded-residences/viceroy-pearlstone-residences-texas/?utm_source=rss&utm_medium=rss&utm_campaign=viceroy-pearlstone-residences-texas",
+      "primary_url": "https://boutiquehotelnews.com/news/branded-residences/viceroy-pearlstone-residences-texas/?utm_source=rss&utm_medium=rss&utm_campaign=viceroy-pearlstone-residences-texas",
+      "source": "Boutique Hotel News",
+      "source_name": "Boutique Hotel News",
       "sources": [
         {
-          "id": "hotelitem_d44e25b788e0",
-          "title": "From Reactive To Proactive: Leveraging Data To Prevent Device Failures & Protect The Guest Experience",
-          "url": "https://www.hotelmanagement.net/resource/reactive-proactive-leveraging-data-prevent-device-failures-protect-guest-experience",
-          "source": "Hotel Management",
-          "source_name": "Hotel Management",
-          "site_id": "hotelmgmt",
-          "published_at": "2026-06-30T20:24:48Z"
+          "id": "hotelitem_00c14c000469",
+          "title": "Viceroy partners with Pearlstone to launch residences in Texas",
+          "url": "https://boutiquehotelnews.com/news/branded-residences/viceroy-pearlstone-residences-texas/?utm_source=rss&utm_medium=rss&utm_campaign=viceroy-pearlstone-residences-texas",
+          "source": "Boutique Hotel News",
+          "source_name": "Boutique Hotel News",
+          "site_id": "boutiquehotel",
+          "published_at": "2026-07-23T09:10:20Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Hotel Management"
+        "Boutique Hotel News"
       ],
       "items": [
         {
-          "id": "hotelitem_d44e25b788e0",
-          "title": "From Reactive To Proactive: Leveraging Data To Prevent Device Failures & Protect The Guest Experience",
-          "url": "https://www.hotelmanagement.net/resource/reactive-proactive-leveraging-data-prevent-device-failures-protect-guest-experience",
-          "source": "Hotel Management",
-          "source_name": "Hotel Management",
-          "site_id": "hotelmgmt",
-          "published_at": "2026-06-30T20:24:48Z"
+          "id": "hotelitem_00c14c000469",
+          "title": "Viceroy partners with Pearlstone to launch residences in Texas",
+          "url": "https://boutiquehotelnews.com/news/branded-residences/viceroy-pearlstone-residences-texas/?utm_source=rss&utm_medium=rss&utm_campaign=viceroy-pearlstone-residences-texas",
+          "source": "Boutique Hotel News",
+          "source_name": "Boutique Hotel News",
+          "site_id": "boutiquehotel",
+          "published_at": "2026-07-23T09:10:20Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8143,
-      "importance": 0.4934,
-      "importance_score": 0.8143,
+      "score": 0.8433,
+      "importance": 0.5931,
+      "importance_score": 0.8433,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.4672,
+        "recency": 0.9654,
         "story_heat": 0.0
       },
       "category": "watch",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-06-30T20:24:48Z",
-      "latest_at": "2026-06-30T20:24:48Z",
+      "earliest_at": "2026-07-23T09:10:20Z",
+      "latest_at": "2026-07-23T09:10:20Z",
       "primary_item": {
-        "id": "hotelitem_d44e25b788e0",
-        "title": "From Reactive To Proactive: Leveraging Data To Prevent Device Failures & Protect The Guest Experience",
-        "url": "https://www.hotelmanagement.net/resource/reactive-proactive-leveraging-data-prevent-device-failures-protect-guest-experience",
-        "source": "Hotel Management",
-        "source_name": "Hotel Management"
+        "id": "hotelitem_00c14c000469",
+        "title": "Viceroy partners with Pearlstone to launch residences in Texas",
+        "url": "https://boutiquehotelnews.com/news/branded-residences/viceroy-pearlstone-residences-texas/?utm_source=rss&utm_medium=rss&utm_campaign=viceroy-pearlstone-residences-texas",
+        "source": "Boutique Hotel News",
+        "source_name": "Boutique Hotel News"
       }
     },
     {
-      "story_id": "story_2ba246120ca4",
-      "title": "Agoda Reports Rising Interest in Solo Travel ... Seoul, 20 July 2026 – While traveling with family, friends, or loved ones has its own appeal, a growin ... July 20, 2026 / Travel Trends",
-      "url": "https://www.agoda.com/press/agoda-reports-rising-interest-in-solo-travel-among-south-korean-travelers/",
-      "primary_url": "https://www.agoda.com/press/agoda-reports-rising-interest-in-solo-travel-among-south-korean-travelers/",
-      "source": "Agoda",
-      "source_name": "Agoda",
+      "story_id": "story_a3a9a913388b",
+      "title": "Generator names Mufraggi as CEO",
+      "url": "https://boutiquehotelnews.com/news/movers-and-shakers/generator-mufraggi-ceo/?utm_source=rss&utm_medium=rss&utm_campaign=generator-mufraggi-ceo",
+      "primary_url": "https://boutiquehotelnews.com/news/movers-and-shakers/generator-mufraggi-ceo/?utm_source=rss&utm_medium=rss&utm_campaign=generator-mufraggi-ceo",
+      "source": "Boutique Hotel News",
+      "source_name": "Boutique Hotel News",
       "sources": [
         {
-          "id": "hotelitem_2ba246120ca4",
-          "title": "Agoda Reports Rising Interest in Solo Travel ... Seoul, 20 July 2026 – While traveling with family, friends, or loved ones has its own appeal, a growin ... July 20, 2026 / Travel Trends",
-          "url": "https://www.agoda.com/press/agoda-reports-rising-interest-in-solo-travel-among-south-korean-travelers/",
-          "source": "Agoda",
-          "source_name": "Agoda",
-          "site_id": "agoda_press",
-          "published_at": "2026-07-24T19:48:37.375748Z"
+          "id": "hotelitem_a3a9a913388b",
+          "title": "Generator names Mufraggi as CEO",
+          "url": "https://boutiquehotelnews.com/news/movers-and-shakers/generator-mufraggi-ceo/?utm_source=rss&utm_medium=rss&utm_campaign=generator-mufraggi-ceo",
+          "source": "Boutique Hotel News",
+          "source_name": "Boutique Hotel News",
+          "site_id": "boutiquehotel",
+          "published_at": "2026-07-20T16:43:13Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Agoda"
+        "Boutique Hotel News"
       ],
       "items": [
         {
-          "id": "hotelitem_2ba246120ca4",
-          "title": "Agoda Reports Rising Interest in Solo Travel ... Seoul, 20 July 2026 – While traveling with family, friends, or loved ones has its own appeal, a growin ... July 20, 2026 / Travel Trends",
-          "url": "https://www.agoda.com/press/agoda-reports-rising-interest-in-solo-travel-among-south-korean-travelers/",
-          "source": "Agoda",
-          "source_name": "Agoda",
-          "site_id": "agoda_press",
-          "published_at": "2026-07-24T19:48:37.375748Z"
+          "id": "hotelitem_a3a9a913388b",
+          "title": "Generator names Mufraggi as CEO",
+          "url": "https://boutiquehotelnews.com/news/movers-and-shakers/generator-mufraggi-ceo/?utm_source=rss&utm_medium=rss&utm_campaign=generator-mufraggi-ceo",
+          "source": "Boutique Hotel News",
+          "source_name": "Boutique Hotel News",
+          "site_id": "boutiquehotel",
+          "published_at": "2026-07-20T16:43:13Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8125,
-      "importance": 0.6,
-      "importance_score": 0.8125,
+      "score": 0.8318,
+      "importance": 0.5812,
+      "importance_score": 0.8318,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9058,
         "story_heat": 0.0
       },
       "category": "watch",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-24T19:48:37.375748Z",
-      "latest_at": "2026-07-24T19:48:37.375748Z",
+      "earliest_at": "2026-07-20T16:43:13Z",
+      "latest_at": "2026-07-20T16:43:13Z",
       "primary_item": {
-        "id": "hotelitem_2ba246120ca4",
-        "title": "Agoda Reports Rising Interest in Solo Travel ... Seoul, 20 July 2026 – While traveling with family, friends, or loved ones has its own appeal, a growin ... July 20, 2026 / Travel Trends",
-        "url": "https://www.agoda.com/press/agoda-reports-rising-interest-in-solo-travel-among-south-korean-travelers/",
-        "source": "Agoda",
-        "source_name": "Agoda"
+        "id": "hotelitem_a3a9a913388b",
+        "title": "Generator names Mufraggi as CEO",
+        "url": "https://boutiquehotelnews.com/news/movers-and-shakers/generator-mufraggi-ceo/?utm_source=rss&utm_medium=rss&utm_campaign=generator-mufraggi-ceo",
+        "source": "Boutique Hotel News",
+        "source_name": "Boutique Hotel News"
       }
     },
     {
-      "story_id": "story_9d906eadfd50",
-      "title": "Agoda Reveals Growing Travel Interest Ahead  ... Singapore, 24 July 2026: Agoda Company Pte. Ltd. (Headquarters: Singapore; CEO: Omri Morgenshtern), wh ... July 24, 2026 / Travel Trends",
-      "url": "https://www.agoda.com/press/agoda-reveals-growing-travel-interest-ahead-of-japans-summer-2026-fireworks-festivals/",
-      "primary_url": "https://www.agoda.com/press/agoda-reveals-growing-travel-interest-ahead-of-japans-summer-2026-fireworks-festivals/",
-      "source": "Agoda",
-      "source_name": "Agoda",
+      "story_id": "story_d483e87b8a49",
+      "title": "W Hotels launches first property in Saudi Arabia",
+      "url": "https://boutiquehotelnews.com/news/hotel/w-hotels-saudi-arabia/?utm_source=rss&utm_medium=rss&utm_campaign=w-hotels-saudi-arabia",
+      "primary_url": "https://boutiquehotelnews.com/news/hotel/w-hotels-saudi-arabia/?utm_source=rss&utm_medium=rss&utm_campaign=w-hotels-saudi-arabia",
+      "source": "Boutique Hotel News",
+      "source_name": "Boutique Hotel News",
       "sources": [
         {
-          "id": "hotelitem_9d906eadfd50",
-          "title": "Agoda Reveals Growing Travel Interest Ahead  ... Singapore, 24 July 2026: Agoda Company Pte. Ltd. (Headquarters: Singapore; CEO: Omri Morgenshtern), wh ... July 24, 2026 / Travel Trends",
-          "url": "https://www.agoda.com/press/agoda-reveals-growing-travel-interest-ahead-of-japans-summer-2026-fireworks-festivals/",
-          "source": "Agoda",
-          "source_name": "Agoda",
-          "site_id": "agoda_press",
-          "published_at": "2026-07-24T19:48:37.375748Z"
+          "id": "hotelitem_d483e87b8a49",
+          "title": "W Hotels launches first property in Saudi Arabia",
+          "url": "https://boutiquehotelnews.com/news/hotel/w-hotels-saudi-arabia/?utm_source=rss&utm_medium=rss&utm_campaign=w-hotels-saudi-arabia",
+          "source": "Boutique Hotel News",
+          "source_name": "Boutique Hotel News",
+          "site_id": "boutiquehotel",
+          "published_at": "2026-07-17T11:25:45Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Agoda"
+        "Boutique Hotel News"
       ],
       "items": [
         {
-          "id": "hotelitem_9d906eadfd50",
-          "title": "Agoda Reveals Growing Travel Interest Ahead  ... Singapore, 24 July 2026: Agoda Company Pte. Ltd. (Headquarters: Singapore; CEO: Omri Morgenshtern), wh ... July 24, 2026 / Travel Trends",
-          "url": "https://www.agoda.com/press/agoda-reveals-growing-travel-interest-ahead-of-japans-summer-2026-fireworks-festivals/",
-          "source": "Agoda",
-          "source_name": "Agoda",
-          "site_id": "agoda_press",
-          "published_at": "2026-07-24T19:48:37.375748Z"
+          "id": "hotelitem_d483e87b8a49",
+          "title": "W Hotels launches first property in Saudi Arabia",
+          "url": "https://boutiquehotelnews.com/news/hotel/w-hotels-saudi-arabia/?utm_source=rss&utm_medium=rss&utm_campaign=w-hotels-saudi-arabia",
+          "source": "Boutique Hotel News",
+          "source_name": "Boutique Hotel News",
+          "site_id": "boutiquehotel",
+          "published_at": "2026-07-17T11:25:45Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8125,
-      "importance": 0.6,
-      "importance_score": 0.8125,
+      "score": 0.817,
+      "importance": 0.5668,
+      "importance_score": 0.817,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.8342,
         "story_heat": 0.0
       },
       "category": "watch",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-24T19:48:37.375748Z",
-      "latest_at": "2026-07-24T19:48:37.375748Z",
+      "earliest_at": "2026-07-17T11:25:45Z",
+      "latest_at": "2026-07-17T11:25:45Z",
       "primary_item": {
-        "id": "hotelitem_9d906eadfd50",
-        "title": "Agoda Reveals Growing Travel Interest Ahead  ... Singapore, 24 July 2026: Agoda Company Pte. Ltd. (Headquarters: Singapore; CEO: Omri Morgenshtern), wh ... July 24, 2026 / Travel Trends",
-        "url": "https://www.agoda.com/press/agoda-reveals-growing-travel-interest-ahead-of-japans-summer-2026-fireworks-festivals/",
-        "source": "Agoda",
-        "source_name": "Agoda"
-      }
-    },
-    {
-      "story_id": "story_8198bc289a0c",
-      "title": "Agoda Unveils Taiwan H1 Travel Insights: Ban ... Singapore, 14 July 2026 – Digital travel platform Agoda has released the latest insights on travel tre ... July 14, 2026 / Travel Trends",
-      "url": "https://www.agoda.com/press/agoda-unveils-taiwan-h1-travel-insights-bangkok-exits-top-five-philippines-leads-inbound-travel-interest-growth/",
-      "primary_url": "https://www.agoda.com/press/agoda-unveils-taiwan-h1-travel-insights-bangkok-exits-top-five-philippines-leads-inbound-travel-interest-growth/",
-      "source": "Agoda",
-      "source_name": "Agoda",
-      "sources": [
-        {
-          "id": "hotelitem_8198bc289a0c",
-          "title": "Agoda Unveils Taiwan H1 Travel Insights: Ban ... Singapore, 14 July 2026 – Digital travel platform Agoda has released the latest insights on travel tre ... July 14, 2026 / Travel Trends",
-          "url": "https://www.agoda.com/press/agoda-unveils-taiwan-h1-travel-insights-bangkok-exits-top-five-philippines-leads-inbound-travel-interest-growth/",
-          "source": "Agoda",
-          "source_name": "Agoda",
-          "site_id": "agoda_press",
-          "published_at": "2026-07-24T19:48:37.375748Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Agoda"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_8198bc289a0c",
-          "title": "Agoda Unveils Taiwan H1 Travel Insights: Ban ... Singapore, 14 July 2026 – Digital travel platform Agoda has released the latest insights on travel tre ... July 14, 2026 / Travel Trends",
-          "url": "https://www.agoda.com/press/agoda-unveils-taiwan-h1-travel-insights-bangkok-exits-top-five-philippines-leads-inbound-travel-interest-growth/",
-          "source": "Agoda",
-          "source_name": "Agoda",
-          "site_id": "agoda_press",
-          "published_at": "2026-07-24T19:48:37.375748Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8125,
-      "importance": 0.6,
-      "importance_score": 0.8125,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-24T19:48:37.375748Z",
-      "latest_at": "2026-07-24T19:48:37.375748Z",
-      "primary_item": {
-        "id": "hotelitem_8198bc289a0c",
-        "title": "Agoda Unveils Taiwan H1 Travel Insights: Ban ... Singapore, 14 July 2026 – Digital travel platform Agoda has released the latest insights on travel tre ... July 14, 2026 / Travel Trends",
-        "url": "https://www.agoda.com/press/agoda-unveils-taiwan-h1-travel-insights-bangkok-exits-top-five-philippines-leads-inbound-travel-interest-growth/",
-        "source": "Agoda",
-        "source_name": "Agoda"
-      }
-    },
-    {
-      "story_id": "story_7245e3fed3db",
-      "title": "Agoda and DTTDC Launch MoU to Position Delhi ... Digital travel platform Agoda has announced a strategic partnership with the Delhi Tourism & Trans ... May 21, 2026 / Partnership",
-      "url": "https://www.agoda.com/press/agoda-and-dttdc-launch-mou-to-position-delhi-as-a-year-round-destination/",
-      "primary_url": "https://www.agoda.com/press/agoda-and-dttdc-launch-mou-to-position-delhi-as-a-year-round-destination/",
-      "source": "Agoda",
-      "source_name": "Agoda",
-      "sources": [
-        {
-          "id": "hotelitem_7245e3fed3db",
-          "title": "Agoda and DTTDC Launch MoU to Position Delhi ... Digital travel platform Agoda has announced a strategic partnership with the Delhi Tourism & Trans ... May 21, 2026 / Partnership",
-          "url": "https://www.agoda.com/press/agoda-and-dttdc-launch-mou-to-position-delhi-as-a-year-round-destination/",
-          "source": "Agoda",
-          "source_name": "Agoda",
-          "site_id": "agoda_press",
-          "published_at": "2026-07-24T19:48:37.375748Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Agoda"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_7245e3fed3db",
-          "title": "Agoda and DTTDC Launch MoU to Position Delhi ... Digital travel platform Agoda has announced a strategic partnership with the Delhi Tourism & Trans ... May 21, 2026 / Partnership",
-          "url": "https://www.agoda.com/press/agoda-and-dttdc-launch-mou-to-position-delhi-as-a-year-round-destination/",
-          "source": "Agoda",
-          "source_name": "Agoda",
-          "site_id": "agoda_press",
-          "published_at": "2026-07-24T19:48:37.375748Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8125,
-      "importance": 0.6,
-      "importance_score": 0.8125,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-24T19:48:37.375748Z",
-      "latest_at": "2026-07-24T19:48:37.375748Z",
-      "primary_item": {
-        "id": "hotelitem_7245e3fed3db",
-        "title": "Agoda and DTTDC Launch MoU to Position Delhi ... Digital travel platform Agoda has announced a strategic partnership with the Delhi Tourism & Trans ... May 21, 2026 / Partnership",
-        "url": "https://www.agoda.com/press/agoda-and-dttdc-launch-mou-to-position-delhi-as-a-year-round-destination/",
-        "source": "Agoda",
-        "source_name": "Agoda"
+        "id": "hotelitem_d483e87b8a49",
+        "title": "W Hotels launches first property in Saudi Arabia",
+        "url": "https://boutiquehotelnews.com/news/hotel/w-hotels-saudi-arabia/?utm_source=rss&utm_medium=rss&utm_campaign=w-hotels-saudi-arabia",
+        "source": "Boutique Hotel News",
+        "source_name": "Boutique Hotel News"
       }
     }
   ]
