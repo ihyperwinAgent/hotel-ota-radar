@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T03:46:33.185808Z",
+  "generated_at": "2026-07-24T08:44:24.233118Z",
   "window_hours": 1080,
   "total_stories": 30,
   "stories": [
@@ -38,14 +38,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9547,
-      "importance": 0.5996,
-      "importance_score": 0.9547,
+      "score": 0.9538,
+      "importance": 0.5987,
+      "importance_score": 0.9538,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9982,
+        "recency": 0.9936,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -97,14 +97,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9546,
-      "importance": 0.5996,
-      "importance_score": 0.9546,
+      "score": 0.9537,
+      "importance": 0.5986,
+      "importance_score": 0.9537,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9978,
+        "recency": 0.9932,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -156,14 +156,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9525,
-      "importance": 0.5974,
-      "importance_score": 0.9525,
+      "score": 0.9516,
+      "importance": 0.5965,
+      "importance_score": 0.9516,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9869,
+        "recency": 0.9823,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -195,7 +195,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-07-24T03:46:33.185808Z"
+          "published_at": "2026-07-24T08:44:24.233118Z"
         }
       ],
       "source_count": 1,
@@ -210,7 +210,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-07-24T03:46:33.185808Z"
+          "published_at": "2026-07-24T08:44:24.233118Z"
         }
       ],
       "item_count": 1,
@@ -229,8 +229,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-24T03:46:33.185808Z",
-      "latest_at": "2026-07-24T03:46:33.185808Z",
+      "earliest_at": "2026-07-24T08:44:24.233118Z",
+      "latest_at": "2026-07-24T08:44:24.233118Z",
       "primary_item": {
         "id": "hotelitem_9699887c72ea",
         "title": "中国旅游研究院与中青旅控股股份有限公司开展主题党日联学联",
@@ -254,7 +254,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-24T03:46:33.185808Z"
+          "published_at": "2026-07-24T08:44:24.233118Z"
         },
         {
           "id": "hotelitem_c7c15b7680c9",
@@ -263,7 +263,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-24T03:46:33.185808Z"
+          "published_at": "2026-07-24T08:44:24.233118Z"
         },
         {
           "id": "hotelitem_6d8fa145e8af",
@@ -272,7 +272,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-24T03:46:33.185808Z"
+          "published_at": "2026-07-24T08:44:24.233118Z"
         }
       ],
       "source_count": 3,
@@ -287,7 +287,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-24T03:46:33.185808Z"
+          "published_at": "2026-07-24T08:44:24.233118Z"
         },
         {
           "id": "hotelitem_c7c15b7680c9",
@@ -296,7 +296,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-24T03:46:33.185808Z"
+          "published_at": "2026-07-24T08:44:24.233118Z"
         },
         {
           "id": "hotelitem_6d8fa145e8af",
@@ -305,7 +305,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-24T03:46:33.185808Z"
+          "published_at": "2026-07-24T08:44:24.233118Z"
         }
       ],
       "item_count": 3,
@@ -325,8 +325,8 @@
         "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-24T03:46:33.185808Z",
-      "latest_at": "2026-07-24T03:46:33.185808Z",
+      "earliest_at": "2026-07-24T08:44:24.233118Z",
+      "latest_at": "2026-07-24T08:44:24.233118Z",
       "primary_item": {
         "id": "hotelitem_d4370964909c",
         "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
@@ -350,7 +350,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-07-24T03:46:33.185808Z"
+          "published_at": "2026-07-24T08:44:24.233118Z"
         }
       ],
       "source_count": 1,
@@ -365,7 +365,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-07-24T03:46:33.185808Z"
+          "published_at": "2026-07-24T08:44:24.233118Z"
         }
       ],
       "item_count": 1,
@@ -384,8 +384,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-24T03:46:33.185808Z",
-      "latest_at": "2026-07-24T03:46:33.185808Z",
+      "earliest_at": "2026-07-24T08:44:24.233118Z",
+      "latest_at": "2026-07-24T08:44:24.233118Z",
       "primary_item": {
         "id": "hotelitem_d34e2868e8eb",
         "title": "惠评文旅|18亿收购，君亭没卖成，国资文旅买壳真正逻辑是什么？",
@@ -409,7 +409,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-07-24T03:46:33.185808Z"
+          "published_at": "2026-07-24T08:44:24.233118Z"
         }
       ],
       "source_count": 1,
@@ -424,7 +424,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-07-24T03:46:33.185808Z"
+          "published_at": "2026-07-24T08:44:24.233118Z"
         }
       ],
       "item_count": 1,
@@ -443,8 +443,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-24T03:46:33.185808Z",
-      "latest_at": "2026-07-24T03:46:33.185808Z",
+      "earliest_at": "2026-07-24T08:44:24.233118Z",
+      "latest_at": "2026-07-24T08:44:24.233118Z",
       "primary_item": {
         "id": "hotelitem_2c03113fa391",
         "title": "文旅惠报|飞猪与浙旅投集团达成战略合作；凯联国际酒店年度亏损收窄至4.74亿港元",
@@ -468,7 +468,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-07-24T03:46:33.185808Z"
+          "published_at": "2026-07-24T08:44:24.233118Z"
         }
       ],
       "source_count": 1,
@@ -483,7 +483,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-07-24T03:46:33.185808Z"
+          "published_at": "2026-07-24T08:44:24.233118Z"
         }
       ],
       "item_count": 1,
@@ -502,8 +502,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-24T03:46:33.185808Z",
-      "latest_at": "2026-07-24T03:46:33.185808Z",
+      "earliest_at": "2026-07-24T08:44:24.233118Z",
+      "latest_at": "2026-07-24T08:44:24.233118Z",
       "primary_item": {
         "id": "hotelitem_50c135faab60",
         "title": "文旅惠报|首旅集团拟发行20亿元超短期融资券，期限95天；广西旅发集团任命向红为副董事长、总经理",
@@ -547,14 +547,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8743,
-      "importance": 0.5565,
-      "importance_score": 0.8743,
+      "score": 0.873,
+      "importance": 0.5556,
+      "importance_score": 0.873,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.7824,
+        "recency": 0.7778,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -606,14 +606,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8647,
-      "importance": 0.5997,
-      "importance_score": 0.8647,
+      "score": 0.8638,
+      "importance": 0.5988,
+      "importance_score": 0.8638,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9984,
+        "recency": 0.9938,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -665,14 +665,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8647,
-      "importance": 0.5997,
-      "importance_score": 0.8647,
+      "score": 0.8638,
+      "importance": 0.5988,
+      "importance_score": 0.8638,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9985,
+        "recency": 0.9939,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -724,14 +724,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8646,
-      "importance": 0.5996,
-      "importance_score": 0.8646,
+      "score": 0.8637,
+      "importance": 0.5987,
+      "importance_score": 0.8637,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9979,
+        "recency": 0.9933,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -783,14 +783,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8646,
-      "importance": 0.5996,
-      "importance_score": 0.8646,
+      "score": 0.8637,
+      "importance": 0.5987,
+      "importance_score": 0.8637,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.998,
+        "recency": 0.9934,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -842,14 +842,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8624,
-      "importance": 0.5973,
-      "importance_score": 0.8624,
+      "score": 0.8616,
+      "importance": 0.5964,
+      "importance_score": 0.8616,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9867,
+        "recency": 0.9822,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -881,7 +881,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-24T03:46:33.185808Z"
+          "published_at": "2026-07-24T08:44:24.233118Z"
         },
         {
           "id": "hotelitem_816c6fb1ed6e",
@@ -890,7 +890,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-24T03:46:33.185808Z"
+          "published_at": "2026-07-24T08:44:24.233118Z"
         }
       ],
       "source_count": 2,
@@ -905,7 +905,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-24T03:46:33.185808Z"
+          "published_at": "2026-07-24T08:44:24.233118Z"
         },
         {
           "id": "hotelitem_816c6fb1ed6e",
@@ -914,7 +914,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-24T03:46:33.185808Z"
+          "published_at": "2026-07-24T08:44:24.233118Z"
         }
       ],
       "item_count": 2,
@@ -934,8 +934,8 @@
         "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-24T03:46:33.185808Z",
-      "latest_at": "2026-07-24T03:46:33.185808Z",
+      "earliest_at": "2026-07-24T08:44:24.233118Z",
+      "latest_at": "2026-07-24T08:44:24.233118Z",
       "primary_item": {
         "id": "hotelitem_3e02fd1a1636",
         "title": "指数发布 | 中国住宿业消费指数报告（2026年上半年）发布 为贯彻落实提振消费相关政策，真实反映中国住宿餐饮业市场消费情况，以数据引导促消费政策精准发力，为行业发展提供参考建议，中国饭店协会每月公开发布“中国饭店业消费指数体系”，包含“中国住宿业消费指数（China Hotel Industry Consumption Index, HCI）”与“中国餐饮业消费指数(China Catering Industry Consumption Index, CCI)”，欢迎关注。\n本篇发布的是“中国住宿业消费指数”。",
@@ -959,7 +959,7 @@
           "source": "迈点研究院",
           "source_name": "迈点研究院",
           "site_id": "meadin",
-          "published_at": "2026-07-24T03:46:33.185808Z"
+          "published_at": "2026-07-24T08:44:24.233118Z"
         }
       ],
       "source_count": 1,
@@ -974,7 +974,7 @@
           "source": "迈点研究院",
           "source_name": "迈点研究院",
           "site_id": "meadin",
-          "published_at": "2026-07-24T03:46:33.185808Z"
+          "published_at": "2026-07-24T08:44:24.233118Z"
         }
       ],
       "item_count": 1,
@@ -993,8 +993,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-24T03:46:33.185808Z",
-      "latest_at": "2026-07-24T03:46:33.185808Z",
+      "earliest_at": "2026-07-24T08:44:24.233118Z",
+      "latest_at": "2026-07-24T08:44:24.233118Z",
       "primary_item": {
         "id": "hotelitem_e3f8d26943fc",
         "title": "温德姆酒店集团发布2026Q2财报，中国区RevPAR下降5%",
@@ -1018,7 +1018,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-07-24T03:46:33.185808Z"
+          "published_at": "2026-07-24T08:44:24.233118Z"
         }
       ],
       "source_count": 1,
@@ -1033,7 +1033,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-07-24T03:46:33.185808Z"
+          "published_at": "2026-07-24T08:44:24.233118Z"
         }
       ],
       "item_count": 1,
@@ -1052,8 +1052,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-24T03:46:33.185808Z",
-      "latest_at": "2026-07-24T03:46:33.185808Z",
+      "earliest_at": "2026-07-24T08:44:24.233118Z",
+      "latest_at": "2026-07-24T08:44:24.233118Z",
       "primary_item": {
         "id": "hotelitem_e4ce0593c384",
         "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
@@ -1077,7 +1077,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-07-24T03:46:33.185808Z"
+          "published_at": "2026-07-24T08:44:24.233118Z"
         }
       ],
       "source_count": 1,
@@ -1092,7 +1092,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-07-24T03:46:33.185808Z"
+          "published_at": "2026-07-24T08:44:24.233118Z"
         }
       ],
       "item_count": 1,
@@ -1111,8 +1111,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-24T03:46:33.185808Z",
-      "latest_at": "2026-07-24T03:46:33.185808Z",
+      "earliest_at": "2026-07-24T08:44:24.233118Z",
+      "latest_at": "2026-07-24T08:44:24.233118Z",
       "primary_item": {
         "id": "hotelitem_fa34986b4fc0",
         "title": "文化和旅游部、金融监管总局关于警惕借“保...",
@@ -1136,7 +1136,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-07-24T03:46:33.185808Z"
+          "published_at": "2026-07-24T08:44:24.233118Z"
         }
       ],
       "source_count": 1,
@@ -1151,7 +1151,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-07-24T03:46:33.185808Z"
+          "published_at": "2026-07-24T08:44:24.233118Z"
         }
       ],
       "item_count": 1,
@@ -1170,8 +1170,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-24T03:46:33.185808Z",
-      "latest_at": "2026-07-24T03:46:33.185808Z",
+      "earliest_at": "2026-07-24T08:44:24.233118Z",
+      "latest_at": "2026-07-24T08:44:24.233118Z",
       "primary_item": {
         "id": "hotelitem_9a958319a874",
         "title": "文化和旅游部印发《旅游强国建设“十五五”...",
@@ -1195,7 +1195,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-07-24T03:46:33.185808Z"
+          "published_at": "2026-07-24T08:44:24.233118Z"
         }
       ],
       "source_count": 1,
@@ -1210,7 +1210,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-07-24T03:46:33.185808Z"
+          "published_at": "2026-07-24T08:44:24.233118Z"
         }
       ],
       "item_count": 1,
@@ -1229,8 +1229,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-24T03:46:33.185808Z",
-      "latest_at": "2026-07-24T03:46:33.185808Z",
+      "earliest_at": "2026-07-24T08:44:24.233118Z",
+      "latest_at": "2026-07-24T08:44:24.233118Z",
       "primary_item": {
         "id": "hotelitem_9a179dce1533",
         "title": "文化和旅游部第16期西藏文化和旅游管理干...",
@@ -1274,14 +1274,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8579,
-      "importance": 0.5927,
-      "importance_score": 0.8579,
+      "score": 0.857,
+      "importance": 0.5917,
+      "importance_score": 0.857,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9633,
+        "recency": 0.9587,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1333,14 +1333,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8562,
-      "importance": 0.5909,
-      "importance_score": 0.8562,
+      "score": 0.8553,
+      "importance": 0.59,
+      "importance_score": 0.8553,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9544,
+        "recency": 0.9498,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1392,14 +1392,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.854,
-      "importance": 0.5886,
-      "importance_score": 0.854,
+      "score": 0.8531,
+      "importance": 0.5877,
+      "importance_score": 0.8531,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9429,
+        "recency": 0.9383,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1414,6 +1414,65 @@
         "url": "https://www.hoteldive.com/news/how-data-center-projects-reshape-extended-stay-hotel-demand/825716/",
         "source": "Hotel Dive",
         "source_name": "Hotel Dive"
+      }
+    },
+    {
+      "story_id": "story_65f5e43c1c1f",
+      "title": "HMRC files winding-up petition against Avison Young",
+      "url": "https://boutiquehotelnews.com/news/industry/hmrc-avison-young/?utm_source=rss&utm_medium=rss&utm_campaign=hmrc-avison-young",
+      "primary_url": "https://boutiquehotelnews.com/news/industry/hmrc-avison-young/?utm_source=rss&utm_medium=rss&utm_campaign=hmrc-avison-young",
+      "source": "Boutique Hotel News",
+      "source_name": "Boutique Hotel News",
+      "sources": [
+        {
+          "id": "hotelitem_65f5e43c1c1f",
+          "title": "HMRC files winding-up petition against Avison Young",
+          "url": "https://boutiquehotelnews.com/news/industry/hmrc-avison-young/?utm_source=rss&utm_medium=rss&utm_campaign=hmrc-avison-young",
+          "source": "Boutique Hotel News",
+          "source_name": "Boutique Hotel News",
+          "site_id": "boutiquehotel",
+          "published_at": "2026-07-24T08:14:34Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Boutique Hotel News"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_65f5e43c1c1f",
+          "title": "HMRC files winding-up petition against Avison Young",
+          "url": "https://boutiquehotelnews.com/news/industry/hmrc-avison-young/?utm_source=rss&utm_medium=rss&utm_campaign=hmrc-avison-young",
+          "source": "Boutique Hotel News",
+          "source_name": "Boutique Hotel News",
+          "site_id": "boutiquehotel",
+          "published_at": "2026-07-24T08:14:34Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8499,
+      "importance": 0.5999,
+      "importance_score": 0.8499,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9995,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-24T08:14:34Z",
+      "latest_at": "2026-07-24T08:14:34Z",
+      "primary_item": {
+        "id": "hotelitem_65f5e43c1c1f",
+        "title": "HMRC files winding-up petition against Avison Young",
+        "url": "https://boutiquehotelnews.com/news/industry/hmrc-avison-young/?utm_source=rss&utm_medium=rss&utm_campaign=hmrc-avison-young",
+        "source": "Boutique Hotel News",
+        "source_name": "Boutique Hotel News"
       }
     },
     {
@@ -1451,14 +1510,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8497,
-      "importance": 0.5841,
-      "importance_score": 0.8497,
+      "score": 0.8488,
+      "importance": 0.5832,
+      "importance_score": 0.8488,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9205,
+        "recency": 0.9159,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1510,14 +1569,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8467,
-      "importance": 0.5966,
-      "importance_score": 0.8467,
+      "score": 0.8458,
+      "importance": 0.5956,
+      "importance_score": 0.8458,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9828,
+        "recency": 0.9782,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1569,14 +1628,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8352,
-      "importance": 0.5846,
-      "importance_score": 0.8352,
+      "score": 0.8343,
+      "importance": 0.5837,
+      "importance_score": 0.8343,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9231,
+        "recency": 0.9185,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1628,14 +1687,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8214,
-      "importance": 0.5703,
-      "importance_score": 0.8214,
+      "score": 0.8205,
+      "importance": 0.5694,
+      "importance_score": 0.8205,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8515,
+        "recency": 0.8469,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1687,14 +1746,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8211,
-      "importance": 0.5701,
-      "importance_score": 0.8211,
+      "score": 0.8202,
+      "importance": 0.5691,
+      "importance_score": 0.8202,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8503,
+        "recency": 0.8457,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1746,14 +1805,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8187,
-      "importance": 0.4964,
-      "importance_score": 0.8187,
+      "score": 0.8173,
+      "importance": 0.4955,
+      "importance_score": 0.8173,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.4821,
+        "recency": 0.4775,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1768,65 +1827,6 @@
         "url": "https://www.hotelmanagement.net/resource/reactive-proactive-leveraging-data-prevent-device-failures-protect-guest-experience",
         "source": "Hotel Management",
         "source_name": "Hotel Management"
-      }
-    },
-    {
-      "story_id": "story_c2ae7ac5bd49",
-      "title": "Relais & Châteaux adds 10 hotel and restaurant members",
-      "url": "https://boutiquehotelnews.com/news/industry/relais-chateaux/?utm_source=rss&utm_medium=rss&utm_campaign=relais-chateaux",
-      "primary_url": "https://boutiquehotelnews.com/news/industry/relais-chateaux/?utm_source=rss&utm_medium=rss&utm_campaign=relais-chateaux",
-      "source": "Boutique Hotel News",
-      "source_name": "Boutique Hotel News",
-      "sources": [
-        {
-          "id": "hotelitem_c2ae7ac5bd49",
-          "title": "Relais & Châteaux adds 10 hotel and restaurant members",
-          "url": "https://boutiquehotelnews.com/news/industry/relais-chateaux/?utm_source=rss&utm_medium=rss&utm_campaign=relais-chateaux",
-          "source": "Boutique Hotel News",
-          "source_name": "Boutique Hotel News",
-          "site_id": "boutiquehotel",
-          "published_at": "2026-07-16T09:46:35Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Boutique Hotel News"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_c2ae7ac5bd49",
-          "title": "Relais & Châteaux adds 10 hotel and restaurant members",
-          "url": "https://boutiquehotelnews.com/news/industry/relais-chateaux/?utm_source=rss&utm_medium=rss&utm_campaign=relais-chateaux",
-          "source": "Boutique Hotel News",
-          "source_name": "Boutique Hotel News",
-          "site_id": "boutiquehotel",
-          "published_at": "2026-07-16T09:46:35Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8151,
-      "importance": 0.5656,
-      "importance_score": 0.8151,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.8278,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-16T09:46:35Z",
-      "latest_at": "2026-07-16T09:46:35Z",
-      "primary_item": {
-        "id": "hotelitem_c2ae7ac5bd49",
-        "title": "Relais & Châteaux adds 10 hotel and restaurant members",
-        "url": "https://boutiquehotelnews.com/news/industry/relais-chateaux/?utm_source=rss&utm_medium=rss&utm_campaign=relais-chateaux",
-        "source": "Boutique Hotel News",
-        "source_name": "Boutique Hotel News"
       }
     }
   ]
