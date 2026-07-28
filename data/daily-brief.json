@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T16:52:19.908065Z",
+  "generated_at": "2026-07-28T19:54:38.668227Z",
   "window_hours": 1080,
   "total_items": 30,
   "items": [
@@ -39,13 +39,13 @@
       "item_count": 1,
       "duplicate_count": 1,
       "score": 1.0,
-      "importance": 0.5956,
+      "importance": 0.595,
       "importance_score": 1.0,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9779,
+        "recency": 0.9751,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -60,6 +60,124 @@
         "url": "https://www.traveldaily.cn/article/190452",
         "source": "环球旅讯 TravelDaily",
         "source_name": "环球旅讯 TravelDaily"
+      }
+    },
+    {
+      "story_id": "story_7ac0cb44316e",
+      "title": "Hilton Cuts Fees to Rebuild Hotel Owners’ Margins as Costs Stay Sticky",
+      "url": "https://skift.com/2026/07/28/hilton-cuts-fees-to-rebuild-hotel-owners-margins-as-costs-stay-sticky/",
+      "primary_url": "https://skift.com/2026/07/28/hilton-cuts-fees-to-rebuild-hotel-owners-margins-as-costs-stay-sticky/",
+      "source": "Skift Hospitality",
+      "source_name": "Skift Hospitality",
+      "sources": [
+        {
+          "id": "hotelitem_7ac0cb44316e",
+          "title": "Hilton Cuts Fees to Rebuild Hotel Owners’ Margins as Costs Stay Sticky",
+          "url": "https://skift.com/2026/07/28/hilton-cuts-fees-to-rebuild-hotel-owners-margins-as-costs-stay-sticky/",
+          "source": "Skift Hospitality",
+          "source_name": "Skift Hospitality",
+          "site_id": "skift",
+          "published_at": "2026-07-28T19:25:11Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Skift Hospitality"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_7ac0cb44316e",
+          "title": "Hilton Cuts Fees to Rebuild Hotel Owners’ Margins as Costs Stay Sticky",
+          "url": "https://skift.com/2026/07/28/hilton-cuts-fees-to-rebuild-hotel-owners-margins-as-costs-stay-sticky/",
+          "source": "Skift Hospitality",
+          "source_name": "Skift Hospitality",
+          "site_id": "skift",
+          "published_at": "2026-07-28T19:25:11Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.9549,
+      "importance": 0.5999,
+      "importance_score": 0.9549,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9995,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-28T19:25:11Z",
+      "latest_at": "2026-07-28T19:25:11Z",
+      "primary_item": {
+        "id": "hotelitem_7ac0cb44316e",
+        "title": "Hilton Cuts Fees to Rebuild Hotel Owners’ Margins as Costs Stay Sticky",
+        "url": "https://skift.com/2026/07/28/hilton-cuts-fees-to-rebuild-hotel-owners-margins-as-costs-stay-sticky/",
+        "source": "Skift Hospitality",
+        "source_name": "Skift Hospitality"
+      }
+    },
+    {
+      "story_id": "story_c9785f5c92cf",
+      "title": "Hilton posts strong Q2 RevPAR gains, raises full-year forecast",
+      "url": "https://www.hoteldive.com/news/hilton-q2-revpar-gains-raises-full-year-forecast/826390/",
+      "primary_url": "https://www.hoteldive.com/news/hilton-q2-revpar-gains-raises-full-year-forecast/826390/",
+      "source": "Hotel Dive",
+      "source_name": "Hotel Dive",
+      "sources": [
+        {
+          "id": "hotelitem_c9785f5c92cf",
+          "title": "Hilton posts strong Q2 RevPAR gains, raises full-year forecast",
+          "url": "https://www.hoteldive.com/news/hilton-q2-revpar-gains-raises-full-year-forecast/826390/",
+          "source": "Hotel Dive",
+          "source_name": "Hotel Dive",
+          "site_id": "hoteldive",
+          "published_at": "2026-07-28T17:57:53Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hotel Dive"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_c9785f5c92cf",
+          "title": "Hilton posts strong Q2 RevPAR gains, raises full-year forecast",
+          "url": "https://www.hoteldive.com/news/hilton-q2-revpar-gains-raises-full-year-forecast/826390/",
+          "source": "Hotel Dive",
+          "source_name": "Hotel Dive",
+          "site_id": "hoteldive",
+          "published_at": "2026-07-28T17:57:53Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.9547,
+      "importance": 0.5996,
+      "importance_score": 0.9547,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9982,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-28T17:57:53Z",
+      "latest_at": "2026-07-28T17:57:53Z",
+      "primary_item": {
+        "id": "hotelitem_c9785f5c92cf",
+        "title": "Hilton posts strong Q2 RevPAR gains, raises full-year forecast",
+        "url": "https://www.hoteldive.com/news/hilton-q2-revpar-gains-raises-full-year-forecast/826390/",
+        "source": "Hotel Dive",
+        "source_name": "Hotel Dive"
       }
     },
     {
@@ -97,14 +215,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9545,
-      "importance": 0.5995,
-      "importance_score": 0.9545,
+      "score": 0.9539,
+      "importance": 0.5989,
+      "importance_score": 0.9539,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9973,
+        "recency": 0.9945,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -156,14 +274,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9522,
-      "importance": 0.5971,
-      "importance_score": 0.9522,
+      "score": 0.9517,
+      "importance": 0.5965,
+      "importance_score": 0.9517,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9855,
+        "recency": 0.9827,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -195,7 +313,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-07-28T16:52:19.908065Z"
+          "published_at": "2026-07-28T19:54:38.668227Z"
         }
       ],
       "source_count": 1,
@@ -210,7 +328,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-07-28T16:52:19.908065Z"
+          "published_at": "2026-07-28T19:54:38.668227Z"
         }
       ],
       "item_count": 1,
@@ -229,8 +347,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-28T16:52:19.908065Z",
-      "latest_at": "2026-07-28T16:52:19.908065Z",
+      "earliest_at": "2026-07-28T19:54:38.668227Z",
+      "latest_at": "2026-07-28T19:54:38.668227Z",
       "primary_item": {
         "id": "hotelitem_9699887c72ea",
         "title": "中国旅游研究院与中青旅控股股份有限公司开展主题党日联学联",
@@ -274,14 +392,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9375,
-      "importance": 0.5819,
-      "importance_score": 0.9375,
+      "score": 0.937,
+      "importance": 0.5813,
+      "importance_score": 0.937,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9093,
+        "recency": 0.9065,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -333,14 +451,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9372,
-      "importance": 0.5816,
-      "importance_score": 0.9372,
+      "score": 0.9367,
+      "importance": 0.581,
+      "importance_score": 0.9367,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9078,
+        "recency": 0.905,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -392,14 +510,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.933,
-      "importance": 0.5772,
-      "importance_score": 0.933,
+      "score": 0.9324,
+      "importance": 0.5766,
+      "importance_score": 0.9324,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8859,
+        "recency": 0.8831,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -451,14 +569,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9215,
-      "importance": 0.5808,
-      "importance_score": 0.9215,
+      "score": 0.9209,
+      "importance": 0.5802,
+      "importance_score": 0.9209,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9039,
+        "recency": 0.9011,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -490,7 +608,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-28T16:52:19.908065Z"
+          "published_at": "2026-07-28T19:54:38.668227Z"
         },
         {
           "id": "hotelitem_c7c15b7680c9",
@@ -499,7 +617,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-28T16:52:19.908065Z"
+          "published_at": "2026-07-28T19:54:38.668227Z"
         },
         {
           "id": "hotelitem_6d8fa145e8af",
@@ -508,7 +626,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-28T16:52:19.908065Z"
+          "published_at": "2026-07-28T19:54:38.668227Z"
         }
       ],
       "source_count": 3,
@@ -523,7 +641,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-28T16:52:19.908065Z"
+          "published_at": "2026-07-28T19:54:38.668227Z"
         },
         {
           "id": "hotelitem_c7c15b7680c9",
@@ -532,7 +650,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-28T16:52:19.908065Z"
+          "published_at": "2026-07-28T19:54:38.668227Z"
         },
         {
           "id": "hotelitem_6d8fa145e8af",
@@ -541,7 +659,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-28T16:52:19.908065Z"
+          "published_at": "2026-07-28T19:54:38.668227Z"
         }
       ],
       "item_count": 3,
@@ -561,8 +679,8 @@
         "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-28T16:52:19.908065Z",
-      "latest_at": "2026-07-28T16:52:19.908065Z",
+      "earliest_at": "2026-07-28T19:54:38.668227Z",
+      "latest_at": "2026-07-28T19:54:38.668227Z",
       "primary_item": {
         "id": "hotelitem_d4370964909c",
         "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
@@ -606,14 +724,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9054,
-      "importance": 0.5823,
-      "importance_score": 0.9054,
+      "score": 0.9049,
+      "importance": 0.5817,
+      "importance_score": 0.9049,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9114,
+        "recency": 0.9086,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -665,14 +783,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8831,
-      "importance": 0.598,
-      "importance_score": 0.8831,
+      "score": 0.8825,
+      "importance": 0.5974,
+      "importance_score": 0.8825,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.99,
+        "recency": 0.9872,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -687,65 +805,6 @@
         "url": "https://www.pinchain.com/article/349234",
         "source": "品橙旅游",
         "source_name": "品橙旅游"
-      }
-    },
-    {
-      "story_id": "story_70dc41f8854c",
-      "title": "The Bahamas launches “It’s More Bahamas Season” with $250 instant travel savings",
-      "url": "https://insights.ehotelier.com/global-news/2026/07/28/the-bahamas-launches-its-more-bahamas-season-with-250-instant-travel-savings/?utm_source=rss&utm_medium=rss&utm_campaign=the-bahamas-launches-its-more-bahamas-season-with-250-instant-travel-savings",
-      "primary_url": "https://insights.ehotelier.com/global-news/2026/07/28/the-bahamas-launches-its-more-bahamas-season-with-250-instant-travel-savings/?utm_source=rss&utm_medium=rss&utm_campaign=the-bahamas-launches-its-more-bahamas-season-with-250-instant-travel-savings",
-      "source": "eHotelier",
-      "source_name": "eHotelier",
-      "sources": [
-        {
-          "id": "hotelitem_70dc41f8854c",
-          "title": "The Bahamas launches “It’s More Bahamas Season” with $250 instant travel savings",
-          "url": "https://insights.ehotelier.com/global-news/2026/07/28/the-bahamas-launches-its-more-bahamas-season-with-250-instant-travel-savings/?utm_source=rss&utm_medium=rss&utm_campaign=the-bahamas-launches-its-more-bahamas-season-with-250-instant-travel-savings",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-07-28T01:40:09Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "eHotelier"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_70dc41f8854c",
-          "title": "The Bahamas launches “It’s More Bahamas Season” with $250 instant travel savings",
-          "url": "https://insights.ehotelier.com/global-news/2026/07/28/the-bahamas-launches-its-more-bahamas-season-with-250-instant-travel-savings/?utm_source=rss&utm_medium=rss&utm_campaign=the-bahamas-launches-its-more-bahamas-season-with-250-instant-travel-savings",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-07-28T01:40:09Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8623,
-      "importance": 0.5972,
-      "importance_score": 0.8623,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9859,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-28T01:40:09Z",
-      "latest_at": "2026-07-28T01:40:09Z",
-      "primary_item": {
-        "id": "hotelitem_70dc41f8854c",
-        "title": "The Bahamas launches “It’s More Bahamas Season” with $250 instant travel savings",
-        "url": "https://insights.ehotelier.com/global-news/2026/07/28/the-bahamas-launches-its-more-bahamas-season-with-250-instant-travel-savings/?utm_source=rss&utm_medium=rss&utm_campaign=the-bahamas-launches-its-more-bahamas-season-with-250-instant-travel-savings",
-        "source": "eHotelier",
-        "source_name": "eHotelier"
       }
     },
     {
@@ -783,14 +842,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8623,
-      "importance": 0.5972,
-      "importance_score": 0.8623,
+      "score": 0.8618,
+      "importance": 0.5967,
+      "importance_score": 0.8618,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9861,
+        "recency": 0.9833,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -805,6 +864,202 @@
         "url": "https://insights.ehotelier.com/suppliers/2026/07/28/guests-are-spending-ai-is-watching-and-hospitality-is-free-notes-from-hsmai/?utm_source=rss&utm_medium=rss&utm_campaign=guests-are-spending-ai-is-watching-and-hospitality-is-free-notes-from-hsmai",
         "source": "eHotelier",
         "source_name": "eHotelier"
+      }
+    },
+    {
+      "story_id": "story_70dc41f8854c",
+      "title": "The Bahamas launches “It’s More Bahamas Season” with $250 instant travel savings",
+      "url": "https://insights.ehotelier.com/global-news/2026/07/28/the-bahamas-launches-its-more-bahamas-season-with-250-instant-travel-savings/?utm_source=rss&utm_medium=rss&utm_campaign=the-bahamas-launches-its-more-bahamas-season-with-250-instant-travel-savings",
+      "primary_url": "https://insights.ehotelier.com/global-news/2026/07/28/the-bahamas-launches-its-more-bahamas-season-with-250-instant-travel-savings/?utm_source=rss&utm_medium=rss&utm_campaign=the-bahamas-launches-its-more-bahamas-season-with-250-instant-travel-savings",
+      "source": "eHotelier",
+      "source_name": "eHotelier",
+      "sources": [
+        {
+          "id": "hotelitem_70dc41f8854c",
+          "title": "The Bahamas launches “It’s More Bahamas Season” with $250 instant travel savings",
+          "url": "https://insights.ehotelier.com/global-news/2026/07/28/the-bahamas-launches-its-more-bahamas-season-with-250-instant-travel-savings/?utm_source=rss&utm_medium=rss&utm_campaign=the-bahamas-launches-its-more-bahamas-season-with-250-instant-travel-savings",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-07-28T01:40:09Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "eHotelier"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_70dc41f8854c",
+          "title": "The Bahamas launches “It’s More Bahamas Season” with $250 instant travel savings",
+          "url": "https://insights.ehotelier.com/global-news/2026/07/28/the-bahamas-launches-its-more-bahamas-season-with-250-instant-travel-savings/?utm_source=rss&utm_medium=rss&utm_campaign=the-bahamas-launches-its-more-bahamas-season-with-250-instant-travel-savings",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-07-28T01:40:09Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8617,
+      "importance": 0.5966,
+      "importance_score": 0.8617,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9831,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-28T01:40:09Z",
+      "latest_at": "2026-07-28T01:40:09Z",
+      "primary_item": {
+        "id": "hotelitem_70dc41f8854c",
+        "title": "The Bahamas launches “It’s More Bahamas Season” with $250 instant travel savings",
+        "url": "https://insights.ehotelier.com/global-news/2026/07/28/the-bahamas-launches-its-more-bahamas-season-with-250-instant-travel-savings/?utm_source=rss&utm_medium=rss&utm_campaign=the-bahamas-launches-its-more-bahamas-season-with-250-instant-travel-savings",
+        "source": "eHotelier",
+        "source_name": "eHotelier"
+      }
+    },
+    {
+      "story_id": "story_816c6fb1ed6e",
+      "title": "指数发布 | 中国住宿业消费指数报告（2026年上半年）发布 为贯彻落实提振消费相关政策，真实反映中国住宿餐饮业市场消费情况，以数据引导促消费政策精准发力，为行业发展提供参考建议，中国饭店协会每月公开发布“中国饭店业消费指数体系”，包含“中国住宿业消费指数（China Hotel Industry Consumption Index, HCI）”与“中国餐饮业消费指数(China Catering Industry Consumption Index, CCI)”，欢迎关注。\n本篇发布的是“中国住宿业消费指数”。",
+      "url": "https://www.chinahotel.org.cn/articles/17912",
+      "primary_url": "https://www.chinahotel.org.cn/articles/17912",
+      "source": "中国饭店协会",
+      "source_name": "中国饭店协会",
+      "sources": [
+        {
+          "id": "hotelitem_3e02fd1a1636",
+          "title": "指数发布 | 中国住宿业消费指数报告（2026年上半年）发布 为贯彻落实提振消费相关政策，真实反映中国住宿餐饮业市场消费情况，以数据引导促消费政策精准发力，为行业发展提供参考建议，中国饭店协会每月公开发布“中国饭店业消费指数体系”，包含“中国住宿业消费指数（China Hotel Industry Consumption Index, HCI）”与“中国餐饮业消费指数(China Catering Industry Consumption Index, CCI)”，欢迎关注。\n本篇发布的是“中国住宿业消费指数”。",
+          "url": "https://www.chinahotel.org.cn/articles/17912",
+          "source": "中国饭店协会",
+          "source_name": "中国饭店协会",
+          "site_id": "chinahotel",
+          "published_at": "2026-07-28T19:54:38.668227Z"
+        },
+        {
+          "id": "hotelitem_816c6fb1ed6e",
+          "title": "指数发布 | 中国餐饮业消费指数报告（2026年上半年）发布 为贯彻落实提振消费相关政策，真实反映中国住宿餐饮业市场消费情况，以数据引导促消费政策精准发力，为行业发展提供参考建议，中国饭店协会每月公开发布“中国饭店业消费指数体系”，包含“中国住宿业消费指数（China Hotel Industry Consumption Index, HCI）”与“中国餐饮业消费指数(China Catering Industry Consumption Index, CCI)”，欢迎关注。\n本篇发布的是“中国餐饮业消费指数”。",
+          "url": "https://www.chinahotel.org.cn/articles/17915",
+          "source": "中国饭店协会",
+          "source_name": "中国饭店协会",
+          "site_id": "chinahotel",
+          "published_at": "2026-07-28T19:54:38.668227Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "中国饭店协会"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_3e02fd1a1636",
+          "title": "指数发布 | 中国住宿业消费指数报告（2026年上半年）发布 为贯彻落实提振消费相关政策，真实反映中国住宿餐饮业市场消费情况，以数据引导促消费政策精准发力，为行业发展提供参考建议，中国饭店协会每月公开发布“中国饭店业消费指数体系”，包含“中国住宿业消费指数（China Hotel Industry Consumption Index, HCI）”与“中国餐饮业消费指数(China Catering Industry Consumption Index, CCI)”，欢迎关注。\n本篇发布的是“中国住宿业消费指数”。",
+          "url": "https://www.chinahotel.org.cn/articles/17912",
+          "source": "中国饭店协会",
+          "source_name": "中国饭店协会",
+          "site_id": "chinahotel",
+          "published_at": "2026-07-28T19:54:38.668227Z"
+        },
+        {
+          "id": "hotelitem_816c6fb1ed6e",
+          "title": "指数发布 | 中国餐饮业消费指数报告（2026年上半年）发布 为贯彻落实提振消费相关政策，真实反映中国住宿餐饮业市场消费情况，以数据引导促消费政策精准发力，为行业发展提供参考建议，中国饭店协会每月公开发布“中国饭店业消费指数体系”，包含“中国住宿业消费指数（China Hotel Industry Consumption Index, HCI）”与“中国餐饮业消费指数(China Catering Industry Consumption Index, CCI)”，欢迎关注。\n本篇发布的是“中国餐饮业消费指数”。",
+          "url": "https://www.chinahotel.org.cn/articles/17915",
+          "source": "中国饭店协会",
+          "source_name": "中国饭店协会",
+          "site_id": "chinahotel",
+          "published_at": "2026-07-28T19:54:38.668227Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.86,
+      "importance": 0.625,
+      "importance_score": 0.86,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-28T19:54:38.668227Z",
+      "latest_at": "2026-07-28T19:54:38.668227Z",
+      "primary_item": {
+        "id": "hotelitem_3e02fd1a1636",
+        "title": "指数发布 | 中国住宿业消费指数报告（2026年上半年）发布 为贯彻落实提振消费相关政策，真实反映中国住宿餐饮业市场消费情况，以数据引导促消费政策精准发力，为行业发展提供参考建议，中国饭店协会每月公开发布“中国饭店业消费指数体系”，包含“中国住宿业消费指数（China Hotel Industry Consumption Index, HCI）”与“中国餐饮业消费指数(China Catering Industry Consumption Index, CCI)”，欢迎关注。\n本篇发布的是“中国住宿业消费指数”。",
+        "url": "https://www.chinahotel.org.cn/articles/17912",
+        "source": "中国饭店协会",
+        "source_name": "中国饭店协会"
+      }
+    },
+    {
+      "story_id": "story_3ff965d73291",
+      "title": "凯悦酒店集团任命综合系列商业高级副总裁",
+      "url": "https://www.meadin.com/jd/298915.html",
+      "primary_url": "https://www.meadin.com/jd/298915.html",
+      "source": "迈点研究院",
+      "source_name": "迈点研究院",
+      "sources": [
+        {
+          "id": "hotelitem_3ff965d73291",
+          "title": "凯悦酒店集团任命综合系列商业高级副总裁",
+          "url": "https://www.meadin.com/jd/298915.html",
+          "source": "迈点研究院",
+          "source_name": "迈点研究院",
+          "site_id": "meadin",
+          "published_at": "2026-07-28T19:54:38.668227Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "迈点研究院"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_3ff965d73291",
+          "title": "凯悦酒店集团任命综合系列商业高级副总裁",
+          "url": "https://www.meadin.com/jd/298915.html",
+          "source": "迈点研究院",
+          "source_name": "迈点研究院",
+          "site_id": "meadin",
+          "published_at": "2026-07-28T19:54:38.668227Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.86,
+      "importance": 0.6,
+      "importance_score": 0.86,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-28T19:54:38.668227Z",
+      "latest_at": "2026-07-28T19:54:38.668227Z",
+      "primary_item": {
+        "id": "hotelitem_3ff965d73291",
+        "title": "凯悦酒店集团任命综合系列商业高级副总裁",
+        "url": "https://www.meadin.com/jd/298915.html",
+        "source": "迈点研究院",
+        "source_name": "迈点研究院"
       }
     },
     {
@@ -842,14 +1097,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8602,
-      "importance": 0.5951,
-      "importance_score": 0.8602,
+      "score": 0.8597,
+      "importance": 0.5945,
+      "importance_score": 0.8597,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9753,
+        "recency": 0.9725,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -901,14 +1156,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8602,
-      "importance": 0.5951,
-      "importance_score": 0.8602,
+      "score": 0.8597,
+      "importance": 0.5945,
+      "importance_score": 0.8597,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9754,
+        "recency": 0.9726,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -926,143 +1181,6 @@
       }
     },
     {
-      "story_id": "story_816c6fb1ed6e",
-      "title": "指数发布 | 中国住宿业消费指数报告（2026年上半年）发布 为贯彻落实提振消费相关政策，真实反映中国住宿餐饮业市场消费情况，以数据引导促消费政策精准发力，为行业发展提供参考建议，中国饭店协会每月公开发布“中国饭店业消费指数体系”，包含“中国住宿业消费指数（China Hotel Industry Consumption Index, HCI）”与“中国餐饮业消费指数(China Catering Industry Consumption Index, CCI)”，欢迎关注。\n本篇发布的是“中国住宿业消费指数”。",
-      "url": "https://www.chinahotel.org.cn/articles/17912",
-      "primary_url": "https://www.chinahotel.org.cn/articles/17912",
-      "source": "中国饭店协会",
-      "source_name": "中国饭店协会",
-      "sources": [
-        {
-          "id": "hotelitem_3e02fd1a1636",
-          "title": "指数发布 | 中国住宿业消费指数报告（2026年上半年）发布 为贯彻落实提振消费相关政策，真实反映中国住宿餐饮业市场消费情况，以数据引导促消费政策精准发力，为行业发展提供参考建议，中国饭店协会每月公开发布“中国饭店业消费指数体系”，包含“中国住宿业消费指数（China Hotel Industry Consumption Index, HCI）”与“中国餐饮业消费指数(China Catering Industry Consumption Index, CCI)”，欢迎关注。\n本篇发布的是“中国住宿业消费指数”。",
-          "url": "https://www.chinahotel.org.cn/articles/17912",
-          "source": "中国饭店协会",
-          "source_name": "中国饭店协会",
-          "site_id": "chinahotel",
-          "published_at": "2026-07-28T16:52:19.908065Z"
-        },
-        {
-          "id": "hotelitem_816c6fb1ed6e",
-          "title": "指数发布 | 中国餐饮业消费指数报告（2026年上半年）发布 为贯彻落实提振消费相关政策，真实反映中国住宿餐饮业市场消费情况，以数据引导促消费政策精准发力，为行业发展提供参考建议，中国饭店协会每月公开发布“中国饭店业消费指数体系”，包含“中国住宿业消费指数（China Hotel Industry Consumption Index, HCI）”与“中国餐饮业消费指数(China Catering Industry Consumption Index, CCI)”，欢迎关注。\n本篇发布的是“中国餐饮业消费指数”。",
-          "url": "https://www.chinahotel.org.cn/articles/17915",
-          "source": "中国饭店协会",
-          "source_name": "中国饭店协会",
-          "site_id": "chinahotel",
-          "published_at": "2026-07-28T16:52:19.908065Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "中国饭店协会"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_3e02fd1a1636",
-          "title": "指数发布 | 中国住宿业消费指数报告（2026年上半年）发布 为贯彻落实提振消费相关政策，真实反映中国住宿餐饮业市场消费情况，以数据引导促消费政策精准发力，为行业发展提供参考建议，中国饭店协会每月公开发布“中国饭店业消费指数体系”，包含“中国住宿业消费指数（China Hotel Industry Consumption Index, HCI）”与“中国餐饮业消费指数(China Catering Industry Consumption Index, CCI)”，欢迎关注。\n本篇发布的是“中国住宿业消费指数”。",
-          "url": "https://www.chinahotel.org.cn/articles/17912",
-          "source": "中国饭店协会",
-          "source_name": "中国饭店协会",
-          "site_id": "chinahotel",
-          "published_at": "2026-07-28T16:52:19.908065Z"
-        },
-        {
-          "id": "hotelitem_816c6fb1ed6e",
-          "title": "指数发布 | 中国餐饮业消费指数报告（2026年上半年）发布 为贯彻落实提振消费相关政策，真实反映中国住宿餐饮业市场消费情况，以数据引导促消费政策精准发力，为行业发展提供参考建议，中国饭店协会每月公开发布“中国饭店业消费指数体系”，包含“中国住宿业消费指数（China Hotel Industry Consumption Index, HCI）”与“中国餐饮业消费指数(China Catering Industry Consumption Index, CCI)”，欢迎关注。\n本篇发布的是“中国餐饮业消费指数”。",
-          "url": "https://www.chinahotel.org.cn/articles/17915",
-          "source": "中国饭店协会",
-          "source_name": "中国饭店协会",
-          "site_id": "chinahotel",
-          "published_at": "2026-07-28T16:52:19.908065Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.86,
-      "importance": 0.625,
-      "importance_score": 0.86,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-28T16:52:19.908065Z",
-      "latest_at": "2026-07-28T16:52:19.908065Z",
-      "primary_item": {
-        "id": "hotelitem_3e02fd1a1636",
-        "title": "指数发布 | 中国住宿业消费指数报告（2026年上半年）发布 为贯彻落实提振消费相关政策，真实反映中国住宿餐饮业市场消费情况，以数据引导促消费政策精准发力，为行业发展提供参考建议，中国饭店协会每月公开发布“中国饭店业消费指数体系”，包含“中国住宿业消费指数（China Hotel Industry Consumption Index, HCI）”与“中国餐饮业消费指数(China Catering Industry Consumption Index, CCI)”，欢迎关注。\n本篇发布的是“中国住宿业消费指数”。",
-        "url": "https://www.chinahotel.org.cn/articles/17912",
-        "source": "中国饭店协会",
-        "source_name": "中国饭店协会"
-      }
-    },
-    {
-      "story_id": "story_3ff965d73291",
-      "title": "凯悦酒店集团任命综合系列商业高级副总裁",
-      "url": "https://www.meadin.com/jd/298915.html",
-      "primary_url": "https://www.meadin.com/jd/298915.html",
-      "source": "迈点研究院",
-      "source_name": "迈点研究院",
-      "sources": [
-        {
-          "id": "hotelitem_3ff965d73291",
-          "title": "凯悦酒店集团任命综合系列商业高级副总裁",
-          "url": "https://www.meadin.com/jd/298915.html",
-          "source": "迈点研究院",
-          "source_name": "迈点研究院",
-          "site_id": "meadin",
-          "published_at": "2026-07-28T16:52:19.908065Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "迈点研究院"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_3ff965d73291",
-          "title": "凯悦酒店集团任命综合系列商业高级副总裁",
-          "url": "https://www.meadin.com/jd/298915.html",
-          "source": "迈点研究院",
-          "source_name": "迈点研究院",
-          "site_id": "meadin",
-          "published_at": "2026-07-28T16:52:19.908065Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.86,
-      "importance": 0.6,
-      "importance_score": 0.86,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-28T16:52:19.908065Z",
-      "latest_at": "2026-07-28T16:52:19.908065Z",
-      "primary_item": {
-        "id": "hotelitem_3ff965d73291",
-        "title": "凯悦酒店集团任命综合系列商业高级副总裁",
-        "url": "https://www.meadin.com/jd/298915.html",
-        "source": "迈点研究院",
-        "source_name": "迈点研究院"
-      }
-    },
-    {
       "story_id": "story_e4ce0593c384",
       "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
       "url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
@@ -1077,7 +1195,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-07-28T16:52:19.908065Z"
+          "published_at": "2026-07-28T19:54:38.668227Z"
         }
       ],
       "source_count": 1,
@@ -1092,7 +1210,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-07-28T16:52:19.908065Z"
+          "published_at": "2026-07-28T19:54:38.668227Z"
         }
       ],
       "item_count": 1,
@@ -1111,8 +1229,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-28T16:52:19.908065Z",
-      "latest_at": "2026-07-28T16:52:19.908065Z",
+      "earliest_at": "2026-07-28T19:54:38.668227Z",
+      "latest_at": "2026-07-28T19:54:38.668227Z",
       "primary_item": {
         "id": "hotelitem_e4ce0593c384",
         "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
@@ -1136,7 +1254,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-07-28T16:52:19.908065Z"
+          "published_at": "2026-07-28T19:54:38.668227Z"
         }
       ],
       "source_count": 1,
@@ -1151,7 +1269,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-07-28T16:52:19.908065Z"
+          "published_at": "2026-07-28T19:54:38.668227Z"
         }
       ],
       "item_count": 1,
@@ -1170,8 +1288,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-28T16:52:19.908065Z",
-      "latest_at": "2026-07-28T16:52:19.908065Z",
+      "earliest_at": "2026-07-28T19:54:38.668227Z",
+      "latest_at": "2026-07-28T19:54:38.668227Z",
       "primary_item": {
         "id": "hotelitem_fa34986b4fc0",
         "title": "文化和旅游部、金融监管总局关于警惕借“保...",
@@ -1195,7 +1313,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-07-28T16:52:19.908065Z"
+          "published_at": "2026-07-28T19:54:38.668227Z"
         }
       ],
       "source_count": 1,
@@ -1210,7 +1328,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-07-28T16:52:19.908065Z"
+          "published_at": "2026-07-28T19:54:38.668227Z"
         }
       ],
       "item_count": 1,
@@ -1229,8 +1347,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-28T16:52:19.908065Z",
-      "latest_at": "2026-07-28T16:52:19.908065Z",
+      "earliest_at": "2026-07-28T19:54:38.668227Z",
+      "latest_at": "2026-07-28T19:54:38.668227Z",
       "primary_item": {
         "id": "hotelitem_9a958319a874",
         "title": "文化和旅游部印发《旅游强国建设“十五五”...",
@@ -1274,14 +1392,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8487,
-      "importance": 0.5986,
-      "importance_score": 0.8487,
+      "score": 0.8481,
+      "importance": 0.5981,
+      "importance_score": 0.8481,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9932,
+        "recency": 0.9904,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1333,14 +1451,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8475,
-      "importance": 0.5819,
-      "importance_score": 0.8475,
+      "score": 0.847,
+      "importance": 0.5813,
+      "importance_score": 0.847,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9095,
+        "recency": 0.9067,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1392,14 +1510,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8447,
-      "importance": 0.5363,
-      "importance_score": 0.8447,
+      "score": 0.8438,
+      "importance": 0.5357,
+      "importance_score": 0.8438,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.6814,
+        "recency": 0.6786,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1451,14 +1569,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.843,
-      "importance": 0.5771,
-      "importance_score": 0.843,
+      "score": 0.8424,
+      "importance": 0.5766,
+      "importance_score": 0.8424,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8857,
+        "recency": 0.8829,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1510,14 +1628,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8418,
-      "importance": 0.5759,
-      "importance_score": 0.8418,
+      "score": 0.8413,
+      "importance": 0.5754,
+      "importance_score": 0.8413,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8797,
+        "recency": 0.8769,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1532,65 +1650,6 @@
         "url": "https://skift.com/2026/07/23/inside-one-of-the-worlds-most-remote-luxury-hotels/",
         "source": "Skift Hospitality",
         "source_name": "Skift Hospitality"
-      }
-    },
-    {
-      "story_id": "story_2d6609abd2a0",
-      "title": "Hospitality industry leaders’ top tips for adapting to the 2026 hotel landscape",
-      "url": "https://www.hoteldive.com/news/hospitality-industry-leaders-advice-for-2026/825858/",
-      "primary_url": "https://www.hoteldive.com/news/hospitality-industry-leaders-advice-for-2026/825858/",
-      "source": "Hotel Dive",
-      "source_name": "Hotel Dive",
-      "sources": [
-        {
-          "id": "hotelitem_2d6609abd2a0",
-          "title": "Hospitality industry leaders’ top tips for adapting to the 2026 hotel landscape",
-          "url": "https://www.hoteldive.com/news/hospitality-industry-leaders-advice-for-2026/825858/",
-          "source": "Hotel Dive",
-          "source_name": "Hotel Dive",
-          "site_id": "hoteldive",
-          "published_at": "2026-07-22T02:34:20Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hotel Dive"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_2d6609abd2a0",
-          "title": "Hospitality industry leaders’ top tips for adapting to the 2026 hotel landscape",
-          "url": "https://www.hoteldive.com/news/hospitality-industry-leaders-advice-for-2026/825858/",
-          "source": "Hotel Dive",
-          "source_name": "Hotel Dive",
-          "site_id": "hoteldive",
-          "published_at": "2026-07-22T02:34:20Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8367,
-      "importance": 0.5707,
-      "importance_score": 0.8367,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.8534,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-22T02:34:20Z",
-      "latest_at": "2026-07-22T02:34:20Z",
-      "primary_item": {
-        "id": "hotelitem_2d6609abd2a0",
-        "title": "Hospitality industry leaders’ top tips for adapting to the 2026 hotel landscape",
-        "url": "https://www.hoteldive.com/news/hospitality-industry-leaders-advice-for-2026/825858/",
-        "source": "Hotel Dive",
-        "source_name": "Hotel Dive"
       }
     },
     {
@@ -1628,14 +1687,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8313,
-      "importance": 0.5806,
-      "importance_score": 0.8313,
+      "score": 0.8308,
+      "importance": 0.5801,
+      "importance_score": 0.8308,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9031,
+        "recency": 0.9003,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1687,14 +1746,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8272,
-      "importance": 0.5764,
-      "importance_score": 0.8272,
+      "score": 0.8267,
+      "importance": 0.5758,
+      "importance_score": 0.8267,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8818,
+        "recency": 0.8789,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1746,14 +1805,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8194,
-      "importance": 0.5994,
-      "importance_score": 0.8194,
+      "score": 0.8189,
+      "importance": 0.5989,
+      "importance_score": 0.8189,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9971,
+        "recency": 0.9943,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1768,65 +1827,6 @@
         "url": "https://www.hoteldive.com/news/marriott-outdoor-collection-joshua-tree-reset-hotel/826337/",
         "source": "Hotel Dive",
         "source_name": "Hotel Dive"
-      }
-    },
-    {
-      "story_id": "story_0fcfaa7324a2",
-      "title": "“2026金沙物美嘉年华”一连四天吸引近160,000人次入场",
-      "url": "https://www.pinchain.com/article/349235",
-      "primary_url": "https://www.pinchain.com/article/349235",
-      "source": "品橙旅游",
-      "source_name": "品橙旅游",
-      "sources": [
-        {
-          "id": "hotelitem_0fcfaa7324a2",
-          "title": "“2026金沙物美嘉年华”一连四天吸引近160,000人次入场",
-          "url": "https://www.pinchain.com/article/349235",
-          "source": "品橙旅游",
-          "source_name": "品橙旅游",
-          "site_id": "pinchain",
-          "published_at": "2026-07-28T06:02:34Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "品橙旅游"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_0fcfaa7324a2",
-          "title": "“2026金沙物美嘉年华”一连四天吸引近160,000人次入场",
-          "url": "https://www.pinchain.com/article/349235",
-          "source": "品橙旅游",
-          "source_name": "品橙旅游",
-          "site_id": "pinchain",
-          "published_at": "2026-07-28T06:02:34Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8156,
-      "importance": 0.598,
-      "importance_score": 0.8156,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.99,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-28T06:02:34Z",
-      "latest_at": "2026-07-28T06:02:34Z",
-      "primary_item": {
-        "id": "hotelitem_0fcfaa7324a2",
-        "title": "“2026金沙物美嘉年华”一连四天吸引近160,000人次入场",
-        "url": "https://www.pinchain.com/article/349235",
-        "source": "品橙旅游",
-        "source_name": "品橙旅游"
       }
     }
   ]
