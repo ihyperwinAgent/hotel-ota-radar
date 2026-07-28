@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T03:39:19.320972Z",
+  "generated_at": "2026-07-28T09:06:57.654593Z",
   "window_hours": 1080,
   "total_items": 30,
   "items": [
@@ -39,13 +39,13 @@
       "item_count": 1,
       "duplicate_count": 1,
       "score": 1.0,
-      "importance": 0.598,
+      "importance": 0.597,
       "importance_score": 1.0,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9902,
+        "recency": 0.9851,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -97,14 +97,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9546,
-      "importance": 0.5996,
-      "importance_score": 0.9546,
+      "score": 0.9536,
+      "importance": 0.5985,
+      "importance_score": 0.9536,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9978,
+        "recency": 0.9927,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -136,7 +136,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-07-28T03:39:19.320972Z"
+          "published_at": "2026-07-28T09:06:57.654593Z"
         }
       ],
       "source_count": 1,
@@ -151,7 +151,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-07-28T03:39:19.320972Z"
+          "published_at": "2026-07-28T09:06:57.654593Z"
         }
       ],
       "item_count": 1,
@@ -170,8 +170,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-28T03:39:19.320972Z",
-      "latest_at": "2026-07-28T03:39:19.320972Z",
+      "earliest_at": "2026-07-28T09:06:57.654593Z",
+      "latest_at": "2026-07-28T09:06:57.654593Z",
       "primary_item": {
         "id": "hotelitem_9699887c72ea",
         "title": "中国旅游研究院与中青旅控股股份有限公司开展主题党日联学联",
@@ -215,14 +215,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9399,
-      "importance": 0.5843,
-      "importance_score": 0.9399,
+      "score": 0.9389,
+      "importance": 0.5833,
+      "importance_score": 0.9389,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9216,
+        "recency": 0.9165,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -274,14 +274,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9396,
-      "importance": 0.584,
-      "importance_score": 0.9396,
+      "score": 0.9386,
+      "importance": 0.583,
+      "importance_score": 0.9386,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.92,
+        "recency": 0.915,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -333,14 +333,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9353,
-      "importance": 0.5796,
-      "importance_score": 0.9353,
+      "score": 0.9344,
+      "importance": 0.5786,
+      "importance_score": 0.9344,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8981,
+        "recency": 0.8931,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -355,65 +355,6 @@
         "url": "https://www.hoteldive.com/news/wyndham-q2-2026-earnings/826004/",
         "source": "Hotel Dive",
         "source_name": "Hotel Dive"
-      }
-    },
-    {
-      "story_id": "story_1ed3a4642347",
-      "title": "文化和旅游部：关于柏林寺正式对外开放的公告",
-      "url": "https://www.pinchain.com/article/349197",
-      "primary_url": "https://www.pinchain.com/article/349197",
-      "source": "品橙旅游",
-      "source_name": "品橙旅游",
-      "sources": [
-        {
-          "id": "hotelitem_1ed3a4642347",
-          "title": "文化和旅游部：关于柏林寺正式对外开放的公告",
-          "url": "https://www.pinchain.com/article/349197",
-          "source": "品橙旅游",
-          "source_name": "品橙旅游",
-          "site_id": "pinchain",
-          "published_at": "2026-07-28T01:05:48Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "品橙旅游"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_1ed3a4642347",
-          "title": "文化和旅游部：关于柏林寺正式对外开放的公告",
-          "url": "https://www.pinchain.com/article/349197",
-          "source": "品橙旅游",
-          "source_name": "品橙旅游",
-          "site_id": "pinchain",
-          "published_at": "2026-07-28T01:05:48Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.9295,
-      "importance": 0.5995,
-      "importance_score": 0.9295,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9976,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-28T01:05:48Z",
-      "latest_at": "2026-07-28T01:05:48Z",
-      "primary_item": {
-        "id": "hotelitem_1ed3a4642347",
-        "title": "文化和旅游部：关于柏林寺正式对外开放的公告",
-        "url": "https://www.pinchain.com/article/349197",
-        "source": "品橙旅游",
-        "source_name": "品橙旅游"
       }
     },
     {
@@ -451,14 +392,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9238,
-      "importance": 0.5832,
-      "importance_score": 0.9238,
+      "score": 0.9229,
+      "importance": 0.5822,
+      "importance_score": 0.9229,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9162,
+        "recency": 0.9111,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -490,7 +431,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-28T03:39:19.320972Z"
+          "published_at": "2026-07-28T09:06:57.654593Z"
         },
         {
           "id": "hotelitem_c7c15b7680c9",
@@ -499,7 +440,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-28T03:39:19.320972Z"
+          "published_at": "2026-07-28T09:06:57.654593Z"
         },
         {
           "id": "hotelitem_6d8fa145e8af",
@@ -508,7 +449,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-28T03:39:19.320972Z"
+          "published_at": "2026-07-28T09:06:57.654593Z"
         }
       ],
       "source_count": 3,
@@ -523,7 +464,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-28T03:39:19.320972Z"
+          "published_at": "2026-07-28T09:06:57.654593Z"
         },
         {
           "id": "hotelitem_c7c15b7680c9",
@@ -532,7 +473,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-28T03:39:19.320972Z"
+          "published_at": "2026-07-28T09:06:57.654593Z"
         },
         {
           "id": "hotelitem_6d8fa145e8af",
@@ -541,7 +482,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-28T03:39:19.320972Z"
+          "published_at": "2026-07-28T09:06:57.654593Z"
         }
       ],
       "item_count": 3,
@@ -561,8 +502,8 @@
         "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-28T03:39:19.320972Z",
-      "latest_at": "2026-07-28T03:39:19.320972Z",
+      "earliest_at": "2026-07-28T09:06:57.654593Z",
+      "latest_at": "2026-07-28T09:06:57.654593Z",
       "primary_item": {
         "id": "hotelitem_d4370964909c",
         "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
@@ -606,14 +547,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9078,
-      "importance": 0.5847,
-      "importance_score": 0.9078,
+      "score": 0.9068,
+      "importance": 0.5837,
+      "importance_score": 0.9068,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9236,
+        "recency": 0.9186,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -631,62 +572,62 @@
       }
     },
     {
-      "story_id": "story_5593e5b9f4db",
-      "title": "Guests are spending, AI is watching, and Hospitality is free: notes from HSMAI",
-      "url": "https://insights.ehotelier.com/suppliers/2026/07/28/guests-are-spending-ai-is-watching-and-hospitality-is-free-notes-from-hsmai/?utm_source=rss&utm_medium=rss&utm_campaign=guests-are-spending-ai-is-watching-and-hospitality-is-free-notes-from-hsmai",
-      "primary_url": "https://insights.ehotelier.com/suppliers/2026/07/28/guests-are-spending-ai-is-watching-and-hospitality-is-free-notes-from-hsmai/?utm_source=rss&utm_medium=rss&utm_campaign=guests-are-spending-ai-is-watching-and-hospitality-is-free-notes-from-hsmai",
-      "source": "eHotelier",
-      "source_name": "eHotelier",
+      "story_id": "story_859fa1a261ab",
+      "title": "高管用“报警”威胁客人,揭穿洲际在华管理外包哪些真相",
+      "url": "https://www.pinchain.com/article/349234",
+      "primary_url": "https://www.pinchain.com/article/349234",
+      "source": "品橙旅游",
+      "source_name": "品橙旅游",
       "sources": [
         {
-          "id": "hotelitem_5593e5b9f4db",
-          "title": "Guests are spending, AI is watching, and Hospitality is free: notes from HSMAI",
-          "url": "https://insights.ehotelier.com/suppliers/2026/07/28/guests-are-spending-ai-is-watching-and-hospitality-is-free-notes-from-hsmai/?utm_source=rss&utm_medium=rss&utm_campaign=guests-are-spending-ai-is-watching-and-hospitality-is-free-notes-from-hsmai",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-07-28T01:50:14Z"
+          "id": "hotelitem_859fa1a261ab",
+          "title": "高管用“报警”威胁客人,揭穿洲际在华管理外包哪些真相",
+          "url": "https://www.pinchain.com/article/349234",
+          "source": "品橙旅游",
+          "source_name": "品橙旅游",
+          "site_id": "pinchain",
+          "published_at": "2026-07-28T06:06:05Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "eHotelier"
+        "品橙旅游"
       ],
       "items": [
         {
-          "id": "hotelitem_5593e5b9f4db",
-          "title": "Guests are spending, AI is watching, and Hospitality is free: notes from HSMAI",
-          "url": "https://insights.ehotelier.com/suppliers/2026/07/28/guests-are-spending-ai-is-watching-and-hospitality-is-free-notes-from-hsmai/?utm_source=rss&utm_medium=rss&utm_campaign=guests-are-spending-ai-is-watching-and-hospitality-is-free-notes-from-hsmai",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-07-28T01:50:14Z"
+          "id": "hotelitem_859fa1a261ab",
+          "title": "高管用“报警”威胁客人,揭穿洲际在华管理外包哪些真相",
+          "url": "https://www.pinchain.com/article/349234",
+          "source": "品橙旅游",
+          "source_name": "品橙旅游",
+          "site_id": "pinchain",
+          "published_at": "2026-07-28T06:06:05Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8647,
-      "importance": 0.5997,
-      "importance_score": 0.8647,
+      "score": 0.8845,
+      "importance": 0.5994,
+      "importance_score": 0.8845,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9983,
+        "recency": 0.9972,
         "story_heat": 0.0
       },
       "category": "watch",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-28T01:50:14Z",
-      "latest_at": "2026-07-28T01:50:14Z",
+      "earliest_at": "2026-07-28T06:06:05Z",
+      "latest_at": "2026-07-28T06:06:05Z",
       "primary_item": {
-        "id": "hotelitem_5593e5b9f4db",
-        "title": "Guests are spending, AI is watching, and Hospitality is free: notes from HSMAI",
-        "url": "https://insights.ehotelier.com/suppliers/2026/07/28/guests-are-spending-ai-is-watching-and-hospitality-is-free-notes-from-hsmai/?utm_source=rss&utm_medium=rss&utm_campaign=guests-are-spending-ai-is-watching-and-hospitality-is-free-notes-from-hsmai",
-        "source": "eHotelier",
-        "source_name": "eHotelier"
+        "id": "hotelitem_859fa1a261ab",
+        "title": "高管用“报警”威胁客人,揭穿洲际在华管理外包哪些真相",
+        "url": "https://www.pinchain.com/article/349234",
+        "source": "品橙旅游",
+        "source_name": "品橙旅游"
       }
     },
     {
@@ -724,14 +665,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8646,
-      "importance": 0.5996,
-      "importance_score": 0.8646,
+      "score": 0.8637,
+      "importance": 0.5986,
+      "importance_score": 0.8637,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9982,
+        "recency": 0.9931,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -744,6 +685,65 @@
         "id": "hotelitem_70dc41f8854c",
         "title": "The Bahamas launches “It’s More Bahamas Season” with $250 instant travel savings",
         "url": "https://insights.ehotelier.com/global-news/2026/07/28/the-bahamas-launches-its-more-bahamas-season-with-250-instant-travel-savings/?utm_source=rss&utm_medium=rss&utm_campaign=the-bahamas-launches-its-more-bahamas-season-with-250-instant-travel-savings",
+        "source": "eHotelier",
+        "source_name": "eHotelier"
+      }
+    },
+    {
+      "story_id": "story_5593e5b9f4db",
+      "title": "Guests are spending, AI is watching, and Hospitality is free: notes from HSMAI",
+      "url": "https://insights.ehotelier.com/suppliers/2026/07/28/guests-are-spending-ai-is-watching-and-hospitality-is-free-notes-from-hsmai/?utm_source=rss&utm_medium=rss&utm_campaign=guests-are-spending-ai-is-watching-and-hospitality-is-free-notes-from-hsmai",
+      "primary_url": "https://insights.ehotelier.com/suppliers/2026/07/28/guests-are-spending-ai-is-watching-and-hospitality-is-free-notes-from-hsmai/?utm_source=rss&utm_medium=rss&utm_campaign=guests-are-spending-ai-is-watching-and-hospitality-is-free-notes-from-hsmai",
+      "source": "eHotelier",
+      "source_name": "eHotelier",
+      "sources": [
+        {
+          "id": "hotelitem_5593e5b9f4db",
+          "title": "Guests are spending, AI is watching, and Hospitality is free: notes from HSMAI",
+          "url": "https://insights.ehotelier.com/suppliers/2026/07/28/guests-are-spending-ai-is-watching-and-hospitality-is-free-notes-from-hsmai/?utm_source=rss&utm_medium=rss&utm_campaign=guests-are-spending-ai-is-watching-and-hospitality-is-free-notes-from-hsmai",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-07-28T01:50:14Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "eHotelier"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_5593e5b9f4db",
+          "title": "Guests are spending, AI is watching, and Hospitality is free: notes from HSMAI",
+          "url": "https://insights.ehotelier.com/suppliers/2026/07/28/guests-are-spending-ai-is-watching-and-hospitality-is-free-notes-from-hsmai/?utm_source=rss&utm_medium=rss&utm_campaign=guests-are-spending-ai-is-watching-and-hospitality-is-free-notes-from-hsmai",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-07-28T01:50:14Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8637,
+      "importance": 0.5987,
+      "importance_score": 0.8637,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9933,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-28T01:50:14Z",
+      "latest_at": "2026-07-28T01:50:14Z",
+      "primary_item": {
+        "id": "hotelitem_5593e5b9f4db",
+        "title": "Guests are spending, AI is watching, and Hospitality is free: notes from HSMAI",
+        "url": "https://insights.ehotelier.com/suppliers/2026/07/28/guests-are-spending-ai-is-watching-and-hospitality-is-free-notes-from-hsmai/?utm_source=rss&utm_medium=rss&utm_campaign=guests-are-spending-ai-is-watching-and-hospitality-is-free-notes-from-hsmai",
         "source": "eHotelier",
         "source_name": "eHotelier"
       }
@@ -783,14 +783,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8626,
-      "importance": 0.5975,
-      "importance_score": 0.8626,
+      "score": 0.8616,
+      "importance": 0.5965,
+      "importance_score": 0.8616,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9875,
+        "recency": 0.9825,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -842,14 +842,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8626,
-      "importance": 0.5975,
-      "importance_score": 0.8626,
+      "score": 0.8616,
+      "importance": 0.5965,
+      "importance_score": 0.8616,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9876,
+        "recency": 0.9825,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -881,7 +881,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-28T03:39:19.320972Z"
+          "published_at": "2026-07-28T09:06:57.654593Z"
         },
         {
           "id": "hotelitem_816c6fb1ed6e",
@@ -890,7 +890,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-28T03:39:19.320972Z"
+          "published_at": "2026-07-28T09:06:57.654593Z"
         }
       ],
       "source_count": 2,
@@ -905,7 +905,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-28T03:39:19.320972Z"
+          "published_at": "2026-07-28T09:06:57.654593Z"
         },
         {
           "id": "hotelitem_816c6fb1ed6e",
@@ -914,7 +914,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-28T03:39:19.320972Z"
+          "published_at": "2026-07-28T09:06:57.654593Z"
         }
       ],
       "item_count": 2,
@@ -934,14 +934,73 @@
         "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-28T03:39:19.320972Z",
-      "latest_at": "2026-07-28T03:39:19.320972Z",
+      "earliest_at": "2026-07-28T09:06:57.654593Z",
+      "latest_at": "2026-07-28T09:06:57.654593Z",
       "primary_item": {
         "id": "hotelitem_3e02fd1a1636",
         "title": "指数发布 | 中国住宿业消费指数报告（2026年上半年）发布 为贯彻落实提振消费相关政策，真实反映中国住宿餐饮业市场消费情况，以数据引导促消费政策精准发力，为行业发展提供参考建议，中国饭店协会每月公开发布“中国饭店业消费指数体系”，包含“中国住宿业消费指数（China Hotel Industry Consumption Index, HCI）”与“中国餐饮业消费指数(China Catering Industry Consumption Index, CCI)”，欢迎关注。\n本篇发布的是“中国住宿业消费指数”。",
         "url": "https://www.chinahotel.org.cn/articles/17912",
         "source": "中国饭店协会",
         "source_name": "中国饭店协会"
+      }
+    },
+    {
+      "story_id": "story_3ff965d73291",
+      "title": "凯悦酒店集团任命综合系列商业高级副总裁",
+      "url": "https://www.meadin.com/jd/298915.html",
+      "primary_url": "https://www.meadin.com/jd/298915.html",
+      "source": "迈点研究院",
+      "source_name": "迈点研究院",
+      "sources": [
+        {
+          "id": "hotelitem_3ff965d73291",
+          "title": "凯悦酒店集团任命综合系列商业高级副总裁",
+          "url": "https://www.meadin.com/jd/298915.html",
+          "source": "迈点研究院",
+          "source_name": "迈点研究院",
+          "site_id": "meadin",
+          "published_at": "2026-07-28T09:06:57.654593Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "迈点研究院"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_3ff965d73291",
+          "title": "凯悦酒店集团任命综合系列商业高级副总裁",
+          "url": "https://www.meadin.com/jd/298915.html",
+          "source": "迈点研究院",
+          "source_name": "迈点研究院",
+          "site_id": "meadin",
+          "published_at": "2026-07-28T09:06:57.654593Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.86,
+      "importance": 0.6,
+      "importance_score": 0.86,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-28T09:06:57.654593Z",
+      "latest_at": "2026-07-28T09:06:57.654593Z",
+      "primary_item": {
+        "id": "hotelitem_3ff965d73291",
+        "title": "凯悦酒店集团任命综合系列商业高级副总裁",
+        "url": "https://www.meadin.com/jd/298915.html",
+        "source": "迈点研究院",
+        "source_name": "迈点研究院"
       }
     },
     {
@@ -959,7 +1018,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-07-28T03:39:19.320972Z"
+          "published_at": "2026-07-28T09:06:57.654593Z"
         }
       ],
       "source_count": 1,
@@ -974,7 +1033,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-07-28T03:39:19.320972Z"
+          "published_at": "2026-07-28T09:06:57.654593Z"
         }
       ],
       "item_count": 1,
@@ -993,8 +1052,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-28T03:39:19.320972Z",
-      "latest_at": "2026-07-28T03:39:19.320972Z",
+      "earliest_at": "2026-07-28T09:06:57.654593Z",
+      "latest_at": "2026-07-28T09:06:57.654593Z",
       "primary_item": {
         "id": "hotelitem_e4ce0593c384",
         "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
@@ -1018,7 +1077,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-07-28T03:39:19.320972Z"
+          "published_at": "2026-07-28T09:06:57.654593Z"
         }
       ],
       "source_count": 1,
@@ -1033,7 +1092,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-07-28T03:39:19.320972Z"
+          "published_at": "2026-07-28T09:06:57.654593Z"
         }
       ],
       "item_count": 1,
@@ -1052,8 +1111,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-28T03:39:19.320972Z",
-      "latest_at": "2026-07-28T03:39:19.320972Z",
+      "earliest_at": "2026-07-28T09:06:57.654593Z",
+      "latest_at": "2026-07-28T09:06:57.654593Z",
       "primary_item": {
         "id": "hotelitem_fa34986b4fc0",
         "title": "文化和旅游部、金融监管总局关于警惕借“保...",
@@ -1077,7 +1136,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-07-28T03:39:19.320972Z"
+          "published_at": "2026-07-28T09:06:57.654593Z"
         }
       ],
       "source_count": 1,
@@ -1092,7 +1151,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-07-28T03:39:19.320972Z"
+          "published_at": "2026-07-28T09:06:57.654593Z"
         }
       ],
       "item_count": 1,
@@ -1111,8 +1170,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-28T03:39:19.320972Z",
-      "latest_at": "2026-07-28T03:39:19.320972Z",
+      "earliest_at": "2026-07-28T09:06:57.654593Z",
+      "latest_at": "2026-07-28T09:06:57.654593Z",
       "primary_item": {
         "id": "hotelitem_9a958319a874",
         "title": "文化和旅游部印发《旅游强国建设“十五五”...",
@@ -1156,14 +1215,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8499,
-      "importance": 0.5843,
-      "importance_score": 0.8499,
+      "score": 0.8489,
+      "importance": 0.5833,
+      "importance_score": 0.8489,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9217,
+        "recency": 0.9167,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1215,14 +1274,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8482,
-      "importance": 0.5387,
-      "importance_score": 0.8482,
+      "score": 0.8468,
+      "importance": 0.5377,
+      "importance_score": 0.8468,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.6937,
+        "recency": 0.6886,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1274,14 +1333,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8453,
-      "importance": 0.5796,
-      "importance_score": 0.8453,
+      "score": 0.8443,
+      "importance": 0.5786,
+      "importance_score": 0.8443,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.898,
+        "recency": 0.8929,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1333,14 +1392,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8442,
-      "importance": 0.5784,
-      "importance_score": 0.8442,
+      "score": 0.8432,
+      "importance": 0.5774,
+      "importance_score": 0.8432,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.892,
+        "recency": 0.8869,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1392,14 +1451,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8408,
-      "importance": 0.5749,
-      "importance_score": 0.8408,
+      "score": 0.8398,
+      "importance": 0.5739,
+      "importance_score": 0.8398,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8745,
+        "recency": 0.8694,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1451,14 +1510,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8391,
-      "importance": 0.5731,
-      "importance_score": 0.8391,
+      "score": 0.8381,
+      "importance": 0.5721,
+      "importance_score": 0.8381,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8657,
+        "recency": 0.8606,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1510,14 +1569,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8369,
-      "importance": 0.5708,
-      "importance_score": 0.8369,
+      "score": 0.8359,
+      "importance": 0.5698,
+      "importance_score": 0.8359,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8541,
+        "recency": 0.8491,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1569,14 +1628,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8337,
-      "importance": 0.5831,
-      "importance_score": 0.8337,
+      "score": 0.8327,
+      "importance": 0.5821,
+      "importance_score": 0.8327,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9154,
+        "recency": 0.9103,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1628,14 +1687,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8296,
-      "importance": 0.5788,
-      "importance_score": 0.8296,
+      "score": 0.8286,
+      "importance": 0.5778,
+      "importance_score": 0.8286,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.894,
+        "recency": 0.8889,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1650,6 +1709,65 @@
         "url": "https://boutiquehotelnews.com/news/branded-residences/viceroy-pearlstone-residences-texas/?utm_source=rss&utm_medium=rss&utm_campaign=viceroy-pearlstone-residences-texas",
         "source": "Boutique Hotel News",
         "source_name": "Boutique Hotel News"
+      }
+    },
+    {
+      "story_id": "story_0fcfaa7324a2",
+      "title": "“2026金沙物美嘉年华”一连四天吸引近160,000人次入场",
+      "url": "https://www.pinchain.com/article/349235",
+      "primary_url": "https://www.pinchain.com/article/349235",
+      "source": "品橙旅游",
+      "source_name": "品橙旅游",
+      "sources": [
+        {
+          "id": "hotelitem_0fcfaa7324a2",
+          "title": "“2026金沙物美嘉年华”一连四天吸引近160,000人次入场",
+          "url": "https://www.pinchain.com/article/349235",
+          "source": "品橙旅游",
+          "source_name": "品橙旅游",
+          "site_id": "pinchain",
+          "published_at": "2026-07-28T06:02:34Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "品橙旅游"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_0fcfaa7324a2",
+          "title": "“2026金沙物美嘉年华”一连四天吸引近160,000人次入场",
+          "url": "https://www.pinchain.com/article/349235",
+          "source": "品橙旅游",
+          "source_name": "品橙旅游",
+          "site_id": "pinchain",
+          "published_at": "2026-07-28T06:02:34Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.817,
+      "importance": 0.5994,
+      "importance_score": 0.817,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9972,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-28T06:02:34Z",
+      "latest_at": "2026-07-28T06:02:34Z",
+      "primary_item": {
+        "id": "hotelitem_0fcfaa7324a2",
+        "title": "“2026金沙物美嘉年华”一连四天吸引近160,000人次入场",
+        "url": "https://www.pinchain.com/article/349235",
+        "source": "品橙旅游",
+        "source_name": "品橙旅游"
       }
     },
     {
@@ -1687,14 +1805,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.817,
-      "importance": 0.5669,
-      "importance_score": 0.817,
+      "score": 0.8155,
+      "importance": 0.5659,
+      "importance_score": 0.8155,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8343,
+        "recency": 0.8293,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1709,124 +1827,6 @@
         "url": "https://boutiquehotelnews.com/news/movers-and-shakers/generator-mufraggi-ceo/?utm_source=rss&utm_medium=rss&utm_campaign=generator-mufraggi-ceo",
         "source": "Boutique Hotel News",
         "source_name": "Boutique Hotel News"
-      }
-    },
-    {
-      "story_id": "story_a612adbdb3ce",
-      "title": "马蜂窝：家长开始为“成长型体验”付费",
-      "url": "https://www.pinchain.com/article/349190",
-      "primary_url": "https://www.pinchain.com/article/349190",
-      "source": "品橙旅游",
-      "source_name": "品橙旅游",
-      "sources": [
-        {
-          "id": "hotelitem_a612adbdb3ce",
-          "title": "马蜂窝：家长开始为“成长型体验”付费",
-          "url": "https://www.pinchain.com/article/349190",
-          "source": "品橙旅游",
-          "source_name": "品橙旅游",
-          "site_id": "pinchain",
-          "published_at": "2026-07-27T07:58:48Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "品橙旅游"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_a612adbdb3ce",
-          "title": "马蜂窝：家长开始为“成长型体验”付费",
-          "url": "https://www.pinchain.com/article/349190",
-          "source": "品橙旅游",
-          "source_name": "品橙旅游",
-          "site_id": "pinchain",
-          "published_at": "2026-07-27T07:58:48Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.814,
-      "importance": 0.5964,
-      "importance_score": 0.814,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9818,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-27T07:58:48Z",
-      "latest_at": "2026-07-27T07:58:48Z",
-      "primary_item": {
-        "id": "hotelitem_a612adbdb3ce",
-        "title": "马蜂窝：家长开始为“成长型体验”付费",
-        "url": "https://www.pinchain.com/article/349190",
-        "source": "品橙旅游",
-        "source_name": "品橙旅游"
-      }
-    },
-    {
-      "story_id": "story_2ba246120ca4",
-      "title": "Agoda Reports Rising Interest in Solo Travel ... Seoul, 20 July 2026 – While traveling with family, friends, or loved ones has its own appeal, a growin ... July 20, 2026 / Travel Trends",
-      "url": "https://www.agoda.com/press/agoda-reports-rising-interest-in-solo-travel-among-south-korean-travelers/",
-      "primary_url": "https://www.agoda.com/press/agoda-reports-rising-interest-in-solo-travel-among-south-korean-travelers/",
-      "source": "Agoda",
-      "source_name": "Agoda",
-      "sources": [
-        {
-          "id": "hotelitem_2ba246120ca4",
-          "title": "Agoda Reports Rising Interest in Solo Travel ... Seoul, 20 July 2026 – While traveling with family, friends, or loved ones has its own appeal, a growin ... July 20, 2026 / Travel Trends",
-          "url": "https://www.agoda.com/press/agoda-reports-rising-interest-in-solo-travel-among-south-korean-travelers/",
-          "source": "Agoda",
-          "source_name": "Agoda",
-          "site_id": "agoda_press",
-          "published_at": "2026-07-28T03:39:19.320972Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Agoda"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_2ba246120ca4",
-          "title": "Agoda Reports Rising Interest in Solo Travel ... Seoul, 20 July 2026 – While traveling with family, friends, or loved ones has its own appeal, a growin ... July 20, 2026 / Travel Trends",
-          "url": "https://www.agoda.com/press/agoda-reports-rising-interest-in-solo-travel-among-south-korean-travelers/",
-          "source": "Agoda",
-          "source_name": "Agoda",
-          "site_id": "agoda_press",
-          "published_at": "2026-07-28T03:39:19.320972Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8125,
-      "importance": 0.6,
-      "importance_score": 0.8125,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-28T03:39:19.320972Z",
-      "latest_at": "2026-07-28T03:39:19.320972Z",
-      "primary_item": {
-        "id": "hotelitem_2ba246120ca4",
-        "title": "Agoda Reports Rising Interest in Solo Travel ... Seoul, 20 July 2026 – While traveling with family, friends, or loved ones has its own appeal, a growin ... July 20, 2026 / Travel Trends",
-        "url": "https://www.agoda.com/press/agoda-reports-rising-interest-in-solo-travel-among-south-korean-travelers/",
-        "source": "Agoda",
-        "source_name": "Agoda"
       }
     }
   ]
