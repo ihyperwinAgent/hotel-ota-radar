@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T09:06:57.654593Z",
+  "generated_at": "2026-07-28T11:29:34.213477Z",
   "window_hours": 1080,
   "total_stories": 30,
   "stories": [
@@ -39,13 +39,13 @@
       "item_count": 1,
       "duplicate_count": 1,
       "score": 1.0,
-      "importance": 0.597,
+      "importance": 0.5966,
       "importance_score": 1.0,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9851,
+        "recency": 0.9829,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -97,14 +97,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9536,
-      "importance": 0.5985,
-      "importance_score": 0.9536,
+      "score": 0.9532,
+      "importance": 0.5981,
+      "importance_score": 0.9532,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9927,
+        "recency": 0.9905,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -136,7 +136,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-07-28T09:06:57.654593Z"
+          "published_at": "2026-07-28T11:29:34.213477Z"
         }
       ],
       "source_count": 1,
@@ -151,7 +151,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-07-28T09:06:57.654593Z"
+          "published_at": "2026-07-28T11:29:34.213477Z"
         }
       ],
       "item_count": 1,
@@ -170,8 +170,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-28T09:06:57.654593Z",
-      "latest_at": "2026-07-28T09:06:57.654593Z",
+      "earliest_at": "2026-07-28T11:29:34.213477Z",
+      "latest_at": "2026-07-28T11:29:34.213477Z",
       "primary_item": {
         "id": "hotelitem_9699887c72ea",
         "title": "中国旅游研究院与中青旅控股股份有限公司开展主题党日联学联",
@@ -215,14 +215,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9389,
-      "importance": 0.5833,
-      "importance_score": 0.9389,
+      "score": 0.9385,
+      "importance": 0.5829,
+      "importance_score": 0.9385,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9165,
+        "recency": 0.9143,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -274,14 +274,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9386,
-      "importance": 0.583,
-      "importance_score": 0.9386,
+      "score": 0.9382,
+      "importance": 0.5826,
+      "importance_score": 0.9382,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.915,
+        "recency": 0.9128,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -333,14 +333,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9344,
-      "importance": 0.5786,
-      "importance_score": 0.9344,
+      "score": 0.9339,
+      "importance": 0.5782,
+      "importance_score": 0.9339,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8931,
+        "recency": 0.8909,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -392,14 +392,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9229,
-      "importance": 0.5822,
-      "importance_score": 0.9229,
+      "score": 0.9224,
+      "importance": 0.5818,
+      "importance_score": 0.9224,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9111,
+        "recency": 0.9089,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -431,7 +431,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-28T09:06:57.654593Z"
+          "published_at": "2026-07-28T11:29:34.213477Z"
         },
         {
           "id": "hotelitem_c7c15b7680c9",
@@ -440,7 +440,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-28T09:06:57.654593Z"
+          "published_at": "2026-07-28T11:29:34.213477Z"
         },
         {
           "id": "hotelitem_6d8fa145e8af",
@@ -449,7 +449,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-28T09:06:57.654593Z"
+          "published_at": "2026-07-28T11:29:34.213477Z"
         }
       ],
       "source_count": 3,
@@ -464,7 +464,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-28T09:06:57.654593Z"
+          "published_at": "2026-07-28T11:29:34.213477Z"
         },
         {
           "id": "hotelitem_c7c15b7680c9",
@@ -473,7 +473,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-28T09:06:57.654593Z"
+          "published_at": "2026-07-28T11:29:34.213477Z"
         },
         {
           "id": "hotelitem_6d8fa145e8af",
@@ -482,7 +482,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-28T09:06:57.654593Z"
+          "published_at": "2026-07-28T11:29:34.213477Z"
         }
       ],
       "item_count": 3,
@@ -502,8 +502,8 @@
         "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-28T09:06:57.654593Z",
-      "latest_at": "2026-07-28T09:06:57.654593Z",
+      "earliest_at": "2026-07-28T11:29:34.213477Z",
+      "latest_at": "2026-07-28T11:29:34.213477Z",
       "primary_item": {
         "id": "hotelitem_d4370964909c",
         "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
@@ -547,14 +547,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9068,
-      "importance": 0.5837,
-      "importance_score": 0.9068,
+      "score": 0.9064,
+      "importance": 0.5833,
+      "importance_score": 0.9064,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9186,
+        "recency": 0.9164,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -606,14 +606,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8845,
-      "importance": 0.5994,
-      "importance_score": 0.8845,
+      "score": 0.884,
+      "importance": 0.599,
+      "importance_score": 0.884,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9972,
+        "recency": 0.995,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -628,65 +628,6 @@
         "url": "https://www.pinchain.com/article/349234",
         "source": "品橙旅游",
         "source_name": "品橙旅游"
-      }
-    },
-    {
-      "story_id": "story_70dc41f8854c",
-      "title": "The Bahamas launches “It’s More Bahamas Season” with $250 instant travel savings",
-      "url": "https://insights.ehotelier.com/global-news/2026/07/28/the-bahamas-launches-its-more-bahamas-season-with-250-instant-travel-savings/?utm_source=rss&utm_medium=rss&utm_campaign=the-bahamas-launches-its-more-bahamas-season-with-250-instant-travel-savings",
-      "primary_url": "https://insights.ehotelier.com/global-news/2026/07/28/the-bahamas-launches-its-more-bahamas-season-with-250-instant-travel-savings/?utm_source=rss&utm_medium=rss&utm_campaign=the-bahamas-launches-its-more-bahamas-season-with-250-instant-travel-savings",
-      "source": "eHotelier",
-      "source_name": "eHotelier",
-      "sources": [
-        {
-          "id": "hotelitem_70dc41f8854c",
-          "title": "The Bahamas launches “It’s More Bahamas Season” with $250 instant travel savings",
-          "url": "https://insights.ehotelier.com/global-news/2026/07/28/the-bahamas-launches-its-more-bahamas-season-with-250-instant-travel-savings/?utm_source=rss&utm_medium=rss&utm_campaign=the-bahamas-launches-its-more-bahamas-season-with-250-instant-travel-savings",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-07-28T01:40:09Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "eHotelier"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_70dc41f8854c",
-          "title": "The Bahamas launches “It’s More Bahamas Season” with $250 instant travel savings",
-          "url": "https://insights.ehotelier.com/global-news/2026/07/28/the-bahamas-launches-its-more-bahamas-season-with-250-instant-travel-savings/?utm_source=rss&utm_medium=rss&utm_campaign=the-bahamas-launches-its-more-bahamas-season-with-250-instant-travel-savings",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-07-28T01:40:09Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8637,
-      "importance": 0.5986,
-      "importance_score": 0.8637,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9931,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-28T01:40:09Z",
-      "latest_at": "2026-07-28T01:40:09Z",
-      "primary_item": {
-        "id": "hotelitem_70dc41f8854c",
-        "title": "The Bahamas launches “It’s More Bahamas Season” with $250 instant travel savings",
-        "url": "https://insights.ehotelier.com/global-news/2026/07/28/the-bahamas-launches-its-more-bahamas-season-with-250-instant-travel-savings/?utm_source=rss&utm_medium=rss&utm_campaign=the-bahamas-launches-its-more-bahamas-season-with-250-instant-travel-savings",
-        "source": "eHotelier",
-        "source_name": "eHotelier"
       }
     },
     {
@@ -724,14 +665,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8637,
-      "importance": 0.5987,
-      "importance_score": 0.8637,
+      "score": 0.8633,
+      "importance": 0.5982,
+      "importance_score": 0.8633,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9933,
+        "recency": 0.9911,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -744,6 +685,65 @@
         "id": "hotelitem_5593e5b9f4db",
         "title": "Guests are spending, AI is watching, and Hospitality is free: notes from HSMAI",
         "url": "https://insights.ehotelier.com/suppliers/2026/07/28/guests-are-spending-ai-is-watching-and-hospitality-is-free-notes-from-hsmai/?utm_source=rss&utm_medium=rss&utm_campaign=guests-are-spending-ai-is-watching-and-hospitality-is-free-notes-from-hsmai",
+        "source": "eHotelier",
+        "source_name": "eHotelier"
+      }
+    },
+    {
+      "story_id": "story_70dc41f8854c",
+      "title": "The Bahamas launches “It’s More Bahamas Season” with $250 instant travel savings",
+      "url": "https://insights.ehotelier.com/global-news/2026/07/28/the-bahamas-launches-its-more-bahamas-season-with-250-instant-travel-savings/?utm_source=rss&utm_medium=rss&utm_campaign=the-bahamas-launches-its-more-bahamas-season-with-250-instant-travel-savings",
+      "primary_url": "https://insights.ehotelier.com/global-news/2026/07/28/the-bahamas-launches-its-more-bahamas-season-with-250-instant-travel-savings/?utm_source=rss&utm_medium=rss&utm_campaign=the-bahamas-launches-its-more-bahamas-season-with-250-instant-travel-savings",
+      "source": "eHotelier",
+      "source_name": "eHotelier",
+      "sources": [
+        {
+          "id": "hotelitem_70dc41f8854c",
+          "title": "The Bahamas launches “It’s More Bahamas Season” with $250 instant travel savings",
+          "url": "https://insights.ehotelier.com/global-news/2026/07/28/the-bahamas-launches-its-more-bahamas-season-with-250-instant-travel-savings/?utm_source=rss&utm_medium=rss&utm_campaign=the-bahamas-launches-its-more-bahamas-season-with-250-instant-travel-savings",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-07-28T01:40:09Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "eHotelier"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_70dc41f8854c",
+          "title": "The Bahamas launches “It’s More Bahamas Season” with $250 instant travel savings",
+          "url": "https://insights.ehotelier.com/global-news/2026/07/28/the-bahamas-launches-its-more-bahamas-season-with-250-instant-travel-savings/?utm_source=rss&utm_medium=rss&utm_campaign=the-bahamas-launches-its-more-bahamas-season-with-250-instant-travel-savings",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-07-28T01:40:09Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8632,
+      "importance": 0.5982,
+      "importance_score": 0.8632,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9909,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-28T01:40:09Z",
+      "latest_at": "2026-07-28T01:40:09Z",
+      "primary_item": {
+        "id": "hotelitem_70dc41f8854c",
+        "title": "The Bahamas launches “It’s More Bahamas Season” with $250 instant travel savings",
+        "url": "https://insights.ehotelier.com/global-news/2026/07/28/the-bahamas-launches-its-more-bahamas-season-with-250-instant-travel-savings/?utm_source=rss&utm_medium=rss&utm_campaign=the-bahamas-launches-its-more-bahamas-season-with-250-instant-travel-savings",
         "source": "eHotelier",
         "source_name": "eHotelier"
       }
@@ -783,14 +783,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8616,
-      "importance": 0.5965,
-      "importance_score": 0.8616,
+      "score": 0.8612,
+      "importance": 0.5961,
+      "importance_score": 0.8612,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9825,
+        "recency": 0.9803,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -842,14 +842,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8616,
-      "importance": 0.5965,
-      "importance_score": 0.8616,
+      "score": 0.8612,
+      "importance": 0.5961,
+      "importance_score": 0.8612,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9825,
+        "recency": 0.9803,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -881,7 +881,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-28T09:06:57.654593Z"
+          "published_at": "2026-07-28T11:29:34.213477Z"
         },
         {
           "id": "hotelitem_816c6fb1ed6e",
@@ -890,7 +890,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-28T09:06:57.654593Z"
+          "published_at": "2026-07-28T11:29:34.213477Z"
         }
       ],
       "source_count": 2,
@@ -905,7 +905,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-28T09:06:57.654593Z"
+          "published_at": "2026-07-28T11:29:34.213477Z"
         },
         {
           "id": "hotelitem_816c6fb1ed6e",
@@ -914,7 +914,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-28T09:06:57.654593Z"
+          "published_at": "2026-07-28T11:29:34.213477Z"
         }
       ],
       "item_count": 2,
@@ -934,8 +934,8 @@
         "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-28T09:06:57.654593Z",
-      "latest_at": "2026-07-28T09:06:57.654593Z",
+      "earliest_at": "2026-07-28T11:29:34.213477Z",
+      "latest_at": "2026-07-28T11:29:34.213477Z",
       "primary_item": {
         "id": "hotelitem_3e02fd1a1636",
         "title": "指数发布 | 中国住宿业消费指数报告（2026年上半年）发布 为贯彻落实提振消费相关政策，真实反映中国住宿餐饮业市场消费情况，以数据引导促消费政策精准发力，为行业发展提供参考建议，中国饭店协会每月公开发布“中国饭店业消费指数体系”，包含“中国住宿业消费指数（China Hotel Industry Consumption Index, HCI）”与“中国餐饮业消费指数(China Catering Industry Consumption Index, CCI)”，欢迎关注。\n本篇发布的是“中国住宿业消费指数”。",
@@ -959,7 +959,7 @@
           "source": "迈点研究院",
           "source_name": "迈点研究院",
           "site_id": "meadin",
-          "published_at": "2026-07-28T09:06:57.654593Z"
+          "published_at": "2026-07-28T11:29:34.213477Z"
         }
       ],
       "source_count": 1,
@@ -974,7 +974,7 @@
           "source": "迈点研究院",
           "source_name": "迈点研究院",
           "site_id": "meadin",
-          "published_at": "2026-07-28T09:06:57.654593Z"
+          "published_at": "2026-07-28T11:29:34.213477Z"
         }
       ],
       "item_count": 1,
@@ -993,8 +993,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-28T09:06:57.654593Z",
-      "latest_at": "2026-07-28T09:06:57.654593Z",
+      "earliest_at": "2026-07-28T11:29:34.213477Z",
+      "latest_at": "2026-07-28T11:29:34.213477Z",
       "primary_item": {
         "id": "hotelitem_3ff965d73291",
         "title": "凯悦酒店集团任命综合系列商业高级副总裁",
@@ -1018,7 +1018,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-07-28T09:06:57.654593Z"
+          "published_at": "2026-07-28T11:29:34.213477Z"
         }
       ],
       "source_count": 1,
@@ -1033,7 +1033,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-07-28T09:06:57.654593Z"
+          "published_at": "2026-07-28T11:29:34.213477Z"
         }
       ],
       "item_count": 1,
@@ -1052,8 +1052,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-28T09:06:57.654593Z",
-      "latest_at": "2026-07-28T09:06:57.654593Z",
+      "earliest_at": "2026-07-28T11:29:34.213477Z",
+      "latest_at": "2026-07-28T11:29:34.213477Z",
       "primary_item": {
         "id": "hotelitem_e4ce0593c384",
         "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
@@ -1077,7 +1077,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-07-28T09:06:57.654593Z"
+          "published_at": "2026-07-28T11:29:34.213477Z"
         }
       ],
       "source_count": 1,
@@ -1092,7 +1092,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-07-28T09:06:57.654593Z"
+          "published_at": "2026-07-28T11:29:34.213477Z"
         }
       ],
       "item_count": 1,
@@ -1111,8 +1111,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-28T09:06:57.654593Z",
-      "latest_at": "2026-07-28T09:06:57.654593Z",
+      "earliest_at": "2026-07-28T11:29:34.213477Z",
+      "latest_at": "2026-07-28T11:29:34.213477Z",
       "primary_item": {
         "id": "hotelitem_fa34986b4fc0",
         "title": "文化和旅游部、金融监管总局关于警惕借“保...",
@@ -1136,7 +1136,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-07-28T09:06:57.654593Z"
+          "published_at": "2026-07-28T11:29:34.213477Z"
         }
       ],
       "source_count": 1,
@@ -1151,7 +1151,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-07-28T09:06:57.654593Z"
+          "published_at": "2026-07-28T11:29:34.213477Z"
         }
       ],
       "item_count": 1,
@@ -1170,14 +1170,73 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-28T09:06:57.654593Z",
-      "latest_at": "2026-07-28T09:06:57.654593Z",
+      "earliest_at": "2026-07-28T11:29:34.213477Z",
+      "latest_at": "2026-07-28T11:29:34.213477Z",
       "primary_item": {
         "id": "hotelitem_9a958319a874",
         "title": "文化和旅游部印发《旅游强国建设“十五五”...",
         "url": "https://www.mct.gov.cn/whzx/whyw/202607/t20260708_966448.htm",
         "source": "文化和旅游部",
         "source_name": "文化和旅游部"
+      }
+    },
+    {
+      "story_id": "story_3411aa3db817",
+      "title": "WorldHotels adds first branded residence property in Vietnam",
+      "url": "https://boutiquehotelnews.com/news/industry/worldhotels-branded-residence-vietnam/?utm_source=rss&utm_medium=rss&utm_campaign=worldhotels-branded-residence-vietnam",
+      "primary_url": "https://boutiquehotelnews.com/news/industry/worldhotels-branded-residence-vietnam/?utm_source=rss&utm_medium=rss&utm_campaign=worldhotels-branded-residence-vietnam",
+      "source": "Boutique Hotel News",
+      "source_name": "Boutique Hotel News",
+      "sources": [
+        {
+          "id": "hotelitem_3411aa3db817",
+          "title": "WorldHotels adds first branded residence property in Vietnam",
+          "url": "https://boutiquehotelnews.com/news/industry/worldhotels-branded-residence-vietnam/?utm_source=rss&utm_medium=rss&utm_campaign=worldhotels-branded-residence-vietnam",
+          "source": "Boutique Hotel News",
+          "source_name": "Boutique Hotel News",
+          "site_id": "boutiquehotel",
+          "published_at": "2026-07-28T09:30:18Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Boutique Hotel News"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_3411aa3db817",
+          "title": "WorldHotels adds first branded residence property in Vietnam",
+          "url": "https://boutiquehotelnews.com/news/industry/worldhotels-branded-residence-vietnam/?utm_source=rss&utm_medium=rss&utm_campaign=worldhotels-branded-residence-vietnam",
+          "source": "Boutique Hotel News",
+          "source_name": "Boutique Hotel News",
+          "site_id": "boutiquehotel",
+          "published_at": "2026-07-28T09:30:18Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8496,
+      "importance": 0.5996,
+      "importance_score": 0.8496,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9982,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-28T09:30:18Z",
+      "latest_at": "2026-07-28T09:30:18Z",
+      "primary_item": {
+        "id": "hotelitem_3411aa3db817",
+        "title": "WorldHotels adds first branded residence property in Vietnam",
+        "url": "https://boutiquehotelnews.com/news/industry/worldhotels-branded-residence-vietnam/?utm_source=rss&utm_medium=rss&utm_campaign=worldhotels-branded-residence-vietnam",
+        "source": "Boutique Hotel News",
+        "source_name": "Boutique Hotel News"
       }
     },
     {
@@ -1215,14 +1274,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8489,
-      "importance": 0.5833,
-      "importance_score": 0.8489,
+      "score": 0.8485,
+      "importance": 0.5829,
+      "importance_score": 0.8485,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9167,
+        "recency": 0.9145,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1274,14 +1333,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8468,
-      "importance": 0.5377,
-      "importance_score": 0.8468,
+      "score": 0.8461,
+      "importance": 0.5373,
+      "importance_score": 0.8461,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.6886,
+        "recency": 0.6864,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1333,14 +1392,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8443,
-      "importance": 0.5786,
-      "importance_score": 0.8443,
+      "score": 0.8439,
+      "importance": 0.5781,
+      "importance_score": 0.8439,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8929,
+        "recency": 0.8907,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1392,14 +1451,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8432,
-      "importance": 0.5774,
-      "importance_score": 0.8432,
+      "score": 0.8428,
+      "importance": 0.5769,
+      "importance_score": 0.8428,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8869,
+        "recency": 0.8847,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1451,14 +1510,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8398,
-      "importance": 0.5739,
-      "importance_score": 0.8398,
+      "score": 0.8394,
+      "importance": 0.5734,
+      "importance_score": 0.8394,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8694,
+        "recency": 0.8672,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1510,14 +1569,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8381,
-      "importance": 0.5721,
-      "importance_score": 0.8381,
+      "score": 0.8377,
+      "importance": 0.5717,
+      "importance_score": 0.8377,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8606,
+        "recency": 0.8584,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1569,14 +1628,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8359,
-      "importance": 0.5698,
-      "importance_score": 0.8359,
+      "score": 0.8355,
+      "importance": 0.5694,
+      "importance_score": 0.8355,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8491,
+        "recency": 0.8469,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1628,14 +1687,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8327,
-      "importance": 0.5821,
-      "importance_score": 0.8327,
+      "score": 0.8323,
+      "importance": 0.5816,
+      "importance_score": 0.8323,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9103,
+        "recency": 0.9081,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1687,14 +1746,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8286,
-      "importance": 0.5778,
-      "importance_score": 0.8286,
+      "score": 0.8282,
+      "importance": 0.5773,
+      "importance_score": 0.8282,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8889,
+        "recency": 0.8867,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1746,14 +1805,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.817,
-      "importance": 0.5994,
-      "importance_score": 0.817,
+      "score": 0.8165,
+      "importance": 0.599,
+      "importance_score": 0.8165,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9972,
+        "recency": 0.995,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1768,65 +1827,6 @@
         "url": "https://www.pinchain.com/article/349235",
         "source": "品橙旅游",
         "source_name": "品橙旅游"
-      }
-    },
-    {
-      "story_id": "story_a3a9a913388b",
-      "title": "Generator names Mufraggi as CEO",
-      "url": "https://boutiquehotelnews.com/news/movers-and-shakers/generator-mufraggi-ceo/?utm_source=rss&utm_medium=rss&utm_campaign=generator-mufraggi-ceo",
-      "primary_url": "https://boutiquehotelnews.com/news/movers-and-shakers/generator-mufraggi-ceo/?utm_source=rss&utm_medium=rss&utm_campaign=generator-mufraggi-ceo",
-      "source": "Boutique Hotel News",
-      "source_name": "Boutique Hotel News",
-      "sources": [
-        {
-          "id": "hotelitem_a3a9a913388b",
-          "title": "Generator names Mufraggi as CEO",
-          "url": "https://boutiquehotelnews.com/news/movers-and-shakers/generator-mufraggi-ceo/?utm_source=rss&utm_medium=rss&utm_campaign=generator-mufraggi-ceo",
-          "source": "Boutique Hotel News",
-          "source_name": "Boutique Hotel News",
-          "site_id": "boutiquehotel",
-          "published_at": "2026-07-20T16:43:13Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Boutique Hotel News"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_a3a9a913388b",
-          "title": "Generator names Mufraggi as CEO",
-          "url": "https://boutiquehotelnews.com/news/movers-and-shakers/generator-mufraggi-ceo/?utm_source=rss&utm_medium=rss&utm_campaign=generator-mufraggi-ceo",
-          "source": "Boutique Hotel News",
-          "source_name": "Boutique Hotel News",
-          "site_id": "boutiquehotel",
-          "published_at": "2026-07-20T16:43:13Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8155,
-      "importance": 0.5659,
-      "importance_score": 0.8155,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.8293,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-20T16:43:13Z",
-      "latest_at": "2026-07-20T16:43:13Z",
-      "primary_item": {
-        "id": "hotelitem_a3a9a913388b",
-        "title": "Generator names Mufraggi as CEO",
-        "url": "https://boutiquehotelnews.com/news/movers-and-shakers/generator-mufraggi-ceo/?utm_source=rss&utm_medium=rss&utm_campaign=generator-mufraggi-ceo",
-        "source": "Boutique Hotel News",
-        "source_name": "Boutique Hotel News"
       }
     }
   ]
