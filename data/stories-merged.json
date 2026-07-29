@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T19:46:24.989664Z",
+  "generated_at": "2026-07-29T22:14:54.889277Z",
   "window_hours": 1080,
   "total_stories": 30,
   "stories": [
@@ -39,13 +39,13 @@
       "item_count": 1,
       "duplicate_count": 1,
       "score": 1.0,
-      "importance": 0.5906,
+      "importance": 0.5901,
       "importance_score": 1.0,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.953,
+        "recency": 0.9507,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -97,14 +97,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9539,
-      "importance": 0.5988,
-      "importance_score": 0.9539,
+      "score": 0.9534,
+      "importance": 0.5984,
+      "importance_score": 0.9534,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9941,
+        "recency": 0.9918,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -119,65 +119,6 @@
         "url": "https://www.hoteldive.com/news/caesars-entertainment-q2-2026-earnings/826449/",
         "source": "Hotel Dive",
         "source_name": "Hotel Dive"
-      }
-    },
-    {
-      "story_id": "story_fb9c420048d1",
-      "title": "Radisson Hotel Group and Accenture redefine travel discovery on ChatGPT",
-      "url": "https://insights.ehotelier.com/global-news/2026/07/29/radisson-hotel-group-and-accenture-redefine-travel-discovery-on-chatgpt/?utm_source=rss&utm_medium=rss&utm_campaign=radisson-hotel-group-and-accenture-redefine-travel-discovery-on-chatgpt",
-      "primary_url": "https://insights.ehotelier.com/global-news/2026/07/29/radisson-hotel-group-and-accenture-redefine-travel-discovery-on-chatgpt/?utm_source=rss&utm_medium=rss&utm_campaign=radisson-hotel-group-and-accenture-redefine-travel-discovery-on-chatgpt",
-      "source": "eHotelier",
-      "source_name": "eHotelier",
-      "sources": [
-        {
-          "id": "hotelitem_fb9c420048d1",
-          "title": "Radisson Hotel Group and Accenture redefine travel discovery on ChatGPT",
-          "url": "https://insights.ehotelier.com/global-news/2026/07/29/radisson-hotel-group-and-accenture-redefine-travel-discovery-on-chatgpt/?utm_source=rss&utm_medium=rss&utm_campaign=radisson-hotel-group-and-accenture-redefine-travel-discovery-on-chatgpt",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-07-29T01:40:26Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "eHotelier"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_fb9c420048d1",
-          "title": "Radisson Hotel Group and Accenture redefine travel discovery on ChatGPT",
-          "url": "https://insights.ehotelier.com/global-news/2026/07/29/radisson-hotel-group-and-accenture-redefine-travel-discovery-on-chatgpt/?utm_source=rss&utm_medium=rss&utm_campaign=radisson-hotel-group-and-accenture-redefine-travel-discovery-on-chatgpt",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-07-29T01:40:26Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.9518,
-      "importance": 0.5966,
-      "importance_score": 0.9518,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9832,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-29T01:40:26Z",
-      "latest_at": "2026-07-29T01:40:26Z",
-      "primary_item": {
-        "id": "hotelitem_fb9c420048d1",
-        "title": "Radisson Hotel Group and Accenture redefine travel discovery on ChatGPT",
-        "url": "https://insights.ehotelier.com/global-news/2026/07/29/radisson-hotel-group-and-accenture-redefine-travel-discovery-on-chatgpt/?utm_source=rss&utm_medium=rss&utm_campaign=radisson-hotel-group-and-accenture-redefine-travel-discovery-on-chatgpt",
-        "source": "eHotelier",
-        "source_name": "eHotelier"
       }
     },
     {
@@ -215,14 +156,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9517,
-      "importance": 0.5966,
-      "importance_score": 0.9517,
+      "score": 0.9513,
+      "importance": 0.5961,
+      "importance_score": 0.9513,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9829,
+        "recency": 0.9806,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -274,14 +215,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9517,
-      "importance": 0.5966,
-      "importance_score": 0.9517,
+      "score": 0.9513,
+      "importance": 0.5961,
+      "importance_score": 0.9513,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9829,
+        "recency": 0.9806,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -333,14 +274,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9517,
-      "importance": 0.5966,
-      "importance_score": 0.9517,
+      "score": 0.9513,
+      "importance": 0.5962,
+      "importance_score": 0.9513,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9831,
+        "recency": 0.9808,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -353,6 +294,65 @@
         "id": "hotelitem_225cdf55b171",
         "title": "Robert Rechtermann appointed as General Manager at Sonesta White Plains Downtown",
         "url": "https://insights.ehotelier.com/people/2026/07/29/robert-rechtermann-appointed-as-general-manager-at-sonesta-white-plains-downtown/?utm_source=rss&utm_medium=rss&utm_campaign=robert-rechtermann-appointed-as-general-manager-at-sonesta-white-plains-downtown",
+        "source": "eHotelier",
+        "source_name": "eHotelier"
+      }
+    },
+    {
+      "story_id": "story_fb9c420048d1",
+      "title": "Radisson Hotel Group and Accenture redefine travel discovery on ChatGPT",
+      "url": "https://insights.ehotelier.com/global-news/2026/07/29/radisson-hotel-group-and-accenture-redefine-travel-discovery-on-chatgpt/?utm_source=rss&utm_medium=rss&utm_campaign=radisson-hotel-group-and-accenture-redefine-travel-discovery-on-chatgpt",
+      "primary_url": "https://insights.ehotelier.com/global-news/2026/07/29/radisson-hotel-group-and-accenture-redefine-travel-discovery-on-chatgpt/?utm_source=rss&utm_medium=rss&utm_campaign=radisson-hotel-group-and-accenture-redefine-travel-discovery-on-chatgpt",
+      "source": "eHotelier",
+      "source_name": "eHotelier",
+      "sources": [
+        {
+          "id": "hotelitem_fb9c420048d1",
+          "title": "Radisson Hotel Group and Accenture redefine travel discovery on ChatGPT",
+          "url": "https://insights.ehotelier.com/global-news/2026/07/29/radisson-hotel-group-and-accenture-redefine-travel-discovery-on-chatgpt/?utm_source=rss&utm_medium=rss&utm_campaign=radisson-hotel-group-and-accenture-redefine-travel-discovery-on-chatgpt",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-07-29T01:40:26Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "eHotelier"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_fb9c420048d1",
+          "title": "Radisson Hotel Group and Accenture redefine travel discovery on ChatGPT",
+          "url": "https://insights.ehotelier.com/global-news/2026/07/29/radisson-hotel-group-and-accenture-redefine-travel-discovery-on-chatgpt/?utm_source=rss&utm_medium=rss&utm_campaign=radisson-hotel-group-and-accenture-redefine-travel-discovery-on-chatgpt",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-07-29T01:40:26Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.9513,
+      "importance": 0.5962,
+      "importance_score": 0.9513,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9809,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-29T01:40:26Z",
+      "latest_at": "2026-07-29T01:40:26Z",
+      "primary_item": {
+        "id": "hotelitem_fb9c420048d1",
+        "title": "Radisson Hotel Group and Accenture redefine travel discovery on ChatGPT",
+        "url": "https://insights.ehotelier.com/global-news/2026/07/29/radisson-hotel-group-and-accenture-redefine-travel-discovery-on-chatgpt/?utm_source=rss&utm_medium=rss&utm_campaign=radisson-hotel-group-and-accenture-redefine-travel-discovery-on-chatgpt",
         "source": "eHotelier",
         "source_name": "eHotelier"
       }
@@ -392,14 +392,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9507,
-      "importance": 0.5955,
-      "importance_score": 0.9507,
+      "score": 0.9502,
+      "importance": 0.595,
+      "importance_score": 0.9502,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9775,
+        "recency": 0.9752,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -451,14 +451,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9504,
-      "importance": 0.5952,
-      "importance_score": 0.9504,
+      "score": 0.9499,
+      "importance": 0.5948,
+      "importance_score": 0.9499,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9761,
+        "recency": 0.9738,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -510,14 +510,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9497,
-      "importance": 0.5945,
-      "importance_score": 0.9497,
+      "score": 0.9492,
+      "importance": 0.594,
+      "importance_score": 0.9492,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9724,
+        "recency": 0.9701,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -549,7 +549,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-07-29T19:46:24.989664Z"
+          "published_at": "2026-07-29T22:14:54.889277Z"
         }
       ],
       "source_count": 1,
@@ -564,7 +564,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-07-29T19:46:24.989664Z"
+          "published_at": "2026-07-29T22:14:54.889277Z"
         }
       ],
       "item_count": 1,
@@ -583,8 +583,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-29T19:46:24.989664Z",
-      "latest_at": "2026-07-29T19:46:24.989664Z",
+      "earliest_at": "2026-07-29T22:14:54.889277Z",
+      "latest_at": "2026-07-29T22:14:54.889277Z",
       "primary_item": {
         "id": "hotelitem_9699887c72ea",
         "title": "中国旅游研究院与中青旅控股股份有限公司开展主题党日联学联",
@@ -628,14 +628,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9327,
-      "importance": 0.5769,
-      "importance_score": 0.9327,
+      "score": 0.9323,
+      "importance": 0.5764,
+      "importance_score": 0.9323,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8844,
+        "recency": 0.8821,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -687,14 +687,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9324,
-      "importance": 0.5766,
-      "importance_score": 0.9324,
+      "score": 0.932,
+      "importance": 0.5761,
+      "importance_score": 0.932,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8829,
+        "recency": 0.8806,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -746,14 +746,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9282,
-      "importance": 0.5722,
-      "importance_score": 0.9282,
+      "score": 0.9277,
+      "importance": 0.5717,
+      "importance_score": 0.9277,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.861,
+        "recency": 0.8587,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -771,65 +771,6 @@
       }
     },
     {
-      "story_id": "story_b0a48c4a94aa",
-      "title": "Lancaster Landmark Hotel Company rebrands as The Landmark Collection",
-      "url": "https://boutiquehotelnews.com/news/industry/the-landmark-collection/?utm_source=rss&utm_medium=rss&utm_campaign=the-landmark-collection",
-      "primary_url": "https://boutiquehotelnews.com/news/industry/the-landmark-collection/?utm_source=rss&utm_medium=rss&utm_campaign=the-landmark-collection",
-      "source": "Boutique Hotel News",
-      "source_name": "Boutique Hotel News",
-      "sources": [
-        {
-          "id": "hotelitem_b0a48c4a94aa",
-          "title": "Lancaster Landmark Hotel Company rebrands as The Landmark Collection",
-          "url": "https://boutiquehotelnews.com/news/industry/the-landmark-collection/?utm_source=rss&utm_medium=rss&utm_campaign=the-landmark-collection",
-          "source": "Boutique Hotel News",
-          "source_name": "Boutique Hotel News",
-          "site_id": "boutiquehotel",
-          "published_at": "2026-07-24T09:06:26Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Boutique Hotel News"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_b0a48c4a94aa",
-          "title": "Lancaster Landmark Hotel Company rebrands as The Landmark Collection",
-          "url": "https://boutiquehotelnews.com/news/industry/the-landmark-collection/?utm_source=rss&utm_medium=rss&utm_campaign=the-landmark-collection",
-          "source": "Boutique Hotel News",
-          "source_name": "Boutique Hotel News",
-          "site_id": "boutiquehotel",
-          "published_at": "2026-07-24T09:06:26Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.9167,
-      "importance": 0.5758,
-      "importance_score": 0.9167,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.879,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-24T09:06:26Z",
-      "latest_at": "2026-07-24T09:06:26Z",
-      "primary_item": {
-        "id": "hotelitem_b0a48c4a94aa",
-        "title": "Lancaster Landmark Hotel Company rebrands as The Landmark Collection",
-        "url": "https://boutiquehotelnews.com/news/industry/the-landmark-collection/?utm_source=rss&utm_medium=rss&utm_campaign=the-landmark-collection",
-        "source": "Boutique Hotel News",
-        "source_name": "Boutique Hotel News"
-      }
-    },
-    {
       "story_id": "story_c7c15b7680c9",
       "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
       "url": "https://www.chinahotel.org.cn/articles/17408",
@@ -844,7 +785,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-29T19:46:24.989664Z"
+          "published_at": "2026-07-29T22:14:54.889277Z"
         },
         {
           "id": "hotelitem_c7c15b7680c9",
@@ -853,7 +794,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-29T19:46:24.989664Z"
+          "published_at": "2026-07-29T22:14:54.889277Z"
         },
         {
           "id": "hotelitem_6d8fa145e8af",
@@ -862,7 +803,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-29T19:46:24.989664Z"
+          "published_at": "2026-07-29T22:14:54.889277Z"
         }
       ],
       "source_count": 3,
@@ -877,7 +818,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-29T19:46:24.989664Z"
+          "published_at": "2026-07-29T22:14:54.889277Z"
         },
         {
           "id": "hotelitem_c7c15b7680c9",
@@ -886,7 +827,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-29T19:46:24.989664Z"
+          "published_at": "2026-07-29T22:14:54.889277Z"
         },
         {
           "id": "hotelitem_6d8fa145e8af",
@@ -895,7 +836,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-29T19:46:24.989664Z"
+          "published_at": "2026-07-29T22:14:54.889277Z"
         }
       ],
       "item_count": 3,
@@ -915,8 +856,8 @@
         "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-29T19:46:24.989664Z",
-      "latest_at": "2026-07-29T19:46:24.989664Z",
+      "earliest_at": "2026-07-29T22:14:54.889277Z",
+      "latest_at": "2026-07-29T22:14:54.889277Z",
       "primary_item": {
         "id": "hotelitem_d4370964909c",
         "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
@@ -960,14 +901,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9006,
-      "importance": 0.5773,
-      "importance_score": 0.9006,
+      "score": 0.9002,
+      "importance": 0.5768,
+      "importance_score": 0.9002,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8865,
+        "recency": 0.8842,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1019,14 +960,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8756,
-      "importance": 0.598,
-      "importance_score": 0.8756,
+      "score": 0.8752,
+      "importance": 0.5976,
+      "importance_score": 0.8752,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9901,
+        "recency": 0.9878,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1078,14 +1019,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8617,
-      "importance": 0.5966,
-      "importance_score": 0.8617,
+      "score": 0.8613,
+      "importance": 0.5961,
+      "importance_score": 0.8613,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.983,
+        "recency": 0.9807,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1137,14 +1078,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8613,
-      "importance": 0.5962,
-      "importance_score": 0.8613,
+      "score": 0.8608,
+      "importance": 0.5957,
+      "importance_score": 0.8608,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9808,
+        "recency": 0.9785,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1176,7 +1117,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-29T19:46:24.989664Z"
+          "published_at": "2026-07-29T22:14:54.889277Z"
         },
         {
           "id": "hotelitem_816c6fb1ed6e",
@@ -1185,7 +1126,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-29T19:46:24.989664Z"
+          "published_at": "2026-07-29T22:14:54.889277Z"
         }
       ],
       "source_count": 2,
@@ -1200,7 +1141,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-29T19:46:24.989664Z"
+          "published_at": "2026-07-29T22:14:54.889277Z"
         },
         {
           "id": "hotelitem_816c6fb1ed6e",
@@ -1209,7 +1150,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-29T19:46:24.989664Z"
+          "published_at": "2026-07-29T22:14:54.889277Z"
         }
       ],
       "item_count": 2,
@@ -1229,8 +1170,8 @@
         "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-29T19:46:24.989664Z",
-      "latest_at": "2026-07-29T19:46:24.989664Z",
+      "earliest_at": "2026-07-29T22:14:54.889277Z",
+      "latest_at": "2026-07-29T22:14:54.889277Z",
       "primary_item": {
         "id": "hotelitem_3e02fd1a1636",
         "title": "指数发布 | 中国住宿业消费指数报告（2026年上半年）发布 为贯彻落实提振消费相关政策，真实反映中国住宿餐饮业市场消费情况，以数据引导促消费政策精准发力，为行业发展提供参考建议，中国饭店协会每月公开发布“中国饭店业消费指数体系”，包含“中国住宿业消费指数（China Hotel Industry Consumption Index, HCI）”与“中国餐饮业消费指数(China Catering Industry Consumption Index, CCI)”，欢迎关注。\n本篇发布的是“中国住宿业消费指数”。",
@@ -1254,7 +1195,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-07-29T19:46:24.989664Z"
+          "published_at": "2026-07-29T22:14:54.889277Z"
         }
       ],
       "source_count": 1,
@@ -1269,7 +1210,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-07-29T19:46:24.989664Z"
+          "published_at": "2026-07-29T22:14:54.889277Z"
         }
       ],
       "item_count": 1,
@@ -1288,8 +1229,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-29T19:46:24.989664Z",
-      "latest_at": "2026-07-29T19:46:24.989664Z",
+      "earliest_at": "2026-07-29T22:14:54.889277Z",
+      "latest_at": "2026-07-29T22:14:54.889277Z",
       "primary_item": {
         "id": "hotelitem_e4ce0593c384",
         "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
@@ -1313,7 +1254,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-07-29T19:46:24.989664Z"
+          "published_at": "2026-07-29T22:14:54.889277Z"
         }
       ],
       "source_count": 1,
@@ -1328,7 +1269,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-07-29T19:46:24.989664Z"
+          "published_at": "2026-07-29T22:14:54.889277Z"
         }
       ],
       "item_count": 1,
@@ -1347,8 +1288,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-29T19:46:24.989664Z",
-      "latest_at": "2026-07-29T19:46:24.989664Z",
+      "earliest_at": "2026-07-29T22:14:54.889277Z",
+      "latest_at": "2026-07-29T22:14:54.889277Z",
       "primary_item": {
         "id": "hotelitem_fa34986b4fc0",
         "title": "文化和旅游部、金融监管总局关于警惕借“保...",
@@ -1372,7 +1313,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-07-29T19:46:24.989664Z"
+          "published_at": "2026-07-29T22:14:54.889277Z"
         }
       ],
       "source_count": 1,
@@ -1387,7 +1328,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-07-29T19:46:24.989664Z"
+          "published_at": "2026-07-29T22:14:54.889277Z"
         }
       ],
       "item_count": 1,
@@ -1406,8 +1347,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-29T19:46:24.989664Z",
-      "latest_at": "2026-07-29T19:46:24.989664Z",
+      "earliest_at": "2026-07-29T22:14:54.889277Z",
+      "latest_at": "2026-07-29T22:14:54.889277Z",
       "primary_item": {
         "id": "hotelitem_9a958319a874",
         "title": "文化和旅游部印发《旅游强国建设“十五五”...",
@@ -1451,14 +1392,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8554,
-      "importance": 0.5901,
-      "importance_score": 0.8554,
+      "score": 0.855,
+      "importance": 0.5896,
+      "importance_score": 0.855,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9504,
+        "recency": 0.9481,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1510,14 +1451,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8554,
-      "importance": 0.5901,
-      "importance_score": 0.8554,
+      "score": 0.855,
+      "importance": 0.5896,
+      "importance_score": 0.855,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9505,
+        "recency": 0.9482,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1532,65 +1473,6 @@
         "url": "https://www.hoteldive.com/news/hotel-construction-pipeline-q2-2026/826231/",
         "source": "Hotel Dive",
         "source_name": "Hotel Dive"
-      }
-    },
-    {
-      "story_id": "story_3411aa3db817",
-      "title": "WorldHotels adds first branded residence property in Vietnam",
-      "url": "https://boutiquehotelnews.com/news/industry/worldhotels-branded-residence-vietnam/?utm_source=rss&utm_medium=rss&utm_campaign=worldhotels-branded-residence-vietnam",
-      "primary_url": "https://boutiquehotelnews.com/news/industry/worldhotels-branded-residence-vietnam/?utm_source=rss&utm_medium=rss&utm_campaign=worldhotels-branded-residence-vietnam",
-      "source": "Boutique Hotel News",
-      "source_name": "Boutique Hotel News",
-      "sources": [
-        {
-          "id": "hotelitem_3411aa3db817",
-          "title": "WorldHotels adds first branded residence property in Vietnam",
-          "url": "https://boutiquehotelnews.com/news/industry/worldhotels-branded-residence-vietnam/?utm_source=rss&utm_medium=rss&utm_campaign=worldhotels-branded-residence-vietnam",
-          "source": "Boutique Hotel News",
-          "source_name": "Boutique Hotel News",
-          "site_id": "boutiquehotel",
-          "published_at": "2026-07-28T09:30:18Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Boutique Hotel News"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_3411aa3db817",
-          "title": "WorldHotels adds first branded residence property in Vietnam",
-          "url": "https://boutiquehotelnews.com/news/industry/worldhotels-branded-residence-vietnam/?utm_source=rss&utm_medium=rss&utm_campaign=worldhotels-branded-residence-vietnam",
-          "source": "Boutique Hotel News",
-          "source_name": "Boutique Hotel News",
-          "site_id": "boutiquehotel",
-          "published_at": "2026-07-28T09:30:18Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8439,
-      "importance": 0.5937,
-      "importance_score": 0.8439,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9683,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-28T09:30:18Z",
-      "latest_at": "2026-07-28T09:30:18Z",
-      "primary_item": {
-        "id": "hotelitem_3411aa3db817",
-        "title": "WorldHotels adds first branded residence property in Vietnam",
-        "url": "https://boutiquehotelnews.com/news/industry/worldhotels-branded-residence-vietnam/?utm_source=rss&utm_medium=rss&utm_campaign=worldhotels-branded-residence-vietnam",
-        "source": "Boutique Hotel News",
-        "source_name": "Boutique Hotel News"
       }
     },
     {
@@ -1628,14 +1510,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8427,
-      "importance": 0.5769,
-      "importance_score": 0.8427,
+      "score": 0.8423,
+      "importance": 0.5765,
+      "importance_score": 0.8423,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8846,
+        "recency": 0.8823,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1687,14 +1569,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8373,
-      "importance": 0.5313,
-      "importance_score": 0.8373,
+      "score": 0.8367,
+      "importance": 0.5308,
+      "importance_score": 0.8367,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.6565,
+        "recency": 0.6542,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1746,14 +1628,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.837,
-      "importance": 0.571,
-      "importance_score": 0.837,
+      "score": 0.8366,
+      "importance": 0.5705,
+      "importance_score": 0.8366,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8548,
+        "recency": 0.8525,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1771,62 +1653,180 @@
       }
     },
     {
-      "story_id": "story_65f5e43c1c1f",
-      "title": "HMRC files winding-up petition against Avison Young",
-      "url": "https://boutiquehotelnews.com/news/industry/hmrc-avison-young/?utm_source=rss&utm_medium=rss&utm_campaign=hmrc-avison-young",
-      "primary_url": "https://boutiquehotelnews.com/news/industry/hmrc-avison-young/?utm_source=rss&utm_medium=rss&utm_campaign=hmrc-avison-young",
-      "source": "Boutique Hotel News",
-      "source_name": "Boutique Hotel News",
+      "story_id": "story_57ebfd9ad0fc",
+      "title": "IHG Hotels & Resorts launches AI-powered conversational search tool",
+      "url": "https://www.hoteldive.com/news/ihg-launches-ai-powered-conversational-search-tool/826446/",
+      "primary_url": "https://www.hoteldive.com/news/ihg-launches-ai-powered-conversational-search-tool/826446/",
+      "source": "Hotel Dive",
+      "source_name": "Hotel Dive",
       "sources": [
         {
-          "id": "hotelitem_65f5e43c1c1f",
-          "title": "HMRC files winding-up petition against Avison Young",
-          "url": "https://boutiquehotelnews.com/news/industry/hmrc-avison-young/?utm_source=rss&utm_medium=rss&utm_campaign=hmrc-avison-young",
-          "source": "Boutique Hotel News",
-          "source_name": "Boutique Hotel News",
-          "site_id": "boutiquehotel",
-          "published_at": "2026-07-24T08:14:34Z"
+          "id": "hotelitem_57ebfd9ad0fc",
+          "title": "IHG Hotels & Resorts launches AI-powered conversational search tool",
+          "url": "https://www.hoteldive.com/news/ihg-launches-ai-powered-conversational-search-tool/826446/",
+          "source": "Hotel Dive",
+          "source_name": "Hotel Dive",
+          "site_id": "hoteldive",
+          "published_at": "2026-07-29T13:19:35Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Boutique Hotel News"
+        "Hotel Dive"
       ],
       "items": [
         {
-          "id": "hotelitem_65f5e43c1c1f",
-          "title": "HMRC files winding-up petition against Avison Young",
-          "url": "https://boutiquehotelnews.com/news/industry/hmrc-avison-young/?utm_source=rss&utm_medium=rss&utm_campaign=hmrc-avison-young",
-          "source": "Boutique Hotel News",
-          "source_name": "Boutique Hotel News",
-          "site_id": "boutiquehotel",
-          "published_at": "2026-07-24T08:14:34Z"
+          "id": "hotelitem_57ebfd9ad0fc",
+          "title": "IHG Hotels & Resorts launches AI-powered conversational search tool",
+          "url": "https://www.hoteldive.com/news/ihg-launches-ai-powered-conversational-search-tool/826446/",
+          "source": "Hotel Dive",
+          "source_name": "Hotel Dive",
+          "site_id": "hoteldive",
+          "published_at": "2026-07-29T13:19:35Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8265,
-      "importance": 0.5756,
-      "importance_score": 0.8265,
+      "score": 0.8184,
+      "importance": 0.5983,
+      "importance_score": 0.8184,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8782,
+        "recency": 0.9917,
         "story_heat": 0.0
       },
       "category": "watch",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-24T08:14:34Z",
-      "latest_at": "2026-07-24T08:14:34Z",
+      "earliest_at": "2026-07-29T13:19:35Z",
+      "latest_at": "2026-07-29T13:19:35Z",
       "primary_item": {
-        "id": "hotelitem_65f5e43c1c1f",
-        "title": "HMRC files winding-up petition against Avison Young",
-        "url": "https://boutiquehotelnews.com/news/industry/hmrc-avison-young/?utm_source=rss&utm_medium=rss&utm_campaign=hmrc-avison-young",
-        "source": "Boutique Hotel News",
-        "source_name": "Boutique Hotel News"
+        "id": "hotelitem_57ebfd9ad0fc",
+        "title": "IHG Hotels & Resorts launches AI-powered conversational search tool",
+        "url": "https://www.hoteldive.com/news/ihg-launches-ai-powered-conversational-search-tool/826446/",
+        "source": "Hotel Dive",
+        "source_name": "Hotel Dive"
+      }
+    },
+    {
+      "story_id": "story_83880d374cdb",
+      "title": "Marriott adds new brand to Outdoor Collection with hotel near Joshua Tree",
+      "url": "https://www.hoteldive.com/news/marriott-outdoor-collection-joshua-tree-reset-hotel/826337/",
+      "primary_url": "https://www.hoteldive.com/news/marriott-outdoor-collection-joshua-tree-reset-hotel/826337/",
+      "source": "Hotel Dive",
+      "source_name": "Hotel Dive",
+      "sources": [
+        {
+          "id": "hotelitem_83880d374cdb",
+          "title": "Marriott adds new brand to Outdoor Collection with hotel near Joshua Tree",
+          "url": "https://www.hoteldive.com/news/marriott-outdoor-collection-joshua-tree-reset-hotel/826337/",
+          "source": "Hotel Dive",
+          "source_name": "Hotel Dive",
+          "site_id": "hoteldive",
+          "published_at": "2026-07-28T13:43:22Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hotel Dive"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_83880d374cdb",
+          "title": "Marriott adds new brand to Outdoor Collection with hotel near Joshua Tree",
+          "url": "https://www.hoteldive.com/news/marriott-outdoor-collection-joshua-tree-reset-hotel/826337/",
+          "source": "Hotel Dive",
+          "source_name": "Hotel Dive",
+          "site_id": "hoteldive",
+          "published_at": "2026-07-28T13:43:22Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8142,
+      "importance": 0.594,
+      "importance_score": 0.8142,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9699,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-28T13:43:22Z",
+      "latest_at": "2026-07-28T13:43:22Z",
+      "primary_item": {
+        "id": "hotelitem_83880d374cdb",
+        "title": "Marriott adds new brand to Outdoor Collection with hotel near Joshua Tree",
+        "url": "https://www.hoteldive.com/news/marriott-outdoor-collection-joshua-tree-reset-hotel/826337/",
+        "source": "Hotel Dive",
+        "source_name": "Hotel Dive"
+      }
+    },
+    {
+      "story_id": "story_0f92c8e44d34",
+      "title": "Agoda Data Reveals Indian Travelers Are Expa ... Digital travel platform Agoda has released new insights highlighting the international beach destinati ... July 29, 2026 / Agoda Press",
+      "url": "https://www.agoda.com/press/agoda-data-reveals-indian-travelers-are-expanding-their-international-beach-bucket-list/",
+      "primary_url": "https://www.agoda.com/press/agoda-data-reveals-indian-travelers-are-expanding-their-international-beach-bucket-list/",
+      "source": "Agoda",
+      "source_name": "Agoda",
+      "sources": [
+        {
+          "id": "hotelitem_0f92c8e44d34",
+          "title": "Agoda Data Reveals Indian Travelers Are Expa ... Digital travel platform Agoda has released new insights highlighting the international beach destinati ... July 29, 2026 / Agoda Press",
+          "url": "https://www.agoda.com/press/agoda-data-reveals-indian-travelers-are-expanding-their-international-beach-bucket-list/",
+          "source": "Agoda",
+          "source_name": "Agoda",
+          "site_id": "agoda_press",
+          "published_at": "2026-07-29T22:14:54.889277Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Agoda"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_0f92c8e44d34",
+          "title": "Agoda Data Reveals Indian Travelers Are Expa ... Digital travel platform Agoda has released new insights highlighting the international beach destinati ... July 29, 2026 / Agoda Press",
+          "url": "https://www.agoda.com/press/agoda-data-reveals-indian-travelers-are-expanding-their-international-beach-bucket-list/",
+          "source": "Agoda",
+          "source_name": "Agoda",
+          "site_id": "agoda_press",
+          "published_at": "2026-07-29T22:14:54.889277Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8125,
+      "importance": 0.6,
+      "importance_score": 0.8125,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-29T22:14:54.889277Z",
+      "latest_at": "2026-07-29T22:14:54.889277Z",
+      "primary_item": {
+        "id": "hotelitem_0f92c8e44d34",
+        "title": "Agoda Data Reveals Indian Travelers Are Expa ... Digital travel platform Agoda has released new insights highlighting the international beach destinati ... July 29, 2026 / Agoda Press",
+        "url": "https://www.agoda.com/press/agoda-data-reveals-indian-travelers-are-expanding-their-international-beach-bucket-list/",
+        "source": "Agoda",
+        "source_name": "Agoda"
       }
     }
   ]
