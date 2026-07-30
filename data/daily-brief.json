@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T22:14:54.889277Z",
+  "generated_at": "2026-07-30T03:32:08.452843Z",
   "window_hours": 1080,
   "total_items": 30,
   "items": [
@@ -39,13 +39,13 @@
       "item_count": 1,
       "duplicate_count": 1,
       "score": 1.0,
-      "importance": 0.5901,
+      "importance": 0.5892,
       "importance_score": 1.0,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9507,
+        "recency": 0.9458,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -97,14 +97,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9534,
-      "importance": 0.5984,
-      "importance_score": 0.9534,
+      "score": 0.9525,
+      "importance": 0.5974,
+      "importance_score": 0.9525,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9918,
+        "recency": 0.9869,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -119,242 +119,6 @@
         "url": "https://www.hoteldive.com/news/caesars-entertainment-q2-2026-earnings/826449/",
         "source": "Hotel Dive",
         "source_name": "Hotel Dive"
-      }
-    },
-    {
-      "story_id": "story_ac782c35f4fe",
-      "title": "Stonebridge adds JW Marriott Atlanta Downtown to managed portfolio",
-      "url": "https://insights.ehotelier.com/properties/2026/07/29/stonebridge-adds-jw-marriott-atlanta-downtown-to-managed-portfolio/?utm_source=rss&utm_medium=rss&utm_campaign=stonebridge-adds-jw-marriott-atlanta-downtown-to-managed-portfolio",
-      "primary_url": "https://insights.ehotelier.com/properties/2026/07/29/stonebridge-adds-jw-marriott-atlanta-downtown-to-managed-portfolio/?utm_source=rss&utm_medium=rss&utm_campaign=stonebridge-adds-jw-marriott-atlanta-downtown-to-managed-portfolio",
-      "source": "eHotelier",
-      "source_name": "eHotelier",
-      "sources": [
-        {
-          "id": "hotelitem_ac782c35f4fe",
-          "title": "Stonebridge adds JW Marriott Atlanta Downtown to managed portfolio",
-          "url": "https://insights.ehotelier.com/properties/2026/07/29/stonebridge-adds-jw-marriott-atlanta-downtown-to-managed-portfolio/?utm_source=rss&utm_medium=rss&utm_campaign=stonebridge-adds-jw-marriott-atlanta-downtown-to-managed-portfolio",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-07-29T01:15:39Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "eHotelier"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_ac782c35f4fe",
-          "title": "Stonebridge adds JW Marriott Atlanta Downtown to managed portfolio",
-          "url": "https://insights.ehotelier.com/properties/2026/07/29/stonebridge-adds-jw-marriott-atlanta-downtown-to-managed-portfolio/?utm_source=rss&utm_medium=rss&utm_campaign=stonebridge-adds-jw-marriott-atlanta-downtown-to-managed-portfolio",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-07-29T01:15:39Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.9513,
-      "importance": 0.5961,
-      "importance_score": 0.9513,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9806,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-29T01:15:39Z",
-      "latest_at": "2026-07-29T01:15:39Z",
-      "primary_item": {
-        "id": "hotelitem_ac782c35f4fe",
-        "title": "Stonebridge adds JW Marriott Atlanta Downtown to managed portfolio",
-        "url": "https://insights.ehotelier.com/properties/2026/07/29/stonebridge-adds-jw-marriott-atlanta-downtown-to-managed-portfolio/?utm_source=rss&utm_medium=rss&utm_campaign=stonebridge-adds-jw-marriott-atlanta-downtown-to-managed-portfolio",
-        "source": "eHotelier",
-        "source_name": "eHotelier"
-      }
-    },
-    {
-      "story_id": "story_09ca3370c472",
-      "title": "Waikiki Beach Marriott unveils one of Waikiki’s largest indoor entertainment destinations",
-      "url": "https://insights.ehotelier.com/properties/2026/07/29/waikiki-beach-marriott-unveils-one-of-waikikis-largest-indoor-entertainment-destinations/?utm_source=rss&utm_medium=rss&utm_campaign=waikiki-beach-marriott-unveils-one-of-waikikis-largest-indoor-entertainment-destinations",
-      "primary_url": "https://insights.ehotelier.com/properties/2026/07/29/waikiki-beach-marriott-unveils-one-of-waikikis-largest-indoor-entertainment-destinations/?utm_source=rss&utm_medium=rss&utm_campaign=waikiki-beach-marriott-unveils-one-of-waikikis-largest-indoor-entertainment-destinations",
-      "source": "eHotelier",
-      "source_name": "eHotelier",
-      "sources": [
-        {
-          "id": "hotelitem_09ca3370c472",
-          "title": "Waikiki Beach Marriott unveils one of Waikiki’s largest indoor entertainment destinations",
-          "url": "https://insights.ehotelier.com/properties/2026/07/29/waikiki-beach-marriott-unveils-one-of-waikikis-largest-indoor-entertainment-destinations/?utm_source=rss&utm_medium=rss&utm_campaign=waikiki-beach-marriott-unveils-one-of-waikikis-largest-indoor-entertainment-destinations",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-07-29T01:20:47Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "eHotelier"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_09ca3370c472",
-          "title": "Waikiki Beach Marriott unveils one of Waikiki’s largest indoor entertainment destinations",
-          "url": "https://insights.ehotelier.com/properties/2026/07/29/waikiki-beach-marriott-unveils-one-of-waikikis-largest-indoor-entertainment-destinations/?utm_source=rss&utm_medium=rss&utm_campaign=waikiki-beach-marriott-unveils-one-of-waikikis-largest-indoor-entertainment-destinations",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-07-29T01:20:47Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.9513,
-      "importance": 0.5961,
-      "importance_score": 0.9513,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9806,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-29T01:20:47Z",
-      "latest_at": "2026-07-29T01:20:47Z",
-      "primary_item": {
-        "id": "hotelitem_09ca3370c472",
-        "title": "Waikiki Beach Marriott unveils one of Waikiki’s largest indoor entertainment destinations",
-        "url": "https://insights.ehotelier.com/properties/2026/07/29/waikiki-beach-marriott-unveils-one-of-waikikis-largest-indoor-entertainment-destinations/?utm_source=rss&utm_medium=rss&utm_campaign=waikiki-beach-marriott-unveils-one-of-waikikis-largest-indoor-entertainment-destinations",
-        "source": "eHotelier",
-        "source_name": "eHotelier"
-      }
-    },
-    {
-      "story_id": "story_225cdf55b171",
-      "title": "Robert Rechtermann appointed as General Manager at Sonesta White Plains Downtown",
-      "url": "https://insights.ehotelier.com/people/2026/07/29/robert-rechtermann-appointed-as-general-manager-at-sonesta-white-plains-downtown/?utm_source=rss&utm_medium=rss&utm_campaign=robert-rechtermann-appointed-as-general-manager-at-sonesta-white-plains-downtown",
-      "primary_url": "https://insights.ehotelier.com/people/2026/07/29/robert-rechtermann-appointed-as-general-manager-at-sonesta-white-plains-downtown/?utm_source=rss&utm_medium=rss&utm_campaign=robert-rechtermann-appointed-as-general-manager-at-sonesta-white-plains-downtown",
-      "source": "eHotelier",
-      "source_name": "eHotelier",
-      "sources": [
-        {
-          "id": "hotelitem_225cdf55b171",
-          "title": "Robert Rechtermann appointed as General Manager at Sonesta White Plains Downtown",
-          "url": "https://insights.ehotelier.com/people/2026/07/29/robert-rechtermann-appointed-as-general-manager-at-sonesta-white-plains-downtown/?utm_source=rss&utm_medium=rss&utm_campaign=robert-rechtermann-appointed-as-general-manager-at-sonesta-white-plains-downtown",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-07-29T01:30:47Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "eHotelier"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_225cdf55b171",
-          "title": "Robert Rechtermann appointed as General Manager at Sonesta White Plains Downtown",
-          "url": "https://insights.ehotelier.com/people/2026/07/29/robert-rechtermann-appointed-as-general-manager-at-sonesta-white-plains-downtown/?utm_source=rss&utm_medium=rss&utm_campaign=robert-rechtermann-appointed-as-general-manager-at-sonesta-white-plains-downtown",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-07-29T01:30:47Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.9513,
-      "importance": 0.5962,
-      "importance_score": 0.9513,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9808,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-29T01:30:47Z",
-      "latest_at": "2026-07-29T01:30:47Z",
-      "primary_item": {
-        "id": "hotelitem_225cdf55b171",
-        "title": "Robert Rechtermann appointed as General Manager at Sonesta White Plains Downtown",
-        "url": "https://insights.ehotelier.com/people/2026/07/29/robert-rechtermann-appointed-as-general-manager-at-sonesta-white-plains-downtown/?utm_source=rss&utm_medium=rss&utm_campaign=robert-rechtermann-appointed-as-general-manager-at-sonesta-white-plains-downtown",
-        "source": "eHotelier",
-        "source_name": "eHotelier"
-      }
-    },
-    {
-      "story_id": "story_fb9c420048d1",
-      "title": "Radisson Hotel Group and Accenture redefine travel discovery on ChatGPT",
-      "url": "https://insights.ehotelier.com/global-news/2026/07/29/radisson-hotel-group-and-accenture-redefine-travel-discovery-on-chatgpt/?utm_source=rss&utm_medium=rss&utm_campaign=radisson-hotel-group-and-accenture-redefine-travel-discovery-on-chatgpt",
-      "primary_url": "https://insights.ehotelier.com/global-news/2026/07/29/radisson-hotel-group-and-accenture-redefine-travel-discovery-on-chatgpt/?utm_source=rss&utm_medium=rss&utm_campaign=radisson-hotel-group-and-accenture-redefine-travel-discovery-on-chatgpt",
-      "source": "eHotelier",
-      "source_name": "eHotelier",
-      "sources": [
-        {
-          "id": "hotelitem_fb9c420048d1",
-          "title": "Radisson Hotel Group and Accenture redefine travel discovery on ChatGPT",
-          "url": "https://insights.ehotelier.com/global-news/2026/07/29/radisson-hotel-group-and-accenture-redefine-travel-discovery-on-chatgpt/?utm_source=rss&utm_medium=rss&utm_campaign=radisson-hotel-group-and-accenture-redefine-travel-discovery-on-chatgpt",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-07-29T01:40:26Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "eHotelier"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_fb9c420048d1",
-          "title": "Radisson Hotel Group and Accenture redefine travel discovery on ChatGPT",
-          "url": "https://insights.ehotelier.com/global-news/2026/07/29/radisson-hotel-group-and-accenture-redefine-travel-discovery-on-chatgpt/?utm_source=rss&utm_medium=rss&utm_campaign=radisson-hotel-group-and-accenture-redefine-travel-discovery-on-chatgpt",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-07-29T01:40:26Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.9513,
-      "importance": 0.5962,
-      "importance_score": 0.9513,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9809,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-29T01:40:26Z",
-      "latest_at": "2026-07-29T01:40:26Z",
-      "primary_item": {
-        "id": "hotelitem_fb9c420048d1",
-        "title": "Radisson Hotel Group and Accenture redefine travel discovery on ChatGPT",
-        "url": "https://insights.ehotelier.com/global-news/2026/07/29/radisson-hotel-group-and-accenture-redefine-travel-discovery-on-chatgpt/?utm_source=rss&utm_medium=rss&utm_campaign=radisson-hotel-group-and-accenture-redefine-travel-discovery-on-chatgpt",
-        "source": "eHotelier",
-        "source_name": "eHotelier"
       }
     },
     {
@@ -392,14 +156,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9502,
-      "importance": 0.595,
-      "importance_score": 0.9502,
+      "score": 0.9493,
+      "importance": 0.5941,
+      "importance_score": 0.9493,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9752,
+        "recency": 0.9703,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -451,14 +215,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9499,
-      "importance": 0.5948,
-      "importance_score": 0.9499,
+      "score": 0.949,
+      "importance": 0.5938,
+      "importance_score": 0.949,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9738,
+        "recency": 0.9689,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -510,14 +274,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9492,
-      "importance": 0.594,
-      "importance_score": 0.9492,
+      "score": 0.9483,
+      "importance": 0.593,
+      "importance_score": 0.9483,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9701,
+        "recency": 0.9652,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -549,7 +313,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-07-29T22:14:54.889277Z"
+          "published_at": "2026-07-30T03:32:08.452843Z"
         }
       ],
       "source_count": 1,
@@ -564,7 +328,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-07-29T22:14:54.889277Z"
+          "published_at": "2026-07-30T03:32:08.452843Z"
         }
       ],
       "item_count": 1,
@@ -583,8 +347,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-29T22:14:54.889277Z",
-      "latest_at": "2026-07-29T22:14:54.889277Z",
+      "earliest_at": "2026-07-30T03:32:08.452843Z",
+      "latest_at": "2026-07-30T03:32:08.452843Z",
       "primary_item": {
         "id": "hotelitem_9699887c72ea",
         "title": "中国旅游研究院与中青旅控股股份有限公司开展主题党日联学联",
@@ -628,14 +392,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9323,
-      "importance": 0.5764,
-      "importance_score": 0.9323,
+      "score": 0.9313,
+      "importance": 0.5754,
+      "importance_score": 0.9313,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8821,
+        "recency": 0.8772,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -687,14 +451,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.932,
-      "importance": 0.5761,
-      "importance_score": 0.932,
+      "score": 0.931,
+      "importance": 0.5751,
+      "importance_score": 0.931,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8806,
+        "recency": 0.8757,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -746,14 +510,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9277,
-      "importance": 0.5717,
-      "importance_score": 0.9277,
+      "score": 0.9268,
+      "importance": 0.5708,
+      "importance_score": 0.9268,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8587,
+        "recency": 0.8538,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -771,6 +535,65 @@
       }
     },
     {
+      "story_id": "story_b0a48c4a94aa",
+      "title": "Lancaster Landmark Hotel Company rebrands as The Landmark Collection",
+      "url": "https://boutiquehotelnews.com/news/industry/the-landmark-collection/?utm_source=rss&utm_medium=rss&utm_campaign=the-landmark-collection",
+      "primary_url": "https://boutiquehotelnews.com/news/industry/the-landmark-collection/?utm_source=rss&utm_medium=rss&utm_campaign=the-landmark-collection",
+      "source": "Boutique Hotel News",
+      "source_name": "Boutique Hotel News",
+      "sources": [
+        {
+          "id": "hotelitem_b0a48c4a94aa",
+          "title": "Lancaster Landmark Hotel Company rebrands as The Landmark Collection",
+          "url": "https://boutiquehotelnews.com/news/industry/the-landmark-collection/?utm_source=rss&utm_medium=rss&utm_campaign=the-landmark-collection",
+          "source": "Boutique Hotel News",
+          "source_name": "Boutique Hotel News",
+          "site_id": "boutiquehotel",
+          "published_at": "2026-07-24T09:06:26Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Boutique Hotel News"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_b0a48c4a94aa",
+          "title": "Lancaster Landmark Hotel Company rebrands as The Landmark Collection",
+          "url": "https://boutiquehotelnews.com/news/industry/the-landmark-collection/?utm_source=rss&utm_medium=rss&utm_campaign=the-landmark-collection",
+          "source": "Boutique Hotel News",
+          "source_name": "Boutique Hotel News",
+          "site_id": "boutiquehotel",
+          "published_at": "2026-07-24T09:06:26Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.9153,
+      "importance": 0.5744,
+      "importance_score": 0.9153,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.8718,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-24T09:06:26Z",
+      "latest_at": "2026-07-24T09:06:26Z",
+      "primary_item": {
+        "id": "hotelitem_b0a48c4a94aa",
+        "title": "Lancaster Landmark Hotel Company rebrands as The Landmark Collection",
+        "url": "https://boutiquehotelnews.com/news/industry/the-landmark-collection/?utm_source=rss&utm_medium=rss&utm_campaign=the-landmark-collection",
+        "source": "Boutique Hotel News",
+        "source_name": "Boutique Hotel News"
+      }
+    },
+    {
       "story_id": "story_c7c15b7680c9",
       "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
       "url": "https://www.chinahotel.org.cn/articles/17408",
@@ -785,7 +608,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-29T22:14:54.889277Z"
+          "published_at": "2026-07-30T03:32:08.452843Z"
         },
         {
           "id": "hotelitem_c7c15b7680c9",
@@ -794,7 +617,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-29T22:14:54.889277Z"
+          "published_at": "2026-07-30T03:32:08.452843Z"
         },
         {
           "id": "hotelitem_6d8fa145e8af",
@@ -803,7 +626,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-29T22:14:54.889277Z"
+          "published_at": "2026-07-30T03:32:08.452843Z"
         }
       ],
       "source_count": 3,
@@ -818,7 +641,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-29T22:14:54.889277Z"
+          "published_at": "2026-07-30T03:32:08.452843Z"
         },
         {
           "id": "hotelitem_c7c15b7680c9",
@@ -827,7 +650,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-29T22:14:54.889277Z"
+          "published_at": "2026-07-30T03:32:08.452843Z"
         },
         {
           "id": "hotelitem_6d8fa145e8af",
@@ -836,7 +659,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-29T22:14:54.889277Z"
+          "published_at": "2026-07-30T03:32:08.452843Z"
         }
       ],
       "item_count": 3,
@@ -856,8 +679,8 @@
         "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-29T22:14:54.889277Z",
-      "latest_at": "2026-07-29T22:14:54.889277Z",
+      "earliest_at": "2026-07-30T03:32:08.452843Z",
+      "latest_at": "2026-07-30T03:32:08.452843Z",
       "primary_item": {
         "id": "hotelitem_d4370964909c",
         "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
@@ -901,14 +724,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9002,
-      "importance": 0.5768,
-      "importance_score": 0.9002,
+      "score": 0.8992,
+      "importance": 0.5759,
+      "importance_score": 0.8992,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8842,
+        "recency": 0.8793,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -960,14 +783,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8752,
-      "importance": 0.5976,
-      "importance_score": 0.8752,
+      "score": 0.8742,
+      "importance": 0.5966,
+      "importance_score": 0.8742,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9878,
+        "recency": 0.9829,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -985,21 +808,21 @@
       }
     },
     {
-      "story_id": "story_e514daf1d37f",
-      "title": "Christopher Jeffrey-Racine appointed as Business Development Manager for Québec at AIC Hotel Group",
-      "url": "https://insights.ehotelier.com/people/2026/07/29/christopher-jeffrey-racine-appointed-as-business-development-manager-for-quebec-at-aic-hotel-group/?utm_source=rss&utm_medium=rss&utm_campaign=christopher-jeffrey-racine-appointed-as-business-development-manager-for-quebec-at-aic-hotel-group",
-      "primary_url": "https://insights.ehotelier.com/people/2026/07/29/christopher-jeffrey-racine-appointed-as-business-development-manager-for-quebec-at-aic-hotel-group/?utm_source=rss&utm_medium=rss&utm_campaign=christopher-jeffrey-racine-appointed-as-business-development-manager-for-quebec-at-aic-hotel-group",
+      "story_id": "story_20403a8b4584",
+      "title": "WTTC unveils seven principles to help destinations turn tourism growth into shared prosperity",
+      "url": "https://insights.ehotelier.com/global-news/2026/07/30/wttc-unveils-seven-principles-to-help-destinations-turn-tourism-growth-into-shared-prosperity/?utm_source=rss&utm_medium=rss&utm_campaign=wttc-unveils-seven-principles-to-help-destinations-turn-tourism-growth-into-shared-prosperity",
+      "primary_url": "https://insights.ehotelier.com/global-news/2026/07/30/wttc-unveils-seven-principles-to-help-destinations-turn-tourism-growth-into-shared-prosperity/?utm_source=rss&utm_medium=rss&utm_campaign=wttc-unveils-seven-principles-to-help-destinations-turn-tourism-growth-into-shared-prosperity",
       "source": "eHotelier",
       "source_name": "eHotelier",
       "sources": [
         {
-          "id": "hotelitem_e514daf1d37f",
-          "title": "Christopher Jeffrey-Racine appointed as Business Development Manager for Québec at AIC Hotel Group",
-          "url": "https://insights.ehotelier.com/people/2026/07/29/christopher-jeffrey-racine-appointed-as-business-development-manager-for-quebec-at-aic-hotel-group/?utm_source=rss&utm_medium=rss&utm_campaign=christopher-jeffrey-racine-appointed-as-business-development-manager-for-quebec-at-aic-hotel-group",
+          "id": "hotelitem_20403a8b4584",
+          "title": "WTTC unveils seven principles to help destinations turn tourism growth into shared prosperity",
+          "url": "https://insights.ehotelier.com/global-news/2026/07/30/wttc-unveils-seven-principles-to-help-destinations-turn-tourism-growth-into-shared-prosperity/?utm_source=rss&utm_medium=rss&utm_campaign=wttc-unveils-seven-principles-to-help-destinations-turn-tourism-growth-into-shared-prosperity",
           "source": "eHotelier",
           "source_name": "eHotelier",
           "site_id": "ehotelier",
-          "published_at": "2026-07-29T01:25:13Z"
+          "published_at": "2026-07-30T01:40:05Z"
         }
       ],
       "source_count": 1,
@@ -1008,57 +831,57 @@
       ],
       "items": [
         {
-          "id": "hotelitem_e514daf1d37f",
-          "title": "Christopher Jeffrey-Racine appointed as Business Development Manager for Québec at AIC Hotel Group",
-          "url": "https://insights.ehotelier.com/people/2026/07/29/christopher-jeffrey-racine-appointed-as-business-development-manager-for-quebec-at-aic-hotel-group/?utm_source=rss&utm_medium=rss&utm_campaign=christopher-jeffrey-racine-appointed-as-business-development-manager-for-quebec-at-aic-hotel-group",
+          "id": "hotelitem_20403a8b4584",
+          "title": "WTTC unveils seven principles to help destinations turn tourism growth into shared prosperity",
+          "url": "https://insights.ehotelier.com/global-news/2026/07/30/wttc-unveils-seven-principles-to-help-destinations-turn-tourism-growth-into-shared-prosperity/?utm_source=rss&utm_medium=rss&utm_campaign=wttc-unveils-seven-principles-to-help-destinations-turn-tourism-growth-into-shared-prosperity",
           "source": "eHotelier",
           "source_name": "eHotelier",
           "site_id": "ehotelier",
-          "published_at": "2026-07-29T01:25:13Z"
+          "published_at": "2026-07-30T01:40:05Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8613,
-      "importance": 0.5961,
-      "importance_score": 0.8613,
+      "score": 0.8647,
+      "importance": 0.5997,
+      "importance_score": 0.8647,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9807,
+        "recency": 0.9983,
         "story_heat": 0.0
       },
       "category": "watch",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-29T01:25:13Z",
-      "latest_at": "2026-07-29T01:25:13Z",
+      "earliest_at": "2026-07-30T01:40:05Z",
+      "latest_at": "2026-07-30T01:40:05Z",
       "primary_item": {
-        "id": "hotelitem_e514daf1d37f",
-        "title": "Christopher Jeffrey-Racine appointed as Business Development Manager for Québec at AIC Hotel Group",
-        "url": "https://insights.ehotelier.com/people/2026/07/29/christopher-jeffrey-racine-appointed-as-business-development-manager-for-quebec-at-aic-hotel-group/?utm_source=rss&utm_medium=rss&utm_campaign=christopher-jeffrey-racine-appointed-as-business-development-manager-for-quebec-at-aic-hotel-group",
+        "id": "hotelitem_20403a8b4584",
+        "title": "WTTC unveils seven principles to help destinations turn tourism growth into shared prosperity",
+        "url": "https://insights.ehotelier.com/global-news/2026/07/30/wttc-unveils-seven-principles-to-help-destinations-turn-tourism-growth-into-shared-prosperity/?utm_source=rss&utm_medium=rss&utm_campaign=wttc-unveils-seven-principles-to-help-destinations-turn-tourism-growth-into-shared-prosperity",
         "source": "eHotelier",
         "source_name": "eHotelier"
       }
     },
     {
-      "story_id": "story_e8c064c5c897",
-      "title": "Stop Guessing : Give Your Team Real Wine Confidence",
-      "url": "https://insights.ehotelier.com/announcements/2026/07/29/stop-guessing-give-your-team-real-wine-confidence/?utm_source=rss&utm_medium=rss&utm_campaign=stop-guessing-give-your-team-real-wine-confidence",
-      "primary_url": "https://insights.ehotelier.com/announcements/2026/07/29/stop-guessing-give-your-team-real-wine-confidence/?utm_source=rss&utm_medium=rss&utm_campaign=stop-guessing-give-your-team-real-wine-confidence",
+      "story_id": "story_1389cf2e72b6",
+      "title": "Dusit’s Doha properties strengthen their position as leading dining destinations in Qatar",
+      "url": "https://insights.ehotelier.com/global-news/2026/07/30/dusits-doha-properties-strengthen-their-position-as-leading-dining-destinations-in-qatar/?utm_source=rss&utm_medium=rss&utm_campaign=dusits-doha-properties-strengthen-their-position-as-leading-dining-destinations-in-qatar",
+      "primary_url": "https://insights.ehotelier.com/global-news/2026/07/30/dusits-doha-properties-strengthen-their-position-as-leading-dining-destinations-in-qatar/?utm_source=rss&utm_medium=rss&utm_campaign=dusits-doha-properties-strengthen-their-position-as-leading-dining-destinations-in-qatar",
       "source": "eHotelier",
       "source_name": "eHotelier",
       "sources": [
         {
-          "id": "hotelitem_e8c064c5c897",
-          "title": "Stop Guessing : Give Your Team Real Wine Confidence",
-          "url": "https://insights.ehotelier.com/announcements/2026/07/29/stop-guessing-give-your-team-real-wine-confidence/?utm_source=rss&utm_medium=rss&utm_campaign=stop-guessing-give-your-team-real-wine-confidence",
+          "id": "hotelitem_1389cf2e72b6",
+          "title": "Dusit’s Doha properties strengthen their position as leading dining destinations in Qatar",
+          "url": "https://insights.ehotelier.com/global-news/2026/07/30/dusits-doha-properties-strengthen-their-position-as-leading-dining-destinations-in-qatar/?utm_source=rss&utm_medium=rss&utm_campaign=dusits-doha-properties-strengthen-their-position-as-leading-dining-destinations-in-qatar",
           "source": "eHotelier",
           "source_name": "eHotelier",
           "site_id": "ehotelier",
-          "published_at": "2026-07-28T23:00:04Z"
+          "published_at": "2026-07-30T01:46:27Z"
         }
       ],
       "source_count": 1,
@@ -1067,37 +890,96 @@
       ],
       "items": [
         {
-          "id": "hotelitem_e8c064c5c897",
-          "title": "Stop Guessing : Give Your Team Real Wine Confidence",
-          "url": "https://insights.ehotelier.com/announcements/2026/07/29/stop-guessing-give-your-team-real-wine-confidence/?utm_source=rss&utm_medium=rss&utm_campaign=stop-guessing-give-your-team-real-wine-confidence",
+          "id": "hotelitem_1389cf2e72b6",
+          "title": "Dusit’s Doha properties strengthen their position as leading dining destinations in Qatar",
+          "url": "https://insights.ehotelier.com/global-news/2026/07/30/dusits-doha-properties-strengthen-their-position-as-leading-dining-destinations-in-qatar/?utm_source=rss&utm_medium=rss&utm_campaign=dusits-doha-properties-strengthen-their-position-as-leading-dining-destinations-in-qatar",
           "source": "eHotelier",
           "source_name": "eHotelier",
           "site_id": "ehotelier",
-          "published_at": "2026-07-28T23:00:04Z"
+          "published_at": "2026-07-30T01:46:27Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8608,
-      "importance": 0.5957,
-      "importance_score": 0.8608,
+      "score": 0.8647,
+      "importance": 0.5997,
+      "importance_score": 0.8647,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9785,
+        "recency": 0.9984,
         "story_heat": 0.0
       },
       "category": "watch",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-28T23:00:04Z",
-      "latest_at": "2026-07-28T23:00:04Z",
+      "earliest_at": "2026-07-30T01:46:27Z",
+      "latest_at": "2026-07-30T01:46:27Z",
       "primary_item": {
-        "id": "hotelitem_e8c064c5c897",
-        "title": "Stop Guessing : Give Your Team Real Wine Confidence",
-        "url": "https://insights.ehotelier.com/announcements/2026/07/29/stop-guessing-give-your-team-real-wine-confidence/?utm_source=rss&utm_medium=rss&utm_campaign=stop-guessing-give-your-team-real-wine-confidence",
+        "id": "hotelitem_1389cf2e72b6",
+        "title": "Dusit’s Doha properties strengthen their position as leading dining destinations in Qatar",
+        "url": "https://insights.ehotelier.com/global-news/2026/07/30/dusits-doha-properties-strengthen-their-position-as-leading-dining-destinations-in-qatar/?utm_source=rss&utm_medium=rss&utm_campaign=dusits-doha-properties-strengthen-their-position-as-leading-dining-destinations-in-qatar",
+        "source": "eHotelier",
+        "source_name": "eHotelier"
+      }
+    },
+    {
+      "story_id": "story_4bcbca5977b8",
+      "title": "5 tips for mouthwatering food photography and the impact of visual menus on F&B revenue",
+      "url": "https://insights.ehotelier.com/uncategorised/2026/07/30/5-tips-for-mouthwatering-food-photography-and-the-impact-of-visual-menus-on-fb-revenue/?utm_source=rss&utm_medium=rss&utm_campaign=5-tips-for-mouthwatering-food-photography-and-the-impact-of-visual-menus-on-fb-revenue",
+      "primary_url": "https://insights.ehotelier.com/uncategorised/2026/07/30/5-tips-for-mouthwatering-food-photography-and-the-impact-of-visual-menus-on-fb-revenue/?utm_source=rss&utm_medium=rss&utm_campaign=5-tips-for-mouthwatering-food-photography-and-the-impact-of-visual-menus-on-fb-revenue",
+      "source": "eHotelier",
+      "source_name": "eHotelier",
+      "sources": [
+        {
+          "id": "hotelitem_4bcbca5977b8",
+          "title": "5 tips for mouthwatering food photography and the impact of visual menus on F&B revenue",
+          "url": "https://insights.ehotelier.com/uncategorised/2026/07/30/5-tips-for-mouthwatering-food-photography-and-the-impact-of-visual-menus-on-fb-revenue/?utm_source=rss&utm_medium=rss&utm_campaign=5-tips-for-mouthwatering-food-photography-and-the-impact-of-visual-menus-on-fb-revenue",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-07-30T01:55:15Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "eHotelier"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_4bcbca5977b8",
+          "title": "5 tips for mouthwatering food photography and the impact of visual menus on F&B revenue",
+          "url": "https://insights.ehotelier.com/uncategorised/2026/07/30/5-tips-for-mouthwatering-food-photography-and-the-impact-of-visual-menus-on-fb-revenue/?utm_source=rss&utm_medium=rss&utm_campaign=5-tips-for-mouthwatering-food-photography-and-the-impact-of-visual-menus-on-fb-revenue",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-07-30T01:55:15Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8647,
+      "importance": 0.5997,
+      "importance_score": 0.8647,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9985,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-30T01:55:15Z",
+      "latest_at": "2026-07-30T01:55:15Z",
+      "primary_item": {
+        "id": "hotelitem_4bcbca5977b8",
+        "title": "5 tips for mouthwatering food photography and the impact of visual menus on F&B revenue",
+        "url": "https://insights.ehotelier.com/uncategorised/2026/07/30/5-tips-for-mouthwatering-food-photography-and-the-impact-of-visual-menus-on-fb-revenue/?utm_source=rss&utm_medium=rss&utm_campaign=5-tips-for-mouthwatering-food-photography-and-the-impact-of-visual-menus-on-fb-revenue",
         "source": "eHotelier",
         "source_name": "eHotelier"
       }
@@ -1117,7 +999,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-29T22:14:54.889277Z"
+          "published_at": "2026-07-30T03:32:08.452843Z"
         },
         {
           "id": "hotelitem_816c6fb1ed6e",
@@ -1126,7 +1008,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-29T22:14:54.889277Z"
+          "published_at": "2026-07-30T03:32:08.452843Z"
         }
       ],
       "source_count": 2,
@@ -1141,7 +1023,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-29T22:14:54.889277Z"
+          "published_at": "2026-07-30T03:32:08.452843Z"
         },
         {
           "id": "hotelitem_816c6fb1ed6e",
@@ -1150,7 +1032,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-29T22:14:54.889277Z"
+          "published_at": "2026-07-30T03:32:08.452843Z"
         }
       ],
       "item_count": 2,
@@ -1170,8 +1052,8 @@
         "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-29T22:14:54.889277Z",
-      "latest_at": "2026-07-29T22:14:54.889277Z",
+      "earliest_at": "2026-07-30T03:32:08.452843Z",
+      "latest_at": "2026-07-30T03:32:08.452843Z",
       "primary_item": {
         "id": "hotelitem_3e02fd1a1636",
         "title": "指数发布 | 中国住宿业消费指数报告（2026年上半年）发布 为贯彻落实提振消费相关政策，真实反映中国住宿餐饮业市场消费情况，以数据引导促消费政策精准发力，为行业发展提供参考建议，中国饭店协会每月公开发布“中国饭店业消费指数体系”，包含“中国住宿业消费指数（China Hotel Industry Consumption Index, HCI）”与“中国餐饮业消费指数(China Catering Industry Consumption Index, CCI)”，欢迎关注。\n本篇发布的是“中国住宿业消费指数”。",
@@ -1195,7 +1077,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-07-29T22:14:54.889277Z"
+          "published_at": "2026-07-30T03:32:08.452843Z"
         }
       ],
       "source_count": 1,
@@ -1210,7 +1092,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-07-29T22:14:54.889277Z"
+          "published_at": "2026-07-30T03:32:08.452843Z"
         }
       ],
       "item_count": 1,
@@ -1229,8 +1111,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-29T22:14:54.889277Z",
-      "latest_at": "2026-07-29T22:14:54.889277Z",
+      "earliest_at": "2026-07-30T03:32:08.452843Z",
+      "latest_at": "2026-07-30T03:32:08.452843Z",
       "primary_item": {
         "id": "hotelitem_e4ce0593c384",
         "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
@@ -1254,7 +1136,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-07-29T22:14:54.889277Z"
+          "published_at": "2026-07-30T03:32:08.452843Z"
         }
       ],
       "source_count": 1,
@@ -1269,7 +1151,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-07-29T22:14:54.889277Z"
+          "published_at": "2026-07-30T03:32:08.452843Z"
         }
       ],
       "item_count": 1,
@@ -1288,8 +1170,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-29T22:14:54.889277Z",
-      "latest_at": "2026-07-29T22:14:54.889277Z",
+      "earliest_at": "2026-07-30T03:32:08.452843Z",
+      "latest_at": "2026-07-30T03:32:08.452843Z",
       "primary_item": {
         "id": "hotelitem_fa34986b4fc0",
         "title": "文化和旅游部、金融监管总局关于警惕借“保...",
@@ -1313,7 +1195,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-07-29T22:14:54.889277Z"
+          "published_at": "2026-07-30T03:32:08.452843Z"
         }
       ],
       "source_count": 1,
@@ -1328,7 +1210,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-07-29T22:14:54.889277Z"
+          "published_at": "2026-07-30T03:32:08.452843Z"
         }
       ],
       "item_count": 1,
@@ -1347,73 +1229,14 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-29T22:14:54.889277Z",
-      "latest_at": "2026-07-29T22:14:54.889277Z",
+      "earliest_at": "2026-07-30T03:32:08.452843Z",
+      "latest_at": "2026-07-30T03:32:08.452843Z",
       "primary_item": {
         "id": "hotelitem_9a958319a874",
         "title": "文化和旅游部印发《旅游强国建设“十五五”...",
         "url": "https://www.mct.gov.cn/whzx/whyw/202607/t20260708_966448.htm",
         "source": "文化和旅游部",
         "source_name": "文化和旅游部"
-      }
-    },
-    {
-      "story_id": "story_47bc8ac38111",
-      "title": "China’s Hotel Investment Surge Isn’t Just a Distress Sale Story",
-      "url": "https://skift.com/2026/07/27/chinas-hotel-investment-surge-isnt-just-a-distress-sale-story/",
-      "primary_url": "https://skift.com/2026/07/27/chinas-hotel-investment-surge-isnt-just-a-distress-sale-story/",
-      "source": "Skift Hospitality",
-      "source_name": "Skift Hospitality",
-      "sources": [
-        {
-          "id": "hotelitem_47bc8ac38111",
-          "title": "China’s Hotel Investment Surge Isn’t Just a Distress Sale Story",
-          "url": "https://skift.com/2026/07/27/chinas-hotel-investment-surge-isnt-just-a-distress-sale-story/",
-          "source": "Skift Hospitality",
-          "source_name": "Skift Hospitality",
-          "site_id": "skift",
-          "published_at": "2026-07-27T14:11:55Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Skift Hospitality"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_47bc8ac38111",
-          "title": "China’s Hotel Investment Surge Isn’t Just a Distress Sale Story",
-          "url": "https://skift.com/2026/07/27/chinas-hotel-investment-surge-isnt-just-a-distress-sale-story/",
-          "source": "Skift Hospitality",
-          "source_name": "Skift Hospitality",
-          "site_id": "skift",
-          "published_at": "2026-07-27T14:11:55Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.855,
-      "importance": 0.5896,
-      "importance_score": 0.855,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9481,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-27T14:11:55Z",
-      "latest_at": "2026-07-27T14:11:55Z",
-      "primary_item": {
-        "id": "hotelitem_47bc8ac38111",
-        "title": "China’s Hotel Investment Surge Isn’t Just a Distress Sale Story",
-        "url": "https://skift.com/2026/07/27/chinas-hotel-investment-surge-isnt-just-a-distress-sale-story/",
-        "source": "Skift Hospitality",
-        "source_name": "Skift Hospitality"
       }
     },
     {
@@ -1451,14 +1274,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.855,
-      "importance": 0.5896,
-      "importance_score": 0.855,
+      "score": 0.8541,
+      "importance": 0.5887,
+      "importance_score": 0.8541,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9482,
+        "recency": 0.9433,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1473,6 +1296,124 @@
         "url": "https://www.hoteldive.com/news/hotel-construction-pipeline-q2-2026/826231/",
         "source": "Hotel Dive",
         "source_name": "Hotel Dive"
+      }
+    },
+    {
+      "story_id": "story_47bc8ac38111",
+      "title": "China’s Hotel Investment Surge Isn’t Just a Distress Sale Story",
+      "url": "https://skift.com/2026/07/27/chinas-hotel-investment-surge-isnt-just-a-distress-sale-story/",
+      "primary_url": "https://skift.com/2026/07/27/chinas-hotel-investment-surge-isnt-just-a-distress-sale-story/",
+      "source": "Skift Hospitality",
+      "source_name": "Skift Hospitality",
+      "sources": [
+        {
+          "id": "hotelitem_47bc8ac38111",
+          "title": "China’s Hotel Investment Surge Isn’t Just a Distress Sale Story",
+          "url": "https://skift.com/2026/07/27/chinas-hotel-investment-surge-isnt-just-a-distress-sale-story/",
+          "source": "Skift Hospitality",
+          "source_name": "Skift Hospitality",
+          "site_id": "skift",
+          "published_at": "2026-07-27T14:11:55Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Skift Hospitality"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_47bc8ac38111",
+          "title": "China’s Hotel Investment Surge Isn’t Just a Distress Sale Story",
+          "url": "https://skift.com/2026/07/27/chinas-hotel-investment-surge-isnt-just-a-distress-sale-story/",
+          "source": "Skift Hospitality",
+          "source_name": "Skift Hospitality",
+          "site_id": "skift",
+          "published_at": "2026-07-27T14:11:55Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.854,
+      "importance": 0.5886,
+      "importance_score": 0.854,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9432,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-27T14:11:55Z",
+      "latest_at": "2026-07-27T14:11:55Z",
+      "primary_item": {
+        "id": "hotelitem_47bc8ac38111",
+        "title": "China’s Hotel Investment Surge Isn’t Just a Distress Sale Story",
+        "url": "https://skift.com/2026/07/27/chinas-hotel-investment-surge-isnt-just-a-distress-sale-story/",
+        "source": "Skift Hospitality",
+        "source_name": "Skift Hospitality"
+      }
+    },
+    {
+      "story_id": "story_3411aa3db817",
+      "title": "WorldHotels adds first branded residence property in Vietnam",
+      "url": "https://boutiquehotelnews.com/news/industry/worldhotels-branded-residence-vietnam/?utm_source=rss&utm_medium=rss&utm_campaign=worldhotels-branded-residence-vietnam",
+      "primary_url": "https://boutiquehotelnews.com/news/industry/worldhotels-branded-residence-vietnam/?utm_source=rss&utm_medium=rss&utm_campaign=worldhotels-branded-residence-vietnam",
+      "source": "Boutique Hotel News",
+      "source_name": "Boutique Hotel News",
+      "sources": [
+        {
+          "id": "hotelitem_3411aa3db817",
+          "title": "WorldHotels adds first branded residence property in Vietnam",
+          "url": "https://boutiquehotelnews.com/news/industry/worldhotels-branded-residence-vietnam/?utm_source=rss&utm_medium=rss&utm_campaign=worldhotels-branded-residence-vietnam",
+          "source": "Boutique Hotel News",
+          "source_name": "Boutique Hotel News",
+          "site_id": "boutiquehotel",
+          "published_at": "2026-07-28T09:30:18Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Boutique Hotel News"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_3411aa3db817",
+          "title": "WorldHotels adds first branded residence property in Vietnam",
+          "url": "https://boutiquehotelnews.com/news/industry/worldhotels-branded-residence-vietnam/?utm_source=rss&utm_medium=rss&utm_campaign=worldhotels-branded-residence-vietnam",
+          "source": "Boutique Hotel News",
+          "source_name": "Boutique Hotel News",
+          "site_id": "boutiquehotel",
+          "published_at": "2026-07-28T09:30:18Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8425,
+      "importance": 0.5922,
+      "importance_score": 0.8425,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9611,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-28T09:30:18Z",
+      "latest_at": "2026-07-28T09:30:18Z",
+      "primary_item": {
+        "id": "hotelitem_3411aa3db817",
+        "title": "WorldHotels adds first branded residence property in Vietnam",
+        "url": "https://boutiquehotelnews.com/news/industry/worldhotels-branded-residence-vietnam/?utm_source=rss&utm_medium=rss&utm_campaign=worldhotels-branded-residence-vietnam",
+        "source": "Boutique Hotel News",
+        "source_name": "Boutique Hotel News"
       }
     },
     {
@@ -1510,14 +1451,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8423,
-      "importance": 0.5765,
-      "importance_score": 0.8423,
+      "score": 0.8414,
+      "importance": 0.5755,
+      "importance_score": 0.8414,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8823,
+        "recency": 0.8774,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1532,65 +1473,6 @@
         "url": "https://skift.com/2026/07/24/wildfire-risk-is-increasing-rising-insurance-costs-are-pushing-hotels-to-prepare/",
         "source": "Skift Hospitality",
         "source_name": "Skift Hospitality"
-      }
-    },
-    {
-      "story_id": "story_1d3210f13e06",
-      "title": "无人酒店：是流量噱头，还是长久盈利之道？",
-      "url": "https://www.traveldaily.cn/article/190386",
-      "primary_url": "https://www.traveldaily.cn/article/190386",
-      "source": "环球旅讯 TravelDaily",
-      "source_name": "环球旅讯 TravelDaily",
-      "sources": [
-        {
-          "id": "hotelitem_1d3210f13e06",
-          "title": "无人酒店：是流量噱头，还是长久盈利之道？",
-          "url": "https://www.traveldaily.cn/article/190386",
-          "source": "环球旅讯 TravelDaily",
-          "source_name": "环球旅讯 TravelDaily",
-          "site_id": "traveldaily",
-          "published_at": "2026-07-14T08:48:44Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "环球旅讯 TravelDaily"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_1d3210f13e06",
-          "title": "无人酒店：是流量噱头，还是长久盈利之道？",
-          "url": "https://www.traveldaily.cn/article/190386",
-          "source": "环球旅讯 TravelDaily",
-          "source_name": "环球旅讯 TravelDaily",
-          "site_id": "traveldaily",
-          "published_at": "2026-07-14T08:48:44Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8367,
-      "importance": 0.5308,
-      "importance_score": 0.8367,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.6542,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-14T08:48:44Z",
-      "latest_at": "2026-07-14T08:48:44Z",
-      "primary_item": {
-        "id": "hotelitem_1d3210f13e06",
-        "title": "无人酒店：是流量噱头，还是长久盈利之道？",
-        "url": "https://www.traveldaily.cn/article/190386",
-        "source": "环球旅讯 TravelDaily",
-        "source_name": "环球旅讯 TravelDaily"
       }
     },
     {
@@ -1628,14 +1510,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8366,
-      "importance": 0.5705,
-      "importance_score": 0.8366,
+      "score": 0.8356,
+      "importance": 0.5695,
+      "importance_score": 0.8356,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8525,
+        "recency": 0.8477,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1650,6 +1532,183 @@
         "url": "https://skift.com/2026/07/23/inside-one-of-the-worlds-most-remote-luxury-hotels/",
         "source": "Skift Hospitality",
         "source_name": "Skift Hospitality"
+      }
+    },
+    {
+      "story_id": "story_65f5e43c1c1f",
+      "title": "HMRC files winding-up petition against Avison Young",
+      "url": "https://boutiquehotelnews.com/news/industry/hmrc-avison-young/?utm_source=rss&utm_medium=rss&utm_campaign=hmrc-avison-young",
+      "primary_url": "https://boutiquehotelnews.com/news/industry/hmrc-avison-young/?utm_source=rss&utm_medium=rss&utm_campaign=hmrc-avison-young",
+      "source": "Boutique Hotel News",
+      "source_name": "Boutique Hotel News",
+      "sources": [
+        {
+          "id": "hotelitem_65f5e43c1c1f",
+          "title": "HMRC files winding-up petition against Avison Young",
+          "url": "https://boutiquehotelnews.com/news/industry/hmrc-avison-young/?utm_source=rss&utm_medium=rss&utm_campaign=hmrc-avison-young",
+          "source": "Boutique Hotel News",
+          "source_name": "Boutique Hotel News",
+          "site_id": "boutiquehotel",
+          "published_at": "2026-07-24T08:14:34Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Boutique Hotel News"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_65f5e43c1c1f",
+          "title": "HMRC files winding-up petition against Avison Young",
+          "url": "https://boutiquehotelnews.com/news/industry/hmrc-avison-young/?utm_source=rss&utm_medium=rss&utm_campaign=hmrc-avison-young",
+          "source": "Boutique Hotel News",
+          "source_name": "Boutique Hotel News",
+          "site_id": "boutiquehotel",
+          "published_at": "2026-07-24T08:14:34Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8251,
+      "importance": 0.5742,
+      "importance_score": 0.8251,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.871,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-24T08:14:34Z",
+      "latest_at": "2026-07-24T08:14:34Z",
+      "primary_item": {
+        "id": "hotelitem_65f5e43c1c1f",
+        "title": "HMRC files winding-up petition against Avison Young",
+        "url": "https://boutiquehotelnews.com/news/industry/hmrc-avison-young/?utm_source=rss&utm_medium=rss&utm_campaign=hmrc-avison-young",
+        "source": "Boutique Hotel News",
+        "source_name": "Boutique Hotel News"
+      }
+    },
+    {
+      "story_id": "story_00c14c000469",
+      "title": "Viceroy partners with Pearlstone to launch residences in Texas",
+      "url": "https://boutiquehotelnews.com/news/branded-residences/viceroy-pearlstone-residences-texas/?utm_source=rss&utm_medium=rss&utm_campaign=viceroy-pearlstone-residences-texas",
+      "primary_url": "https://boutiquehotelnews.com/news/branded-residences/viceroy-pearlstone-residences-texas/?utm_source=rss&utm_medium=rss&utm_campaign=viceroy-pearlstone-residences-texas",
+      "source": "Boutique Hotel News",
+      "source_name": "Boutique Hotel News",
+      "sources": [
+        {
+          "id": "hotelitem_00c14c000469",
+          "title": "Viceroy partners with Pearlstone to launch residences in Texas",
+          "url": "https://boutiquehotelnews.com/news/branded-residences/viceroy-pearlstone-residences-texas/?utm_source=rss&utm_medium=rss&utm_campaign=viceroy-pearlstone-residences-texas",
+          "source": "Boutique Hotel News",
+          "source_name": "Boutique Hotel News",
+          "site_id": "boutiquehotel",
+          "published_at": "2026-07-23T09:10:20Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Boutique Hotel News"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_00c14c000469",
+          "title": "Viceroy partners with Pearlstone to launch residences in Texas",
+          "url": "https://boutiquehotelnews.com/news/branded-residences/viceroy-pearlstone-residences-texas/?utm_source=rss&utm_medium=rss&utm_campaign=viceroy-pearlstone-residences-texas",
+          "source": "Boutique Hotel News",
+          "source_name": "Boutique Hotel News",
+          "site_id": "boutiquehotel",
+          "published_at": "2026-07-23T09:10:20Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.821,
+      "importance": 0.5699,
+      "importance_score": 0.821,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.8497,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-23T09:10:20Z",
+      "latest_at": "2026-07-23T09:10:20Z",
+      "primary_item": {
+        "id": "hotelitem_00c14c000469",
+        "title": "Viceroy partners with Pearlstone to launch residences in Texas",
+        "url": "https://boutiquehotelnews.com/news/branded-residences/viceroy-pearlstone-residences-texas/?utm_source=rss&utm_medium=rss&utm_campaign=viceroy-pearlstone-residences-texas",
+        "source": "Boutique Hotel News",
+        "source_name": "Boutique Hotel News"
+      }
+    },
+    {
+      "story_id": "story_0033aa6466dc",
+      "title": "Why proactive hotel operations begin with a Connected PMS",
+      "url": "https://insights.ehotelier.com/insights/2026/07/30/why-proactive-hotel-operations-begin-with-a-connected-pms/?utm_source=rss&utm_medium=rss&utm_campaign=why-proactive-hotel-operations-begin-with-a-connected-pms",
+      "primary_url": "https://insights.ehotelier.com/insights/2026/07/30/why-proactive-hotel-operations-begin-with-a-connected-pms/?utm_source=rss&utm_medium=rss&utm_campaign=why-proactive-hotel-operations-begin-with-a-connected-pms",
+      "source": "eHotelier",
+      "source_name": "eHotelier",
+      "sources": [
+        {
+          "id": "hotelitem_0033aa6466dc",
+          "title": "Why proactive hotel operations begin with a Connected PMS",
+          "url": "https://insights.ehotelier.com/insights/2026/07/30/why-proactive-hotel-operations-begin-with-a-connected-pms/?utm_source=rss&utm_medium=rss&utm_campaign=why-proactive-hotel-operations-begin-with-a-connected-pms",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-07-30T02:00:08Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "eHotelier"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_0033aa6466dc",
+          "title": "Why proactive hotel operations begin with a Connected PMS",
+          "url": "https://insights.ehotelier.com/insights/2026/07/30/why-proactive-hotel-operations-begin-with-a-connected-pms/?utm_source=rss&utm_medium=rss&utm_campaign=why-proactive-hotel-operations-begin-with-a-connected-pms",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-07-30T02:00:08Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8197,
+      "importance": 0.5997,
+      "importance_score": 0.8197,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9986,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-30T02:00:08Z",
+      "latest_at": "2026-07-30T02:00:08Z",
+      "primary_item": {
+        "id": "hotelitem_0033aa6466dc",
+        "title": "Why proactive hotel operations begin with a Connected PMS",
+        "url": "https://insights.ehotelier.com/insights/2026/07/30/why-proactive-hotel-operations-begin-with-a-connected-pms/?utm_source=rss&utm_medium=rss&utm_campaign=why-proactive-hotel-operations-begin-with-a-connected-pms",
+        "source": "eHotelier",
+        "source_name": "eHotelier"
       }
     },
     {
@@ -1687,14 +1746,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8184,
-      "importance": 0.5983,
-      "importance_score": 0.8184,
+      "score": 0.8175,
+      "importance": 0.5974,
+      "importance_score": 0.8175,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9917,
+        "recency": 0.9868,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1746,14 +1805,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8142,
-      "importance": 0.594,
-      "importance_score": 0.8142,
+      "score": 0.8132,
+      "importance": 0.593,
+      "importance_score": 0.8132,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9699,
+        "recency": 0.965,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1768,65 +1827,6 @@
         "url": "https://www.hoteldive.com/news/marriott-outdoor-collection-joshua-tree-reset-hotel/826337/",
         "source": "Hotel Dive",
         "source_name": "Hotel Dive"
-      }
-    },
-    {
-      "story_id": "story_0f92c8e44d34",
-      "title": "Agoda Data Reveals Indian Travelers Are Expa ... Digital travel platform Agoda has released new insights highlighting the international beach destinati ... July 29, 2026 / Agoda Press",
-      "url": "https://www.agoda.com/press/agoda-data-reveals-indian-travelers-are-expanding-their-international-beach-bucket-list/",
-      "primary_url": "https://www.agoda.com/press/agoda-data-reveals-indian-travelers-are-expanding-their-international-beach-bucket-list/",
-      "source": "Agoda",
-      "source_name": "Agoda",
-      "sources": [
-        {
-          "id": "hotelitem_0f92c8e44d34",
-          "title": "Agoda Data Reveals Indian Travelers Are Expa ... Digital travel platform Agoda has released new insights highlighting the international beach destinati ... July 29, 2026 / Agoda Press",
-          "url": "https://www.agoda.com/press/agoda-data-reveals-indian-travelers-are-expanding-their-international-beach-bucket-list/",
-          "source": "Agoda",
-          "source_name": "Agoda",
-          "site_id": "agoda_press",
-          "published_at": "2026-07-29T22:14:54.889277Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Agoda"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_0f92c8e44d34",
-          "title": "Agoda Data Reveals Indian Travelers Are Expa ... Digital travel platform Agoda has released new insights highlighting the international beach destinati ... July 29, 2026 / Agoda Press",
-          "url": "https://www.agoda.com/press/agoda-data-reveals-indian-travelers-are-expanding-their-international-beach-bucket-list/",
-          "source": "Agoda",
-          "source_name": "Agoda",
-          "site_id": "agoda_press",
-          "published_at": "2026-07-29T22:14:54.889277Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8125,
-      "importance": 0.6,
-      "importance_score": 0.8125,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-29T22:14:54.889277Z",
-      "latest_at": "2026-07-29T22:14:54.889277Z",
-      "primary_item": {
-        "id": "hotelitem_0f92c8e44d34",
-        "title": "Agoda Data Reveals Indian Travelers Are Expa ... Digital travel platform Agoda has released new insights highlighting the international beach destinati ... July 29, 2026 / Agoda Press",
-        "url": "https://www.agoda.com/press/agoda-data-reveals-indian-travelers-are-expanding-their-international-beach-bucket-list/",
-        "source": "Agoda",
-        "source_name": "Agoda"
       }
     }
   ]
