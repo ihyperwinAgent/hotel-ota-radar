@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T16:51:24.485329Z",
+  "generated_at": "2026-07-30T19:54:40.684621Z",
   "window_hours": 1080,
   "total_items": 30,
   "items": [
@@ -38,14 +38,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9997,
-      "importance": 0.5867,
-      "importance_score": 0.9997,
+      "score": 0.9991,
+      "importance": 0.5861,
+      "importance_score": 0.9991,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9335,
+        "recency": 0.9307,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -60,6 +60,65 @@
         "url": "https://www.traveldaily.cn/article/190452",
         "source": "环球旅讯 TravelDaily",
         "source_name": "环球旅讯 TravelDaily"
+      }
+    },
+    {
+      "story_id": "story_2d8c5b90c952",
+      "title": "Hyatt sees Q2 RevPAR growth driven by luxury travel demand",
+      "url": "https://www.hoteldive.com/news/hyatt-earnings-q2-2026/826616/",
+      "primary_url": "https://www.hoteldive.com/news/hyatt-earnings-q2-2026/826616/",
+      "source": "Hotel Dive",
+      "source_name": "Hotel Dive",
+      "sources": [
+        {
+          "id": "hotelitem_2d8c5b90c952",
+          "title": "Hyatt sees Q2 RevPAR growth driven by luxury travel demand",
+          "url": "https://www.hoteldive.com/news/hyatt-earnings-q2-2026/826616/",
+          "source": "Hotel Dive",
+          "source_name": "Hotel Dive",
+          "site_id": "hoteldive",
+          "published_at": "2026-07-30T16:42:06Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hotel Dive"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_2d8c5b90c952",
+          "title": "Hyatt sees Q2 RevPAR growth driven by luxury travel demand",
+          "url": "https://www.hoteldive.com/news/hyatt-earnings-q2-2026/826616/",
+          "source": "Hotel Dive",
+          "source_name": "Hotel Dive",
+          "site_id": "hoteldive",
+          "published_at": "2026-07-30T16:42:06Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.9544,
+      "importance": 0.5994,
+      "importance_score": 0.9544,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.997,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-30T16:42:06Z",
+      "latest_at": "2026-07-30T16:42:06Z",
+      "primary_item": {
+        "id": "hotelitem_2d8c5b90c952",
+        "title": "Hyatt sees Q2 RevPAR growth driven by luxury travel demand",
+        "url": "https://www.hoteldive.com/news/hyatt-earnings-q2-2026/826616/",
+        "source": "Hotel Dive",
+        "source_name": "Hotel Dive"
       }
     },
     {
@@ -97,14 +156,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9545,
-      "importance": 0.5995,
-      "importance_score": 0.9545,
+      "score": 0.954,
+      "importance": 0.5989,
+      "importance_score": 0.954,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9974,
+        "recency": 0.9946,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -156,14 +215,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9544,
-      "importance": 0.5994,
-      "importance_score": 0.9544,
+      "score": 0.9538,
+      "importance": 0.5988,
+      "importance_score": 0.9538,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9968,
+        "recency": 0.994,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -215,14 +274,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9501,
-      "importance": 0.5949,
-      "importance_score": 0.9501,
+      "score": 0.9496,
+      "importance": 0.5944,
+      "importance_score": 0.9496,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9746,
+        "recency": 0.9718,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -254,7 +313,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-07-30T16:51:24.485329Z"
+          "published_at": "2026-07-30T19:54:40.684621Z"
         }
       ],
       "source_count": 1,
@@ -269,7 +328,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-07-30T16:51:24.485329Z"
+          "published_at": "2026-07-30T19:54:40.684621Z"
         }
       ],
       "item_count": 1,
@@ -288,8 +347,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-30T16:51:24.485329Z",
-      "latest_at": "2026-07-30T16:51:24.485329Z",
+      "earliest_at": "2026-07-30T19:54:40.684621Z",
+      "latest_at": "2026-07-30T19:54:40.684621Z",
       "primary_item": {
         "id": "hotelitem_9699887c72ea",
         "title": "中国旅游研究院与中青旅控股股份有限公司开展主题党日联学联",
@@ -333,14 +392,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9469,
-      "importance": 0.5916,
-      "importance_score": 0.9469,
+      "score": 0.9463,
+      "importance": 0.591,
+      "importance_score": 0.9463,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9579,
+        "recency": 0.9551,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -392,14 +451,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9466,
-      "importance": 0.5913,
-      "importance_score": 0.9466,
+      "score": 0.9461,
+      "importance": 0.5908,
+      "importance_score": 0.9461,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9566,
+        "recency": 0.9538,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -451,14 +510,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9459,
-      "importance": 0.5906,
-      "importance_score": 0.9459,
+      "score": 0.9454,
+      "importance": 0.59,
+      "importance_score": 0.9454,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9529,
+        "recency": 0.95,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -510,14 +569,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9289,
-      "importance": 0.573,
-      "importance_score": 0.9289,
+      "score": 0.9284,
+      "importance": 0.5724,
+      "importance_score": 0.9284,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8649,
+        "recency": 0.8621,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -535,6 +594,65 @@
       }
     },
     {
+      "story_id": "story_b0a48c4a94aa",
+      "title": "Lancaster Landmark Hotel Company rebrands as The Landmark Collection",
+      "url": "https://boutiquehotelnews.com/news/industry/the-landmark-collection/?utm_source=rss&utm_medium=rss&utm_campaign=the-landmark-collection",
+      "primary_url": "https://boutiquehotelnews.com/news/industry/the-landmark-collection/?utm_source=rss&utm_medium=rss&utm_campaign=the-landmark-collection",
+      "source": "Boutique Hotel News",
+      "source_name": "Boutique Hotel News",
+      "sources": [
+        {
+          "id": "hotelitem_b0a48c4a94aa",
+          "title": "Lancaster Landmark Hotel Company rebrands as The Landmark Collection",
+          "url": "https://boutiquehotelnews.com/news/industry/the-landmark-collection/?utm_source=rss&utm_medium=rss&utm_campaign=the-landmark-collection",
+          "source": "Boutique Hotel News",
+          "source_name": "Boutique Hotel News",
+          "site_id": "boutiquehotel",
+          "published_at": "2026-07-24T09:06:26Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Boutique Hotel News"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_b0a48c4a94aa",
+          "title": "Lancaster Landmark Hotel Company rebrands as The Landmark Collection",
+          "url": "https://boutiquehotelnews.com/news/industry/the-landmark-collection/?utm_source=rss&utm_medium=rss&utm_campaign=the-landmark-collection",
+          "source": "Boutique Hotel News",
+          "source_name": "Boutique Hotel News",
+          "site_id": "boutiquehotel",
+          "published_at": "2026-07-24T09:06:26Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.9124,
+      "importance": 0.5713,
+      "importance_score": 0.9124,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.8567,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-24T09:06:26Z",
+      "latest_at": "2026-07-24T09:06:26Z",
+      "primary_item": {
+        "id": "hotelitem_b0a48c4a94aa",
+        "title": "Lancaster Landmark Hotel Company rebrands as The Landmark Collection",
+        "url": "https://boutiquehotelnews.com/news/industry/the-landmark-collection/?utm_source=rss&utm_medium=rss&utm_campaign=the-landmark-collection",
+        "source": "Boutique Hotel News",
+        "source_name": "Boutique Hotel News"
+      }
+    },
+    {
       "story_id": "story_c7c15b7680c9",
       "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
       "url": "https://www.chinahotel.org.cn/articles/17408",
@@ -549,7 +667,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-30T16:51:24.485329Z"
+          "published_at": "2026-07-30T19:54:40.684621Z"
         },
         {
           "id": "hotelitem_c7c15b7680c9",
@@ -558,7 +676,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-30T16:51:24.485329Z"
+          "published_at": "2026-07-30T19:54:40.684621Z"
         },
         {
           "id": "hotelitem_6d8fa145e8af",
@@ -567,7 +685,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-30T16:51:24.485329Z"
+          "published_at": "2026-07-30T19:54:40.684621Z"
         }
       ],
       "source_count": 3,
@@ -582,7 +700,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-30T16:51:24.485329Z"
+          "published_at": "2026-07-30T19:54:40.684621Z"
         },
         {
           "id": "hotelitem_c7c15b7680c9",
@@ -591,7 +709,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-30T16:51:24.485329Z"
+          "published_at": "2026-07-30T19:54:40.684621Z"
         },
         {
           "id": "hotelitem_6d8fa145e8af",
@@ -600,7 +718,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-30T16:51:24.485329Z"
+          "published_at": "2026-07-30T19:54:40.684621Z"
         }
       ],
       "item_count": 3,
@@ -620,8 +738,8 @@
         "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-30T16:51:24.485329Z",
-      "latest_at": "2026-07-30T16:51:24.485329Z",
+      "earliest_at": "2026-07-30T19:54:40.684621Z",
+      "latest_at": "2026-07-30T19:54:40.684621Z",
       "primary_item": {
         "id": "hotelitem_d4370964909c",
         "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
@@ -665,14 +783,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8968,
-      "importance": 0.5734,
-      "importance_score": 0.8968,
+      "score": 0.8963,
+      "importance": 0.5728,
+      "importance_score": 0.8963,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8669,
+        "recency": 0.8641,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -687,65 +805,6 @@
         "url": "https://www.traveldaily.cn/article/190440",
         "source": "环球旅讯 TravelDaily",
         "source_name": "环球旅讯 TravelDaily"
-      }
-    },
-    {
-      "story_id": "story_20403a8b4584",
-      "title": "WTTC unveils seven principles to help destinations turn tourism growth into shared prosperity",
-      "url": "https://insights.ehotelier.com/global-news/2026/07/30/wttc-unveils-seven-principles-to-help-destinations-turn-tourism-growth-into-shared-prosperity/?utm_source=rss&utm_medium=rss&utm_campaign=wttc-unveils-seven-principles-to-help-destinations-turn-tourism-growth-into-shared-prosperity",
-      "primary_url": "https://insights.ehotelier.com/global-news/2026/07/30/wttc-unveils-seven-principles-to-help-destinations-turn-tourism-growth-into-shared-prosperity/?utm_source=rss&utm_medium=rss&utm_campaign=wttc-unveils-seven-principles-to-help-destinations-turn-tourism-growth-into-shared-prosperity",
-      "source": "eHotelier",
-      "source_name": "eHotelier",
-      "sources": [
-        {
-          "id": "hotelitem_20403a8b4584",
-          "title": "WTTC unveils seven principles to help destinations turn tourism growth into shared prosperity",
-          "url": "https://insights.ehotelier.com/global-news/2026/07/30/wttc-unveils-seven-principles-to-help-destinations-turn-tourism-growth-into-shared-prosperity/?utm_source=rss&utm_medium=rss&utm_campaign=wttc-unveils-seven-principles-to-help-destinations-turn-tourism-growth-into-shared-prosperity",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-07-30T01:40:05Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "eHotelier"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_20403a8b4584",
-          "title": "WTTC unveils seven principles to help destinations turn tourism growth into shared prosperity",
-          "url": "https://insights.ehotelier.com/global-news/2026/07/30/wttc-unveils-seven-principles-to-help-destinations-turn-tourism-growth-into-shared-prosperity/?utm_source=rss&utm_medium=rss&utm_campaign=wttc-unveils-seven-principles-to-help-destinations-turn-tourism-growth-into-shared-prosperity",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-07-30T01:40:05Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8623,
-      "importance": 0.5972,
-      "importance_score": 0.8623,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9859,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-30T01:40:05Z",
-      "latest_at": "2026-07-30T01:40:05Z",
-      "primary_item": {
-        "id": "hotelitem_20403a8b4584",
-        "title": "WTTC unveils seven principles to help destinations turn tourism growth into shared prosperity",
-        "url": "https://insights.ehotelier.com/global-news/2026/07/30/wttc-unveils-seven-principles-to-help-destinations-turn-tourism-growth-into-shared-prosperity/?utm_source=rss&utm_medium=rss&utm_campaign=wttc-unveils-seven-principles-to-help-destinations-turn-tourism-growth-into-shared-prosperity",
-        "source": "eHotelier",
-        "source_name": "eHotelier"
       }
     },
     {
@@ -783,14 +842,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8623,
-      "importance": 0.5972,
-      "importance_score": 0.8623,
+      "score": 0.8618,
+      "importance": 0.5966,
+      "importance_score": 0.8618,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.986,
+        "recency": 0.9832,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -842,14 +901,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8623,
-      "importance": 0.5972,
-      "importance_score": 0.8623,
+      "score": 0.8618,
+      "importance": 0.5967,
+      "importance_score": 0.8618,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9862,
+        "recency": 0.9833,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -862,6 +921,65 @@
         "id": "hotelitem_694735cd8355",
         "title": "5 tips for mouthwatering food photography and the impact of visual menus on F&B revenue",
         "url": "https://insights.ehotelier.com/suppliers/2026/07/30/5-tips-for-mouthwatering-food-photography-and-the-impact-of-visual-menus-on-fb-revenue/?utm_source=rss&utm_medium=rss&utm_campaign=5-tips-for-mouthwatering-food-photography-and-the-impact-of-visual-menus-on-fb-revenue",
+        "source": "eHotelier",
+        "source_name": "eHotelier"
+      }
+    },
+    {
+      "story_id": "story_20403a8b4584",
+      "title": "WTTC unveils seven principles to help destinations turn tourism growth into shared prosperity",
+      "url": "https://insights.ehotelier.com/global-news/2026/07/30/wttc-unveils-seven-principles-to-help-destinations-turn-tourism-growth-into-shared-prosperity/?utm_source=rss&utm_medium=rss&utm_campaign=wttc-unveils-seven-principles-to-help-destinations-turn-tourism-growth-into-shared-prosperity",
+      "primary_url": "https://insights.ehotelier.com/global-news/2026/07/30/wttc-unveils-seven-principles-to-help-destinations-turn-tourism-growth-into-shared-prosperity/?utm_source=rss&utm_medium=rss&utm_campaign=wttc-unveils-seven-principles-to-help-destinations-turn-tourism-growth-into-shared-prosperity",
+      "source": "eHotelier",
+      "source_name": "eHotelier",
+      "sources": [
+        {
+          "id": "hotelitem_20403a8b4584",
+          "title": "WTTC unveils seven principles to help destinations turn tourism growth into shared prosperity",
+          "url": "https://insights.ehotelier.com/global-news/2026/07/30/wttc-unveils-seven-principles-to-help-destinations-turn-tourism-growth-into-shared-prosperity/?utm_source=rss&utm_medium=rss&utm_campaign=wttc-unveils-seven-principles-to-help-destinations-turn-tourism-growth-into-shared-prosperity",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-07-30T01:40:05Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "eHotelier"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_20403a8b4584",
+          "title": "WTTC unveils seven principles to help destinations turn tourism growth into shared prosperity",
+          "url": "https://insights.ehotelier.com/global-news/2026/07/30/wttc-unveils-seven-principles-to-help-destinations-turn-tourism-growth-into-shared-prosperity/?utm_source=rss&utm_medium=rss&utm_campaign=wttc-unveils-seven-principles-to-help-destinations-turn-tourism-growth-into-shared-prosperity",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-07-30T01:40:05Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8617,
+      "importance": 0.5966,
+      "importance_score": 0.8617,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9831,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-30T01:40:05Z",
+      "latest_at": "2026-07-30T01:40:05Z",
+      "primary_item": {
+        "id": "hotelitem_20403a8b4584",
+        "title": "WTTC unveils seven principles to help destinations turn tourism growth into shared prosperity",
+        "url": "https://insights.ehotelier.com/global-news/2026/07/30/wttc-unveils-seven-principles-to-help-destinations-turn-tourism-growth-into-shared-prosperity/?utm_source=rss&utm_medium=rss&utm_campaign=wttc-unveils-seven-principles-to-help-destinations-turn-tourism-growth-into-shared-prosperity",
         "source": "eHotelier",
         "source_name": "eHotelier"
       }
@@ -881,7 +999,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-30T16:51:24.485329Z"
+          "published_at": "2026-07-30T19:54:40.684621Z"
         },
         {
           "id": "hotelitem_816c6fb1ed6e",
@@ -890,7 +1008,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-30T16:51:24.485329Z"
+          "published_at": "2026-07-30T19:54:40.684621Z"
         }
       ],
       "source_count": 2,
@@ -905,7 +1023,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-30T16:51:24.485329Z"
+          "published_at": "2026-07-30T19:54:40.684621Z"
         },
         {
           "id": "hotelitem_816c6fb1ed6e",
@@ -914,7 +1032,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-30T16:51:24.485329Z"
+          "published_at": "2026-07-30T19:54:40.684621Z"
         }
       ],
       "item_count": 2,
@@ -934,8 +1052,8 @@
         "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-30T16:51:24.485329Z",
-      "latest_at": "2026-07-30T16:51:24.485329Z",
+      "earliest_at": "2026-07-30T19:54:40.684621Z",
+      "latest_at": "2026-07-30T19:54:40.684621Z",
       "primary_item": {
         "id": "hotelitem_3e02fd1a1636",
         "title": "指数发布 | 中国住宿业消费指数报告（2026年上半年）发布 为贯彻落实提振消费相关政策，真实反映中国住宿餐饮业市场消费情况，以数据引导促消费政策精准发力，为行业发展提供参考建议，中国饭店协会每月公开发布“中国饭店业消费指数体系”，包含“中国住宿业消费指数（China Hotel Industry Consumption Index, HCI）”与“中国餐饮业消费指数(China Catering Industry Consumption Index, CCI)”，欢迎关注。\n本篇发布的是“中国住宿业消费指数”。",
@@ -959,7 +1077,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-07-30T16:51:24.485329Z"
+          "published_at": "2026-07-30T19:54:40.684621Z"
         }
       ],
       "source_count": 1,
@@ -974,7 +1092,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-07-30T16:51:24.485329Z"
+          "published_at": "2026-07-30T19:54:40.684621Z"
         }
       ],
       "item_count": 1,
@@ -993,8 +1111,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-30T16:51:24.485329Z",
-      "latest_at": "2026-07-30T16:51:24.485329Z",
+      "earliest_at": "2026-07-30T19:54:40.684621Z",
+      "latest_at": "2026-07-30T19:54:40.684621Z",
       "primary_item": {
         "id": "hotelitem_e4ce0593c384",
         "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
@@ -1018,7 +1136,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-07-30T16:51:24.485329Z"
+          "published_at": "2026-07-30T19:54:40.684621Z"
         }
       ],
       "source_count": 1,
@@ -1033,7 +1151,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-07-30T16:51:24.485329Z"
+          "published_at": "2026-07-30T19:54:40.684621Z"
         }
       ],
       "item_count": 1,
@@ -1052,8 +1170,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-30T16:51:24.485329Z",
-      "latest_at": "2026-07-30T16:51:24.485329Z",
+      "earliest_at": "2026-07-30T19:54:40.684621Z",
+      "latest_at": "2026-07-30T19:54:40.684621Z",
       "primary_item": {
         "id": "hotelitem_fa34986b4fc0",
         "title": "文化和旅游部、金融监管总局关于警惕借“保...",
@@ -1077,7 +1195,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-07-30T16:51:24.485329Z"
+          "published_at": "2026-07-30T19:54:40.684621Z"
         }
       ],
       "source_count": 1,
@@ -1092,7 +1210,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-07-30T16:51:24.485329Z"
+          "published_at": "2026-07-30T19:54:40.684621Z"
         }
       ],
       "item_count": 1,
@@ -1111,8 +1229,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-30T16:51:24.485329Z",
-      "latest_at": "2026-07-30T16:51:24.485329Z",
+      "earliest_at": "2026-07-30T19:54:40.684621Z",
+      "latest_at": "2026-07-30T19:54:40.684621Z",
       "primary_item": {
         "id": "hotelitem_9a958319a874",
         "title": "文化和旅游部印发《旅游强国建设“十五五”...",
@@ -1156,14 +1274,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8517,
-      "importance": 0.5862,
-      "importance_score": 0.8517,
+      "score": 0.8511,
+      "importance": 0.5856,
+      "importance_score": 0.8511,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9309,
+        "recency": 0.928,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1215,14 +1333,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8517,
-      "importance": 0.5862,
-      "importance_score": 0.8517,
+      "score": 0.8511,
+      "importance": 0.5856,
+      "importance_score": 0.8511,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9309,
+        "recency": 0.9281,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1237,6 +1355,124 @@
         "url": "https://www.hoteldive.com/news/hotel-construction-pipeline-q2-2026/826231/",
         "source": "Hotel Dive",
         "source_name": "Hotel Dive"
+      }
+    },
+    {
+      "story_id": "story_d675fd49d4f3",
+      "title": "RMS integrates with TrustYou to create unified guest profiles",
+      "url": "https://boutiquehotelnews.com/news/rms-integrates-with-trustyou-to-create-unified-guest-profiles/?utm_source=rss&utm_medium=rss&utm_campaign=rms-integrates-with-trustyou-to-create-unified-guest-profiles",
+      "primary_url": "https://boutiquehotelnews.com/news/rms-integrates-with-trustyou-to-create-unified-guest-profiles/?utm_source=rss&utm_medium=rss&utm_campaign=rms-integrates-with-trustyou-to-create-unified-guest-profiles",
+      "source": "Boutique Hotel News",
+      "source_name": "Boutique Hotel News",
+      "sources": [
+        {
+          "id": "hotelitem_d675fd49d4f3",
+          "title": "RMS integrates with TrustYou to create unified guest profiles",
+          "url": "https://boutiquehotelnews.com/news/rms-integrates-with-trustyou-to-create-unified-guest-profiles/?utm_source=rss&utm_medium=rss&utm_campaign=rms-integrates-with-trustyou-to-create-unified-guest-profiles",
+          "source": "Boutique Hotel News",
+          "source_name": "Boutique Hotel News",
+          "site_id": "boutiquehotel",
+          "published_at": "2026-07-30T14:46:52Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Boutique Hotel News"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_d675fd49d4f3",
+          "title": "RMS integrates with TrustYou to create unified guest profiles",
+          "url": "https://boutiquehotelnews.com/news/rms-integrates-with-trustyou-to-create-unified-guest-profiles/?utm_source=rss&utm_medium=rss&utm_campaign=rms-integrates-with-trustyou-to-create-unified-guest-profiles",
+          "source": "Boutique Hotel News",
+          "source_name": "Boutique Hotel News",
+          "site_id": "boutiquehotel",
+          "published_at": "2026-07-30T14:46:52Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8491,
+      "importance": 0.599,
+      "importance_score": 0.8491,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9952,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-30T14:46:52Z",
+      "latest_at": "2026-07-30T14:46:52Z",
+      "primary_item": {
+        "id": "hotelitem_d675fd49d4f3",
+        "title": "RMS integrates with TrustYou to create unified guest profiles",
+        "url": "https://boutiquehotelnews.com/news/rms-integrates-with-trustyou-to-create-unified-guest-profiles/?utm_source=rss&utm_medium=rss&utm_campaign=rms-integrates-with-trustyou-to-create-unified-guest-profiles",
+        "source": "Boutique Hotel News",
+        "source_name": "Boutique Hotel News"
+      }
+    },
+    {
+      "story_id": "story_3411aa3db817",
+      "title": "WorldHotels adds first branded residence property in Vietnam",
+      "url": "https://boutiquehotelnews.com/news/industry/worldhotels-branded-residence-vietnam/?utm_source=rss&utm_medium=rss&utm_campaign=worldhotels-branded-residence-vietnam",
+      "primary_url": "https://boutiquehotelnews.com/news/industry/worldhotels-branded-residence-vietnam/?utm_source=rss&utm_medium=rss&utm_campaign=worldhotels-branded-residence-vietnam",
+      "source": "Boutique Hotel News",
+      "source_name": "Boutique Hotel News",
+      "sources": [
+        {
+          "id": "hotelitem_3411aa3db817",
+          "title": "WorldHotels adds first branded residence property in Vietnam",
+          "url": "https://boutiquehotelnews.com/news/industry/worldhotels-branded-residence-vietnam/?utm_source=rss&utm_medium=rss&utm_campaign=worldhotels-branded-residence-vietnam",
+          "source": "Boutique Hotel News",
+          "source_name": "Boutique Hotel News",
+          "site_id": "boutiquehotel",
+          "published_at": "2026-07-28T09:30:18Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Boutique Hotel News"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_3411aa3db817",
+          "title": "WorldHotels adds first branded residence property in Vietnam",
+          "url": "https://boutiquehotelnews.com/news/industry/worldhotels-branded-residence-vietnam/?utm_source=rss&utm_medium=rss&utm_campaign=worldhotels-branded-residence-vietnam",
+          "source": "Boutique Hotel News",
+          "source_name": "Boutique Hotel News",
+          "site_id": "boutiquehotel",
+          "published_at": "2026-07-28T09:30:18Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8396,
+      "importance": 0.5892,
+      "importance_score": 0.8396,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9459,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-28T09:30:18Z",
+      "latest_at": "2026-07-28T09:30:18Z",
+      "primary_item": {
+        "id": "hotelitem_3411aa3db817",
+        "title": "WorldHotels adds first branded residence property in Vietnam",
+        "url": "https://boutiquehotelnews.com/news/industry/worldhotels-branded-residence-vietnam/?utm_source=rss&utm_medium=rss&utm_campaign=worldhotels-branded-residence-vietnam",
+        "source": "Boutique Hotel News",
+        "source_name": "Boutique Hotel News"
       }
     },
     {
@@ -1274,14 +1510,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.839,
-      "importance": 0.573,
-      "importance_score": 0.839,
+      "score": 0.8384,
+      "importance": 0.5725,
+      "importance_score": 0.8384,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8651,
+        "recency": 0.8623,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1296,6 +1532,65 @@
         "url": "https://skift.com/2026/07/24/wildfire-risk-is-increasing-rising-insurance-costs-are-pushing-hotels-to-prepare/",
         "source": "Skift Hospitality",
         "source_name": "Skift Hospitality"
+      }
+    },
+    {
+      "story_id": "story_65f5e43c1c1f",
+      "title": "HMRC files winding-up petition against Avison Young",
+      "url": "https://boutiquehotelnews.com/news/industry/hmrc-avison-young/?utm_source=rss&utm_medium=rss&utm_campaign=hmrc-avison-young",
+      "primary_url": "https://boutiquehotelnews.com/news/industry/hmrc-avison-young/?utm_source=rss&utm_medium=rss&utm_campaign=hmrc-avison-young",
+      "source": "Boutique Hotel News",
+      "source_name": "Boutique Hotel News",
+      "sources": [
+        {
+          "id": "hotelitem_65f5e43c1c1f",
+          "title": "HMRC files winding-up petition against Avison Young",
+          "url": "https://boutiquehotelnews.com/news/industry/hmrc-avison-young/?utm_source=rss&utm_medium=rss&utm_campaign=hmrc-avison-young",
+          "source": "Boutique Hotel News",
+          "source_name": "Boutique Hotel News",
+          "site_id": "boutiquehotel",
+          "published_at": "2026-07-24T08:14:34Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Boutique Hotel News"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_65f5e43c1c1f",
+          "title": "HMRC files winding-up petition against Avison Young",
+          "url": "https://boutiquehotelnews.com/news/industry/hmrc-avison-young/?utm_source=rss&utm_medium=rss&utm_campaign=hmrc-avison-young",
+          "source": "Boutique Hotel News",
+          "source_name": "Boutique Hotel News",
+          "site_id": "boutiquehotel",
+          "published_at": "2026-07-24T08:14:34Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8222,
+      "importance": 0.5712,
+      "importance_score": 0.8222,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.8559,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-24T08:14:34Z",
+      "latest_at": "2026-07-24T08:14:34Z",
+      "primary_item": {
+        "id": "hotelitem_65f5e43c1c1f",
+        "title": "HMRC files winding-up petition against Avison Young",
+        "url": "https://boutiquehotelnews.com/news/industry/hmrc-avison-young/?utm_source=rss&utm_medium=rss&utm_campaign=hmrc-avison-young",
+        "source": "Boutique Hotel News",
+        "source_name": "Boutique Hotel News"
       }
     },
     {
@@ -1333,14 +1628,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.82,
-      "importance": 0.6,
-      "importance_score": 0.82,
+      "score": 0.8194,
+      "importance": 0.5994,
+      "importance_score": 0.8194,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9998,
+        "recency": 0.997,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1355,6 +1650,65 @@
         "url": "https://skift.com/2026/07/30/hyatt-pressured-over-delayed-openings-as-it-speeds-up-mid-tier-buildout/",
         "source": "Skift Hospitality",
         "source_name": "Skift Hospitality"
+      }
+    },
+    {
+      "story_id": "story_00c14c000469",
+      "title": "Viceroy partners with Pearlstone to launch residences in Texas",
+      "url": "https://boutiquehotelnews.com/news/branded-residences/viceroy-pearlstone-residences-texas/?utm_source=rss&utm_medium=rss&utm_campaign=viceroy-pearlstone-residences-texas",
+      "primary_url": "https://boutiquehotelnews.com/news/branded-residences/viceroy-pearlstone-residences-texas/?utm_source=rss&utm_medium=rss&utm_campaign=viceroy-pearlstone-residences-texas",
+      "source": "Boutique Hotel News",
+      "source_name": "Boutique Hotel News",
+      "sources": [
+        {
+          "id": "hotelitem_00c14c000469",
+          "title": "Viceroy partners with Pearlstone to launch residences in Texas",
+          "url": "https://boutiquehotelnews.com/news/branded-residences/viceroy-pearlstone-residences-texas/?utm_source=rss&utm_medium=rss&utm_campaign=viceroy-pearlstone-residences-texas",
+          "source": "Boutique Hotel News",
+          "source_name": "Boutique Hotel News",
+          "site_id": "boutiquehotel",
+          "published_at": "2026-07-23T09:10:20Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Boutique Hotel News"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_00c14c000469",
+          "title": "Viceroy partners with Pearlstone to launch residences in Texas",
+          "url": "https://boutiquehotelnews.com/news/branded-residences/viceroy-pearlstone-residences-texas/?utm_source=rss&utm_medium=rss&utm_campaign=viceroy-pearlstone-residences-texas",
+          "source": "Boutique Hotel News",
+          "source_name": "Boutique Hotel News",
+          "site_id": "boutiquehotel",
+          "published_at": "2026-07-23T09:10:20Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8171,
+      "importance": 0.5669,
+      "importance_score": 0.8171,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.8345,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-23T09:10:20Z",
+      "latest_at": "2026-07-23T09:10:20Z",
+      "primary_item": {
+        "id": "hotelitem_00c14c000469",
+        "title": "Viceroy partners with Pearlstone to launch residences in Texas",
+        "url": "https://boutiquehotelnews.com/news/branded-residences/viceroy-pearlstone-residences-texas/?utm_source=rss&utm_medium=rss&utm_campaign=viceroy-pearlstone-residences-texas",
+        "source": "Boutique Hotel News",
+        "source_name": "Boutique Hotel News"
       }
     },
     {
@@ -1392,14 +1746,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8173,
-      "importance": 0.5972,
-      "importance_score": 0.8173,
+      "score": 0.8168,
+      "importance": 0.5967,
+      "importance_score": 0.8168,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9862,
+        "recency": 0.9834,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1414,65 +1768,6 @@
         "url": "https://insights.ehotelier.com/insights/2026/07/30/why-proactive-hotel-operations-begin-with-a-connected-pms/?utm_source=rss&utm_medium=rss&utm_campaign=why-proactive-hotel-operations-begin-with-a-connected-pms",
         "source": "eHotelier",
         "source_name": "eHotelier"
-      }
-    },
-    {
-      "story_id": "story_f5e56e1f5211",
-      "title": "美团暑期观察：更多年轻人选择“平移式旅行”",
-      "url": "https://www.pinchain.com/article/349341",
-      "primary_url": "https://www.pinchain.com/article/349341",
-      "source": "品橙旅游",
-      "source_name": "品橙旅游",
-      "sources": [
-        {
-          "id": "hotelitem_f5e56e1f5211",
-          "title": "美团暑期观察：更多年轻人选择“平移式旅行”",
-          "url": "https://www.pinchain.com/article/349341",
-          "source": "品橙旅游",
-          "source_name": "品橙旅游",
-          "site_id": "pinchain",
-          "published_at": "2026-07-30T08:11:20Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "品橙旅游"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_f5e56e1f5211",
-          "title": "美团暑期观察：更多年轻人选择“平移式旅行”",
-          "url": "https://www.pinchain.com/article/349341",
-          "source": "品橙旅游",
-          "source_name": "品橙旅游",
-          "site_id": "pinchain",
-          "published_at": "2026-07-30T08:11:20Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.816,
-      "importance": 0.5984,
-      "importance_score": 0.816,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.992,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-30T08:11:20Z",
-      "latest_at": "2026-07-30T08:11:20Z",
-      "primary_item": {
-        "id": "hotelitem_f5e56e1f5211",
-        "title": "美团暑期观察：更多年轻人选择“平移式旅行”",
-        "url": "https://www.pinchain.com/article/349341",
-        "source": "品橙旅游",
-        "source_name": "品橙旅游"
       }
     },
     {
@@ -1510,14 +1805,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.816,
-      "importance": 0.5985,
-      "importance_score": 0.816,
+      "score": 0.8155,
+      "importance": 0.5979,
+      "importance_score": 0.8155,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9923,
+        "recency": 0.9894,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1532,301 +1827,6 @@
         "url": "https://www.pinchain.com/article/349349",
         "source": "品橙旅游",
         "source_name": "品橙旅游"
-      }
-    },
-    {
-      "story_id": "story_57ebfd9ad0fc",
-      "title": "IHG Hotels & Resorts launches AI-powered conversational search tool",
-      "url": "https://www.hoteldive.com/news/ihg-launches-ai-powered-conversational-search-tool/826446/",
-      "primary_url": "https://www.hoteldive.com/news/ihg-launches-ai-powered-conversational-search-tool/826446/",
-      "source": "Hotel Dive",
-      "source_name": "Hotel Dive",
-      "sources": [
-        {
-          "id": "hotelitem_57ebfd9ad0fc",
-          "title": "IHG Hotels & Resorts launches AI-powered conversational search tool",
-          "url": "https://www.hoteldive.com/news/ihg-launches-ai-powered-conversational-search-tool/826446/",
-          "source": "Hotel Dive",
-          "source_name": "Hotel Dive",
-          "site_id": "hoteldive",
-          "published_at": "2026-07-29T13:19:35Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hotel Dive"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_57ebfd9ad0fc",
-          "title": "IHG Hotels & Resorts launches AI-powered conversational search tool",
-          "url": "https://www.hoteldive.com/news/ihg-launches-ai-powered-conversational-search-tool/826446/",
-          "source": "Hotel Dive",
-          "source_name": "Hotel Dive",
-          "site_id": "hoteldive",
-          "published_at": "2026-07-29T13:19:35Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8151,
-      "importance": 0.5949,
-      "importance_score": 0.8151,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9745,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-29T13:19:35Z",
-      "latest_at": "2026-07-29T13:19:35Z",
-      "primary_item": {
-        "id": "hotelitem_57ebfd9ad0fc",
-        "title": "IHG Hotels & Resorts launches AI-powered conversational search tool",
-        "url": "https://www.hoteldive.com/news/ihg-launches-ai-powered-conversational-search-tool/826446/",
-        "source": "Hotel Dive",
-        "source_name": "Hotel Dive"
-      }
-    },
-    {
-      "story_id": "story_2ba246120ca4",
-      "title": "Agoda Reports Rising Interest in Solo Travel ... Seoul, 20 July 2026 – While traveling with family, friends, or loved ones has its own appeal, a growin ... July 20, 2026 / Travel Trends",
-      "url": "https://www.agoda.com/press/agoda-reports-rising-interest-in-solo-travel-among-south-korean-travelers/",
-      "primary_url": "https://www.agoda.com/press/agoda-reports-rising-interest-in-solo-travel-among-south-korean-travelers/",
-      "source": "Agoda",
-      "source_name": "Agoda",
-      "sources": [
-        {
-          "id": "hotelitem_2ba246120ca4",
-          "title": "Agoda Reports Rising Interest in Solo Travel ... Seoul, 20 July 2026 – While traveling with family, friends, or loved ones has its own appeal, a growin ... July 20, 2026 / Travel Trends",
-          "url": "https://www.agoda.com/press/agoda-reports-rising-interest-in-solo-travel-among-south-korean-travelers/",
-          "source": "Agoda",
-          "source_name": "Agoda",
-          "site_id": "agoda_press",
-          "published_at": "2026-07-30T16:51:24.485329Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Agoda"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_2ba246120ca4",
-          "title": "Agoda Reports Rising Interest in Solo Travel ... Seoul, 20 July 2026 – While traveling with family, friends, or loved ones has its own appeal, a growin ... July 20, 2026 / Travel Trends",
-          "url": "https://www.agoda.com/press/agoda-reports-rising-interest-in-solo-travel-among-south-korean-travelers/",
-          "source": "Agoda",
-          "source_name": "Agoda",
-          "site_id": "agoda_press",
-          "published_at": "2026-07-30T16:51:24.485329Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8125,
-      "importance": 0.6,
-      "importance_score": 0.8125,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-30T16:51:24.485329Z",
-      "latest_at": "2026-07-30T16:51:24.485329Z",
-      "primary_item": {
-        "id": "hotelitem_2ba246120ca4",
-        "title": "Agoda Reports Rising Interest in Solo Travel ... Seoul, 20 July 2026 – While traveling with family, friends, or loved ones has its own appeal, a growin ... July 20, 2026 / Travel Trends",
-        "url": "https://www.agoda.com/press/agoda-reports-rising-interest-in-solo-travel-among-south-korean-travelers/",
-        "source": "Agoda",
-        "source_name": "Agoda"
-      }
-    },
-    {
-      "story_id": "story_9d906eadfd50",
-      "title": "Agoda Reveals Growing Travel Interest Ahead  ... Singapore, 24 July 2026: Agoda Company Pte. Ltd. (Headquarters: Singapore; CEO: Omri Morgenshtern), wh ... July 24, 2026 / Travel Trends",
-      "url": "https://www.agoda.com/press/agoda-reveals-growing-travel-interest-ahead-of-japans-summer-2026-fireworks-festivals/",
-      "primary_url": "https://www.agoda.com/press/agoda-reveals-growing-travel-interest-ahead-of-japans-summer-2026-fireworks-festivals/",
-      "source": "Agoda",
-      "source_name": "Agoda",
-      "sources": [
-        {
-          "id": "hotelitem_9d906eadfd50",
-          "title": "Agoda Reveals Growing Travel Interest Ahead  ... Singapore, 24 July 2026: Agoda Company Pte. Ltd. (Headquarters: Singapore; CEO: Omri Morgenshtern), wh ... July 24, 2026 / Travel Trends",
-          "url": "https://www.agoda.com/press/agoda-reveals-growing-travel-interest-ahead-of-japans-summer-2026-fireworks-festivals/",
-          "source": "Agoda",
-          "source_name": "Agoda",
-          "site_id": "agoda_press",
-          "published_at": "2026-07-30T16:51:24.485329Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Agoda"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_9d906eadfd50",
-          "title": "Agoda Reveals Growing Travel Interest Ahead  ... Singapore, 24 July 2026: Agoda Company Pte. Ltd. (Headquarters: Singapore; CEO: Omri Morgenshtern), wh ... July 24, 2026 / Travel Trends",
-          "url": "https://www.agoda.com/press/agoda-reveals-growing-travel-interest-ahead-of-japans-summer-2026-fireworks-festivals/",
-          "source": "Agoda",
-          "source_name": "Agoda",
-          "site_id": "agoda_press",
-          "published_at": "2026-07-30T16:51:24.485329Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8125,
-      "importance": 0.6,
-      "importance_score": 0.8125,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-30T16:51:24.485329Z",
-      "latest_at": "2026-07-30T16:51:24.485329Z",
-      "primary_item": {
-        "id": "hotelitem_9d906eadfd50",
-        "title": "Agoda Reveals Growing Travel Interest Ahead  ... Singapore, 24 July 2026: Agoda Company Pte. Ltd. (Headquarters: Singapore; CEO: Omri Morgenshtern), wh ... July 24, 2026 / Travel Trends",
-        "url": "https://www.agoda.com/press/agoda-reveals-growing-travel-interest-ahead-of-japans-summer-2026-fireworks-festivals/",
-        "source": "Agoda",
-        "source_name": "Agoda"
-      }
-    },
-    {
-      "story_id": "story_7245e3fed3db",
-      "title": "Agoda and DTTDC Launch MoU to Position Delhi ... Digital travel platform Agoda has announced a strategic partnership with the Delhi Tourism & Trans ... May 21, 2026 / Partnership",
-      "url": "https://www.agoda.com/press/agoda-and-dttdc-launch-mou-to-position-delhi-as-a-year-round-destination/",
-      "primary_url": "https://www.agoda.com/press/agoda-and-dttdc-launch-mou-to-position-delhi-as-a-year-round-destination/",
-      "source": "Agoda",
-      "source_name": "Agoda",
-      "sources": [
-        {
-          "id": "hotelitem_7245e3fed3db",
-          "title": "Agoda and DTTDC Launch MoU to Position Delhi ... Digital travel platform Agoda has announced a strategic partnership with the Delhi Tourism & Trans ... May 21, 2026 / Partnership",
-          "url": "https://www.agoda.com/press/agoda-and-dttdc-launch-mou-to-position-delhi-as-a-year-round-destination/",
-          "source": "Agoda",
-          "source_name": "Agoda",
-          "site_id": "agoda_press",
-          "published_at": "2026-07-30T16:51:24.485329Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Agoda"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_7245e3fed3db",
-          "title": "Agoda and DTTDC Launch MoU to Position Delhi ... Digital travel platform Agoda has announced a strategic partnership with the Delhi Tourism & Trans ... May 21, 2026 / Partnership",
-          "url": "https://www.agoda.com/press/agoda-and-dttdc-launch-mou-to-position-delhi-as-a-year-round-destination/",
-          "source": "Agoda",
-          "source_name": "Agoda",
-          "site_id": "agoda_press",
-          "published_at": "2026-07-30T16:51:24.485329Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8125,
-      "importance": 0.6,
-      "importance_score": 0.8125,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-30T16:51:24.485329Z",
-      "latest_at": "2026-07-30T16:51:24.485329Z",
-      "primary_item": {
-        "id": "hotelitem_7245e3fed3db",
-        "title": "Agoda and DTTDC Launch MoU to Position Delhi ... Digital travel platform Agoda has announced a strategic partnership with the Delhi Tourism & Trans ... May 21, 2026 / Partnership",
-        "url": "https://www.agoda.com/press/agoda-and-dttdc-launch-mou-to-position-delhi-as-a-year-round-destination/",
-        "source": "Agoda",
-        "source_name": "Agoda"
-      }
-    },
-    {
-      "story_id": "story_8c5f0ae63982",
-      "title": "Agoda and KakaoBank Partner to Offer Travel  ... Providing seamless access to stay options on one of Korea’s leading digital banks’ app, featuring disc ... May 28, 2026 / Partnership",
-      "url": "https://www.agoda.com/press/agoda-and-kakaobank-partner-to-offer-travel-booking-experience-on-digital-banking-app/",
-      "primary_url": "https://www.agoda.com/press/agoda-and-kakaobank-partner-to-offer-travel-booking-experience-on-digital-banking-app/",
-      "source": "Agoda",
-      "source_name": "Agoda",
-      "sources": [
-        {
-          "id": "hotelitem_8c5f0ae63982",
-          "title": "Agoda and KakaoBank Partner to Offer Travel  ... Providing seamless access to stay options on one of Korea’s leading digital banks’ app, featuring disc ... May 28, 2026 / Partnership",
-          "url": "https://www.agoda.com/press/agoda-and-kakaobank-partner-to-offer-travel-booking-experience-on-digital-banking-app/",
-          "source": "Agoda",
-          "source_name": "Agoda",
-          "site_id": "agoda_press",
-          "published_at": "2026-07-30T16:51:24.485329Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Agoda"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_8c5f0ae63982",
-          "title": "Agoda and KakaoBank Partner to Offer Travel  ... Providing seamless access to stay options on one of Korea’s leading digital banks’ app, featuring disc ... May 28, 2026 / Partnership",
-          "url": "https://www.agoda.com/press/agoda-and-kakaobank-partner-to-offer-travel-booking-experience-on-digital-banking-app/",
-          "source": "Agoda",
-          "source_name": "Agoda",
-          "site_id": "agoda_press",
-          "published_at": "2026-07-30T16:51:24.485329Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8125,
-      "importance": 0.6,
-      "importance_score": 0.8125,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-30T16:51:24.485329Z",
-      "latest_at": "2026-07-30T16:51:24.485329Z",
-      "primary_item": {
-        "id": "hotelitem_8c5f0ae63982",
-        "title": "Agoda and KakaoBank Partner to Offer Travel  ... Providing seamless access to stay options on one of Korea’s leading digital banks’ app, featuring disc ... May 28, 2026 / Partnership",
-        "url": "https://www.agoda.com/press/agoda-and-kakaobank-partner-to-offer-travel-booking-experience-on-digital-banking-app/",
-        "source": "Agoda",
-        "source_name": "Agoda"
       }
     }
   ]
