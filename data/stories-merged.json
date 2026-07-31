@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T09:18:34.400714Z",
+  "generated_at": "2026-07-31T14:38:30.103877Z",
   "window_hours": 1080,
   "total_stories": 30,
   "stories": [
@@ -38,14 +38,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9967,
-      "importance": 0.5837,
-      "importance_score": 0.9967,
+      "score": 0.9958,
+      "importance": 0.5827,
+      "importance_score": 0.9958,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9183,
+        "recency": 0.9133,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -60,6 +60,65 @@
         "url": "https://www.traveldaily.cn/article/190452",
         "source": "环球旅讯 TravelDaily",
         "source_name": "环球旅讯 TravelDaily"
+      }
+    },
+    {
+      "story_id": "story_39e29e26a28f",
+      "title": "AI Is Deciding Which Hotels Get Considered — Hospitality Revenue Leaders Need a Budget Response",
+      "url": "https://skift.com/2026/07/31/ai-driven-travel-discovery-hotel-visibility/",
+      "primary_url": "https://skift.com/2026/07/31/ai-driven-travel-discovery-hotel-visibility/",
+      "source": "Skift Hospitality",
+      "source_name": "Skift Hospitality",
+      "sources": [
+        {
+          "id": "hotelitem_39e29e26a28f",
+          "title": "AI Is Deciding Which Hotels Get Considered — Hospitality Revenue Leaders Need a Budget Response",
+          "url": "https://skift.com/2026/07/31/ai-driven-travel-discovery-hotel-visibility/",
+          "source": "Skift Hospitality",
+          "source_name": "Skift Hospitality",
+          "site_id": "skift",
+          "published_at": "2026-07-31T13:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Skift Hospitality"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_39e29e26a28f",
+          "title": "AI Is Deciding Which Hotels Get Considered — Hospitality Revenue Leaders Need a Budget Response",
+          "url": "https://skift.com/2026/07/31/ai-driven-travel-discovery-hotel-visibility/",
+          "source": "Skift Hospitality",
+          "source_name": "Skift Hospitality",
+          "site_id": "skift",
+          "published_at": "2026-07-31T13:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.9547,
+      "importance": 0.5997,
+      "importance_score": 0.9547,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9985,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-31T13:00:00Z",
+      "latest_at": "2026-07-31T13:00:00Z",
+      "primary_item": {
+        "id": "hotelitem_39e29e26a28f",
+        "title": "AI Is Deciding Which Hotels Get Considered — Hospitality Revenue Leaders Need a Budget Response",
+        "url": "https://skift.com/2026/07/31/ai-driven-travel-discovery-hotel-visibility/",
+        "source": "Skift Hospitality",
+        "source_name": "Skift Hospitality"
       }
     },
     {
@@ -97,14 +156,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9537,
-      "importance": 0.5986,
-      "importance_score": 0.9537,
+      "score": 0.9527,
+      "importance": 0.5976,
+      "importance_score": 0.9527,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9931,
+        "recency": 0.9882,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -156,14 +215,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9526,
-      "importance": 0.5975,
-      "importance_score": 0.9526,
+      "score": 0.9517,
+      "importance": 0.5966,
+      "importance_score": 0.9517,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9877,
+        "recency": 0.9828,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -215,14 +274,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.952,
-      "importance": 0.5969,
-      "importance_score": 0.952,
+      "score": 0.9511,
+      "importance": 0.5959,
+      "importance_score": 0.9511,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9846,
+        "recency": 0.9797,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -274,14 +333,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9516,
-      "importance": 0.5964,
-      "importance_score": 0.9516,
+      "score": 0.9506,
+      "importance": 0.5954,
+      "importance_score": 0.9506,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9822,
+        "recency": 0.9772,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -333,14 +392,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9515,
-      "importance": 0.5963,
-      "importance_score": 0.9515,
+      "score": 0.9505,
+      "importance": 0.5953,
+      "importance_score": 0.9505,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9816,
+        "recency": 0.9767,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -372,7 +431,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-07-31T09:18:34.400714Z"
+          "published_at": "2026-07-31T14:38:30.103877Z"
         }
       ],
       "source_count": 1,
@@ -387,7 +446,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-07-31T09:18:34.400714Z"
+          "published_at": "2026-07-31T14:38:30.103877Z"
         }
       ],
       "item_count": 1,
@@ -406,8 +465,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-31T09:18:34.400714Z",
-      "latest_at": "2026-07-31T09:18:34.400714Z",
+      "earliest_at": "2026-07-31T14:38:30.103877Z",
+      "latest_at": "2026-07-31T14:38:30.103877Z",
       "primary_item": {
         "id": "hotelitem_9699887c72ea",
         "title": "中国旅游研究院与中青旅控股股份有限公司开展主题党日联学联",
@@ -451,14 +510,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9472,
-      "importance": 0.5919,
-      "importance_score": 0.9472,
+      "score": 0.9462,
+      "importance": 0.5909,
+      "importance_score": 0.9462,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9594,
+        "recency": 0.9544,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -510,14 +569,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9439,
-      "importance": 0.5885,
-      "importance_score": 0.9439,
+      "score": 0.943,
+      "importance": 0.5876,
+      "importance_score": 0.943,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9427,
+        "recency": 0.9378,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -569,14 +628,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9437,
-      "importance": 0.5883,
-      "importance_score": 0.9437,
+      "score": 0.9427,
+      "importance": 0.5873,
+      "importance_score": 0.9427,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9413,
+        "recency": 0.9364,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -628,14 +687,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.943,
-      "importance": 0.5875,
-      "importance_score": 0.943,
+      "score": 0.942,
+      "importance": 0.5865,
+      "importance_score": 0.942,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9376,
+        "recency": 0.9327,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -687,14 +746,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9298,
-      "importance": 0.5998,
-      "importance_score": 0.9298,
+      "score": 0.9288,
+      "importance": 0.5988,
+      "importance_score": 0.9288,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9988,
+        "recency": 0.9938,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -709,65 +768,6 @@
         "url": "https://www.pinchain.com/article/349400",
         "source": "品橙旅游",
         "source_name": "品橙旅游"
-      }
-    },
-    {
-      "story_id": "story_7e6897710fdc",
-      "title": "CitizenM, 1 Year Later: Learning to Love Marriott Audits and New Bonvoy Guests",
-      "url": "https://skift.com/2026/07/24/citizenm-1-year-later-learning-to-love-marriott-audits-and-new-bonvoy-guests/",
-      "primary_url": "https://skift.com/2026/07/24/citizenm-1-year-later-learning-to-love-marriott-audits-and-new-bonvoy-guests/",
-      "source": "Skift Hospitality",
-      "source_name": "Skift Hospitality",
-      "sources": [
-        {
-          "id": "hotelitem_7e6897710fdc",
-          "title": "CitizenM, 1 Year Later: Learning to Love Marriott Audits and New Bonvoy Guests",
-          "url": "https://skift.com/2026/07/24/citizenm-1-year-later-learning-to-love-marriott-audits-and-new-bonvoy-guests/",
-          "source": "Skift Hospitality",
-          "source_name": "Skift Hospitality",
-          "site_id": "skift",
-          "published_at": "2026-07-24T14:57:43Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Skift Hospitality"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_7e6897710fdc",
-          "title": "CitizenM, 1 Year Later: Learning to Love Marriott Audits and New Bonvoy Guests",
-          "url": "https://skift.com/2026/07/24/citizenm-1-year-later-learning-to-love-marriott-audits-and-new-bonvoy-guests/",
-          "source": "Skift Hospitality",
-          "source_name": "Skift Hospitality",
-          "site_id": "skift",
-          "published_at": "2026-07-24T14:57:43Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.926,
-      "importance": 0.5699,
-      "importance_score": 0.926,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.8497,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-24T14:57:43Z",
-      "latest_at": "2026-07-24T14:57:43Z",
-      "primary_item": {
-        "id": "hotelitem_7e6897710fdc",
-        "title": "CitizenM, 1 Year Later: Learning to Love Marriott Audits and New Bonvoy Guests",
-        "url": "https://skift.com/2026/07/24/citizenm-1-year-later-learning-to-love-marriott-audits-and-new-bonvoy-guests/",
-        "source": "Skift Hospitality",
-        "source_name": "Skift Hospitality"
       }
     },
     {
@@ -805,14 +805,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9099,
-      "importance": 0.5689,
-      "importance_score": 0.9099,
+      "score": 0.9085,
+      "importance": 0.5679,
+      "importance_score": 0.9085,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8443,
+        "recency": 0.8393,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -864,14 +864,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8939,
-      "importance": 0.5703,
-      "importance_score": 0.8939,
+      "score": 0.8929,
+      "importance": 0.5694,
+      "importance_score": 0.8929,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8517,
+        "recency": 0.8468,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -886,65 +886,6 @@
         "url": "https://www.traveldaily.cn/article/190440",
         "source": "环球旅讯 TravelDaily",
         "source_name": "环球旅讯 TravelDaily"
-      }
-    },
-    {
-      "story_id": "story_027734e13f5b",
-      "title": "Nonius Mobile expands Guest Room Control with CoolAutomation",
-      "url": "https://insights.ehotelier.com/suppliers/2026/07/31/nonius-mobile-expands-guest-room-control-with-coolautomation/?utm_source=rss&utm_medium=rss&utm_campaign=nonius-mobile-expands-guest-room-control-with-coolautomation",
-      "primary_url": "https://insights.ehotelier.com/suppliers/2026/07/31/nonius-mobile-expands-guest-room-control-with-coolautomation/?utm_source=rss&utm_medium=rss&utm_campaign=nonius-mobile-expands-guest-room-control-with-coolautomation",
-      "source": "eHotelier",
-      "source_name": "eHotelier",
-      "sources": [
-        {
-          "id": "hotelitem_027734e13f5b",
-          "title": "Nonius Mobile expands Guest Room Control with CoolAutomation",
-          "url": "https://insights.ehotelier.com/suppliers/2026/07/31/nonius-mobile-expands-guest-room-control-with-coolautomation/?utm_source=rss&utm_medium=rss&utm_campaign=nonius-mobile-expands-guest-room-control-with-coolautomation",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-07-31T02:00:54Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "eHotelier"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_027734e13f5b",
-          "title": "Nonius Mobile expands Guest Room Control with CoolAutomation",
-          "url": "https://insights.ehotelier.com/suppliers/2026/07/31/nonius-mobile-expands-guest-room-control-with-coolautomation/?utm_source=rss&utm_medium=rss&utm_campaign=nonius-mobile-expands-guest-room-control-with-coolautomation",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-07-31T02:00:54Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8637,
-      "importance": 0.5986,
-      "importance_score": 0.8637,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9932,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-31T02:00:54Z",
-      "latest_at": "2026-07-31T02:00:54Z",
-      "primary_item": {
-        "id": "hotelitem_027734e13f5b",
-        "title": "Nonius Mobile expands Guest Room Control with CoolAutomation",
-        "url": "https://insights.ehotelier.com/suppliers/2026/07/31/nonius-mobile-expands-guest-room-control-with-coolautomation/?utm_source=rss&utm_medium=rss&utm_campaign=nonius-mobile-expands-guest-room-control-with-coolautomation",
-        "source": "eHotelier",
-        "source_name": "eHotelier"
       }
     },
     {
@@ -982,14 +923,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8636,
-      "importance": 0.5986,
-      "importance_score": 0.8636,
+      "score": 0.8627,
+      "importance": 0.5976,
+      "importance_score": 0.8627,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9929,
+        "recency": 0.9879,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1002,6 +943,65 @@
         "id": "hotelitem_07a2b1ed9cb7",
         "title": "Jon Stein appointed Principal at Smith Hill Capital",
         "url": "https://insights.ehotelier.com/people/2026/07/31/jon-stein-appointed-principal-at-smith-hill-capital/?utm_source=rss&utm_medium=rss&utm_campaign=jon-stein-appointed-principal-at-smith-hill-capital",
+        "source": "eHotelier",
+        "source_name": "eHotelier"
+      }
+    },
+    {
+      "story_id": "story_027734e13f5b",
+      "title": "Nonius Mobile expands Guest Room Control with CoolAutomation",
+      "url": "https://insights.ehotelier.com/suppliers/2026/07/31/nonius-mobile-expands-guest-room-control-with-coolautomation/?utm_source=rss&utm_medium=rss&utm_campaign=nonius-mobile-expands-guest-room-control-with-coolautomation",
+      "primary_url": "https://insights.ehotelier.com/suppliers/2026/07/31/nonius-mobile-expands-guest-room-control-with-coolautomation/?utm_source=rss&utm_medium=rss&utm_campaign=nonius-mobile-expands-guest-room-control-with-coolautomation",
+      "source": "eHotelier",
+      "source_name": "eHotelier",
+      "sources": [
+        {
+          "id": "hotelitem_027734e13f5b",
+          "title": "Nonius Mobile expands Guest Room Control with CoolAutomation",
+          "url": "https://insights.ehotelier.com/suppliers/2026/07/31/nonius-mobile-expands-guest-room-control-with-coolautomation/?utm_source=rss&utm_medium=rss&utm_campaign=nonius-mobile-expands-guest-room-control-with-coolautomation",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-07-31T02:00:54Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "eHotelier"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_027734e13f5b",
+          "title": "Nonius Mobile expands Guest Room Control with CoolAutomation",
+          "url": "https://insights.ehotelier.com/suppliers/2026/07/31/nonius-mobile-expands-guest-room-control-with-coolautomation/?utm_source=rss&utm_medium=rss&utm_campaign=nonius-mobile-expands-guest-room-control-with-coolautomation",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-07-31T02:00:54Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8627,
+      "importance": 0.5977,
+      "importance_score": 0.8627,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9883,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-31T02:00:54Z",
+      "latest_at": "2026-07-31T02:00:54Z",
+      "primary_item": {
+        "id": "hotelitem_027734e13f5b",
+        "title": "Nonius Mobile expands Guest Room Control with CoolAutomation",
+        "url": "https://insights.ehotelier.com/suppliers/2026/07/31/nonius-mobile-expands-guest-room-control-with-coolautomation/?utm_source=rss&utm_medium=rss&utm_campaign=nonius-mobile-expands-guest-room-control-with-coolautomation",
         "source": "eHotelier",
         "source_name": "eHotelier"
       }
@@ -1021,7 +1021,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-31T09:18:34.400714Z"
+          "published_at": "2026-07-31T14:38:30.103877Z"
         },
         {
           "id": "hotelitem_c7c15b7680c9",
@@ -1030,7 +1030,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-31T09:18:34.400714Z"
+          "published_at": "2026-07-31T14:38:30.103877Z"
         }
       ],
       "source_count": 2,
@@ -1045,7 +1045,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-31T09:18:34.400714Z"
+          "published_at": "2026-07-31T14:38:30.103877Z"
         },
         {
           "id": "hotelitem_c7c15b7680c9",
@@ -1054,7 +1054,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-31T09:18:34.400714Z"
+          "published_at": "2026-07-31T14:38:30.103877Z"
         }
       ],
       "item_count": 2,
@@ -1074,90 +1074,12 @@
         "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-31T09:18:34.400714Z",
-      "latest_at": "2026-07-31T09:18:34.400714Z",
+      "earliest_at": "2026-07-31T14:38:30.103877Z",
+      "latest_at": "2026-07-31T14:38:30.103877Z",
       "primary_item": {
         "id": "hotelitem_d4370964909c",
         "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
         "url": "https://www.chinahotel.org.cn/articles/17408",
-        "source": "中国饭店协会",
-        "source_name": "中国饭店协会"
-      }
-    },
-    {
-      "story_id": "story_816c6fb1ed6e",
-      "title": "指数发布 | 中国住宿业消费指数报告（2026年上半年）发布 为贯彻落实提振消费相关政策，真实反映中国住宿餐饮业市场消费情况，以数据引导促消费政策精准发力，为行业发展提供参考建议，中国饭店协会每月公开发布“中国饭店业消费指数体系”，包含“中国住宿业消费指数（China Hotel Industry Consumption Index, HCI）”与“中国餐饮业消费指数(China Catering Industry Consumption Index, CCI)”，欢迎关注。\n本篇发布的是“中国住宿业消费指数”。",
-      "url": "https://www.chinahotel.org.cn/articles/17912",
-      "primary_url": "https://www.chinahotel.org.cn/articles/17912",
-      "source": "中国饭店协会",
-      "source_name": "中国饭店协会",
-      "sources": [
-        {
-          "id": "hotelitem_3e02fd1a1636",
-          "title": "指数发布 | 中国住宿业消费指数报告（2026年上半年）发布 为贯彻落实提振消费相关政策，真实反映中国住宿餐饮业市场消费情况，以数据引导促消费政策精准发力，为行业发展提供参考建议，中国饭店协会每月公开发布“中国饭店业消费指数体系”，包含“中国住宿业消费指数（China Hotel Industry Consumption Index, HCI）”与“中国餐饮业消费指数(China Catering Industry Consumption Index, CCI)”，欢迎关注。\n本篇发布的是“中国住宿业消费指数”。",
-          "url": "https://www.chinahotel.org.cn/articles/17912",
-          "source": "中国饭店协会",
-          "source_name": "中国饭店协会",
-          "site_id": "chinahotel",
-          "published_at": "2026-07-31T09:18:34.400714Z"
-        },
-        {
-          "id": "hotelitem_816c6fb1ed6e",
-          "title": "指数发布 | 中国餐饮业消费指数报告（2026年上半年）发布 为贯彻落实提振消费相关政策，真实反映中国住宿餐饮业市场消费情况，以数据引导促消费政策精准发力，为行业发展提供参考建议，中国饭店协会每月公开发布“中国饭店业消费指数体系”，包含“中国住宿业消费指数（China Hotel Industry Consumption Index, HCI）”与“中国餐饮业消费指数(China Catering Industry Consumption Index, CCI)”，欢迎关注。\n本篇发布的是“中国餐饮业消费指数”。",
-          "url": "https://www.chinahotel.org.cn/articles/17915",
-          "source": "中国饭店协会",
-          "source_name": "中国饭店协会",
-          "site_id": "chinahotel",
-          "published_at": "2026-07-31T09:18:34.400714Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "中国饭店协会"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_3e02fd1a1636",
-          "title": "指数发布 | 中国住宿业消费指数报告（2026年上半年）发布 为贯彻落实提振消费相关政策，真实反映中国住宿餐饮业市场消费情况，以数据引导促消费政策精准发力，为行业发展提供参考建议，中国饭店协会每月公开发布“中国饭店业消费指数体系”，包含“中国住宿业消费指数（China Hotel Industry Consumption Index, HCI）”与“中国餐饮业消费指数(China Catering Industry Consumption Index, CCI)”，欢迎关注。\n本篇发布的是“中国住宿业消费指数”。",
-          "url": "https://www.chinahotel.org.cn/articles/17912",
-          "source": "中国饭店协会",
-          "source_name": "中国饭店协会",
-          "site_id": "chinahotel",
-          "published_at": "2026-07-31T09:18:34.400714Z"
-        },
-        {
-          "id": "hotelitem_816c6fb1ed6e",
-          "title": "指数发布 | 中国餐饮业消费指数报告（2026年上半年）发布 为贯彻落实提振消费相关政策，真实反映中国住宿餐饮业市场消费情况，以数据引导促消费政策精准发力，为行业发展提供参考建议，中国饭店协会每月公开发布“中国饭店业消费指数体系”，包含“中国住宿业消费指数（China Hotel Industry Consumption Index, HCI）”与“中国餐饮业消费指数(China Catering Industry Consumption Index, CCI)”，欢迎关注。\n本篇发布的是“中国餐饮业消费指数”。",
-          "url": "https://www.chinahotel.org.cn/articles/17915",
-          "source": "中国饭店协会",
-          "source_name": "中国饭店协会",
-          "site_id": "chinahotel",
-          "published_at": "2026-07-31T09:18:34.400714Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.86,
-      "importance": 0.625,
-      "importance_score": 0.86,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-31T09:18:34.400714Z",
-      "latest_at": "2026-07-31T09:18:34.400714Z",
-      "primary_item": {
-        "id": "hotelitem_3e02fd1a1636",
-        "title": "指数发布 | 中国住宿业消费指数报告（2026年上半年）发布 为贯彻落实提振消费相关政策，真实反映中国住宿餐饮业市场消费情况，以数据引导促消费政策精准发力，为行业发展提供参考建议，中国饭店协会每月公开发布“中国饭店业消费指数体系”，包含“中国住宿业消费指数（China Hotel Industry Consumption Index, HCI）”与“中国餐饮业消费指数(China Catering Industry Consumption Index, CCI)”，欢迎关注。\n本篇发布的是“中国住宿业消费指数”。",
-        "url": "https://www.chinahotel.org.cn/articles/17912",
         "source": "中国饭店协会",
         "source_name": "中国饭店协会"
       }
@@ -1177,7 +1099,7 @@
           "source": "迈点研究院",
           "source_name": "迈点研究院",
           "site_id": "meadin",
-          "published_at": "2026-07-31T09:18:34.400714Z"
+          "published_at": "2026-07-31T14:38:30.103877Z"
         }
       ],
       "source_count": 1,
@@ -1192,7 +1114,7 @@
           "source": "迈点研究院",
           "source_name": "迈点研究院",
           "site_id": "meadin",
-          "published_at": "2026-07-31T09:18:34.400714Z"
+          "published_at": "2026-07-31T14:38:30.103877Z"
         }
       ],
       "item_count": 1,
@@ -1211,8 +1133,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-31T09:18:34.400714Z",
-      "latest_at": "2026-07-31T09:18:34.400714Z",
+      "earliest_at": "2026-07-31T14:38:30.103877Z",
+      "latest_at": "2026-07-31T14:38:30.103877Z",
       "primary_item": {
         "id": "hotelitem_d34b045bbfe4",
         "title": "凯悦酒店集团2026年Q2全系统可比酒店RevPAR同比提升5.9%",
@@ -1236,7 +1158,7 @@
           "source": "迈点研究院",
           "source_name": "迈点研究院",
           "site_id": "meadin",
-          "published_at": "2026-07-31T09:18:34.400714Z"
+          "published_at": "2026-07-31T14:38:30.103877Z"
         }
       ],
       "source_count": 1,
@@ -1251,7 +1173,7 @@
           "source": "迈点研究院",
           "source_name": "迈点研究院",
           "site_id": "meadin",
-          "published_at": "2026-07-31T09:18:34.400714Z"
+          "published_at": "2026-07-31T14:38:30.103877Z"
         }
       ],
       "item_count": 1,
@@ -1270,8 +1192,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-31T09:18:34.400714Z",
-      "latest_at": "2026-07-31T09:18:34.400714Z",
+      "earliest_at": "2026-07-31T14:38:30.103877Z",
+      "latest_at": "2026-07-31T14:38:30.103877Z",
       "primary_item": {
         "id": "hotelitem_109955ebc860",
         "title": "雅高集团2026上半年全系统可比酒店RevPAR同比上涨2.2%。",
@@ -1295,7 +1217,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-07-31T09:18:34.400714Z"
+          "published_at": "2026-07-31T14:38:30.103877Z"
         }
       ],
       "source_count": 1,
@@ -1310,7 +1232,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-07-31T09:18:34.400714Z"
+          "published_at": "2026-07-31T14:38:30.103877Z"
         }
       ],
       "item_count": 1,
@@ -1329,8 +1251,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-31T09:18:34.400714Z",
-      "latest_at": "2026-07-31T09:18:34.400714Z",
+      "earliest_at": "2026-07-31T14:38:30.103877Z",
+      "latest_at": "2026-07-31T14:38:30.103877Z",
       "primary_item": {
         "id": "hotelitem_e4ce0593c384",
         "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
@@ -1354,7 +1276,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-07-31T09:18:34.400714Z"
+          "published_at": "2026-07-31T14:38:30.103877Z"
         }
       ],
       "source_count": 1,
@@ -1369,7 +1291,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-07-31T09:18:34.400714Z"
+          "published_at": "2026-07-31T14:38:30.103877Z"
         }
       ],
       "item_count": 1,
@@ -1388,8 +1310,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-31T09:18:34.400714Z",
-      "latest_at": "2026-07-31T09:18:34.400714Z",
+      "earliest_at": "2026-07-31T14:38:30.103877Z",
+      "latest_at": "2026-07-31T14:38:30.103877Z",
       "primary_item": {
         "id": "hotelitem_fa34986b4fc0",
         "title": "文化和旅游部、金融监管总局关于警惕借“保...",
@@ -1413,7 +1335,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-07-31T09:18:34.400714Z"
+          "published_at": "2026-07-31T14:38:30.103877Z"
         }
       ],
       "source_count": 1,
@@ -1428,7 +1350,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-07-31T09:18:34.400714Z"
+          "published_at": "2026-07-31T14:38:30.103877Z"
         }
       ],
       "item_count": 1,
@@ -1447,8 +1369,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-31T09:18:34.400714Z",
-      "latest_at": "2026-07-31T09:18:34.400714Z",
+      "earliest_at": "2026-07-31T14:38:30.103877Z",
+      "latest_at": "2026-07-31T14:38:30.103877Z",
       "primary_item": {
         "id": "hotelitem_9a958319a874",
         "title": "文化和旅游部印发《旅游强国建设“十五五”...",
@@ -1492,14 +1414,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8487,
-      "importance": 0.5831,
-      "importance_score": 0.8487,
+      "score": 0.8478,
+      "importance": 0.5821,
+      "importance_score": 0.8478,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9156,
+        "recency": 0.9107,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1514,65 +1436,6 @@
         "url": "https://skift.com/2026/07/27/chinas-hotel-investment-surge-isnt-just-a-distress-sale-story/",
         "source": "Skift Hospitality",
         "source_name": "Skift Hospitality"
-      }
-    },
-    {
-      "story_id": "story_d79388d95076",
-      "title": "US hotel construction pipeline down in Q2, but higher-tier segments saw growth",
-      "url": "https://www.hoteldive.com/news/hotel-construction-pipeline-q2-2026/826231/",
-      "primary_url": "https://www.hoteldive.com/news/hotel-construction-pipeline-q2-2026/826231/",
-      "source": "Hotel Dive",
-      "source_name": "Hotel Dive",
-      "sources": [
-        {
-          "id": "hotelitem_d79388d95076",
-          "title": "US hotel construction pipeline down in Q2, but higher-tier segments saw growth",
-          "url": "https://www.hoteldive.com/news/hotel-construction-pipeline-q2-2026/826231/",
-          "source": "Hotel Dive",
-          "source_name": "Hotel Dive",
-          "site_id": "hoteldive",
-          "published_at": "2026-07-27T14:16:05Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hotel Dive"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_d79388d95076",
-          "title": "US hotel construction pipeline down in Q2, but higher-tier segments saw growth",
-          "url": "https://www.hoteldive.com/news/hotel-construction-pipeline-q2-2026/826231/",
-          "source": "Hotel Dive",
-          "source_name": "Hotel Dive",
-          "site_id": "hoteldive",
-          "published_at": "2026-07-27T14:16:05Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8487,
-      "importance": 0.5831,
-      "importance_score": 0.8487,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9157,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-27T14:16:05Z",
-      "latest_at": "2026-07-27T14:16:05Z",
-      "primary_item": {
-        "id": "hotelitem_d79388d95076",
-        "title": "US hotel construction pipeline down in Q2, but higher-tier segments saw growth",
-        "url": "https://www.hoteldive.com/news/hotel-construction-pipeline-q2-2026/826231/",
-        "source": "Hotel Dive",
-        "source_name": "Hotel Dive"
       }
     },
     {
@@ -1610,14 +1473,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8467,
-      "importance": 0.5966,
-      "importance_score": 0.8467,
+      "score": 0.8457,
+      "importance": 0.5956,
+      "importance_score": 0.8457,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9828,
+        "recency": 0.9779,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1669,14 +1532,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8372,
-      "importance": 0.5867,
-      "importance_score": 0.8372,
+      "score": 0.8362,
+      "importance": 0.5857,
+      "importance_score": 0.8362,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9335,
+        "recency": 0.9286,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1728,14 +1591,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.836,
-      "importance": 0.57,
-      "importance_score": 0.836,
+      "score": 0.8351,
+      "importance": 0.569,
+      "importance_score": 0.8351,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8498,
+        "recency": 0.8449,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1750,6 +1613,65 @@
         "url": "https://skift.com/2026/07/24/wildfire-risk-is-increasing-rising-insurance-costs-are-pushing-hotels-to-prepare/",
         "source": "Skift Hospitality",
         "source_name": "Skift Hospitality"
+      }
+    },
+    {
+      "story_id": "story_b598e9295469",
+      "title": "Lodging Lowdown: Viceroy Hotels to debut NYC flagship, Radisson launches app on ChatGPT",
+      "url": "https://www.hoteldive.com/news/viceroy-hotels-to-debut-new-york-flagship/826681/",
+      "primary_url": "https://www.hoteldive.com/news/viceroy-hotels-to-debut-new-york-flagship/826681/",
+      "source": "Hotel Dive",
+      "source_name": "Hotel Dive",
+      "sources": [
+        {
+          "id": "hotelitem_b598e9295469",
+          "title": "Lodging Lowdown: Viceroy Hotels to debut NYC flagship, Radisson launches app on ChatGPT",
+          "url": "https://www.hoteldive.com/news/viceroy-hotels-to-debut-new-york-flagship/826681/",
+          "source": "Hotel Dive",
+          "source_name": "Hotel Dive",
+          "site_id": "hoteldive",
+          "published_at": "2026-07-31T13:34:12Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hotel Dive"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_b598e9295469",
+          "title": "Lodging Lowdown: Viceroy Hotels to debut NYC flagship, Radisson launches app on ChatGPT",
+          "url": "https://www.hoteldive.com/news/viceroy-hotels-to-debut-new-york-flagship/826681/",
+          "source": "Hotel Dive",
+          "source_name": "Hotel Dive",
+          "site_id": "hoteldive",
+          "published_at": "2026-07-31T13:34:12Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8198,
+      "importance": 0.5998,
+      "importance_score": 0.8198,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.999,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-31T13:34:12Z",
+      "latest_at": "2026-07-31T13:34:12Z",
+      "primary_item": {
+        "id": "hotelitem_b598e9295469",
+        "title": "Lodging Lowdown: Viceroy Hotels to debut NYC flagship, Radisson launches app on ChatGPT",
+        "url": "https://www.hoteldive.com/news/viceroy-hotels-to-debut-new-york-flagship/826681/",
+        "source": "Hotel Dive",
+        "source_name": "Hotel Dive"
       }
     },
     {
@@ -1787,14 +1709,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8197,
-      "importance": 0.5687,
-      "importance_score": 0.8197,
+      "score": 0.8183,
+      "importance": 0.5677,
+      "importance_score": 0.8183,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8435,
+        "recency": 0.8385,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1809,6 +1731,65 @@
         "url": "https://boutiquehotelnews.com/news/industry/hmrc-avison-young/?utm_source=rss&utm_medium=rss&utm_campaign=hmrc-avison-young",
         "source": "Boutique Hotel News",
         "source_name": "Boutique Hotel News"
+      }
+    },
+    {
+      "story_id": "story_46535dffcb1a",
+      "title": "去哪儿旅行：8月第一周周末机票预订量增62%",
+      "url": "https://www.pinchain.com/article/349416",
+      "primary_url": "https://www.pinchain.com/article/349416",
+      "source": "品橙旅游",
+      "source_name": "品橙旅游",
+      "sources": [
+        {
+          "id": "hotelitem_46535dffcb1a",
+          "title": "去哪儿旅行：8月第一周周末机票预订量增62%",
+          "url": "https://www.pinchain.com/article/349416",
+          "source": "品橙旅游",
+          "source_name": "品橙旅游",
+          "site_id": "pinchain",
+          "published_at": "2026-07-31T10:13:03Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "品橙旅游"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_46535dffcb1a",
+          "title": "去哪儿旅行：8月第一周周末机票预订量增62%",
+          "url": "https://www.pinchain.com/article/349416",
+          "source": "品橙旅游",
+          "source_name": "品橙旅游",
+          "site_id": "pinchain",
+          "published_at": "2026-07-31T10:13:03Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8167,
+      "importance": 0.5992,
+      "importance_score": 0.8167,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9959,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-31T10:13:03Z",
+      "latest_at": "2026-07-31T10:13:03Z",
+      "primary_item": {
+        "id": "hotelitem_46535dffcb1a",
+        "title": "去哪儿旅行：8月第一周周末机票预订量增62%",
+        "url": "https://www.pinchain.com/article/349416",
+        "source": "品橙旅游",
+        "source_name": "品橙旅游"
       }
     }
   ]
