@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T22:28:29.769366Z",
+  "generated_at": "2026-07-31T03:52:49.497464Z",
   "window_hours": 1080,
   "total_stories": 30,
   "stories": [
@@ -38,14 +38,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9987,
-      "importance": 0.5857,
-      "importance_score": 0.9987,
+      "score": 0.9977,
+      "importance": 0.5847,
+      "importance_score": 0.9977,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9283,
+        "recency": 0.9233,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -60,6 +60,65 @@
         "url": "https://www.traveldaily.cn/article/190452",
         "source": "环球旅讯 TravelDaily",
         "source_name": "环球旅讯 TravelDaily"
+      }
+    },
+    {
+      "story_id": "story_6554c42d584b",
+      "title": "Glasgow Marriott’s playbook for boosting room service revenue by 24% with IRIS digital ordering",
+      "url": "https://insights.ehotelier.com/suppliers/2026/07/31/glasgow-marriotts-playbook-for-boosting-room-service-revenue-by-24-with-iris-digital-ordering/?utm_source=rss&utm_medium=rss&utm_campaign=glasgow-marriotts-playbook-for-boosting-room-service-revenue-by-24-with-iris-digital-ordering",
+      "primary_url": "https://insights.ehotelier.com/suppliers/2026/07/31/glasgow-marriotts-playbook-for-boosting-room-service-revenue-by-24-with-iris-digital-ordering/?utm_source=rss&utm_medium=rss&utm_campaign=glasgow-marriotts-playbook-for-boosting-room-service-revenue-by-24-with-iris-digital-ordering",
+      "source": "eHotelier",
+      "source_name": "eHotelier",
+      "sources": [
+        {
+          "id": "hotelitem_6554c42d584b",
+          "title": "Glasgow Marriott’s playbook for boosting room service revenue by 24% with IRIS digital ordering",
+          "url": "https://insights.ehotelier.com/suppliers/2026/07/31/glasgow-marriotts-playbook-for-boosting-room-service-revenue-by-24-with-iris-digital-ordering/?utm_source=rss&utm_medium=rss&utm_campaign=glasgow-marriotts-playbook-for-boosting-room-service-revenue-by-24-with-iris-digital-ordering",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-07-31T01:50:49Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "eHotelier"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_6554c42d584b",
+          "title": "Glasgow Marriott’s playbook for boosting room service revenue by 24% with IRIS digital ordering",
+          "url": "https://insights.ehotelier.com/suppliers/2026/07/31/glasgow-marriotts-playbook-for-boosting-room-service-revenue-by-24-with-iris-digital-ordering/?utm_source=rss&utm_medium=rss&utm_campaign=glasgow-marriotts-playbook-for-boosting-room-service-revenue-by-24-with-iris-digital-ordering",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-07-31T01:50:49Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.9546,
+      "importance": 0.5996,
+      "importance_score": 0.9546,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9981,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-31T01:50:49Z",
+      "latest_at": "2026-07-31T01:50:49Z",
+      "primary_item": {
+        "id": "hotelitem_6554c42d584b",
+        "title": "Glasgow Marriott’s playbook for boosting room service revenue by 24% with IRIS digital ordering",
+        "url": "https://insights.ehotelier.com/suppliers/2026/07/31/glasgow-marriotts-playbook-for-boosting-room-service-revenue-by-24-with-iris-digital-ordering/?utm_source=rss&utm_medium=rss&utm_campaign=glasgow-marriotts-playbook-for-boosting-room-service-revenue-by-24-with-iris-digital-ordering",
+        "source": "eHotelier",
+        "source_name": "eHotelier"
       }
     },
     {
@@ -97,14 +156,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9546,
-      "importance": 0.5996,
-      "importance_score": 0.9546,
+      "score": 0.9536,
+      "importance": 0.5986,
+      "importance_score": 0.9536,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9978,
+        "recency": 0.9928,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -156,14 +215,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.954,
-      "importance": 0.5989,
-      "importance_score": 0.954,
+      "score": 0.953,
+      "importance": 0.5979,
+      "importance_score": 0.953,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9947,
+        "recency": 0.9896,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -215,14 +274,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9535,
-      "importance": 0.5984,
-      "importance_score": 0.9535,
+      "score": 0.9525,
+      "importance": 0.5974,
+      "importance_score": 0.9525,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9922,
+        "recency": 0.9872,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -274,14 +333,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9534,
-      "importance": 0.5983,
-      "importance_score": 0.9534,
+      "score": 0.9524,
+      "importance": 0.5973,
+      "importance_score": 0.9524,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9916,
+        "recency": 0.9866,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -333,14 +392,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9491,
-      "importance": 0.5939,
-      "importance_score": 0.9491,
+      "score": 0.9481,
+      "importance": 0.5929,
+      "importance_score": 0.9481,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9694,
+        "recency": 0.9644,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -372,7 +431,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-07-30T22:28:29.769366Z"
+          "published_at": "2026-07-31T03:52:49.497464Z"
         }
       ],
       "source_count": 1,
@@ -387,7 +446,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-07-30T22:28:29.769366Z"
+          "published_at": "2026-07-31T03:52:49.497464Z"
         }
       ],
       "item_count": 1,
@@ -406,8 +465,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-30T22:28:29.769366Z",
-      "latest_at": "2026-07-30T22:28:29.769366Z",
+      "earliest_at": "2026-07-31T03:52:49.497464Z",
+      "latest_at": "2026-07-31T03:52:49.497464Z",
       "primary_item": {
         "id": "hotelitem_9699887c72ea",
         "title": "中国旅游研究院与中青旅控股股份有限公司开展主题党日联学联",
@@ -451,14 +510,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9459,
-      "importance": 0.5905,
-      "importance_score": 0.9459,
+      "score": 0.9449,
+      "importance": 0.5895,
+      "importance_score": 0.9449,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9527,
+        "recency": 0.9477,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -510,14 +569,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9456,
-      "importance": 0.5903,
-      "importance_score": 0.9456,
+      "score": 0.9447,
+      "importance": 0.5893,
+      "importance_score": 0.9447,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9514,
+        "recency": 0.9464,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -569,14 +628,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9449,
-      "importance": 0.5895,
-      "importance_score": 0.9449,
+      "score": 0.9439,
+      "importance": 0.5885,
+      "importance_score": 0.9439,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9477,
+        "recency": 0.9427,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -628,14 +687,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9279,
-      "importance": 0.5719,
-      "importance_score": 0.9279,
+      "score": 0.927,
+      "importance": 0.5709,
+      "importance_score": 0.927,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8597,
+        "recency": 0.8547,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -687,14 +746,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9119,
-      "importance": 0.5709,
-      "importance_score": 0.9119,
+      "score": 0.9109,
+      "importance": 0.5699,
+      "importance_score": 0.9109,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8543,
+        "recency": 0.8493,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -726,7 +785,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-30T22:28:29.769366Z"
+          "published_at": "2026-07-31T03:52:49.497464Z"
         },
         {
           "id": "hotelitem_c7c15b7680c9",
@@ -735,7 +794,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-30T22:28:29.769366Z"
+          "published_at": "2026-07-31T03:52:49.497464Z"
         },
         {
           "id": "hotelitem_6d8fa145e8af",
@@ -744,7 +803,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-30T22:28:29.769366Z"
+          "published_at": "2026-07-31T03:52:49.497464Z"
         }
       ],
       "source_count": 3,
@@ -759,7 +818,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-30T22:28:29.769366Z"
+          "published_at": "2026-07-31T03:52:49.497464Z"
         },
         {
           "id": "hotelitem_c7c15b7680c9",
@@ -768,7 +827,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-30T22:28:29.769366Z"
+          "published_at": "2026-07-31T03:52:49.497464Z"
         },
         {
           "id": "hotelitem_6d8fa145e8af",
@@ -777,7 +836,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-30T22:28:29.769366Z"
+          "published_at": "2026-07-31T03:52:49.497464Z"
         }
       ],
       "item_count": 3,
@@ -797,8 +856,8 @@
         "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-30T22:28:29.769366Z",
-      "latest_at": "2026-07-30T22:28:29.769366Z",
+      "earliest_at": "2026-07-31T03:52:49.497464Z",
+      "latest_at": "2026-07-31T03:52:49.497464Z",
       "primary_item": {
         "id": "hotelitem_d4370964909c",
         "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
@@ -842,14 +901,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8958,
-      "importance": 0.5723,
-      "importance_score": 0.8958,
+      "score": 0.8949,
+      "importance": 0.5713,
+      "importance_score": 0.8949,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8617,
+        "recency": 0.8567,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -867,21 +926,21 @@
       }
     },
     {
-      "story_id": "story_20403a8b4584",
-      "title": "WTTC unveils seven principles to help destinations turn tourism growth into shared prosperity",
-      "url": "https://insights.ehotelier.com/global-news/2026/07/30/wttc-unveils-seven-principles-to-help-destinations-turn-tourism-growth-into-shared-prosperity/?utm_source=rss&utm_medium=rss&utm_campaign=wttc-unveils-seven-principles-to-help-destinations-turn-tourism-growth-into-shared-prosperity",
-      "primary_url": "https://insights.ehotelier.com/global-news/2026/07/30/wttc-unveils-seven-principles-to-help-destinations-turn-tourism-growth-into-shared-prosperity/?utm_source=rss&utm_medium=rss&utm_campaign=wttc-unveils-seven-principles-to-help-destinations-turn-tourism-growth-into-shared-prosperity",
+      "story_id": "story_027734e13f5b",
+      "title": "Nonius Mobile expands Guest Room Control with CoolAutomation",
+      "url": "https://insights.ehotelier.com/suppliers/2026/07/31/nonius-mobile-expands-guest-room-control-with-coolautomation/?utm_source=rss&utm_medium=rss&utm_campaign=nonius-mobile-expands-guest-room-control-with-coolautomation",
+      "primary_url": "https://insights.ehotelier.com/suppliers/2026/07/31/nonius-mobile-expands-guest-room-control-with-coolautomation/?utm_source=rss&utm_medium=rss&utm_campaign=nonius-mobile-expands-guest-room-control-with-coolautomation",
       "source": "eHotelier",
       "source_name": "eHotelier",
       "sources": [
         {
-          "id": "hotelitem_20403a8b4584",
-          "title": "WTTC unveils seven principles to help destinations turn tourism growth into shared prosperity",
-          "url": "https://insights.ehotelier.com/global-news/2026/07/30/wttc-unveils-seven-principles-to-help-destinations-turn-tourism-growth-into-shared-prosperity/?utm_source=rss&utm_medium=rss&utm_campaign=wttc-unveils-seven-principles-to-help-destinations-turn-tourism-growth-into-shared-prosperity",
+          "id": "hotelitem_027734e13f5b",
+          "title": "Nonius Mobile expands Guest Room Control with CoolAutomation",
+          "url": "https://insights.ehotelier.com/suppliers/2026/07/31/nonius-mobile-expands-guest-room-control-with-coolautomation/?utm_source=rss&utm_medium=rss&utm_campaign=nonius-mobile-expands-guest-room-control-with-coolautomation",
           "source": "eHotelier",
           "source_name": "eHotelier",
           "site_id": "ehotelier",
-          "published_at": "2026-07-30T01:40:05Z"
+          "published_at": "2026-07-31T02:00:54Z"
         }
       ],
       "source_count": 1,
@@ -890,57 +949,57 @@
       ],
       "items": [
         {
-          "id": "hotelitem_20403a8b4584",
-          "title": "WTTC unveils seven principles to help destinations turn tourism growth into shared prosperity",
-          "url": "https://insights.ehotelier.com/global-news/2026/07/30/wttc-unveils-seven-principles-to-help-destinations-turn-tourism-growth-into-shared-prosperity/?utm_source=rss&utm_medium=rss&utm_campaign=wttc-unveils-seven-principles-to-help-destinations-turn-tourism-growth-into-shared-prosperity",
+          "id": "hotelitem_027734e13f5b",
+          "title": "Nonius Mobile expands Guest Room Control with CoolAutomation",
+          "url": "https://insights.ehotelier.com/suppliers/2026/07/31/nonius-mobile-expands-guest-room-control-with-coolautomation/?utm_source=rss&utm_medium=rss&utm_campaign=nonius-mobile-expands-guest-room-control-with-coolautomation",
           "source": "eHotelier",
           "source_name": "eHotelier",
           "site_id": "ehotelier",
-          "published_at": "2026-07-30T01:40:05Z"
+          "published_at": "2026-07-31T02:00:54Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8613,
-      "importance": 0.5961,
-      "importance_score": 0.8613,
+      "score": 0.8647,
+      "importance": 0.5997,
+      "importance_score": 0.8647,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9807,
+        "recency": 0.9983,
         "story_heat": 0.0
       },
       "category": "watch",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-30T01:40:05Z",
-      "latest_at": "2026-07-30T01:40:05Z",
+      "earliest_at": "2026-07-31T02:00:54Z",
+      "latest_at": "2026-07-31T02:00:54Z",
       "primary_item": {
-        "id": "hotelitem_20403a8b4584",
-        "title": "WTTC unveils seven principles to help destinations turn tourism growth into shared prosperity",
-        "url": "https://insights.ehotelier.com/global-news/2026/07/30/wttc-unveils-seven-principles-to-help-destinations-turn-tourism-growth-into-shared-prosperity/?utm_source=rss&utm_medium=rss&utm_campaign=wttc-unveils-seven-principles-to-help-destinations-turn-tourism-growth-into-shared-prosperity",
+        "id": "hotelitem_027734e13f5b",
+        "title": "Nonius Mobile expands Guest Room Control with CoolAutomation",
+        "url": "https://insights.ehotelier.com/suppliers/2026/07/31/nonius-mobile-expands-guest-room-control-with-coolautomation/?utm_source=rss&utm_medium=rss&utm_campaign=nonius-mobile-expands-guest-room-control-with-coolautomation",
         "source": "eHotelier",
         "source_name": "eHotelier"
       }
     },
     {
-      "story_id": "story_1389cf2e72b6",
-      "title": "Dusit’s Doha properties strengthen their position as leading dining destinations in Qatar",
-      "url": "https://insights.ehotelier.com/global-news/2026/07/30/dusits-doha-properties-strengthen-their-position-as-leading-dining-destinations-in-qatar/?utm_source=rss&utm_medium=rss&utm_campaign=dusits-doha-properties-strengthen-their-position-as-leading-dining-destinations-in-qatar",
-      "primary_url": "https://insights.ehotelier.com/global-news/2026/07/30/dusits-doha-properties-strengthen-their-position-as-leading-dining-destinations-in-qatar/?utm_source=rss&utm_medium=rss&utm_campaign=dusits-doha-properties-strengthen-their-position-as-leading-dining-destinations-in-qatar",
+      "story_id": "story_07a2b1ed9cb7",
+      "title": "Jon Stein appointed Principal at Smith Hill Capital",
+      "url": "https://insights.ehotelier.com/people/2026/07/31/jon-stein-appointed-principal-at-smith-hill-capital/?utm_source=rss&utm_medium=rss&utm_campaign=jon-stein-appointed-principal-at-smith-hill-capital",
+      "primary_url": "https://insights.ehotelier.com/people/2026/07/31/jon-stein-appointed-principal-at-smith-hill-capital/?utm_source=rss&utm_medium=rss&utm_campaign=jon-stein-appointed-principal-at-smith-hill-capital",
       "source": "eHotelier",
       "source_name": "eHotelier",
       "sources": [
         {
-          "id": "hotelitem_1389cf2e72b6",
-          "title": "Dusit’s Doha properties strengthen their position as leading dining destinations in Qatar",
-          "url": "https://insights.ehotelier.com/global-news/2026/07/30/dusits-doha-properties-strengthen-their-position-as-leading-dining-destinations-in-qatar/?utm_source=rss&utm_medium=rss&utm_campaign=dusits-doha-properties-strengthen-their-position-as-leading-dining-destinations-in-qatar",
+          "id": "hotelitem_07a2b1ed9cb7",
+          "title": "Jon Stein appointed Principal at Smith Hill Capital",
+          "url": "https://insights.ehotelier.com/people/2026/07/31/jon-stein-appointed-principal-at-smith-hill-capital/?utm_source=rss&utm_medium=rss&utm_campaign=jon-stein-appointed-principal-at-smith-hill-capital",
           "source": "eHotelier",
           "source_name": "eHotelier",
           "site_id": "ehotelier",
-          "published_at": "2026-07-30T01:46:27Z"
+          "published_at": "2026-07-31T01:35:41Z"
         }
       ],
       "source_count": 1,
@@ -949,96 +1008,37 @@
       ],
       "items": [
         {
-          "id": "hotelitem_1389cf2e72b6",
-          "title": "Dusit’s Doha properties strengthen their position as leading dining destinations in Qatar",
-          "url": "https://insights.ehotelier.com/global-news/2026/07/30/dusits-doha-properties-strengthen-their-position-as-leading-dining-destinations-in-qatar/?utm_source=rss&utm_medium=rss&utm_campaign=dusits-doha-properties-strengthen-their-position-as-leading-dining-destinations-in-qatar",
+          "id": "hotelitem_07a2b1ed9cb7",
+          "title": "Jon Stein appointed Principal at Smith Hill Capital",
+          "url": "https://insights.ehotelier.com/people/2026/07/31/jon-stein-appointed-principal-at-smith-hill-capital/?utm_source=rss&utm_medium=rss&utm_campaign=jon-stein-appointed-principal-at-smith-hill-capital",
           "source": "eHotelier",
           "source_name": "eHotelier",
           "site_id": "ehotelier",
-          "published_at": "2026-07-30T01:46:27Z"
+          "published_at": "2026-07-31T01:35:41Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8613,
-      "importance": 0.5962,
-      "importance_score": 0.8613,
+      "score": 0.8646,
+      "importance": 0.5996,
+      "importance_score": 0.8646,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9808,
+        "recency": 0.9979,
         "story_heat": 0.0
       },
       "category": "watch",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-30T01:46:27Z",
-      "latest_at": "2026-07-30T01:46:27Z",
+      "earliest_at": "2026-07-31T01:35:41Z",
+      "latest_at": "2026-07-31T01:35:41Z",
       "primary_item": {
-        "id": "hotelitem_1389cf2e72b6",
-        "title": "Dusit’s Doha properties strengthen their position as leading dining destinations in Qatar",
-        "url": "https://insights.ehotelier.com/global-news/2026/07/30/dusits-doha-properties-strengthen-their-position-as-leading-dining-destinations-in-qatar/?utm_source=rss&utm_medium=rss&utm_campaign=dusits-doha-properties-strengthen-their-position-as-leading-dining-destinations-in-qatar",
-        "source": "eHotelier",
-        "source_name": "eHotelier"
-      }
-    },
-    {
-      "story_id": "story_694735cd8355",
-      "title": "5 tips for mouthwatering food photography and the impact of visual menus on F&B revenue",
-      "url": "https://insights.ehotelier.com/suppliers/2026/07/30/5-tips-for-mouthwatering-food-photography-and-the-impact-of-visual-menus-on-fb-revenue/?utm_source=rss&utm_medium=rss&utm_campaign=5-tips-for-mouthwatering-food-photography-and-the-impact-of-visual-menus-on-fb-revenue",
-      "primary_url": "https://insights.ehotelier.com/suppliers/2026/07/30/5-tips-for-mouthwatering-food-photography-and-the-impact-of-visual-menus-on-fb-revenue/?utm_source=rss&utm_medium=rss&utm_campaign=5-tips-for-mouthwatering-food-photography-and-the-impact-of-visual-menus-on-fb-revenue",
-      "source": "eHotelier",
-      "source_name": "eHotelier",
-      "sources": [
-        {
-          "id": "hotelitem_694735cd8355",
-          "title": "5 tips for mouthwatering food photography and the impact of visual menus on F&B revenue",
-          "url": "https://insights.ehotelier.com/suppliers/2026/07/30/5-tips-for-mouthwatering-food-photography-and-the-impact-of-visual-menus-on-fb-revenue/?utm_source=rss&utm_medium=rss&utm_campaign=5-tips-for-mouthwatering-food-photography-and-the-impact-of-visual-menus-on-fb-revenue",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-07-30T01:55:15Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "eHotelier"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_694735cd8355",
-          "title": "5 tips for mouthwatering food photography and the impact of visual menus on F&B revenue",
-          "url": "https://insights.ehotelier.com/suppliers/2026/07/30/5-tips-for-mouthwatering-food-photography-and-the-impact-of-visual-menus-on-fb-revenue/?utm_source=rss&utm_medium=rss&utm_campaign=5-tips-for-mouthwatering-food-photography-and-the-impact-of-visual-menus-on-fb-revenue",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-07-30T01:55:15Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8613,
-      "importance": 0.5962,
-      "importance_score": 0.8613,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.981,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-30T01:55:15Z",
-      "latest_at": "2026-07-30T01:55:15Z",
-      "primary_item": {
-        "id": "hotelitem_694735cd8355",
-        "title": "5 tips for mouthwatering food photography and the impact of visual menus on F&B revenue",
-        "url": "https://insights.ehotelier.com/suppliers/2026/07/30/5-tips-for-mouthwatering-food-photography-and-the-impact-of-visual-menus-on-fb-revenue/?utm_source=rss&utm_medium=rss&utm_campaign=5-tips-for-mouthwatering-food-photography-and-the-impact-of-visual-menus-on-fb-revenue",
+        "id": "hotelitem_07a2b1ed9cb7",
+        "title": "Jon Stein appointed Principal at Smith Hill Capital",
+        "url": "https://insights.ehotelier.com/people/2026/07/31/jon-stein-appointed-principal-at-smith-hill-capital/?utm_source=rss&utm_medium=rss&utm_campaign=jon-stein-appointed-principal-at-smith-hill-capital",
         "source": "eHotelier",
         "source_name": "eHotelier"
       }
@@ -1058,7 +1058,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-30T22:28:29.769366Z"
+          "published_at": "2026-07-31T03:52:49.497464Z"
         },
         {
           "id": "hotelitem_816c6fb1ed6e",
@@ -1067,7 +1067,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-30T22:28:29.769366Z"
+          "published_at": "2026-07-31T03:52:49.497464Z"
         }
       ],
       "source_count": 2,
@@ -1082,7 +1082,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-30T22:28:29.769366Z"
+          "published_at": "2026-07-31T03:52:49.497464Z"
         },
         {
           "id": "hotelitem_816c6fb1ed6e",
@@ -1091,7 +1091,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-07-30T22:28:29.769366Z"
+          "published_at": "2026-07-31T03:52:49.497464Z"
         }
       ],
       "item_count": 2,
@@ -1111,14 +1111,132 @@
         "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-30T22:28:29.769366Z",
-      "latest_at": "2026-07-30T22:28:29.769366Z",
+      "earliest_at": "2026-07-31T03:52:49.497464Z",
+      "latest_at": "2026-07-31T03:52:49.497464Z",
       "primary_item": {
         "id": "hotelitem_3e02fd1a1636",
         "title": "指数发布 | 中国住宿业消费指数报告（2026年上半年）发布 为贯彻落实提振消费相关政策，真实反映中国住宿餐饮业市场消费情况，以数据引导促消费政策精准发力，为行业发展提供参考建议，中国饭店协会每月公开发布“中国饭店业消费指数体系”，包含“中国住宿业消费指数（China Hotel Industry Consumption Index, HCI）”与“中国餐饮业消费指数(China Catering Industry Consumption Index, CCI)”，欢迎关注。\n本篇发布的是“中国住宿业消费指数”。",
         "url": "https://www.chinahotel.org.cn/articles/17912",
         "source": "中国饭店协会",
         "source_name": "中国饭店协会"
+      }
+    },
+    {
+      "story_id": "story_d34b045bbfe4",
+      "title": "凯悦酒店集团2026年Q2全系统可比酒店RevPAR同比提升5.9%",
+      "url": "https://www.meadin.com/jd/299181.html",
+      "primary_url": "https://www.meadin.com/jd/299181.html",
+      "source": "迈点研究院",
+      "source_name": "迈点研究院",
+      "sources": [
+        {
+          "id": "hotelitem_d34b045bbfe4",
+          "title": "凯悦酒店集团2026年Q2全系统可比酒店RevPAR同比提升5.9%",
+          "url": "https://www.meadin.com/jd/299181.html",
+          "source": "迈点研究院",
+          "source_name": "迈点研究院",
+          "site_id": "meadin",
+          "published_at": "2026-07-31T03:52:49.497464Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "迈点研究院"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_d34b045bbfe4",
+          "title": "凯悦酒店集团2026年Q2全系统可比酒店RevPAR同比提升5.9%",
+          "url": "https://www.meadin.com/jd/299181.html",
+          "source": "迈点研究院",
+          "source_name": "迈点研究院",
+          "site_id": "meadin",
+          "published_at": "2026-07-31T03:52:49.497464Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.86,
+      "importance": 0.6,
+      "importance_score": 0.86,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-31T03:52:49.497464Z",
+      "latest_at": "2026-07-31T03:52:49.497464Z",
+      "primary_item": {
+        "id": "hotelitem_d34b045bbfe4",
+        "title": "凯悦酒店集团2026年Q2全系统可比酒店RevPAR同比提升5.9%",
+        "url": "https://www.meadin.com/jd/299181.html",
+        "source": "迈点研究院",
+        "source_name": "迈点研究院"
+      }
+    },
+    {
+      "story_id": "story_109955ebc860",
+      "title": "雅高集团2026上半年全系统可比酒店RevPAR同比上涨2.2%。",
+      "url": "https://www.meadin.com/jd/299178.html",
+      "primary_url": "https://www.meadin.com/jd/299178.html",
+      "source": "迈点研究院",
+      "source_name": "迈点研究院",
+      "sources": [
+        {
+          "id": "hotelitem_109955ebc860",
+          "title": "雅高集团2026上半年全系统可比酒店RevPAR同比上涨2.2%。",
+          "url": "https://www.meadin.com/jd/299178.html",
+          "source": "迈点研究院",
+          "source_name": "迈点研究院",
+          "site_id": "meadin",
+          "published_at": "2026-07-31T03:52:49.497464Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "迈点研究院"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_109955ebc860",
+          "title": "雅高集团2026上半年全系统可比酒店RevPAR同比上涨2.2%。",
+          "url": "https://www.meadin.com/jd/299178.html",
+          "source": "迈点研究院",
+          "source_name": "迈点研究院",
+          "site_id": "meadin",
+          "published_at": "2026-07-31T03:52:49.497464Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.86,
+      "importance": 0.6,
+      "importance_score": 0.86,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-31T03:52:49.497464Z",
+      "latest_at": "2026-07-31T03:52:49.497464Z",
+      "primary_item": {
+        "id": "hotelitem_109955ebc860",
+        "title": "雅高集团2026上半年全系统可比酒店RevPAR同比上涨2.2%。",
+        "url": "https://www.meadin.com/jd/299178.html",
+        "source": "迈点研究院",
+        "source_name": "迈点研究院"
       }
     },
     {
@@ -1136,7 +1254,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-07-30T22:28:29.769366Z"
+          "published_at": "2026-07-31T03:52:49.497464Z"
         }
       ],
       "source_count": 1,
@@ -1151,7 +1269,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-07-30T22:28:29.769366Z"
+          "published_at": "2026-07-31T03:52:49.497464Z"
         }
       ],
       "item_count": 1,
@@ -1170,8 +1288,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-30T22:28:29.769366Z",
-      "latest_at": "2026-07-30T22:28:29.769366Z",
+      "earliest_at": "2026-07-31T03:52:49.497464Z",
+      "latest_at": "2026-07-31T03:52:49.497464Z",
       "primary_item": {
         "id": "hotelitem_e4ce0593c384",
         "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
@@ -1195,7 +1313,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-07-30T22:28:29.769366Z"
+          "published_at": "2026-07-31T03:52:49.497464Z"
         }
       ],
       "source_count": 1,
@@ -1210,7 +1328,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-07-30T22:28:29.769366Z"
+          "published_at": "2026-07-31T03:52:49.497464Z"
         }
       ],
       "item_count": 1,
@@ -1229,8 +1347,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-30T22:28:29.769366Z",
-      "latest_at": "2026-07-30T22:28:29.769366Z",
+      "earliest_at": "2026-07-31T03:52:49.497464Z",
+      "latest_at": "2026-07-31T03:52:49.497464Z",
       "primary_item": {
         "id": "hotelitem_fa34986b4fc0",
         "title": "文化和旅游部、金融监管总局关于警惕借“保...",
@@ -1254,7 +1372,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-07-30T22:28:29.769366Z"
+          "published_at": "2026-07-31T03:52:49.497464Z"
         }
       ],
       "source_count": 1,
@@ -1269,7 +1387,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-07-30T22:28:29.769366Z"
+          "published_at": "2026-07-31T03:52:49.497464Z"
         }
       ],
       "item_count": 1,
@@ -1288,8 +1406,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-30T22:28:29.769366Z",
-      "latest_at": "2026-07-30T22:28:29.769366Z",
+      "earliest_at": "2026-07-31T03:52:49.497464Z",
+      "latest_at": "2026-07-31T03:52:49.497464Z",
       "primary_item": {
         "id": "hotelitem_9a958319a874",
         "title": "文化和旅游部印发《旅游强国建设“十五五”...",
@@ -1333,14 +1451,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8507,
-      "importance": 0.5851,
-      "importance_score": 0.8507,
+      "score": 0.8497,
+      "importance": 0.5841,
+      "importance_score": 0.8497,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9257,
+        "recency": 0.9207,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1392,14 +1510,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8507,
-      "importance": 0.5851,
-      "importance_score": 0.8507,
+      "score": 0.8497,
+      "importance": 0.5841,
+      "importance_score": 0.8497,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9257,
+        "recency": 0.9207,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1451,14 +1569,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8486,
-      "importance": 0.5986,
-      "importance_score": 0.8486,
+      "score": 0.8477,
+      "importance": 0.5976,
+      "importance_score": 0.8477,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9929,
+        "recency": 0.9879,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1510,14 +1628,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8391,
-      "importance": 0.5887,
-      "importance_score": 0.8391,
+      "score": 0.8381,
+      "importance": 0.5877,
+      "importance_score": 0.8381,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9435,
+        "recency": 0.9385,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1569,14 +1687,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.838,
-      "importance": 0.572,
-      "importance_score": 0.838,
+      "score": 0.837,
+      "importance": 0.571,
+      "importance_score": 0.837,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8599,
+        "recency": 0.8549,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1628,14 +1746,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8217,
-      "importance": 0.5707,
-      "importance_score": 0.8217,
+      "score": 0.8208,
+      "importance": 0.5697,
+      "importance_score": 0.8208,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8535,
+        "recency": 0.8485,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1687,14 +1805,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.819,
-      "importance": 0.5989,
-      "importance_score": 0.819,
+      "score": 0.818,
+      "importance": 0.5979,
+      "importance_score": 0.818,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9946,
+        "recency": 0.9896,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1709,124 +1827,6 @@
         "url": "https://skift.com/2026/07/30/hyatt-pressured-over-delayed-openings-as-it-speeds-up-mid-tier-buildout/",
         "source": "Skift Hospitality",
         "source_name": "Skift Hospitality"
-      }
-    },
-    {
-      "story_id": "story_00c14c000469",
-      "title": "Viceroy partners with Pearlstone to launch residences in Texas",
-      "url": "https://boutiquehotelnews.com/news/branded-residences/viceroy-pearlstone-residences-texas/?utm_source=rss&utm_medium=rss&utm_campaign=viceroy-pearlstone-residences-texas",
-      "primary_url": "https://boutiquehotelnews.com/news/branded-residences/viceroy-pearlstone-residences-texas/?utm_source=rss&utm_medium=rss&utm_campaign=viceroy-pearlstone-residences-texas",
-      "source": "Boutique Hotel News",
-      "source_name": "Boutique Hotel News",
-      "sources": [
-        {
-          "id": "hotelitem_00c14c000469",
-          "title": "Viceroy partners with Pearlstone to launch residences in Texas",
-          "url": "https://boutiquehotelnews.com/news/branded-residences/viceroy-pearlstone-residences-texas/?utm_source=rss&utm_medium=rss&utm_campaign=viceroy-pearlstone-residences-texas",
-          "source": "Boutique Hotel News",
-          "source_name": "Boutique Hotel News",
-          "site_id": "boutiquehotel",
-          "published_at": "2026-07-23T09:10:20Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Boutique Hotel News"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_00c14c000469",
-          "title": "Viceroy partners with Pearlstone to launch residences in Texas",
-          "url": "https://boutiquehotelnews.com/news/branded-residences/viceroy-pearlstone-residences-texas/?utm_source=rss&utm_medium=rss&utm_campaign=viceroy-pearlstone-residences-texas",
-          "source": "Boutique Hotel News",
-          "source_name": "Boutique Hotel News",
-          "site_id": "boutiquehotel",
-          "published_at": "2026-07-23T09:10:20Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8164,
-      "importance": 0.5664,
-      "importance_score": 0.8164,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.8321,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-23T09:10:20Z",
-      "latest_at": "2026-07-23T09:10:20Z",
-      "primary_item": {
-        "id": "hotelitem_00c14c000469",
-        "title": "Viceroy partners with Pearlstone to launch residences in Texas",
-        "url": "https://boutiquehotelnews.com/news/branded-residences/viceroy-pearlstone-residences-texas/?utm_source=rss&utm_medium=rss&utm_campaign=viceroy-pearlstone-residences-texas",
-        "source": "Boutique Hotel News",
-        "source_name": "Boutique Hotel News"
-      }
-    },
-    {
-      "story_id": "story_0033aa6466dc",
-      "title": "Why proactive hotel operations begin with a Connected PMS",
-      "url": "https://insights.ehotelier.com/insights/2026/07/30/why-proactive-hotel-operations-begin-with-a-connected-pms/?utm_source=rss&utm_medium=rss&utm_campaign=why-proactive-hotel-operations-begin-with-a-connected-pms",
-      "primary_url": "https://insights.ehotelier.com/insights/2026/07/30/why-proactive-hotel-operations-begin-with-a-connected-pms/?utm_source=rss&utm_medium=rss&utm_campaign=why-proactive-hotel-operations-begin-with-a-connected-pms",
-      "source": "eHotelier",
-      "source_name": "eHotelier",
-      "sources": [
-        {
-          "id": "hotelitem_0033aa6466dc",
-          "title": "Why proactive hotel operations begin with a Connected PMS",
-          "url": "https://insights.ehotelier.com/insights/2026/07/30/why-proactive-hotel-operations-begin-with-a-connected-pms/?utm_source=rss&utm_medium=rss&utm_campaign=why-proactive-hotel-operations-begin-with-a-connected-pms",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-07-30T02:00:08Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "eHotelier"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_0033aa6466dc",
-          "title": "Why proactive hotel operations begin with a Connected PMS",
-          "url": "https://insights.ehotelier.com/insights/2026/07/30/why-proactive-hotel-operations-begin-with-a-connected-pms/?utm_source=rss&utm_medium=rss&utm_campaign=why-proactive-hotel-operations-begin-with-a-connected-pms",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-07-30T02:00:08Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8163,
-      "importance": 0.5962,
-      "importance_score": 0.8163,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.981,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-30T02:00:08Z",
-      "latest_at": "2026-07-30T02:00:08Z",
-      "primary_item": {
-        "id": "hotelitem_0033aa6466dc",
-        "title": "Why proactive hotel operations begin with a Connected PMS",
-        "url": "https://insights.ehotelier.com/insights/2026/07/30/why-proactive-hotel-operations-begin-with-a-connected-pms/?utm_source=rss&utm_medium=rss&utm_campaign=why-proactive-hotel-operations-begin-with-a-connected-pms",
-        "source": "eHotelier",
-        "source_name": "eHotelier"
       }
     }
   ]
