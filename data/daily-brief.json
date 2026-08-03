@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T10:07:20.791572Z",
+  "generated_at": "2026-08-03T15:18:38.977168Z",
   "window_hours": 1080,
   "total_items": 30,
   "items": [
@@ -38,14 +38,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9837,
-      "importance": 0.5702,
-      "importance_score": 0.9837,
+      "score": 0.9828,
+      "importance": 0.5692,
+      "importance_score": 0.9828,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8509,
+        "recency": 0.8461,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -63,6 +63,183 @@
       }
     },
     {
+      "story_id": "story_4f70e9d63555",
+      "title": "Marriott’s Q2 RevPAR growth bolstered by US and Canada gains",
+      "url": "https://www.hoteldive.com/news/marriott-earnings-q2-2026/826812/",
+      "primary_url": "https://www.hoteldive.com/news/marriott-earnings-q2-2026/826812/",
+      "source": "Hotel Dive",
+      "source_name": "Hotel Dive",
+      "sources": [
+        {
+          "id": "hotelitem_4f70e9d63555",
+          "title": "Marriott’s Q2 RevPAR growth bolstered by US and Canada gains",
+          "url": "https://www.hoteldive.com/news/marriott-earnings-q2-2026/826812/",
+          "source": "Hotel Dive",
+          "source_name": "Hotel Dive",
+          "site_id": "hoteldive",
+          "published_at": "2026-08-03T14:00:04Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hotel Dive"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_4f70e9d63555",
+          "title": "Marriott’s Q2 RevPAR growth bolstered by US and Canada gains",
+          "url": "https://www.hoteldive.com/news/marriott-earnings-q2-2026/826812/",
+          "source": "Hotel Dive",
+          "source_name": "Hotel Dive",
+          "site_id": "hoteldive",
+          "published_at": "2026-08-03T14:00:04Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.9548,
+      "importance": 0.5998,
+      "importance_score": 0.9548,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9988,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-03T14:00:04Z",
+      "latest_at": "2026-08-03T14:00:04Z",
+      "primary_item": {
+        "id": "hotelitem_4f70e9d63555",
+        "title": "Marriott’s Q2 RevPAR growth bolstered by US and Canada gains",
+        "url": "https://www.hoteldive.com/news/marriott-earnings-q2-2026/826812/",
+        "source": "Hotel Dive",
+        "source_name": "Hotel Dive"
+      }
+    },
+    {
+      "story_id": "story_451c93822665",
+      "title": "4 surprises reshaping the 2026 hospitality investment market",
+      "url": "https://www.hoteldive.com/news/trends-reshaping-2026-hospitality-investment-market/826807/",
+      "primary_url": "https://www.hoteldive.com/news/trends-reshaping-2026-hospitality-investment-market/826807/",
+      "source": "Hotel Dive",
+      "source_name": "Hotel Dive",
+      "sources": [
+        {
+          "id": "hotelitem_451c93822665",
+          "title": "4 surprises reshaping the 2026 hospitality investment market",
+          "url": "https://www.hoteldive.com/news/trends-reshaping-2026-hospitality-investment-market/826807/",
+          "source": "Hotel Dive",
+          "source_name": "Hotel Dive",
+          "site_id": "hoteldive",
+          "published_at": "2026-08-03T13:37:48Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hotel Dive"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_451c93822665",
+          "title": "4 surprises reshaping the 2026 hospitality investment market",
+          "url": "https://www.hoteldive.com/news/trends-reshaping-2026-hospitality-investment-market/826807/",
+          "source": "Hotel Dive",
+          "source_name": "Hotel Dive",
+          "site_id": "hoteldive",
+          "published_at": "2026-08-03T13:37:48Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.9547,
+      "importance": 0.5997,
+      "importance_score": 0.9547,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9984,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-03T13:37:48Z",
+      "latest_at": "2026-08-03T13:37:48Z",
+      "primary_item": {
+        "id": "hotelitem_451c93822665",
+        "title": "4 surprises reshaping the 2026 hospitality investment market",
+        "url": "https://www.hoteldive.com/news/trends-reshaping-2026-hospitality-investment-market/826807/",
+        "source": "Hotel Dive",
+        "source_name": "Hotel Dive"
+      }
+    },
+    {
+      "story_id": "story_a29bae0b817e",
+      "title": "Hyatt Weighs ‘India-for-India’ Brand and Acquisitions for 5x Growth: Exclusive",
+      "url": "https://skift.com/2026/08/03/hyatt-weighs-india-for-india-brand-and-acquisitions-for-5x-growth-exclusive/",
+      "primary_url": "https://skift.com/2026/08/03/hyatt-weighs-india-for-india-brand-and-acquisitions-for-5x-growth-exclusive/",
+      "source": "Skift Hospitality",
+      "source_name": "Skift Hospitality",
+      "sources": [
+        {
+          "id": "hotelitem_a29bae0b817e",
+          "title": "Hyatt Weighs ‘India-for-India’ Brand and Acquisitions for 5x Growth: Exclusive",
+          "url": "https://skift.com/2026/08/03/hyatt-weighs-india-for-india-brand-and-acquisitions-for-5x-growth-exclusive/",
+          "source": "Skift Hospitality",
+          "source_name": "Skift Hospitality",
+          "site_id": "skift",
+          "published_at": "2026-08-03T12:56:24Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Skift Hospitality"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_a29bae0b817e",
+          "title": "Hyatt Weighs ‘India-for-India’ Brand and Acquisitions for 5x Growth: Exclusive",
+          "url": "https://skift.com/2026/08/03/hyatt-weighs-india-for-india-brand-and-acquisitions-for-5x-growth-exclusive/",
+          "source": "Skift Hospitality",
+          "source_name": "Skift Hospitality",
+          "site_id": "skift",
+          "published_at": "2026-08-03T12:56:24Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.9546,
+      "importance": 0.5996,
+      "importance_score": 0.9546,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9978,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-03T12:56:24Z",
+      "latest_at": "2026-08-03T12:56:24Z",
+      "primary_item": {
+        "id": "hotelitem_a29bae0b817e",
+        "title": "Hyatt Weighs ‘India-for-India’ Brand and Acquisitions for 5x Growth: Exclusive",
+        "url": "https://skift.com/2026/08/03/hyatt-weighs-india-for-india-brand-and-acquisitions-for-5x-growth-exclusive/",
+        "source": "Skift Hospitality",
+        "source_name": "Skift Hospitality"
+      }
+    },
+    {
       "story_id": "story_9699887c72ea",
       "title": "中国旅游研究院与中青旅控股股份有限公司开展主题党日联学联",
       "url": "https://www.ctaweb.org.cn/gongzuodongtai/10519.html",
@@ -77,7 +254,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-08-03T10:07:20.791572Z"
+          "published_at": "2026-08-03T15:18:38.977168Z"
         }
       ],
       "source_count": 1,
@@ -92,7 +269,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-08-03T10:07:20.791572Z"
+          "published_at": "2026-08-03T15:18:38.977168Z"
         }
       ],
       "item_count": 1,
@@ -111,8 +288,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-03T10:07:20.791572Z",
-      "latest_at": "2026-08-03T10:07:20.791572Z",
+      "earliest_at": "2026-08-03T15:18:38.977168Z",
+      "latest_at": "2026-08-03T15:18:38.977168Z",
       "primary_item": {
         "id": "hotelitem_9699887c72ea",
         "title": "中国旅游研究院与中青旅控股股份有限公司开展主题党日联学联",
@@ -156,14 +333,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9427,
-      "importance": 0.5872,
-      "importance_score": 0.9427,
+      "score": 0.9417,
+      "importance": 0.5862,
+      "importance_score": 0.9417,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.936,
+        "recency": 0.9312,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -215,14 +392,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9396,
-      "importance": 0.5841,
-      "importance_score": 0.9396,
+      "score": 0.9387,
+      "importance": 0.5831,
+      "importance_score": 0.9387,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9203,
+        "recency": 0.9155,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -274,14 +451,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.939,
-      "importance": 0.5834,
-      "importance_score": 0.939,
+      "score": 0.9381,
+      "importance": 0.5825,
+      "importance_score": 0.9381,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9172,
+        "recency": 0.9124,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -333,14 +510,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9386,
-      "importance": 0.5829,
-      "importance_score": 0.9386,
+      "score": 0.9376,
+      "importance": 0.582,
+      "importance_score": 0.9376,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9147,
+        "recency": 0.9099,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -392,14 +569,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9385,
-      "importance": 0.5828,
-      "importance_score": 0.9385,
+      "score": 0.9375,
+      "importance": 0.5819,
+      "importance_score": 0.9375,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9142,
+        "recency": 0.9094,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -451,14 +628,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9342,
-      "importance": 0.5784,
-      "importance_score": 0.9342,
+      "score": 0.9332,
+      "importance": 0.5774,
+      "importance_score": 0.9332,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.892,
+        "recency": 0.8871,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -510,14 +687,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9309,
-      "importance": 0.5751,
-      "importance_score": 0.9309,
+      "score": 0.93,
+      "importance": 0.5741,
+      "importance_score": 0.93,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8753,
+        "recency": 0.8705,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -569,14 +746,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9307,
-      "importance": 0.5748,
-      "importance_score": 0.9307,
+      "score": 0.9298,
+      "importance": 0.5738,
+      "importance_score": 0.9298,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8739,
+        "recency": 0.8691,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -589,65 +766,6 @@
         "id": "hotelitem_c9785f5c92cf",
         "title": "Hilton reported Q2 RevPAR gains, raises full-year forecast",
         "url": "https://www.hoteldive.com/news/hilton-q2-revpar-gains-raises-full-year-forecast/826390/",
-        "source": "Hotel Dive",
-        "source_name": "Hotel Dive"
-      }
-    },
-    {
-      "story_id": "story_7ba74a539968",
-      "title": "Hilton opens fourth LivSmart Studios hotel in Pensacola, Florida",
-      "url": "https://www.hoteldive.com/news/hilton-opens-livsmart-studios-hotel-pensacola-florida/826345/",
-      "primary_url": "https://www.hoteldive.com/news/hilton-opens-livsmart-studios-hotel-pensacola-florida/826345/",
-      "source": "Hotel Dive",
-      "source_name": "Hotel Dive",
-      "sources": [
-        {
-          "id": "hotelitem_7ba74a539968",
-          "title": "Hilton opens fourth LivSmart Studios hotel in Pensacola, Florida",
-          "url": "https://www.hoteldive.com/news/hilton-opens-livsmart-studios-hotel-pensacola-florida/826345/",
-          "source": "Hotel Dive",
-          "source_name": "Hotel Dive",
-          "site_id": "hoteldive",
-          "published_at": "2026-07-28T13:57:10Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hotel Dive"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_7ba74a539968",
-          "title": "Hilton opens fourth LivSmart Studios hotel in Pensacola, Florida",
-          "url": "https://www.hoteldive.com/news/hilton-opens-livsmart-studios-hotel-pensacola-florida/826345/",
-          "source": "Hotel Dive",
-          "source_name": "Hotel Dive",
-          "site_id": "hoteldive",
-          "published_at": "2026-07-28T13:57:10Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.93,
-      "importance": 0.574,
-      "importance_score": 0.93,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.8702,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-28T13:57:10Z",
-      "latest_at": "2026-07-28T13:57:10Z",
-      "primary_item": {
-        "id": "hotelitem_7ba74a539968",
-        "title": "Hilton opens fourth LivSmart Studios hotel in Pensacola, Florida",
-        "url": "https://www.hoteldive.com/news/hilton-opens-livsmart-studios-hotel-pensacola-florida/826345/",
         "source": "Hotel Dive",
         "source_name": "Hotel Dive"
       }
@@ -687,14 +805,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8902,
-      "importance": 0.5554,
-      "importance_score": 0.8902,
+      "score": 0.8887,
+      "importance": 0.5544,
+      "importance_score": 0.8887,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.7768,
+        "recency": 0.772,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -746,14 +864,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8748,
-      "importance": 0.5569,
-      "importance_score": 0.8748,
+      "score": 0.8734,
+      "importance": 0.5559,
+      "importance_score": 0.8734,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.7843,
+        "recency": 0.7795,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -768,6 +886,65 @@
         "url": "https://www.traveldaily.cn/article/190440",
         "source": "环球旅讯 TravelDaily",
         "source_name": "环球旅讯 TravelDaily"
+      }
+    },
+    {
+      "story_id": "story_0901435cf45e",
+      "title": "Younger Travelers Are Becoming Timeshare’s Most Vocal Advocates",
+      "url": "https://skift.com/2026/08/03/gen-z-millennials-vacation-ownership/",
+      "primary_url": "https://skift.com/2026/08/03/gen-z-millennials-vacation-ownership/",
+      "source": "Skift Hospitality",
+      "source_name": "Skift Hospitality",
+      "sources": [
+        {
+          "id": "hotelitem_0901435cf45e",
+          "title": "Younger Travelers Are Becoming Timeshare’s Most Vocal Advocates",
+          "url": "https://skift.com/2026/08/03/gen-z-millennials-vacation-ownership/",
+          "source": "Skift Hospitality",
+          "source_name": "Skift Hospitality",
+          "site_id": "skift",
+          "published_at": "2026-08-03T13:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Skift Hospitality"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_0901435cf45e",
+          "title": "Younger Travelers Are Becoming Timeshare’s Most Vocal Advocates",
+          "url": "https://skift.com/2026/08/03/gen-z-millennials-vacation-ownership/",
+          "source": "Skift Hospitality",
+          "source_name": "Skift Hospitality",
+          "site_id": "skift",
+          "published_at": "2026-08-03T13:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8646,
+      "importance": 0.5996,
+      "importance_score": 0.8646,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9979,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-03T13:00:00Z",
+      "latest_at": "2026-08-03T13:00:00Z",
+      "primary_item": {
+        "id": "hotelitem_0901435cf45e",
+        "title": "Younger Travelers Are Becoming Timeshare’s Most Vocal Advocates",
+        "url": "https://skift.com/2026/08/03/gen-z-millennials-vacation-ownership/",
+        "source": "Skift Hospitality",
+        "source_name": "Skift Hospitality"
       }
     },
     {
@@ -805,14 +982,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8633,
-      "importance": 0.5982,
-      "importance_score": 0.8633,
+      "score": 0.8624,
+      "importance": 0.5973,
+      "importance_score": 0.8624,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9911,
+        "recency": 0.9863,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -864,14 +1041,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8633,
-      "importance": 0.5982,
-      "importance_score": 0.8633,
+      "score": 0.8624,
+      "importance": 0.5973,
+      "importance_score": 0.8624,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9912,
+        "recency": 0.9864,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -923,14 +1100,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8633,
-      "importance": 0.5983,
-      "importance_score": 0.8633,
+      "score": 0.8624,
+      "importance": 0.5973,
+      "importance_score": 0.8624,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9913,
+        "recency": 0.9865,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -982,14 +1159,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8633,
-      "importance": 0.5983,
-      "importance_score": 0.8633,
+      "score": 0.8624,
+      "importance": 0.5973,
+      "importance_score": 0.8624,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9914,
+        "recency": 0.9866,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1041,14 +1218,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8632,
-      "importance": 0.5982,
-      "importance_score": 0.8632,
+      "score": 0.8623,
+      "importance": 0.5972,
+      "importance_score": 0.8623,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9909,
+        "recency": 0.9861,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1080,7 +1257,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-08-03T10:07:20.791572Z"
+          "published_at": "2026-08-03T15:18:38.977168Z"
         },
         {
           "id": "hotelitem_c7c15b7680c9",
@@ -1089,7 +1266,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-08-03T10:07:20.791572Z"
+          "published_at": "2026-08-03T15:18:38.977168Z"
         }
       ],
       "source_count": 2,
@@ -1104,7 +1281,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-08-03T10:07:20.791572Z"
+          "published_at": "2026-08-03T15:18:38.977168Z"
         },
         {
           "id": "hotelitem_c7c15b7680c9",
@@ -1113,7 +1290,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-08-03T10:07:20.791572Z"
+          "published_at": "2026-08-03T15:18:38.977168Z"
         }
       ],
       "item_count": 2,
@@ -1133,8 +1310,8 @@
         "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-03T10:07:20.791572Z",
-      "latest_at": "2026-08-03T10:07:20.791572Z",
+      "earliest_at": "2026-08-03T15:18:38.977168Z",
+      "latest_at": "2026-08-03T15:18:38.977168Z",
       "primary_item": {
         "id": "hotelitem_d4370964909c",
         "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
@@ -1158,7 +1335,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-08-03T10:07:20.791572Z"
+          "published_at": "2026-08-03T15:18:38.977168Z"
         }
       ],
       "source_count": 1,
@@ -1173,7 +1350,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-08-03T10:07:20.791572Z"
+          "published_at": "2026-08-03T15:18:38.977168Z"
         }
       ],
       "item_count": 1,
@@ -1192,8 +1369,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-03T10:07:20.791572Z",
-      "latest_at": "2026-08-03T10:07:20.791572Z",
+      "earliest_at": "2026-08-03T15:18:38.977168Z",
+      "latest_at": "2026-08-03T15:18:38.977168Z",
       "primary_item": {
         "id": "hotelitem_e4ce0593c384",
         "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
@@ -1217,7 +1394,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-08-03T10:07:20.791572Z"
+          "published_at": "2026-08-03T15:18:38.977168Z"
         }
       ],
       "source_count": 1,
@@ -1232,7 +1409,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-08-03T10:07:20.791572Z"
+          "published_at": "2026-08-03T15:18:38.977168Z"
         }
       ],
       "item_count": 1,
@@ -1251,8 +1428,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-03T10:07:20.791572Z",
-      "latest_at": "2026-08-03T10:07:20.791572Z",
+      "earliest_at": "2026-08-03T15:18:38.977168Z",
+      "latest_at": "2026-08-03T15:18:38.977168Z",
       "primary_item": {
         "id": "hotelitem_fa34986b4fc0",
         "title": "文化和旅游部、金融监管总局关于警惕借“保...",
@@ -1276,7 +1453,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-08-03T10:07:20.791572Z"
+          "published_at": "2026-08-03T15:18:38.977168Z"
         }
       ],
       "source_count": 1,
@@ -1291,7 +1468,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-08-03T10:07:20.791572Z"
+          "published_at": "2026-08-03T15:18:38.977168Z"
         }
       ],
       "item_count": 1,
@@ -1310,8 +1487,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-03T10:07:20.791572Z",
-      "latest_at": "2026-08-03T10:07:20.791572Z",
+      "earliest_at": "2026-08-03T15:18:38.977168Z",
+      "latest_at": "2026-08-03T15:18:38.977168Z",
       "primary_item": {
         "id": "hotelitem_9a958319a874",
         "title": "文化和旅游部印发《旅游强国建设“十五五”...",
@@ -1355,14 +1532,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8507,
-      "importance": 0.5852,
-      "importance_score": 0.8507,
+      "score": 0.8498,
+      "importance": 0.5842,
+      "importance_score": 0.8498,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9258,
+        "recency": 0.921,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1377,65 +1554,6 @@
         "url": "https://insights.ehotelier.com/suppliers/2026/07/31/nonius-mobile-expands-guest-room-control-with-coolautomation/?utm_source=rss&utm_medium=rss&utm_campaign=nonius-mobile-expands-guest-room-control-with-coolautomation",
         "source": "eHotelier",
         "source_name": "eHotelier"
-      }
-    },
-    {
-      "story_id": "story_47bc8ac38111",
-      "title": "China’s Hotel Investment Surge Isn’t Just a Distress Sale Story",
-      "url": "https://skift.com/2026/07/27/chinas-hotel-investment-surge-isnt-just-a-distress-sale-story/",
-      "primary_url": "https://skift.com/2026/07/27/chinas-hotel-investment-surge-isnt-just-a-distress-sale-story/",
-      "source": "Skift Hospitality",
-      "source_name": "Skift Hospitality",
-      "sources": [
-        {
-          "id": "hotelitem_47bc8ac38111",
-          "title": "China’s Hotel Investment Surge Isn’t Just a Distress Sale Story",
-          "url": "https://skift.com/2026/07/27/chinas-hotel-investment-surge-isnt-just-a-distress-sale-story/",
-          "source": "Skift Hospitality",
-          "source_name": "Skift Hospitality",
-          "site_id": "skift",
-          "published_at": "2026-07-27T14:11:55Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Skift Hospitality"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_47bc8ac38111",
-          "title": "China’s Hotel Investment Surge Isn’t Just a Distress Sale Story",
-          "url": "https://skift.com/2026/07/27/chinas-hotel-investment-surge-isnt-just-a-distress-sale-story/",
-          "source": "Skift Hospitality",
-          "source_name": "Skift Hospitality",
-          "site_id": "skift",
-          "published_at": "2026-07-27T14:11:55Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8357,
-      "importance": 0.5696,
-      "importance_score": 0.8357,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.8482,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-27T14:11:55Z",
-      "latest_at": "2026-07-27T14:11:55Z",
-      "primary_item": {
-        "id": "hotelitem_47bc8ac38111",
-        "title": "China’s Hotel Investment Surge Isn’t Just a Distress Sale Story",
-        "url": "https://skift.com/2026/07/27/chinas-hotel-investment-surge-isnt-just-a-distress-sale-story/",
-        "source": "Skift Hospitality",
-        "source_name": "Skift Hospitality"
       }
     },
     {
@@ -1473,14 +1591,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8337,
-      "importance": 0.5831,
-      "importance_score": 0.8337,
+      "score": 0.8328,
+      "importance": 0.5821,
+      "importance_score": 0.8328,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9154,
+        "recency": 0.9106,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1532,14 +1650,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8242,
-      "importance": 0.5732,
-      "importance_score": 0.8242,
+      "score": 0.8232,
+      "importance": 0.5723,
+      "importance_score": 0.8232,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8661,
+        "recency": 0.8613,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1571,7 +1689,7 @@
           "source": "Agoda",
           "source_name": "Agoda",
           "site_id": "agoda_press",
-          "published_at": "2026-08-03T10:07:20.791572Z"
+          "published_at": "2026-08-03T15:18:38.977168Z"
         }
       ],
       "source_count": 1,
@@ -1586,7 +1704,7 @@
           "source": "Agoda",
           "source_name": "Agoda",
           "site_id": "agoda_press",
-          "published_at": "2026-08-03T10:07:20.791572Z"
+          "published_at": "2026-08-03T15:18:38.977168Z"
         }
       ],
       "item_count": 1,
@@ -1605,8 +1723,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-03T10:07:20.791572Z",
-      "latest_at": "2026-08-03T10:07:20.791572Z",
+      "earliest_at": "2026-08-03T15:18:38.977168Z",
+      "latest_at": "2026-08-03T15:18:38.977168Z",
       "primary_item": {
         "id": "hotelitem_0f92c8e44d34",
         "title": "Agoda Data Reveals Indian Travelers Are Expa ... Digital travel platform Agoda has released new insights highlighting the international beach destinati ... July 29, 2026 / Agoda Press",
@@ -1630,7 +1748,7 @@
           "source": "Agoda",
           "source_name": "Agoda",
           "site_id": "agoda_press",
-          "published_at": "2026-08-03T10:07:20.791572Z"
+          "published_at": "2026-08-03T15:18:38.977168Z"
         }
       ],
       "source_count": 1,
@@ -1645,7 +1763,7 @@
           "source": "Agoda",
           "source_name": "Agoda",
           "site_id": "agoda_press",
-          "published_at": "2026-08-03T10:07:20.791572Z"
+          "published_at": "2026-08-03T15:18:38.977168Z"
         }
       ],
       "item_count": 1,
@@ -1664,130 +1782,12 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-03T10:07:20.791572Z",
-      "latest_at": "2026-08-03T10:07:20.791572Z",
+      "earliest_at": "2026-08-03T15:18:38.977168Z",
+      "latest_at": "2026-08-03T15:18:38.977168Z",
       "primary_item": {
         "id": "hotelitem_9d906eadfd50",
         "title": "Agoda Reveals Growing Travel Interest Ahead  ... Singapore, 24 July 2026: Agoda Company Pte. Ltd. (Headquarters: Singapore; CEO: Omri Morgenshtern), wh ... July 24, 2026 / Travel Trends",
         "url": "https://www.agoda.com/press/agoda-reveals-growing-travel-interest-ahead-of-japans-summer-2026-fireworks-festivals/",
-        "source": "Agoda",
-        "source_name": "Agoda"
-      }
-    },
-    {
-      "story_id": "story_d9aeddf74392",
-      "title": "Agoda Unveils Agoda Partner Portal as the Re ... Mobile workflows and market-localized tools sit alongside AI-assisted features to support timely decis ... August 3, 2026 / Product",
-      "url": "https://www.agoda.com/press/agoda-unveils-agoda-partner-portal-as-the-refreshed-platforms-role-in-property-management-expands/",
-      "primary_url": "https://www.agoda.com/press/agoda-unveils-agoda-partner-portal-as-the-refreshed-platforms-role-in-property-management-expands/",
-      "source": "Agoda",
-      "source_name": "Agoda",
-      "sources": [
-        {
-          "id": "hotelitem_d9aeddf74392",
-          "title": "Agoda Unveils Agoda Partner Portal as the Re ... Mobile workflows and market-localized tools sit alongside AI-assisted features to support timely decis ... August 3, 2026 / Product",
-          "url": "https://www.agoda.com/press/agoda-unveils-agoda-partner-portal-as-the-refreshed-platforms-role-in-property-management-expands/",
-          "source": "Agoda",
-          "source_name": "Agoda",
-          "site_id": "agoda_press",
-          "published_at": "2026-08-03T10:07:20.791572Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Agoda"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_d9aeddf74392",
-          "title": "Agoda Unveils Agoda Partner Portal as the Re ... Mobile workflows and market-localized tools sit alongside AI-assisted features to support timely decis ... August 3, 2026 / Product",
-          "url": "https://www.agoda.com/press/agoda-unveils-agoda-partner-portal-as-the-refreshed-platforms-role-in-property-management-expands/",
-          "source": "Agoda",
-          "source_name": "Agoda",
-          "site_id": "agoda_press",
-          "published_at": "2026-08-03T10:07:20.791572Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8125,
-      "importance": 0.6,
-      "importance_score": 0.8125,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-03T10:07:20.791572Z",
-      "latest_at": "2026-08-03T10:07:20.791572Z",
-      "primary_item": {
-        "id": "hotelitem_d9aeddf74392",
-        "title": "Agoda Unveils Agoda Partner Portal as the Re ... Mobile workflows and market-localized tools sit alongside AI-assisted features to support timely decis ... August 3, 2026 / Product",
-        "url": "https://www.agoda.com/press/agoda-unveils-agoda-partner-portal-as-the-refreshed-platforms-role-in-property-management-expands/",
-        "source": "Agoda",
-        "source_name": "Agoda"
-      }
-    },
-    {
-      "story_id": "story_7245e3fed3db",
-      "title": "Agoda and DTTDC Launch MoU to Position Delhi ... Digital travel platform Agoda has announced a strategic partnership with the Delhi Tourism & Trans ... May 21, 2026 / Partnership",
-      "url": "https://www.agoda.com/press/agoda-and-dttdc-launch-mou-to-position-delhi-as-a-year-round-destination/",
-      "primary_url": "https://www.agoda.com/press/agoda-and-dttdc-launch-mou-to-position-delhi-as-a-year-round-destination/",
-      "source": "Agoda",
-      "source_name": "Agoda",
-      "sources": [
-        {
-          "id": "hotelitem_7245e3fed3db",
-          "title": "Agoda and DTTDC Launch MoU to Position Delhi ... Digital travel platform Agoda has announced a strategic partnership with the Delhi Tourism & Trans ... May 21, 2026 / Partnership",
-          "url": "https://www.agoda.com/press/agoda-and-dttdc-launch-mou-to-position-delhi-as-a-year-round-destination/",
-          "source": "Agoda",
-          "source_name": "Agoda",
-          "site_id": "agoda_press",
-          "published_at": "2026-08-03T10:07:20.791572Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Agoda"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_7245e3fed3db",
-          "title": "Agoda and DTTDC Launch MoU to Position Delhi ... Digital travel platform Agoda has announced a strategic partnership with the Delhi Tourism & Trans ... May 21, 2026 / Partnership",
-          "url": "https://www.agoda.com/press/agoda-and-dttdc-launch-mou-to-position-delhi-as-a-year-round-destination/",
-          "source": "Agoda",
-          "source_name": "Agoda",
-          "site_id": "agoda_press",
-          "published_at": "2026-08-03T10:07:20.791572Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8125,
-      "importance": 0.6,
-      "importance_score": 0.8125,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-03T10:07:20.791572Z",
-      "latest_at": "2026-08-03T10:07:20.791572Z",
-      "primary_item": {
-        "id": "hotelitem_7245e3fed3db",
-        "title": "Agoda and DTTDC Launch MoU to Position Delhi ... Digital travel platform Agoda has announced a strategic partnership with the Delhi Tourism & Trans ... May 21, 2026 / Partnership",
-        "url": "https://www.agoda.com/press/agoda-and-dttdc-launch-mou-to-position-delhi-as-a-year-round-destination/",
         "source": "Agoda",
         "source_name": "Agoda"
       }
