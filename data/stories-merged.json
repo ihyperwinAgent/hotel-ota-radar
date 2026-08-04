@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T09:10:43.064596Z",
+  "generated_at": "2026-08-04T11:34:53.831847Z",
   "window_hours": 1080,
   "total_stories": 30,
   "stories": [
@@ -38,14 +38,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9781,
-      "importance": 0.5659,
-      "importance_score": 0.9781,
+      "score": 0.9775,
+      "importance": 0.5655,
+      "importance_score": 0.9775,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8295,
+        "recency": 0.8273,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -97,14 +97,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9536,
-      "importance": 0.5985,
-      "importance_score": 0.9536,
+      "score": 0.9532,
+      "importance": 0.5981,
+      "importance_score": 0.9532,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9927,
+        "recency": 0.9905,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -119,65 +119,6 @@
         "url": "https://insights.ehotelier.com/properties/2026/08/04/four-seasons-cabo-del-sol-unveils-casa-del-sol-a-luxury-events-destination-along-cabos-golden-corridor/?utm_source=rss&utm_medium=rss&utm_campaign=four-seasons-cabo-del-sol-unveils-casa-del-sol-a-luxury-events-destination-along-cabos-golden-corridor",
         "source": "eHotelier",
         "source_name": "eHotelier"
-      }
-    },
-    {
-      "story_id": "story_4f70e9d63555",
-      "title": "Marriott’s Q2 RevPAR growth bolstered by US and Canada gains",
-      "url": "https://www.hoteldive.com/news/marriott-earnings-q2-2026/826812/",
-      "primary_url": "https://www.hoteldive.com/news/marriott-earnings-q2-2026/826812/",
-      "source": "Hotel Dive",
-      "source_name": "Hotel Dive",
-      "sources": [
-        {
-          "id": "hotelitem_4f70e9d63555",
-          "title": "Marriott’s Q2 RevPAR growth bolstered by US and Canada gains",
-          "url": "https://www.hoteldive.com/news/marriott-earnings-q2-2026/826812/",
-          "source": "Hotel Dive",
-          "source_name": "Hotel Dive",
-          "site_id": "hoteldive",
-          "published_at": "2026-08-03T14:00:04Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hotel Dive"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_4f70e9d63555",
-          "title": "Marriott’s Q2 RevPAR growth bolstered by US and Canada gains",
-          "url": "https://www.hoteldive.com/news/marriott-earnings-q2-2026/826812/",
-          "source": "Hotel Dive",
-          "source_name": "Hotel Dive",
-          "site_id": "hoteldive",
-          "published_at": "2026-08-03T14:00:04Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.9516,
-      "importance": 0.5964,
-      "importance_score": 0.9516,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9822,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-03T14:00:04Z",
-      "latest_at": "2026-08-03T14:00:04Z",
-      "primary_item": {
-        "id": "hotelitem_4f70e9d63555",
-        "title": "Marriott’s Q2 RevPAR growth bolstered by US and Canada gains",
-        "url": "https://www.hoteldive.com/news/marriott-earnings-q2-2026/826812/",
-        "source": "Hotel Dive",
-        "source_name": "Hotel Dive"
       }
     },
     {
@@ -215,14 +156,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9515,
-      "importance": 0.5964,
-      "importance_score": 0.9515,
+      "score": 0.9511,
+      "importance": 0.5959,
+      "importance_score": 0.9511,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9819,
+        "recency": 0.9797,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -235,6 +176,65 @@
         "id": "hotelitem_451c93822665",
         "title": "4 trends reshaping the 2026 hospitality investment market",
         "url": "https://www.hoteldive.com/news/trends-reshaping-2026-hospitality-investment-market/826807/",
+        "source": "Hotel Dive",
+        "source_name": "Hotel Dive"
+      }
+    },
+    {
+      "story_id": "story_4f70e9d63555",
+      "title": "Marriott’s Q2 RevPAR growth bolstered by US and Canada gains",
+      "url": "https://www.hoteldive.com/news/marriott-earnings-q2-2026/826812/",
+      "primary_url": "https://www.hoteldive.com/news/marriott-earnings-q2-2026/826812/",
+      "source": "Hotel Dive",
+      "source_name": "Hotel Dive",
+      "sources": [
+        {
+          "id": "hotelitem_4f70e9d63555",
+          "title": "Marriott’s Q2 RevPAR growth bolstered by US and Canada gains",
+          "url": "https://www.hoteldive.com/news/marriott-earnings-q2-2026/826812/",
+          "source": "Hotel Dive",
+          "source_name": "Hotel Dive",
+          "site_id": "hoteldive",
+          "published_at": "2026-08-03T14:00:04Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hotel Dive"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_4f70e9d63555",
+          "title": "Marriott’s Q2 RevPAR growth bolstered by US and Canada gains",
+          "url": "https://www.hoteldive.com/news/marriott-earnings-q2-2026/826812/",
+          "source": "Hotel Dive",
+          "source_name": "Hotel Dive",
+          "site_id": "hoteldive",
+          "published_at": "2026-08-03T14:00:04Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.9511,
+      "importance": 0.596,
+      "importance_score": 0.9511,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.98,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-03T14:00:04Z",
+      "latest_at": "2026-08-03T14:00:04Z",
+      "primary_item": {
+        "id": "hotelitem_4f70e9d63555",
+        "title": "Marriott’s Q2 RevPAR growth bolstered by US and Canada gains",
+        "url": "https://www.hoteldive.com/news/marriott-earnings-q2-2026/826812/",
         "source": "Hotel Dive",
         "source_name": "Hotel Dive"
       }
@@ -274,14 +274,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9514,
-      "importance": 0.5963,
-      "importance_score": 0.9514,
+      "score": 0.951,
+      "importance": 0.5958,
+      "importance_score": 0.951,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9813,
+        "recency": 0.979,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -313,7 +313,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-08-04T09:10:43.064596Z"
+          "published_at": "2026-08-04T11:34:53.831847Z"
         }
       ],
       "source_count": 1,
@@ -328,7 +328,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-08-04T09:10:43.064596Z"
+          "published_at": "2026-08-04T11:34:53.831847Z"
         }
       ],
       "item_count": 1,
@@ -347,8 +347,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-04T09:10:43.064596Z",
-      "latest_at": "2026-08-04T09:10:43.064596Z",
+      "earliest_at": "2026-08-04T11:34:53.831847Z",
+      "latest_at": "2026-08-04T11:34:53.831847Z",
       "primary_item": {
         "id": "hotelitem_9699887c72ea",
         "title": "中国旅游研究院与中青旅控股股份有限公司开展主题党日联学联",
@@ -392,14 +392,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9385,
-      "importance": 0.5829,
-      "importance_score": 0.9385,
+      "score": 0.9381,
+      "importance": 0.5825,
+      "importance_score": 0.9381,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9146,
+        "recency": 0.9124,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -451,14 +451,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9355,
-      "importance": 0.5798,
-      "importance_score": 0.9355,
+      "score": 0.9351,
+      "importance": 0.5793,
+      "importance_score": 0.9351,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.899,
+        "recency": 0.8967,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -510,14 +510,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9349,
-      "importance": 0.5792,
-      "importance_score": 0.9349,
+      "score": 0.9345,
+      "importance": 0.5787,
+      "importance_score": 0.9345,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8959,
+        "recency": 0.8936,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -569,14 +569,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9343,
-      "importance": 0.5786,
-      "importance_score": 0.9343,
+      "score": 0.9339,
+      "importance": 0.5781,
+      "importance_score": 0.9339,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8928,
+        "recency": 0.8906,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -628,14 +628,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.93,
-      "importance": 0.5741,
-      "importance_score": 0.93,
+      "score": 0.9296,
+      "importance": 0.5737,
+      "importance_score": 0.9296,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8706,
+        "recency": 0.8684,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -805,14 +805,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8686,
-      "importance": 0.5526,
-      "importance_score": 0.8686,
+      "score": 0.8679,
+      "importance": 0.5521,
+      "importance_score": 0.8679,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.7629,
+        "recency": 0.7607,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -827,65 +827,6 @@
         "url": "https://www.traveldaily.cn/article/190440",
         "source": "环球旅讯 TravelDaily",
         "source_name": "环球旅讯 TravelDaily"
-      }
-    },
-    {
-      "story_id": "story_acd6d7b56e9a",
-      "title": "WTTC unveils seven principles to help destinations turn tourism growth into shared prosperity",
-      "url": "https://insights.ehotelier.com/global-news/2026/08/04/wttc-unveils-seven-principles-to-help-destinations-turn-tourism-growth-into-shared-prosperity-2/?utm_source=rss&utm_medium=rss&utm_campaign=wttc-unveils-seven-principles-to-help-destinations-turn-tourism-growth-into-shared-prosperity-2",
-      "primary_url": "https://insights.ehotelier.com/global-news/2026/08/04/wttc-unveils-seven-principles-to-help-destinations-turn-tourism-growth-into-shared-prosperity-2/?utm_source=rss&utm_medium=rss&utm_campaign=wttc-unveils-seven-principles-to-help-destinations-turn-tourism-growth-into-shared-prosperity-2",
-      "source": "eHotelier",
-      "source_name": "eHotelier",
-      "sources": [
-        {
-          "id": "hotelitem_acd6d7b56e9a",
-          "title": "WTTC unveils seven principles to help destinations turn tourism growth into shared prosperity",
-          "url": "https://insights.ehotelier.com/global-news/2026/08/04/wttc-unveils-seven-principles-to-help-destinations-turn-tourism-growth-into-shared-prosperity-2/?utm_source=rss&utm_medium=rss&utm_campaign=wttc-unveils-seven-principles-to-help-destinations-turn-tourism-growth-into-shared-prosperity-2",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-08-04T01:45:08Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "eHotelier"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_acd6d7b56e9a",
-          "title": "WTTC unveils seven principles to help destinations turn tourism growth into shared prosperity",
-          "url": "https://insights.ehotelier.com/global-news/2026/08/04/wttc-unveils-seven-principles-to-help-destinations-turn-tourism-growth-into-shared-prosperity-2/?utm_source=rss&utm_medium=rss&utm_campaign=wttc-unveils-seven-principles-to-help-destinations-turn-tourism-growth-into-shared-prosperity-2",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-08-04T01:45:08Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8637,
-      "importance": 0.5986,
-      "importance_score": 0.8637,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9931,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-04T01:45:08Z",
-      "latest_at": "2026-08-04T01:45:08Z",
-      "primary_item": {
-        "id": "hotelitem_acd6d7b56e9a",
-        "title": "WTTC unveils seven principles to help destinations turn tourism growth into shared prosperity",
-        "url": "https://insights.ehotelier.com/global-news/2026/08/04/wttc-unveils-seven-principles-to-help-destinations-turn-tourism-growth-into-shared-prosperity-2/?utm_source=rss&utm_medium=rss&utm_campaign=wttc-unveils-seven-principles-to-help-destinations-turn-tourism-growth-into-shared-prosperity-2",
-        "source": "eHotelier",
-        "source_name": "eHotelier"
       }
     },
     {
@@ -923,14 +864,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8637,
-      "importance": 0.5987,
-      "importance_score": 0.8637,
+      "score": 0.8633,
+      "importance": 0.5982,
+      "importance_score": 0.8633,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9933,
+        "recency": 0.9911,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -982,14 +923,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8637,
-      "importance": 0.5987,
-      "importance_score": 0.8637,
+      "score": 0.8633,
+      "importance": 0.5982,
+      "importance_score": 0.8633,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9934,
+        "recency": 0.9911,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1041,14 +982,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8636,
-      "importance": 0.5986,
-      "importance_score": 0.8636,
+      "score": 0.8632,
+      "importance": 0.5981,
+      "importance_score": 0.8632,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9928,
+        "recency": 0.9906,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1061,6 +1002,65 @@
         "id": "hotelitem_0c9b2e8e36d3",
         "title": "The Langham, Custom House, Bangkok now accepting reservations",
         "url": "https://insights.ehotelier.com/properties/2026/08/04/the-langham-custom-house-bangkok-now-accepting-reservations/?utm_source=rss&utm_medium=rss&utm_campaign=the-langham-custom-house-bangkok-now-accepting-reservations",
+        "source": "eHotelier",
+        "source_name": "eHotelier"
+      }
+    },
+    {
+      "story_id": "story_acd6d7b56e9a",
+      "title": "WTTC unveils seven principles to help destinations turn tourism growth into shared prosperity",
+      "url": "https://insights.ehotelier.com/global-news/2026/08/04/wttc-unveils-seven-principles-to-help-destinations-turn-tourism-growth-into-shared-prosperity-2/?utm_source=rss&utm_medium=rss&utm_campaign=wttc-unveils-seven-principles-to-help-destinations-turn-tourism-growth-into-shared-prosperity-2",
+      "primary_url": "https://insights.ehotelier.com/global-news/2026/08/04/wttc-unveils-seven-principles-to-help-destinations-turn-tourism-growth-into-shared-prosperity-2/?utm_source=rss&utm_medium=rss&utm_campaign=wttc-unveils-seven-principles-to-help-destinations-turn-tourism-growth-into-shared-prosperity-2",
+      "source": "eHotelier",
+      "source_name": "eHotelier",
+      "sources": [
+        {
+          "id": "hotelitem_acd6d7b56e9a",
+          "title": "WTTC unveils seven principles to help destinations turn tourism growth into shared prosperity",
+          "url": "https://insights.ehotelier.com/global-news/2026/08/04/wttc-unveils-seven-principles-to-help-destinations-turn-tourism-growth-into-shared-prosperity-2/?utm_source=rss&utm_medium=rss&utm_campaign=wttc-unveils-seven-principles-to-help-destinations-turn-tourism-growth-into-shared-prosperity-2",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-08-04T01:45:08Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "eHotelier"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_acd6d7b56e9a",
+          "title": "WTTC unveils seven principles to help destinations turn tourism growth into shared prosperity",
+          "url": "https://insights.ehotelier.com/global-news/2026/08/04/wttc-unveils-seven-principles-to-help-destinations-turn-tourism-growth-into-shared-prosperity-2/?utm_source=rss&utm_medium=rss&utm_campaign=wttc-unveils-seven-principles-to-help-destinations-turn-tourism-growth-into-shared-prosperity-2",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-08-04T01:45:08Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8632,
+      "importance": 0.5982,
+      "importance_score": 0.8632,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9909,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-04T01:45:08Z",
+      "latest_at": "2026-08-04T01:45:08Z",
+      "primary_item": {
+        "id": "hotelitem_acd6d7b56e9a",
+        "title": "WTTC unveils seven principles to help destinations turn tourism growth into shared prosperity",
+        "url": "https://insights.ehotelier.com/global-news/2026/08/04/wttc-unveils-seven-principles-to-help-destinations-turn-tourism-growth-into-shared-prosperity-2/?utm_source=rss&utm_medium=rss&utm_campaign=wttc-unveils-seven-principles-to-help-destinations-turn-tourism-growth-into-shared-prosperity-2",
         "source": "eHotelier",
         "source_name": "eHotelier"
       }
@@ -1100,14 +1100,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8619,
-      "importance": 0.5968,
-      "importance_score": 0.8619,
+      "score": 0.8615,
+      "importance": 0.5963,
+      "importance_score": 0.8615,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9839,
+        "recency": 0.9817,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1159,14 +1159,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8614,
-      "importance": 0.5963,
-      "importance_score": 0.8614,
+      "score": 0.861,
+      "importance": 0.5958,
+      "importance_score": 0.861,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9813,
+        "recency": 0.9791,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1198,7 +1198,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-08-04T09:10:43.064596Z"
+          "published_at": "2026-08-04T11:34:53.831847Z"
         },
         {
           "id": "hotelitem_c7c15b7680c9",
@@ -1207,7 +1207,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-08-04T09:10:43.064596Z"
+          "published_at": "2026-08-04T11:34:53.831847Z"
         }
       ],
       "source_count": 2,
@@ -1222,7 +1222,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-08-04T09:10:43.064596Z"
+          "published_at": "2026-08-04T11:34:53.831847Z"
         },
         {
           "id": "hotelitem_c7c15b7680c9",
@@ -1231,7 +1231,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-08-04T09:10:43.064596Z"
+          "published_at": "2026-08-04T11:34:53.831847Z"
         }
       ],
       "item_count": 2,
@@ -1251,8 +1251,8 @@
         "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-04T09:10:43.064596Z",
-      "latest_at": "2026-08-04T09:10:43.064596Z",
+      "earliest_at": "2026-08-04T11:34:53.831847Z",
+      "latest_at": "2026-08-04T11:34:53.831847Z",
       "primary_item": {
         "id": "hotelitem_d4370964909c",
         "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
@@ -1296,14 +1296,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8592,
-      "importance": 0.594,
-      "importance_score": 0.8592,
+      "score": 0.8588,
+      "importance": 0.5936,
+      "importance_score": 0.8588,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9701,
+        "recency": 0.9679,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1335,7 +1335,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-08-04T09:10:43.064596Z"
+          "published_at": "2026-08-04T11:34:53.831847Z"
         }
       ],
       "source_count": 1,
@@ -1350,7 +1350,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-08-04T09:10:43.064596Z"
+          "published_at": "2026-08-04T11:34:53.831847Z"
         }
       ],
       "item_count": 1,
@@ -1369,8 +1369,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-04T09:10:43.064596Z",
-      "latest_at": "2026-08-04T09:10:43.064596Z",
+      "earliest_at": "2026-08-04T11:34:53.831847Z",
+      "latest_at": "2026-08-04T11:34:53.831847Z",
       "primary_item": {
         "id": "hotelitem_e4ce0593c384",
         "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
@@ -1394,7 +1394,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-08-04T09:10:43.064596Z"
+          "published_at": "2026-08-04T11:34:53.831847Z"
         }
       ],
       "source_count": 1,
@@ -1409,7 +1409,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-08-04T09:10:43.064596Z"
+          "published_at": "2026-08-04T11:34:53.831847Z"
         }
       ],
       "item_count": 1,
@@ -1428,8 +1428,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-04T09:10:43.064596Z",
-      "latest_at": "2026-08-04T09:10:43.064596Z",
+      "earliest_at": "2026-08-04T11:34:53.831847Z",
+      "latest_at": "2026-08-04T11:34:53.831847Z",
       "primary_item": {
         "id": "hotelitem_fa34986b4fc0",
         "title": "文化和旅游部、金融监管总局关于警惕借“保...",
@@ -1453,7 +1453,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-08-04T09:10:43.064596Z"
+          "published_at": "2026-08-04T11:34:53.831847Z"
         }
       ],
       "source_count": 1,
@@ -1468,7 +1468,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-08-04T09:10:43.064596Z"
+          "published_at": "2026-08-04T11:34:53.831847Z"
         }
       ],
       "item_count": 1,
@@ -1487,14 +1487,73 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-04T09:10:43.064596Z",
-      "latest_at": "2026-08-04T09:10:43.064596Z",
+      "earliest_at": "2026-08-04T11:34:53.831847Z",
+      "latest_at": "2026-08-04T11:34:53.831847Z",
       "primary_item": {
         "id": "hotelitem_9a958319a874",
         "title": "文化和旅游部印发《旅游强国建设“十五五”...",
         "url": "https://www.mct.gov.cn/whzx/whyw/202607/t20260708_966448.htm",
         "source": "文化和旅游部",
         "source_name": "文化和旅游部"
+      }
+    },
+    {
+      "story_id": "story_4e6bf1190e33",
+      "title": "North of England ranks popular destination for UK staycations",
+      "url": "https://boutiquehotelnews.com/news/industry/north-england-uk-staycations/?utm_source=rss&utm_medium=rss&utm_campaign=north-england-uk-staycations",
+      "primary_url": "https://boutiquehotelnews.com/news/industry/north-england-uk-staycations/?utm_source=rss&utm_medium=rss&utm_campaign=north-england-uk-staycations",
+      "source": "Boutique Hotel News",
+      "source_name": "Boutique Hotel News",
+      "sources": [
+        {
+          "id": "hotelitem_4e6bf1190e33",
+          "title": "North of England ranks popular destination for UK staycations",
+          "url": "https://boutiquehotelnews.com/news/industry/north-england-uk-staycations/?utm_source=rss&utm_medium=rss&utm_campaign=north-england-uk-staycations",
+          "source": "Boutique Hotel News",
+          "source_name": "Boutique Hotel News",
+          "site_id": "boutiquehotel",
+          "published_at": "2026-08-04T09:52:56Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Boutique Hotel News"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_4e6bf1190e33",
+          "title": "North of England ranks popular destination for UK staycations",
+          "url": "https://boutiquehotelnews.com/news/industry/north-england-uk-staycations/?utm_source=rss&utm_medium=rss&utm_campaign=north-england-uk-staycations",
+          "source": "Boutique Hotel News",
+          "source_name": "Boutique Hotel News",
+          "site_id": "boutiquehotel",
+          "published_at": "2026-08-04T09:52:56Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8497,
+      "importance": 0.5997,
+      "importance_score": 0.8497,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9984,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-04T09:52:56Z",
+      "latest_at": "2026-08-04T09:52:56Z",
+      "primary_item": {
+        "id": "hotelitem_4e6bf1190e33",
+        "title": "North of England ranks popular destination for UK staycations",
+        "url": "https://boutiquehotelnews.com/news/industry/north-england-uk-staycations/?utm_source=rss&utm_medium=rss&utm_campaign=north-england-uk-staycations",
+        "source": "Boutique Hotel News",
+        "source_name": "Boutique Hotel News"
       }
     },
     {
@@ -1532,14 +1591,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8296,
-      "importance": 0.5788,
-      "importance_score": 0.8296,
+      "score": 0.8291,
+      "importance": 0.5784,
+      "importance_score": 0.8291,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8941,
+        "recency": 0.8919,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1591,14 +1650,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8201,
-      "importance": 0.5689,
-      "importance_score": 0.8201,
+      "score": 0.8194,
+      "importance": 0.5685,
+      "importance_score": 0.8194,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8447,
+        "recency": 0.8425,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1650,14 +1709,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8173,
-      "importance": 0.5998,
-      "importance_score": 0.8173,
+      "score": 0.8169,
+      "importance": 0.5993,
+      "importance_score": 0.8169,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9989,
+        "recency": 0.9967,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1709,14 +1768,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8171,
-      "importance": 0.597,
-      "importance_score": 0.8171,
+      "score": 0.8167,
+      "importance": 0.5966,
+      "importance_score": 0.8167,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9852,
+        "recency": 0.9829,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1731,65 +1790,6 @@
         "url": "https://skift.com/2026/08/03/marriott-launches-owner-rebate-program-ahead-of-125-million-credit-card-fee-jump/",
         "source": "Skift Hospitality",
         "source_name": "Skift Hospitality"
-      }
-    },
-    {
-      "story_id": "story_0f92c8e44d34",
-      "title": "Agoda Data Reveals Indian Travelers Are Expa ... Digital travel platform Agoda has released new insights highlighting the international beach destinati ... July 29, 2026 / Agoda Press",
-      "url": "https://www.agoda.com/press/agoda-data-reveals-indian-travelers-are-expanding-their-international-beach-bucket-list/",
-      "primary_url": "https://www.agoda.com/press/agoda-data-reveals-indian-travelers-are-expanding-their-international-beach-bucket-list/",
-      "source": "Agoda",
-      "source_name": "Agoda",
-      "sources": [
-        {
-          "id": "hotelitem_0f92c8e44d34",
-          "title": "Agoda Data Reveals Indian Travelers Are Expa ... Digital travel platform Agoda has released new insights highlighting the international beach destinati ... July 29, 2026 / Agoda Press",
-          "url": "https://www.agoda.com/press/agoda-data-reveals-indian-travelers-are-expanding-their-international-beach-bucket-list/",
-          "source": "Agoda",
-          "source_name": "Agoda",
-          "site_id": "agoda_press",
-          "published_at": "2026-08-04T09:10:43.064596Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Agoda"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_0f92c8e44d34",
-          "title": "Agoda Data Reveals Indian Travelers Are Expa ... Digital travel platform Agoda has released new insights highlighting the international beach destinati ... July 29, 2026 / Agoda Press",
-          "url": "https://www.agoda.com/press/agoda-data-reveals-indian-travelers-are-expanding-their-international-beach-bucket-list/",
-          "source": "Agoda",
-          "source_name": "Agoda",
-          "site_id": "agoda_press",
-          "published_at": "2026-08-04T09:10:43.064596Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8125,
-      "importance": 0.6,
-      "importance_score": 0.8125,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-04T09:10:43.064596Z",
-      "latest_at": "2026-08-04T09:10:43.064596Z",
-      "primary_item": {
-        "id": "hotelitem_0f92c8e44d34",
-        "title": "Agoda Data Reveals Indian Travelers Are Expa ... Digital travel platform Agoda has released new insights highlighting the international beach destinati ... July 29, 2026 / Agoda Press",
-        "url": "https://www.agoda.com/press/agoda-data-reveals-indian-travelers-are-expanding-their-international-beach-bucket-list/",
-        "source": "Agoda",
-        "source_name": "Agoda"
       }
     }
   ]
