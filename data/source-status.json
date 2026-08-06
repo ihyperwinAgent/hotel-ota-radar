@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-05T22:28:42.883393Z",
-  "successful_sites": 24,
+  "generated_at": "2026-08-06T03:41:56.246542Z",
+  "successful_sites": 25,
   "total_sites": 26,
-  "items_before_topic_filter": 133,
+  "items_before_topic_filter": 135,
   "sites": [
     {
       "site_id": "huazhu_ir",
@@ -10,7 +10,7 @@
       "category": "cr9_finance",
       "ok": true,
       "item_count": 0,
-      "duration_ms": 289,
+      "duration_ms": 222,
       "error": null
     },
     {
@@ -19,7 +19,7 @@
       "category": "cr9_finance",
       "ok": true,
       "item_count": 0,
-      "duration_ms": 662,
+      "duration_ms": 617,
       "error": null
     },
     {
@@ -28,7 +28,7 @@
       "category": "cr9_finance",
       "ok": true,
       "item_count": 0,
-      "duration_ms": 1792,
+      "duration_ms": 2917,
       "error": null
     },
     {
@@ -37,7 +37,7 @@
       "category": "supply_chain",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 3302,
+      "duration_ms": 2931,
       "error": null
     },
     {
@@ -46,7 +46,7 @@
       "category": "policy",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 1366,
+      "duration_ms": 1461,
       "error": null
     },
     {
@@ -55,17 +55,17 @@
       "category": "policy",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 2134,
+      "duration_ms": 10348,
       "error": null
     },
     {
       "site_id": "meadin",
       "site_name": "迈点研究院",
       "category": "supply_chain",
-      "ok": false,
+      "ok": true,
       "item_count": 0,
-      "duration_ms": 7112,
-      "error": "HTTPSConnectionPool(host='www.meadin.com', port=443): Max retries exceeded with url: / (Caused by ProtocolError('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer')))"
+      "duration_ms": 7805,
+      "error": null
     },
     {
       "site_id": "tripvivid",
@@ -73,7 +73,7 @@
       "category": "supply_chain",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 3450,
+      "duration_ms": 2066,
       "error": null
     },
     {
@@ -82,7 +82,7 @@
       "category": "supply_chain",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1321,
+      "duration_ms": 1599,
       "error": null
     },
     {
@@ -91,7 +91,7 @@
       "category": "ai_hotel",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 311,
+      "duration_ms": 120,
       "error": null
     },
     {
@@ -100,7 +100,7 @@
       "category": "ai_hotel",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 513,
+      "duration_ms": 610,
       "error": null
     },
     {
@@ -109,7 +109,7 @@
       "category": "ai_hotel",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 924,
+      "duration_ms": 948,
       "error": null
     },
     {
@@ -118,7 +118,7 @@
       "category": "supply_chain",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 237,
+      "duration_ms": 107,
       "error": "403 Client Error: Forbidden for url: https://lodgingmagazine.com/feed/"
     },
     {
@@ -127,7 +127,7 @@
       "category": "supply_chain",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1195,
+      "duration_ms": 851,
       "error": null
     },
     {
@@ -136,7 +136,7 @@
       "category": "ai_hotel",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 270,
+      "duration_ms": 129,
       "error": null
     },
     {
@@ -145,7 +145,7 @@
       "category": "ota",
       "ok": true,
       "item_count": 0,
-      "duration_ms": 453,
+      "duration_ms": 229,
       "error": null
     },
     {
@@ -154,7 +154,7 @@
       "category": "ota",
       "ok": true,
       "item_count": 0,
-      "duration_ms": 710,
+      "duration_ms": 478,
       "error": null
     },
     {
@@ -163,7 +163,7 @@
       "category": "ota",
       "ok": true,
       "item_count": 2,
-      "duration_ms": 245,
+      "duration_ms": 161,
       "error": null
     },
     {
@@ -172,7 +172,7 @@
       "category": "ota",
       "ok": true,
       "item_count": 1,
-      "duration_ms": 231,
+      "duration_ms": 156,
       "error": null
     },
     {
@@ -181,7 +181,7 @@
       "category": "ota",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 493,
+      "duration_ms": 133,
       "error": null
     },
     {
@@ -190,7 +190,7 @@
       "category": "ota",
       "ok": true,
       "item_count": 0,
-      "duration_ms": 201,
+      "duration_ms": 132,
       "error": null
     },
     {
@@ -199,7 +199,7 @@
       "category": "ota",
       "ok": true,
       "item_count": 2,
-      "duration_ms": 202,
+      "duration_ms": 173,
       "error": null
     },
     {
@@ -208,7 +208,7 @@
       "category": "ota",
       "ok": true,
       "item_count": 0,
-      "duration_ms": 1251,
+      "duration_ms": 1288,
       "error": null
     },
     {
@@ -217,7 +217,7 @@
       "category": "ota",
       "ok": true,
       "item_count": 0,
-      "duration_ms": 1646,
+      "duration_ms": 1465,
       "error": null
     },
     {
@@ -226,7 +226,7 @@
       "category": "ota",
       "ok": true,
       "item_count": 20,
-      "duration_ms": 2042,
+      "duration_ms": 2286,
       "error": null
     },
     {
@@ -235,7 +235,7 @@
       "category": "ota",
       "ok": true,
       "item_count": 0,
-      "duration_ms": 1422,
+      "duration_ms": 1872,
       "error": null
     }
   ]
