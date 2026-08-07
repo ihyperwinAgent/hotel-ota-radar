@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T16:10:19.423283Z",
+  "generated_at": "2026-08-07T19:18:09.941005Z",
   "window_hours": 1080,
   "total_stories": 30,
   "stories": [
@@ -38,14 +38,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9946,
-      "importance": 0.5944,
-      "importance_score": 0.9946,
+      "score": 0.9941,
+      "importance": 0.5938,
+      "importance_score": 0.9941,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9721,
+        "recency": 0.9692,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -97,14 +97,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9567,
-      "importance": 0.5513,
-      "importance_score": 0.9567,
+      "score": 0.9558,
+      "importance": 0.5507,
+      "importance_score": 0.9558,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.7564,
+        "recency": 0.7535,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -156,14 +156,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9525,
-      "importance": 0.5974,
-      "importance_score": 0.9525,
+      "score": 0.9519,
+      "importance": 0.5968,
+      "importance_score": 0.9519,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9869,
+        "recency": 0.984,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -215,14 +215,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9524,
-      "importance": 0.5973,
-      "importance_score": 0.9524,
+      "score": 0.9518,
+      "importance": 0.5967,
+      "importance_score": 0.9518,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9863,
+        "recency": 0.9834,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -274,14 +274,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9524,
-      "importance": 0.5973,
-      "importance_score": 0.9524,
+      "score": 0.9518,
+      "importance": 0.5967,
+      "importance_score": 0.9518,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9863,
+        "recency": 0.9834,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -296,6 +296,65 @@
         "url": "https://insights.ehotelier.com/properties/2026/08/07/tapestry-collection-by-hilton-debuts-in-vietnam-with-opening-of-nhaan-resort-spa-hoi-an/?utm_source=rss&utm_medium=rss&utm_campaign=tapestry-collection-by-hilton-debuts-in-vietnam-with-opening-of-nhaan-resort-spa-hoi-an",
         "source": "eHotelier",
         "source_name": "eHotelier"
+      }
+    },
+    {
+      "story_id": "story_9699887c72ea",
+      "title": "中国旅游研究院与中青旅控股股份有限公司开展主题党日联学联",
+      "url": "https://www.ctaweb.org.cn/gongzuodongtai/10519.html",
+      "primary_url": "https://www.ctaweb.org.cn/gongzuodongtai/10519.html",
+      "source": "中国旅游研究院",
+      "source_name": "中国旅游研究院",
+      "sources": [
+        {
+          "id": "hotelitem_9699887c72ea",
+          "title": "中国旅游研究院与中青旅控股股份有限公司开展主题党日联学联",
+          "url": "https://www.ctaweb.org.cn/gongzuodongtai/10519.html",
+          "source": "中国旅游研究院",
+          "source_name": "中国旅游研究院",
+          "site_id": "cta",
+          "published_at": "2026-08-07T19:18:09.941005Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "中国旅游研究院"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_9699887c72ea",
+          "title": "中国旅游研究院与中青旅控股股份有限公司开展主题党日联学联",
+          "url": "https://www.ctaweb.org.cn/gongzuodongtai/10519.html",
+          "source": "中国旅游研究院",
+          "source_name": "中国旅游研究院",
+          "site_id": "cta",
+          "published_at": "2026-08-07T19:18:09.941005Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.948,
+      "importance": 0.6,
+      "importance_score": 0.948,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-07T19:18:09.941005Z",
+      "latest_at": "2026-08-07T19:18:09.941005Z",
+      "primary_item": {
+        "id": "hotelitem_9699887c72ea",
+        "title": "中国旅游研究院与中青旅控股股份有限公司开展主题党日联学联",
+        "url": "https://www.ctaweb.org.cn/gongzuodongtai/10519.html",
+        "source": "中国旅游研究院",
+        "source_name": "中国旅游研究院"
       }
     },
     {
@@ -333,14 +392,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9481,
-      "importance": 0.5929,
-      "importance_score": 0.9481,
+      "score": 0.9476,
+      "importance": 0.5923,
+      "importance_score": 0.9476,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9644,
+        "recency": 0.9615,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -355,65 +414,6 @@
         "url": "https://insights.ehotelier.com/global-news/2026/08/06/canopy-by-hilton-istanbul-taksim-partners-with-iris-to-enhance-guest-journey-with-digital-guest-directory-solution/?utm_source=rss&utm_medium=rss&utm_campaign=canopy-by-hilton-istanbul-taksim-partners-with-iris-to-enhance-guest-journey-with-digital-guest-directory-solution",
         "source": "eHotelier",
         "source_name": "eHotelier"
-      }
-    },
-    {
-      "story_id": "story_9699887c72ea",
-      "title": "中国旅游研究院与中青旅控股股份有限公司开展主题党日联学联",
-      "url": "https://www.ctaweb.org.cn/gongzuodongtai/10519.html",
-      "primary_url": "https://www.ctaweb.org.cn/gongzuodongtai/10519.html",
-      "source": "中国旅游研究院",
-      "source_name": "中国旅游研究院",
-      "sources": [
-        {
-          "id": "hotelitem_9699887c72ea",
-          "title": "中国旅游研究院与中青旅控股股份有限公司开展主题党日联学联",
-          "url": "https://www.ctaweb.org.cn/gongzuodongtai/10519.html",
-          "source": "中国旅游研究院",
-          "source_name": "中国旅游研究院",
-          "site_id": "cta",
-          "published_at": "2026-08-07T16:10:19.423283Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "中国旅游研究院"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_9699887c72ea",
-          "title": "中国旅游研究院与中青旅控股股份有限公司开展主题党日联学联",
-          "url": "https://www.ctaweb.org.cn/gongzuodongtai/10519.html",
-          "source": "中国旅游研究院",
-          "source_name": "中国旅游研究院",
-          "site_id": "cta",
-          "published_at": "2026-08-07T16:10:19.423283Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.948,
-      "importance": 0.6,
-      "importance_score": 0.948,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-07T16:10:19.423283Z",
-      "latest_at": "2026-08-07T16:10:19.423283Z",
-      "primary_item": {
-        "id": "hotelitem_9699887c72ea",
-        "title": "中国旅游研究院与中青旅控股股份有限公司开展主题党日联学联",
-        "url": "https://www.ctaweb.org.cn/gongzuodongtai/10519.html",
-        "source": "中国旅游研究院",
-        "source_name": "中国旅游研究院"
       }
     },
     {
@@ -451,14 +451,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.947,
-      "importance": 0.5917,
-      "importance_score": 0.947,
+      "score": 0.9464,
+      "importance": 0.5911,
+      "importance_score": 0.9464,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9585,
+        "recency": 0.9556,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -510,14 +510,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9465,
-      "importance": 0.5912,
-      "importance_score": 0.9465,
+      "score": 0.946,
+      "importance": 0.5907,
+      "importance_score": 0.946,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9562,
+        "recency": 0.9533,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -569,14 +569,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.946,
-      "importance": 0.5906,
-      "importance_score": 0.946,
+      "score": 0.9454,
+      "importance": 0.59,
+      "importance_score": 0.9454,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9531,
+        "recency": 0.9502,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -628,14 +628,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9456,
-      "importance": 0.5903,
-      "importance_score": 0.9456,
+      "score": 0.9451,
+      "importance": 0.5897,
+      "importance_score": 0.9451,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9513,
+        "recency": 0.9484,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -687,14 +687,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9416,
-      "importance": 0.5861,
-      "importance_score": 0.9416,
+      "score": 0.9411,
+      "importance": 0.5856,
+      "importance_score": 0.9411,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9307,
+        "recency": 0.9278,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -707,65 +707,6 @@
         "id": "hotelitem_a47236c9a29b",
         "title": "Airbnb furthers hotel strategy with Lark Hotels partnership",
         "url": "https://www.hoteldive.com/news/airbnb-furthers-hotel-strategy-lark-partnership/826921/",
-        "source": "Hotel Dive",
-        "source_name": "Hotel Dive"
-      }
-    },
-    {
-      "story_id": "story_4f70e9d63555",
-      "title": "Marriott’s Q2 RevPAR growth bolstered by US and Canada gains",
-      "url": "https://www.hoteldive.com/news/marriott-earnings-q2-2026/826812/",
-      "primary_url": "https://www.hoteldive.com/news/marriott-earnings-q2-2026/826812/",
-      "source": "Hotel Dive",
-      "source_name": "Hotel Dive",
-      "sources": [
-        {
-          "id": "hotelitem_4f70e9d63555",
-          "title": "Marriott’s Q2 RevPAR growth bolstered by US and Canada gains",
-          "url": "https://www.hoteldive.com/news/marriott-earnings-q2-2026/826812/",
-          "source": "Hotel Dive",
-          "source_name": "Hotel Dive",
-          "site_id": "hoteldive",
-          "published_at": "2026-08-03T14:00:04Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hotel Dive"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_4f70e9d63555",
-          "title": "Marriott’s Q2 RevPAR growth bolstered by US and Canada gains",
-          "url": "https://www.hoteldive.com/news/marriott-earnings-q2-2026/826812/",
-          "source": "Hotel Dive",
-          "source_name": "Hotel Dive",
-          "site_id": "hoteldive",
-          "published_at": "2026-08-03T14:00:04Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.9375,
-      "importance": 0.5818,
-      "importance_score": 0.9375,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9091,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-03T14:00:04Z",
-      "latest_at": "2026-08-03T14:00:04Z",
-      "primary_item": {
-        "id": "hotelitem_4f70e9d63555",
-        "title": "Marriott’s Q2 RevPAR growth bolstered by US and Canada gains",
-        "url": "https://www.hoteldive.com/news/marriott-earnings-q2-2026/826812/",
         "source": "Hotel Dive",
         "source_name": "Hotel Dive"
       }
@@ -805,14 +746,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9306,
-      "importance": 0.5903,
-      "importance_score": 0.9306,
+      "score": 0.9301,
+      "importance": 0.5897,
+      "importance_score": 0.9301,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9514,
+        "recency": 0.9485,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -864,14 +805,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9288,
-      "importance": 0.5987,
-      "importance_score": 0.9288,
+      "score": 0.9282,
+      "importance": 0.5981,
+      "importance_score": 0.9282,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9936,
+        "recency": 0.9907,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -923,14 +864,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9214,
-      "importance": 0.5989,
-      "importance_score": 0.9214,
+      "score": 0.9209,
+      "importance": 0.5983,
+      "importance_score": 0.9209,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9944,
+        "recency": 0.9915,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -982,14 +923,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9095,
-      "importance": 0.5865,
-      "importance_score": 0.9095,
+      "score": 0.9089,
+      "importance": 0.5859,
+      "importance_score": 0.9089,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9326,
+        "recency": 0.9297,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1041,14 +982,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8648,
-      "importance": 0.5998,
-      "importance_score": 0.8648,
+      "score": 0.8642,
+      "importance": 0.5992,
+      "importance_score": 0.8642,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.999,
+        "recency": 0.9961,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1066,62 +1007,62 @@
       }
     },
     {
-      "story_id": "story_4508933a3d3c",
-      "title": "Rebecca Astier appointed PR Lead at Queensland Country Tourism",
-      "url": "https://insights.ehotelier.com/people/2026/08/07/rebecca-astier-appointed-pr-lead-at-queensland-country-tourism/?utm_source=rss&utm_medium=rss&utm_campaign=rebecca-astier-appointed-pr-lead-at-queensland-country-tourism",
-      "primary_url": "https://insights.ehotelier.com/people/2026/08/07/rebecca-astier-appointed-pr-lead-at-queensland-country-tourism/?utm_source=rss&utm_medium=rss&utm_campaign=rebecca-astier-appointed-pr-lead-at-queensland-country-tourism",
-      "source": "eHotelier",
-      "source_name": "eHotelier",
+      "story_id": "story_79aaaa5b5a1e",
+      "title": "CoStar, Tourism Economics significantly boost US hotel performance outlook",
+      "url": "https://www.hoteldive.com/news/costar-tourism-economics-raise-us-hotel-performance-outlook-2026/827318/",
+      "primary_url": "https://www.hoteldive.com/news/costar-tourism-economics-raise-us-hotel-performance-outlook-2026/827318/",
+      "source": "Hotel Dive",
+      "source_name": "Hotel Dive",
       "sources": [
         {
-          "id": "hotelitem_4508933a3d3c",
-          "title": "Rebecca Astier appointed PR Lead at Queensland Country Tourism",
-          "url": "https://insights.ehotelier.com/people/2026/08/07/rebecca-astier-appointed-pr-lead-at-queensland-country-tourism/?utm_source=rss&utm_medium=rss&utm_campaign=rebecca-astier-appointed-pr-lead-at-queensland-country-tourism",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-08-07T01:30:54Z"
+          "id": "hotelitem_79aaaa5b5a1e",
+          "title": "CoStar, Tourism Economics significantly boost US hotel performance outlook",
+          "url": "https://www.hoteldive.com/news/costar-tourism-economics-raise-us-hotel-performance-outlook-2026/827318/",
+          "source": "Hotel Dive",
+          "source_name": "Hotel Dive",
+          "site_id": "hoteldive",
+          "published_at": "2026-08-07T13:22:44Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "eHotelier"
+        "Hotel Dive"
       ],
       "items": [
         {
-          "id": "hotelitem_4508933a3d3c",
-          "title": "Rebecca Astier appointed PR Lead at Queensland Country Tourism",
-          "url": "https://insights.ehotelier.com/people/2026/08/07/rebecca-astier-appointed-pr-lead-at-queensland-country-tourism/?utm_source=rss&utm_medium=rss&utm_campaign=rebecca-astier-appointed-pr-lead-at-queensland-country-tourism",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-08-07T01:30:54Z"
+          "id": "hotelitem_79aaaa5b5a1e",
+          "title": "CoStar, Tourism Economics significantly boost US hotel performance outlook",
+          "url": "https://www.hoteldive.com/news/costar-tourism-economics-raise-us-hotel-performance-outlook-2026/827318/",
+          "source": "Hotel Dive",
+          "source_name": "Hotel Dive",
+          "site_id": "hoteldive",
+          "published_at": "2026-08-07T13:22:44Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8624,
-      "importance": 0.5973,
-      "importance_score": 0.8624,
+      "score": 0.8639,
+      "importance": 0.5989,
+      "importance_score": 0.8639,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9864,
+        "recency": 0.9945,
         "story_heat": 0.0
       },
       "category": "watch",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-07T01:30:54Z",
-      "latest_at": "2026-08-07T01:30:54Z",
+      "earliest_at": "2026-08-07T13:22:44Z",
+      "latest_at": "2026-08-07T13:22:44Z",
       "primary_item": {
-        "id": "hotelitem_4508933a3d3c",
-        "title": "Rebecca Astier appointed PR Lead at Queensland Country Tourism",
-        "url": "https://insights.ehotelier.com/people/2026/08/07/rebecca-astier-appointed-pr-lead-at-queensland-country-tourism/?utm_source=rss&utm_medium=rss&utm_campaign=rebecca-astier-appointed-pr-lead-at-queensland-country-tourism",
-        "source": "eHotelier",
-        "source_name": "eHotelier"
+        "id": "hotelitem_79aaaa5b5a1e",
+        "title": "CoStar, Tourism Economics significantly boost US hotel performance outlook",
+        "url": "https://www.hoteldive.com/news/costar-tourism-economics-raise-us-hotel-performance-outlook-2026/827318/",
+        "source": "Hotel Dive",
+        "source_name": "Hotel Dive"
       }
     },
     {
@@ -1159,14 +1100,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8624,
-      "importance": 0.5973,
-      "importance_score": 0.8624,
+      "score": 0.8619,
+      "importance": 0.5967,
+      "importance_score": 0.8619,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9866,
+        "recency": 0.9837,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1218,14 +1159,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8624,
-      "importance": 0.5973,
-      "importance_score": 0.8624,
+      "score": 0.8619,
+      "importance": 0.5967,
+      "importance_score": 0.8619,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9866,
+        "recency": 0.9837,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1238,6 +1179,65 @@
         "id": "hotelitem_43fec65cfea6",
         "title": "Australia’s hotel sector to capture greater share of future global travel",
         "url": "https://insights.ehotelier.com/global-news/2026/08/07/australias-hotel-sector-to-capture-greater-share-of-future-global-travel/?utm_source=rss&utm_medium=rss&utm_campaign=australias-hotel-sector-to-capture-greater-share-of-future-global-travel",
+        "source": "eHotelier",
+        "source_name": "eHotelier"
+      }
+    },
+    {
+      "story_id": "story_4508933a3d3c",
+      "title": "Rebecca Astier appointed PR Lead at Queensland Country Tourism",
+      "url": "https://insights.ehotelier.com/people/2026/08/07/rebecca-astier-appointed-pr-lead-at-queensland-country-tourism/?utm_source=rss&utm_medium=rss&utm_campaign=rebecca-astier-appointed-pr-lead-at-queensland-country-tourism",
+      "primary_url": "https://insights.ehotelier.com/people/2026/08/07/rebecca-astier-appointed-pr-lead-at-queensland-country-tourism/?utm_source=rss&utm_medium=rss&utm_campaign=rebecca-astier-appointed-pr-lead-at-queensland-country-tourism",
+      "source": "eHotelier",
+      "source_name": "eHotelier",
+      "sources": [
+        {
+          "id": "hotelitem_4508933a3d3c",
+          "title": "Rebecca Astier appointed PR Lead at Queensland Country Tourism",
+          "url": "https://insights.ehotelier.com/people/2026/08/07/rebecca-astier-appointed-pr-lead-at-queensland-country-tourism/?utm_source=rss&utm_medium=rss&utm_campaign=rebecca-astier-appointed-pr-lead-at-queensland-country-tourism",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-08-07T01:30:54Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "eHotelier"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_4508933a3d3c",
+          "title": "Rebecca Astier appointed PR Lead at Queensland Country Tourism",
+          "url": "https://insights.ehotelier.com/people/2026/08/07/rebecca-astier-appointed-pr-lead-at-queensland-country-tourism/?utm_source=rss&utm_medium=rss&utm_campaign=rebecca-astier-appointed-pr-lead-at-queensland-country-tourism",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-08-07T01:30:54Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8618,
+      "importance": 0.5967,
+      "importance_score": 0.8618,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9835,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-07T01:30:54Z",
+      "latest_at": "2026-08-07T01:30:54Z",
+      "primary_item": {
+        "id": "hotelitem_4508933a3d3c",
+        "title": "Rebecca Astier appointed PR Lead at Queensland Country Tourism",
+        "url": "https://insights.ehotelier.com/people/2026/08/07/rebecca-astier-appointed-pr-lead-at-queensland-country-tourism/?utm_source=rss&utm_medium=rss&utm_campaign=rebecca-astier-appointed-pr-lead-at-queensland-country-tourism",
         "source": "eHotelier",
         "source_name": "eHotelier"
       }
@@ -1257,7 +1257,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-08-07T16:10:19.423283Z"
+          "published_at": "2026-08-07T19:18:09.941005Z"
         },
         {
           "id": "hotelitem_c7c15b7680c9",
@@ -1266,7 +1266,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-08-07T16:10:19.423283Z"
+          "published_at": "2026-08-07T19:18:09.941005Z"
         }
       ],
       "source_count": 2,
@@ -1281,7 +1281,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-08-07T16:10:19.423283Z"
+          "published_at": "2026-08-07T19:18:09.941005Z"
         },
         {
           "id": "hotelitem_c7c15b7680c9",
@@ -1290,7 +1290,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-08-07T16:10:19.423283Z"
+          "published_at": "2026-08-07T19:18:09.941005Z"
         }
       ],
       "item_count": 2,
@@ -1310,8 +1310,8 @@
         "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-07T16:10:19.423283Z",
-      "latest_at": "2026-08-07T16:10:19.423283Z",
+      "earliest_at": "2026-08-07T19:18:09.941005Z",
+      "latest_at": "2026-08-07T19:18:09.941005Z",
       "primary_item": {
         "id": "hotelitem_d4370964909c",
         "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
@@ -1335,7 +1335,7 @@
           "source": "迈点研究院",
           "source_name": "迈点研究院",
           "site_id": "meadin",
-          "published_at": "2026-08-07T16:10:19.423283Z"
+          "published_at": "2026-08-07T19:18:09.941005Z"
         }
       ],
       "source_count": 1,
@@ -1350,7 +1350,7 @@
           "source": "迈点研究院",
           "source_name": "迈点研究院",
           "site_id": "meadin",
-          "published_at": "2026-08-07T16:10:19.423283Z"
+          "published_at": "2026-08-07T19:18:09.941005Z"
         }
       ],
       "item_count": 1,
@@ -1369,8 +1369,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-07T16:10:19.423283Z",
-      "latest_at": "2026-08-07T16:10:19.423283Z",
+      "earliest_at": "2026-08-07T19:18:09.941005Z",
+      "latest_at": "2026-08-07T19:18:09.941005Z",
       "primary_item": {
         "id": "hotelitem_76898a320fbe",
         "title": "凯撒旅业子公司股权拍卖流拍",
@@ -1394,7 +1394,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-08-07T16:10:19.423283Z"
+          "published_at": "2026-08-07T19:18:09.941005Z"
         }
       ],
       "source_count": 1,
@@ -1409,7 +1409,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-08-07T16:10:19.423283Z"
+          "published_at": "2026-08-07T19:18:09.941005Z"
         }
       ],
       "item_count": 1,
@@ -1428,8 +1428,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-07T16:10:19.423283Z",
-      "latest_at": "2026-08-07T16:10:19.423283Z",
+      "earliest_at": "2026-08-07T19:18:09.941005Z",
+      "latest_at": "2026-08-07T19:18:09.941005Z",
       "primary_item": {
         "id": "hotelitem_e4ce0593c384",
         "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
@@ -1453,7 +1453,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-08-07T16:10:19.423283Z"
+          "published_at": "2026-08-07T19:18:09.941005Z"
         }
       ],
       "source_count": 1,
@@ -1468,7 +1468,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-08-07T16:10:19.423283Z"
+          "published_at": "2026-08-07T19:18:09.941005Z"
         }
       ],
       "item_count": 1,
@@ -1487,8 +1487,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-07T16:10:19.423283Z",
-      "latest_at": "2026-08-07T16:10:19.423283Z",
+      "earliest_at": "2026-08-07T19:18:09.941005Z",
+      "latest_at": "2026-08-07T19:18:09.941005Z",
       "primary_item": {
         "id": "hotelitem_fa34986b4fc0",
         "title": "文化和旅游部、金融监管总局关于警惕借“保...",
@@ -1512,7 +1512,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-08-07T16:10:19.423283Z"
+          "published_at": "2026-08-07T19:18:09.941005Z"
         }
       ],
       "source_count": 1,
@@ -1527,7 +1527,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-08-07T16:10:19.423283Z"
+          "published_at": "2026-08-07T19:18:09.941005Z"
         }
       ],
       "item_count": 1,
@@ -1546,8 +1546,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-07T16:10:19.423283Z",
-      "latest_at": "2026-08-07T16:10:19.423283Z",
+      "earliest_at": "2026-08-07T19:18:09.941005Z",
+      "latest_at": "2026-08-07T19:18:09.941005Z",
       "primary_item": {
         "id": "hotelitem_9a958319a874",
         "title": "文化和旅游部印发《旅游强国建设“十五五”...",
@@ -1591,14 +1591,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8559,
-      "importance": 0.5905,
-      "importance_score": 0.8559,
+      "score": 0.8553,
+      "importance": 0.5899,
+      "importance_score": 0.8553,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9526,
+        "recency": 0.9497,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1611,65 +1611,6 @@
         "id": "hotelitem_39f2c45d6921",
         "title": "Can Banks Become the New Hotel Tastemakers? Capital One Travel Thinks So",
         "url": "https://skift.com/2026/08/05/capital-one-travel-luxury-curation-strategy/",
-        "source": "Skift Hospitality",
-        "source_name": "Skift Hospitality"
-      }
-    },
-    {
-      "story_id": "story_766f5f3ed87f",
-      "title": "Iran War Drags Down Q2 Earnings for Big Hotel Chains",
-      "url": "https://skift.com/2026/08/04/iran-war-drags-down-q2-earnings-for-big-hotel-chains/",
-      "primary_url": "https://skift.com/2026/08/04/iran-war-drags-down-q2-earnings-for-big-hotel-chains/",
-      "source": "Skift Hospitality",
-      "source_name": "Skift Hospitality",
-      "sources": [
-        {
-          "id": "hotelitem_766f5f3ed87f",
-          "title": "Iran War Drags Down Q2 Earnings for Big Hotel Chains",
-          "url": "https://skift.com/2026/08/04/iran-war-drags-down-q2-earnings-for-big-hotel-chains/",
-          "source": "Skift Hospitality",
-          "source_name": "Skift Hospitality",
-          "site_id": "skift",
-          "published_at": "2026-08-04T14:33:14Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Skift Hospitality"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_766f5f3ed87f",
-          "title": "Iran War Drags Down Q2 Earnings for Big Hotel Chains",
-          "url": "https://skift.com/2026/08/04/iran-war-drags-down-q2-earnings-for-big-hotel-chains/",
-          "source": "Skift Hospitality",
-          "source_name": "Skift Hospitality",
-          "site_id": "skift",
-          "published_at": "2026-08-04T14:33:14Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8519,
-      "importance": 0.5864,
-      "importance_score": 0.8519,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9318,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-04T14:33:14Z",
-      "latest_at": "2026-08-04T14:33:14Z",
-      "primary_item": {
-        "id": "hotelitem_766f5f3ed87f",
-        "title": "Iran War Drags Down Q2 Earnings for Big Hotel Chains",
-        "url": "https://skift.com/2026/08/04/iran-war-drags-down-q2-earnings-for-big-hotel-chains/",
         "source": "Skift Hospitality",
         "source_name": "Skift Hospitality"
       }
@@ -1709,14 +1650,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8518,
-      "importance": 0.5864,
-      "importance_score": 0.8518,
+      "score": 0.8513,
+      "importance": 0.5858,
+      "importance_score": 0.8513,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9318,
+        "recency": 0.9289,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1729,6 +1670,65 @@
         "id": "hotelitem_a790eebcc2a0",
         "title": "Hoshino’s Nara Prison Leans Into the Heritage — a Test Case for Japan’s Historic Buildings",
         "url": "https://skift.com/2026/08/04/hoshinos-nara-prison-leans-into-the-heritage-a-test-case-for-japans-historic-buildings/",
+        "source": "Skift Hospitality",
+        "source_name": "Skift Hospitality"
+      }
+    },
+    {
+      "story_id": "story_766f5f3ed87f",
+      "title": "Iran War Drags Down Q2 Earnings for Big Hotel Chains",
+      "url": "https://skift.com/2026/08/04/iran-war-drags-down-q2-earnings-for-big-hotel-chains/",
+      "primary_url": "https://skift.com/2026/08/04/iran-war-drags-down-q2-earnings-for-big-hotel-chains/",
+      "source": "Skift Hospitality",
+      "source_name": "Skift Hospitality",
+      "sources": [
+        {
+          "id": "hotelitem_766f5f3ed87f",
+          "title": "Iran War Drags Down Q2 Earnings for Big Hotel Chains",
+          "url": "https://skift.com/2026/08/04/iran-war-drags-down-q2-earnings-for-big-hotel-chains/",
+          "source": "Skift Hospitality",
+          "source_name": "Skift Hospitality",
+          "site_id": "skift",
+          "published_at": "2026-08-04T14:33:14Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Skift Hospitality"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_766f5f3ed87f",
+          "title": "Iran War Drags Down Q2 Earnings for Big Hotel Chains",
+          "url": "https://skift.com/2026/08/04/iran-war-drags-down-q2-earnings-for-big-hotel-chains/",
+          "source": "Skift Hospitality",
+          "source_name": "Skift Hospitality",
+          "site_id": "skift",
+          "published_at": "2026-08-04T14:33:14Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8513,
+      "importance": 0.5858,
+      "importance_score": 0.8513,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9289,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-04T14:33:14Z",
+      "latest_at": "2026-08-04T14:33:14Z",
+      "primary_item": {
+        "id": "hotelitem_766f5f3ed87f",
+        "title": "Iran War Drags Down Q2 Earnings for Big Hotel Chains",
+        "url": "https://skift.com/2026/08/04/iran-war-drags-down-q2-earnings-for-big-hotel-chains/",
         "source": "Skift Hospitality",
         "source_name": "Skift Hospitality"
       }
@@ -1768,14 +1768,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8481,
-      "importance": 0.5824,
-      "importance_score": 0.8481,
+      "score": 0.8475,
+      "importance": 0.5819,
+      "importance_score": 0.8475,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9122,
+        "recency": 0.9093,
         "story_heat": 0.0
       },
       "category": "watch",
