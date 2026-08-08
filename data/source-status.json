@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-08-08T07:17:31.466143Z",
-  "successful_sites": 23,
+  "generated_at": "2026-08-08T09:55:50.168873Z",
+  "successful_sites": 25,
   "total_sites": 26,
-  "items_before_topic_filter": 129,
+  "items_before_topic_filter": 155,
   "sites": [
     {
       "site_id": "huazhu_ir",
       "site_name": "华住 H World IR",
       "category": "cr9_finance",
-      "ok": false,
+      "ok": true,
       "item_count": 0,
-      "duration_ms": 65182,
-      "error": "HTTPSConnectionPool(host='www.globenewswire.com', port=443): Max retries exceeded with url: /en/search/keyword/Huazhu (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='www.globenewswire.com', port=443): Read timed out. (read timeout=15)\"))"
+      "duration_ms": 243,
+      "error": null
     },
     {
       "site_id": "atour_ir",
@@ -19,7 +19,7 @@
       "category": "cr9_finance",
       "ok": true,
       "item_count": 1,
-      "duration_ms": 409,
+      "duration_ms": 414,
       "error": null
     },
     {
@@ -28,7 +28,7 @@
       "category": "cr9_finance",
       "ok": true,
       "item_count": 0,
-      "duration_ms": 2025,
+      "duration_ms": 2849,
       "error": null
     },
     {
@@ -37,7 +37,7 @@
       "category": "supply_chain",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 3241,
+      "duration_ms": 3107,
       "error": null
     },
     {
@@ -46,7 +46,7 @@
       "category": "policy",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 2166,
+      "duration_ms": 1548,
       "error": null
     },
     {
@@ -55,7 +55,7 @@
       "category": "policy",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 2922,
+      "duration_ms": 1697,
       "error": null
     },
     {
@@ -64,7 +64,7 @@
       "category": "supply_chain",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 2157,
+      "duration_ms": 2165,
       "error": null
     },
     {
@@ -73,7 +73,7 @@
       "category": "supply_chain",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 1912,
+      "duration_ms": 1964,
       "error": null
     },
     {
@@ -82,7 +82,7 @@
       "category": "supply_chain",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1644,
+      "duration_ms": 2292,
       "error": null
     },
     {
@@ -91,7 +91,7 @@
       "category": "ai_hotel",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 171,
+      "duration_ms": 176,
       "error": null
     },
     {
@@ -100,7 +100,7 @@
       "category": "ai_hotel",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 769,
+      "duration_ms": 523,
       "error": null
     },
     {
@@ -109,7 +109,7 @@
       "category": "ai_hotel",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1078,
+      "duration_ms": 1013,
       "error": null
     },
     {
@@ -118,17 +118,17 @@
       "category": "supply_chain",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 77,
+      "duration_ms": 137,
       "error": "403 Client Error: Forbidden for url: https://lodgingmagazine.com/feed/"
     },
     {
       "site_id": "boutiquehotel",
       "site_name": "Boutique Hotel News",
       "category": "supply_chain",
-      "ok": false,
-      "item_count": 0,
-      "duration_ms": 85080,
-      "error": "HTTPSConnectionPool(host='www.boutiquehotelnews.com', port=443): Max retries exceeded with url: /feed/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.boutiquehotelnews.com', port=443) at 0x7f906ce6f850>, 'Connection to www.boutiquehotelnews.com timed out. (connect timeout=20)'))"
+      "ok": true,
+      "item_count": 10,
+      "duration_ms": 960,
+      "error": null
     },
     {
       "site_id": "hoteldive",
@@ -136,7 +136,7 @@
       "category": "ai_hotel",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 126,
+      "duration_ms": 91,
       "error": null
     },
     {
@@ -145,7 +145,7 @@
       "category": "ota",
       "ok": true,
       "item_count": 0,
-      "duration_ms": 11627,
+      "duration_ms": 140,
       "error": null
     },
     {
@@ -154,7 +154,7 @@
       "category": "ota",
       "ok": true,
       "item_count": 0,
-      "duration_ms": 396,
+      "duration_ms": 223,
       "error": null
     },
     {
@@ -163,7 +163,7 @@
       "category": "ota",
       "ok": true,
       "item_count": 1,
-      "duration_ms": 93,
+      "duration_ms": 214,
       "error": null
     },
     {
@@ -172,7 +172,7 @@
       "category": "ota",
       "ok": true,
       "item_count": 1,
-      "duration_ms": 57,
+      "duration_ms": 126,
       "error": null
     },
     {
@@ -181,7 +181,7 @@
       "category": "ota",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 148,
+      "duration_ms": 229,
       "error": null
     },
     {
@@ -190,7 +190,7 @@
       "category": "ota",
       "ok": true,
       "item_count": 1,
-      "duration_ms": 82,
+      "duration_ms": 1182,
       "error": null
     },
     {
@@ -199,7 +199,7 @@
       "category": "ota",
       "ok": true,
       "item_count": 3,
-      "duration_ms": 63,
+      "duration_ms": 93,
       "error": null
     },
     {
@@ -208,7 +208,7 @@
       "category": "ota",
       "ok": true,
       "item_count": 0,
-      "duration_ms": 1315,
+      "duration_ms": 1291,
       "error": null
     },
     {
@@ -217,7 +217,7 @@
       "category": "ota",
       "ok": true,
       "item_count": 0,
-      "duration_ms": 1398,
+      "duration_ms": 1454,
       "error": null
     },
     {
@@ -225,8 +225,8 @@
       "site_name": "环球旅讯 TravelDaily",
       "category": "ota",
       "ok": true,
-      "item_count": 0,
-      "duration_ms": 1700,
+      "item_count": 20,
+      "duration_ms": 2650,
       "error": null
     },
     {
@@ -235,7 +235,7 @@
       "category": "ota",
       "ok": true,
       "item_count": 0,
-      "duration_ms": 1684,
+      "duration_ms": 1584,
       "error": null
     }
   ]

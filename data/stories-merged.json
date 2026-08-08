@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T07:17:31.466143Z",
+  "generated_at": "2026-08-08T09:55:50.168873Z",
   "window_hours": 1080,
   "total_stories": 30,
   "stories": [
@@ -38,14 +38,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9919,
-      "importance": 0.5916,
-      "importance_score": 0.9919,
+      "score": 0.9914,
+      "importance": 0.5911,
+      "importance_score": 0.9914,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9581,
+        "recency": 0.9556,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -60,6 +60,65 @@
         "url": "https://ir.yaduo.com/news-releases/news-release-details/atour-lifestyle-holdings-limited-report-second-quarter-2026",
         "source": "亚朵 Atour IR",
         "source_name": "亚朵 Atour IR"
+      }
+    },
+    {
+      "story_id": "story_c53a4e4e306b",
+      "title": "15 亿梦碎：只因君亭股价A杀，撑不起国资豪赌？| TD内参",
+      "url": "https://www.traveldaily.cn/article/190452",
+      "primary_url": "https://www.traveldaily.cn/article/190452",
+      "source": "环球旅讯 TravelDaily",
+      "source_name": "环球旅讯 TravelDaily",
+      "sources": [
+        {
+          "id": "hotelitem_c53a4e4e306b",
+          "title": "15 亿梦碎：只因君亭股价A杀，撑不起国资豪赌？| TD内参",
+          "url": "https://www.traveldaily.cn/article/190452",
+          "source": "环球旅讯 TravelDaily",
+          "source_name": "环球旅讯 TravelDaily",
+          "site_id": "traveldaily",
+          "published_at": "2026-07-27T17:03:03Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "环球旅讯 TravelDaily"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_c53a4e4e306b",
+          "title": "15 亿梦碎：只因君亭股价A杀，撑不起国资豪赌？| TD内参",
+          "url": "https://www.traveldaily.cn/article/190452",
+          "source": "环球旅讯 TravelDaily",
+          "source_name": "环球旅讯 TravelDaily",
+          "site_id": "traveldaily",
+          "published_at": "2026-07-27T17:03:03Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.9518,
+      "importance": 0.548,
+      "importance_score": 0.9518,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.7399,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-27T17:03:03Z",
+      "latest_at": "2026-07-27T17:03:03Z",
+      "primary_item": {
+        "id": "hotelitem_c53a4e4e306b",
+        "title": "15 亿梦碎：只因君亭股价A杀，撑不起国资豪赌？| TD内参",
+        "url": "https://www.traveldaily.cn/article/190452",
+        "source": "环球旅讯 TravelDaily",
+        "source_name": "环球旅讯 TravelDaily"
       }
     },
     {
@@ -97,14 +156,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9498,
-      "importance": 0.5946,
-      "importance_score": 0.9498,
+      "score": 0.9493,
+      "importance": 0.5941,
+      "importance_score": 0.9493,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9729,
+        "recency": 0.9704,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -156,14 +215,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9497,
-      "importance": 0.5945,
-      "importance_score": 0.9497,
+      "score": 0.9492,
+      "importance": 0.594,
+      "importance_score": 0.9492,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9723,
+        "recency": 0.9698,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -215,14 +274,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9497,
-      "importance": 0.5945,
-      "importance_score": 0.9497,
+      "score": 0.9492,
+      "importance": 0.594,
+      "importance_score": 0.9492,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9723,
+        "recency": 0.9699,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -254,7 +313,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-08-08T07:17:31.466143Z"
+          "published_at": "2026-08-08T09:55:50.168873Z"
         }
       ],
       "source_count": 1,
@@ -269,7 +328,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-08-08T07:17:31.466143Z"
+          "published_at": "2026-08-08T09:55:50.168873Z"
         }
       ],
       "item_count": 1,
@@ -288,8 +347,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-08T07:17:31.466143Z",
-      "latest_at": "2026-08-08T07:17:31.466143Z",
+      "earliest_at": "2026-08-08T09:55:50.168873Z",
+      "latest_at": "2026-08-08T09:55:50.168873Z",
       "primary_item": {
         "id": "hotelitem_9699887c72ea",
         "title": "中国旅游研究院与中青旅控股股份有限公司开展主题党日联学联",
@@ -333,14 +392,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9454,
-      "importance": 0.5901,
-      "importance_score": 0.9454,
+      "score": 0.945,
+      "importance": 0.5896,
+      "importance_score": 0.945,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9504,
+        "recency": 0.9479,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -392,14 +451,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9443,
-      "importance": 0.5889,
-      "importance_score": 0.9443,
+      "score": 0.9438,
+      "importance": 0.5884,
+      "importance_score": 0.9438,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9445,
+        "recency": 0.9421,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -414,65 +473,6 @@
         "url": "https://skift.com/2026/08/05/choice-hotels-new-interim-ceos-first-task-fix-the-revenue-gap/",
         "source": "Skift Hospitality",
         "source_name": "Skift Hospitality"
-      }
-    },
-    {
-      "story_id": "story_17fbba8124e2",
-      "title": "Booking Holdings’ connected trip strategy boosts loyalty",
-      "url": "https://www.hoteldive.com/news/booking-holdings-connected-trip-strategy-boosts-loyalty/827187/",
-      "primary_url": "https://www.hoteldive.com/news/booking-holdings-connected-trip-strategy-boosts-loyalty/827187/",
-      "source": "Hotel Dive",
-      "source_name": "Hotel Dive",
-      "sources": [
-        {
-          "id": "hotelitem_17fbba8124e2",
-          "title": "Booking Holdings’ connected trip strategy boosts loyalty",
-          "url": "https://www.hoteldive.com/news/booking-holdings-connected-trip-strategy-boosts-loyalty/827187/",
-          "source": "Hotel Dive",
-          "source_name": "Hotel Dive",
-          "site_id": "hoteldive",
-          "published_at": "2026-08-05T19:34:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hotel Dive"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_17fbba8124e2",
-          "title": "Booking Holdings’ connected trip strategy boosts loyalty",
-          "url": "https://www.hoteldive.com/news/booking-holdings-connected-trip-strategy-boosts-loyalty/827187/",
-          "source": "Hotel Dive",
-          "source_name": "Hotel Dive",
-          "site_id": "hoteldive",
-          "published_at": "2026-08-05T19:34:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.9443,
-      "importance": 0.5889,
-      "importance_score": 0.9443,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9447,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-05T19:34:00Z",
-      "latest_at": "2026-08-05T19:34:00Z",
-      "primary_item": {
-        "id": "hotelitem_17fbba8124e2",
-        "title": "Booking Holdings’ connected trip strategy boosts loyalty",
-        "url": "https://www.hoteldive.com/news/booking-holdings-connected-trip-strategy-boosts-loyalty/827187/",
-        "source": "Hotel Dive",
-        "source_name": "Hotel Dive"
       }
     },
     {
@@ -510,14 +510,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9438,
-      "importance": 0.5884,
-      "importance_score": 0.9438,
+      "score": 0.9434,
+      "importance": 0.5879,
+      "importance_score": 0.9434,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9422,
+        "recency": 0.9397,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -569,14 +569,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9433,
-      "importance": 0.5878,
-      "importance_score": 0.9433,
+      "score": 0.9428,
+      "importance": 0.5873,
+      "importance_score": 0.9428,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9391,
+        "recency": 0.9366,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -628,14 +628,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9429,
-      "importance": 0.5875,
-      "importance_score": 0.9429,
+      "score": 0.9424,
+      "importance": 0.587,
+      "importance_score": 0.9424,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9373,
+        "recency": 0.9349,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -687,14 +687,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9389,
-      "importance": 0.5833,
-      "importance_score": 0.9389,
+      "score": 0.9385,
+      "importance": 0.5829,
+      "importance_score": 0.9385,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9167,
+        "recency": 0.9143,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -709,6 +709,124 @@
         "url": "https://www.hoteldive.com/news/airbnb-furthers-hotel-strategy-lark-partnership/826921/",
         "source": "Hotel Dive",
         "source_name": "Hotel Dive"
+      }
+    },
+    {
+      "story_id": "story_4f70e9d63555",
+      "title": "Marriott’s Q2 RevPAR growth bolstered by US and Canada gains",
+      "url": "https://www.hoteldive.com/news/marriott-earnings-q2-2026/826812/",
+      "primary_url": "https://www.hoteldive.com/news/marriott-earnings-q2-2026/826812/",
+      "source": "Hotel Dive",
+      "source_name": "Hotel Dive",
+      "sources": [
+        {
+          "id": "hotelitem_4f70e9d63555",
+          "title": "Marriott’s Q2 RevPAR growth bolstered by US and Canada gains",
+          "url": "https://www.hoteldive.com/news/marriott-earnings-q2-2026/826812/",
+          "source": "Hotel Dive",
+          "source_name": "Hotel Dive",
+          "site_id": "hoteldive",
+          "published_at": "2026-08-03T14:00:04Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hotel Dive"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_4f70e9d63555",
+          "title": "Marriott’s Q2 RevPAR growth bolstered by US and Canada gains",
+          "url": "https://www.hoteldive.com/news/marriott-earnings-q2-2026/826812/",
+          "source": "Hotel Dive",
+          "source_name": "Hotel Dive",
+          "site_id": "hoteldive",
+          "published_at": "2026-08-03T14:00:04Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.9343,
+      "importance": 0.5785,
+      "importance_score": 0.9343,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.8927,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-03T14:00:04Z",
+      "latest_at": "2026-08-03T14:00:04Z",
+      "primary_item": {
+        "id": "hotelitem_4f70e9d63555",
+        "title": "Marriott’s Q2 RevPAR growth bolstered by US and Canada gains",
+        "url": "https://www.hoteldive.com/news/marriott-earnings-q2-2026/826812/",
+        "source": "Hotel Dive",
+        "source_name": "Hotel Dive"
+      }
+    },
+    {
+      "story_id": "story_30305cfa636e",
+      "title": "AI is changing how guests discover, book and experience hotels",
+      "url": "https://boutiquehotelnews.com/features/ai-discover-book-hotels/?utm_source=rss&utm_medium=rss&utm_campaign=ai-discover-book-hotels",
+      "primary_url": "https://boutiquehotelnews.com/features/ai-discover-book-hotels/?utm_source=rss&utm_medium=rss&utm_campaign=ai-discover-book-hotels",
+      "source": "Boutique Hotel News",
+      "source_name": "Boutique Hotel News",
+      "sources": [
+        {
+          "id": "hotelitem_30305cfa636e",
+          "title": "AI is changing how guests discover, book and experience hotels",
+          "url": "https://boutiquehotelnews.com/features/ai-discover-book-hotels/?utm_source=rss&utm_medium=rss&utm_campaign=ai-discover-book-hotels",
+          "source": "Boutique Hotel News",
+          "source_name": "Boutique Hotel News",
+          "site_id": "boutiquehotel",
+          "published_at": "2026-08-05T11:43:03Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Boutique Hotel News"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_30305cfa636e",
+          "title": "AI is changing how guests discover, book and experience hotels",
+          "url": "https://boutiquehotelnews.com/features/ai-discover-book-hotels/?utm_source=rss&utm_medium=rss&utm_campaign=ai-discover-book-hotels",
+          "source": "Boutique Hotel News",
+          "source_name": "Boutique Hotel News",
+          "site_id": "boutiquehotel",
+          "published_at": "2026-08-05T11:43:03Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.9275,
+      "importance": 0.587,
+      "importance_score": 0.9275,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.935,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-05T11:43:03Z",
+      "latest_at": "2026-08-05T11:43:03Z",
+      "primary_item": {
+        "id": "hotelitem_30305cfa636e",
+        "title": "AI is changing how guests discover, book and experience hotels",
+        "url": "https://boutiquehotelnews.com/features/ai-discover-book-hotels/?utm_source=rss&utm_medium=rss&utm_campaign=ai-discover-book-hotels",
+        "source": "Boutique Hotel News",
+        "source_name": "Boutique Hotel News"
       }
     },
     {
@@ -746,14 +864,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9261,
-      "importance": 0.5959,
-      "importance_score": 0.9261,
+      "score": 0.9256,
+      "importance": 0.5954,
+      "importance_score": 0.9256,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9796,
+        "recency": 0.9771,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -768,6 +886,124 @@
         "url": "https://www.pinchain.com/article/349711",
         "source": "品橙旅游",
         "source_name": "品橙旅游"
+      }
+    },
+    {
+      "story_id": "story_dc8997783628",
+      "title": "投融资动态 | 7月下半月，旅游业这10笔交易值得关注",
+      "url": "https://www.traveldaily.cn/article/190506",
+      "primary_url": "https://www.traveldaily.cn/article/190506",
+      "source": "环球旅讯 TravelDaily",
+      "source_name": "环球旅讯 TravelDaily",
+      "sources": [
+        {
+          "id": "hotelitem_dc8997783628",
+          "title": "投融资动态 | 7月下半月，旅游业这10笔交易值得关注",
+          "url": "https://www.traveldaily.cn/article/190506",
+          "source": "环球旅讯 TravelDaily",
+          "source_name": "环球旅讯 TravelDaily",
+          "site_id": "traveldaily",
+          "published_at": "2026-08-07T10:06:23Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "环球旅讯 TravelDaily"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_dc8997783628",
+          "title": "投融资动态 | 7月下半月，旅游业这10笔交易值得关注",
+          "url": "https://www.traveldaily.cn/article/190506",
+          "source": "环球旅讯 TravelDaily",
+          "source_name": "环球旅讯 TravelDaily",
+          "site_id": "traveldaily",
+          "published_at": "2026-08-07T10:06:23Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.9182,
+      "importance": 0.5956,
+      "importance_score": 0.9182,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9779,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-07T10:06:23Z",
+      "latest_at": "2026-08-07T10:06:23Z",
+      "primary_item": {
+        "id": "hotelitem_dc8997783628",
+        "title": "投融资动态 | 7月下半月，旅游业这10笔交易值得关注",
+        "url": "https://www.traveldaily.cn/article/190506",
+        "source": "环球旅讯 TravelDaily",
+        "source_name": "环球旅讯 TravelDaily"
+      }
+    },
+    {
+      "story_id": "story_090f9b250e36",
+      "title": "营收创新高，新航为何仍陷入季度亏损？",
+      "url": "https://www.traveldaily.cn/article/190489",
+      "primary_url": "https://www.traveldaily.cn/article/190489",
+      "source": "环球旅讯 TravelDaily",
+      "source_name": "环球旅讯 TravelDaily",
+      "sources": [
+        {
+          "id": "hotelitem_090f9b250e36",
+          "title": "营收创新高，新航为何仍陷入季度亏损？",
+          "url": "https://www.traveldaily.cn/article/190489",
+          "source": "环球旅讯 TravelDaily",
+          "source_name": "环球旅讯 TravelDaily",
+          "site_id": "traveldaily",
+          "published_at": "2026-08-04T15:23:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "环球旅讯 TravelDaily"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_090f9b250e36",
+          "title": "营收创新高，新航为何仍陷入季度亏损？",
+          "url": "https://www.traveldaily.cn/article/190489",
+          "source": "环球旅讯 TravelDaily",
+          "source_name": "环球旅讯 TravelDaily",
+          "site_id": "traveldaily",
+          "published_at": "2026-08-04T15:23:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.9063,
+      "importance": 0.5832,
+      "importance_score": 0.9063,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9162,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-04T15:23:00Z",
+      "latest_at": "2026-08-04T15:23:00Z",
+      "primary_item": {
+        "id": "hotelitem_090f9b250e36",
+        "title": "营收创新高，新航为何仍陷入季度亏损？",
+        "url": "https://www.traveldaily.cn/article/190489",
+        "source": "环球旅讯 TravelDaily",
+        "source_name": "环球旅讯 TravelDaily"
       }
     },
     {
@@ -805,14 +1041,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8621,
-      "importance": 0.597,
-      "importance_score": 0.8621,
+      "score": 0.8616,
+      "importance": 0.5965,
+      "importance_score": 0.8616,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.985,
+        "recency": 0.9825,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -830,65 +1066,6 @@
       }
     },
     {
-      "story_id": "story_79aaaa5b5a1e",
-      "title": "CoStar, Tourism Economics ‘significantly’ boost US hotel outlook",
-      "url": "https://www.hoteldive.com/news/costar-tourism-economics-raise-us-hotel-performance-outlook-2026/827318/",
-      "primary_url": "https://www.hoteldive.com/news/costar-tourism-economics-raise-us-hotel-performance-outlook-2026/827318/",
-      "source": "Hotel Dive",
-      "source_name": "Hotel Dive",
-      "sources": [
-        {
-          "id": "hotelitem_79aaaa5b5a1e",
-          "title": "CoStar, Tourism Economics ‘significantly’ boost US hotel outlook",
-          "url": "https://www.hoteldive.com/news/costar-tourism-economics-raise-us-hotel-performance-outlook-2026/827318/",
-          "source": "Hotel Dive",
-          "source_name": "Hotel Dive",
-          "site_id": "hoteldive",
-          "published_at": "2026-08-07T13:22:44Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hotel Dive"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_79aaaa5b5a1e",
-          "title": "CoStar, Tourism Economics ‘significantly’ boost US hotel outlook",
-          "url": "https://www.hoteldive.com/news/costar-tourism-economics-raise-us-hotel-performance-outlook-2026/827318/",
-          "source": "Hotel Dive",
-          "source_name": "Hotel Dive",
-          "site_id": "hoteldive",
-          "published_at": "2026-08-07T13:22:44Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8618,
-      "importance": 0.5967,
-      "importance_score": 0.8618,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9834,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-07T13:22:44Z",
-      "latest_at": "2026-08-07T13:22:44Z",
-      "primary_item": {
-        "id": "hotelitem_79aaaa5b5a1e",
-        "title": "CoStar, Tourism Economics ‘significantly’ boost US hotel outlook",
-        "url": "https://www.hoteldive.com/news/costar-tourism-economics-raise-us-hotel-performance-outlook-2026/827318/",
-        "source": "Hotel Dive",
-        "source_name": "Hotel Dive"
-      }
-    },
-    {
       "story_id": "story_c7c15b7680c9",
       "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
       "url": "https://www.chinahotel.org.cn/articles/17408",
@@ -903,7 +1080,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-08-08T07:17:31.466143Z"
+          "published_at": "2026-08-08T09:55:50.168873Z"
         },
         {
           "id": "hotelitem_c7c15b7680c9",
@@ -912,7 +1089,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-08-08T07:17:31.466143Z"
+          "published_at": "2026-08-08T09:55:50.168873Z"
         }
       ],
       "source_count": 2,
@@ -927,7 +1104,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-08-08T07:17:31.466143Z"
+          "published_at": "2026-08-08T09:55:50.168873Z"
         },
         {
           "id": "hotelitem_c7c15b7680c9",
@@ -936,7 +1113,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-08-08T07:17:31.466143Z"
+          "published_at": "2026-08-08T09:55:50.168873Z"
         }
       ],
       "item_count": 2,
@@ -956,8 +1133,8 @@
         "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-08T07:17:31.466143Z",
-      "latest_at": "2026-08-08T07:17:31.466143Z",
+      "earliest_at": "2026-08-08T09:55:50.168873Z",
+      "latest_at": "2026-08-08T09:55:50.168873Z",
       "primary_item": {
         "id": "hotelitem_d4370964909c",
         "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
@@ -967,21 +1144,21 @@
       }
     },
     {
-      "story_id": "story_76898a320fbe",
-      "title": "凯撒旅业子公司股权拍卖流拍",
-      "url": "https://www.meadin.com/wl/299404.html",
-      "primary_url": "https://www.meadin.com/wl/299404.html",
+      "story_id": "story_15efac5ed044",
+      "title": "中青旅挂牌转让山水酒店51%股权",
+      "url": "https://www.meadin.com/wl/299420.html",
+      "primary_url": "https://www.meadin.com/wl/299420.html",
       "source": "迈点研究院",
       "source_name": "迈点研究院",
       "sources": [
         {
-          "id": "hotelitem_76898a320fbe",
-          "title": "凯撒旅业子公司股权拍卖流拍",
-          "url": "https://www.meadin.com/wl/299404.html",
+          "id": "hotelitem_15efac5ed044",
+          "title": "中青旅挂牌转让山水酒店51%股权",
+          "url": "https://www.meadin.com/wl/299420.html",
           "source": "迈点研究院",
           "source_name": "迈点研究院",
           "site_id": "meadin",
-          "published_at": "2026-08-08T07:17:31.466143Z"
+          "published_at": "2026-08-08T09:55:50.168873Z"
         }
       ],
       "source_count": 1,
@@ -990,13 +1167,13 @@
       ],
       "items": [
         {
-          "id": "hotelitem_76898a320fbe",
-          "title": "凯撒旅业子公司股权拍卖流拍",
-          "url": "https://www.meadin.com/wl/299404.html",
+          "id": "hotelitem_15efac5ed044",
+          "title": "中青旅挂牌转让山水酒店51%股权",
+          "url": "https://www.meadin.com/wl/299420.html",
           "source": "迈点研究院",
           "source_name": "迈点研究院",
           "site_id": "meadin",
-          "published_at": "2026-08-08T07:17:31.466143Z"
+          "published_at": "2026-08-08T09:55:50.168873Z"
         }
       ],
       "item_count": 1,
@@ -1015,14 +1192,132 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-08T07:17:31.466143Z",
-      "latest_at": "2026-08-08T07:17:31.466143Z",
+      "earliest_at": "2026-08-08T09:55:50.168873Z",
+      "latest_at": "2026-08-08T09:55:50.168873Z",
       "primary_item": {
-        "id": "hotelitem_76898a320fbe",
-        "title": "凯撒旅业子公司股权拍卖流拍",
-        "url": "https://www.meadin.com/wl/299404.html",
+        "id": "hotelitem_15efac5ed044",
+        "title": "中青旅挂牌转让山水酒店51%股权",
+        "url": "https://www.meadin.com/wl/299420.html",
         "source": "迈点研究院",
         "source_name": "迈点研究院"
+      }
+    },
+    {
+      "story_id": "story_1a3b7044f18a",
+      "title": "凯撒旅业旗下股权二次拍卖起拍2490万元",
+      "url": "https://www.meadin.com/wl/299421.html",
+      "primary_url": "https://www.meadin.com/wl/299421.html",
+      "source": "迈点研究院",
+      "source_name": "迈点研究院",
+      "sources": [
+        {
+          "id": "hotelitem_1a3b7044f18a",
+          "title": "凯撒旅业旗下股权二次拍卖起拍2490万元",
+          "url": "https://www.meadin.com/wl/299421.html",
+          "source": "迈点研究院",
+          "source_name": "迈点研究院",
+          "site_id": "meadin",
+          "published_at": "2026-08-08T09:55:50.168873Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "迈点研究院"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_1a3b7044f18a",
+          "title": "凯撒旅业旗下股权二次拍卖起拍2490万元",
+          "url": "https://www.meadin.com/wl/299421.html",
+          "source": "迈点研究院",
+          "source_name": "迈点研究院",
+          "site_id": "meadin",
+          "published_at": "2026-08-08T09:55:50.168873Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.86,
+      "importance": 0.6,
+      "importance_score": 0.86,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-08T09:55:50.168873Z",
+      "latest_at": "2026-08-08T09:55:50.168873Z",
+      "primary_item": {
+        "id": "hotelitem_1a3b7044f18a",
+        "title": "凯撒旅业旗下股权二次拍卖起拍2490万元",
+        "url": "https://www.meadin.com/wl/299421.html",
+        "source": "迈点研究院",
+        "source_name": "迈点研究院"
+      }
+    },
+    {
+      "story_id": "story_43fec65cfea6",
+      "title": "Australia’s hotel sector to capture greater share of future global travel",
+      "url": "https://insights.ehotelier.com/global-news/2026/08/07/australias-hotel-sector-to-capture-greater-share-of-future-global-travel/?utm_source=rss&utm_medium=rss&utm_campaign=australias-hotel-sector-to-capture-greater-share-of-future-global-travel",
+      "primary_url": "https://insights.ehotelier.com/global-news/2026/08/07/australias-hotel-sector-to-capture-greater-share-of-future-global-travel/?utm_source=rss&utm_medium=rss&utm_campaign=australias-hotel-sector-to-capture-greater-share-of-future-global-travel",
+      "source": "eHotelier",
+      "source_name": "eHotelier",
+      "sources": [
+        {
+          "id": "hotelitem_43fec65cfea6",
+          "title": "Australia’s hotel sector to capture greater share of future global travel",
+          "url": "https://insights.ehotelier.com/global-news/2026/08/07/australias-hotel-sector-to-capture-greater-share-of-future-global-travel/?utm_source=rss&utm_medium=rss&utm_campaign=australias-hotel-sector-to-capture-greater-share-of-future-global-travel",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-08-07T01:45:02Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "eHotelier"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_43fec65cfea6",
+          "title": "Australia’s hotel sector to capture greater share of future global travel",
+          "url": "https://insights.ehotelier.com/global-news/2026/08/07/australias-hotel-sector-to-capture-greater-share-of-future-global-travel/?utm_source=rss&utm_medium=rss&utm_campaign=australias-hotel-sector-to-capture-greater-share-of-future-global-travel",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-08-07T01:45:02Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8593,
+      "importance": 0.594,
+      "importance_score": 0.8593,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9702,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-07T01:45:02Z",
+      "latest_at": "2026-08-07T01:45:02Z",
+      "primary_item": {
+        "id": "hotelitem_43fec65cfea6",
+        "title": "Australia’s hotel sector to capture greater share of future global travel",
+        "url": "https://insights.ehotelier.com/global-news/2026/08/07/australias-hotel-sector-to-capture-greater-share-of-future-global-travel/?utm_source=rss&utm_medium=rss&utm_campaign=australias-hotel-sector-to-capture-greater-share-of-future-global-travel",
+        "source": "eHotelier",
+        "source_name": "eHotelier"
       }
     },
     {
@@ -1060,14 +1355,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8597,
-      "importance": 0.5945,
-      "importance_score": 0.8597,
+      "score": 0.8592,
+      "importance": 0.594,
+      "importance_score": 0.8592,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9724,
+        "recency": 0.97,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1119,14 +1414,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8597,
-      "importance": 0.5945,
-      "importance_score": 0.8597,
+      "score": 0.8592,
+      "importance": 0.594,
+      "importance_score": 0.8592,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9726,
+        "recency": 0.9701,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1139,65 +1434,6 @@
         "id": "hotelitem_2791ea61ce7b",
         "title": "UK Southwest more popular than Spain for Holidaymakers this Summer: But should tourists choose Devon or Cornwall",
         "url": "https://insights.ehotelier.com/global-news/2026/08/07/uk-southwest-more-popular-than-spain-for-holidaymakers-this-summer-but-should-tourists-choose-devon-or-cornwall/?utm_source=rss&utm_medium=rss&utm_campaign=uk-southwest-more-popular-than-spain-for-holidaymakers-this-summer-but-should-tourists-choose-devon-or-cornwall",
-        "source": "eHotelier",
-        "source_name": "eHotelier"
-      }
-    },
-    {
-      "story_id": "story_43fec65cfea6",
-      "title": "Australia’s hotel sector to capture greater share of future global travel",
-      "url": "https://insights.ehotelier.com/global-news/2026/08/07/australias-hotel-sector-to-capture-greater-share-of-future-global-travel/?utm_source=rss&utm_medium=rss&utm_campaign=australias-hotel-sector-to-capture-greater-share-of-future-global-travel",
-      "primary_url": "https://insights.ehotelier.com/global-news/2026/08/07/australias-hotel-sector-to-capture-greater-share-of-future-global-travel/?utm_source=rss&utm_medium=rss&utm_campaign=australias-hotel-sector-to-capture-greater-share-of-future-global-travel",
-      "source": "eHotelier",
-      "source_name": "eHotelier",
-      "sources": [
-        {
-          "id": "hotelitem_43fec65cfea6",
-          "title": "Australia’s hotel sector to capture greater share of future global travel",
-          "url": "https://insights.ehotelier.com/global-news/2026/08/07/australias-hotel-sector-to-capture-greater-share-of-future-global-travel/?utm_source=rss&utm_medium=rss&utm_campaign=australias-hotel-sector-to-capture-greater-share-of-future-global-travel",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-08-07T01:45:02Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "eHotelier"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_43fec65cfea6",
-          "title": "Australia’s hotel sector to capture greater share of future global travel",
-          "url": "https://insights.ehotelier.com/global-news/2026/08/07/australias-hotel-sector-to-capture-greater-share-of-future-global-travel/?utm_source=rss&utm_medium=rss&utm_campaign=australias-hotel-sector-to-capture-greater-share-of-future-global-travel",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-08-07T01:45:02Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8597,
-      "importance": 0.5945,
-      "importance_score": 0.8597,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9726,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-07T01:45:02Z",
-      "latest_at": "2026-08-07T01:45:02Z",
-      "primary_item": {
-        "id": "hotelitem_43fec65cfea6",
-        "title": "Australia’s hotel sector to capture greater share of future global travel",
-        "url": "https://insights.ehotelier.com/global-news/2026/08/07/australias-hotel-sector-to-capture-greater-share-of-future-global-travel/?utm_source=rss&utm_medium=rss&utm_campaign=australias-hotel-sector-to-capture-greater-share-of-future-global-travel",
         "source": "eHotelier",
         "source_name": "eHotelier"
       }
@@ -1217,7 +1453,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-08-08T07:17:31.466143Z"
+          "published_at": "2026-08-08T09:55:50.168873Z"
         }
       ],
       "source_count": 1,
@@ -1232,7 +1468,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-08-08T07:17:31.466143Z"
+          "published_at": "2026-08-08T09:55:50.168873Z"
         }
       ],
       "item_count": 1,
@@ -1251,8 +1487,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-08T07:17:31.466143Z",
-      "latest_at": "2026-08-08T07:17:31.466143Z",
+      "earliest_at": "2026-08-08T09:55:50.168873Z",
+      "latest_at": "2026-08-08T09:55:50.168873Z",
       "primary_item": {
         "id": "hotelitem_e4ce0593c384",
         "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
@@ -1276,7 +1512,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-08-08T07:17:31.466143Z"
+          "published_at": "2026-08-08T09:55:50.168873Z"
         }
       ],
       "source_count": 1,
@@ -1291,7 +1527,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-08-08T07:17:31.466143Z"
+          "published_at": "2026-08-08T09:55:50.168873Z"
         }
       ],
       "item_count": 1,
@@ -1310,8 +1546,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-08T07:17:31.466143Z",
-      "latest_at": "2026-08-08T07:17:31.466143Z",
+      "earliest_at": "2026-08-08T09:55:50.168873Z",
+      "latest_at": "2026-08-08T09:55:50.168873Z",
       "primary_item": {
         "id": "hotelitem_fa34986b4fc0",
         "title": "文化和旅游部、金融监管总局关于警惕借“保...",
@@ -1335,7 +1571,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-08-08T07:17:31.466143Z"
+          "published_at": "2026-08-08T09:55:50.168873Z"
         }
       ],
       "source_count": 1,
@@ -1350,7 +1586,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-08-08T07:17:31.466143Z"
+          "published_at": "2026-08-08T09:55:50.168873Z"
         }
       ],
       "item_count": 1,
@@ -1369,8 +1605,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-08T07:17:31.466143Z",
-      "latest_at": "2026-08-08T07:17:31.466143Z",
+      "earliest_at": "2026-08-08T09:55:50.168873Z",
+      "latest_at": "2026-08-08T09:55:50.168873Z",
       "primary_item": {
         "id": "hotelitem_9a958319a874",
         "title": "文化和旅游部印发《旅游强国建设“十五五”...",
@@ -1414,14 +1650,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8532,
-      "importance": 0.5877,
-      "importance_score": 0.8532,
+      "score": 0.8527,
+      "importance": 0.5872,
+      "importance_score": 0.8527,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9386,
+        "recency": 0.9362,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1434,65 +1670,6 @@
         "id": "hotelitem_39f2c45d6921",
         "title": "Can Banks Become the New Hotel Tastemakers? Capital One Travel Thinks So",
         "url": "https://skift.com/2026/08/05/capital-one-travel-luxury-curation-strategy/",
-        "source": "Skift Hospitality",
-        "source_name": "Skift Hospitality"
-      }
-    },
-    {
-      "story_id": "story_766f5f3ed87f",
-      "title": "Iran War Drags Down Q2 Earnings for Big Hotel Chains",
-      "url": "https://skift.com/2026/08/04/iran-war-drags-down-q2-earnings-for-big-hotel-chains/",
-      "primary_url": "https://skift.com/2026/08/04/iran-war-drags-down-q2-earnings-for-big-hotel-chains/",
-      "source": "Skift Hospitality",
-      "source_name": "Skift Hospitality",
-      "sources": [
-        {
-          "id": "hotelitem_766f5f3ed87f",
-          "title": "Iran War Drags Down Q2 Earnings for Big Hotel Chains",
-          "url": "https://skift.com/2026/08/04/iran-war-drags-down-q2-earnings-for-big-hotel-chains/",
-          "source": "Skift Hospitality",
-          "source_name": "Skift Hospitality",
-          "site_id": "skift",
-          "published_at": "2026-08-04T14:33:14Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Skift Hospitality"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_766f5f3ed87f",
-          "title": "Iran War Drags Down Q2 Earnings for Big Hotel Chains",
-          "url": "https://skift.com/2026/08/04/iran-war-drags-down-q2-earnings-for-big-hotel-chains/",
-          "source": "Skift Hospitality",
-          "source_name": "Skift Hospitality",
-          "site_id": "skift",
-          "published_at": "2026-08-04T14:33:14Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8492,
-      "importance": 0.5836,
-      "importance_score": 0.8492,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9178,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-04T14:33:14Z",
-      "latest_at": "2026-08-04T14:33:14Z",
-      "primary_item": {
-        "id": "hotelitem_766f5f3ed87f",
-        "title": "Iran War Drags Down Q2 Earnings for Big Hotel Chains",
-        "url": "https://skift.com/2026/08/04/iran-war-drags-down-q2-earnings-for-big-hotel-chains/",
         "source": "Skift Hospitality",
         "source_name": "Skift Hospitality"
       }
@@ -1532,14 +1709,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8491,
-      "importance": 0.5836,
-      "importance_score": 0.8491,
+      "score": 0.8487,
+      "importance": 0.5831,
+      "importance_score": 0.8487,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9178,
+        "recency": 0.9154,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1557,21 +1734,21 @@
       }
     },
     {
-      "story_id": "story_0901435cf45e",
-      "title": "Younger Travelers Are Becoming Timeshare’s Most Vocal Advocates",
-      "url": "https://skift.com/2026/08/03/gen-z-millennials-vacation-ownership/",
-      "primary_url": "https://skift.com/2026/08/03/gen-z-millennials-vacation-ownership/",
+      "story_id": "story_766f5f3ed87f",
+      "title": "Iran War Drags Down Q2 Earnings for Big Hotel Chains",
+      "url": "https://skift.com/2026/08/04/iran-war-drags-down-q2-earnings-for-big-hotel-chains/",
+      "primary_url": "https://skift.com/2026/08/04/iran-war-drags-down-q2-earnings-for-big-hotel-chains/",
       "source": "Skift Hospitality",
       "source_name": "Skift Hospitality",
       "sources": [
         {
-          "id": "hotelitem_0901435cf45e",
-          "title": "Younger Travelers Are Becoming Timeshare’s Most Vocal Advocates",
-          "url": "https://skift.com/2026/08/03/gen-z-millennials-vacation-ownership/",
+          "id": "hotelitem_766f5f3ed87f",
+          "title": "Iran War Drags Down Q2 Earnings for Big Hotel Chains",
+          "url": "https://skift.com/2026/08/04/iran-war-drags-down-q2-earnings-for-big-hotel-chains/",
           "source": "Skift Hospitality",
           "source_name": "Skift Hospitality",
           "site_id": "skift",
-          "published_at": "2026-08-03T13:00:00Z"
+          "published_at": "2026-08-04T14:33:14Z"
         }
       ],
       "source_count": 1,
@@ -1580,216 +1757,39 @@
       ],
       "items": [
         {
-          "id": "hotelitem_0901435cf45e",
-          "title": "Younger Travelers Are Becoming Timeshare’s Most Vocal Advocates",
-          "url": "https://skift.com/2026/08/03/gen-z-millennials-vacation-ownership/",
+          "id": "hotelitem_766f5f3ed87f",
+          "title": "Iran War Drags Down Q2 Earnings for Big Hotel Chains",
+          "url": "https://skift.com/2026/08/04/iran-war-drags-down-q2-earnings-for-big-hotel-chains/",
           "source": "Skift Hospitality",
           "source_name": "Skift Hospitality",
           "site_id": "skift",
-          "published_at": "2026-08-03T13:00:00Z"
+          "published_at": "2026-08-04T14:33:14Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8446,
-      "importance": 0.5788,
-      "importance_score": 0.8446,
+      "score": 0.8487,
+      "importance": 0.5831,
+      "importance_score": 0.8487,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8942,
+        "recency": 0.9154,
         "story_heat": 0.0
       },
       "category": "watch",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-03T13:00:00Z",
-      "latest_at": "2026-08-03T13:00:00Z",
+      "earliest_at": "2026-08-04T14:33:14Z",
+      "latest_at": "2026-08-04T14:33:14Z",
       "primary_item": {
-        "id": "hotelitem_0901435cf45e",
-        "title": "Younger Travelers Are Becoming Timeshare’s Most Vocal Advocates",
-        "url": "https://skift.com/2026/08/03/gen-z-millennials-vacation-ownership/",
+        "id": "hotelitem_766f5f3ed87f",
+        "title": "Iran War Drags Down Q2 Earnings for Big Hotel Chains",
+        "url": "https://skift.com/2026/08/04/iran-war-drags-down-q2-earnings-for-big-hotel-chains/",
         "source": "Skift Hospitality",
         "source_name": "Skift Hospitality"
-      }
-    },
-    {
-      "story_id": "story_0f92c8e44d34",
-      "title": "Agoda Data Reveals Indian Travelers Are Expa ... Digital travel platform Agoda has released new insights highlighting the international beach destinati ... July 29, 2026 / Agoda Press",
-      "url": "https://www.agoda.com/press/agoda-data-reveals-indian-travelers-are-expanding-their-international-beach-bucket-list/",
-      "primary_url": "https://www.agoda.com/press/agoda-data-reveals-indian-travelers-are-expanding-their-international-beach-bucket-list/",
-      "source": "Agoda",
-      "source_name": "Agoda",
-      "sources": [
-        {
-          "id": "hotelitem_0f92c8e44d34",
-          "title": "Agoda Data Reveals Indian Travelers Are Expa ... Digital travel platform Agoda has released new insights highlighting the international beach destinati ... July 29, 2026 / Agoda Press",
-          "url": "https://www.agoda.com/press/agoda-data-reveals-indian-travelers-are-expanding-their-international-beach-bucket-list/",
-          "source": "Agoda",
-          "source_name": "Agoda",
-          "site_id": "agoda_press",
-          "published_at": "2026-08-08T07:17:31.466143Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Agoda"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_0f92c8e44d34",
-          "title": "Agoda Data Reveals Indian Travelers Are Expa ... Digital travel platform Agoda has released new insights highlighting the international beach destinati ... July 29, 2026 / Agoda Press",
-          "url": "https://www.agoda.com/press/agoda-data-reveals-indian-travelers-are-expanding-their-international-beach-bucket-list/",
-          "source": "Agoda",
-          "source_name": "Agoda",
-          "site_id": "agoda_press",
-          "published_at": "2026-08-08T07:17:31.466143Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8125,
-      "importance": 0.6,
-      "importance_score": 0.8125,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-08T07:17:31.466143Z",
-      "latest_at": "2026-08-08T07:17:31.466143Z",
-      "primary_item": {
-        "id": "hotelitem_0f92c8e44d34",
-        "title": "Agoda Data Reveals Indian Travelers Are Expa ... Digital travel platform Agoda has released new insights highlighting the international beach destinati ... July 29, 2026 / Agoda Press",
-        "url": "https://www.agoda.com/press/agoda-data-reveals-indian-travelers-are-expanding-their-international-beach-bucket-list/",
-        "source": "Agoda",
-        "source_name": "Agoda"
-      }
-    },
-    {
-      "story_id": "story_9d906eadfd50",
-      "title": "Agoda Reveals Growing Travel Interest Ahead  ... Singapore, 24 July 2026: Agoda Company Pte. Ltd. (Headquarters: Singapore; CEO: Omri Morgenshtern), wh ... July 24, 2026 / Travel Trends",
-      "url": "https://www.agoda.com/press/agoda-reveals-growing-travel-interest-ahead-of-japans-summer-2026-fireworks-festivals/",
-      "primary_url": "https://www.agoda.com/press/agoda-reveals-growing-travel-interest-ahead-of-japans-summer-2026-fireworks-festivals/",
-      "source": "Agoda",
-      "source_name": "Agoda",
-      "sources": [
-        {
-          "id": "hotelitem_9d906eadfd50",
-          "title": "Agoda Reveals Growing Travel Interest Ahead  ... Singapore, 24 July 2026: Agoda Company Pte. Ltd. (Headquarters: Singapore; CEO: Omri Morgenshtern), wh ... July 24, 2026 / Travel Trends",
-          "url": "https://www.agoda.com/press/agoda-reveals-growing-travel-interest-ahead-of-japans-summer-2026-fireworks-festivals/",
-          "source": "Agoda",
-          "source_name": "Agoda",
-          "site_id": "agoda_press",
-          "published_at": "2026-08-08T07:17:31.466143Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Agoda"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_9d906eadfd50",
-          "title": "Agoda Reveals Growing Travel Interest Ahead  ... Singapore, 24 July 2026: Agoda Company Pte. Ltd. (Headquarters: Singapore; CEO: Omri Morgenshtern), wh ... July 24, 2026 / Travel Trends",
-          "url": "https://www.agoda.com/press/agoda-reveals-growing-travel-interest-ahead-of-japans-summer-2026-fireworks-festivals/",
-          "source": "Agoda",
-          "source_name": "Agoda",
-          "site_id": "agoda_press",
-          "published_at": "2026-08-08T07:17:31.466143Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8125,
-      "importance": 0.6,
-      "importance_score": 0.8125,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-08T07:17:31.466143Z",
-      "latest_at": "2026-08-08T07:17:31.466143Z",
-      "primary_item": {
-        "id": "hotelitem_9d906eadfd50",
-        "title": "Agoda Reveals Growing Travel Interest Ahead  ... Singapore, 24 July 2026: Agoda Company Pte. Ltd. (Headquarters: Singapore; CEO: Omri Morgenshtern), wh ... July 24, 2026 / Travel Trends",
-        "url": "https://www.agoda.com/press/agoda-reveals-growing-travel-interest-ahead-of-japans-summer-2026-fireworks-festivals/",
-        "source": "Agoda",
-        "source_name": "Agoda"
-      }
-    },
-    {
-      "story_id": "story_7245e3fed3db",
-      "title": "Agoda and DTTDC Launch MoU to Position Delhi ... Digital travel platform Agoda has announced a strategic partnership with the Delhi Tourism & Trans ... May 21, 2026 / Partnership",
-      "url": "https://www.agoda.com/press/agoda-and-dttdc-launch-mou-to-position-delhi-as-a-year-round-destination/",
-      "primary_url": "https://www.agoda.com/press/agoda-and-dttdc-launch-mou-to-position-delhi-as-a-year-round-destination/",
-      "source": "Agoda",
-      "source_name": "Agoda",
-      "sources": [
-        {
-          "id": "hotelitem_7245e3fed3db",
-          "title": "Agoda and DTTDC Launch MoU to Position Delhi ... Digital travel platform Agoda has announced a strategic partnership with the Delhi Tourism & Trans ... May 21, 2026 / Partnership",
-          "url": "https://www.agoda.com/press/agoda-and-dttdc-launch-mou-to-position-delhi-as-a-year-round-destination/",
-          "source": "Agoda",
-          "source_name": "Agoda",
-          "site_id": "agoda_press",
-          "published_at": "2026-08-08T07:17:31.466143Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Agoda"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_7245e3fed3db",
-          "title": "Agoda and DTTDC Launch MoU to Position Delhi ... Digital travel platform Agoda has announced a strategic partnership with the Delhi Tourism & Trans ... May 21, 2026 / Partnership",
-          "url": "https://www.agoda.com/press/agoda-and-dttdc-launch-mou-to-position-delhi-as-a-year-round-destination/",
-          "source": "Agoda",
-          "source_name": "Agoda",
-          "site_id": "agoda_press",
-          "published_at": "2026-08-08T07:17:31.466143Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8125,
-      "importance": 0.6,
-      "importance_score": 0.8125,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-08T07:17:31.466143Z",
-      "latest_at": "2026-08-08T07:17:31.466143Z",
-      "primary_item": {
-        "id": "hotelitem_7245e3fed3db",
-        "title": "Agoda and DTTDC Launch MoU to Position Delhi ... Digital travel platform Agoda has announced a strategic partnership with the Delhi Tourism & Trans ... May 21, 2026 / Partnership",
-        "url": "https://www.agoda.com/press/agoda-and-dttdc-launch-mou-to-position-delhi-as-a-year-round-destination/",
-        "source": "Agoda",
-        "source_name": "Agoda"
       }
     }
   ]
