@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T02:30:55.237352Z",
+  "generated_at": "2026-08-09T04:38:25.781261Z",
   "window_hours": 1080,
   "total_stories": 30,
   "stories": [
@@ -38,14 +38,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9885,
-      "importance": 0.5881,
-      "importance_score": 0.9885,
+      "score": 0.9881,
+      "importance": 0.5877,
+      "importance_score": 0.9881,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9403,
+        "recency": 0.9383,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -97,14 +97,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9532,
-      "importance": 0.5982,
-      "importance_score": 0.9532,
+      "score": 0.9529,
+      "importance": 0.5978,
+      "importance_score": 0.9529,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9909,
+        "recency": 0.9889,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -136,7 +136,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-08-09T02:30:55.237352Z"
+          "published_at": "2026-08-09T04:38:25.781261Z"
         }
       ],
       "source_count": 1,
@@ -151,7 +151,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-08-09T02:30:55.237352Z"
+          "published_at": "2026-08-09T04:38:25.781261Z"
         }
       ],
       "item_count": 1,
@@ -170,8 +170,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-09T02:30:55.237352Z",
-      "latest_at": "2026-08-09T02:30:55.237352Z",
+      "earliest_at": "2026-08-09T04:38:25.781261Z",
+      "latest_at": "2026-08-09T04:38:25.781261Z",
       "primary_item": {
         "id": "hotelitem_9699887c72ea",
         "title": "中国旅游研究院与中青旅控股股份有限公司开展主题党日联学联",
@@ -215,14 +215,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9473,
-      "importance": 0.5449,
-      "importance_score": 0.9473,
+      "score": 0.9467,
+      "importance": 0.5445,
+      "importance_score": 0.9467,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.7246,
+        "recency": 0.7226,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -274,14 +274,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9463,
-      "importance": 0.591,
-      "importance_score": 0.9463,
+      "score": 0.946,
+      "importance": 0.5906,
+      "importance_score": 0.946,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9551,
+        "recency": 0.9531,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -294,65 +294,6 @@
         "id": "hotelitem_b5060b664099",
         "title": "Booking’s commission is the cheapest thing it takes from you",
         "url": "https://insights.ehotelier.com/insights/2026/08/07/bookings-commission-is-the-cheapest-thing-it-takes-from-you/?utm_source=rss&utm_medium=rss&utm_campaign=bookings-commission-is-the-cheapest-thing-it-takes-from-you",
-        "source": "eHotelier",
-        "source_name": "eHotelier"
-      }
-    },
-    {
-      "story_id": "story_3828060fcea8",
-      "title": "Shangri-La Group debuts its first JEN by Shangri-La Hotel in Hangzhou",
-      "url": "https://insights.ehotelier.com/properties/2026/08/07/shangri-la-group-debuts-its-first-jen-by-shangri-la-hotel-in-hangzhou/?utm_source=rss&utm_medium=rss&utm_campaign=shangri-la-group-debuts-its-first-jen-by-shangri-la-hotel-in-hangzhou",
-      "primary_url": "https://insights.ehotelier.com/properties/2026/08/07/shangri-la-group-debuts-its-first-jen-by-shangri-la-hotel-in-hangzhou/?utm_source=rss&utm_medium=rss&utm_campaign=shangri-la-group-debuts-its-first-jen-by-shangri-la-hotel-in-hangzhou",
-      "source": "eHotelier",
-      "source_name": "eHotelier",
-      "sources": [
-        {
-          "id": "hotelitem_3828060fcea8",
-          "title": "Shangri-La Group debuts its first JEN by Shangri-La Hotel in Hangzhou",
-          "url": "https://insights.ehotelier.com/properties/2026/08/07/shangri-la-group-debuts-its-first-jen-by-shangri-la-hotel-in-hangzhou/?utm_source=rss&utm_medium=rss&utm_campaign=shangri-la-group-debuts-its-first-jen-by-shangri-la-hotel-in-hangzhou",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-08-07T01:20:50Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "eHotelier"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_3828060fcea8",
-          "title": "Shangri-La Group debuts its first JEN by Shangri-La Hotel in Hangzhou",
-          "url": "https://insights.ehotelier.com/properties/2026/08/07/shangri-la-group-debuts-its-first-jen-by-shangri-la-hotel-in-hangzhou/?utm_source=rss&utm_medium=rss&utm_campaign=shangri-la-group-debuts-its-first-jen-by-shangri-la-hotel-in-hangzhou",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-08-07T01:20:50Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.9462,
-      "importance": 0.5909,
-      "importance_score": 0.9462,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9545,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-07T01:20:50Z",
-      "latest_at": "2026-08-07T01:20:50Z",
-      "primary_item": {
-        "id": "hotelitem_3828060fcea8",
-        "title": "Shangri-La Group debuts its first JEN by Shangri-La Hotel in Hangzhou",
-        "url": "https://insights.ehotelier.com/properties/2026/08/07/shangri-la-group-debuts-its-first-jen-by-shangri-la-hotel-in-hangzhou/?utm_source=rss&utm_medium=rss&utm_campaign=shangri-la-group-debuts-its-first-jen-by-shangri-la-hotel-in-hangzhou",
         "source": "eHotelier",
         "source_name": "eHotelier"
       }
@@ -392,14 +333,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9462,
-      "importance": 0.5909,
-      "importance_score": 0.9462,
+      "score": 0.9459,
+      "importance": 0.5905,
+      "importance_score": 0.9459,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9545,
+        "recency": 0.9526,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -412,6 +353,65 @@
         "id": "hotelitem_c35c5f2a93df",
         "title": "Tapestry Collection by Hilton debuts in Vietnam with opening of NHAAN Resort & Spa Hoi An",
         "url": "https://insights.ehotelier.com/properties/2026/08/07/tapestry-collection-by-hilton-debuts-in-vietnam-with-opening-of-nhaan-resort-spa-hoi-an/?utm_source=rss&utm_medium=rss&utm_campaign=tapestry-collection-by-hilton-debuts-in-vietnam-with-opening-of-nhaan-resort-spa-hoi-an",
+        "source": "eHotelier",
+        "source_name": "eHotelier"
+      }
+    },
+    {
+      "story_id": "story_3828060fcea8",
+      "title": "Shangri-La Group debuts its first JEN by Shangri-La Hotel in Hangzhou",
+      "url": "https://insights.ehotelier.com/properties/2026/08/07/shangri-la-group-debuts-its-first-jen-by-shangri-la-hotel-in-hangzhou/?utm_source=rss&utm_medium=rss&utm_campaign=shangri-la-group-debuts-its-first-jen-by-shangri-la-hotel-in-hangzhou",
+      "primary_url": "https://insights.ehotelier.com/properties/2026/08/07/shangri-la-group-debuts-its-first-jen-by-shangri-la-hotel-in-hangzhou/?utm_source=rss&utm_medium=rss&utm_campaign=shangri-la-group-debuts-its-first-jen-by-shangri-la-hotel-in-hangzhou",
+      "source": "eHotelier",
+      "source_name": "eHotelier",
+      "sources": [
+        {
+          "id": "hotelitem_3828060fcea8",
+          "title": "Shangri-La Group debuts its first JEN by Shangri-La Hotel in Hangzhou",
+          "url": "https://insights.ehotelier.com/properties/2026/08/07/shangri-la-group-debuts-its-first-jen-by-shangri-la-hotel-in-hangzhou/?utm_source=rss&utm_medium=rss&utm_campaign=shangri-la-group-debuts-its-first-jen-by-shangri-la-hotel-in-hangzhou",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-08-07T01:20:50Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "eHotelier"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_3828060fcea8",
+          "title": "Shangri-La Group debuts its first JEN by Shangri-La Hotel in Hangzhou",
+          "url": "https://insights.ehotelier.com/properties/2026/08/07/shangri-la-group-debuts-its-first-jen-by-shangri-la-hotel-in-hangzhou/?utm_source=rss&utm_medium=rss&utm_campaign=shangri-la-group-debuts-its-first-jen-by-shangri-la-hotel-in-hangzhou",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-08-07T01:20:50Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.9458,
+      "importance": 0.5905,
+      "importance_score": 0.9458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9525,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-07T01:20:50Z",
+      "latest_at": "2026-08-07T01:20:50Z",
+      "primary_item": {
+        "id": "hotelitem_3828060fcea8",
+        "title": "Shangri-La Group debuts its first JEN by Shangri-La Hotel in Hangzhou",
+        "url": "https://insights.ehotelier.com/properties/2026/08/07/shangri-la-group-debuts-its-first-jen-by-shangri-la-hotel-in-hangzhou/?utm_source=rss&utm_medium=rss&utm_campaign=shangri-la-group-debuts-its-first-jen-by-shangri-la-hotel-in-hangzhou",
         "source": "eHotelier",
         "source_name": "eHotelier"
       }
@@ -451,14 +451,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.942,
-      "importance": 0.5865,
-      "importance_score": 0.942,
+      "score": 0.9416,
+      "importance": 0.5861,
+      "importance_score": 0.9416,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9326,
+        "recency": 0.9306,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -510,14 +510,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9409,
-      "importance": 0.5853,
-      "importance_score": 0.9409,
+      "score": 0.9405,
+      "importance": 0.5849,
+      "importance_score": 0.9405,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9267,
+        "recency": 0.9247,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -569,14 +569,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9404,
-      "importance": 0.5849,
-      "importance_score": 0.9404,
+      "score": 0.94,
+      "importance": 0.5845,
+      "importance_score": 0.94,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9244,
+        "recency": 0.9224,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -628,14 +628,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9398,
-      "importance": 0.5843,
-      "importance_score": 0.9398,
+      "score": 0.9394,
+      "importance": 0.5839,
+      "importance_score": 0.9394,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9213,
+        "recency": 0.9193,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -687,14 +687,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9395,
-      "importance": 0.5839,
-      "importance_score": 0.9395,
+      "score": 0.9391,
+      "importance": 0.5835,
+      "importance_score": 0.9391,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9195,
+        "recency": 0.9175,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -746,14 +746,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9355,
-      "importance": 0.5798,
-      "importance_score": 0.9355,
+      "score": 0.9351,
+      "importance": 0.5794,
+      "importance_score": 0.9351,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8989,
+        "recency": 0.8969,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -805,14 +805,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9313,
-      "importance": 0.5755,
-      "importance_score": 0.9313,
+      "score": 0.931,
+      "importance": 0.5751,
+      "importance_score": 0.931,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8773,
+        "recency": 0.8753,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -864,14 +864,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9245,
-      "importance": 0.5839,
-      "importance_score": 0.9245,
+      "score": 0.9241,
+      "importance": 0.5835,
+      "importance_score": 0.9241,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9196,
+        "recency": 0.9177,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -923,14 +923,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9226,
-      "importance": 0.5924,
-      "importance_score": 0.9226,
+      "score": 0.9222,
+      "importance": 0.592,
+      "importance_score": 0.9222,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9618,
+        "recency": 0.9598,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -982,14 +982,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9153,
-      "importance": 0.5925,
-      "importance_score": 0.9153,
+      "score": 0.9149,
+      "importance": 0.5921,
+      "importance_score": 0.9149,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9626,
+        "recency": 0.9606,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1041,14 +1041,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9034,
-      "importance": 0.5802,
-      "importance_score": 0.9034,
+      "score": 0.903,
+      "importance": 0.5798,
+      "importance_score": 0.903,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9008,
+        "recency": 0.8988,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1066,84 +1066,6 @@
       }
     },
     {
-      "story_id": "story_646e15defe98",
-      "title": "Agoda Reveals Growing Interest in Cool-Weath ... Singapore, 8 August 2026: Agoda Company Pte. Ltd. (Headquarters: Singapore; CEO: Omri Morgenshtern), w ... August 8, 2026 / Travel Trends",
-      "url": "https://www.agoda.com/press/agoda-reveals-growing-interest-in-cool-weather-destinations-in-japan-for-summer-2026/",
-      "primary_url": "https://www.agoda.com/press/agoda-reveals-growing-interest-in-cool-weather-destinations-in-japan-for-summer-2026/",
-      "source": "Agoda",
-      "source_name": "Agoda",
-      "sources": [
-        {
-          "id": "hotelitem_646e15defe98",
-          "title": "Agoda Reveals Growing Interest in Cool-Weath ... Singapore, 8 August 2026: Agoda Company Pte. Ltd. (Headquarters: Singapore; CEO: Omri Morgenshtern), w ... August 8, 2026 / Travel Trends",
-          "url": "https://www.agoda.com/press/agoda-reveals-growing-interest-in-cool-weather-destinations-in-japan-for-summer-2026/",
-          "source": "Agoda",
-          "source_name": "Agoda",
-          "site_id": "agoda_press",
-          "published_at": "2026-08-09T02:30:55.237352Z"
-        },
-        {
-          "id": "hotelitem_9d906eadfd50",
-          "title": "Agoda Reveals Growing Travel Interest Ahead  ... Singapore, 24 July 2026: Agoda Company Pte. Ltd. (Headquarters: Singapore; CEO: Omri Morgenshtern), wh ... July 24, 2026 / Travel Trends",
-          "url": "https://www.agoda.com/press/agoda-reveals-growing-travel-interest-ahead-of-japans-summer-2026-fireworks-festivals/",
-          "source": "Agoda",
-          "source_name": "Agoda",
-          "site_id": "agoda_press",
-          "published_at": "2026-08-09T02:30:55.237352Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Agoda"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_646e15defe98",
-          "title": "Agoda Reveals Growing Interest in Cool-Weath ... Singapore, 8 August 2026: Agoda Company Pte. Ltd. (Headquarters: Singapore; CEO: Omri Morgenshtern), w ... August 8, 2026 / Travel Trends",
-          "url": "https://www.agoda.com/press/agoda-reveals-growing-interest-in-cool-weather-destinations-in-japan-for-summer-2026/",
-          "source": "Agoda",
-          "source_name": "Agoda",
-          "site_id": "agoda_press",
-          "published_at": "2026-08-09T02:30:55.237352Z"
-        },
-        {
-          "id": "hotelitem_9d906eadfd50",
-          "title": "Agoda Reveals Growing Travel Interest Ahead  ... Singapore, 24 July 2026: Agoda Company Pte. Ltd. (Headquarters: Singapore; CEO: Omri Morgenshtern), wh ... July 24, 2026 / Travel Trends",
-          "url": "https://www.agoda.com/press/agoda-reveals-growing-travel-interest-ahead-of-japans-summer-2026-fireworks-festivals/",
-          "source": "Agoda",
-          "source_name": "Agoda",
-          "site_id": "agoda_press",
-          "published_at": "2026-08-09T02:30:55.237352Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8625,
-      "importance": 0.625,
-      "importance_score": 0.8625,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-09T02:30:55.237352Z",
-      "latest_at": "2026-08-09T02:30:55.237352Z",
-      "primary_item": {
-        "id": "hotelitem_646e15defe98",
-        "title": "Agoda Reveals Growing Interest in Cool-Weath ... Singapore, 8 August 2026: Agoda Company Pte. Ltd. (Headquarters: Singapore; CEO: Omri Morgenshtern), w ... August 8, 2026 / Travel Trends",
-        "url": "https://www.agoda.com/press/agoda-reveals-growing-interest-in-cool-weather-destinations-in-japan-for-summer-2026/",
-        "source": "Agoda",
-        "source_name": "Agoda"
-      }
-    },
-    {
       "story_id": "story_c7c15b7680c9",
       "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
       "url": "https://www.chinahotel.org.cn/articles/17408",
@@ -1158,7 +1080,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-08-09T02:30:55.237352Z"
+          "published_at": "2026-08-09T04:38:25.781261Z"
         },
         {
           "id": "hotelitem_c7c15b7680c9",
@@ -1167,7 +1089,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-08-09T02:30:55.237352Z"
+          "published_at": "2026-08-09T04:38:25.781261Z"
         }
       ],
       "source_count": 2,
@@ -1182,7 +1104,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-08-09T02:30:55.237352Z"
+          "published_at": "2026-08-09T04:38:25.781261Z"
         },
         {
           "id": "hotelitem_c7c15b7680c9",
@@ -1191,7 +1113,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-08-09T02:30:55.237352Z"
+          "published_at": "2026-08-09T04:38:25.781261Z"
         }
       ],
       "item_count": 2,
@@ -1211,8 +1133,8 @@
         "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-09T02:30:55.237352Z",
-      "latest_at": "2026-08-09T02:30:55.237352Z",
+      "earliest_at": "2026-08-09T04:38:25.781261Z",
+      "latest_at": "2026-08-09T04:38:25.781261Z",
       "primary_item": {
         "id": "hotelitem_d4370964909c",
         "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
@@ -1236,7 +1158,7 @@
           "source": "迈点研究院",
           "source_name": "迈点研究院",
           "site_id": "meadin",
-          "published_at": "2026-08-09T02:30:55.237352Z"
+          "published_at": "2026-08-09T04:38:25.781261Z"
         }
       ],
       "source_count": 1,
@@ -1251,7 +1173,7 @@
           "source": "迈点研究院",
           "source_name": "迈点研究院",
           "site_id": "meadin",
-          "published_at": "2026-08-09T02:30:55.237352Z"
+          "published_at": "2026-08-09T04:38:25.781261Z"
         }
       ],
       "item_count": 1,
@@ -1270,8 +1192,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-09T02:30:55.237352Z",
-      "latest_at": "2026-08-09T02:30:55.237352Z",
+      "earliest_at": "2026-08-09T04:38:25.781261Z",
+      "latest_at": "2026-08-09T04:38:25.781261Z",
       "primary_item": {
         "id": "hotelitem_15efac5ed044",
         "title": "中青旅挂牌转让山水酒店51%股权",
@@ -1295,7 +1217,7 @@
           "source": "迈点研究院",
           "source_name": "迈点研究院",
           "site_id": "meadin",
-          "published_at": "2026-08-09T02:30:55.237352Z"
+          "published_at": "2026-08-09T04:38:25.781261Z"
         }
       ],
       "source_count": 1,
@@ -1310,7 +1232,7 @@
           "source": "迈点研究院",
           "source_name": "迈点研究院",
           "site_id": "meadin",
-          "published_at": "2026-08-09T02:30:55.237352Z"
+          "published_at": "2026-08-09T04:38:25.781261Z"
         }
       ],
       "item_count": 1,
@@ -1329,8 +1251,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-09T02:30:55.237352Z",
-      "latest_at": "2026-08-09T02:30:55.237352Z",
+      "earliest_at": "2026-08-09T04:38:25.781261Z",
+      "latest_at": "2026-08-09T04:38:25.781261Z",
       "primary_item": {
         "id": "hotelitem_1a3b7044f18a",
         "title": "凯撒旅业旗下股权二次拍卖起拍2490万元",
@@ -1374,14 +1296,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8587,
-      "importance": 0.5934,
-      "importance_score": 0.8587,
+      "score": 0.8583,
+      "importance": 0.593,
+      "importance_score": 0.8583,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9672,
+        "recency": 0.9652,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1413,7 +1335,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-08-09T02:30:55.237352Z"
+          "published_at": "2026-08-09T04:38:25.781261Z"
         }
       ],
       "source_count": 1,
@@ -1428,7 +1350,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-08-09T02:30:55.237352Z"
+          "published_at": "2026-08-09T04:38:25.781261Z"
         }
       ],
       "item_count": 1,
@@ -1447,8 +1369,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-09T02:30:55.237352Z",
-      "latest_at": "2026-08-09T02:30:55.237352Z",
+      "earliest_at": "2026-08-09T04:38:25.781261Z",
+      "latest_at": "2026-08-09T04:38:25.781261Z",
       "primary_item": {
         "id": "hotelitem_e4ce0593c384",
         "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
@@ -1472,7 +1394,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-08-09T02:30:55.237352Z"
+          "published_at": "2026-08-09T04:38:25.781261Z"
         }
       ],
       "source_count": 1,
@@ -1487,7 +1409,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-08-09T02:30:55.237352Z"
+          "published_at": "2026-08-09T04:38:25.781261Z"
         }
       ],
       "item_count": 1,
@@ -1506,8 +1428,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-09T02:30:55.237352Z",
-      "latest_at": "2026-08-09T02:30:55.237352Z",
+      "earliest_at": "2026-08-09T04:38:25.781261Z",
+      "latest_at": "2026-08-09T04:38:25.781261Z",
       "primary_item": {
         "id": "hotelitem_fa34986b4fc0",
         "title": "文化和旅游部、金融监管总局关于警惕借“保...",
@@ -1531,7 +1453,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-08-09T02:30:55.237352Z"
+          "published_at": "2026-08-09T04:38:25.781261Z"
         }
       ],
       "source_count": 1,
@@ -1546,7 +1468,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-08-09T02:30:55.237352Z"
+          "published_at": "2026-08-09T04:38:25.781261Z"
         }
       ],
       "item_count": 1,
@@ -1565,14 +1487,73 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-09T02:30:55.237352Z",
-      "latest_at": "2026-08-09T02:30:55.237352Z",
+      "earliest_at": "2026-08-09T04:38:25.781261Z",
+      "latest_at": "2026-08-09T04:38:25.781261Z",
       "primary_item": {
         "id": "hotelitem_9a958319a874",
         "title": "文化和旅游部印发《旅游强国建设“十五五”...",
         "url": "https://www.mct.gov.cn/whzx/whyw/202607/t20260708_966448.htm",
         "source": "文化和旅游部",
         "source_name": "文化和旅游部"
+      }
+    },
+    {
+      "story_id": "story_4508933a3d3c",
+      "title": "Rebecca Astier appointed PR Lead at Queensland Country Tourism",
+      "url": "https://insights.ehotelier.com/people/2026/08/07/rebecca-astier-appointed-pr-lead-at-queensland-country-tourism/?utm_source=rss&utm_medium=rss&utm_campaign=rebecca-astier-appointed-pr-lead-at-queensland-country-tourism",
+      "primary_url": "https://insights.ehotelier.com/people/2026/08/07/rebecca-astier-appointed-pr-lead-at-queensland-country-tourism/?utm_source=rss&utm_medium=rss&utm_campaign=rebecca-astier-appointed-pr-lead-at-queensland-country-tourism",
+      "source": "eHotelier",
+      "source_name": "eHotelier",
+      "sources": [
+        {
+          "id": "hotelitem_4508933a3d3c",
+          "title": "Rebecca Astier appointed PR Lead at Queensland Country Tourism",
+          "url": "https://insights.ehotelier.com/people/2026/08/07/rebecca-astier-appointed-pr-lead-at-queensland-country-tourism/?utm_source=rss&utm_medium=rss&utm_campaign=rebecca-astier-appointed-pr-lead-at-queensland-country-tourism",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-08-07T01:30:54Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "eHotelier"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_4508933a3d3c",
+          "title": "Rebecca Astier appointed PR Lead at Queensland Country Tourism",
+          "url": "https://insights.ehotelier.com/people/2026/08/07/rebecca-astier-appointed-pr-lead-at-queensland-country-tourism/?utm_source=rss&utm_medium=rss&utm_campaign=rebecca-astier-appointed-pr-lead-at-queensland-country-tourism",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-08-07T01:30:54Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8559,
+      "importance": 0.5905,
+      "importance_score": 0.8559,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9527,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-07T01:30:54Z",
+      "latest_at": "2026-08-07T01:30:54Z",
+      "primary_item": {
+        "id": "hotelitem_4508933a3d3c",
+        "title": "Rebecca Astier appointed PR Lead at Queensland Country Tourism",
+        "url": "https://insights.ehotelier.com/people/2026/08/07/rebecca-astier-appointed-pr-lead-at-queensland-country-tourism/?utm_source=rss&utm_medium=rss&utm_campaign=rebecca-astier-appointed-pr-lead-at-queensland-country-tourism",
+        "source": "eHotelier",
+        "source_name": "eHotelier"
       }
     },
     {
@@ -1610,14 +1591,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8563,
-      "importance": 0.591,
-      "importance_score": 0.8563,
+      "score": 0.8559,
+      "importance": 0.5906,
+      "importance_score": 0.8559,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9548,
+        "recency": 0.9528,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1669,14 +1650,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8563,
-      "importance": 0.591,
-      "importance_score": 0.8563,
+      "score": 0.8559,
+      "importance": 0.5906,
+      "importance_score": 0.8559,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9548,
+        "recency": 0.9529,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1689,65 +1670,6 @@
         "id": "hotelitem_43fec65cfea6",
         "title": "Australia’s hotel sector to capture greater share of future global travel",
         "url": "https://insights.ehotelier.com/global-news/2026/08/07/australias-hotel-sector-to-capture-greater-share-of-future-global-travel/?utm_source=rss&utm_medium=rss&utm_campaign=australias-hotel-sector-to-capture-greater-share-of-future-global-travel",
-        "source": "eHotelier",
-        "source_name": "eHotelier"
-      }
-    },
-    {
-      "story_id": "story_4508933a3d3c",
-      "title": "Rebecca Astier appointed PR Lead at Queensland Country Tourism",
-      "url": "https://insights.ehotelier.com/people/2026/08/07/rebecca-astier-appointed-pr-lead-at-queensland-country-tourism/?utm_source=rss&utm_medium=rss&utm_campaign=rebecca-astier-appointed-pr-lead-at-queensland-country-tourism",
-      "primary_url": "https://insights.ehotelier.com/people/2026/08/07/rebecca-astier-appointed-pr-lead-at-queensland-country-tourism/?utm_source=rss&utm_medium=rss&utm_campaign=rebecca-astier-appointed-pr-lead-at-queensland-country-tourism",
-      "source": "eHotelier",
-      "source_name": "eHotelier",
-      "sources": [
-        {
-          "id": "hotelitem_4508933a3d3c",
-          "title": "Rebecca Astier appointed PR Lead at Queensland Country Tourism",
-          "url": "https://insights.ehotelier.com/people/2026/08/07/rebecca-astier-appointed-pr-lead-at-queensland-country-tourism/?utm_source=rss&utm_medium=rss&utm_campaign=rebecca-astier-appointed-pr-lead-at-queensland-country-tourism",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-08-07T01:30:54Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "eHotelier"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_4508933a3d3c",
-          "title": "Rebecca Astier appointed PR Lead at Queensland Country Tourism",
-          "url": "https://insights.ehotelier.com/people/2026/08/07/rebecca-astier-appointed-pr-lead-at-queensland-country-tourism/?utm_source=rss&utm_medium=rss&utm_campaign=rebecca-astier-appointed-pr-lead-at-queensland-country-tourism",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-08-07T01:30:54Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8562,
-      "importance": 0.5909,
-      "importance_score": 0.8562,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9546,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-07T01:30:54Z",
-      "latest_at": "2026-08-07T01:30:54Z",
-      "primary_item": {
-        "id": "hotelitem_4508933a3d3c",
-        "title": "Rebecca Astier appointed PR Lead at Queensland Country Tourism",
-        "url": "https://insights.ehotelier.com/people/2026/08/07/rebecca-astier-appointed-pr-lead-at-queensland-country-tourism/?utm_source=rss&utm_medium=rss&utm_campaign=rebecca-astier-appointed-pr-lead-at-queensland-country-tourism",
         "source": "eHotelier",
         "source_name": "eHotelier"
       }
@@ -1787,14 +1709,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8497,
-      "importance": 0.5842,
-      "importance_score": 0.8497,
+      "score": 0.8493,
+      "importance": 0.5838,
+      "importance_score": 0.8493,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9208,
+        "recency": 0.9189,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1807,6 +1729,65 @@
         "id": "hotelitem_39f2c45d6921",
         "title": "Can Banks Become the New Hotel Tastemakers? Capital One Travel Thinks So",
         "url": "https://skift.com/2026/08/05/capital-one-travel-luxury-curation-strategy/",
+        "source": "Skift Hospitality",
+        "source_name": "Skift Hospitality"
+      }
+    },
+    {
+      "story_id": "story_a790eebcc2a0",
+      "title": "Hoshino’s Nara Prison Leans Into the Heritage — a Test Case for Japan’s Historic Buildings",
+      "url": "https://skift.com/2026/08/04/hoshinos-nara-prison-leans-into-the-heritage-a-test-case-for-japans-historic-buildings/",
+      "primary_url": "https://skift.com/2026/08/04/hoshinos-nara-prison-leans-into-the-heritage-a-test-case-for-japans-historic-buildings/",
+      "source": "Skift Hospitality",
+      "source_name": "Skift Hospitality",
+      "sources": [
+        {
+          "id": "hotelitem_a790eebcc2a0",
+          "title": "Hoshino’s Nara Prison Leans Into the Heritage — a Test Case for Japan’s Historic Buildings",
+          "url": "https://skift.com/2026/08/04/hoshinos-nara-prison-leans-into-the-heritage-a-test-case-for-japans-historic-buildings/",
+          "source": "Skift Hospitality",
+          "source_name": "Skift Hospitality",
+          "site_id": "skift",
+          "published_at": "2026-08-04T14:31:26Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Skift Hospitality"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_a790eebcc2a0",
+          "title": "Hoshino’s Nara Prison Leans Into the Heritage — a Test Case for Japan’s Historic Buildings",
+          "url": "https://skift.com/2026/08/04/hoshinos-nara-prison-leans-into-the-heritage-a-test-case-for-japans-historic-buildings/",
+          "source": "Skift Hospitality",
+          "source_name": "Skift Hospitality",
+          "site_id": "skift",
+          "published_at": "2026-08-04T14:31:26Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8453,
+      "importance": 0.5796,
+      "importance_score": 0.8453,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.898,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-04T14:31:26Z",
+      "latest_at": "2026-08-04T14:31:26Z",
+      "primary_item": {
+        "id": "hotelitem_a790eebcc2a0",
+        "title": "Hoshino’s Nara Prison Leans Into the Heritage — a Test Case for Japan’s Historic Buildings",
+        "url": "https://skift.com/2026/08/04/hoshinos-nara-prison-leans-into-the-heritage-a-test-case-for-japans-historic-buildings/",
         "source": "Skift Hospitality",
         "source_name": "Skift Hospitality"
       }
