@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T04:56:36.059572Z",
+  "generated_at": "2026-08-10T08:06:28.001331Z",
   "window_hours": 1080,
   "total_stories": 30,
   "stories": [
@@ -38,14 +38,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9838,
-      "importance": 0.5832,
-      "importance_score": 0.9838,
+      "score": 0.9832,
+      "importance": 0.5826,
+      "importance_score": 0.9832,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9158,
+        "recency": 0.9129,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -97,14 +97,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9542,
-      "importance": 0.5992,
-      "importance_score": 0.9542,
+      "score": 0.9537,
+      "importance": 0.5986,
+      "importance_score": 0.9537,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.996,
+        "recency": 0.993,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -156,14 +156,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9541,
-      "importance": 0.5991,
-      "importance_score": 0.9541,
+      "score": 0.9536,
+      "importance": 0.5985,
+      "importance_score": 0.9536,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9956,
+        "recency": 0.9927,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -215,14 +215,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9485,
-      "importance": 0.5933,
-      "importance_score": 0.9485,
+      "score": 0.948,
+      "importance": 0.5927,
+      "importance_score": 0.948,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9664,
+        "recency": 0.9635,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -254,7 +254,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-08-10T04:56:36.059572Z"
+          "published_at": "2026-08-10T08:06:28.001331Z"
         }
       ],
       "source_count": 1,
@@ -269,7 +269,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-08-10T04:56:36.059572Z"
+          "published_at": "2026-08-10T08:06:28.001331Z"
         }
       ],
       "item_count": 1,
@@ -288,8 +288,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-10T04:56:36.059572Z",
-      "latest_at": "2026-08-10T04:56:36.059572Z",
+      "earliest_at": "2026-08-10T08:06:28.001331Z",
+      "latest_at": "2026-08-10T08:06:28.001331Z",
       "primary_item": {
         "id": "hotelitem_9699887c72ea",
         "title": "中国旅游研究院与中青旅控股股份有限公司开展主题党日联学联",
@@ -333,14 +333,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9416,
-      "importance": 0.5861,
-      "importance_score": 0.9416,
+      "score": 0.9411,
+      "importance": 0.5855,
+      "importance_score": 0.9411,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9306,
+        "recency": 0.9277,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -392,14 +392,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9401,
-      "importance": 0.54,
-      "importance_score": 0.9401,
+      "score": 0.9393,
+      "importance": 0.5394,
+      "importance_score": 0.9393,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.7001,
+        "recency": 0.6972,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -414,65 +414,6 @@
         "url": "https://www.traveldaily.cn/article/190452",
         "source": "环球旅讯 TravelDaily",
         "source_name": "环球旅讯 TravelDaily"
-      }
-    },
-    {
-      "story_id": "story_17fbba8124e2",
-      "title": "Booking Holdings’ connected trip strategy boosts loyalty",
-      "url": "https://www.hoteldive.com/news/booking-holdings-connected-trip-strategy-boosts-loyalty/827187/",
-      "primary_url": "https://www.hoteldive.com/news/booking-holdings-connected-trip-strategy-boosts-loyalty/827187/",
-      "source": "Hotel Dive",
-      "source_name": "Hotel Dive",
-      "sources": [
-        {
-          "id": "hotelitem_17fbba8124e2",
-          "title": "Booking Holdings’ connected trip strategy boosts loyalty",
-          "url": "https://www.hoteldive.com/news/booking-holdings-connected-trip-strategy-boosts-loyalty/827187/",
-          "source": "Hotel Dive",
-          "source_name": "Hotel Dive",
-          "site_id": "hoteldive",
-          "published_at": "2026-08-05T19:34:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hotel Dive"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_17fbba8124e2",
-          "title": "Booking Holdings’ connected trip strategy boosts loyalty",
-          "url": "https://www.hoteldive.com/news/booking-holdings-connected-trip-strategy-boosts-loyalty/827187/",
-          "source": "Hotel Dive",
-          "source_name": "Hotel Dive",
-          "site_id": "hoteldive",
-          "published_at": "2026-08-05T19:34:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.9362,
-      "importance": 0.5805,
-      "importance_score": 0.9362,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9024,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-05T19:34:00Z",
-      "latest_at": "2026-08-05T19:34:00Z",
-      "primary_item": {
-        "id": "hotelitem_17fbba8124e2",
-        "title": "Booking Holdings’ connected trip strategy boosts loyalty",
-        "url": "https://www.hoteldive.com/news/booking-holdings-connected-trip-strategy-boosts-loyalty/827187/",
-        "source": "Hotel Dive",
-        "source_name": "Hotel Dive"
       }
     },
     {
@@ -510,14 +451,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9361,
-      "importance": 0.5804,
-      "importance_score": 0.9361,
+      "score": 0.9356,
+      "importance": 0.5799,
+      "importance_score": 0.9356,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9022,
+        "recency": 0.8993,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -532,6 +473,65 @@
         "url": "https://skift.com/2026/08/05/choice-hotels-new-interim-ceos-first-task-fix-the-revenue-gap/",
         "source": "Skift Hospitality",
         "source_name": "Skift Hospitality"
+      }
+    },
+    {
+      "story_id": "story_17fbba8124e2",
+      "title": "Booking Holdings’ connected trip strategy boosts loyalty",
+      "url": "https://www.hoteldive.com/news/booking-holdings-connected-trip-strategy-boosts-loyalty/827187/",
+      "primary_url": "https://www.hoteldive.com/news/booking-holdings-connected-trip-strategy-boosts-loyalty/827187/",
+      "source": "Hotel Dive",
+      "source_name": "Hotel Dive",
+      "sources": [
+        {
+          "id": "hotelitem_17fbba8124e2",
+          "title": "Booking Holdings’ connected trip strategy boosts loyalty",
+          "url": "https://www.hoteldive.com/news/booking-holdings-connected-trip-strategy-boosts-loyalty/827187/",
+          "source": "Hotel Dive",
+          "source_name": "Hotel Dive",
+          "site_id": "hoteldive",
+          "published_at": "2026-08-05T19:34:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hotel Dive"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_17fbba8124e2",
+          "title": "Booking Holdings’ connected trip strategy boosts loyalty",
+          "url": "https://www.hoteldive.com/news/booking-holdings-connected-trip-strategy-boosts-loyalty/827187/",
+          "source": "Hotel Dive",
+          "source_name": "Hotel Dive",
+          "site_id": "hoteldive",
+          "published_at": "2026-08-05T19:34:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.9356,
+      "importance": 0.5799,
+      "importance_score": 0.9356,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.8995,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-05T19:34:00Z",
+      "latest_at": "2026-08-05T19:34:00Z",
+      "primary_item": {
+        "id": "hotelitem_17fbba8124e2",
+        "title": "Booking Holdings’ connected trip strategy boosts loyalty",
+        "url": "https://www.hoteldive.com/news/booking-holdings-connected-trip-strategy-boosts-loyalty/827187/",
+        "source": "Hotel Dive",
+        "source_name": "Hotel Dive"
       }
     },
     {
@@ -569,14 +569,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9357,
-      "importance": 0.58,
-      "importance_score": 0.9357,
+      "score": 0.9351,
+      "importance": 0.5794,
+      "importance_score": 0.9351,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8999,
+        "recency": 0.897,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -628,14 +628,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9351,
-      "importance": 0.5794,
-      "importance_score": 0.9351,
+      "score": 0.9345,
+      "importance": 0.5788,
+      "importance_score": 0.9345,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8968,
+        "recency": 0.8939,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -687,14 +687,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9348,
-      "importance": 0.579,
-      "importance_score": 0.9348,
+      "score": 0.9342,
+      "importance": 0.5784,
+      "importance_score": 0.9342,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.895,
+        "recency": 0.8921,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -746,14 +746,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9308,
-      "importance": 0.5749,
-      "importance_score": 0.9308,
+      "score": 0.9302,
+      "importance": 0.5743,
+      "importance_score": 0.9302,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8744,
+        "recency": 0.8715,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -768,6 +768,65 @@
         "url": "https://www.hoteldive.com/news/airbnb-furthers-hotel-strategy-lark-partnership/826921/",
         "source": "Hotel Dive",
         "source_name": "Hotel Dive"
+      }
+    },
+    {
+      "story_id": "story_5880465c7c12",
+      "title": "复星锐正领投近亿元融资，玩点旅行要补上旅游AI的“最后一公里”",
+      "url": "https://www.traveldaily.cn/article/190513",
+      "primary_url": "https://www.traveldaily.cn/article/190513",
+      "source": "环球旅讯 TravelDaily",
+      "source_name": "环球旅讯 TravelDaily",
+      "sources": [
+        {
+          "id": "hotelitem_5880465c7c12",
+          "title": "复星锐正领投近亿元融资，玩点旅行要补上旅游AI的“最后一公里”",
+          "url": "https://www.traveldaily.cn/article/190513",
+          "source": "环球旅讯 TravelDaily",
+          "source_name": "环球旅讯 TravelDaily",
+          "site_id": "traveldaily",
+          "published_at": "2026-08-10T14:00:04Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "环球旅讯 TravelDaily"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_5880465c7c12",
+          "title": "复星锐正领投近亿元融资，玩点旅行要补上旅游AI的“最后一公里”",
+          "url": "https://www.traveldaily.cn/article/190513",
+          "source": "环球旅讯 TravelDaily",
+          "source_name": "环球旅讯 TravelDaily",
+          "site_id": "traveldaily",
+          "published_at": "2026-08-10T14:00:04Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.9225,
+      "importance": 0.6,
+      "importance_score": 0.9225,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-10T14:00:04Z",
+      "latest_at": "2026-08-10T14:00:04Z",
+      "primary_item": {
+        "id": "hotelitem_5880465c7c12",
+        "title": "复星锐正领投近亿元融资，玩点旅行要补上旅游AI的“最后一公里”",
+        "url": "https://www.traveldaily.cn/article/190513",
+        "source": "环球旅讯 TravelDaily",
+        "source_name": "环球旅讯 TravelDaily"
       }
     },
     {
@@ -805,14 +864,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9198,
-      "importance": 0.579,
-      "importance_score": 0.9198,
+      "score": 0.9192,
+      "importance": 0.5784,
+      "importance_score": 0.9192,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8952,
+        "recency": 0.8922,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -827,65 +886,6 @@
         "url": "https://boutiquehotelnews.com/features/ai-discover-book-hotels/?utm_source=rss&utm_medium=rss&utm_campaign=ai-discover-book-hotels",
         "source": "Boutique Hotel News",
         "source_name": "Boutique Hotel News"
-      }
-    },
-    {
-      "story_id": "story_fe5acd7ea0f1",
-      "title": "酒店应加强网络宣传信息监管 保障游客消费权益",
-      "url": "https://www.pinchain.com/article/349711",
-      "primary_url": "https://www.pinchain.com/article/349711",
-      "source": "品橙旅游",
-      "source_name": "品橙旅游",
-      "sources": [
-        {
-          "id": "hotelitem_fe5acd7ea0f1",
-          "title": "酒店应加强网络宣传信息监管 保障游客消费权益",
-          "url": "https://www.pinchain.com/article/349711",
-          "source": "品橙旅游",
-          "source_name": "品橙旅游",
-          "site_id": "pinchain",
-          "published_at": "2026-08-07T09:14:09Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "品橙旅游"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_fe5acd7ea0f1",
-          "title": "酒店应加强网络宣传信息监管 保障游客消费权益",
-          "url": "https://www.pinchain.com/article/349711",
-          "source": "品橙旅游",
-          "source_name": "品橙旅游",
-          "site_id": "pinchain",
-          "published_at": "2026-08-07T09:14:09Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.9179,
-      "importance": 0.5875,
-      "importance_score": 0.9179,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9373,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-07T09:14:09Z",
-      "latest_at": "2026-08-07T09:14:09Z",
-      "primary_item": {
-        "id": "hotelitem_fe5acd7ea0f1",
-        "title": "酒店应加强网络宣传信息监管 保障游客消费权益",
-        "url": "https://www.pinchain.com/article/349711",
-        "source": "品橙旅游",
-        "source_name": "品橙旅游"
       }
     },
     {
@@ -923,14 +923,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9106,
-      "importance": 0.5876,
-      "importance_score": 0.9106,
+      "score": 0.91,
+      "importance": 0.587,
+      "importance_score": 0.91,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9381,
+        "recency": 0.9352,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -982,14 +982,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8986,
-      "importance": 0.5753,
-      "importance_score": 0.8986,
+      "score": 0.8981,
+      "importance": 0.5747,
+      "importance_score": 0.8981,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8763,
+        "recency": 0.8734,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1041,14 +1041,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8642,
-      "importance": 0.5991,
-      "importance_score": 0.8642,
+      "score": 0.8636,
+      "importance": 0.5986,
+      "importance_score": 0.8636,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9957,
+        "recency": 0.9928,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1100,14 +1100,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8642,
-      "importance": 0.5992,
-      "importance_score": 0.8642,
+      "score": 0.8636,
+      "importance": 0.5986,
+      "importance_score": 0.8636,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9958,
+        "recency": 0.9928,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1159,14 +1159,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8642,
-      "importance": 0.5992,
-      "importance_score": 0.8642,
+      "score": 0.8636,
+      "importance": 0.5986,
+      "importance_score": 0.8636,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9958,
+        "recency": 0.9929,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1184,84 +1184,6 @@
       }
     },
     {
-      "story_id": "story_646e15defe98",
-      "title": "Agoda Reveals Growing Interest in Cool-Weath ... Singapore, 8 August 2026: Agoda Company Pte. Ltd. (Headquarters: Singapore; CEO: Omri Morgenshtern), w ... August 8, 2026 / Travel Trends",
-      "url": "https://www.agoda.com/press/agoda-reveals-growing-interest-in-cool-weather-destinations-in-japan-for-summer-2026/",
-      "primary_url": "https://www.agoda.com/press/agoda-reveals-growing-interest-in-cool-weather-destinations-in-japan-for-summer-2026/",
-      "source": "Agoda",
-      "source_name": "Agoda",
-      "sources": [
-        {
-          "id": "hotelitem_646e15defe98",
-          "title": "Agoda Reveals Growing Interest in Cool-Weath ... Singapore, 8 August 2026: Agoda Company Pte. Ltd. (Headquarters: Singapore; CEO: Omri Morgenshtern), w ... August 8, 2026 / Travel Trends",
-          "url": "https://www.agoda.com/press/agoda-reveals-growing-interest-in-cool-weather-destinations-in-japan-for-summer-2026/",
-          "source": "Agoda",
-          "source_name": "Agoda",
-          "site_id": "agoda_press",
-          "published_at": "2026-08-10T04:56:36.059572Z"
-        },
-        {
-          "id": "hotelitem_9d906eadfd50",
-          "title": "Agoda Reveals Growing Travel Interest Ahead  ... Singapore, 24 July 2026: Agoda Company Pte. Ltd. (Headquarters: Singapore; CEO: Omri Morgenshtern), wh ... July 24, 2026 / Travel Trends",
-          "url": "https://www.agoda.com/press/agoda-reveals-growing-travel-interest-ahead-of-japans-summer-2026-fireworks-festivals/",
-          "source": "Agoda",
-          "source_name": "Agoda",
-          "site_id": "agoda_press",
-          "published_at": "2026-08-10T04:56:36.059572Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Agoda"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_646e15defe98",
-          "title": "Agoda Reveals Growing Interest in Cool-Weath ... Singapore, 8 August 2026: Agoda Company Pte. Ltd. (Headquarters: Singapore; CEO: Omri Morgenshtern), w ... August 8, 2026 / Travel Trends",
-          "url": "https://www.agoda.com/press/agoda-reveals-growing-interest-in-cool-weather-destinations-in-japan-for-summer-2026/",
-          "source": "Agoda",
-          "source_name": "Agoda",
-          "site_id": "agoda_press",
-          "published_at": "2026-08-10T04:56:36.059572Z"
-        },
-        {
-          "id": "hotelitem_9d906eadfd50",
-          "title": "Agoda Reveals Growing Travel Interest Ahead  ... Singapore, 24 July 2026: Agoda Company Pte. Ltd. (Headquarters: Singapore; CEO: Omri Morgenshtern), wh ... July 24, 2026 / Travel Trends",
-          "url": "https://www.agoda.com/press/agoda-reveals-growing-travel-interest-ahead-of-japans-summer-2026-fireworks-festivals/",
-          "source": "Agoda",
-          "source_name": "Agoda",
-          "site_id": "agoda_press",
-          "published_at": "2026-08-10T04:56:36.059572Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8625,
-      "importance": 0.625,
-      "importance_score": 0.8625,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-10T04:56:36.059572Z",
-      "latest_at": "2026-08-10T04:56:36.059572Z",
-      "primary_item": {
-        "id": "hotelitem_646e15defe98",
-        "title": "Agoda Reveals Growing Interest in Cool-Weath ... Singapore, 8 August 2026: Agoda Company Pte. Ltd. (Headquarters: Singapore; CEO: Omri Morgenshtern), w ... August 8, 2026 / Travel Trends",
-        "url": "https://www.agoda.com/press/agoda-reveals-growing-interest-in-cool-weather-destinations-in-japan-for-summer-2026/",
-        "source": "Agoda",
-        "source_name": "Agoda"
-      }
-    },
-    {
       "story_id": "story_c7c15b7680c9",
       "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
       "url": "https://www.chinahotel.org.cn/articles/17408",
@@ -1276,7 +1198,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-08-10T04:56:36.059572Z"
+          "published_at": "2026-08-10T08:06:28.001331Z"
         },
         {
           "id": "hotelitem_c7c15b7680c9",
@@ -1285,7 +1207,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-08-10T04:56:36.059572Z"
+          "published_at": "2026-08-10T08:06:28.001331Z"
         }
       ],
       "source_count": 2,
@@ -1300,7 +1222,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-08-10T04:56:36.059572Z"
+          "published_at": "2026-08-10T08:06:28.001331Z"
         },
         {
           "id": "hotelitem_c7c15b7680c9",
@@ -1309,7 +1231,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-08-10T04:56:36.059572Z"
+          "published_at": "2026-08-10T08:06:28.001331Z"
         }
       ],
       "item_count": 2,
@@ -1329,8 +1251,8 @@
         "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-10T04:56:36.059572Z",
-      "latest_at": "2026-08-10T04:56:36.059572Z",
+      "earliest_at": "2026-08-10T08:06:28.001331Z",
+      "latest_at": "2026-08-10T08:06:28.001331Z",
       "primary_item": {
         "id": "hotelitem_d4370964909c",
         "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
@@ -1354,7 +1276,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-08-10T04:56:36.059572Z"
+          "published_at": "2026-08-10T08:06:28.001331Z"
         }
       ],
       "source_count": 1,
@@ -1369,7 +1291,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-08-10T04:56:36.059572Z"
+          "published_at": "2026-08-10T08:06:28.001331Z"
         }
       ],
       "item_count": 1,
@@ -1388,8 +1310,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-10T04:56:36.059572Z",
-      "latest_at": "2026-08-10T04:56:36.059572Z",
+      "earliest_at": "2026-08-10T08:06:28.001331Z",
+      "latest_at": "2026-08-10T08:06:28.001331Z",
       "primary_item": {
         "id": "hotelitem_e4ce0593c384",
         "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
@@ -1413,7 +1335,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-08-10T04:56:36.059572Z"
+          "published_at": "2026-08-10T08:06:28.001331Z"
         }
       ],
       "source_count": 1,
@@ -1428,7 +1350,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-08-10T04:56:36.059572Z"
+          "published_at": "2026-08-10T08:06:28.001331Z"
         }
       ],
       "item_count": 1,
@@ -1447,8 +1369,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-10T04:56:36.059572Z",
-      "latest_at": "2026-08-10T04:56:36.059572Z",
+      "earliest_at": "2026-08-10T08:06:28.001331Z",
+      "latest_at": "2026-08-10T08:06:28.001331Z",
       "primary_item": {
         "id": "hotelitem_fa34986b4fc0",
         "title": "文化和旅游部、金融监管总局关于警惕借“保...",
@@ -1472,7 +1394,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-08-10T04:56:36.059572Z"
+          "published_at": "2026-08-10T08:06:28.001331Z"
         }
       ],
       "source_count": 1,
@@ -1487,7 +1409,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-08-10T04:56:36.059572Z"
+          "published_at": "2026-08-10T08:06:28.001331Z"
         }
       ],
       "item_count": 1,
@@ -1506,8 +1428,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-10T04:56:36.059572Z",
-      "latest_at": "2026-08-10T04:56:36.059572Z",
+      "earliest_at": "2026-08-10T08:06:28.001331Z",
+      "latest_at": "2026-08-10T08:06:28.001331Z",
       "primary_item": {
         "id": "hotelitem_9a958319a874",
         "title": "文化和旅游部印发《旅游强国建设“十五五”...",
@@ -1551,14 +1473,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.854,
-      "importance": 0.5885,
-      "importance_score": 0.854,
+      "score": 0.8534,
+      "importance": 0.588,
+      "importance_score": 0.8534,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9427,
+        "recency": 0.9398,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1610,14 +1532,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8536,
-      "importance": 0.5882,
-      "importance_score": 0.8536,
+      "score": 0.8531,
+      "importance": 0.5876,
+      "importance_score": 0.8531,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9411,
+        "recency": 0.9382,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1669,14 +1591,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8516,
-      "importance": 0.5861,
-      "importance_score": 0.8516,
+      "score": 0.851,
+      "importance": 0.5855,
+      "importance_score": 0.851,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9304,
+        "recency": 0.9274,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1728,14 +1650,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.845,
-      "importance": 0.5793,
-      "importance_score": 0.845,
+      "score": 0.8444,
+      "importance": 0.5787,
+      "importance_score": 0.8444,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8963,
+        "recency": 0.8934,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1787,14 +1709,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.841,
-      "importance": 0.5751,
-      "importance_score": 0.841,
+      "score": 0.8404,
+      "importance": 0.5745,
+      "importance_score": 0.8404,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8755,
+        "recency": 0.8726,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1807,6 +1729,65 @@
         "id": "hotelitem_a790eebcc2a0",
         "title": "Hoshino’s Nara Prison Leans Into the Heritage — a Test Case for Japan’s Historic Buildings",
         "url": "https://skift.com/2026/08/04/hoshinos-nara-prison-leans-into-the-heritage-a-test-case-for-japans-historic-buildings/",
+        "source": "Skift Hospitality",
+        "source_name": "Skift Hospitality"
+      }
+    },
+    {
+      "story_id": "story_766f5f3ed87f",
+      "title": "Iran War Drags Down Q2 Earnings for Big Hotel Chains",
+      "url": "https://skift.com/2026/08/04/iran-war-drags-down-q2-earnings-for-big-hotel-chains/",
+      "primary_url": "https://skift.com/2026/08/04/iran-war-drags-down-q2-earnings-for-big-hotel-chains/",
+      "source": "Skift Hospitality",
+      "source_name": "Skift Hospitality",
+      "sources": [
+        {
+          "id": "hotelitem_766f5f3ed87f",
+          "title": "Iran War Drags Down Q2 Earnings for Big Hotel Chains",
+          "url": "https://skift.com/2026/08/04/iran-war-drags-down-q2-earnings-for-big-hotel-chains/",
+          "source": "Skift Hospitality",
+          "source_name": "Skift Hospitality",
+          "site_id": "skift",
+          "published_at": "2026-08-04T14:33:14Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Skift Hospitality"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_766f5f3ed87f",
+          "title": "Iran War Drags Down Q2 Earnings for Big Hotel Chains",
+          "url": "https://skift.com/2026/08/04/iran-war-drags-down-q2-earnings-for-big-hotel-chains/",
+          "source": "Skift Hospitality",
+          "source_name": "Skift Hospitality",
+          "site_id": "skift",
+          "published_at": "2026-08-04T14:33:14Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8404,
+      "importance": 0.5745,
+      "importance_score": 0.8404,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.8726,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-04T14:33:14Z",
+      "latest_at": "2026-08-04T14:33:14Z",
+      "primary_item": {
+        "id": "hotelitem_766f5f3ed87f",
+        "title": "Iran War Drags Down Q2 Earnings for Big Hotel Chains",
+        "url": "https://skift.com/2026/08/04/iran-war-drags-down-q2-earnings-for-big-hotel-chains/",
         "source": "Skift Hospitality",
         "source_name": "Skift Hospitality"
       }
