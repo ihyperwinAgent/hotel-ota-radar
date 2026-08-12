@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-12T16:11:00.864662Z",
-  "successful_sites": 23,
+  "generated_at": "2026-08-12T19:28:44.131778Z",
+  "successful_sites": 22,
   "total_sites": 26,
-  "items_before_topic_filter": 156,
+  "items_before_topic_filter": 138,
   "sites": [
     {
       "site_id": "huazhu_ir",
@@ -10,7 +10,7 @@
       "category": "cr9_finance",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 65279,
+      "duration_ms": 65376,
       "error": "HTTPSConnectionPool(host='www.globenewswire.com', port=443): Max retries exceeded with url: /en/search/keyword/Huazhu (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='www.globenewswire.com', port=443): Read timed out. (read timeout=15)\"))"
     },
     {
@@ -19,7 +19,7 @@
       "category": "cr9_finance",
       "ok": true,
       "item_count": 1,
-      "duration_ms": 614,
+      "duration_ms": 575,
       "error": null
     },
     {
@@ -28,7 +28,7 @@
       "category": "cr9_finance",
       "ok": true,
       "item_count": 0,
-      "duration_ms": 2851,
+      "duration_ms": 2292,
       "error": null
     },
     {
@@ -37,7 +37,7 @@
       "category": "supply_chain",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 2932,
+      "duration_ms": 3000,
       "error": null
     },
     {
@@ -46,7 +46,7 @@
       "category": "policy",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 1482,
+      "duration_ms": 1836,
       "error": null
     },
     {
@@ -55,7 +55,7 @@
       "category": "policy",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 2162,
+      "duration_ms": 2351,
       "error": null
     },
     {
@@ -64,7 +64,7 @@
       "category": "supply_chain",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 2491,
+      "duration_ms": 1771,
       "error": null
     },
     {
@@ -73,7 +73,7 @@
       "category": "supply_chain",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 2037,
+      "duration_ms": 2146,
       "error": null
     },
     {
@@ -82,7 +82,7 @@
       "category": "supply_chain",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1563,
+      "duration_ms": 1459,
       "error": null
     },
     {
@@ -91,7 +91,7 @@
       "category": "ai_hotel",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 200,
+      "duration_ms": 237,
       "error": null
     },
     {
@@ -100,7 +100,7 @@
       "category": "ai_hotel",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1294,
+      "duration_ms": 1149,
       "error": null
     },
     {
@@ -109,7 +109,7 @@
       "category": "ai_hotel",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 943,
+      "duration_ms": 938,
       "error": null
     },
     {
@@ -118,7 +118,7 @@
       "category": "supply_chain",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 145,
+      "duration_ms": 192,
       "error": "403 Client Error: Forbidden for url: https://lodgingmagazine.com/feed/"
     },
     {
@@ -127,7 +127,7 @@
       "category": "supply_chain",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1087,
+      "duration_ms": 1054,
       "error": null
     },
     {
@@ -136,7 +136,7 @@
       "category": "ai_hotel",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 152,
+      "duration_ms": 166,
       "error": null
     },
     {
@@ -145,7 +145,7 @@
       "category": "ota",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 65163,
+      "duration_ms": 65248,
       "error": "HTTPSConnectionPool(host='www.globenewswire.com', port=443): Max retries exceeded with url: /en/search/keyword/Trip.com%20Group (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='www.globenewswire.com', port=443): Read timed out. (read timeout=15)\"))"
     },
     {
@@ -154,7 +154,7 @@
       "category": "ota",
       "ok": true,
       "item_count": 1,
-      "duration_ms": 525,
+      "duration_ms": 397,
       "error": null
     },
     {
@@ -163,7 +163,7 @@
       "category": "ota",
       "ok": true,
       "item_count": 1,
-      "duration_ms": 437,
+      "duration_ms": 490,
       "error": null
     },
     {
@@ -172,7 +172,7 @@
       "category": "ota",
       "ok": true,
       "item_count": 1,
-      "duration_ms": 1463,
+      "duration_ms": 212,
       "error": null
     },
     {
@@ -181,7 +181,7 @@
       "category": "ota",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 320,
+      "duration_ms": 321,
       "error": null
     },
     {
@@ -190,7 +190,7 @@
       "category": "ota",
       "ok": true,
       "item_count": 1,
-      "duration_ms": 366,
+      "duration_ms": 197,
       "error": null
     },
     {
@@ -199,7 +199,7 @@
       "category": "ota",
       "ok": true,
       "item_count": 3,
-      "duration_ms": 318,
+      "duration_ms": 1248,
       "error": null
     },
     {
@@ -208,7 +208,7 @@
       "category": "ota",
       "ok": true,
       "item_count": 0,
-      "duration_ms": 5185,
+      "duration_ms": 1634,
       "error": null
     },
     {
@@ -217,17 +217,17 @@
       "category": "ota",
       "ok": true,
       "item_count": 0,
-      "duration_ms": 1533,
+      "duration_ms": 1566,
       "error": null
     },
     {
       "site_id": "traveldaily",
       "site_name": "环球旅讯 TravelDaily",
       "category": "ota",
-      "ok": true,
-      "item_count": 20,
-      "duration_ms": 1736,
-      "error": null
+      "ok": false,
+      "item_count": 0,
+      "duration_ms": 1187,
+      "error": "403 Client Error: Forbidden for url: https://www.traveldaily.cn/"
     },
     {
       "site_id": "iresearch",
@@ -235,7 +235,7 @@
       "category": "ota",
       "ok": true,
       "item_count": 0,
-      "duration_ms": 1307,
+      "duration_ms": 1585,
       "error": null
     }
   ]
