@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T07:54:27.908577Z",
+  "generated_at": "2026-08-12T10:27:47.519552Z",
   "window_hours": 1080,
   "total_stories": 30,
   "stories": [
@@ -39,13 +39,13 @@
       "item_count": 1,
       "duplicate_count": 1,
       "score": 1.0,
-      "importance": 0.5996,
+      "importance": 0.5992,
       "importance_score": 1.0,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9982,
+        "recency": 0.9959,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -60,6 +60,65 @@
         "url": "https://ir.tuniu.com/2026-08-12-Tuniu-to-Report-Second-Quarter-2026-Financial-Results-on-August-25,-2026",
         "source": "途牛 Tuniu IR",
         "source_name": "途牛 Tuniu IR"
+      }
+    },
+    {
+      "story_id": "story_6a246469df3a",
+      "title": "90%股权流拍，凯撒旅业丢不掉的海旅饮品",
+      "url": "https://www.pinchain.com/article/349860",
+      "primary_url": "https://www.pinchain.com/article/349860",
+      "source": "品橙旅游",
+      "source_name": "品橙旅游",
+      "sources": [
+        {
+          "id": "hotelitem_6a246469df3a",
+          "title": "90%股权流拍，凯撒旅业丢不掉的海旅饮品",
+          "url": "https://www.pinchain.com/article/349860",
+          "source": "品橙旅游",
+          "source_name": "品橙旅游",
+          "site_id": "pinchain",
+          "published_at": "2026-08-12T09:30:17Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "品橙旅游"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_6a246469df3a",
+          "title": "90%股权流拍，凯撒旅业丢不掉的海旅饮品",
+          "url": "https://www.pinchain.com/article/349860",
+          "source": "品橙旅游",
+          "source_name": "品橙旅游",
+          "site_id": "pinchain",
+          "published_at": "2026-08-12T09:30:17Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 1.0,
+      "importance": 0.5998,
+      "importance_score": 1.0,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9991,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-12T09:30:17Z",
+      "latest_at": "2026-08-12T09:30:17Z",
+      "primary_item": {
+        "id": "hotelitem_6a246469df3a",
+        "title": "90%股权流拍，凯撒旅业丢不掉的海旅饮品",
+        "url": "https://www.pinchain.com/article/349860",
+        "source": "品橙旅游",
+        "source_name": "品橙旅游"
       }
     },
     {
@@ -97,14 +156,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9747,
-      "importance": 0.5737,
-      "importance_score": 0.9747,
+      "score": 0.9742,
+      "importance": 0.5732,
+      "importance_score": 0.9742,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8686,
+        "recency": 0.8662,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -156,14 +215,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9539,
-      "importance": 0.5989,
-      "importance_score": 0.9539,
+      "score": 0.9535,
+      "importance": 0.5984,
+      "importance_score": 0.9535,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9945,
+        "recency": 0.9921,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -215,14 +274,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9538,
-      "importance": 0.5988,
-      "importance_score": 0.9538,
+      "score": 0.9534,
+      "importance": 0.5983,
+      "importance_score": 0.9534,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9939,
+        "recency": 0.9916,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -274,14 +333,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9529,
-      "importance": 0.5978,
-      "importance_score": 0.9529,
+      "score": 0.9524,
+      "importance": 0.5973,
+      "importance_score": 0.9524,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.989,
+        "recency": 0.9867,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -333,14 +392,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9517,
-      "importance": 0.5965,
-      "importance_score": 0.9517,
+      "score": 0.9512,
+      "importance": 0.5961,
+      "importance_score": 0.9512,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9827,
+        "recency": 0.9803,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -392,14 +451,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9475,
-      "importance": 0.5922,
-      "importance_score": 0.9475,
+      "score": 0.947,
+      "importance": 0.5917,
+      "importance_score": 0.947,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.961,
+        "recency": 0.9586,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -451,14 +510,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9394,
-      "importance": 0.5838,
-      "importance_score": 0.9394,
+      "score": 0.939,
+      "importance": 0.5834,
+      "importance_score": 0.939,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9192,
+        "recency": 0.9168,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -471,6 +530,65 @@
         "id": "hotelitem_0a9ce3e3aca4",
         "title": "Aman Threatened to Call the Police on a Creator. Why the Whole Industry Should Pay Attention.",
         "url": "https://skift.com/2026/08/08/aman-threatened-to-call-the-police-on-a-creator-why-the-whole-industry-should-pay-attention/",
+        "source": "Skift Hospitality",
+        "source_name": "Skift Hospitality"
+      }
+    },
+    {
+      "story_id": "story_7fd39244f3a3",
+      "title": "Choice Hotels’ New Interim CEO’s First Task: Fix the Revenue Gap",
+      "url": "https://skift.com/2026/08/05/choice-hotels-new-interim-ceos-first-task-fix-the-revenue-gap/",
+      "primary_url": "https://skift.com/2026/08/05/choice-hotels-new-interim-ceos-first-task-fix-the-revenue-gap/",
+      "source": "Skift Hospitality",
+      "source_name": "Skift Hospitality",
+      "sources": [
+        {
+          "id": "hotelitem_7fd39244f3a3",
+          "title": "Choice Hotels’ New Interim CEO’s First Task: Fix the Revenue Gap",
+          "url": "https://skift.com/2026/08/05/choice-hotels-new-interim-ceos-first-task-fix-the-revenue-gap/",
+          "source": "Skift Hospitality",
+          "source_name": "Skift Hospitality",
+          "site_id": "skift",
+          "published_at": "2026-08-05T19:20:59Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Skift Hospitality"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_7fd39244f3a3",
+          "title": "Choice Hotels’ New Interim CEO’s First Task: Fix the Revenue Gap",
+          "url": "https://skift.com/2026/08/05/choice-hotels-new-interim-ceos-first-task-fix-the-revenue-gap/",
+          "source": "Skift Hospitality",
+          "source_name": "Skift Hospitality",
+          "site_id": "skift",
+          "published_at": "2026-08-05T19:20:59Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.9266,
+      "importance": 0.5705,
+      "importance_score": 0.9266,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.8527,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-05T19:20:59Z",
+      "latest_at": "2026-08-05T19:20:59Z",
+      "primary_item": {
+        "id": "hotelitem_7fd39244f3a3",
+        "title": "Choice Hotels’ New Interim CEO’s First Task: Fix the Revenue Gap",
+        "url": "https://skift.com/2026/08/05/choice-hotels-new-interim-ceos-first-task-fix-the-revenue-gap/",
         "source": "Skift Hospitality",
         "source_name": "Skift Hospitality"
       }
@@ -510,14 +628,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9271,
-      "importance": 0.571,
-      "importance_score": 0.9271,
+      "score": 0.9266,
+      "importance": 0.5706,
+      "importance_score": 0.9266,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8552,
+        "recency": 0.8529,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -532,65 +650,6 @@
         "url": "https://www.hoteldive.com/news/booking-holdings-connected-trip-strategy-boosts-loyalty/827187/",
         "source": "Hotel Dive",
         "source_name": "Hotel Dive"
-      }
-    },
-    {
-      "story_id": "story_7fd39244f3a3",
-      "title": "Choice Hotels’ New Interim CEO’s First Task: Fix the Revenue Gap",
-      "url": "https://skift.com/2026/08/05/choice-hotels-new-interim-ceos-first-task-fix-the-revenue-gap/",
-      "primary_url": "https://skift.com/2026/08/05/choice-hotels-new-interim-ceos-first-task-fix-the-revenue-gap/",
-      "source": "Skift Hospitality",
-      "source_name": "Skift Hospitality",
-      "sources": [
-        {
-          "id": "hotelitem_7fd39244f3a3",
-          "title": "Choice Hotels’ New Interim CEO’s First Task: Fix the Revenue Gap",
-          "url": "https://skift.com/2026/08/05/choice-hotels-new-interim-ceos-first-task-fix-the-revenue-gap/",
-          "source": "Skift Hospitality",
-          "source_name": "Skift Hospitality",
-          "site_id": "skift",
-          "published_at": "2026-08-05T19:20:59Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Skift Hospitality"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_7fd39244f3a3",
-          "title": "Choice Hotels’ New Interim CEO’s First Task: Fix the Revenue Gap",
-          "url": "https://skift.com/2026/08/05/choice-hotels-new-interim-ceos-first-task-fix-the-revenue-gap/",
-          "source": "Skift Hospitality",
-          "source_name": "Skift Hospitality",
-          "site_id": "skift",
-          "published_at": "2026-08-05T19:20:59Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.927,
-      "importance": 0.571,
-      "importance_score": 0.927,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.855,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-05T19:20:59Z",
-      "latest_at": "2026-08-05T19:20:59Z",
-      "primary_item": {
-        "id": "hotelitem_7fd39244f3a3",
-        "title": "Choice Hotels’ New Interim CEO’s First Task: Fix the Revenue Gap",
-        "url": "https://skift.com/2026/08/05/choice-hotels-new-interim-ceos-first-task-fix-the-revenue-gap/",
-        "source": "Skift Hospitality",
-        "source_name": "Skift Hospitality"
       }
     },
     {
@@ -628,14 +687,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9263,
-      "importance": 0.5306,
-      "importance_score": 0.9263,
+      "score": 0.9256,
+      "importance": 0.5301,
+      "importance_score": 0.9256,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.6529,
+        "recency": 0.6505,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -687,14 +746,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9257,
-      "importance": 0.5696,
-      "importance_score": 0.9257,
+      "score": 0.9252,
+      "importance": 0.5691,
+      "importance_score": 0.9252,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8478,
+        "recency": 0.8455,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -746,14 +805,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.915,
-      "importance": 0.5922,
-      "importance_score": 0.915,
+      "score": 0.9146,
+      "importance": 0.5918,
+      "importance_score": 0.9146,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9612,
+        "recency": 0.9588,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -805,14 +864,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9107,
-      "importance": 0.5696,
-      "importance_score": 0.9107,
+      "score": 0.9102,
+      "importance": 0.5691,
+      "importance_score": 0.9102,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.848,
+        "recency": 0.8456,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -864,14 +923,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9015,
-      "importance": 0.5782,
-      "importance_score": 0.9015,
+      "score": 0.901,
+      "importance": 0.5777,
+      "importance_score": 0.901,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8909,
+        "recency": 0.8886,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -923,14 +982,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.888,
-      "importance": 0.5658,
-      "importance_score": 0.888,
+      "score": 0.8873,
+      "importance": 0.5654,
+      "importance_score": 0.8873,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8291,
+        "recency": 0.8268,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -943,65 +1002,6 @@
         "id": "hotelitem_090f9b250e36",
         "title": "营收创新高，新航为何仍陷入季度亏损？",
         "url": "https://www.traveldaily.cn/article/190489",
-        "source": "环球旅讯 TravelDaily",
-        "source_name": "环球旅讯 TravelDaily"
-      }
-    },
-    {
-      "story_id": "story_ab33b19f2d81",
-      "title": "丽呈集团与恭胜酒店集团达成战略合作，首批合作酒店超百家",
-      "url": "https://www.traveldaily.cn/article/190523",
-      "primary_url": "https://www.traveldaily.cn/article/190523",
-      "source": "环球旅讯 TravelDaily",
-      "source_name": "环球旅讯 TravelDaily",
-      "sources": [
-        {
-          "id": "hotelitem_ab33b19f2d81",
-          "title": "丽呈集团与恭胜酒店集团达成战略合作，首批合作酒店超百家",
-          "url": "https://www.traveldaily.cn/article/190523",
-          "source": "环球旅讯 TravelDaily",
-          "source_name": "环球旅讯 TravelDaily",
-          "site_id": "traveldaily",
-          "published_at": "2026-08-12T15:51:33Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "环球旅讯 TravelDaily"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_ab33b19f2d81",
-          "title": "丽呈集团与恭胜酒店集团达成战略合作，首批合作酒店超百家",
-          "url": "https://www.traveldaily.cn/article/190523",
-          "source": "环球旅讯 TravelDaily",
-          "source_name": "环球旅讯 TravelDaily",
-          "site_id": "traveldaily",
-          "published_at": "2026-08-12T15:51:33Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8775,
-      "importance": 0.6,
-      "importance_score": 0.8775,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-12T15:51:33Z",
-      "latest_at": "2026-08-12T15:51:33Z",
-      "primary_item": {
-        "id": "hotelitem_ab33b19f2d81",
-        "title": "丽呈集团与恭胜酒店集团达成战略合作，首批合作酒店超百家",
-        "url": "https://www.traveldaily.cn/article/190523",
         "source": "环球旅讯 TravelDaily",
         "source_name": "环球旅讯 TravelDaily"
       }
@@ -1041,14 +1041,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.864,
-      "importance": 0.5989,
-      "importance_score": 0.864,
+      "score": 0.8635,
+      "importance": 0.5984,
+      "importance_score": 0.8635,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9946,
+        "recency": 0.9922,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1100,14 +1100,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8639,
-      "importance": 0.5988,
-      "importance_score": 0.8639,
+      "score": 0.8634,
+      "importance": 0.5984,
+      "importance_score": 0.8634,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9942,
+        "recency": 0.9919,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1159,14 +1159,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8639,
-      "importance": 0.5989,
-      "importance_score": 0.8639,
+      "score": 0.8634,
+      "importance": 0.5984,
+      "importance_score": 0.8634,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9943,
+        "recency": 0.9919,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1198,7 +1198,7 @@
           "source": "Agoda",
           "source_name": "Agoda",
           "site_id": "agoda_press",
-          "published_at": "2026-08-12T07:54:27.908577Z"
+          "published_at": "2026-08-12T10:27:47.519552Z"
         },
         {
           "id": "hotelitem_9d906eadfd50",
@@ -1207,7 +1207,7 @@
           "source": "Agoda",
           "source_name": "Agoda",
           "site_id": "agoda_press",
-          "published_at": "2026-08-12T07:54:27.908577Z"
+          "published_at": "2026-08-12T10:27:47.519552Z"
         }
       ],
       "source_count": 2,
@@ -1222,7 +1222,7 @@
           "source": "Agoda",
           "source_name": "Agoda",
           "site_id": "agoda_press",
-          "published_at": "2026-08-12T07:54:27.908577Z"
+          "published_at": "2026-08-12T10:27:47.519552Z"
         },
         {
           "id": "hotelitem_9d906eadfd50",
@@ -1231,7 +1231,7 @@
           "source": "Agoda",
           "source_name": "Agoda",
           "site_id": "agoda_press",
-          "published_at": "2026-08-12T07:54:27.908577Z"
+          "published_at": "2026-08-12T10:27:47.519552Z"
         }
       ],
       "item_count": 2,
@@ -1251,8 +1251,8 @@
         "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-12T07:54:27.908577Z",
-      "latest_at": "2026-08-12T07:54:27.908577Z",
+      "earliest_at": "2026-08-12T10:27:47.519552Z",
+      "latest_at": "2026-08-12T10:27:47.519552Z",
       "primary_item": {
         "id": "hotelitem_646e15defe98",
         "title": "Agoda Reveals Growing Interest in Cool-Weath ... Singapore, 8 August 2026: Agoda Company Pte. Ltd. (Headquarters: Singapore; CEO: Omri Morgenshtern), w ... August 8, 2026 / Travel Trends",
@@ -1276,7 +1276,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-08-12T07:54:27.908577Z"
+          "published_at": "2026-08-12T10:27:47.519552Z"
         },
         {
           "id": "hotelitem_c7c15b7680c9",
@@ -1285,7 +1285,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-08-12T07:54:27.908577Z"
+          "published_at": "2026-08-12T10:27:47.519552Z"
         }
       ],
       "source_count": 2,
@@ -1300,7 +1300,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-08-12T07:54:27.908577Z"
+          "published_at": "2026-08-12T10:27:47.519552Z"
         },
         {
           "id": "hotelitem_c7c15b7680c9",
@@ -1309,7 +1309,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-08-12T07:54:27.908577Z"
+          "published_at": "2026-08-12T10:27:47.519552Z"
         }
       ],
       "item_count": 2,
@@ -1329,8 +1329,8 @@
         "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-12T07:54:27.908577Z",
-      "latest_at": "2026-08-12T07:54:27.908577Z",
+      "earliest_at": "2026-08-12T10:27:47.519552Z",
+      "latest_at": "2026-08-12T10:27:47.519552Z",
       "primary_item": {
         "id": "hotelitem_d4370964909c",
         "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
@@ -1354,7 +1354,7 @@
           "source": "迈点研究院",
           "source_name": "迈点研究院",
           "site_id": "meadin",
-          "published_at": "2026-08-12T07:54:27.908577Z"
+          "published_at": "2026-08-12T10:27:47.519552Z"
         }
       ],
       "source_count": 1,
@@ -1369,7 +1369,7 @@
           "source": "迈点研究院",
           "source_name": "迈点研究院",
           "site_id": "meadin",
-          "published_at": "2026-08-12T07:54:27.908577Z"
+          "published_at": "2026-08-12T10:27:47.519552Z"
         }
       ],
       "item_count": 1,
@@ -1388,8 +1388,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-12T07:54:27.908577Z",
-      "latest_at": "2026-08-12T07:54:27.908577Z",
+      "earliest_at": "2026-08-12T10:27:47.519552Z",
+      "latest_at": "2026-08-12T10:27:47.519552Z",
       "primary_item": {
         "id": "hotelitem_cdeb209b89de",
         "title": "Airbnb第二季度净利润8.16亿美元 同比增长16%",
@@ -1413,7 +1413,7 @@
           "source": "迈点研究院",
           "source_name": "迈点研究院",
           "site_id": "meadin",
-          "published_at": "2026-08-12T07:54:27.908577Z"
+          "published_at": "2026-08-12T10:27:47.519552Z"
         }
       ],
       "source_count": 1,
@@ -1428,7 +1428,7 @@
           "source": "迈点研究院",
           "source_name": "迈点研究院",
           "site_id": "meadin",
-          "published_at": "2026-08-12T07:54:27.908577Z"
+          "published_at": "2026-08-12T10:27:47.519552Z"
         }
       ],
       "item_count": 1,
@@ -1447,8 +1447,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-12T07:54:27.908577Z",
-      "latest_at": "2026-08-12T07:54:27.908577Z",
+      "earliest_at": "2026-08-12T10:27:47.519552Z",
+      "latest_at": "2026-08-12T10:27:47.519552Z",
       "primary_item": {
         "id": "hotelitem_a1faeb67d4cf",
         "title": "Booking二季度营收73.5亿美元 同比增长8.1%",
@@ -1472,7 +1472,7 @@
           "source": "迈点研究院",
           "source_name": "迈点研究院",
           "site_id": "meadin",
-          "published_at": "2026-08-12T07:54:27.908577Z"
+          "published_at": "2026-08-12T10:27:47.519552Z"
         }
       ],
       "source_count": 1,
@@ -1487,7 +1487,7 @@
           "source": "迈点研究院",
           "source_name": "迈点研究院",
           "site_id": "meadin",
-          "published_at": "2026-08-12T07:54:27.908577Z"
+          "published_at": "2026-08-12T10:27:47.519552Z"
         }
       ],
       "item_count": 1,
@@ -1506,8 +1506,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-12T07:54:27.908577Z",
-      "latest_at": "2026-08-12T07:54:27.908577Z",
+      "earliest_at": "2026-08-12T10:27:47.519552Z",
+      "latest_at": "2026-08-12T10:27:47.519552Z",
       "primary_item": {
         "id": "hotelitem_ebebd7bad6a5",
         "title": "洲际酒店集团公布2026年上半年业绩报告：全球RevPAR增长4.1%",
@@ -1531,7 +1531,7 @@
           "source": "迈点研究院",
           "source_name": "迈点研究院",
           "site_id": "meadin",
-          "published_at": "2026-08-12T07:54:27.908577Z"
+          "published_at": "2026-08-12T10:27:47.519552Z"
         }
       ],
       "source_count": 1,
@@ -1546,7 +1546,7 @@
           "source": "迈点研究院",
           "source_name": "迈点研究院",
           "site_id": "meadin",
-          "published_at": "2026-08-12T07:54:27.908577Z"
+          "published_at": "2026-08-12T10:27:47.519552Z"
         }
       ],
       "item_count": 1,
@@ -1565,8 +1565,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-12T07:54:27.908577Z",
-      "latest_at": "2026-08-12T07:54:27.908577Z",
+      "earliest_at": "2026-08-12T10:27:47.519552Z",
+      "latest_at": "2026-08-12T10:27:47.519552Z",
       "primary_item": {
         "id": "hotelitem_bc58ee48ef0a",
         "title": "飞猪：8月上旬酒店日均间夜增近70% 88VIP带动显著",
@@ -1610,14 +1610,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8587,
-      "importance": 0.5935,
-      "importance_score": 0.8587,
+      "score": 0.8583,
+      "importance": 0.593,
+      "importance_score": 0.8583,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9674,
+        "recency": 0.965,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1669,14 +1669,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8586,
-      "importance": 0.5934,
-      "importance_score": 0.8586,
+      "score": 0.8582,
+      "importance": 0.5929,
+      "importance_score": 0.8582,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9671,
+        "recency": 0.9647,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1708,7 +1708,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-08-12T07:54:27.908577Z"
+          "published_at": "2026-08-12T10:27:47.519552Z"
         }
       ],
       "source_count": 1,
@@ -1723,7 +1723,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-08-12T07:54:27.908577Z"
+          "published_at": "2026-08-12T10:27:47.519552Z"
         }
       ],
       "item_count": 1,
@@ -1742,8 +1742,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-12T07:54:27.908577Z",
-      "latest_at": "2026-08-12T07:54:27.908577Z",
+      "earliest_at": "2026-08-12T10:27:47.519552Z",
+      "latest_at": "2026-08-12T10:27:47.519552Z",
       "primary_item": {
         "id": "hotelitem_e4ce0593c384",
         "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
@@ -1767,7 +1767,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-08-12T07:54:27.908577Z"
+          "published_at": "2026-08-12T10:27:47.519552Z"
         }
       ],
       "source_count": 1,
@@ -1782,7 +1782,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-08-12T07:54:27.908577Z"
+          "published_at": "2026-08-12T10:27:47.519552Z"
         }
       ],
       "item_count": 1,
@@ -1801,8 +1801,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-12T07:54:27.908577Z",
-      "latest_at": "2026-08-12T07:54:27.908577Z",
+      "earliest_at": "2026-08-12T10:27:47.519552Z",
+      "latest_at": "2026-08-12T10:27:47.519552Z",
       "primary_item": {
         "id": "hotelitem_fa34986b4fc0",
         "title": "文化和旅游部、金融监管总局关于警惕借“保...",
