@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T22:06:59.921860Z",
+  "generated_at": "2026-08-12T02:46:44.819742Z",
   "window_hours": 1080,
   "total_stories": 30,
   "stories": [
@@ -38,14 +38,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9764,
-      "importance": 0.5755,
-      "importance_score": 0.9764,
+      "score": 0.9756,
+      "importance": 0.5747,
+      "importance_score": 0.9756,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8777,
+        "recency": 0.8734,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -60,6 +60,124 @@
         "url": "https://ir.yaduo.com/news-releases/news-release-details/atour-lifestyle-holdings-limited-report-second-quarter-2026",
         "source": "亚朵 Atour IR",
         "source_name": "亚朵 Atour IR"
+      }
+    },
+    {
+      "story_id": "story_3cd5bfce4f9b",
+      "title": "The Ava Hotel Paso Robles selects IRIS to unlock smarter guest experiences and new F&B revenue",
+      "url": "https://insights.ehotelier.com/suppliers/2026/08/12/the-ava-hotel-paso-robles-selects-iris-to-unlock-smarter-guest-experiences-and-new-fb-revenue/?utm_source=rss&utm_medium=rss&utm_campaign=the-ava-hotel-paso-robles-selects-iris-to-unlock-smarter-guest-experiences-and-new-fb-revenue",
+      "primary_url": "https://insights.ehotelier.com/suppliers/2026/08/12/the-ava-hotel-paso-robles-selects-iris-to-unlock-smarter-guest-experiences-and-new-fb-revenue/?utm_source=rss&utm_medium=rss&utm_campaign=the-ava-hotel-paso-robles-selects-iris-to-unlock-smarter-guest-experiences-and-new-fb-revenue",
+      "source": "eHotelier",
+      "source_name": "eHotelier",
+      "sources": [
+        {
+          "id": "hotelitem_3cd5bfce4f9b",
+          "title": "The Ava Hotel Paso Robles selects IRIS to unlock smarter guest experiences and new F&B revenue",
+          "url": "https://insights.ehotelier.com/suppliers/2026/08/12/the-ava-hotel-paso-robles-selects-iris-to-unlock-smarter-guest-experiences-and-new-fb-revenue/?utm_source=rss&utm_medium=rss&utm_campaign=the-ava-hotel-paso-robles-selects-iris-to-unlock-smarter-guest-experiences-and-new-fb-revenue",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-08-12T01:55:49Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "eHotelier"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_3cd5bfce4f9b",
+          "title": "The Ava Hotel Paso Robles selects IRIS to unlock smarter guest experiences and new F&B revenue",
+          "url": "https://insights.ehotelier.com/suppliers/2026/08/12/the-ava-hotel-paso-robles-selects-iris-to-unlock-smarter-guest-experiences-and-new-fb-revenue/?utm_source=rss&utm_medium=rss&utm_campaign=the-ava-hotel-paso-robles-selects-iris-to-unlock-smarter-guest-experiences-and-new-fb-revenue",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-08-12T01:55:49Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.9548,
+      "importance": 0.5998,
+      "importance_score": 0.9548,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9992,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-12T01:55:49Z",
+      "latest_at": "2026-08-12T01:55:49Z",
+      "primary_item": {
+        "id": "hotelitem_3cd5bfce4f9b",
+        "title": "The Ava Hotel Paso Robles selects IRIS to unlock smarter guest experiences and new F&B revenue",
+        "url": "https://insights.ehotelier.com/suppliers/2026/08/12/the-ava-hotel-paso-robles-selects-iris-to-unlock-smarter-guest-experiences-and-new-fb-revenue/?utm_source=rss&utm_medium=rss&utm_campaign=the-ava-hotel-paso-robles-selects-iris-to-unlock-smarter-guest-experiences-and-new-fb-revenue",
+        "source": "eHotelier",
+        "source_name": "eHotelier"
+      }
+    },
+    {
+      "story_id": "story_901b0dff2688",
+      "title": "IHG Introduces its new premium collection brand, Noted Collection to the Middle East with Signing in Saudi Arabia",
+      "url": "https://insights.ehotelier.com/uncategorised/2026/08/12/ihg-introduces-its-new-premium-collection-brand-noted-collection-to-the-middle-east-with-signing-in-saudi-arabia/?utm_source=rss&utm_medium=rss&utm_campaign=ihg-introduces-its-new-premium-collection-brand-noted-collection-to-the-middle-east-with-signing-in-saudi-arabia",
+      "primary_url": "https://insights.ehotelier.com/uncategorised/2026/08/12/ihg-introduces-its-new-premium-collection-brand-noted-collection-to-the-middle-east-with-signing-in-saudi-arabia/?utm_source=rss&utm_medium=rss&utm_campaign=ihg-introduces-its-new-premium-collection-brand-noted-collection-to-the-middle-east-with-signing-in-saudi-arabia",
+      "source": "eHotelier",
+      "source_name": "eHotelier",
+      "sources": [
+        {
+          "id": "hotelitem_901b0dff2688",
+          "title": "IHG Introduces its new premium collection brand, Noted Collection to the Middle East with Signing in Saudi Arabia",
+          "url": "https://insights.ehotelier.com/uncategorised/2026/08/12/ihg-introduces-its-new-premium-collection-brand-noted-collection-to-the-middle-east-with-signing-in-saudi-arabia/?utm_source=rss&utm_medium=rss&utm_campaign=ihg-introduces-its-new-premium-collection-brand-noted-collection-to-the-middle-east-with-signing-in-saudi-arabia",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-08-12T01:20:40Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "eHotelier"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_901b0dff2688",
+          "title": "IHG Introduces its new premium collection brand, Noted Collection to the Middle East with Signing in Saudi Arabia",
+          "url": "https://insights.ehotelier.com/uncategorised/2026/08/12/ihg-introduces-its-new-premium-collection-brand-noted-collection-to-the-middle-east-with-signing-in-saudi-arabia/?utm_source=rss&utm_medium=rss&utm_campaign=ihg-introduces-its-new-premium-collection-brand-noted-collection-to-the-middle-east-with-signing-in-saudi-arabia",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-08-12T01:20:40Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.9547,
+      "importance": 0.5997,
+      "importance_score": 0.9547,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9987,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-12T01:20:40Z",
+      "latest_at": "2026-08-12T01:20:40Z",
+      "primary_item": {
+        "id": "hotelitem_901b0dff2688",
+        "title": "IHG Introduces its new premium collection brand, Noted Collection to the Middle East with Signing in Saudi Arabia",
+        "url": "https://insights.ehotelier.com/uncategorised/2026/08/12/ihg-introduces-its-new-premium-collection-brand-noted-collection-to-the-middle-east-with-signing-in-saudi-arabia/?utm_source=rss&utm_medium=rss&utm_campaign=ihg-introduces-its-new-premium-collection-brand-noted-collection-to-the-middle-east-with-signing-in-saudi-arabia",
+        "source": "eHotelier",
+        "source_name": "eHotelier"
       }
     },
     {
@@ -97,14 +215,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9546,
-      "importance": 0.5996,
-      "importance_score": 0.9546,
+      "score": 0.9538,
+      "importance": 0.5988,
+      "importance_score": 0.9538,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9981,
+        "recency": 0.9938,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -156,14 +274,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9534,
-      "importance": 0.5983,
-      "importance_score": 0.9534,
+      "score": 0.9526,
+      "importance": 0.5975,
+      "importance_score": 0.9526,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9917,
+        "recency": 0.9874,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -178,124 +296,6 @@
         "url": "https://www.hoteldive.com/news/choice-hotels-opens-upscale-cambria-properties/827500/",
         "source": "Hotel Dive",
         "source_name": "Hotel Dive"
-      }
-    },
-    {
-      "story_id": "story_216ee92ab38f",
-      "title": "Radisson Hotel Group launches global long-stay proposition to accelerate growth in fast-growing extended-stay segment",
-      "url": "https://insights.ehotelier.com/global-news/2026/08/11/radisson-hotel-group-launches-global-long-stay-proposition-to-accelerate-growth-in-fast-growing-extended-stay-segment-2/?utm_source=rss&utm_medium=rss&utm_campaign=radisson-hotel-group-launches-global-long-stay-proposition-to-accelerate-growth-in-fast-growing-extended-stay-segment-2",
-      "primary_url": "https://insights.ehotelier.com/global-news/2026/08/11/radisson-hotel-group-launches-global-long-stay-proposition-to-accelerate-growth-in-fast-growing-extended-stay-segment-2/?utm_source=rss&utm_medium=rss&utm_campaign=radisson-hotel-group-launches-global-long-stay-proposition-to-accelerate-growth-in-fast-growing-extended-stay-segment-2",
-      "source": "eHotelier",
-      "source_name": "eHotelier",
-      "sources": [
-        {
-          "id": "hotelitem_216ee92ab38f",
-          "title": "Radisson Hotel Group launches global long-stay proposition to accelerate growth in fast-growing extended-stay segment",
-          "url": "https://insights.ehotelier.com/global-news/2026/08/11/radisson-hotel-group-launches-global-long-stay-proposition-to-accelerate-growth-in-fast-growing-extended-stay-segment-2/?utm_source=rss&utm_medium=rss&utm_campaign=radisson-hotel-group-launches-global-long-stay-proposition-to-accelerate-growth-in-fast-growing-extended-stay-segment-2",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-08-11T01:45:43Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "eHotelier"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_216ee92ab38f",
-          "title": "Radisson Hotel Group launches global long-stay proposition to accelerate growth in fast-growing extended-stay segment",
-          "url": "https://insights.ehotelier.com/global-news/2026/08/11/radisson-hotel-group-launches-global-long-stay-proposition-to-accelerate-growth-in-fast-growing-extended-stay-segment-2/?utm_source=rss&utm_medium=rss&utm_campaign=radisson-hotel-group-launches-global-long-stay-proposition-to-accelerate-growth-in-fast-growing-extended-stay-segment-2",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-08-11T01:45:43Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.9514,
-      "importance": 0.5962,
-      "importance_score": 0.9514,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9812,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-11T01:45:43Z",
-      "latest_at": "2026-08-11T01:45:43Z",
-      "primary_item": {
-        "id": "hotelitem_216ee92ab38f",
-        "title": "Radisson Hotel Group launches global long-stay proposition to accelerate growth in fast-growing extended-stay segment",
-        "url": "https://insights.ehotelier.com/global-news/2026/08/11/radisson-hotel-group-launches-global-long-stay-proposition-to-accelerate-growth-in-fast-growing-extended-stay-segment-2/?utm_source=rss&utm_medium=rss&utm_campaign=radisson-hotel-group-launches-global-long-stay-proposition-to-accelerate-growth-in-fast-growing-extended-stay-segment-2",
-        "source": "eHotelier",
-        "source_name": "eHotelier"
-      }
-    },
-    {
-      "story_id": "story_56e8e0dcfbaf",
-      "title": "Four Seasons Cabo Del Sol unveils Casa Del Sol, a luxury events destination along Cabo’s Golden Corridor",
-      "url": "https://insights.ehotelier.com/properties/2026/08/11/four-seasons-cabo-del-sol-unveils-casa-del-sol-a-luxury-events-destination-along-cabos-golden-corridor-2/?utm_source=rss&utm_medium=rss&utm_campaign=four-seasons-cabo-del-sol-unveils-casa-del-sol-a-luxury-events-destination-along-cabos-golden-corridor-2",
-      "primary_url": "https://insights.ehotelier.com/properties/2026/08/11/four-seasons-cabo-del-sol-unveils-casa-del-sol-a-luxury-events-destination-along-cabos-golden-corridor-2/?utm_source=rss&utm_medium=rss&utm_campaign=four-seasons-cabo-del-sol-unveils-casa-del-sol-a-luxury-events-destination-along-cabos-golden-corridor-2",
-      "source": "eHotelier",
-      "source_name": "eHotelier",
-      "sources": [
-        {
-          "id": "hotelitem_56e8e0dcfbaf",
-          "title": "Four Seasons Cabo Del Sol unveils Casa Del Sol, a luxury events destination along Cabo’s Golden Corridor",
-          "url": "https://insights.ehotelier.com/properties/2026/08/11/four-seasons-cabo-del-sol-unveils-casa-del-sol-a-luxury-events-destination-along-cabos-golden-corridor-2/?utm_source=rss&utm_medium=rss&utm_campaign=four-seasons-cabo-del-sol-unveils-casa-del-sol-a-luxury-events-destination-along-cabos-golden-corridor-2",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-08-11T01:25:33Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "eHotelier"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_56e8e0dcfbaf",
-          "title": "Four Seasons Cabo Del Sol unveils Casa Del Sol, a luxury events destination along Cabo’s Golden Corridor",
-          "url": "https://insights.ehotelier.com/properties/2026/08/11/four-seasons-cabo-del-sol-unveils-casa-del-sol-a-luxury-events-destination-along-cabos-golden-corridor-2/?utm_source=rss&utm_medium=rss&utm_campaign=four-seasons-cabo-del-sol-unveils-casa-del-sol-a-luxury-events-destination-along-cabos-golden-corridor-2",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-08-11T01:25:33Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.9513,
-      "importance": 0.5962,
-      "importance_score": 0.9513,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9808,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-11T01:25:33Z",
-      "latest_at": "2026-08-11T01:25:33Z",
-      "primary_item": {
-        "id": "hotelitem_56e8e0dcfbaf",
-        "title": "Four Seasons Cabo Del Sol unveils Casa Del Sol, a luxury events destination along Cabo’s Golden Corridor",
-        "url": "https://insights.ehotelier.com/properties/2026/08/11/four-seasons-cabo-del-sol-unveils-casa-del-sol-a-luxury-events-destination-along-cabos-golden-corridor-2/?utm_source=rss&utm_medium=rss&utm_campaign=four-seasons-cabo-del-sol-unveils-casa-del-sol-a-luxury-events-destination-along-cabos-golden-corridor-2",
-        "source": "eHotelier",
-        "source_name": "eHotelier"
       }
     },
     {
@@ -333,14 +333,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9492,
-      "importance": 0.594,
-      "importance_score": 0.9492,
+      "score": 0.9484,
+      "importance": 0.5932,
+      "importance_score": 0.9484,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9701,
+        "recency": 0.9658,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -355,124 +355,6 @@
         "url": "https://www.hoteldive.com/news/ashford-hospitality-trust-sells-hyatt-regency-long-island/827420/",
         "source": "Hotel Dive",
         "source_name": "Hotel Dive"
-      }
-    },
-    {
-      "story_id": "story_9699887c72ea",
-      "title": "中国旅游研究院与中青旅控股股份有限公司开展主题党日联学联",
-      "url": "https://www.ctaweb.org.cn/gongzuodongtai/10519.html",
-      "primary_url": "https://www.ctaweb.org.cn/gongzuodongtai/10519.html",
-      "source": "中国旅游研究院",
-      "source_name": "中国旅游研究院",
-      "sources": [
-        {
-          "id": "hotelitem_9699887c72ea",
-          "title": "中国旅游研究院与中青旅控股股份有限公司开展主题党日联学联",
-          "url": "https://www.ctaweb.org.cn/gongzuodongtai/10519.html",
-          "source": "中国旅游研究院",
-          "source_name": "中国旅游研究院",
-          "site_id": "cta",
-          "published_at": "2026-08-11T22:06:59.921860Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "中国旅游研究院"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_9699887c72ea",
-          "title": "中国旅游研究院与中青旅控股股份有限公司开展主题党日联学联",
-          "url": "https://www.ctaweb.org.cn/gongzuodongtai/10519.html",
-          "source": "中国旅游研究院",
-          "source_name": "中国旅游研究院",
-          "site_id": "cta",
-          "published_at": "2026-08-11T22:06:59.921860Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.948,
-      "importance": 0.6,
-      "importance_score": 0.948,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-11T22:06:59.921860Z",
-      "latest_at": "2026-08-11T22:06:59.921860Z",
-      "primary_item": {
-        "id": "hotelitem_9699887c72ea",
-        "title": "中国旅游研究院与中青旅控股股份有限公司开展主题党日联学联",
-        "url": "https://www.ctaweb.org.cn/gongzuodongtai/10519.html",
-        "source": "中国旅游研究院",
-        "source_name": "中国旅游研究院"
-      }
-    },
-    {
-      "story_id": "story_d174f5a0d74a",
-      "title": "Sofitel Bangkok Sukhumvit reaches new revenue performance heights with IDeaS G3 RMS",
-      "url": "https://insights.ehotelier.com/suppliers/2026/08/10/sofitel-bangkok-sukhumvit-reaches-new-revenue-performance-heights-with-ideas-g3-rms/?utm_source=rss&utm_medium=rss&utm_campaign=sofitel-bangkok-sukhumvit-reaches-new-revenue-performance-heights-with-ideas-g3-rms",
-      "primary_url": "https://insights.ehotelier.com/suppliers/2026/08/10/sofitel-bangkok-sukhumvit-reaches-new-revenue-performance-heights-with-ideas-g3-rms/?utm_source=rss&utm_medium=rss&utm_campaign=sofitel-bangkok-sukhumvit-reaches-new-revenue-performance-heights-with-ideas-g3-rms",
-      "source": "eHotelier",
-      "source_name": "eHotelier",
-      "sources": [
-        {
-          "id": "hotelitem_d174f5a0d74a",
-          "title": "Sofitel Bangkok Sukhumvit reaches new revenue performance heights with IDeaS G3 RMS",
-          "url": "https://insights.ehotelier.com/suppliers/2026/08/10/sofitel-bangkok-sukhumvit-reaches-new-revenue-performance-heights-with-ideas-g3-rms/?utm_source=rss&utm_medium=rss&utm_campaign=sofitel-bangkok-sukhumvit-reaches-new-revenue-performance-heights-with-ideas-g3-rms",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-08-10T00:34:10Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "eHotelier"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_d174f5a0d74a",
-          "title": "Sofitel Bangkok Sukhumvit reaches new revenue performance heights with IDeaS G3 RMS",
-          "url": "https://insights.ehotelier.com/suppliers/2026/08/10/sofitel-bangkok-sukhumvit-reaches-new-revenue-performance-heights-with-ideas-g3-rms/?utm_source=rss&utm_medium=rss&utm_campaign=sofitel-bangkok-sukhumvit-reaches-new-revenue-performance-heights-with-ideas-g3-rms",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-08-10T00:34:10Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.9469,
-      "importance": 0.5916,
-      "importance_score": 0.9469,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9578,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-10T00:34:10Z",
-      "latest_at": "2026-08-10T00:34:10Z",
-      "primary_item": {
-        "id": "hotelitem_d174f5a0d74a",
-        "title": "Sofitel Bangkok Sukhumvit reaches new revenue performance heights with IDeaS G3 RMS",
-        "url": "https://insights.ehotelier.com/suppliers/2026/08/10/sofitel-bangkok-sukhumvit-reaches-new-revenue-performance-heights-with-ideas-g3-rms/?utm_source=rss&utm_medium=rss&utm_campaign=sofitel-bangkok-sukhumvit-reaches-new-revenue-performance-heights-with-ideas-g3-rms",
-        "source": "eHotelier",
-        "source_name": "eHotelier"
       }
     },
     {
@@ -510,14 +392,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9412,
-      "importance": 0.5857,
-      "importance_score": 0.9412,
+      "score": 0.9403,
+      "importance": 0.5848,
+      "importance_score": 0.9403,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9283,
+        "recency": 0.9239,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -532,65 +414,6 @@
         "url": "https://skift.com/2026/08/08/aman-threatened-to-call-the-police-on-a-creator-why-the-whole-industry-should-pay-attention/",
         "source": "Skift Hospitality",
         "source_name": "Skift Hospitality"
-      }
-    },
-    {
-      "story_id": "story_c53a4e4e306b",
-      "title": "15 亿梦碎：只因君亭股价A杀，撑不起国资豪赌？| TD内参",
-      "url": "https://www.traveldaily.cn/article/190452",
-      "primary_url": "https://www.traveldaily.cn/article/190452",
-      "source": "环球旅讯 TravelDaily",
-      "source_name": "环球旅讯 TravelDaily",
-      "sources": [
-        {
-          "id": "hotelitem_c53a4e4e306b",
-          "title": "15 亿梦碎：只因君亭股价A杀，撑不起国资豪赌？| TD内参",
-          "url": "https://www.traveldaily.cn/article/190452",
-          "source": "环球旅讯 TravelDaily",
-          "source_name": "环球旅讯 TravelDaily",
-          "site_id": "traveldaily",
-          "published_at": "2026-07-27T17:03:03Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "环球旅讯 TravelDaily"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_c53a4e4e306b",
-          "title": "15 亿梦碎：只因君亭股价A杀，撑不起国资豪赌？| TD内参",
-          "url": "https://www.traveldaily.cn/article/190452",
-          "source": "环球旅讯 TravelDaily",
-          "source_name": "环球旅讯 TravelDaily",
-          "site_id": "traveldaily",
-          "published_at": "2026-07-27T17:03:03Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.9289,
-      "importance": 0.5324,
-      "importance_score": 0.9289,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.662,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-27T17:03:03Z",
-      "latest_at": "2026-07-27T17:03:03Z",
-      "primary_item": {
-        "id": "hotelitem_c53a4e4e306b",
-        "title": "15 亿梦碎：只因君亭股价A杀，撑不起国资豪赌？| TD内参",
-        "url": "https://www.traveldaily.cn/article/190452",
-        "source": "环球旅讯 TravelDaily",
-        "source_name": "环球旅讯 TravelDaily"
       }
     },
     {
@@ -628,14 +451,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9288,
-      "importance": 0.5728,
-      "importance_score": 0.9288,
+      "score": 0.928,
+      "importance": 0.572,
+      "importance_score": 0.928,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8641,
+        "recency": 0.8598,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -687,14 +510,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9288,
-      "importance": 0.5729,
-      "importance_score": 0.9288,
+      "score": 0.928,
+      "importance": 0.572,
+      "importance_score": 0.928,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8643,
+        "recency": 0.86,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -709,6 +532,65 @@
         "url": "https://www.hoteldive.com/news/booking-holdings-connected-trip-strategy-boosts-loyalty/827187/",
         "source": "Hotel Dive",
         "source_name": "Hotel Dive"
+      }
+    },
+    {
+      "story_id": "story_c53a4e4e306b",
+      "title": "15 亿梦碎：只因君亭股价A杀，撑不起国资豪赌？| TD内参",
+      "url": "https://www.traveldaily.cn/article/190452",
+      "primary_url": "https://www.traveldaily.cn/article/190452",
+      "source": "环球旅讯 TravelDaily",
+      "source_name": "环球旅讯 TravelDaily",
+      "sources": [
+        {
+          "id": "hotelitem_c53a4e4e306b",
+          "title": "15 亿梦碎：只因君亭股价A杀，撑不起国资豪赌？| TD内参",
+          "url": "https://www.traveldaily.cn/article/190452",
+          "source": "环球旅讯 TravelDaily",
+          "source_name": "环球旅讯 TravelDaily",
+          "site_id": "traveldaily",
+          "published_at": "2026-07-27T17:03:03Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "环球旅讯 TravelDaily"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_c53a4e4e306b",
+          "title": "15 亿梦碎：只因君亭股价A杀，撑不起国资豪赌？| TD内参",
+          "url": "https://www.traveldaily.cn/article/190452",
+          "source": "环球旅讯 TravelDaily",
+          "source_name": "环球旅讯 TravelDaily",
+          "site_id": "traveldaily",
+          "published_at": "2026-07-27T17:03:03Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.9277,
+      "importance": 0.5315,
+      "importance_score": 0.9277,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.6577,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-27T17:03:03Z",
+      "latest_at": "2026-07-27T17:03:03Z",
+      "primary_item": {
+        "id": "hotelitem_c53a4e4e306b",
+        "title": "15 亿梦碎：只因君亭股价A杀，撑不起国资豪赌？| TD内参",
+        "url": "https://www.traveldaily.cn/article/190452",
+        "source": "环球旅讯 TravelDaily",
+        "source_name": "环球旅讯 TravelDaily"
       }
     },
     {
@@ -746,14 +628,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9274,
-      "importance": 0.5714,
-      "importance_score": 0.9274,
+      "score": 0.9266,
+      "importance": 0.5705,
+      "importance_score": 0.9266,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8569,
+        "recency": 0.8526,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -805,14 +687,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9168,
-      "importance": 0.5941,
-      "importance_score": 0.9168,
+      "score": 0.9159,
+      "importance": 0.5932,
+      "importance_score": 0.9159,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9703,
+        "recency": 0.9659,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -864,14 +746,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9124,
-      "importance": 0.5714,
-      "importance_score": 0.9124,
+      "score": 0.9116,
+      "importance": 0.5705,
+      "importance_score": 0.9116,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.857,
+        "recency": 0.8527,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -923,14 +805,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9032,
-      "importance": 0.58,
-      "importance_score": 0.9032,
+      "score": 0.9024,
+      "importance": 0.5791,
+      "importance_score": 0.9024,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9,
+        "recency": 0.8957,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -982,14 +864,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8907,
-      "importance": 0.5676,
-      "importance_score": 0.8907,
+      "score": 0.8894,
+      "importance": 0.5668,
+      "importance_score": 0.8894,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8382,
+        "recency": 0.8339,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1007,62 +889,258 @@
       }
     },
     {
-      "story_id": "story_f6ba528ea238",
-      "title": "Trinity Investments sells Grande Lakes Orlando Resort for $1.38B",
-      "url": "https://www.hoteldive.com/news/trinity-investments-sells-grande-lakes-orlando-resort/827509/",
-      "primary_url": "https://www.hoteldive.com/news/trinity-investments-sells-grande-lakes-orlando-resort/827509/",
-      "source": "Hotel Dive",
-      "source_name": "Hotel Dive",
+      "story_id": "story_d2c99fad653a",
+      "title": "6 principles of designing mobile menus that actually convert (not just look pretty)",
+      "url": "https://insights.ehotelier.com/insights/2026/08/12/6-principles-of-designing-mobile-menus-that-actually-convert-not-just-look-pretty/?utm_source=rss&utm_medium=rss&utm_campaign=6-principles-of-designing-mobile-menus-that-actually-convert-not-just-look-pretty",
+      "primary_url": "https://insights.ehotelier.com/insights/2026/08/12/6-principles-of-designing-mobile-menus-that-actually-convert-not-just-look-pretty/?utm_source=rss&utm_medium=rss&utm_campaign=6-principles-of-designing-mobile-menus-that-actually-convert-not-just-look-pretty",
+      "source": "eHotelier",
+      "source_name": "eHotelier",
       "sources": [
         {
-          "id": "hotelitem_f6ba528ea238",
-          "title": "Trinity Investments sells Grande Lakes Orlando Resort for $1.38B",
-          "url": "https://www.hoteldive.com/news/trinity-investments-sells-grande-lakes-orlando-resort/827509/",
-          "source": "Hotel Dive",
-          "source_name": "Hotel Dive",
-          "site_id": "hoteldive",
-          "published_at": "2026-08-10T20:42:21Z"
+          "id": "hotelitem_d2c99fad653a",
+          "title": "6 principles of designing mobile menus that actually convert (not just look pretty)",
+          "url": "https://insights.ehotelier.com/insights/2026/08/12/6-principles-of-designing-mobile-menus-that-actually-convert-not-just-look-pretty/?utm_source=rss&utm_medium=rss&utm_campaign=6-principles-of-designing-mobile-menus-that-actually-convert-not-just-look-pretty",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-08-12T02:05:25Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Hotel Dive"
+        "eHotelier"
       ],
       "items": [
         {
-          "id": "hotelitem_f6ba528ea238",
-          "title": "Trinity Investments sells Grande Lakes Orlando Resort for $1.38B",
-          "url": "https://www.hoteldive.com/news/trinity-investments-sells-grande-lakes-orlando-resort/827509/",
-          "source": "Hotel Dive",
-          "source_name": "Hotel Dive",
-          "site_id": "hoteldive",
-          "published_at": "2026-08-10T20:42:21Z"
+          "id": "hotelitem_d2c99fad653a",
+          "title": "6 principles of designing mobile menus that actually convert (not just look pretty)",
+          "url": "https://insights.ehotelier.com/insights/2026/08/12/6-principles-of-designing-mobile-menus-that-actually-convert-not-just-look-pretty/?utm_source=rss&utm_medium=rss&utm_campaign=6-principles-of-designing-mobile-menus-that-actually-convert-not-just-look-pretty",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-08-12T02:05:25Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8605,
-      "importance": 0.5953,
-      "importance_score": 0.8605,
+      "score": 0.8649,
+      "importance": 0.5999,
+      "importance_score": 0.8649,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9765,
+        "recency": 0.9994,
         "story_heat": 0.0
       },
       "category": "watch",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-10T20:42:21Z",
-      "latest_at": "2026-08-10T20:42:21Z",
+      "earliest_at": "2026-08-12T02:05:25Z",
+      "latest_at": "2026-08-12T02:05:25Z",
       "primary_item": {
-        "id": "hotelitem_f6ba528ea238",
-        "title": "Trinity Investments sells Grande Lakes Orlando Resort for $1.38B",
-        "url": "https://www.hoteldive.com/news/trinity-investments-sells-grande-lakes-orlando-resort/827509/",
-        "source": "Hotel Dive",
-        "source_name": "Hotel Dive"
+        "id": "hotelitem_d2c99fad653a",
+        "title": "6 principles of designing mobile menus that actually convert (not just look pretty)",
+        "url": "https://insights.ehotelier.com/insights/2026/08/12/6-principles-of-designing-mobile-menus-that-actually-convert-not-just-look-pretty/?utm_source=rss&utm_medium=rss&utm_campaign=6-principles-of-designing-mobile-menus-that-actually-convert-not-just-look-pretty",
+        "source": "eHotelier",
+        "source_name": "eHotelier"
+      }
+    },
+    {
+      "story_id": "story_1283805f58ff",
+      "title": "Bunkhouse Hotels launches “Vote Y’all” campaign to encourage voter registration",
+      "url": "https://insights.ehotelier.com/global-news/2026/08/12/bunkhouse-hotels-launches-vote-yall-campaign-to-encourage-voter-registration/?utm_source=rss&utm_medium=rss&utm_campaign=bunkhouse-hotels-launches-vote-yall-campaign-to-encourage-voter-registration",
+      "primary_url": "https://insights.ehotelier.com/global-news/2026/08/12/bunkhouse-hotels-launches-vote-yall-campaign-to-encourage-voter-registration/?utm_source=rss&utm_medium=rss&utm_campaign=bunkhouse-hotels-launches-vote-yall-campaign-to-encourage-voter-registration",
+      "source": "eHotelier",
+      "source_name": "eHotelier",
+      "sources": [
+        {
+          "id": "hotelitem_1283805f58ff",
+          "title": "Bunkhouse Hotels launches “Vote Y’all” campaign to encourage voter registration",
+          "url": "https://insights.ehotelier.com/global-news/2026/08/12/bunkhouse-hotels-launches-vote-yall-campaign-to-encourage-voter-registration/?utm_source=rss&utm_medium=rss&utm_campaign=bunkhouse-hotels-launches-vote-yall-campaign-to-encourage-voter-registration",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-08-12T01:40:18Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "eHotelier"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_1283805f58ff",
+          "title": "Bunkhouse Hotels launches “Vote Y’all” campaign to encourage voter registration",
+          "url": "https://insights.ehotelier.com/global-news/2026/08/12/bunkhouse-hotels-launches-vote-yall-campaign-to-encourage-voter-registration/?utm_source=rss&utm_medium=rss&utm_campaign=bunkhouse-hotels-launches-vote-yall-campaign-to-encourage-voter-registration",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-08-12T01:40:18Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8648,
+      "importance": 0.5998,
+      "importance_score": 0.8648,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.999,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-12T01:40:18Z",
+      "latest_at": "2026-08-12T01:40:18Z",
+      "primary_item": {
+        "id": "hotelitem_1283805f58ff",
+        "title": "Bunkhouse Hotels launches “Vote Y’all” campaign to encourage voter registration",
+        "url": "https://insights.ehotelier.com/global-news/2026/08/12/bunkhouse-hotels-launches-vote-yall-campaign-to-encourage-voter-registration/?utm_source=rss&utm_medium=rss&utm_campaign=bunkhouse-hotels-launches-vote-yall-campaign-to-encourage-voter-registration",
+        "source": "eHotelier",
+        "source_name": "eHotelier"
+      }
+    },
+    {
+      "story_id": "story_f5a0a767f3f9",
+      "title": "Mews secures the first e-money license held by a hospitality operating system in the European Economic Area",
+      "url": "https://insights.ehotelier.com/global-news/2026/08/12/mews-secures-the-first-e-money-license-held-by-a-hospitality-operating-system-in-the-european-economic-area/?utm_source=rss&utm_medium=rss&utm_campaign=mews-secures-the-first-e-money-license-held-by-a-hospitality-operating-system-in-the-european-economic-area",
+      "primary_url": "https://insights.ehotelier.com/global-news/2026/08/12/mews-secures-the-first-e-money-license-held-by-a-hospitality-operating-system-in-the-european-economic-area/?utm_source=rss&utm_medium=rss&utm_campaign=mews-secures-the-first-e-money-license-held-by-a-hospitality-operating-system-in-the-european-economic-area",
+      "source": "eHotelier",
+      "source_name": "eHotelier",
+      "sources": [
+        {
+          "id": "hotelitem_f5a0a767f3f9",
+          "title": "Mews secures the first e-money license held by a hospitality operating system in the European Economic Area",
+          "url": "https://insights.ehotelier.com/global-news/2026/08/12/mews-secures-the-first-e-money-license-held-by-a-hospitality-operating-system-in-the-european-economic-area/?utm_source=rss&utm_medium=rss&utm_campaign=mews-secures-the-first-e-money-license-held-by-a-hospitality-operating-system-in-the-european-economic-area",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-08-12T01:45:59Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "eHotelier"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_f5a0a767f3f9",
+          "title": "Mews secures the first e-money license held by a hospitality operating system in the European Economic Area",
+          "url": "https://insights.ehotelier.com/global-news/2026/08/12/mews-secures-the-first-e-money-license-held-by-a-hospitality-operating-system-in-the-european-economic-area/?utm_source=rss&utm_medium=rss&utm_campaign=mews-secures-the-first-e-money-license-held-by-a-hospitality-operating-system-in-the-european-economic-area",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-08-12T01:45:59Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8648,
+      "importance": 0.5998,
+      "importance_score": 0.8648,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9991,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-12T01:45:59Z",
+      "latest_at": "2026-08-12T01:45:59Z",
+      "primary_item": {
+        "id": "hotelitem_f5a0a767f3f9",
+        "title": "Mews secures the first e-money license held by a hospitality operating system in the European Economic Area",
+        "url": "https://insights.ehotelier.com/global-news/2026/08/12/mews-secures-the-first-e-money-license-held-by-a-hospitality-operating-system-in-the-european-economic-area/?utm_source=rss&utm_medium=rss&utm_campaign=mews-secures-the-first-e-money-license-held-by-a-hospitality-operating-system-in-the-european-economic-area",
+        "source": "eHotelier",
+        "source_name": "eHotelier"
+      }
+    },
+    {
+      "story_id": "story_c7c15b7680c9",
+      "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
+      "url": "https://www.chinahotel.org.cn/articles/17408",
+      "primary_url": "https://www.chinahotel.org.cn/articles/17408",
+      "source": "中国饭店协会",
+      "source_name": "中国饭店协会",
+      "sources": [
+        {
+          "id": "hotelitem_d4370964909c",
+          "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
+          "url": "https://www.chinahotel.org.cn/articles/17408",
+          "source": "中国饭店协会",
+          "source_name": "中国饭店协会",
+          "site_id": "chinahotel",
+          "published_at": "2026-08-12T02:46:44.819742Z"
+        },
+        {
+          "id": "hotelitem_c7c15b7680c9",
+          "title": "绿色饭店 | 2026年第一批国家标准绿色饭店名单公布 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007) 在全国组织开展国家标准绿色饭店的评定工作。现公布2026年第一批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
+          "url": "https://www.chinahotel.org.cn/articles/17689",
+          "source": "中国饭店协会",
+          "source_name": "中国饭店协会",
+          "site_id": "chinahotel",
+          "published_at": "2026-08-12T02:46:44.819742Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "中国饭店协会"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_d4370964909c",
+          "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
+          "url": "https://www.chinahotel.org.cn/articles/17408",
+          "source": "中国饭店协会",
+          "source_name": "中国饭店协会",
+          "site_id": "chinahotel",
+          "published_at": "2026-08-12T02:46:44.819742Z"
+        },
+        {
+          "id": "hotelitem_c7c15b7680c9",
+          "title": "绿色饭店 | 2026年第一批国家标准绿色饭店名单公布 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007) 在全国组织开展国家标准绿色饭店的评定工作。现公布2026年第一批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
+          "url": "https://www.chinahotel.org.cn/articles/17689",
+          "source": "中国饭店协会",
+          "source_name": "中国饭店协会",
+          "site_id": "chinahotel",
+          "published_at": "2026-08-12T02:46:44.819742Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.86,
+      "importance": 0.625,
+      "importance_score": 0.86,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-12T02:46:44.819742Z",
+      "latest_at": "2026-08-12T02:46:44.819742Z",
+      "primary_item": {
+        "id": "hotelitem_d4370964909c",
+        "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
+        "url": "https://www.chinahotel.org.cn/articles/17408",
+        "source": "中国饭店协会",
+        "source_name": "中国饭店协会"
       }
     },
     {
@@ -1100,14 +1178,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8604,
-      "importance": 0.5952,
-      "importance_score": 0.8604,
+      "score": 0.8596,
+      "importance": 0.5944,
+      "importance_score": 0.8596,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9761,
+        "recency": 0.9718,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1125,81 +1203,62 @@
       }
     },
     {
-      "story_id": "story_c7c15b7680c9",
-      "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
-      "url": "https://www.chinahotel.org.cn/articles/17408",
-      "primary_url": "https://www.chinahotel.org.cn/articles/17408",
-      "source": "中国饭店协会",
-      "source_name": "中国饭店协会",
+      "story_id": "story_f6ba528ea238",
+      "title": "Trinity Investments sells Grande Lakes Orlando Resort for $1.38B",
+      "url": "https://www.hoteldive.com/news/trinity-investments-sells-grande-lakes-orlando-resort/827509/",
+      "primary_url": "https://www.hoteldive.com/news/trinity-investments-sells-grande-lakes-orlando-resort/827509/",
+      "source": "Hotel Dive",
+      "source_name": "Hotel Dive",
       "sources": [
         {
-          "id": "hotelitem_d4370964909c",
-          "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
-          "url": "https://www.chinahotel.org.cn/articles/17408",
-          "source": "中国饭店协会",
-          "source_name": "中国饭店协会",
-          "site_id": "chinahotel",
-          "published_at": "2026-08-11T22:06:59.921860Z"
-        },
-        {
-          "id": "hotelitem_c7c15b7680c9",
-          "title": "绿色饭店 | 2026年第一批国家标准绿色饭店名单公布 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007) 在全国组织开展国家标准绿色饭店的评定工作。现公布2026年第一批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
-          "url": "https://www.chinahotel.org.cn/articles/17689",
-          "source": "中国饭店协会",
-          "source_name": "中国饭店协会",
-          "site_id": "chinahotel",
-          "published_at": "2026-08-11T22:06:59.921860Z"
+          "id": "hotelitem_f6ba528ea238",
+          "title": "Trinity Investments sells Grande Lakes Orlando Resort for $1.38B",
+          "url": "https://www.hoteldive.com/news/trinity-investments-sells-grande-lakes-orlando-resort/827509/",
+          "source": "Hotel Dive",
+          "source_name": "Hotel Dive",
+          "site_id": "hoteldive",
+          "published_at": "2026-08-10T20:42:21Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "中国饭店协会"
+        "Hotel Dive"
       ],
       "items": [
         {
-          "id": "hotelitem_d4370964909c",
-          "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
-          "url": "https://www.chinahotel.org.cn/articles/17408",
-          "source": "中国饭店协会",
-          "source_name": "中国饭店协会",
-          "site_id": "chinahotel",
-          "published_at": "2026-08-11T22:06:59.921860Z"
-        },
-        {
-          "id": "hotelitem_c7c15b7680c9",
-          "title": "绿色饭店 | 2026年第一批国家标准绿色饭店名单公布 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007) 在全国组织开展国家标准绿色饭店的评定工作。现公布2026年第一批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
-          "url": "https://www.chinahotel.org.cn/articles/17689",
-          "source": "中国饭店协会",
-          "source_name": "中国饭店协会",
-          "site_id": "chinahotel",
-          "published_at": "2026-08-11T22:06:59.921860Z"
+          "id": "hotelitem_f6ba528ea238",
+          "title": "Trinity Investments sells Grande Lakes Orlando Resort for $1.38B",
+          "url": "https://www.hoteldive.com/news/trinity-investments-sells-grande-lakes-orlando-resort/827509/",
+          "source": "Hotel Dive",
+          "source_name": "Hotel Dive",
+          "site_id": "hoteldive",
+          "published_at": "2026-08-10T20:42:21Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.86,
-      "importance": 0.625,
-      "importance_score": 0.86,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8596,
+      "importance": 0.5944,
+      "importance_score": 0.8596,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
+        "recency": 0.9722,
+        "story_heat": 0.0
       },
       "category": "watch",
       "reasons": [
-        "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-11T22:06:59.921860Z",
-      "latest_at": "2026-08-11T22:06:59.921860Z",
+      "earliest_at": "2026-08-10T20:42:21Z",
+      "latest_at": "2026-08-10T20:42:21Z",
       "primary_item": {
-        "id": "hotelitem_d4370964909c",
-        "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
-        "url": "https://www.chinahotel.org.cn/articles/17408",
-        "source": "中国饭店协会",
-        "source_name": "中国饭店协会"
+        "id": "hotelitem_f6ba528ea238",
+        "title": "Trinity Investments sells Grande Lakes Orlando Resort for $1.38B",
+        "url": "https://www.hoteldive.com/news/trinity-investments-sells-grande-lakes-orlando-resort/827509/",
+        "source": "Hotel Dive",
+        "source_name": "Hotel Dive"
       }
     },
     {
@@ -1237,14 +1296,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8596,
-      "importance": 0.5944,
-      "importance_score": 0.8596,
+      "score": 0.8587,
+      "importance": 0.5935,
+      "importance_score": 0.8587,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9718,
+        "recency": 0.9675,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1296,14 +1355,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8591,
-      "importance": 0.5939,
-      "importance_score": 0.8591,
+      "score": 0.8583,
+      "importance": 0.5931,
+      "importance_score": 0.8583,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9696,
+        "recency": 0.9653,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1335,7 +1394,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-08-11T22:06:59.921860Z"
+          "published_at": "2026-08-12T02:46:44.819742Z"
         }
       ],
       "source_count": 1,
@@ -1350,7 +1409,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-08-11T22:06:59.921860Z"
+          "published_at": "2026-08-12T02:46:44.819742Z"
         }
       ],
       "item_count": 1,
@@ -1369,8 +1428,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-11T22:06:59.921860Z",
-      "latest_at": "2026-08-11T22:06:59.921860Z",
+      "earliest_at": "2026-08-12T02:46:44.819742Z",
+      "latest_at": "2026-08-12T02:46:44.819742Z",
       "primary_item": {
         "id": "hotelitem_e4ce0593c384",
         "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
@@ -1394,7 +1453,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-08-11T22:06:59.921860Z"
+          "published_at": "2026-08-12T02:46:44.819742Z"
         }
       ],
       "source_count": 1,
@@ -1409,7 +1468,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-08-11T22:06:59.921860Z"
+          "published_at": "2026-08-12T02:46:44.819742Z"
         }
       ],
       "item_count": 1,
@@ -1428,8 +1487,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-11T22:06:59.921860Z",
-      "latest_at": "2026-08-11T22:06:59.921860Z",
+      "earliest_at": "2026-08-12T02:46:44.819742Z",
+      "latest_at": "2026-08-12T02:46:44.819742Z",
       "primary_item": {
         "id": "hotelitem_fa34986b4fc0",
         "title": "文化和旅游部、金融监管总局关于警惕借“保...",
@@ -1453,7 +1512,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-08-11T22:06:59.921860Z"
+          "published_at": "2026-08-12T02:46:44.819742Z"
         }
       ],
       "source_count": 1,
@@ -1468,7 +1527,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-08-11T22:06:59.921860Z"
+          "published_at": "2026-08-12T02:46:44.819742Z"
         }
       ],
       "item_count": 1,
@@ -1487,14 +1546,73 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-11T22:06:59.921860Z",
-      "latest_at": "2026-08-11T22:06:59.921860Z",
+      "earliest_at": "2026-08-12T02:46:44.819742Z",
+      "latest_at": "2026-08-12T02:46:44.819742Z",
       "primary_item": {
         "id": "hotelitem_9a958319a874",
         "title": "文化和旅游部印发《旅游强国建设“十五五”...",
         "url": "https://www.mct.gov.cn/whzx/whyw/202607/t20260708_966448.htm",
         "source": "文化和旅游部",
         "source_name": "文化和旅游部"
+      }
+    },
+    {
+      "story_id": "story_8f218475e743",
+      "title": "文化和旅游部发布2026年上半年国内居民出游数据情况",
+      "url": "https://www.ctaweb.org.cn/gongzuodongtai/10523.html",
+      "primary_url": "https://www.ctaweb.org.cn/gongzuodongtai/10523.html",
+      "source": "中国旅游研究院",
+      "source_name": "中国旅游研究院",
+      "sources": [
+        {
+          "id": "hotelitem_8f218475e743",
+          "title": "文化和旅游部发布2026年上半年国内居民出游数据情况",
+          "url": "https://www.ctaweb.org.cn/gongzuodongtai/10523.html",
+          "source": "中国旅游研究院",
+          "source_name": "中国旅游研究院",
+          "site_id": "cta",
+          "published_at": "2026-08-12T02:46:44.819742Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "中国旅游研究院"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_8f218475e743",
+          "title": "文化和旅游部发布2026年上半年国内居民出游数据情况",
+          "url": "https://www.ctaweb.org.cn/gongzuodongtai/10523.html",
+          "source": "中国旅游研究院",
+          "source_name": "中国旅游研究院",
+          "site_id": "cta",
+          "published_at": "2026-08-12T02:46:44.819742Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.858,
+      "importance": 0.6,
+      "importance_score": 0.858,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-12T02:46:44.819742Z",
+      "latest_at": "2026-08-12T02:46:44.819742Z",
+      "primary_item": {
+        "id": "hotelitem_8f218475e743",
+        "title": "文化和旅游部发布2026年上半年国内居民出游数据情况",
+        "url": "https://www.ctaweb.org.cn/gongzuodongtai/10523.html",
+        "source": "中国旅游研究院",
+        "source_name": "中国旅游研究院"
       }
     },
     {
@@ -1532,14 +1650,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8466,
-      "importance": 0.5809,
-      "importance_score": 0.8466,
+      "score": 0.8458,
+      "importance": 0.5801,
+      "importance_score": 0.8458,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9046,
+        "recency": 0.9003,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1591,14 +1709,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8463,
-      "importance": 0.5806,
-      "importance_score": 0.8463,
+      "score": 0.8455,
+      "importance": 0.5797,
+      "importance_score": 0.8455,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.903,
+        "recency": 0.8987,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1650,14 +1768,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8438,
-      "importance": 0.5936,
-      "importance_score": 0.8438,
+      "score": 0.843,
+      "importance": 0.5927,
+      "importance_score": 0.843,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.968,
+        "recency": 0.9637,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1672,124 +1790,6 @@
         "url": "https://boutiquehotelnews.com/news/hotel/lalique-hotel-switzerland/?utm_source=rss&utm_medium=rss&utm_campaign=lalique-hotel-switzerland",
         "source": "Boutique Hotel News",
         "source_name": "Boutique Hotel News"
-      }
-    },
-    {
-      "story_id": "story_39f2c45d6921",
-      "title": "Can Banks Become the New Hotel Tastemakers? Capital One Travel Thinks So",
-      "url": "https://skift.com/2026/08/05/capital-one-travel-luxury-curation-strategy/",
-      "primary_url": "https://skift.com/2026/08/05/capital-one-travel-luxury-curation-strategy/",
-      "source": "Skift Hospitality",
-      "source_name": "Skift Hospitality",
-      "sources": [
-        {
-          "id": "hotelitem_39f2c45d6921",
-          "title": "Can Banks Become the New Hotel Tastemakers? Capital One Travel Thinks So",
-          "url": "https://skift.com/2026/08/05/capital-one-travel-luxury-curation-strategy/",
-          "source": "Skift Hospitality",
-          "source_name": "Skift Hospitality",
-          "site_id": "skift",
-          "published_at": "2026-08-05T13:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Skift Hospitality"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_39f2c45d6921",
-          "title": "Can Banks Become the New Hotel Tastemakers? Capital One Travel Thinks So",
-          "url": "https://skift.com/2026/08/05/capital-one-travel-luxury-curation-strategy/",
-          "source": "Skift Hospitality",
-          "source_name": "Skift Hospitality",
-          "site_id": "skift",
-          "published_at": "2026-08-05T13:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8377,
-      "importance": 0.5716,
-      "importance_score": 0.8377,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.8582,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-05T13:00:00Z",
-      "latest_at": "2026-08-05T13:00:00Z",
-      "primary_item": {
-        "id": "hotelitem_39f2c45d6921",
-        "title": "Can Banks Become the New Hotel Tastemakers? Capital One Travel Thinks So",
-        "url": "https://skift.com/2026/08/05/capital-one-travel-luxury-curation-strategy/",
-        "source": "Skift Hospitality",
-        "source_name": "Skift Hospitality"
-      }
-    },
-    {
-      "story_id": "story_a790eebcc2a0",
-      "title": "Hoshino’s Nara Prison Leans Into the Heritage — a Test Case for Japan’s Historic Buildings",
-      "url": "https://skift.com/2026/08/04/hoshinos-nara-prison-leans-into-the-heritage-a-test-case-for-japans-historic-buildings/",
-      "primary_url": "https://skift.com/2026/08/04/hoshinos-nara-prison-leans-into-the-heritage-a-test-case-for-japans-historic-buildings/",
-      "source": "Skift Hospitality",
-      "source_name": "Skift Hospitality",
-      "sources": [
-        {
-          "id": "hotelitem_a790eebcc2a0",
-          "title": "Hoshino’s Nara Prison Leans Into the Heritage — a Test Case for Japan’s Historic Buildings",
-          "url": "https://skift.com/2026/08/04/hoshinos-nara-prison-leans-into-the-heritage-a-test-case-for-japans-historic-buildings/",
-          "source": "Skift Hospitality",
-          "source_name": "Skift Hospitality",
-          "site_id": "skift",
-          "published_at": "2026-08-04T14:31:26Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Skift Hospitality"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_a790eebcc2a0",
-          "title": "Hoshino’s Nara Prison Leans Into the Heritage — a Test Case for Japan’s Historic Buildings",
-          "url": "https://skift.com/2026/08/04/hoshinos-nara-prison-leans-into-the-heritage-a-test-case-for-japans-historic-buildings/",
-          "source": "Skift Hospitality",
-          "source_name": "Skift Hospitality",
-          "site_id": "skift",
-          "published_at": "2026-08-04T14:31:26Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8329,
-      "importance": 0.5675,
-      "importance_score": 0.8329,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.8374,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-04T14:31:26Z",
-      "latest_at": "2026-08-04T14:31:26Z",
-      "primary_item": {
-        "id": "hotelitem_a790eebcc2a0",
-        "title": "Hoshino’s Nara Prison Leans Into the Heritage — a Test Case for Japan’s Historic Buildings",
-        "url": "https://skift.com/2026/08/04/hoshinos-nara-prison-leans-into-the-heritage-a-test-case-for-japans-historic-buildings/",
-        "source": "Skift Hospitality",
-        "source_name": "Skift Hospitality"
       }
     }
   ]
