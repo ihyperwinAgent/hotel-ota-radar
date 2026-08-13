@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T10:29:17.547258Z",
+  "generated_at": "2026-08-13T13:50:14.741239Z",
   "window_hours": 1080,
   "total_items": 30,
   "items": [
@@ -39,13 +39,13 @@
       "item_count": 1,
       "duplicate_count": 1,
       "score": 1.0,
-      "importance": 0.5947,
+      "importance": 0.5941,
       "importance_score": 1.0,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9736,
+        "recency": 0.9705,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -97,14 +97,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9699,
-      "importance": 0.5688,
-      "importance_score": 0.9699,
+      "score": 0.969,
+      "importance": 0.5682,
+      "importance_score": 0.969,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.844,
+        "recency": 0.8409,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -119,6 +119,65 @@
         "url": "https://ir.yaduo.com/news-releases/news-release-details/atour-lifestyle-holdings-limited-report-second-quarter-2026",
         "source": "亚朵 Atour IR",
         "source_name": "亚朵 Atour IR"
+      }
+    },
+    {
+      "story_id": "story_d5fbe644de51",
+      "title": "Accor’s Fix for Corporate Travel’s Most Tedious Ritual: Rates That Don’t Vanish",
+      "url": "https://skift.com/2026/08/13/accors-fix-for-corporate-travels-most-tedious-ritual-rates-that-dont-vanish/",
+      "primary_url": "https://skift.com/2026/08/13/accors-fix-for-corporate-travels-most-tedious-ritual-rates-that-dont-vanish/",
+      "source": "Skift Hospitality",
+      "source_name": "Skift Hospitality",
+      "sources": [
+        {
+          "id": "hotelitem_d5fbe644de51",
+          "title": "Accor’s Fix for Corporate Travel’s Most Tedious Ritual: Rates That Don’t Vanish",
+          "url": "https://skift.com/2026/08/13/accors-fix-for-corporate-travels-most-tedious-ritual-rates-that-dont-vanish/",
+          "source": "Skift Hospitality",
+          "source_name": "Skift Hospitality",
+          "site_id": "skift",
+          "published_at": "2026-08-13T13:26:44Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Skift Hospitality"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_d5fbe644de51",
+          "title": "Accor’s Fix for Corporate Travel’s Most Tedious Ritual: Rates That Don’t Vanish",
+          "url": "https://skift.com/2026/08/13/accors-fix-for-corporate-travels-most-tedious-ritual-rates-that-dont-vanish/",
+          "source": "Skift Hospitality",
+          "source_name": "Skift Hospitality",
+          "site_id": "skift",
+          "published_at": "2026-08-13T13:26:44Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.9549,
+      "importance": 0.5999,
+      "importance_score": 0.9549,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9996,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-13T13:26:44Z",
+      "latest_at": "2026-08-13T13:26:44Z",
+      "primary_item": {
+        "id": "hotelitem_d5fbe644de51",
+        "title": "Accor’s Fix for Corporate Travel’s Most Tedious Ritual: Rates That Don’t Vanish",
+        "url": "https://skift.com/2026/08/13/accors-fix-for-corporate-travels-most-tedious-ritual-rates-that-dont-vanish/",
+        "source": "Skift Hospitality",
+        "source_name": "Skift Hospitality"
       }
     },
     {
@@ -156,14 +215,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9534,
-      "importance": 0.5983,
-      "importance_score": 0.9534,
+      "score": 0.9528,
+      "importance": 0.5977,
+      "importance_score": 0.9528,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9917,
+        "recency": 0.9886,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -215,14 +274,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9534,
-      "importance": 0.5984,
-      "importance_score": 0.9534,
+      "score": 0.9528,
+      "importance": 0.5978,
+      "importance_score": 0.9528,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9919,
+        "recency": 0.9888,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -274,14 +333,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9481,
-      "importance": 0.5929,
-      "importance_score": 0.9481,
+      "score": 0.9475,
+      "importance": 0.5923,
+      "importance_score": 0.9475,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9644,
+        "recency": 0.9613,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -333,14 +392,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9469,
-      "importance": 0.5916,
-      "importance_score": 0.9469,
+      "score": 0.9463,
+      "importance": 0.591,
+      "importance_score": 0.9463,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.958,
+        "recency": 0.9549,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -392,14 +451,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9427,
-      "importance": 0.5873,
-      "importance_score": 0.9427,
+      "score": 0.9421,
+      "importance": 0.5867,
+      "importance_score": 0.9421,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9364,
+        "recency": 0.9333,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -451,14 +510,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9347,
-      "importance": 0.5789,
-      "importance_score": 0.9347,
+      "score": 0.9341,
+      "importance": 0.5783,
+      "importance_score": 0.9341,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8946,
+        "recency": 0.8915,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -510,14 +569,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9288,
-      "importance": 0.5987,
-      "importance_score": 0.9288,
+      "score": 0.9282,
+      "importance": 0.5981,
+      "importance_score": 0.9282,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9936,
+        "recency": 0.9905,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -569,14 +628,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9286,
-      "importance": 0.5986,
-      "importance_score": 0.9286,
+      "score": 0.928,
+      "importance": 0.5979,
+      "importance_score": 0.928,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9928,
+        "recency": 0.9897,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -628,14 +687,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9209,
-      "importance": 0.5661,
-      "importance_score": 0.9209,
+      "score": 0.92,
+      "importance": 0.5655,
+      "importance_score": 0.92,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8304,
+        "recency": 0.8273,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -687,14 +746,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9103,
-      "importance": 0.5873,
-      "importance_score": 0.9103,
+      "score": 0.9097,
+      "importance": 0.5867,
+      "importance_score": 0.9097,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9366,
+        "recency": 0.9335,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -746,14 +805,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8967,
-      "importance": 0.5733,
-      "importance_score": 0.8967,
+      "score": 0.8961,
+      "importance": 0.5726,
+      "importance_score": 0.8961,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8663,
+        "recency": 0.8632,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -805,14 +864,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8808,
-      "importance": 0.5609,
-      "importance_score": 0.8808,
+      "score": 0.8799,
+      "importance": 0.5603,
+      "importance_score": 0.8799,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8045,
+        "recency": 0.8014,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -864,14 +923,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8635,
-      "importance": 0.5984,
-      "importance_score": 0.8635,
+      "score": 0.8629,
+      "importance": 0.5978,
+      "importance_score": 0.8629,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.992,
+        "recency": 0.9889,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -923,14 +982,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8635,
-      "importance": 0.5984,
-      "importance_score": 0.8635,
+      "score": 0.8629,
+      "importance": 0.5978,
+      "importance_score": 0.8629,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9921,
+        "recency": 0.989,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -982,14 +1041,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8634,
-      "importance": 0.5984,
-      "importance_score": 0.8634,
+      "score": 0.8628,
+      "importance": 0.5977,
+      "importance_score": 0.8628,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9918,
+        "recency": 0.9887,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1041,14 +1100,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8634,
-      "importance": 0.5984,
-      "importance_score": 0.8634,
+      "score": 0.8628,
+      "importance": 0.5977,
+      "importance_score": 0.8628,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9918,
+        "recency": 0.9887,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1100,14 +1159,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8619,
-      "importance": 0.5968,
-      "importance_score": 0.8619,
+      "score": 0.8613,
+      "importance": 0.5962,
+      "importance_score": 0.8613,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9839,
+        "recency": 0.9808,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1159,14 +1218,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8612,
-      "importance": 0.5961,
-      "importance_score": 0.8612,
+      "score": 0.8606,
+      "importance": 0.5954,
+      "importance_score": 0.8606,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9803,
+        "recency": 0.9772,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1218,14 +1277,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8611,
-      "importance": 0.596,
-      "importance_score": 0.8611,
+      "score": 0.8605,
+      "importance": 0.5953,
+      "importance_score": 0.8605,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9798,
+        "recency": 0.9767,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1257,7 +1316,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-08-13T10:29:17.547258Z"
+          "published_at": "2026-08-13T13:50:14.741239Z"
         },
         {
           "id": "hotelitem_c7c15b7680c9",
@@ -1266,7 +1325,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-08-13T10:29:17.547258Z"
+          "published_at": "2026-08-13T13:50:14.741239Z"
         }
       ],
       "source_count": 2,
@@ -1281,7 +1340,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-08-13T10:29:17.547258Z"
+          "published_at": "2026-08-13T13:50:14.741239Z"
         },
         {
           "id": "hotelitem_c7c15b7680c9",
@@ -1290,7 +1349,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-08-13T10:29:17.547258Z"
+          "published_at": "2026-08-13T13:50:14.741239Z"
         }
       ],
       "item_count": 2,
@@ -1310,8 +1369,8 @@
         "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-13T10:29:17.547258Z",
-      "latest_at": "2026-08-13T10:29:17.547258Z",
+      "earliest_at": "2026-08-13T13:50:14.741239Z",
+      "latest_at": "2026-08-13T13:50:14.741239Z",
       "primary_item": {
         "id": "hotelitem_d4370964909c",
         "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
@@ -1355,14 +1414,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8592,
-      "importance": 0.594,
-      "importance_score": 0.8592,
+      "score": 0.8586,
+      "importance": 0.5934,
+      "importance_score": 0.8586,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.97,
+        "recency": 0.9669,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1394,7 +1453,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-08-13T10:29:17.547258Z"
+          "published_at": "2026-08-13T13:50:14.741239Z"
         }
       ],
       "source_count": 1,
@@ -1409,7 +1468,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-08-13T10:29:17.547258Z"
+          "published_at": "2026-08-13T13:50:14.741239Z"
         }
       ],
       "item_count": 1,
@@ -1428,8 +1487,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-13T10:29:17.547258Z",
-      "latest_at": "2026-08-13T10:29:17.547258Z",
+      "earliest_at": "2026-08-13T13:50:14.741239Z",
+      "latest_at": "2026-08-13T13:50:14.741239Z",
       "primary_item": {
         "id": "hotelitem_e4ce0593c384",
         "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
@@ -1453,7 +1512,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-08-13T10:29:17.547258Z"
+          "published_at": "2026-08-13T13:50:14.741239Z"
         }
       ],
       "source_count": 1,
@@ -1468,7 +1527,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-08-13T10:29:17.547258Z"
+          "published_at": "2026-08-13T13:50:14.741239Z"
         }
       ],
       "item_count": 1,
@@ -1487,8 +1546,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-13T10:29:17.547258Z",
-      "latest_at": "2026-08-13T10:29:17.547258Z",
+      "earliest_at": "2026-08-13T13:50:14.741239Z",
+      "latest_at": "2026-08-13T13:50:14.741239Z",
       "primary_item": {
         "id": "hotelitem_fa34986b4fc0",
         "title": "文化和旅游部、金融监管总局关于警惕借“保...",
@@ -1512,7 +1571,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-08-13T10:29:17.547258Z"
+          "published_at": "2026-08-13T13:50:14.741239Z"
         }
       ],
       "source_count": 1,
@@ -1527,7 +1586,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-08-13T10:29:17.547258Z"
+          "published_at": "2026-08-13T13:50:14.741239Z"
         }
       ],
       "item_count": 1,
@@ -1546,8 +1605,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-13T10:29:17.547258Z",
-      "latest_at": "2026-08-13T10:29:17.547258Z",
+      "earliest_at": "2026-08-13T13:50:14.741239Z",
+      "latest_at": "2026-08-13T13:50:14.741239Z",
       "primary_item": {
         "id": "hotelitem_9a958319a874",
         "title": "文化和旅游部印发《旅游强国建设“十五五”...",
@@ -1571,7 +1630,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-08-13T10:29:17.547258Z"
+          "published_at": "2026-08-13T13:50:14.741239Z"
         }
       ],
       "source_count": 1,
@@ -1586,7 +1645,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-08-13T10:29:17.547258Z"
+          "published_at": "2026-08-13T13:50:14.741239Z"
         }
       ],
       "item_count": 1,
@@ -1605,8 +1664,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-13T10:29:17.547258Z",
-      "latest_at": "2026-08-13T10:29:17.547258Z",
+      "earliest_at": "2026-08-13T13:50:14.741239Z",
+      "latest_at": "2026-08-13T13:50:14.741239Z",
       "primary_item": {
         "id": "hotelitem_8f218475e743",
         "title": "文化和旅游部发布2026年上半年国内居民出游数据情况",
@@ -1650,14 +1709,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.854,
-      "importance": 0.5886,
-      "importance_score": 0.854,
+      "score": 0.8534,
+      "importance": 0.5879,
+      "importance_score": 0.8534,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9428,
+        "recency": 0.9397,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1709,14 +1768,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8539,
-      "importance": 0.5885,
-      "importance_score": 0.8539,
+      "score": 0.8533,
+      "importance": 0.5879,
+      "importance_score": 0.8533,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9424,
+        "recency": 0.9393,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1731,65 +1790,6 @@
         "url": "https://www.hoteldive.com/news/gencom-new-organizational-structure-leadership-appointments/827505/",
         "source": "Hotel Dive",
         "source_name": "Hotel Dive"
-      }
-    },
-    {
-      "story_id": "story_99e09e9a93de",
-      "title": "Reduce energy costs without compromising comfort",
-      "url": "https://www.hotelmanagement.net/resource/reduce-energy-costs-without-compromising-comfort",
-      "primary_url": "https://www.hotelmanagement.net/resource/reduce-energy-costs-without-compromising-comfort",
-      "source": "Hotel Management",
-      "source_name": "Hotel Management",
-      "sources": [
-        {
-          "id": "hotelitem_99e09e9a93de",
-          "title": "Reduce energy costs without compromising comfort",
-          "url": "https://www.hotelmanagement.net/resource/reduce-energy-costs-without-compromising-comfort",
-          "source": "Hotel Management",
-          "source_name": "Hotel Management",
-          "site_id": "hotelmgmt",
-          "published_at": "2026-08-10T15:41:58Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hotel Management"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_99e09e9a93de",
-          "title": "Reduce energy costs without compromising comfort",
-          "url": "https://www.hotelmanagement.net/resource/reduce-energy-costs-without-compromising-comfort",
-          "source": "Hotel Management",
-          "source_name": "Hotel Management",
-          "site_id": "hotelmgmt",
-          "published_at": "2026-08-10T15:41:58Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8531,
-      "importance": 0.5876,
-      "importance_score": 0.8531,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9382,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-10T15:41:58Z",
-      "latest_at": "2026-08-10T15:41:58Z",
-      "primary_item": {
-        "id": "hotelitem_99e09e9a93de",
-        "title": "Reduce energy costs without compromising comfort",
-        "url": "https://www.hotelmanagement.net/resource/reduce-energy-costs-without-compromising-comfort",
-        "source": "Hotel Management",
-        "source_name": "Hotel Management"
       }
     }
   ]
