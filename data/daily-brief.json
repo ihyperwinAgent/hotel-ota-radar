@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T10:18:16.041427Z",
+  "generated_at": "2026-08-14T13:45:50.280585Z",
   "window_hours": 1080,
   "total_items": 30,
   "items": [
@@ -39,13 +39,13 @@
       "item_count": 1,
       "duplicate_count": 1,
       "score": 1.0,
-      "importance": 0.5903,
+      "importance": 0.5897,
       "importance_score": 1.0,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9516,
+        "recency": 0.9484,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -97,14 +97,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9634,
-      "importance": 0.5644,
-      "importance_score": 0.9634,
+      "score": 0.9625,
+      "importance": 0.5637,
+      "importance_score": 0.9625,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8219,
+        "recency": 0.8187,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -119,6 +119,65 @@
         "url": "https://ir.yaduo.com/news-releases/news-release-details/atour-lifestyle-holdings-limited-report-second-quarter-2026",
         "source": "亚朵 Atour IR",
         "source_name": "亚朵 Atour IR"
+      }
+    },
+    {
+      "story_id": "story_102d1740fd9f",
+      "title": "Lodging Lowdown: Radisson Hotel Group launches B2B extended stay program, Extended Stay America leader to retire",
+      "url": "https://www.hoteldive.com/news/lodging-lowdown-radisson-hotel-group-launches-b2b-extended-stay-program/827897/",
+      "primary_url": "https://www.hoteldive.com/news/lodging-lowdown-radisson-hotel-group-launches-b2b-extended-stay-program/827897/",
+      "source": "Hotel Dive",
+      "source_name": "Hotel Dive",
+      "sources": [
+        {
+          "id": "hotelitem_102d1740fd9f",
+          "title": "Lodging Lowdown: Radisson Hotel Group launches B2B extended stay program, Extended Stay America leader to retire",
+          "url": "https://www.hoteldive.com/news/lodging-lowdown-radisson-hotel-group-launches-b2b-extended-stay-program/827897/",
+          "source": "Hotel Dive",
+          "source_name": "Hotel Dive",
+          "site_id": "hoteldive",
+          "published_at": "2026-08-14T13:36:07Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hotel Dive"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_102d1740fd9f",
+          "title": "Lodging Lowdown: Radisson Hotel Group launches B2B extended stay program, Extended Stay America leader to retire",
+          "url": "https://www.hoteldive.com/news/lodging-lowdown-radisson-hotel-group-launches-b2b-extended-stay-program/827897/",
+          "source": "Hotel Dive",
+          "source_name": "Hotel Dive",
+          "site_id": "hoteldive",
+          "published_at": "2026-08-14T13:36:07Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.955,
+      "importance": 0.6,
+      "importance_score": 0.955,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9998,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-14T13:36:07Z",
+      "latest_at": "2026-08-14T13:36:07Z",
+      "primary_item": {
+        "id": "hotelitem_102d1740fd9f",
+        "title": "Lodging Lowdown: Radisson Hotel Group launches B2B extended stay program, Extended Stay America leader to retire",
+        "url": "https://www.hoteldive.com/news/lodging-lowdown-radisson-hotel-group-launches-b2b-extended-stay-program/827897/",
+        "source": "Hotel Dive",
+        "source_name": "Hotel Dive"
       }
     },
     {
@@ -156,14 +215,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9535,
-      "importance": 0.5984,
-      "importance_score": 0.9535,
+      "score": 0.9529,
+      "importance": 0.5978,
+      "importance_score": 0.9529,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9922,
+        "recency": 0.989,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -215,14 +274,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9523,
-      "importance": 0.5973,
-      "importance_score": 0.9523,
+      "score": 0.9517,
+      "importance": 0.5966,
+      "importance_score": 0.9517,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9863,
+        "recency": 0.983,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -274,14 +333,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9513,
-      "importance": 0.5961,
-      "importance_score": 0.9513,
+      "score": 0.9507,
+      "importance": 0.5955,
+      "importance_score": 0.9507,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9807,
+        "recency": 0.9775,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -333,14 +392,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9439,
-      "importance": 0.5885,
-      "importance_score": 0.9439,
+      "score": 0.9433,
+      "importance": 0.5878,
+      "importance_score": 0.9433,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9424,
+        "recency": 0.9392,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -392,14 +451,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9427,
-      "importance": 0.5872,
-      "importance_score": 0.9427,
+      "score": 0.942,
+      "importance": 0.5866,
+      "importance_score": 0.942,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.936,
+        "recency": 0.9328,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -412,65 +471,6 @@
         "id": "hotelitem_de46cf1ee0ab",
         "title": "Choice Hotels opens 2 Cambria properties, furthering upscale strategy",
         "url": "https://www.hoteldive.com/news/choice-hotels-opens-upscale-cambria-properties/827500/",
-        "source": "Hotel Dive",
-        "source_name": "Hotel Dive"
-      }
-    },
-    {
-      "story_id": "story_4957a6a2a561",
-      "title": "Ashford Hospitality Trust sells Hyatt Regency Long Island for $26.5M",
-      "url": "https://www.hoteldive.com/news/ashford-hospitality-trust-sells-hyatt-regency-long-island/827420/",
-      "primary_url": "https://www.hoteldive.com/news/ashford-hospitality-trust-sells-hyatt-regency-long-island/827420/",
-      "source": "Hotel Dive",
-      "source_name": "Hotel Dive",
-      "sources": [
-        {
-          "id": "hotelitem_4957a6a2a561",
-          "title": "Ashford Hospitality Trust sells Hyatt Regency Long Island for $26.5M",
-          "url": "https://www.hoteldive.com/news/ashford-hospitality-trust-sells-hyatt-regency-long-island/827420/",
-          "source": "Hotel Dive",
-          "source_name": "Hotel Dive",
-          "site_id": "hoteldive",
-          "published_at": "2026-08-10T13:47:33Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hotel Dive"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_4957a6a2a561",
-          "title": "Ashford Hospitality Trust sells Hyatt Regency Long Island for $26.5M",
-          "url": "https://www.hoteldive.com/news/ashford-hospitality-trust-sells-hyatt-regency-long-island/827420/",
-          "source": "Hotel Dive",
-          "source_name": "Hotel Dive",
-          "site_id": "hoteldive",
-          "published_at": "2026-08-10T13:47:33Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.9385,
-      "importance": 0.5829,
-      "importance_score": 0.9385,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9143,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-10T13:47:33Z",
-      "latest_at": "2026-08-10T13:47:33Z",
-      "primary_item": {
-        "id": "hotelitem_4957a6a2a561",
-        "title": "Ashford Hospitality Trust sells Hyatt Regency Long Island for $26.5M",
-        "url": "https://www.hoteldive.com/news/ashford-hospitality-trust-sells-hyatt-regency-long-island/827420/",
         "source": "Hotel Dive",
         "source_name": "Hotel Dive"
       }
@@ -510,14 +510,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9304,
-      "importance": 0.5745,
-      "importance_score": 0.9304,
+      "score": 0.9298,
+      "importance": 0.5739,
+      "importance_score": 0.9298,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8725,
+        "recency": 0.8693,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -569,14 +569,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9292,
-      "importance": 0.5992,
-      "importance_score": 0.9292,
+      "score": 0.9286,
+      "importance": 0.5986,
+      "importance_score": 0.9286,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.996,
+        "recency": 0.9928,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -594,298 +594,62 @@
       }
     },
     {
-      "story_id": "story_6be315936092",
-      "title": "出租率105%、ADR超400元，宜尚酒店广州北京路店领跑羊城",
-      "url": "https://www.traveldaily.cn/article/190538",
-      "primary_url": "https://www.traveldaily.cn/article/190538",
-      "source": "环球旅讯 TravelDaily",
-      "source_name": "环球旅讯 TravelDaily",
+      "story_id": "story_380fbcf47713",
+      "title": "How Net Unit Growth Ate the Hotel Industry",
+      "url": "https://skift.com/2026/08/14/how-net-unit-growth-ate-the-hotel-industry/",
+      "primary_url": "https://skift.com/2026/08/14/how-net-unit-growth-ate-the-hotel-industry/",
+      "source": "Skift Hospitality",
+      "source_name": "Skift Hospitality",
       "sources": [
         {
-          "id": "hotelitem_6be315936092",
-          "title": "出租率105%、ADR超400元，宜尚酒店广州北京路店领跑羊城",
-          "url": "https://www.traveldaily.cn/article/190538",
-          "source": "环球旅讯 TravelDaily",
-          "source_name": "环球旅讯 TravelDaily",
-          "site_id": "traveldaily",
-          "published_at": "2026-08-14T14:04:45Z"
+          "id": "hotelitem_380fbcf47713",
+          "title": "How Net Unit Growth Ate the Hotel Industry",
+          "url": "https://skift.com/2026/08/14/how-net-unit-growth-ate-the-hotel-industry/",
+          "source": "Skift Hospitality",
+          "source_name": "Skift Hospitality",
+          "site_id": "skift",
+          "published_at": "2026-08-14T13:08:13Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "环球旅讯 TravelDaily"
+        "Skift Hospitality"
       ],
       "items": [
         {
-          "id": "hotelitem_6be315936092",
-          "title": "出租率105%、ADR超400元，宜尚酒店广州北京路店领跑羊城",
-          "url": "https://www.traveldaily.cn/article/190538",
-          "source": "环球旅讯 TravelDaily",
-          "source_name": "环球旅讯 TravelDaily",
-          "site_id": "traveldaily",
-          "published_at": "2026-08-14T14:04:45Z"
+          "id": "hotelitem_380fbcf47713",
+          "title": "How Net Unit Growth Ate the Hotel Industry",
+          "url": "https://skift.com/2026/08/14/how-net-unit-growth-ate-the-hotel-industry/",
+          "source": "Skift Hospitality",
+          "source_name": "Skift Hospitality",
+          "site_id": "skift",
+          "published_at": "2026-08-14T13:08:13Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9225,
-      "importance": 0.6,
-      "importance_score": 0.9225,
+      "score": 0.8649,
+      "importance": 0.5999,
+      "importance_score": 0.8649,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9994,
         "story_heat": 0.0
       },
       "category": "watch",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-14T14:04:45Z",
-      "latest_at": "2026-08-14T14:04:45Z",
+      "earliest_at": "2026-08-14T13:08:13Z",
+      "latest_at": "2026-08-14T13:08:13Z",
       "primary_item": {
-        "id": "hotelitem_6be315936092",
-        "title": "出租率105%、ADR超400元，宜尚酒店广州北京路店领跑羊城",
-        "url": "https://www.traveldaily.cn/article/190538",
-        "source": "环球旅讯 TravelDaily",
-        "source_name": "环球旅讯 TravelDaily"
-      }
-    },
-    {
-      "story_id": "story_5880465c7c12",
-      "title": "复星锐正领投近亿元融资，玩点旅行要补上旅游AI的“最后一公里”",
-      "url": "https://www.traveldaily.cn/article/190513",
-      "primary_url": "https://www.traveldaily.cn/article/190513",
-      "source": "环球旅讯 TravelDaily",
-      "source_name": "环球旅讯 TravelDaily",
-      "sources": [
-        {
-          "id": "hotelitem_5880465c7c12",
-          "title": "复星锐正领投近亿元融资，玩点旅行要补上旅游AI的“最后一公里”",
-          "url": "https://www.traveldaily.cn/article/190513",
-          "source": "环球旅讯 TravelDaily",
-          "source_name": "环球旅讯 TravelDaily",
-          "site_id": "traveldaily",
-          "published_at": "2026-08-10T14:00:04Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "环球旅讯 TravelDaily"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_5880465c7c12",
-          "title": "复星锐正领投近亿元融资，玩点旅行要补上旅游AI的“最后一公里”",
-          "url": "https://www.traveldaily.cn/article/190513",
-          "source": "环球旅讯 TravelDaily",
-          "source_name": "环球旅讯 TravelDaily",
-          "site_id": "traveldaily",
-          "published_at": "2026-08-10T14:00:04Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.906,
-      "importance": 0.5829,
-      "importance_score": 0.906,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9145,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-10T14:00:04Z",
-      "latest_at": "2026-08-10T14:00:04Z",
-      "primary_item": {
-        "id": "hotelitem_5880465c7c12",
-        "title": "复星锐正领投近亿元融资，玩点旅行要补上旅游AI的“最后一公里”",
-        "url": "https://www.traveldaily.cn/article/190513",
-        "source": "环球旅讯 TravelDaily",
-        "source_name": "环球旅讯 TravelDaily"
-      }
-    },
-    {
-      "story_id": "story_dc8997783628",
-      "title": "投融资动态 | 7月下半月，旅游业这10笔交易值得关注",
-      "url": "https://www.traveldaily.cn/article/190506",
-      "primary_url": "https://www.traveldaily.cn/article/190506",
-      "source": "环球旅讯 TravelDaily",
-      "source_name": "环球旅讯 TravelDaily",
-      "sources": [
-        {
-          "id": "hotelitem_dc8997783628",
-          "title": "投融资动态 | 7月下半月，旅游业这10笔交易值得关注",
-          "url": "https://www.traveldaily.cn/article/190506",
-          "source": "环球旅讯 TravelDaily",
-          "source_name": "环球旅讯 TravelDaily",
-          "site_id": "traveldaily",
-          "published_at": "2026-08-07T10:06:23Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "环球旅讯 TravelDaily"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_dc8997783628",
-          "title": "投融资动态 | 7月下半月，旅游业这10笔交易值得关注",
-          "url": "https://www.traveldaily.cn/article/190506",
-          "source": "环球旅讯 TravelDaily",
-          "source_name": "环球旅讯 TravelDaily",
-          "site_id": "traveldaily",
-          "published_at": "2026-08-07T10:06:23Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8924,
-      "importance": 0.5689,
-      "importance_score": 0.8924,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.8443,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-07T10:06:23Z",
-      "latest_at": "2026-08-07T10:06:23Z",
-      "primary_item": {
-        "id": "hotelitem_dc8997783628",
-        "title": "投融资动态 | 7月下半月，旅游业这10笔交易值得关注",
-        "url": "https://www.traveldaily.cn/article/190506",
-        "source": "环球旅讯 TravelDaily",
-        "source_name": "环球旅讯 TravelDaily"
-      }
-    },
-    {
-      "story_id": "story_090f9b250e36",
-      "title": "营收创新高，新航为何仍陷入季度亏损？",
-      "url": "https://www.traveldaily.cn/article/190489",
-      "primary_url": "https://www.traveldaily.cn/article/190489",
-      "source": "环球旅讯 TravelDaily",
-      "source_name": "环球旅讯 TravelDaily",
-      "sources": [
-        {
-          "id": "hotelitem_090f9b250e36",
-          "title": "营收创新高，新航为何仍陷入季度亏损？",
-          "url": "https://www.traveldaily.cn/article/190489",
-          "source": "环球旅讯 TravelDaily",
-          "source_name": "环球旅讯 TravelDaily",
-          "site_id": "traveldaily",
-          "published_at": "2026-08-04T15:23:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "环球旅讯 TravelDaily"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_090f9b250e36",
-          "title": "营收创新高，新航为何仍陷入季度亏损？",
-          "url": "https://www.traveldaily.cn/article/190489",
-          "source": "环球旅讯 TravelDaily",
-          "source_name": "环球旅讯 TravelDaily",
-          "site_id": "traveldaily",
-          "published_at": "2026-08-04T15:23:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8743,
-      "importance": 0.5565,
-      "importance_score": 0.8743,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.7825,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-04T15:23:00Z",
-      "latest_at": "2026-08-04T15:23:00Z",
-      "primary_item": {
-        "id": "hotelitem_090f9b250e36",
-        "title": "营收创新高，新航为何仍陷入季度亏损？",
-        "url": "https://www.traveldaily.cn/article/190489",
-        "source": "环球旅讯 TravelDaily",
-        "source_name": "环球旅讯 TravelDaily"
-      }
-    },
-    {
-      "story_id": "story_a8b24d5543ff",
-      "title": "Mondrian Mexico City Condesa earns Green Key Certification for its environmental and sustainability practices",
-      "url": "https://insights.ehotelier.com/global-news/2026/08/14/mondrian-mexico-city-condesa-earns-green-key-certification-for-its-environmental-and-sustainability-practices/?utm_source=rss&utm_medium=rss&utm_campaign=mondrian-mexico-city-condesa-earns-green-key-certification-for-its-environmental-and-sustainability-practices",
-      "primary_url": "https://insights.ehotelier.com/global-news/2026/08/14/mondrian-mexico-city-condesa-earns-green-key-certification-for-its-environmental-and-sustainability-practices/?utm_source=rss&utm_medium=rss&utm_campaign=mondrian-mexico-city-condesa-earns-green-key-certification-for-its-environmental-and-sustainability-practices",
-      "source": "eHotelier",
-      "source_name": "eHotelier",
-      "sources": [
-        {
-          "id": "hotelitem_a8b24d5543ff",
-          "title": "Mondrian Mexico City Condesa earns Green Key Certification for its environmental and sustainability practices",
-          "url": "https://insights.ehotelier.com/global-news/2026/08/14/mondrian-mexico-city-condesa-earns-green-key-certification-for-its-environmental-and-sustainability-practices/?utm_source=rss&utm_medium=rss&utm_campaign=mondrian-mexico-city-condesa-earns-green-key-certification-for-its-environmental-and-sustainability-practices",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-08-14T01:40:39Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "eHotelier"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_a8b24d5543ff",
-          "title": "Mondrian Mexico City Condesa earns Green Key Certification for its environmental and sustainability practices",
-          "url": "https://insights.ehotelier.com/global-news/2026/08/14/mondrian-mexico-city-condesa-earns-green-key-certification-for-its-environmental-and-sustainability-practices/?utm_source=rss&utm_medium=rss&utm_campaign=mondrian-mexico-city-condesa-earns-green-key-certification-for-its-environmental-and-sustainability-practices",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-08-14T01:40:39Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8635,
-      "importance": 0.5984,
-      "importance_score": 0.8635,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.992,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-14T01:40:39Z",
-      "latest_at": "2026-08-14T01:40:39Z",
-      "primary_item": {
-        "id": "hotelitem_a8b24d5543ff",
-        "title": "Mondrian Mexico City Condesa earns Green Key Certification for its environmental and sustainability practices",
-        "url": "https://insights.ehotelier.com/global-news/2026/08/14/mondrian-mexico-city-condesa-earns-green-key-certification-for-its-environmental-and-sustainability-practices/?utm_source=rss&utm_medium=rss&utm_campaign=mondrian-mexico-city-condesa-earns-green-key-certification-for-its-environmental-and-sustainability-practices",
-        "source": "eHotelier",
-        "source_name": "eHotelier"
+        "id": "hotelitem_380fbcf47713",
+        "title": "How Net Unit Growth Ate the Hotel Industry",
+        "url": "https://skift.com/2026/08/14/how-net-unit-growth-ate-the-hotel-industry/",
+        "source": "Skift Hospitality",
+        "source_name": "Skift Hospitality"
       }
     },
     {
@@ -923,14 +687,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8635,
-      "importance": 0.5984,
-      "importance_score": 0.8635,
+      "score": 0.8629,
+      "importance": 0.5978,
+      "importance_score": 0.8629,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9922,
+        "recency": 0.989,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -982,14 +746,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8634,
-      "importance": 0.5983,
-      "importance_score": 0.8634,
+      "score": 0.8628,
+      "importance": 0.5977,
+      "importance_score": 0.8628,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9917,
+        "recency": 0.9885,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1002,6 +766,65 @@
         "id": "hotelitem_04a5ffaedaf4",
         "title": "Broadwick Soho in London’s West End joins Small Luxury Hotels of the World’s Finest Collection",
         "url": "https://insights.ehotelier.com/properties/2026/08/14/broadwick-soho-in-londons-west-end-joins-small-luxury-hotels-of-the-worlds-finest-collection/?utm_source=rss&utm_medium=rss&utm_campaign=broadwick-soho-in-londons-west-end-joins-small-luxury-hotels-of-the-worlds-finest-collection",
+        "source": "eHotelier",
+        "source_name": "eHotelier"
+      }
+    },
+    {
+      "story_id": "story_a8b24d5543ff",
+      "title": "Mondrian Mexico City Condesa earns Green Key Certification for its environmental and sustainability practices",
+      "url": "https://insights.ehotelier.com/global-news/2026/08/14/mondrian-mexico-city-condesa-earns-green-key-certification-for-its-environmental-and-sustainability-practices/?utm_source=rss&utm_medium=rss&utm_campaign=mondrian-mexico-city-condesa-earns-green-key-certification-for-its-environmental-and-sustainability-practices",
+      "primary_url": "https://insights.ehotelier.com/global-news/2026/08/14/mondrian-mexico-city-condesa-earns-green-key-certification-for-its-environmental-and-sustainability-practices/?utm_source=rss&utm_medium=rss&utm_campaign=mondrian-mexico-city-condesa-earns-green-key-certification-for-its-environmental-and-sustainability-practices",
+      "source": "eHotelier",
+      "source_name": "eHotelier",
+      "sources": [
+        {
+          "id": "hotelitem_a8b24d5543ff",
+          "title": "Mondrian Mexico City Condesa earns Green Key Certification for its environmental and sustainability practices",
+          "url": "https://insights.ehotelier.com/global-news/2026/08/14/mondrian-mexico-city-condesa-earns-green-key-certification-for-its-environmental-and-sustainability-practices/?utm_source=rss&utm_medium=rss&utm_campaign=mondrian-mexico-city-condesa-earns-green-key-certification-for-its-environmental-and-sustainability-practices",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-08-14T01:40:39Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "eHotelier"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_a8b24d5543ff",
+          "title": "Mondrian Mexico City Condesa earns Green Key Certification for its environmental and sustainability practices",
+          "url": "https://insights.ehotelier.com/global-news/2026/08/14/mondrian-mexico-city-condesa-earns-green-key-certification-for-its-environmental-and-sustainability-practices/?utm_source=rss&utm_medium=rss&utm_campaign=mondrian-mexico-city-condesa-earns-green-key-certification-for-its-environmental-and-sustainability-practices",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-08-14T01:40:39Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8628,
+      "importance": 0.5978,
+      "importance_score": 0.8628,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9888,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-14T01:40:39Z",
+      "latest_at": "2026-08-14T01:40:39Z",
+      "primary_item": {
+        "id": "hotelitem_a8b24d5543ff",
+        "title": "Mondrian Mexico City Condesa earns Green Key Certification for its environmental and sustainability practices",
+        "url": "https://insights.ehotelier.com/global-news/2026/08/14/mondrian-mexico-city-condesa-earns-green-key-certification-for-its-environmental-and-sustainability-practices/?utm_source=rss&utm_medium=rss&utm_campaign=mondrian-mexico-city-condesa-earns-green-key-certification-for-its-environmental-and-sustainability-practices",
         "source": "eHotelier",
         "source_name": "eHotelier"
       }
@@ -1021,7 +844,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-08-14T10:18:16.041427Z"
+          "published_at": "2026-08-14T13:45:50.280585Z"
         },
         {
           "id": "hotelitem_c7c15b7680c9",
@@ -1030,7 +853,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-08-14T10:18:16.041427Z"
+          "published_at": "2026-08-14T13:45:50.280585Z"
         }
       ],
       "source_count": 2,
@@ -1045,7 +868,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-08-14T10:18:16.041427Z"
+          "published_at": "2026-08-14T13:45:50.280585Z"
         },
         {
           "id": "hotelitem_c7c15b7680c9",
@@ -1054,7 +877,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-08-14T10:18:16.041427Z"
+          "published_at": "2026-08-14T13:45:50.280585Z"
         }
       ],
       "item_count": 2,
@@ -1074,8 +897,8 @@
         "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-14T10:18:16.041427Z",
-      "latest_at": "2026-08-14T10:18:16.041427Z",
+      "earliest_at": "2026-08-14T13:45:50.280585Z",
+      "latest_at": "2026-08-14T13:45:50.280585Z",
       "primary_item": {
         "id": "hotelitem_d4370964909c",
         "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
@@ -1119,14 +942,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8592,
-      "importance": 0.594,
-      "importance_score": 0.8592,
+      "score": 0.8586,
+      "importance": 0.5934,
+      "importance_score": 0.8586,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9701,
+        "recency": 0.9669,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1158,7 +981,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-08-14T10:18:16.041427Z"
+          "published_at": "2026-08-14T13:45:50.280585Z"
         }
       ],
       "source_count": 1,
@@ -1173,7 +996,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-08-14T10:18:16.041427Z"
+          "published_at": "2026-08-14T13:45:50.280585Z"
         }
       ],
       "item_count": 1,
@@ -1192,8 +1015,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-14T10:18:16.041427Z",
-      "latest_at": "2026-08-14T10:18:16.041427Z",
+      "earliest_at": "2026-08-14T13:45:50.280585Z",
+      "latest_at": "2026-08-14T13:45:50.280585Z",
       "primary_item": {
         "id": "hotelitem_e4ce0593c384",
         "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
@@ -1217,7 +1040,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-08-14T10:18:16.041427Z"
+          "published_at": "2026-08-14T13:45:50.280585Z"
         }
       ],
       "source_count": 1,
@@ -1232,7 +1055,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-08-14T10:18:16.041427Z"
+          "published_at": "2026-08-14T13:45:50.280585Z"
         }
       ],
       "item_count": 1,
@@ -1251,8 +1074,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-14T10:18:16.041427Z",
-      "latest_at": "2026-08-14T10:18:16.041427Z",
+      "earliest_at": "2026-08-14T13:45:50.280585Z",
+      "latest_at": "2026-08-14T13:45:50.280585Z",
       "primary_item": {
         "id": "hotelitem_fa34986b4fc0",
         "title": "文化和旅游部、金融监管总局关于警惕借“保...",
@@ -1276,7 +1099,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-08-14T10:18:16.041427Z"
+          "published_at": "2026-08-14T13:45:50.280585Z"
         }
       ],
       "source_count": 1,
@@ -1291,7 +1114,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-08-14T10:18:16.041427Z"
+          "published_at": "2026-08-14T13:45:50.280585Z"
         }
       ],
       "item_count": 1,
@@ -1310,8 +1133,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-14T10:18:16.041427Z",
-      "latest_at": "2026-08-14T10:18:16.041427Z",
+      "earliest_at": "2026-08-14T13:45:50.280585Z",
+      "latest_at": "2026-08-14T13:45:50.280585Z",
       "primary_item": {
         "id": "hotelitem_9a958319a874",
         "title": "文化和旅游部印发《旅游强国建设“十五五”...",
@@ -1335,7 +1158,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-08-14T10:18:16.041427Z"
+          "published_at": "2026-08-14T13:45:50.280585Z"
         }
       ],
       "source_count": 1,
@@ -1350,7 +1173,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-08-14T10:18:16.041427Z"
+          "published_at": "2026-08-14T13:45:50.280585Z"
         }
       ],
       "item_count": 1,
@@ -1369,8 +1192,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-14T10:18:16.041427Z",
-      "latest_at": "2026-08-14T10:18:16.041427Z",
+      "earliest_at": "2026-08-14T13:45:50.280585Z",
+      "latest_at": "2026-08-14T13:45:50.280585Z",
       "primary_item": {
         "id": "hotelitem_8f218475e743",
         "title": "文化和旅游部发布2026年上半年国内居民出游数据情况",
@@ -1414,14 +1237,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8576,
-      "importance": 0.5924,
-      "importance_score": 0.8576,
+      "score": 0.857,
+      "importance": 0.5917,
+      "importance_score": 0.857,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9618,
+        "recency": 0.9586,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1473,14 +1296,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.857,
-      "importance": 0.5917,
-      "importance_score": 0.857,
+      "score": 0.8563,
+      "importance": 0.591,
+      "importance_score": 0.8563,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9583,
+        "recency": 0.9551,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1532,14 +1355,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8569,
-      "importance": 0.5916,
-      "importance_score": 0.8569,
+      "score": 0.8562,
+      "importance": 0.5909,
+      "importance_score": 0.8562,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9578,
+        "recency": 0.9546,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1591,14 +1414,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8497,
-      "importance": 0.5841,
-      "importance_score": 0.8497,
+      "score": 0.8491,
+      "importance": 0.5835,
+      "importance_score": 0.8491,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9207,
+        "recency": 0.9175,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1650,14 +1473,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8496,
-      "importance": 0.5841,
-      "importance_score": 0.8496,
+      "score": 0.849,
+      "importance": 0.5834,
+      "importance_score": 0.849,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9204,
+        "recency": 0.9172,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1709,14 +1532,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8488,
-      "importance": 0.5832,
-      "importance_score": 0.8488,
+      "score": 0.8482,
+      "importance": 0.5826,
+      "importance_score": 0.8482,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9161,
+        "recency": 0.9129,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1768,14 +1591,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8466,
-      "importance": 0.5965,
-      "importance_score": 0.8466,
+      "score": 0.846,
+      "importance": 0.5959,
+      "importance_score": 0.846,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9826,
+        "recency": 0.9794,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1790,6 +1613,183 @@
         "url": "https://boutiquehotelnews.com/news/industry/stafford-london-winding-up/?utm_source=rss&utm_medium=rss&utm_campaign=stafford-london-winding-up",
         "source": "Boutique Hotel News",
         "source_name": "Boutique Hotel News"
+      }
+    },
+    {
+      "story_id": "story_abde9c93a6b6",
+      "title": "Rhodium appoints Daudin-Clavaud as chief development and strategy officer",
+      "url": "https://boutiquehotelnews.com/news/movers-and-shakers/rhodium-daudin-clavaud/?utm_source=rss&utm_medium=rss&utm_campaign=rhodium-daudin-clavaud",
+      "primary_url": "https://boutiquehotelnews.com/news/movers-and-shakers/rhodium-daudin-clavaud/?utm_source=rss&utm_medium=rss&utm_campaign=rhodium-daudin-clavaud",
+      "source": "Boutique Hotel News",
+      "source_name": "Boutique Hotel News",
+      "sources": [
+        {
+          "id": "hotelitem_abde9c93a6b6",
+          "title": "Rhodium appoints Daudin-Clavaud as chief development and strategy officer",
+          "url": "https://boutiquehotelnews.com/news/movers-and-shakers/rhodium-daudin-clavaud/?utm_source=rss&utm_medium=rss&utm_campaign=rhodium-daudin-clavaud",
+          "source": "Boutique Hotel News",
+          "source_name": "Boutique Hotel News",
+          "site_id": "boutiquehotel",
+          "published_at": "2026-08-12T15:35:24Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Boutique Hotel News"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_abde9c93a6b6",
+          "title": "Rhodium appoints Daudin-Clavaud as chief development and strategy officer",
+          "url": "https://boutiquehotelnews.com/news/movers-and-shakers/rhodium-daudin-clavaud/?utm_source=rss&utm_medium=rss&utm_campaign=rhodium-daudin-clavaud",
+          "source": "Boutique Hotel News",
+          "source_name": "Boutique Hotel News",
+          "site_id": "boutiquehotel",
+          "published_at": "2026-08-12T15:35:24Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8418,
+      "importance": 0.5914,
+      "importance_score": 0.8418,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9572,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-12T15:35:24Z",
+      "latest_at": "2026-08-12T15:35:24Z",
+      "primary_item": {
+        "id": "hotelitem_abde9c93a6b6",
+        "title": "Rhodium appoints Daudin-Clavaud as chief development and strategy officer",
+        "url": "https://boutiquehotelnews.com/news/movers-and-shakers/rhodium-daudin-clavaud/?utm_source=rss&utm_medium=rss&utm_campaign=rhodium-daudin-clavaud",
+        "source": "Boutique Hotel News",
+        "source_name": "Boutique Hotel News"
+      }
+    },
+    {
+      "story_id": "story_67ebf4d00c7f",
+      "title": "The Standard London appoints general manager",
+      "url": "https://boutiquehotelnews.com/news/movers-and-shakers/standard-london-general-manager/?utm_source=rss&utm_medium=rss&utm_campaign=standard-london-general-manager",
+      "primary_url": "https://boutiquehotelnews.com/news/movers-and-shakers/standard-london-general-manager/?utm_source=rss&utm_medium=rss&utm_campaign=standard-london-general-manager",
+      "source": "Boutique Hotel News",
+      "source_name": "Boutique Hotel News",
+      "sources": [
+        {
+          "id": "hotelitem_67ebf4d00c7f",
+          "title": "The Standard London appoints general manager",
+          "url": "https://boutiquehotelnews.com/news/movers-and-shakers/standard-london-general-manager/?utm_source=rss&utm_medium=rss&utm_campaign=standard-london-general-manager",
+          "source": "Boutique Hotel News",
+          "source_name": "Boutique Hotel News",
+          "site_id": "boutiquehotel",
+          "published_at": "2026-08-12T08:23:22Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Boutique Hotel News"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_67ebf4d00c7f",
+          "title": "The Standard London appoints general manager",
+          "url": "https://boutiquehotelnews.com/news/movers-and-shakers/standard-london-general-manager/?utm_source=rss&utm_medium=rss&utm_campaign=standard-london-general-manager",
+          "source": "Boutique Hotel News",
+          "source_name": "Boutique Hotel News",
+          "site_id": "boutiquehotel",
+          "published_at": "2026-08-12T08:23:22Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8405,
+      "importance": 0.5901,
+      "importance_score": 0.8405,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9506,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-12T08:23:22Z",
+      "latest_at": "2026-08-12T08:23:22Z",
+      "primary_item": {
+        "id": "hotelitem_67ebf4d00c7f",
+        "title": "The Standard London appoints general manager",
+        "url": "https://boutiquehotelnews.com/news/movers-and-shakers/standard-london-general-manager/?utm_source=rss&utm_medium=rss&utm_campaign=standard-london-general-manager",
+        "source": "Boutique Hotel News",
+        "source_name": "Boutique Hotel News"
+      }
+    },
+    {
+      "story_id": "story_407e8c1bb078",
+      "title": "Energy Efficiency Rebates from A to Z: How to Save More with Verdant Thermostats",
+      "url": "https://www.hotelmanagement.net/resource/energy-efficiency-rebates-z-how-save-more-verdant-thermostats",
+      "primary_url": "https://www.hotelmanagement.net/resource/energy-efficiency-rebates-z-how-save-more-verdant-thermostats",
+      "source": "Hotel Management",
+      "source_name": "Hotel Management",
+      "sources": [
+        {
+          "id": "hotelitem_407e8c1bb078",
+          "title": "Energy Efficiency Rebates from A to Z: How to Save More with Verdant Thermostats",
+          "url": "https://www.hotelmanagement.net/resource/energy-efficiency-rebates-z-how-save-more-verdant-thermostats",
+          "source": "Hotel Management",
+          "source_name": "Hotel Management",
+          "site_id": "hotelmgmt",
+          "published_at": "2026-08-07T15:04:58Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hotel Management"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_407e8c1bb078",
+          "title": "Energy Efficiency Rebates from A to Z: How to Save More with Verdant Thermostats",
+          "url": "https://www.hotelmanagement.net/resource/energy-efficiency-rebates-z-how-save-more-verdant-thermostats",
+          "source": "Hotel Management",
+          "source_name": "Hotel Management",
+          "site_id": "hotelmgmt",
+          "published_at": "2026-08-07T15:04:58Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8352,
+      "importance": 0.5691,
+      "importance_score": 0.8352,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.8457,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-07T15:04:58Z",
+      "latest_at": "2026-08-07T15:04:58Z",
+      "primary_item": {
+        "id": "hotelitem_407e8c1bb078",
+        "title": "Energy Efficiency Rebates from A to Z: How to Save More with Verdant Thermostats",
+        "url": "https://www.hotelmanagement.net/resource/energy-efficiency-rebates-z-how-save-more-verdant-thermostats",
+        "source": "Hotel Management",
+        "source_name": "Hotel Management"
       }
     }
   ]
