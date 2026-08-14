@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T22:04:55.943598Z",
+  "generated_at": "2026-08-14T02:48:13.053353Z",
   "window_hours": 1080,
   "total_stories": 30,
   "stories": [
@@ -39,13 +39,13 @@
       "item_count": 1,
       "duplicate_count": 1,
       "score": 1.0,
-      "importance": 0.5926,
+      "importance": 0.5917,
       "importance_score": 1.0,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9629,
+        "recency": 0.9585,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -97,14 +97,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9667,
-      "importance": 0.5667,
-      "importance_score": 0.9667,
+      "score": 0.9654,
+      "importance": 0.5658,
+      "importance_score": 0.9654,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8333,
+        "recency": 0.8289,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -119,6 +119,65 @@
         "url": "https://ir.yaduo.com/news-releases/news-release-details/atour-lifestyle-holdings-limited-report-second-quarter-2026",
         "source": "亚朵 Atour IR",
         "source_name": "亚朵 Atour IR"
+      }
+    },
+    {
+      "story_id": "story_e937910048a9",
+      "title": "Reimagining the end-to-end guest experience: Trevo & SABA Hospitality solutions at Grand Prince Hotel Osaka Bay",
+      "url": "https://insights.ehotelier.com/suppliers/2026/08/14/reimagining-the-end-to-end-guest-experience-trevo-saba-hospitality-solutions-at-grand-prince-hotel-osaka-bay/?utm_source=rss&utm_medium=rss&utm_campaign=reimagining-the-end-to-end-guest-experience-trevo-saba-hospitality-solutions-at-grand-prince-hotel-osaka-bay",
+      "primary_url": "https://insights.ehotelier.com/suppliers/2026/08/14/reimagining-the-end-to-end-guest-experience-trevo-saba-hospitality-solutions-at-grand-prince-hotel-osaka-bay/?utm_source=rss&utm_medium=rss&utm_campaign=reimagining-the-end-to-end-guest-experience-trevo-saba-hospitality-solutions-at-grand-prince-hotel-osaka-bay",
+      "source": "eHotelier",
+      "source_name": "eHotelier",
+      "sources": [
+        {
+          "id": "hotelitem_e937910048a9",
+          "title": "Reimagining the end-to-end guest experience: Trevo & SABA Hospitality solutions at Grand Prince Hotel Osaka Bay",
+          "url": "https://insights.ehotelier.com/suppliers/2026/08/14/reimagining-the-end-to-end-guest-experience-trevo-saba-hospitality-solutions-at-grand-prince-hotel-osaka-bay/?utm_source=rss&utm_medium=rss&utm_campaign=reimagining-the-end-to-end-guest-experience-trevo-saba-hospitality-solutions-at-grand-prince-hotel-osaka-bay",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-08-14T01:50:43Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "eHotelier"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_e937910048a9",
+          "title": "Reimagining the end-to-end guest experience: Trevo & SABA Hospitality solutions at Grand Prince Hotel Osaka Bay",
+          "url": "https://insights.ehotelier.com/suppliers/2026/08/14/reimagining-the-end-to-end-guest-experience-trevo-saba-hospitality-solutions-at-grand-prince-hotel-osaka-bay/?utm_source=rss&utm_medium=rss&utm_campaign=reimagining-the-end-to-end-guest-experience-trevo-saba-hospitality-solutions-at-grand-prince-hotel-osaka-bay",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-08-14T01:50:43Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.9548,
+      "importance": 0.5998,
+      "importance_score": 0.9548,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9991,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-14T01:50:43Z",
+      "latest_at": "2026-08-14T01:50:43Z",
+      "primary_item": {
+        "id": "hotelitem_e937910048a9",
+        "title": "Reimagining the end-to-end guest experience: Trevo & SABA Hospitality solutions at Grand Prince Hotel Osaka Bay",
+        "url": "https://insights.ehotelier.com/suppliers/2026/08/14/reimagining-the-end-to-end-guest-experience-trevo-saba-hospitality-solutions-at-grand-prince-hotel-osaka-bay/?utm_source=rss&utm_medium=rss&utm_campaign=reimagining-the-end-to-end-guest-experience-trevo-saba-hospitality-solutions-at-grand-prince-hotel-osaka-bay",
+        "source": "eHotelier",
+        "source_name": "eHotelier"
       }
     },
     {
@@ -156,14 +215,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9545,
-      "importance": 0.5995,
-      "importance_score": 0.9545,
+      "score": 0.9537,
+      "importance": 0.5986,
+      "importance_score": 0.9537,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9976,
+        "recency": 0.9932,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -215,14 +274,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9535,
-      "importance": 0.5984,
-      "importance_score": 0.9535,
+      "score": 0.9526,
+      "importance": 0.5975,
+      "importance_score": 0.9526,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.992,
+        "recency": 0.9876,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -237,124 +296,6 @@
         "url": "https://skift.com/2026/08/13/accors-fix-for-corporate-travels-most-tedious-ritual-rates-that-dont-vanish/",
         "source": "Skift Hospitality",
         "source_name": "Skift Hospitality"
-      }
-    },
-    {
-      "story_id": "story_a6cb51ec14c2",
-      "title": "Choice Hotels International celebrates National Waffle Day with the Ultimate Route 66 Comfort® Stop",
-      "url": "https://insights.ehotelier.com/global-news/2026/08/13/choice-hotels-international-celebrates-national-waffle-day-with-the-ultimate-route-66-comfort-stop/?utm_source=rss&utm_medium=rss&utm_campaign=choice-hotels-international-celebrates-national-waffle-day-with-the-ultimate-route-66-comfort-stop",
-      "primary_url": "https://insights.ehotelier.com/global-news/2026/08/13/choice-hotels-international-celebrates-national-waffle-day-with-the-ultimate-route-66-comfort-stop/?utm_source=rss&utm_medium=rss&utm_campaign=choice-hotels-international-celebrates-national-waffle-day-with-the-ultimate-route-66-comfort-stop",
-      "source": "eHotelier",
-      "source_name": "eHotelier",
-      "sources": [
-        {
-          "id": "hotelitem_a6cb51ec14c2",
-          "title": "Choice Hotels International celebrates National Waffle Day with the Ultimate Route 66 Comfort® Stop",
-          "url": "https://insights.ehotelier.com/global-news/2026/08/13/choice-hotels-international-celebrates-national-waffle-day-with-the-ultimate-route-66-comfort-stop/?utm_source=rss&utm_medium=rss&utm_campaign=choice-hotels-international-celebrates-national-waffle-day-with-the-ultimate-route-66-comfort-stop",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-08-13T01:45:01Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "eHotelier"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_a6cb51ec14c2",
-          "title": "Choice Hotels International celebrates National Waffle Day with the Ultimate Route 66 Comfort® Stop",
-          "url": "https://insights.ehotelier.com/global-news/2026/08/13/choice-hotels-international-celebrates-national-waffle-day-with-the-ultimate-route-66-comfort-stop/?utm_source=rss&utm_medium=rss&utm_campaign=choice-hotels-international-celebrates-national-waffle-day-with-the-ultimate-route-66-comfort-stop",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-08-13T01:45:01Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.9514,
-      "importance": 0.5962,
-      "importance_score": 0.9514,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9812,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-13T01:45:01Z",
-      "latest_at": "2026-08-13T01:45:01Z",
-      "primary_item": {
-        "id": "hotelitem_a6cb51ec14c2",
-        "title": "Choice Hotels International celebrates National Waffle Day with the Ultimate Route 66 Comfort® Stop",
-        "url": "https://insights.ehotelier.com/global-news/2026/08/13/choice-hotels-international-celebrates-national-waffle-day-with-the-ultimate-route-66-comfort-stop/?utm_source=rss&utm_medium=rss&utm_campaign=choice-hotels-international-celebrates-national-waffle-day-with-the-ultimate-route-66-comfort-stop",
-        "source": "eHotelier",
-        "source_name": "eHotelier"
-      }
-    },
-    {
-      "story_id": "story_95eb48e91dac",
-      "title": "Mark Williams announces Retirement at Extended Stay America",
-      "url": "https://insights.ehotelier.com/people/2026/08/13/mark-williams-announces-retirement-at-extended-stay-america/?utm_source=rss&utm_medium=rss&utm_campaign=mark-williams-announces-retirement-at-extended-stay-america",
-      "primary_url": "https://insights.ehotelier.com/people/2026/08/13/mark-williams-announces-retirement-at-extended-stay-america/?utm_source=rss&utm_medium=rss&utm_campaign=mark-williams-announces-retirement-at-extended-stay-america",
-      "source": "eHotelier",
-      "source_name": "eHotelier",
-      "sources": [
-        {
-          "id": "hotelitem_95eb48e91dac",
-          "title": "Mark Williams announces Retirement at Extended Stay America",
-          "url": "https://insights.ehotelier.com/people/2026/08/13/mark-williams-announces-retirement-at-extended-stay-america/?utm_source=rss&utm_medium=rss&utm_campaign=mark-williams-announces-retirement-at-extended-stay-america",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-08-13T01:30:57Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "eHotelier"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_95eb48e91dac",
-          "title": "Mark Williams announces Retirement at Extended Stay America",
-          "url": "https://insights.ehotelier.com/people/2026/08/13/mark-williams-announces-retirement-at-extended-stay-america/?utm_source=rss&utm_medium=rss&utm_campaign=mark-williams-announces-retirement-at-extended-stay-america",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-08-13T01:30:57Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.9513,
-      "importance": 0.5962,
-      "importance_score": 0.9513,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.981,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-13T01:30:57Z",
-      "latest_at": "2026-08-13T01:30:57Z",
-      "primary_item": {
-        "id": "hotelitem_95eb48e91dac",
-        "title": "Mark Williams announces Retirement at Extended Stay America",
-        "url": "https://insights.ehotelier.com/people/2026/08/13/mark-williams-announces-retirement-at-extended-stay-america/?utm_source=rss&utm_medium=rss&utm_campaign=mark-williams-announces-retirement-at-extended-stay-america",
-        "source": "eHotelier",
-        "source_name": "eHotelier"
       }
     },
     {
@@ -392,14 +333,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9461,
-      "importance": 0.5907,
-      "importance_score": 0.9461,
+      "score": 0.9452,
+      "importance": 0.5899,
+      "importance_score": 0.9452,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9537,
+        "recency": 0.9493,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -451,14 +392,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9448,
-      "importance": 0.5895,
-      "importance_score": 0.9448,
+      "score": 0.944,
+      "importance": 0.5886,
+      "importance_score": 0.944,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9473,
+        "recency": 0.9429,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -510,14 +451,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9407,
-      "importance": 0.5851,
-      "importance_score": 0.9407,
+      "score": 0.9398,
+      "importance": 0.5843,
+      "importance_score": 0.9398,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9257,
+        "recency": 0.9213,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -569,14 +510,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9326,
-      "importance": 0.5768,
-      "importance_score": 0.9326,
+      "score": 0.9318,
+      "importance": 0.5759,
+      "importance_score": 0.9318,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8839,
+        "recency": 0.8795,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -628,14 +569,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9267,
-      "importance": 0.5966,
-      "importance_score": 0.9267,
+      "score": 0.9259,
+      "importance": 0.5957,
+      "importance_score": 0.9259,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9829,
+        "recency": 0.9785,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -653,257 +594,21 @@
       }
     },
     {
-      "story_id": "story_4ccc4358145f",
-      "title": "大韩航空与韩亚航空合并协议获批",
-      "url": "https://www.pinchain.com/article/349898",
-      "primary_url": "https://www.pinchain.com/article/349898",
-      "source": "品橙旅游",
-      "source_name": "品橙旅游",
-      "sources": [
-        {
-          "id": "hotelitem_4ccc4358145f",
-          "title": "大韩航空与韩亚航空合并协议获批",
-          "url": "https://www.pinchain.com/article/349898",
-          "source": "品橙旅游",
-          "source_name": "品橙旅游",
-          "site_id": "pinchain",
-          "published_at": "2026-08-13T02:42:17Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "品橙旅游"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_4ccc4358145f",
-          "title": "大韩航空与韩亚航空合并协议获批",
-          "url": "https://www.pinchain.com/article/349898",
-          "source": "品橙旅游",
-          "source_name": "品橙旅游",
-          "site_id": "pinchain",
-          "published_at": "2026-08-13T02:42:17Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.9265,
-      "importance": 0.5964,
-      "importance_score": 0.9265,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9821,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-13T02:42:17Z",
-      "latest_at": "2026-08-13T02:42:17Z",
-      "primary_item": {
-        "id": "hotelitem_4ccc4358145f",
-        "title": "大韩航空与韩亚航空合并协议获批",
-        "url": "https://www.pinchain.com/article/349898",
-        "source": "品橙旅游",
-        "source_name": "品橙旅游"
-      }
-    },
-    {
-      "story_id": "story_5880465c7c12",
-      "title": "复星锐正领投近亿元融资，玩点旅行要补上旅游AI的“最后一公里”",
-      "url": "https://www.traveldaily.cn/article/190513",
-      "primary_url": "https://www.traveldaily.cn/article/190513",
-      "source": "环球旅讯 TravelDaily",
-      "source_name": "环球旅讯 TravelDaily",
-      "sources": [
-        {
-          "id": "hotelitem_5880465c7c12",
-          "title": "复星锐正领投近亿元融资，玩点旅行要补上旅游AI的“最后一公里”",
-          "url": "https://www.traveldaily.cn/article/190513",
-          "source": "环球旅讯 TravelDaily",
-          "source_name": "环球旅讯 TravelDaily",
-          "site_id": "traveldaily",
-          "published_at": "2026-08-10T14:00:04Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "环球旅讯 TravelDaily"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_5880465c7c12",
-          "title": "复星锐正领投近亿元融资，玩点旅行要补上旅游AI的“最后一公里”",
-          "url": "https://www.traveldaily.cn/article/190513",
-          "source": "环球旅讯 TravelDaily",
-          "source_name": "环球旅讯 TravelDaily",
-          "site_id": "traveldaily",
-          "published_at": "2026-08-10T14:00:04Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.9082,
-      "importance": 0.5852,
-      "importance_score": 0.9082,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9259,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-10T14:00:04Z",
-      "latest_at": "2026-08-10T14:00:04Z",
-      "primary_item": {
-        "id": "hotelitem_5880465c7c12",
-        "title": "复星锐正领投近亿元融资，玩点旅行要补上旅游AI的“最后一公里”",
-        "url": "https://www.traveldaily.cn/article/190513",
-        "source": "环球旅讯 TravelDaily",
-        "source_name": "环球旅讯 TravelDaily"
-      }
-    },
-    {
-      "story_id": "story_dc8997783628",
-      "title": "投融资动态 | 7月下半月，旅游业这10笔交易值得关注",
-      "url": "https://www.traveldaily.cn/article/190506",
-      "primary_url": "https://www.traveldaily.cn/article/190506",
-      "source": "环球旅讯 TravelDaily",
-      "source_name": "环球旅讯 TravelDaily",
-      "sources": [
-        {
-          "id": "hotelitem_dc8997783628",
-          "title": "投融资动态 | 7月下半月，旅游业这10笔交易值得关注",
-          "url": "https://www.traveldaily.cn/article/190506",
-          "source": "环球旅讯 TravelDaily",
-          "source_name": "环球旅讯 TravelDaily",
-          "site_id": "traveldaily",
-          "published_at": "2026-08-07T10:06:23Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "环球旅讯 TravelDaily"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_dc8997783628",
-          "title": "投融资动态 | 7月下半月，旅游业这10笔交易值得关注",
-          "url": "https://www.traveldaily.cn/article/190506",
-          "source": "环球旅讯 TravelDaily",
-          "source_name": "环球旅讯 TravelDaily",
-          "site_id": "traveldaily",
-          "published_at": "2026-08-07T10:06:23Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8946,
-      "importance": 0.5711,
-      "importance_score": 0.8946,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.8556,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-07T10:06:23Z",
-      "latest_at": "2026-08-07T10:06:23Z",
-      "primary_item": {
-        "id": "hotelitem_dc8997783628",
-        "title": "投融资动态 | 7月下半月，旅游业这10笔交易值得关注",
-        "url": "https://www.traveldaily.cn/article/190506",
-        "source": "环球旅讯 TravelDaily",
-        "source_name": "环球旅讯 TravelDaily"
-      }
-    },
-    {
-      "story_id": "story_090f9b250e36",
-      "title": "营收创新高，新航为何仍陷入季度亏损？",
-      "url": "https://www.traveldaily.cn/article/190489",
-      "primary_url": "https://www.traveldaily.cn/article/190489",
-      "source": "环球旅讯 TravelDaily",
-      "source_name": "环球旅讯 TravelDaily",
-      "sources": [
-        {
-          "id": "hotelitem_090f9b250e36",
-          "title": "营收创新高，新航为何仍陷入季度亏损？",
-          "url": "https://www.traveldaily.cn/article/190489",
-          "source": "环球旅讯 TravelDaily",
-          "source_name": "环球旅讯 TravelDaily",
-          "site_id": "traveldaily",
-          "published_at": "2026-08-04T15:23:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "环球旅讯 TravelDaily"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_090f9b250e36",
-          "title": "营收创新高，新航为何仍陷入季度亏损？",
-          "url": "https://www.traveldaily.cn/article/190489",
-          "source": "环球旅讯 TravelDaily",
-          "source_name": "环球旅讯 TravelDaily",
-          "site_id": "traveldaily",
-          "published_at": "2026-08-04T15:23:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8776,
-      "importance": 0.5588,
-      "importance_score": 0.8776,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.7938,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-04T15:23:00Z",
-      "latest_at": "2026-08-04T15:23:00Z",
-      "primary_item": {
-        "id": "hotelitem_090f9b250e36",
-        "title": "营收创新高，新航为何仍陷入季度亏损？",
-        "url": "https://www.traveldaily.cn/article/190489",
-        "source": "环球旅讯 TravelDaily",
-        "source_name": "环球旅讯 TravelDaily"
-      }
-    },
-    {
-      "story_id": "story_271b752051c0",
-      "title": "Hotel Advisors Global launches to steer owners and investors through industry’s most challenging era in almost two decades",
-      "url": "https://insights.ehotelier.com/uncategorised/2026/08/13/hotel-advisors-global-launches-to-steer-owners-and-investors-through-industrys-most-challenging-era-in-almost-two-decades/?utm_source=rss&utm_medium=rss&utm_campaign=hotel-advisors-global-launches-to-steer-owners-and-investors-through-industrys-most-challenging-era-in-almost-two-decades",
-      "primary_url": "https://insights.ehotelier.com/uncategorised/2026/08/13/hotel-advisors-global-launches-to-steer-owners-and-investors-through-industrys-most-challenging-era-in-almost-two-decades/?utm_source=rss&utm_medium=rss&utm_campaign=hotel-advisors-global-launches-to-steer-owners-and-investors-through-industrys-most-challenging-era-in-almost-two-decades",
+      "story_id": "story_a8b24d5543ff",
+      "title": "Mondrian Mexico City Condesa earns Green Key Certification for its environmental and sustainability practices",
+      "url": "https://insights.ehotelier.com/global-news/2026/08/14/mondrian-mexico-city-condesa-earns-green-key-certification-for-its-environmental-and-sustainability-practices/?utm_source=rss&utm_medium=rss&utm_campaign=mondrian-mexico-city-condesa-earns-green-key-certification-for-its-environmental-and-sustainability-practices",
+      "primary_url": "https://insights.ehotelier.com/global-news/2026/08/14/mondrian-mexico-city-condesa-earns-green-key-certification-for-its-environmental-and-sustainability-practices/?utm_source=rss&utm_medium=rss&utm_campaign=mondrian-mexico-city-condesa-earns-green-key-certification-for-its-environmental-and-sustainability-practices",
       "source": "eHotelier",
       "source_name": "eHotelier",
       "sources": [
         {
-          "id": "hotelitem_271b752051c0",
-          "title": "Hotel Advisors Global launches to steer owners and investors through industry’s most challenging era in almost two decades",
-          "url": "https://insights.ehotelier.com/uncategorised/2026/08/13/hotel-advisors-global-launches-to-steer-owners-and-investors-through-industrys-most-challenging-era-in-almost-two-decades/?utm_source=rss&utm_medium=rss&utm_campaign=hotel-advisors-global-launches-to-steer-owners-and-investors-through-industrys-most-challenging-era-in-almost-two-decades",
+          "id": "hotelitem_a8b24d5543ff",
+          "title": "Mondrian Mexico City Condesa earns Green Key Certification for its environmental and sustainability practices",
+          "url": "https://insights.ehotelier.com/global-news/2026/08/14/mondrian-mexico-city-condesa-earns-green-key-certification-for-its-environmental-and-sustainability-practices/?utm_source=rss&utm_medium=rss&utm_campaign=mondrian-mexico-city-condesa-earns-green-key-certification-for-its-environmental-and-sustainability-practices",
           "source": "eHotelier",
           "source_name": "eHotelier",
           "site_id": "ehotelier",
-          "published_at": "2026-08-13T01:40:56Z"
+          "published_at": "2026-08-14T01:40:39Z"
         }
       ],
       "source_count": 1,
@@ -912,57 +617,57 @@
       ],
       "items": [
         {
-          "id": "hotelitem_271b752051c0",
-          "title": "Hotel Advisors Global launches to steer owners and investors through industry’s most challenging era in almost two decades",
-          "url": "https://insights.ehotelier.com/uncategorised/2026/08/13/hotel-advisors-global-launches-to-steer-owners-and-investors-through-industrys-most-challenging-era-in-almost-two-decades/?utm_source=rss&utm_medium=rss&utm_campaign=hotel-advisors-global-launches-to-steer-owners-and-investors-through-industrys-most-challenging-era-in-almost-two-decades",
+          "id": "hotelitem_a8b24d5543ff",
+          "title": "Mondrian Mexico City Condesa earns Green Key Certification for its environmental and sustainability practices",
+          "url": "https://insights.ehotelier.com/global-news/2026/08/14/mondrian-mexico-city-condesa-earns-green-key-certification-for-its-environmental-and-sustainability-practices/?utm_source=rss&utm_medium=rss&utm_campaign=mondrian-mexico-city-condesa-earns-green-key-certification-for-its-environmental-and-sustainability-practices",
           "source": "eHotelier",
           "source_name": "eHotelier",
           "site_id": "ehotelier",
-          "published_at": "2026-08-13T01:40:56Z"
+          "published_at": "2026-08-14T01:40:39Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8614,
-      "importance": 0.5962,
-      "importance_score": 0.8614,
+      "score": 0.8648,
+      "importance": 0.5998,
+      "importance_score": 0.8648,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9811,
+        "recency": 0.999,
         "story_heat": 0.0
       },
       "category": "watch",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-13T01:40:56Z",
-      "latest_at": "2026-08-13T01:40:56Z",
+      "earliest_at": "2026-08-14T01:40:39Z",
+      "latest_at": "2026-08-14T01:40:39Z",
       "primary_item": {
-        "id": "hotelitem_271b752051c0",
-        "title": "Hotel Advisors Global launches to steer owners and investors through industry’s most challenging era in almost two decades",
-        "url": "https://insights.ehotelier.com/uncategorised/2026/08/13/hotel-advisors-global-launches-to-steer-owners-and-investors-through-industrys-most-challenging-era-in-almost-two-decades/?utm_source=rss&utm_medium=rss&utm_campaign=hotel-advisors-global-launches-to-steer-owners-and-investors-through-industrys-most-challenging-era-in-almost-two-decades",
+        "id": "hotelitem_a8b24d5543ff",
+        "title": "Mondrian Mexico City Condesa earns Green Key Certification for its environmental and sustainability practices",
+        "url": "https://insights.ehotelier.com/global-news/2026/08/14/mondrian-mexico-city-condesa-earns-green-key-certification-for-its-environmental-and-sustainability-practices/?utm_source=rss&utm_medium=rss&utm_campaign=mondrian-mexico-city-condesa-earns-green-key-certification-for-its-environmental-and-sustainability-practices",
         "source": "eHotelier",
         "source_name": "eHotelier"
       }
     },
     {
-      "story_id": "story_97b01f2c3f39",
-      "title": "Cendyn expands payment ecosystem tackling cart abandonment",
-      "url": "https://insights.ehotelier.com/suppliers/2026/08/13/cendyn-expands-payment-ecosystem-tackling-cart-abandonment/?utm_source=rss&utm_medium=rss&utm_campaign=cendyn-expands-payment-ecosystem-tackling-cart-abandonment",
-      "primary_url": "https://insights.ehotelier.com/suppliers/2026/08/13/cendyn-expands-payment-ecosystem-tackling-cart-abandonment/?utm_source=rss&utm_medium=rss&utm_campaign=cendyn-expands-payment-ecosystem-tackling-cart-abandonment",
+      "story_id": "story_9697fbc78a76",
+      "title": "Is your hotel ready for AI search? The new rules of guest discovery",
+      "url": "https://insights.ehotelier.com/suppliers/2026/08/14/is-your-hotel-ready-for-ai-search-the-new-rules-of-guest-discovery/?utm_source=rss&utm_medium=rss&utm_campaign=is-your-hotel-ready-for-ai-search-the-new-rules-of-guest-discovery",
+      "primary_url": "https://insights.ehotelier.com/suppliers/2026/08/14/is-your-hotel-ready-for-ai-search-the-new-rules-of-guest-discovery/?utm_source=rss&utm_medium=rss&utm_campaign=is-your-hotel-ready-for-ai-search-the-new-rules-of-guest-discovery",
       "source": "eHotelier",
       "source_name": "eHotelier",
       "sources": [
         {
-          "id": "hotelitem_97b01f2c3f39",
-          "title": "Cendyn expands payment ecosystem tackling cart abandonment",
-          "url": "https://insights.ehotelier.com/suppliers/2026/08/13/cendyn-expands-payment-ecosystem-tackling-cart-abandonment/?utm_source=rss&utm_medium=rss&utm_campaign=cendyn-expands-payment-ecosystem-tackling-cart-abandonment",
+          "id": "hotelitem_9697fbc78a76",
+          "title": "Is your hotel ready for AI search? The new rules of guest discovery",
+          "url": "https://insights.ehotelier.com/suppliers/2026/08/14/is-your-hotel-ready-for-ai-search-the-new-rules-of-guest-discovery/?utm_source=rss&utm_medium=rss&utm_campaign=is-your-hotel-ready-for-ai-search-the-new-rules-of-guest-discovery",
           "source": "eHotelier",
           "source_name": "eHotelier",
           "site_id": "ehotelier",
-          "published_at": "2026-08-13T01:50:41Z"
+          "published_at": "2026-08-14T01:55:39Z"
         }
       ],
       "source_count": 1,
@@ -971,37 +676,96 @@
       ],
       "items": [
         {
-          "id": "hotelitem_97b01f2c3f39",
-          "title": "Cendyn expands payment ecosystem tackling cart abandonment",
-          "url": "https://insights.ehotelier.com/suppliers/2026/08/13/cendyn-expands-payment-ecosystem-tackling-cart-abandonment/?utm_source=rss&utm_medium=rss&utm_campaign=cendyn-expands-payment-ecosystem-tackling-cart-abandonment",
+          "id": "hotelitem_9697fbc78a76",
+          "title": "Is your hotel ready for AI search? The new rules of guest discovery",
+          "url": "https://insights.ehotelier.com/suppliers/2026/08/14/is-your-hotel-ready-for-ai-search-the-new-rules-of-guest-discovery/?utm_source=rss&utm_medium=rss&utm_campaign=is-your-hotel-ready-for-ai-search-the-new-rules-of-guest-discovery",
           "source": "eHotelier",
           "source_name": "eHotelier",
           "site_id": "ehotelier",
-          "published_at": "2026-08-13T01:50:41Z"
+          "published_at": "2026-08-14T01:55:39Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8614,
-      "importance": 0.5963,
-      "importance_score": 0.8614,
+      "score": 0.8648,
+      "importance": 0.5998,
+      "importance_score": 0.8648,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9813,
+        "recency": 0.9992,
         "story_heat": 0.0
       },
       "category": "watch",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-13T01:50:41Z",
-      "latest_at": "2026-08-13T01:50:41Z",
+      "earliest_at": "2026-08-14T01:55:39Z",
+      "latest_at": "2026-08-14T01:55:39Z",
       "primary_item": {
-        "id": "hotelitem_97b01f2c3f39",
-        "title": "Cendyn expands payment ecosystem tackling cart abandonment",
-        "url": "https://insights.ehotelier.com/suppliers/2026/08/13/cendyn-expands-payment-ecosystem-tackling-cart-abandonment/?utm_source=rss&utm_medium=rss&utm_campaign=cendyn-expands-payment-ecosystem-tackling-cart-abandonment",
+        "id": "hotelitem_9697fbc78a76",
+        "title": "Is your hotel ready for AI search? The new rules of guest discovery",
+        "url": "https://insights.ehotelier.com/suppliers/2026/08/14/is-your-hotel-ready-for-ai-search-the-new-rules-of-guest-discovery/?utm_source=rss&utm_medium=rss&utm_campaign=is-your-hotel-ready-for-ai-search-the-new-rules-of-guest-discovery",
+        "source": "eHotelier",
+        "source_name": "eHotelier"
+      }
+    },
+    {
+      "story_id": "story_04a5ffaedaf4",
+      "title": "Broadwick Soho in London’s West End joins Small Luxury Hotels of the World’s Finest Collection",
+      "url": "https://insights.ehotelier.com/properties/2026/08/14/broadwick-soho-in-londons-west-end-joins-small-luxury-hotels-of-the-worlds-finest-collection/?utm_source=rss&utm_medium=rss&utm_campaign=broadwick-soho-in-londons-west-end-joins-small-luxury-hotels-of-the-worlds-finest-collection",
+      "primary_url": "https://insights.ehotelier.com/properties/2026/08/14/broadwick-soho-in-londons-west-end-joins-small-luxury-hotels-of-the-worlds-finest-collection/?utm_source=rss&utm_medium=rss&utm_campaign=broadwick-soho-in-londons-west-end-joins-small-luxury-hotels-of-the-worlds-finest-collection",
+      "source": "eHotelier",
+      "source_name": "eHotelier",
+      "sources": [
+        {
+          "id": "hotelitem_04a5ffaedaf4",
+          "title": "Broadwick Soho in London’s West End joins Small Luxury Hotels of the World’s Finest Collection",
+          "url": "https://insights.ehotelier.com/properties/2026/08/14/broadwick-soho-in-londons-west-end-joins-small-luxury-hotels-of-the-worlds-finest-collection/?utm_source=rss&utm_medium=rss&utm_campaign=broadwick-soho-in-londons-west-end-joins-small-luxury-hotels-of-the-worlds-finest-collection",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-08-14T01:20:25Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "eHotelier"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_04a5ffaedaf4",
+          "title": "Broadwick Soho in London’s West End joins Small Luxury Hotels of the World’s Finest Collection",
+          "url": "https://insights.ehotelier.com/properties/2026/08/14/broadwick-soho-in-londons-west-end-joins-small-luxury-hotels-of-the-worlds-finest-collection/?utm_source=rss&utm_medium=rss&utm_campaign=broadwick-soho-in-londons-west-end-joins-small-luxury-hotels-of-the-worlds-finest-collection",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-08-14T01:20:25Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8647,
+      "importance": 0.5997,
+      "importance_score": 0.8647,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9986,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-14T01:20:25Z",
+      "latest_at": "2026-08-14T01:20:25Z",
+      "primary_item": {
+        "id": "hotelitem_04a5ffaedaf4",
+        "title": "Broadwick Soho in London’s West End joins Small Luxury Hotels of the World’s Finest Collection",
+        "url": "https://insights.ehotelier.com/properties/2026/08/14/broadwick-soho-in-londons-west-end-joins-small-luxury-hotels-of-the-worlds-finest-collection/?utm_source=rss&utm_medium=rss&utm_campaign=broadwick-soho-in-londons-west-end-joins-small-luxury-hotels-of-the-worlds-finest-collection",
         "source": "eHotelier",
         "source_name": "eHotelier"
       }
@@ -1041,14 +805,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8614,
-      "importance": 0.5963,
-      "importance_score": 0.8614,
+      "score": 0.8606,
+      "importance": 0.5954,
+      "importance_score": 0.8606,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9814,
+        "recency": 0.977,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1061,65 +825,6 @@
         "id": "hotelitem_57c44aea9efd",
         "title": "The Kitchen as Climate Lever: How hotel Chefs are driving sustainability",
         "url": "https://insights.ehotelier.com/insights/2026/08/13/the-kitchen-as-climate-lever-how-hotel-chefs-are-driving-sustainability/?utm_source=rss&utm_medium=rss&utm_campaign=the-kitchen-as-climate-lever-how-hotel-chefs-are-driving-sustainability",
-        "source": "eHotelier",
-        "source_name": "eHotelier"
-      }
-    },
-    {
-      "story_id": "story_732514ee7202",
-      "title": "Noah Gumustekin appointed as Executive Chef at Ocean Edge Resort & Golf Club",
-      "url": "https://insights.ehotelier.com/people/2026/08/13/noah-gumustekin-appointed-as-executive-chef-at-ocean-edge-resort-golf-club/?utm_source=rss&utm_medium=rss&utm_campaign=noah-gumustekin-appointed-as-executive-chef-at-ocean-edge-resort-golf-club",
-      "primary_url": "https://insights.ehotelier.com/people/2026/08/13/noah-gumustekin-appointed-as-executive-chef-at-ocean-edge-resort-golf-club/?utm_source=rss&utm_medium=rss&utm_campaign=noah-gumustekin-appointed-as-executive-chef-at-ocean-edge-resort-golf-club",
-      "source": "eHotelier",
-      "source_name": "eHotelier",
-      "sources": [
-        {
-          "id": "hotelitem_732514ee7202",
-          "title": "Noah Gumustekin appointed as Executive Chef at Ocean Edge Resort & Golf Club",
-          "url": "https://insights.ehotelier.com/people/2026/08/13/noah-gumustekin-appointed-as-executive-chef-at-ocean-edge-resort-golf-club/?utm_source=rss&utm_medium=rss&utm_campaign=noah-gumustekin-appointed-as-executive-chef-at-ocean-edge-resort-golf-club",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-08-13T01:35:39Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "eHotelier"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_732514ee7202",
-          "title": "Noah Gumustekin appointed as Executive Chef at Ocean Edge Resort & Golf Club",
-          "url": "https://insights.ehotelier.com/people/2026/08/13/noah-gumustekin-appointed-as-executive-chef-at-ocean-edge-resort-golf-club/?utm_source=rss&utm_medium=rss&utm_campaign=noah-gumustekin-appointed-as-executive-chef-at-ocean-edge-resort-golf-club",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-08-13T01:35:39Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8613,
-      "importance": 0.5962,
-      "importance_score": 0.8613,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.981,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-13T01:35:39Z",
-      "latest_at": "2026-08-13T01:35:39Z",
-      "primary_item": {
-        "id": "hotelitem_732514ee7202",
-        "title": "Noah Gumustekin appointed as Executive Chef at Ocean Edge Resort & Golf Club",
-        "url": "https://insights.ehotelier.com/people/2026/08/13/noah-gumustekin-appointed-as-executive-chef-at-ocean-edge-resort-golf-club/?utm_source=rss&utm_medium=rss&utm_campaign=noah-gumustekin-appointed-as-executive-chef-at-ocean-edge-resort-golf-club",
         "source": "eHotelier",
         "source_name": "eHotelier"
       }
@@ -1139,7 +844,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-08-13T22:04:55.943598Z"
+          "published_at": "2026-08-14T02:48:13.053353Z"
         },
         {
           "id": "hotelitem_c7c15b7680c9",
@@ -1148,7 +853,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-08-13T22:04:55.943598Z"
+          "published_at": "2026-08-14T02:48:13.053353Z"
         }
       ],
       "source_count": 2,
@@ -1163,7 +868,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-08-13T22:04:55.943598Z"
+          "published_at": "2026-08-14T02:48:13.053353Z"
         },
         {
           "id": "hotelitem_c7c15b7680c9",
@@ -1172,7 +877,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-08-13T22:04:55.943598Z"
+          "published_at": "2026-08-14T02:48:13.053353Z"
         }
       ],
       "item_count": 2,
@@ -1192,8 +897,8 @@
         "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-13T22:04:55.943598Z",
-      "latest_at": "2026-08-13T22:04:55.943598Z",
+      "earliest_at": "2026-08-14T02:48:13.053353Z",
+      "latest_at": "2026-08-14T02:48:13.053353Z",
       "primary_item": {
         "id": "hotelitem_d4370964909c",
         "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
@@ -1237,14 +942,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8598,
-      "importance": 0.5946,
-      "importance_score": 0.8598,
+      "score": 0.859,
+      "importance": 0.5938,
+      "importance_score": 0.859,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9731,
+        "recency": 0.9688,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1296,14 +1001,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8591,
-      "importance": 0.5939,
-      "importance_score": 0.8591,
+      "score": 0.8583,
+      "importance": 0.593,
+      "importance_score": 0.8583,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9696,
+        "recency": 0.9652,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1355,14 +1060,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.859,
-      "importance": 0.5938,
-      "importance_score": 0.859,
+      "score": 0.8582,
+      "importance": 0.5929,
+      "importance_score": 0.8582,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9691,
+        "recency": 0.9647,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1380,65 +1085,6 @@
       }
     },
     {
-      "story_id": "story_e4ce0593c384",
-      "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
-      "url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
-      "primary_url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
-      "source": "中国旅游研究院",
-      "source_name": "中国旅游研究院",
-      "sources": [
-        {
-          "id": "hotelitem_e4ce0593c384",
-          "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
-          "url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
-          "source": "中国旅游研究院",
-          "source_name": "中国旅游研究院",
-          "site_id": "cta",
-          "published_at": "2026-08-13T22:04:55.943598Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "中国旅游研究院"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_e4ce0593c384",
-          "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
-          "url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
-          "source": "中国旅游研究院",
-          "source_name": "中国旅游研究院",
-          "site_id": "cta",
-          "published_at": "2026-08-13T22:04:55.943598Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.858,
-      "importance": 0.6,
-      "importance_score": 0.858,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-13T22:04:55.943598Z",
-      "latest_at": "2026-08-13T22:04:55.943598Z",
-      "primary_item": {
-        "id": "hotelitem_e4ce0593c384",
-        "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
-        "url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
-        "source": "中国旅游研究院",
-        "source_name": "中国旅游研究院"
-      }
-    },
-    {
       "story_id": "story_fa34986b4fc0",
       "title": "文化和旅游部、金融监管总局关于警惕借“保...",
       "url": "https://www.mct.gov.cn/whzx/whyw/202607/t20260714_966526.htm",
@@ -1453,7 +1099,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-08-13T22:04:55.943598Z"
+          "published_at": "2026-08-14T02:48:13.053353Z"
         }
       ],
       "source_count": 1,
@@ -1468,7 +1114,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-08-13T22:04:55.943598Z"
+          "published_at": "2026-08-14T02:48:13.053353Z"
         }
       ],
       "item_count": 1,
@@ -1487,8 +1133,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-13T22:04:55.943598Z",
-      "latest_at": "2026-08-13T22:04:55.943598Z",
+      "earliest_at": "2026-08-14T02:48:13.053353Z",
+      "latest_at": "2026-08-14T02:48:13.053353Z",
       "primary_item": {
         "id": "hotelitem_fa34986b4fc0",
         "title": "文化和旅游部、金融监管总局关于警惕借“保...",
@@ -1512,7 +1158,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-08-13T22:04:55.943598Z"
+          "published_at": "2026-08-14T02:48:13.053353Z"
         }
       ],
       "source_count": 1,
@@ -1527,7 +1173,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-08-13T22:04:55.943598Z"
+          "published_at": "2026-08-14T02:48:13.053353Z"
         }
       ],
       "item_count": 1,
@@ -1546,132 +1192,14 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-13T22:04:55.943598Z",
-      "latest_at": "2026-08-13T22:04:55.943598Z",
+      "earliest_at": "2026-08-14T02:48:13.053353Z",
+      "latest_at": "2026-08-14T02:48:13.053353Z",
       "primary_item": {
         "id": "hotelitem_9a958319a874",
         "title": "文化和旅游部印发《旅游强国建设“十五五”...",
         "url": "https://www.mct.gov.cn/whzx/whyw/202607/t20260708_966448.htm",
         "source": "文化和旅游部",
         "source_name": "文化和旅游部"
-      }
-    },
-    {
-      "story_id": "story_8f218475e743",
-      "title": "文化和旅游部发布2026年上半年国内居民出游数据情况",
-      "url": "https://www.ctaweb.org.cn/gongzuodongtai/10523.html",
-      "primary_url": "https://www.ctaweb.org.cn/gongzuodongtai/10523.html",
-      "source": "中国旅游研究院",
-      "source_name": "中国旅游研究院",
-      "sources": [
-        {
-          "id": "hotelitem_8f218475e743",
-          "title": "文化和旅游部发布2026年上半年国内居民出游数据情况",
-          "url": "https://www.ctaweb.org.cn/gongzuodongtai/10523.html",
-          "source": "中国旅游研究院",
-          "source_name": "中国旅游研究院",
-          "site_id": "cta",
-          "published_at": "2026-08-13T22:04:55.943598Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "中国旅游研究院"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_8f218475e743",
-          "title": "文化和旅游部发布2026年上半年国内居民出游数据情况",
-          "url": "https://www.ctaweb.org.cn/gongzuodongtai/10523.html",
-          "source": "中国旅游研究院",
-          "source_name": "中国旅游研究院",
-          "site_id": "cta",
-          "published_at": "2026-08-13T22:04:55.943598Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.858,
-      "importance": 0.6,
-      "importance_score": 0.858,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-13T22:04:55.943598Z",
-      "latest_at": "2026-08-13T22:04:55.943598Z",
-      "primary_item": {
-        "id": "hotelitem_8f218475e743",
-        "title": "文化和旅游部发布2026年上半年国内居民出游数据情况",
-        "url": "https://www.ctaweb.org.cn/gongzuodongtai/10523.html",
-        "source": "中国旅游研究院",
-        "source_name": "中国旅游研究院"
-      }
-    },
-    {
-      "story_id": "story_d2c99fad653a",
-      "title": "6 principles of designing mobile menus that actually convert (not just look pretty)",
-      "url": "https://insights.ehotelier.com/insights/2026/08/12/6-principles-of-designing-mobile-menus-that-actually-convert-not-just-look-pretty/?utm_source=rss&utm_medium=rss&utm_campaign=6-principles-of-designing-mobile-menus-that-actually-convert-not-just-look-pretty",
-      "primary_url": "https://insights.ehotelier.com/insights/2026/08/12/6-principles-of-designing-mobile-menus-that-actually-convert-not-just-look-pretty/?utm_source=rss&utm_medium=rss&utm_campaign=6-principles-of-designing-mobile-menus-that-actually-convert-not-just-look-pretty",
-      "source": "eHotelier",
-      "source_name": "eHotelier",
-      "sources": [
-        {
-          "id": "hotelitem_d2c99fad653a",
-          "title": "6 principles of designing mobile menus that actually convert (not just look pretty)",
-          "url": "https://insights.ehotelier.com/insights/2026/08/12/6-principles-of-designing-mobile-menus-that-actually-convert-not-just-look-pretty/?utm_source=rss&utm_medium=rss&utm_campaign=6-principles-of-designing-mobile-menus-that-actually-convert-not-just-look-pretty",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-08-12T02:05:25Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "eHotelier"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_d2c99fad653a",
-          "title": "6 principles of designing mobile menus that actually convert (not just look pretty)",
-          "url": "https://insights.ehotelier.com/insights/2026/08/12/6-principles-of-designing-mobile-menus-that-actually-convert-not-just-look-pretty/?utm_source=rss&utm_medium=rss&utm_campaign=6-principles-of-designing-mobile-menus-that-actually-convert-not-just-look-pretty",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-08-12T02:05:25Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8571,
-      "importance": 0.5919,
-      "importance_score": 0.8571,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9593,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-12T02:05:25Z",
-      "latest_at": "2026-08-12T02:05:25Z",
-      "primary_item": {
-        "id": "hotelitem_d2c99fad653a",
-        "title": "6 principles of designing mobile menus that actually convert (not just look pretty)",
-        "url": "https://insights.ehotelier.com/insights/2026/08/12/6-principles-of-designing-mobile-menus-that-actually-convert-not-just-look-pretty/?utm_source=rss&utm_medium=rss&utm_campaign=6-principles-of-designing-mobile-menus-that-actually-convert-not-just-look-pretty",
-        "source": "eHotelier",
-        "source_name": "eHotelier"
       }
     },
     {
@@ -1709,14 +1237,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8519,
-      "importance": 0.5864,
-      "importance_score": 0.8519,
+      "score": 0.8511,
+      "importance": 0.5855,
+      "importance_score": 0.8511,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9321,
+        "recency": 0.9277,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1768,14 +1296,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8518,
-      "importance": 0.5863,
-      "importance_score": 0.8518,
+      "score": 0.851,
+      "importance": 0.5855,
+      "importance_score": 0.851,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9317,
+        "recency": 0.9273,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1790,6 +1318,478 @@
         "url": "https://www.hoteldive.com/news/gencom-new-organizational-structure-leadership-appointments/827505/",
         "source": "Hotel Dive",
         "source_name": "Hotel Dive"
+      }
+    },
+    {
+      "story_id": "story_99e09e9a93de",
+      "title": "Reduce energy costs without compromising comfort",
+      "url": "https://www.hotelmanagement.net/resource/reduce-energy-costs-without-compromising-comfort",
+      "primary_url": "https://www.hotelmanagement.net/resource/reduce-energy-costs-without-compromising-comfort",
+      "source": "Hotel Management",
+      "source_name": "Hotel Management",
+      "sources": [
+        {
+          "id": "hotelitem_99e09e9a93de",
+          "title": "Reduce energy costs without compromising comfort",
+          "url": "https://www.hotelmanagement.net/resource/reduce-energy-costs-without-compromising-comfort",
+          "source": "Hotel Management",
+          "source_name": "Hotel Management",
+          "site_id": "hotelmgmt",
+          "published_at": "2026-08-10T15:41:58Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hotel Management"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_99e09e9a93de",
+          "title": "Reduce energy costs without compromising comfort",
+          "url": "https://www.hotelmanagement.net/resource/reduce-energy-costs-without-compromising-comfort",
+          "source": "Hotel Management",
+          "source_name": "Hotel Management",
+          "site_id": "hotelmgmt",
+          "published_at": "2026-08-10T15:41:58Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8502,
+      "importance": 0.5846,
+      "importance_score": 0.8502,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9231,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-10T15:41:58Z",
+      "latest_at": "2026-08-10T15:41:58Z",
+      "primary_item": {
+        "id": "hotelitem_99e09e9a93de",
+        "title": "Reduce energy costs without compromising comfort",
+        "url": "https://www.hotelmanagement.net/resource/reduce-energy-costs-without-compromising-comfort",
+        "source": "Hotel Management",
+        "source_name": "Hotel Management"
+      }
+    },
+    {
+      "story_id": "story_a2e447853f81",
+      "title": "The Stafford London hit with winding-up petition",
+      "url": "https://boutiquehotelnews.com/news/industry/stafford-london-winding-up/?utm_source=rss&utm_medium=rss&utm_campaign=stafford-london-winding-up",
+      "primary_url": "https://boutiquehotelnews.com/news/industry/stafford-london-winding-up/?utm_source=rss&utm_medium=rss&utm_campaign=stafford-london-winding-up",
+      "source": "Boutique Hotel News",
+      "source_name": "Boutique Hotel News",
+      "sources": [
+        {
+          "id": "hotelitem_a2e447853f81",
+          "title": "The Stafford London hit with winding-up petition",
+          "url": "https://boutiquehotelnews.com/news/industry/stafford-london-winding-up/?utm_source=rss&utm_medium=rss&utm_campaign=stafford-london-winding-up",
+          "source": "Boutique Hotel News",
+          "source_name": "Boutique Hotel News",
+          "site_id": "boutiquehotel",
+          "published_at": "2026-08-13T15:29:26Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Boutique Hotel News"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_a2e447853f81",
+          "title": "The Stafford London hit with winding-up petition",
+          "url": "https://boutiquehotelnews.com/news/industry/stafford-london-winding-up/?utm_source=rss&utm_medium=rss&utm_campaign=stafford-london-winding-up",
+          "source": "Boutique Hotel News",
+          "source_name": "Boutique Hotel News",
+          "site_id": "boutiquehotel",
+          "published_at": "2026-08-13T15:29:26Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.848,
+      "importance": 0.5979,
+      "importance_score": 0.848,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9895,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-13T15:29:26Z",
+      "latest_at": "2026-08-13T15:29:26Z",
+      "primary_item": {
+        "id": "hotelitem_a2e447853f81",
+        "title": "The Stafford London hit with winding-up petition",
+        "url": "https://boutiquehotelnews.com/news/industry/stafford-london-winding-up/?utm_source=rss&utm_medium=rss&utm_campaign=stafford-london-winding-up",
+        "source": "Boutique Hotel News",
+        "source_name": "Boutique Hotel News"
+      }
+    },
+    {
+      "story_id": "story_abde9c93a6b6",
+      "title": "Rhodium appoints Daudin-Clavaud as chief development and strategy officer",
+      "url": "https://boutiquehotelnews.com/news/movers-and-shakers/rhodium-daudin-clavaud/?utm_source=rss&utm_medium=rss&utm_campaign=rhodium-daudin-clavaud",
+      "primary_url": "https://boutiquehotelnews.com/news/movers-and-shakers/rhodium-daudin-clavaud/?utm_source=rss&utm_medium=rss&utm_campaign=rhodium-daudin-clavaud",
+      "source": "Boutique Hotel News",
+      "source_name": "Boutique Hotel News",
+      "sources": [
+        {
+          "id": "hotelitem_abde9c93a6b6",
+          "title": "Rhodium appoints Daudin-Clavaud as chief development and strategy officer",
+          "url": "https://boutiquehotelnews.com/news/movers-and-shakers/rhodium-daudin-clavaud/?utm_source=rss&utm_medium=rss&utm_campaign=rhodium-daudin-clavaud",
+          "source": "Boutique Hotel News",
+          "source_name": "Boutique Hotel News",
+          "site_id": "boutiquehotel",
+          "published_at": "2026-08-12T15:35:24Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Boutique Hotel News"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_abde9c93a6b6",
+          "title": "Rhodium appoints Daudin-Clavaud as chief development and strategy officer",
+          "url": "https://boutiquehotelnews.com/news/movers-and-shakers/rhodium-daudin-clavaud/?utm_source=rss&utm_medium=rss&utm_campaign=rhodium-daudin-clavaud",
+          "source": "Boutique Hotel News",
+          "source_name": "Boutique Hotel News",
+          "site_id": "boutiquehotel",
+          "published_at": "2026-08-12T15:35:24Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8437,
+      "importance": 0.5935,
+      "importance_score": 0.8437,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9674,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-12T15:35:24Z",
+      "latest_at": "2026-08-12T15:35:24Z",
+      "primary_item": {
+        "id": "hotelitem_abde9c93a6b6",
+        "title": "Rhodium appoints Daudin-Clavaud as chief development and strategy officer",
+        "url": "https://boutiquehotelnews.com/news/movers-and-shakers/rhodium-daudin-clavaud/?utm_source=rss&utm_medium=rss&utm_campaign=rhodium-daudin-clavaud",
+        "source": "Boutique Hotel News",
+        "source_name": "Boutique Hotel News"
+      }
+    },
+    {
+      "story_id": "story_67ebf4d00c7f",
+      "title": "The Standard London appoints general manager",
+      "url": "https://boutiquehotelnews.com/news/movers-and-shakers/standard-london-general-manager/?utm_source=rss&utm_medium=rss&utm_campaign=standard-london-general-manager",
+      "primary_url": "https://boutiquehotelnews.com/news/movers-and-shakers/standard-london-general-manager/?utm_source=rss&utm_medium=rss&utm_campaign=standard-london-general-manager",
+      "source": "Boutique Hotel News",
+      "source_name": "Boutique Hotel News",
+      "sources": [
+        {
+          "id": "hotelitem_67ebf4d00c7f",
+          "title": "The Standard London appoints general manager",
+          "url": "https://boutiquehotelnews.com/news/movers-and-shakers/standard-london-general-manager/?utm_source=rss&utm_medium=rss&utm_campaign=standard-london-general-manager",
+          "source": "Boutique Hotel News",
+          "source_name": "Boutique Hotel News",
+          "site_id": "boutiquehotel",
+          "published_at": "2026-08-12T08:23:22Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Boutique Hotel News"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_67ebf4d00c7f",
+          "title": "The Standard London appoints general manager",
+          "url": "https://boutiquehotelnews.com/news/movers-and-shakers/standard-london-general-manager/?utm_source=rss&utm_medium=rss&utm_campaign=standard-london-general-manager",
+          "source": "Boutique Hotel News",
+          "source_name": "Boutique Hotel News",
+          "site_id": "boutiquehotel",
+          "published_at": "2026-08-12T08:23:22Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8424,
+      "importance": 0.5921,
+      "importance_score": 0.8424,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9607,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-12T08:23:22Z",
+      "latest_at": "2026-08-12T08:23:22Z",
+      "primary_item": {
+        "id": "hotelitem_67ebf4d00c7f",
+        "title": "The Standard London appoints general manager",
+        "url": "https://boutiquehotelnews.com/news/movers-and-shakers/standard-london-general-manager/?utm_source=rss&utm_medium=rss&utm_campaign=standard-london-general-manager",
+        "source": "Boutique Hotel News",
+        "source_name": "Boutique Hotel News"
+      }
+    },
+    {
+      "story_id": "story_407e8c1bb078",
+      "title": "Energy Efficiency Rebates from A to Z: How to Save More with Verdant Thermostats",
+      "url": "https://www.hotelmanagement.net/resource/energy-efficiency-rebates-z-how-save-more-verdant-thermostats",
+      "primary_url": "https://www.hotelmanagement.net/resource/energy-efficiency-rebates-z-how-save-more-verdant-thermostats",
+      "source": "Hotel Management",
+      "source_name": "Hotel Management",
+      "sources": [
+        {
+          "id": "hotelitem_407e8c1bb078",
+          "title": "Energy Efficiency Rebates from A to Z: How to Save More with Verdant Thermostats",
+          "url": "https://www.hotelmanagement.net/resource/energy-efficiency-rebates-z-how-save-more-verdant-thermostats",
+          "source": "Hotel Management",
+          "source_name": "Hotel Management",
+          "site_id": "hotelmgmt",
+          "published_at": "2026-08-07T15:04:58Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hotel Management"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_407e8c1bb078",
+          "title": "Energy Efficiency Rebates from A to Z: How to Save More with Verdant Thermostats",
+          "url": "https://www.hotelmanagement.net/resource/energy-efficiency-rebates-z-how-save-more-verdant-thermostats",
+          "source": "Hotel Management",
+          "source_name": "Hotel Management",
+          "site_id": "hotelmgmt",
+          "published_at": "2026-08-07T15:04:58Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8372,
+      "importance": 0.5712,
+      "importance_score": 0.8372,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.8558,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-07T15:04:58Z",
+      "latest_at": "2026-08-07T15:04:58Z",
+      "primary_item": {
+        "id": "hotelitem_407e8c1bb078",
+        "title": "Energy Efficiency Rebates from A to Z: How to Save More with Verdant Thermostats",
+        "url": "https://www.hotelmanagement.net/resource/energy-efficiency-rebates-z-how-save-more-verdant-thermostats",
+        "source": "Hotel Management",
+        "source_name": "Hotel Management"
+      }
+    },
+    {
+      "story_id": "story_dfcf6d75cd26",
+      "title": "Lalique opens first hotel in Switzerland",
+      "url": "https://boutiquehotelnews.com/news/hotel/lalique-hotel-switzerland/?utm_source=rss&utm_medium=rss&utm_campaign=lalique-hotel-switzerland",
+      "primary_url": "https://boutiquehotelnews.com/news/hotel/lalique-hotel-switzerland/?utm_source=rss&utm_medium=rss&utm_campaign=lalique-hotel-switzerland",
+      "source": "Boutique Hotel News",
+      "source_name": "Boutique Hotel News",
+      "sources": [
+        {
+          "id": "hotelitem_dfcf6d75cd26",
+          "title": "Lalique opens first hotel in Switzerland",
+          "url": "https://boutiquehotelnews.com/news/hotel/lalique-hotel-switzerland/?utm_source=rss&utm_medium=rss&utm_campaign=lalique-hotel-switzerland",
+          "source": "Boutique Hotel News",
+          "source_name": "Boutique Hotel News",
+          "site_id": "boutiquehotel",
+          "published_at": "2026-08-10T11:33:35Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Boutique Hotel News"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_dfcf6d75cd26",
+          "title": "Lalique opens first hotel in Switzerland",
+          "url": "https://boutiquehotelnews.com/news/hotel/lalique-hotel-switzerland/?utm_source=rss&utm_medium=rss&utm_campaign=lalique-hotel-switzerland",
+          "source": "Boutique Hotel News",
+          "source_name": "Boutique Hotel News",
+          "site_id": "boutiquehotel",
+          "published_at": "2026-08-10T11:33:35Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8344,
+      "importance": 0.5838,
+      "importance_score": 0.8344,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9192,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-10T11:33:35Z",
+      "latest_at": "2026-08-10T11:33:35Z",
+      "primary_item": {
+        "id": "hotelitem_dfcf6d75cd26",
+        "title": "Lalique opens first hotel in Switzerland",
+        "url": "https://boutiquehotelnews.com/news/hotel/lalique-hotel-switzerland/?utm_source=rss&utm_medium=rss&utm_campaign=lalique-hotel-switzerland",
+        "source": "Boutique Hotel News",
+        "source_name": "Boutique Hotel News"
+      }
+    },
+    {
+      "story_id": "story_a26442c3b166",
+      "title": "Langham Hotel in Eastbourne acquired by Novastar Hotel Group",
+      "url": "https://boutiquehotelnews.com/news/finance-and-investment/langham-hotel-novastar-hotel-group/?utm_source=rss&utm_medium=rss&utm_campaign=langham-hotel-novastar-hotel-group",
+      "primary_url": "https://boutiquehotelnews.com/news/finance-and-investment/langham-hotel-novastar-hotel-group/?utm_source=rss&utm_medium=rss&utm_campaign=langham-hotel-novastar-hotel-group",
+      "source": "Boutique Hotel News",
+      "source_name": "Boutique Hotel News",
+      "sources": [
+        {
+          "id": "hotelitem_a26442c3b166",
+          "title": "Langham Hotel in Eastbourne acquired by Novastar Hotel Group",
+          "url": "https://boutiquehotelnews.com/news/finance-and-investment/langham-hotel-novastar-hotel-group/?utm_source=rss&utm_medium=rss&utm_campaign=langham-hotel-novastar-hotel-group",
+          "source": "Boutique Hotel News",
+          "source_name": "Boutique Hotel News",
+          "site_id": "boutiquehotel",
+          "published_at": "2026-08-06T10:29:17Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Boutique Hotel News"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_a26442c3b166",
+          "title": "Langham Hotel in Eastbourne acquired by Novastar Hotel Group",
+          "url": "https://boutiquehotelnews.com/news/finance-and-investment/langham-hotel-novastar-hotel-group/?utm_source=rss&utm_medium=rss&utm_campaign=langham-hotel-novastar-hotel-group",
+          "source": "Boutique Hotel News",
+          "source_name": "Boutique Hotel News",
+          "site_id": "boutiquehotel",
+          "published_at": "2026-08-06T10:29:17Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8156,
+      "importance": 0.5659,
+      "importance_score": 0.8156,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.8293,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-06T10:29:17Z",
+      "latest_at": "2026-08-06T10:29:17Z",
+      "primary_item": {
+        "id": "hotelitem_a26442c3b166",
+        "title": "Langham Hotel in Eastbourne acquired by Novastar Hotel Group",
+        "url": "https://boutiquehotelnews.com/news/finance-and-investment/langham-hotel-novastar-hotel-group/?utm_source=rss&utm_medium=rss&utm_campaign=langham-hotel-novastar-hotel-group",
+        "source": "Boutique Hotel News",
+        "source_name": "Boutique Hotel News"
+      }
+    },
+    {
+      "story_id": "story_80d2e847ebf2",
+      "title": "众信旅游中秋十一黄金周出境游市场热度持续攀升",
+      "url": "https://www.pinchain.com/article/349910",
+      "primary_url": "https://www.pinchain.com/article/349910",
+      "source": "品橙旅游",
+      "source_name": "品橙旅游",
+      "sources": [
+        {
+          "id": "hotelitem_80d2e847ebf2",
+          "title": "众信旅游中秋十一黄金周出境游市场热度持续攀升",
+          "url": "https://www.pinchain.com/article/349910",
+          "source": "品橙旅游",
+          "source_name": "品橙旅游",
+          "site_id": "pinchain",
+          "published_at": "2026-08-13T06:26:33Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "品橙旅游"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_80d2e847ebf2",
+          "title": "众信旅游中秋十一黄金周出境游市场热度持续攀升",
+          "url": "https://www.pinchain.com/article/349910",
+          "source": "品橙旅游",
+          "source_name": "品橙旅游",
+          "site_id": "pinchain",
+          "published_at": "2026-08-13T06:26:33Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8139,
+      "importance": 0.5962,
+      "importance_score": 0.8139,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9811,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-13T06:26:33Z",
+      "latest_at": "2026-08-13T06:26:33Z",
+      "primary_item": {
+        "id": "hotelitem_80d2e847ebf2",
+        "title": "众信旅游中秋十一黄金周出境游市场热度持续攀升",
+        "url": "https://www.pinchain.com/article/349910",
+        "source": "品橙旅游",
+        "source_name": "品橙旅游"
       }
     }
   ]
