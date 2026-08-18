@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T18:58:21.492527Z",
+  "generated_at": "2026-08-18T21:40:46.621651Z",
   "window_hours": 1080,
   "total_items": 30,
   "items": [
@@ -38,14 +38,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9845,
-      "importance": 0.5709,
-      "importance_score": 0.9845,
+      "score": 0.984,
+      "importance": 0.5704,
+      "importance_score": 0.984,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8547,
+        "recency": 0.8521,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -97,14 +97,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9519,
-      "importance": 0.5968,
-      "importance_score": 0.9519,
+      "score": 0.9514,
+      "importance": 0.5963,
+      "importance_score": 0.9514,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9838,
+        "recency": 0.9813,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -117,6 +117,65 @@
         "id": "hotelitem_fea497c47ab0",
         "title": "Chad-Jan Neuman ppointed as Executive Chef at The Ritz-Carlton, St. Thomas",
         "url": "https://insights.ehotelier.com/people/2026/08/18/chad-jan-neuman-ppointed-as-executive-chef-at-the-ritz-carlton-st-thomas/?utm_source=rss&utm_medium=rss&utm_campaign=chad-jan-neuman-ppointed-as-executive-chef-at-the-ritz-carlton-st-thomas",
+        "source": "eHotelier",
+        "source_name": "eHotelier"
+      }
+    },
+    {
+      "story_id": "story_1384f5602567",
+      "title": "Sydney Harbour Marriott partners with Sydney Brewery to create a signature beer for their historic Customs House Bar",
+      "url": "https://insights.ehotelier.com/global-news/2026/08/18/sydney-harbour-marriott-partners-with-sydney-brewery-to-create-a-signature-beer-for-their-historic-customs-house-bar/?utm_source=rss&utm_medium=rss&utm_campaign=sydney-harbour-marriott-partners-with-sydney-brewery-to-create-a-signature-beer-for-their-historic-customs-house-bar",
+      "primary_url": "https://insights.ehotelier.com/global-news/2026/08/18/sydney-harbour-marriott-partners-with-sydney-brewery-to-create-a-signature-beer-for-their-historic-customs-house-bar/?utm_source=rss&utm_medium=rss&utm_campaign=sydney-harbour-marriott-partners-with-sydney-brewery-to-create-a-signature-beer-for-their-historic-customs-house-bar",
+      "source": "eHotelier",
+      "source_name": "eHotelier",
+      "sources": [
+        {
+          "id": "hotelitem_1384f5602567",
+          "title": "Sydney Harbour Marriott partners with Sydney Brewery to create a signature beer for their historic Customs House Bar",
+          "url": "https://insights.ehotelier.com/global-news/2026/08/18/sydney-harbour-marriott-partners-with-sydney-brewery-to-create-a-signature-beer-for-their-historic-customs-house-bar/?utm_source=rss&utm_medium=rss&utm_campaign=sydney-harbour-marriott-partners-with-sydney-brewery-to-create-a-signature-beer-for-their-historic-customs-house-bar",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-08-18T00:45:12Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "eHotelier"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_1384f5602567",
+          "title": "Sydney Harbour Marriott partners with Sydney Brewery to create a signature beer for their historic Customs House Bar",
+          "url": "https://insights.ehotelier.com/global-news/2026/08/18/sydney-harbour-marriott-partners-with-sydney-brewery-to-create-a-signature-beer-for-their-historic-customs-house-bar/?utm_source=rss&utm_medium=rss&utm_campaign=sydney-harbour-marriott-partners-with-sydney-brewery-to-create-a-signature-beer-for-their-historic-customs-house-bar",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-08-18T00:45:12Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.9513,
+      "importance": 0.5961,
+      "importance_score": 0.9513,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9806,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-18T00:45:12Z",
+      "latest_at": "2026-08-18T00:45:12Z",
+      "primary_item": {
+        "id": "hotelitem_1384f5602567",
+        "title": "Sydney Harbour Marriott partners with Sydney Brewery to create a signature beer for their historic Customs House Bar",
+        "url": "https://insights.ehotelier.com/global-news/2026/08/18/sydney-harbour-marriott-partners-with-sydney-brewery-to-create-a-signature-beer-for-their-historic-customs-house-bar/?utm_source=rss&utm_medium=rss&utm_campaign=sydney-harbour-marriott-partners-with-sydney-brewery-to-create-a-signature-beer-for-their-historic-customs-house-bar",
         "source": "eHotelier",
         "source_name": "eHotelier"
       }
@@ -156,14 +215,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9518,
-      "importance": 0.5966,
-      "importance_score": 0.9518,
+      "score": 0.9513,
+      "importance": 0.5961,
+      "importance_score": 0.9513,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9832,
+        "recency": 0.9807,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -215,14 +274,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9518,
-      "importance": 0.5967,
-      "importance_score": 0.9518,
+      "score": 0.9513,
+      "importance": 0.5962,
+      "importance_score": 0.9513,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9833,
+        "recency": 0.9808,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -274,14 +333,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9517,
-      "importance": 0.5966,
-      "importance_score": 0.9517,
+      "score": 0.9512,
+      "importance": 0.5961,
+      "importance_score": 0.9512,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.983,
+        "recency": 0.9805,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -294,65 +353,6 @@
         "id": "hotelitem_5441d99941b5",
         "title": "Series by Marriott debuts in the South Pacific with three distinctive resorts in New Caledonia",
         "url": "https://insights.ehotelier.com/properties/2026/08/18/series-by-marriott-debuts-in-the-south-pacific-with-three-distinctive-resorts-in-new-caledonia/?utm_source=rss&utm_medium=rss&utm_campaign=series-by-marriott-debuts-in-the-south-pacific-with-three-distinctive-resorts-in-new-caledonia",
-        "source": "eHotelier",
-        "source_name": "eHotelier"
-      }
-    },
-    {
-      "story_id": "story_1384f5602567",
-      "title": "Sydney Harbour Marriott partners with Sydney Brewery to create a signature beer for their historic Customs House Bar",
-      "url": "https://insights.ehotelier.com/global-news/2026/08/18/sydney-harbour-marriott-partners-with-sydney-brewery-to-create-a-signature-beer-for-their-historic-customs-house-bar/?utm_source=rss&utm_medium=rss&utm_campaign=sydney-harbour-marriott-partners-with-sydney-brewery-to-create-a-signature-beer-for-their-historic-customs-house-bar",
-      "primary_url": "https://insights.ehotelier.com/global-news/2026/08/18/sydney-harbour-marriott-partners-with-sydney-brewery-to-create-a-signature-beer-for-their-historic-customs-house-bar/?utm_source=rss&utm_medium=rss&utm_campaign=sydney-harbour-marriott-partners-with-sydney-brewery-to-create-a-signature-beer-for-their-historic-customs-house-bar",
-      "source": "eHotelier",
-      "source_name": "eHotelier",
-      "sources": [
-        {
-          "id": "hotelitem_1384f5602567",
-          "title": "Sydney Harbour Marriott partners with Sydney Brewery to create a signature beer for their historic Customs House Bar",
-          "url": "https://insights.ehotelier.com/global-news/2026/08/18/sydney-harbour-marriott-partners-with-sydney-brewery-to-create-a-signature-beer-for-their-historic-customs-house-bar/?utm_source=rss&utm_medium=rss&utm_campaign=sydney-harbour-marriott-partners-with-sydney-brewery-to-create-a-signature-beer-for-their-historic-customs-house-bar",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-08-18T00:45:12Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "eHotelier"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_1384f5602567",
-          "title": "Sydney Harbour Marriott partners with Sydney Brewery to create a signature beer for their historic Customs House Bar",
-          "url": "https://insights.ehotelier.com/global-news/2026/08/18/sydney-harbour-marriott-partners-with-sydney-brewery-to-create-a-signature-beer-for-their-historic-customs-house-bar/?utm_source=rss&utm_medium=rss&utm_campaign=sydney-harbour-marriott-partners-with-sydney-brewery-to-create-a-signature-beer-for-their-historic-customs-house-bar",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-08-18T00:45:12Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.9517,
-      "importance": 0.5966,
-      "importance_score": 0.9517,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9831,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-18T00:45:12Z",
-      "latest_at": "2026-08-18T00:45:12Z",
-      "primary_item": {
-        "id": "hotelitem_1384f5602567",
-        "title": "Sydney Harbour Marriott partners with Sydney Brewery to create a signature beer for their historic Customs House Bar",
-        "url": "https://insights.ehotelier.com/global-news/2026/08/18/sydney-harbour-marriott-partners-with-sydney-brewery-to-create-a-signature-beer-for-their-historic-customs-house-bar/?utm_source=rss&utm_medium=rss&utm_campaign=sydney-harbour-marriott-partners-with-sydney-brewery-to-create-a-signature-beer-for-their-historic-customs-house-bar",
         "source": "eHotelier",
         "source_name": "eHotelier"
       }
@@ -392,14 +392,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.95,
-      "importance": 0.5948,
-      "importance_score": 0.95,
+      "score": 0.9495,
+      "importance": 0.5943,
+      "importance_score": 0.9495,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9741,
+        "recency": 0.9715,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -451,14 +451,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9497,
-      "importance": 0.5945,
-      "importance_score": 0.9497,
+      "score": 0.9492,
+      "importance": 0.594,
+      "importance_score": 0.9492,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9725,
+        "recency": 0.97,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -510,14 +510,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9369,
-      "importance": 0.5812,
-      "importance_score": 0.9369,
+      "score": 0.9364,
+      "importance": 0.5807,
+      "importance_score": 0.9364,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9061,
+        "recency": 0.9036,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -569,14 +569,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.935,
-      "importance": 0.545,
-      "importance_score": 0.935,
+      "score": 0.9342,
+      "importance": 0.5445,
+      "importance_score": 0.9342,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.725,
+        "recency": 0.7225,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -628,14 +628,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9345,
-      "importance": 0.5943,
-      "importance_score": 0.9345,
+      "score": 0.9341,
+      "importance": 0.5938,
+      "importance_score": 0.9341,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9717,
+        "recency": 0.9692,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -687,14 +687,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.934,
-      "importance": 0.5782,
-      "importance_score": 0.934,
+      "score": 0.9335,
+      "importance": 0.5777,
+      "importance_score": 0.9335,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8912,
+        "recency": 0.8887,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -746,14 +746,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9337,
-      "importance": 0.5779,
-      "importance_score": 0.9337,
+      "score": 0.9332,
+      "importance": 0.5774,
+      "importance_score": 0.9332,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8893,
+        "recency": 0.8868,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -805,14 +805,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9326,
-      "importance": 0.5768,
-      "importance_score": 0.9326,
+      "score": 0.9321,
+      "importance": 0.5763,
+      "importance_score": 0.9321,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8838,
+        "recency": 0.8813,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -864,14 +864,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9283,
-      "importance": 0.5982,
-      "importance_score": 0.9283,
+      "score": 0.9278,
+      "importance": 0.5977,
+      "importance_score": 0.9278,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.991,
+        "recency": 0.9885,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -923,14 +923,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9282,
-      "importance": 0.5981,
-      "importance_score": 0.9282,
+      "score": 0.9277,
+      "importance": 0.5976,
+      "importance_score": 0.9277,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9907,
+        "recency": 0.9882,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -982,14 +982,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8846,
-      "importance": 0.5635,
-      "importance_score": 0.8846,
+      "score": 0.8839,
+      "importance": 0.563,
+      "importance_score": 0.8839,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8176,
+        "recency": 0.8151,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1002,65 +1002,6 @@
         "id": "hotelitem_5880465c7c12",
         "title": "复星锐正领投近亿元融资，玩点旅行要补上旅游AI的“最后一公里”",
         "url": "https://www.traveldaily.cn/article/190513",
-        "source": "环球旅讯 TravelDaily",
-        "source_name": "环球旅讯 TravelDaily"
-      }
-    },
-    {
-      "story_id": "story_dc8997783628",
-      "title": "投融资动态 | 7月下半月，旅游业这10笔交易值得关注",
-      "url": "https://www.traveldaily.cn/article/190506",
-      "primary_url": "https://www.traveldaily.cn/article/190506",
-      "source": "环球旅讯 TravelDaily",
-      "source_name": "环球旅讯 TravelDaily",
-      "sources": [
-        {
-          "id": "hotelitem_dc8997783628",
-          "title": "投融资动态 | 7月下半月，旅游业这10笔交易值得关注",
-          "url": "https://www.traveldaily.cn/article/190506",
-          "source": "环球旅讯 TravelDaily",
-          "source_name": "环球旅讯 TravelDaily",
-          "site_id": "traveldaily",
-          "published_at": "2026-08-07T10:06:23Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "环球旅讯 TravelDaily"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_dc8997783628",
-          "title": "投融资动态 | 7月下半月，旅游业这10笔交易值得关注",
-          "url": "https://www.traveldaily.cn/article/190506",
-          "source": "环球旅讯 TravelDaily",
-          "source_name": "环球旅讯 TravelDaily",
-          "site_id": "traveldaily",
-          "published_at": "2026-08-07T10:06:23Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.864,
-      "importance": 0.5495,
-      "importance_score": 0.864,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.7473,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-07T10:06:23Z",
-      "latest_at": "2026-08-07T10:06:23Z",
-      "primary_item": {
-        "id": "hotelitem_dc8997783628",
-        "title": "投融资动态 | 7月下半月，旅游业这10笔交易值得关注",
-        "url": "https://www.traveldaily.cn/article/190506",
         "source": "环球旅讯 TravelDaily",
         "source_name": "环球旅讯 TravelDaily"
       }
@@ -1100,14 +1041,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.864,
-      "importance": 0.599,
-      "importance_score": 0.864,
+      "score": 0.8635,
+      "importance": 0.5985,
+      "importance_score": 0.8635,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9948,
+        "recency": 0.9923,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1122,6 +1063,65 @@
         "url": "https://www.hoteldive.com/news/top-hotel-industry-trends-q2-2026/828121/",
         "source": "Hotel Dive",
         "source_name": "Hotel Dive"
+      }
+    },
+    {
+      "story_id": "story_dc8997783628",
+      "title": "投融资动态 | 7月下半月，旅游业这10笔交易值得关注",
+      "url": "https://www.traveldaily.cn/article/190506",
+      "primary_url": "https://www.traveldaily.cn/article/190506",
+      "source": "环球旅讯 TravelDaily",
+      "source_name": "环球旅讯 TravelDaily",
+      "sources": [
+        {
+          "id": "hotelitem_dc8997783628",
+          "title": "投融资动态 | 7月下半月，旅游业这10笔交易值得关注",
+          "url": "https://www.traveldaily.cn/article/190506",
+          "source": "环球旅讯 TravelDaily",
+          "source_name": "环球旅讯 TravelDaily",
+          "site_id": "traveldaily",
+          "published_at": "2026-08-07T10:06:23Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "环球旅讯 TravelDaily"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_dc8997783628",
+          "title": "投融资动态 | 7月下半月，旅游业这10笔交易值得关注",
+          "url": "https://www.traveldaily.cn/article/190506",
+          "source": "环球旅讯 TravelDaily",
+          "source_name": "环球旅讯 TravelDaily",
+          "site_id": "traveldaily",
+          "published_at": "2026-08-07T10:06:23Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8633,
+      "importance": 0.549,
+      "importance_score": 0.8633,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.7448,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-07T10:06:23Z",
+      "latest_at": "2026-08-07T10:06:23Z",
+      "primary_item": {
+        "id": "hotelitem_dc8997783628",
+        "title": "投融资动态 | 7月下半月，旅游业这10笔交易值得关注",
+        "url": "https://www.traveldaily.cn/article/190506",
+        "source": "环球旅讯 TravelDaily",
+        "source_name": "环球旅讯 TravelDaily"
       }
     },
     {
@@ -1159,14 +1159,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8619,
-      "importance": 0.5967,
-      "importance_score": 0.8619,
+      "score": 0.8614,
+      "importance": 0.5962,
+      "importance_score": 0.8614,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9837,
+        "recency": 0.9812,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1218,14 +1218,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8618,
-      "importance": 0.5966,
-      "importance_score": 0.8618,
+      "score": 0.8613,
+      "importance": 0.5961,
+      "importance_score": 0.8613,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9832,
+        "recency": 0.9807,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1257,7 +1257,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-08-18T18:58:21.492527Z"
+          "published_at": "2026-08-18T21:40:46.621651Z"
         },
         {
           "id": "hotelitem_c7c15b7680c9",
@@ -1266,7 +1266,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-08-18T18:58:21.492527Z"
+          "published_at": "2026-08-18T21:40:46.621651Z"
         }
       ],
       "source_count": 2,
@@ -1281,7 +1281,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-08-18T18:58:21.492527Z"
+          "published_at": "2026-08-18T21:40:46.621651Z"
         },
         {
           "id": "hotelitem_c7c15b7680c9",
@@ -1290,7 +1290,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-08-18T18:58:21.492527Z"
+          "published_at": "2026-08-18T21:40:46.621651Z"
         }
       ],
       "item_count": 2,
@@ -1310,8 +1310,8 @@
         "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-18T18:58:21.492527Z",
-      "latest_at": "2026-08-18T18:58:21.492527Z",
+      "earliest_at": "2026-08-18T21:40:46.621651Z",
+      "latest_at": "2026-08-18T21:40:46.621651Z",
       "primary_item": {
         "id": "hotelitem_d4370964909c",
         "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
@@ -1355,14 +1355,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8598,
-      "importance": 0.5946,
-      "importance_score": 0.8598,
+      "score": 0.8593,
+      "importance": 0.5941,
+      "importance_score": 0.8593,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.973,
+        "recency": 0.9705,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1394,7 +1394,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-08-18T18:58:21.492527Z"
+          "published_at": "2026-08-18T21:40:46.621651Z"
         }
       ],
       "source_count": 1,
@@ -1409,7 +1409,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-08-18T18:58:21.492527Z"
+          "published_at": "2026-08-18T21:40:46.621651Z"
         }
       ],
       "item_count": 1,
@@ -1428,8 +1428,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-18T18:58:21.492527Z",
-      "latest_at": "2026-08-18T18:58:21.492527Z",
+      "earliest_at": "2026-08-18T21:40:46.621651Z",
+      "latest_at": "2026-08-18T21:40:46.621651Z",
       "primary_item": {
         "id": "hotelitem_e4ce0593c384",
         "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
@@ -1453,7 +1453,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-08-18T18:58:21.492527Z"
+          "published_at": "2026-08-18T21:40:46.621651Z"
         }
       ],
       "source_count": 1,
@@ -1468,7 +1468,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-08-18T18:58:21.492527Z"
+          "published_at": "2026-08-18T21:40:46.621651Z"
         }
       ],
       "item_count": 1,
@@ -1487,8 +1487,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-18T18:58:21.492527Z",
-      "latest_at": "2026-08-18T18:58:21.492527Z",
+      "earliest_at": "2026-08-18T21:40:46.621651Z",
+      "latest_at": "2026-08-18T21:40:46.621651Z",
       "primary_item": {
         "id": "hotelitem_fa34986b4fc0",
         "title": "文化和旅游部、金融监管总局关于警惕借“保...",
@@ -1512,7 +1512,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-08-18T18:58:21.492527Z"
+          "published_at": "2026-08-18T21:40:46.621651Z"
         }
       ],
       "source_count": 1,
@@ -1527,7 +1527,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-08-18T18:58:21.492527Z"
+          "published_at": "2026-08-18T21:40:46.621651Z"
         }
       ],
       "item_count": 1,
@@ -1546,8 +1546,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-18T18:58:21.492527Z",
-      "latest_at": "2026-08-18T18:58:21.492527Z",
+      "earliest_at": "2026-08-18T21:40:46.621651Z",
+      "latest_at": "2026-08-18T21:40:46.621651Z",
       "primary_item": {
         "id": "hotelitem_9a958319a874",
         "title": "文化和旅游部印发《旅游强国建设“十五五”...",
@@ -1571,7 +1571,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-08-18T18:58:21.492527Z"
+          "published_at": "2026-08-18T21:40:46.621651Z"
         }
       ],
       "source_count": 1,
@@ -1586,7 +1586,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-08-18T18:58:21.492527Z"
+          "published_at": "2026-08-18T21:40:46.621651Z"
         }
       ],
       "item_count": 1,
@@ -1605,8 +1605,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-18T18:58:21.492527Z",
-      "latest_at": "2026-08-18T18:58:21.492527Z",
+      "earliest_at": "2026-08-18T21:40:46.621651Z",
+      "latest_at": "2026-08-18T21:40:46.621651Z",
       "primary_item": {
         "id": "hotelitem_8f218475e743",
         "title": "文化和旅游部发布2026年上半年国内居民出游数据情况",
@@ -1650,14 +1650,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8577,
-      "importance": 0.5924,
-      "importance_score": 0.8577,
+      "score": 0.8572,
+      "importance": 0.5919,
+      "importance_score": 0.8572,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9619,
+        "recency": 0.9594,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1709,14 +1709,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.847,
-      "importance": 0.5814,
-      "importance_score": 0.847,
+      "score": 0.8466,
+      "importance": 0.5809,
+      "importance_score": 0.8466,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9069,
+        "recency": 0.9044,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1768,14 +1768,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8468,
-      "importance": 0.5811,
-      "importance_score": 0.8468,
+      "score": 0.8463,
+      "importance": 0.5806,
+      "importance_score": 0.8463,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9057,
+        "recency": 0.9032,
         "story_heat": 0.0
       },
       "category": "watch",
