@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T21:40:46.621651Z",
+  "generated_at": "2026-08-19T01:54:28.744950Z",
   "window_hours": 1080,
   "total_stories": 30,
   "stories": [
@@ -38,14 +38,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.984,
-      "importance": 0.5704,
-      "importance_score": 0.984,
+      "score": 0.9832,
+      "importance": 0.5696,
+      "importance_score": 0.9832,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8521,
+        "recency": 0.8482,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -97,14 +97,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9514,
-      "importance": 0.5963,
-      "importance_score": 0.9514,
+      "score": 0.9506,
+      "importance": 0.5955,
+      "importance_score": 0.9506,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9813,
+        "recency": 0.9774,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -117,242 +117,6 @@
         "id": "hotelitem_fea497c47ab0",
         "title": "Chad-Jan Neuman ppointed as Executive Chef at The Ritz-Carlton, St. Thomas",
         "url": "https://insights.ehotelier.com/people/2026/08/18/chad-jan-neuman-ppointed-as-executive-chef-at-the-ritz-carlton-st-thomas/?utm_source=rss&utm_medium=rss&utm_campaign=chad-jan-neuman-ppointed-as-executive-chef-at-the-ritz-carlton-st-thomas",
-        "source": "eHotelier",
-        "source_name": "eHotelier"
-      }
-    },
-    {
-      "story_id": "story_1384f5602567",
-      "title": "Sydney Harbour Marriott partners with Sydney Brewery to create a signature beer for their historic Customs House Bar",
-      "url": "https://insights.ehotelier.com/global-news/2026/08/18/sydney-harbour-marriott-partners-with-sydney-brewery-to-create-a-signature-beer-for-their-historic-customs-house-bar/?utm_source=rss&utm_medium=rss&utm_campaign=sydney-harbour-marriott-partners-with-sydney-brewery-to-create-a-signature-beer-for-their-historic-customs-house-bar",
-      "primary_url": "https://insights.ehotelier.com/global-news/2026/08/18/sydney-harbour-marriott-partners-with-sydney-brewery-to-create-a-signature-beer-for-their-historic-customs-house-bar/?utm_source=rss&utm_medium=rss&utm_campaign=sydney-harbour-marriott-partners-with-sydney-brewery-to-create-a-signature-beer-for-their-historic-customs-house-bar",
-      "source": "eHotelier",
-      "source_name": "eHotelier",
-      "sources": [
-        {
-          "id": "hotelitem_1384f5602567",
-          "title": "Sydney Harbour Marriott partners with Sydney Brewery to create a signature beer for their historic Customs House Bar",
-          "url": "https://insights.ehotelier.com/global-news/2026/08/18/sydney-harbour-marriott-partners-with-sydney-brewery-to-create-a-signature-beer-for-their-historic-customs-house-bar/?utm_source=rss&utm_medium=rss&utm_campaign=sydney-harbour-marriott-partners-with-sydney-brewery-to-create-a-signature-beer-for-their-historic-customs-house-bar",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-08-18T00:45:12Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "eHotelier"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_1384f5602567",
-          "title": "Sydney Harbour Marriott partners with Sydney Brewery to create a signature beer for their historic Customs House Bar",
-          "url": "https://insights.ehotelier.com/global-news/2026/08/18/sydney-harbour-marriott-partners-with-sydney-brewery-to-create-a-signature-beer-for-their-historic-customs-house-bar/?utm_source=rss&utm_medium=rss&utm_campaign=sydney-harbour-marriott-partners-with-sydney-brewery-to-create-a-signature-beer-for-their-historic-customs-house-bar",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-08-18T00:45:12Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.9513,
-      "importance": 0.5961,
-      "importance_score": 0.9513,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9806,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-18T00:45:12Z",
-      "latest_at": "2026-08-18T00:45:12Z",
-      "primary_item": {
-        "id": "hotelitem_1384f5602567",
-        "title": "Sydney Harbour Marriott partners with Sydney Brewery to create a signature beer for their historic Customs House Bar",
-        "url": "https://insights.ehotelier.com/global-news/2026/08/18/sydney-harbour-marriott-partners-with-sydney-brewery-to-create-a-signature-beer-for-their-historic-customs-house-bar/?utm_source=rss&utm_medium=rss&utm_campaign=sydney-harbour-marriott-partners-with-sydney-brewery-to-create-a-signature-beer-for-their-historic-customs-house-bar",
-        "source": "eHotelier",
-        "source_name": "eHotelier"
-      }
-    },
-    {
-      "story_id": "story_8ced75cc7675",
-      "title": "Novotel and WWF Australia partner to protect Whale Migration Corridors across Australian waters",
-      "url": "https://insights.ehotelier.com/global-news/2026/08/18/novotel-and-wwf-australia-partner-to-protect-whale-migration-corridors-across-australian-waters/?utm_source=rss&utm_medium=rss&utm_campaign=novotel-and-wwf-australia-partner-to-protect-whale-migration-corridors-across-australian-waters",
-      "primary_url": "https://insights.ehotelier.com/global-news/2026/08/18/novotel-and-wwf-australia-partner-to-protect-whale-migration-corridors-across-australian-waters/?utm_source=rss&utm_medium=rss&utm_campaign=novotel-and-wwf-australia-partner-to-protect-whale-migration-corridors-across-australian-waters",
-      "source": "eHotelier",
-      "source_name": "eHotelier",
-      "sources": [
-        {
-          "id": "hotelitem_8ced75cc7675",
-          "title": "Novotel and WWF Australia partner to protect Whale Migration Corridors across Australian waters",
-          "url": "https://insights.ehotelier.com/global-news/2026/08/18/novotel-and-wwf-australia-partner-to-protect-whale-migration-corridors-across-australian-waters/?utm_source=rss&utm_medium=rss&utm_campaign=novotel-and-wwf-australia-partner-to-protect-whale-migration-corridors-across-australian-waters",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-08-18T00:48:14Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "eHotelier"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_8ced75cc7675",
-          "title": "Novotel and WWF Australia partner to protect Whale Migration Corridors across Australian waters",
-          "url": "https://insights.ehotelier.com/global-news/2026/08/18/novotel-and-wwf-australia-partner-to-protect-whale-migration-corridors-across-australian-waters/?utm_source=rss&utm_medium=rss&utm_campaign=novotel-and-wwf-australia-partner-to-protect-whale-migration-corridors-across-australian-waters",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-08-18T00:48:14Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.9513,
-      "importance": 0.5961,
-      "importance_score": 0.9513,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9807,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-18T00:48:14Z",
-      "latest_at": "2026-08-18T00:48:14Z",
-      "primary_item": {
-        "id": "hotelitem_8ced75cc7675",
-        "title": "Novotel and WWF Australia partner to protect Whale Migration Corridors across Australian waters",
-        "url": "https://insights.ehotelier.com/global-news/2026/08/18/novotel-and-wwf-australia-partner-to-protect-whale-migration-corridors-across-australian-waters/?utm_source=rss&utm_medium=rss&utm_campaign=novotel-and-wwf-australia-partner-to-protect-whale-migration-corridors-across-australian-waters",
-        "source": "eHotelier",
-        "source_name": "eHotelier"
-      }
-    },
-    {
-      "story_id": "story_63313e1640c5",
-      "title": "Canopy by Hilton Istanbul Taksim partners with IRIS to enhance guest journey with Digital Guest Directory solution",
-      "url": "https://insights.ehotelier.com/suppliers/2026/08/18/canopy-by-hilton-istanbul-taksim-partners-with-iris-to-enhance-guest-journey-with-digital-guest-directory-solution-2/?utm_source=rss&utm_medium=rss&utm_campaign=canopy-by-hilton-istanbul-taksim-partners-with-iris-to-enhance-guest-journey-with-digital-guest-directory-solution-2",
-      "primary_url": "https://insights.ehotelier.com/suppliers/2026/08/18/canopy-by-hilton-istanbul-taksim-partners-with-iris-to-enhance-guest-journey-with-digital-guest-directory-solution-2/?utm_source=rss&utm_medium=rss&utm_campaign=canopy-by-hilton-istanbul-taksim-partners-with-iris-to-enhance-guest-journey-with-digital-guest-directory-solution-2",
-      "source": "eHotelier",
-      "source_name": "eHotelier",
-      "sources": [
-        {
-          "id": "hotelitem_63313e1640c5",
-          "title": "Canopy by Hilton Istanbul Taksim partners with IRIS to enhance guest journey with Digital Guest Directory solution",
-          "url": "https://insights.ehotelier.com/suppliers/2026/08/18/canopy-by-hilton-istanbul-taksim-partners-with-iris-to-enhance-guest-journey-with-digital-guest-directory-solution-2/?utm_source=rss&utm_medium=rss&utm_campaign=canopy-by-hilton-istanbul-taksim-partners-with-iris-to-enhance-guest-journey-with-digital-guest-directory-solution-2",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-08-18T00:58:02Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "eHotelier"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_63313e1640c5",
-          "title": "Canopy by Hilton Istanbul Taksim partners with IRIS to enhance guest journey with Digital Guest Directory solution",
-          "url": "https://insights.ehotelier.com/suppliers/2026/08/18/canopy-by-hilton-istanbul-taksim-partners-with-iris-to-enhance-guest-journey-with-digital-guest-directory-solution-2/?utm_source=rss&utm_medium=rss&utm_campaign=canopy-by-hilton-istanbul-taksim-partners-with-iris-to-enhance-guest-journey-with-digital-guest-directory-solution-2",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-08-18T00:58:02Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.9513,
-      "importance": 0.5962,
-      "importance_score": 0.9513,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9808,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-18T00:58:02Z",
-      "latest_at": "2026-08-18T00:58:02Z",
-      "primary_item": {
-        "id": "hotelitem_63313e1640c5",
-        "title": "Canopy by Hilton Istanbul Taksim partners with IRIS to enhance guest journey with Digital Guest Directory solution",
-        "url": "https://insights.ehotelier.com/suppliers/2026/08/18/canopy-by-hilton-istanbul-taksim-partners-with-iris-to-enhance-guest-journey-with-digital-guest-directory-solution-2/?utm_source=rss&utm_medium=rss&utm_campaign=canopy-by-hilton-istanbul-taksim-partners-with-iris-to-enhance-guest-journey-with-digital-guest-directory-solution-2",
-        "source": "eHotelier",
-        "source_name": "eHotelier"
-      }
-    },
-    {
-      "story_id": "story_5441d99941b5",
-      "title": "Series by Marriott debuts in the South Pacific with three distinctive resorts in New Caledonia",
-      "url": "https://insights.ehotelier.com/properties/2026/08/18/series-by-marriott-debuts-in-the-south-pacific-with-three-distinctive-resorts-in-new-caledonia/?utm_source=rss&utm_medium=rss&utm_campaign=series-by-marriott-debuts-in-the-south-pacific-with-three-distinctive-resorts-in-new-caledonia",
-      "primary_url": "https://insights.ehotelier.com/properties/2026/08/18/series-by-marriott-debuts-in-the-south-pacific-with-three-distinctive-resorts-in-new-caledonia/?utm_source=rss&utm_medium=rss&utm_campaign=series-by-marriott-debuts-in-the-south-pacific-with-three-distinctive-resorts-in-new-caledonia",
-      "source": "eHotelier",
-      "source_name": "eHotelier",
-      "sources": [
-        {
-          "id": "hotelitem_5441d99941b5",
-          "title": "Series by Marriott debuts in the South Pacific with three distinctive resorts in New Caledonia",
-          "url": "https://insights.ehotelier.com/properties/2026/08/18/series-by-marriott-debuts-in-the-south-pacific-with-three-distinctive-resorts-in-new-caledonia/?utm_source=rss&utm_medium=rss&utm_campaign=series-by-marriott-debuts-in-the-south-pacific-with-three-distinctive-resorts-in-new-caledonia",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-08-18T00:35:23Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "eHotelier"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_5441d99941b5",
-          "title": "Series by Marriott debuts in the South Pacific with three distinctive resorts in New Caledonia",
-          "url": "https://insights.ehotelier.com/properties/2026/08/18/series-by-marriott-debuts-in-the-south-pacific-with-three-distinctive-resorts-in-new-caledonia/?utm_source=rss&utm_medium=rss&utm_campaign=series-by-marriott-debuts-in-the-south-pacific-with-three-distinctive-resorts-in-new-caledonia",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-08-18T00:35:23Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.9512,
-      "importance": 0.5961,
-      "importance_score": 0.9512,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9805,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-18T00:35:23Z",
-      "latest_at": "2026-08-18T00:35:23Z",
-      "primary_item": {
-        "id": "hotelitem_5441d99941b5",
-        "title": "Series by Marriott debuts in the South Pacific with three distinctive resorts in New Caledonia",
-        "url": "https://insights.ehotelier.com/properties/2026/08/18/series-by-marriott-debuts-in-the-south-pacific-with-three-distinctive-resorts-in-new-caledonia/?utm_source=rss&utm_medium=rss&utm_campaign=series-by-marriott-debuts-in-the-south-pacific-with-three-distinctive-resorts-in-new-caledonia",
         "source": "eHotelier",
         "source_name": "eHotelier"
       }
@@ -392,14 +156,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9495,
-      "importance": 0.5943,
-      "importance_score": 0.9495,
+      "score": 0.9488,
+      "importance": 0.5935,
+      "importance_score": 0.9488,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9715,
+        "recency": 0.9676,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -451,14 +215,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9492,
-      "importance": 0.594,
-      "importance_score": 0.9492,
+      "score": 0.9485,
+      "importance": 0.5932,
+      "importance_score": 0.9485,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.97,
+        "recency": 0.9661,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -510,14 +274,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9364,
-      "importance": 0.5807,
-      "importance_score": 0.9364,
+      "score": 0.9357,
+      "importance": 0.5799,
+      "importance_score": 0.9357,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9036,
+        "recency": 0.8997,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -532,65 +296,6 @@
         "url": "https://www.hoteldive.com/news/lodging-lowdown-radisson-hotel-group-launches-b2b-extended-stay-program/827897/",
         "source": "Hotel Dive",
         "source_name": "Hotel Dive"
-      }
-    },
-    {
-      "story_id": "story_54c76dab7226",
-      "title": "Atour Lifestyle Holdings Limited to Report Second Quarter 2026 Financial Results on August 20, 2026",
-      "url": "https://ir.yaduo.com/news-releases/news-release-details/atour-lifestyle-holdings-limited-report-second-quarter-2026",
-      "primary_url": "https://ir.yaduo.com/news-releases/news-release-details/atour-lifestyle-holdings-limited-report-second-quarter-2026",
-      "source": "亚朵 Atour IR",
-      "source_name": "亚朵 Atour IR",
-      "sources": [
-        {
-          "id": "hotelitem_54c76dab7226",
-          "title": "Atour Lifestyle Holdings Limited to Report Second Quarter 2026 Financial Results on August 20, 2026",
-          "url": "https://ir.yaduo.com/news-releases/news-release-details/atour-lifestyle-holdings-limited-report-second-quarter-2026",
-          "source": "亚朵 Atour IR",
-          "source_name": "亚朵 Atour IR",
-          "site_id": "atour_ir",
-          "published_at": "2026-08-06T10:00:07Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "亚朵 Atour IR"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_54c76dab7226",
-          "title": "Atour Lifestyle Holdings Limited to Report Second Quarter 2026 Financial Results on August 20, 2026",
-          "url": "https://ir.yaduo.com/news-releases/news-release-details/atour-lifestyle-holdings-limited-report-second-quarter-2026",
-          "source": "亚朵 Atour IR",
-          "source_name": "亚朵 Atour IR",
-          "site_id": "atour_ir",
-          "published_at": "2026-08-06T10:00:07Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.9342,
-      "importance": 0.5445,
-      "importance_score": 0.9342,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.7225,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-06T10:00:07Z",
-      "latest_at": "2026-08-06T10:00:07Z",
-      "primary_item": {
-        "id": "hotelitem_54c76dab7226",
-        "title": "Atour Lifestyle Holdings Limited to Report Second Quarter 2026 Financial Results on August 20, 2026",
-        "url": "https://ir.yaduo.com/news-releases/news-release-details/atour-lifestyle-holdings-limited-report-second-quarter-2026",
-        "source": "亚朵 Atour IR",
-        "source_name": "亚朵 Atour IR"
       }
     },
     {
@@ -628,14 +333,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9341,
-      "importance": 0.5938,
-      "importance_score": 0.9341,
+      "score": 0.9333,
+      "importance": 0.593,
+      "importance_score": 0.9333,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9692,
+        "recency": 0.9652,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -650,6 +355,65 @@
         "url": "https://boutiquehotelnews.com/features/expensive-habit-revenue-management/?utm_source=rss&utm_medium=rss&utm_campaign=expensive-habit-revenue-management",
         "source": "Boutique Hotel News",
         "source_name": "Boutique Hotel News"
+      }
+    },
+    {
+      "story_id": "story_54c76dab7226",
+      "title": "Atour Lifestyle Holdings Limited to Report Second Quarter 2026 Financial Results on August 20, 2026",
+      "url": "https://ir.yaduo.com/news-releases/news-release-details/atour-lifestyle-holdings-limited-report-second-quarter-2026",
+      "primary_url": "https://ir.yaduo.com/news-releases/news-release-details/atour-lifestyle-holdings-limited-report-second-quarter-2026",
+      "source": "亚朵 Atour IR",
+      "source_name": "亚朵 Atour IR",
+      "sources": [
+        {
+          "id": "hotelitem_54c76dab7226",
+          "title": "Atour Lifestyle Holdings Limited to Report Second Quarter 2026 Financial Results on August 20, 2026",
+          "url": "https://ir.yaduo.com/news-releases/news-release-details/atour-lifestyle-holdings-limited-report-second-quarter-2026",
+          "source": "亚朵 Atour IR",
+          "source_name": "亚朵 Atour IR",
+          "site_id": "atour_ir",
+          "published_at": "2026-08-06T10:00:07Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "亚朵 Atour IR"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_54c76dab7226",
+          "title": "Atour Lifestyle Holdings Limited to Report Second Quarter 2026 Financial Results on August 20, 2026",
+          "url": "https://ir.yaduo.com/news-releases/news-release-details/atour-lifestyle-holdings-limited-report-second-quarter-2026",
+          "source": "亚朵 Atour IR",
+          "source_name": "亚朵 Atour IR",
+          "site_id": "atour_ir",
+          "published_at": "2026-08-06T10:00:07Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.9331,
+      "importance": 0.5437,
+      "importance_score": 0.9331,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.7186,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-06T10:00:07Z",
+      "latest_at": "2026-08-06T10:00:07Z",
+      "primary_item": {
+        "id": "hotelitem_54c76dab7226",
+        "title": "Atour Lifestyle Holdings Limited to Report Second Quarter 2026 Financial Results on August 20, 2026",
+        "url": "https://ir.yaduo.com/news-releases/news-release-details/atour-lifestyle-holdings-limited-report-second-quarter-2026",
+        "source": "亚朵 Atour IR",
+        "source_name": "亚朵 Atour IR"
       }
     },
     {
@@ -687,14 +451,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9335,
-      "importance": 0.5777,
-      "importance_score": 0.9335,
+      "score": 0.9328,
+      "importance": 0.577,
+      "importance_score": 0.9328,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8887,
+        "recency": 0.8848,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -746,14 +510,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9332,
-      "importance": 0.5774,
-      "importance_score": 0.9332,
+      "score": 0.9324,
+      "importance": 0.5766,
+      "importance_score": 0.9324,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8868,
+        "recency": 0.8829,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -805,14 +569,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9321,
-      "importance": 0.5763,
-      "importance_score": 0.9321,
+      "score": 0.9313,
+      "importance": 0.5755,
+      "importance_score": 0.9313,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8813,
+        "recency": 0.8773,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -827,65 +591,6 @@
         "url": "https://skift.com/2026/08/13/accors-fix-for-corporate-travels-most-tedious-ritual-rates-that-dont-vanish/",
         "source": "Skift Hospitality",
         "source_name": "Skift Hospitality"
-      }
-    },
-    {
-      "story_id": "story_21e97a356799",
-      "title": "秦皇岛阿那亚因未取得施工许可证擅自施工被处罚",
-      "url": "https://www.pinchain.com/article/350075",
-      "primary_url": "https://www.pinchain.com/article/350075",
-      "source": "品橙旅游",
-      "source_name": "品橙旅游",
-      "sources": [
-        {
-          "id": "hotelitem_21e97a356799",
-          "title": "秦皇岛阿那亚因未取得施工许可证擅自施工被处罚",
-          "url": "https://www.pinchain.com/article/350075",
-          "source": "品橙旅游",
-          "source_name": "品橙旅游",
-          "site_id": "pinchain",
-          "published_at": "2026-08-18T09:17:46Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "品橙旅游"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_21e97a356799",
-          "title": "秦皇岛阿那亚因未取得施工许可证擅自施工被处罚",
-          "url": "https://www.pinchain.com/article/350075",
-          "source": "品橙旅游",
-          "source_name": "品橙旅游",
-          "site_id": "pinchain",
-          "published_at": "2026-08-18T09:17:46Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.9278,
-      "importance": 0.5977,
-      "importance_score": 0.9278,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9885,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-18T09:17:46Z",
-      "latest_at": "2026-08-18T09:17:46Z",
-      "primary_item": {
-        "id": "hotelitem_21e97a356799",
-        "title": "秦皇岛阿那亚因未取得施工许可证擅自施工被处罚",
-        "url": "https://www.pinchain.com/article/350075",
-        "source": "品橙旅游",
-        "source_name": "品橙旅游"
       }
     },
     {
@@ -923,14 +628,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9277,
-      "importance": 0.5976,
-      "importance_score": 0.9277,
+      "score": 0.927,
+      "importance": 0.5969,
+      "importance_score": 0.927,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9882,
+        "recency": 0.9843,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -943,6 +648,65 @@
         "id": "hotelitem_0240c643479d",
         "title": "云南连夜通报：对“低价团”相关问题开展调查",
         "url": "https://www.pinchain.com/article/350078",
+        "source": "品橙旅游",
+        "source_name": "品橙旅游"
+      }
+    },
+    {
+      "story_id": "story_21e97a356799",
+      "title": "秦皇岛阿那亚因未取得施工许可证擅自施工被处罚",
+      "url": "https://www.pinchain.com/article/350075",
+      "primary_url": "https://www.pinchain.com/article/350075",
+      "source": "品橙旅游",
+      "source_name": "品橙旅游",
+      "sources": [
+        {
+          "id": "hotelitem_21e97a356799",
+          "title": "秦皇岛阿那亚因未取得施工许可证擅自施工被处罚",
+          "url": "https://www.pinchain.com/article/350075",
+          "source": "品橙旅游",
+          "source_name": "品橙旅游",
+          "site_id": "pinchain",
+          "published_at": "2026-08-18T09:17:46Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "品橙旅游"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_21e97a356799",
+          "title": "秦皇岛阿那亚因未取得施工许可证擅自施工被处罚",
+          "url": "https://www.pinchain.com/article/350075",
+          "source": "品橙旅游",
+          "source_name": "品橙旅游",
+          "site_id": "pinchain",
+          "published_at": "2026-08-18T09:17:46Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.927,
+      "importance": 0.5969,
+      "importance_score": 0.927,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9846,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-18T09:17:46Z",
+      "latest_at": "2026-08-18T09:17:46Z",
+      "primary_item": {
+        "id": "hotelitem_21e97a356799",
+        "title": "秦皇岛阿那亚因未取得施工许可证擅自施工被处罚",
+        "url": "https://www.pinchain.com/article/350075",
         "source": "品橙旅游",
         "source_name": "品橙旅游"
       }
@@ -982,14 +746,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8839,
-      "importance": 0.563,
-      "importance_score": 0.8839,
+      "score": 0.8827,
+      "importance": 0.5622,
+      "importance_score": 0.8827,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8151,
+        "recency": 0.8112,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1004,6 +768,183 @@
         "url": "https://www.traveldaily.cn/article/190513",
         "source": "环球旅讯 TravelDaily",
         "source_name": "环球旅讯 TravelDaily"
+      }
+    },
+    {
+      "story_id": "story_c67aef73d52b",
+      "title": "Swimming Against the Current: Thomas Finn on Fatherhood, Business, and Hospitality",
+      "url": "https://insights.ehotelier.com/suppliers/2026/08/19/swimming-against-the-current-thomas-finn-on-fatherhood-business-and-hospitality/?utm_source=rss&utm_medium=rss&utm_campaign=swimming-against-the-current-thomas-finn-on-fatherhood-business-and-hospitality",
+      "primary_url": "https://insights.ehotelier.com/suppliers/2026/08/19/swimming-against-the-current-thomas-finn-on-fatherhood-business-and-hospitality/?utm_source=rss&utm_medium=rss&utm_campaign=swimming-against-the-current-thomas-finn-on-fatherhood-business-and-hospitality",
+      "source": "eHotelier",
+      "source_name": "eHotelier",
+      "sources": [
+        {
+          "id": "hotelitem_c67aef73d52b",
+          "title": "Swimming Against the Current: Thomas Finn on Fatherhood, Business, and Hospitality",
+          "url": "https://insights.ehotelier.com/suppliers/2026/08/19/swimming-against-the-current-thomas-finn-on-fatherhood-business-and-hospitality/?utm_source=rss&utm_medium=rss&utm_campaign=swimming-against-the-current-thomas-finn-on-fatherhood-business-and-hospitality",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-08-19T01:50:26Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "eHotelier"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_c67aef73d52b",
+          "title": "Swimming Against the Current: Thomas Finn on Fatherhood, Business, and Hospitality",
+          "url": "https://insights.ehotelier.com/suppliers/2026/08/19/swimming-against-the-current-thomas-finn-on-fatherhood-business-and-hospitality/?utm_source=rss&utm_medium=rss&utm_campaign=swimming-against-the-current-thomas-finn-on-fatherhood-business-and-hospitality",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-08-19T01:50:26Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.865,
+      "importance": 0.6,
+      "importance_score": 0.865,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9999,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-19T01:50:26Z",
+      "latest_at": "2026-08-19T01:50:26Z",
+      "primary_item": {
+        "id": "hotelitem_c67aef73d52b",
+        "title": "Swimming Against the Current: Thomas Finn on Fatherhood, Business, and Hospitality",
+        "url": "https://insights.ehotelier.com/suppliers/2026/08/19/swimming-against-the-current-thomas-finn-on-fatherhood-business-and-hospitality/?utm_source=rss&utm_medium=rss&utm_campaign=swimming-against-the-current-thomas-finn-on-fatherhood-business-and-hospitality",
+        "source": "eHotelier",
+        "source_name": "eHotelier"
+      }
+    },
+    {
+      "story_id": "story_3a556fdd6a14",
+      "title": "Meyer Jabara Hotels now managing First University Hotel",
+      "url": "https://insights.ehotelier.com/properties/2026/08/19/meyer-jabara-hotels-now-managing-first-university-hotel/?utm_source=rss&utm_medium=rss&utm_campaign=meyer-jabara-hotels-now-managing-first-university-hotel",
+      "primary_url": "https://insights.ehotelier.com/properties/2026/08/19/meyer-jabara-hotels-now-managing-first-university-hotel/?utm_source=rss&utm_medium=rss&utm_campaign=meyer-jabara-hotels-now-managing-first-university-hotel",
+      "source": "eHotelier",
+      "source_name": "eHotelier",
+      "sources": [
+        {
+          "id": "hotelitem_3a556fdd6a14",
+          "title": "Meyer Jabara Hotels now managing First University Hotel",
+          "url": "https://insights.ehotelier.com/properties/2026/08/19/meyer-jabara-hotels-now-managing-first-university-hotel/?utm_source=rss&utm_medium=rss&utm_campaign=meyer-jabara-hotels-now-managing-first-university-hotel",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-08-19T01:25:40Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "eHotelier"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_3a556fdd6a14",
+          "title": "Meyer Jabara Hotels now managing First University Hotel",
+          "url": "https://insights.ehotelier.com/properties/2026/08/19/meyer-jabara-hotels-now-managing-first-university-hotel/?utm_source=rss&utm_medium=rss&utm_campaign=meyer-jabara-hotels-now-managing-first-university-hotel",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-08-19T01:25:40Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8649,
+      "importance": 0.5999,
+      "importance_score": 0.8649,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9996,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-19T01:25:40Z",
+      "latest_at": "2026-08-19T01:25:40Z",
+      "primary_item": {
+        "id": "hotelitem_3a556fdd6a14",
+        "title": "Meyer Jabara Hotels now managing First University Hotel",
+        "url": "https://insights.ehotelier.com/properties/2026/08/19/meyer-jabara-hotels-now-managing-first-university-hotel/?utm_source=rss&utm_medium=rss&utm_campaign=meyer-jabara-hotels-now-managing-first-university-hotel",
+        "source": "eHotelier",
+        "source_name": "eHotelier"
+      }
+    },
+    {
+      "story_id": "story_467dbf237576",
+      "title": "Your Non-Alcoholic Menu Is a Revenue Line, Not an Afterthought",
+      "url": "https://insights.ehotelier.com/announcements/2026/08/19/your-non-alcoholic-menu-is-a-revenue-line-not-an-afterthought/?utm_source=rss&utm_medium=rss&utm_campaign=your-non-alcoholic-menu-is-a-revenue-line-not-an-afterthought",
+      "primary_url": "https://insights.ehotelier.com/announcements/2026/08/19/your-non-alcoholic-menu-is-a-revenue-line-not-an-afterthought/?utm_source=rss&utm_medium=rss&utm_campaign=your-non-alcoholic-menu-is-a-revenue-line-not-an-afterthought",
+      "source": "eHotelier",
+      "source_name": "eHotelier",
+      "sources": [
+        {
+          "id": "hotelitem_467dbf237576",
+          "title": "Your Non-Alcoholic Menu Is a Revenue Line, Not an Afterthought",
+          "url": "https://insights.ehotelier.com/announcements/2026/08/19/your-non-alcoholic-menu-is-a-revenue-line-not-an-afterthought/?utm_source=rss&utm_medium=rss&utm_campaign=your-non-alcoholic-menu-is-a-revenue-line-not-an-afterthought",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-08-18T23:00:58Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "eHotelier"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_467dbf237576",
+          "title": "Your Non-Alcoholic Menu Is a Revenue Line, Not an Afterthought",
+          "url": "https://insights.ehotelier.com/announcements/2026/08/19/your-non-alcoholic-menu-is-a-revenue-line-not-an-afterthought/?utm_source=rss&utm_medium=rss&utm_campaign=your-non-alcoholic-menu-is-a-revenue-line-not-an-afterthought",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-08-18T23:00:58Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8645,
+      "importance": 0.5995,
+      "importance_score": 0.8645,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9973,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-18T23:00:58Z",
+      "latest_at": "2026-08-18T23:00:58Z",
+      "primary_item": {
+        "id": "hotelitem_467dbf237576",
+        "title": "Your Non-Alcoholic Menu Is a Revenue Line, Not an Afterthought",
+        "url": "https://insights.ehotelier.com/announcements/2026/08/19/your-non-alcoholic-menu-is-a-revenue-line-not-an-afterthought/?utm_source=rss&utm_medium=rss&utm_campaign=your-non-alcoholic-menu-is-a-revenue-line-not-an-afterthought",
+        "source": "eHotelier",
+        "source_name": "eHotelier"
       }
     },
     {
@@ -1041,14 +982,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8635,
-      "importance": 0.5985,
-      "importance_score": 0.8635,
+      "score": 0.8628,
+      "importance": 0.5977,
+      "importance_score": 0.8628,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9923,
+        "recency": 0.9884,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1100,14 +1041,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8633,
-      "importance": 0.549,
-      "importance_score": 0.8633,
+      "score": 0.8621,
+      "importance": 0.5482,
+      "importance_score": 0.8621,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.7448,
+        "recency": 0.7409,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1125,124 +1066,6 @@
       }
     },
     {
-      "story_id": "story_23031fc5314e",
-      "title": "Paying Travel Advisors on time is a commercial strategy, not back office",
-      "url": "https://insights.ehotelier.com/insights/2026/08/18/paying-travel-advisors-on-time-is-a-commercial-strategy-not-back-office/?utm_source=rss&utm_medium=rss&utm_campaign=paying-travel-advisors-on-time-is-a-commercial-strategy-not-back-office",
-      "primary_url": "https://insights.ehotelier.com/insights/2026/08/18/paying-travel-advisors-on-time-is-a-commercial-strategy-not-back-office/?utm_source=rss&utm_medium=rss&utm_campaign=paying-travel-advisors-on-time-is-a-commercial-strategy-not-back-office",
-      "source": "eHotelier",
-      "source_name": "eHotelier",
-      "sources": [
-        {
-          "id": "hotelitem_23031fc5314e",
-          "title": "Paying Travel Advisors on time is a commercial strategy, not back office",
-          "url": "https://insights.ehotelier.com/insights/2026/08/18/paying-travel-advisors-on-time-is-a-commercial-strategy-not-back-office/?utm_source=rss&utm_medium=rss&utm_campaign=paying-travel-advisors-on-time-is-a-commercial-strategy-not-back-office",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-08-18T01:22:22Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "eHotelier"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_23031fc5314e",
-          "title": "Paying Travel Advisors on time is a commercial strategy, not back office",
-          "url": "https://insights.ehotelier.com/insights/2026/08/18/paying-travel-advisors-on-time-is-a-commercial-strategy-not-back-office/?utm_source=rss&utm_medium=rss&utm_campaign=paying-travel-advisors-on-time-is-a-commercial-strategy-not-back-office",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-08-18T01:22:22Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8614,
-      "importance": 0.5962,
-      "importance_score": 0.8614,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9812,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-18T01:22:22Z",
-      "latest_at": "2026-08-18T01:22:22Z",
-      "primary_item": {
-        "id": "hotelitem_23031fc5314e",
-        "title": "Paying Travel Advisors on time is a commercial strategy, not back office",
-        "url": "https://insights.ehotelier.com/insights/2026/08/18/paying-travel-advisors-on-time-is-a-commercial-strategy-not-back-office/?utm_source=rss&utm_medium=rss&utm_campaign=paying-travel-advisors-on-time-is-a-commercial-strategy-not-back-office",
-        "source": "eHotelier",
-        "source_name": "eHotelier"
-      }
-    },
-    {
-      "story_id": "story_ffeefc0b9e28",
-      "title": "10 ways hotels and restaurants are redefining sustainability",
-      "url": "https://insights.ehotelier.com/suppliers/2026/08/18/10-ways-hotels-and-restaurants-are-redefining-sustainability/?utm_source=rss&utm_medium=rss&utm_campaign=10-ways-hotels-and-restaurants-are-redefining-sustainability",
-      "primary_url": "https://insights.ehotelier.com/suppliers/2026/08/18/10-ways-hotels-and-restaurants-are-redefining-sustainability/?utm_source=rss&utm_medium=rss&utm_campaign=10-ways-hotels-and-restaurants-are-redefining-sustainability",
-      "source": "eHotelier",
-      "source_name": "eHotelier",
-      "sources": [
-        {
-          "id": "hotelitem_ffeefc0b9e28",
-          "title": "10 ways hotels and restaurants are redefining sustainability",
-          "url": "https://insights.ehotelier.com/suppliers/2026/08/18/10-ways-hotels-and-restaurants-are-redefining-sustainability/?utm_source=rss&utm_medium=rss&utm_campaign=10-ways-hotels-and-restaurants-are-redefining-sustainability",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-08-18T00:52:40Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "eHotelier"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_ffeefc0b9e28",
-          "title": "10 ways hotels and restaurants are redefining sustainability",
-          "url": "https://insights.ehotelier.com/suppliers/2026/08/18/10-ways-hotels-and-restaurants-are-redefining-sustainability/?utm_source=rss&utm_medium=rss&utm_campaign=10-ways-hotels-and-restaurants-are-redefining-sustainability",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-08-18T00:52:40Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8613,
-      "importance": 0.5961,
-      "importance_score": 0.8613,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9807,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-18T00:52:40Z",
-      "latest_at": "2026-08-18T00:52:40Z",
-      "primary_item": {
-        "id": "hotelitem_ffeefc0b9e28",
-        "title": "10 ways hotels and restaurants are redefining sustainability",
-        "url": "https://insights.ehotelier.com/suppliers/2026/08/18/10-ways-hotels-and-restaurants-are-redefining-sustainability/?utm_source=rss&utm_medium=rss&utm_campaign=10-ways-hotels-and-restaurants-are-redefining-sustainability",
-        "source": "eHotelier",
-        "source_name": "eHotelier"
-      }
-    },
-    {
       "story_id": "story_c7c15b7680c9",
       "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
       "url": "https://www.chinahotel.org.cn/articles/17408",
@@ -1257,7 +1080,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-08-18T21:40:46.621651Z"
+          "published_at": "2026-08-19T01:54:28.744950Z"
         },
         {
           "id": "hotelitem_c7c15b7680c9",
@@ -1266,7 +1089,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-08-18T21:40:46.621651Z"
+          "published_at": "2026-08-19T01:54:28.744950Z"
         }
       ],
       "source_count": 2,
@@ -1281,7 +1104,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-08-18T21:40:46.621651Z"
+          "published_at": "2026-08-19T01:54:28.744950Z"
         },
         {
           "id": "hotelitem_c7c15b7680c9",
@@ -1290,7 +1113,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-08-18T21:40:46.621651Z"
+          "published_at": "2026-08-19T01:54:28.744950Z"
         }
       ],
       "item_count": 2,
@@ -1310,8 +1133,8 @@
         "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-18T21:40:46.621651Z",
-      "latest_at": "2026-08-18T21:40:46.621651Z",
+      "earliest_at": "2026-08-19T01:54:28.744950Z",
+      "latest_at": "2026-08-19T01:54:28.744950Z",
       "primary_item": {
         "id": "hotelitem_d4370964909c",
         "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
@@ -1355,14 +1178,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8593,
-      "importance": 0.5941,
-      "importance_score": 0.8593,
+      "score": 0.8586,
+      "importance": 0.5933,
+      "importance_score": 0.8586,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9705,
+        "recency": 0.9666,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1394,7 +1217,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-08-18T21:40:46.621651Z"
+          "published_at": "2026-08-19T01:54:28.744950Z"
         }
       ],
       "source_count": 1,
@@ -1409,7 +1232,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-08-18T21:40:46.621651Z"
+          "published_at": "2026-08-19T01:54:28.744950Z"
         }
       ],
       "item_count": 1,
@@ -1428,8 +1251,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-18T21:40:46.621651Z",
-      "latest_at": "2026-08-18T21:40:46.621651Z",
+      "earliest_at": "2026-08-19T01:54:28.744950Z",
+      "latest_at": "2026-08-19T01:54:28.744950Z",
       "primary_item": {
         "id": "hotelitem_e4ce0593c384",
         "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
@@ -1453,7 +1276,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-08-18T21:40:46.621651Z"
+          "published_at": "2026-08-19T01:54:28.744950Z"
         }
       ],
       "source_count": 1,
@@ -1468,7 +1291,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-08-18T21:40:46.621651Z"
+          "published_at": "2026-08-19T01:54:28.744950Z"
         }
       ],
       "item_count": 1,
@@ -1487,8 +1310,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-18T21:40:46.621651Z",
-      "latest_at": "2026-08-18T21:40:46.621651Z",
+      "earliest_at": "2026-08-19T01:54:28.744950Z",
+      "latest_at": "2026-08-19T01:54:28.744950Z",
       "primary_item": {
         "id": "hotelitem_fa34986b4fc0",
         "title": "文化和旅游部、金融监管总局关于警惕借“保...",
@@ -1512,7 +1335,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-08-18T21:40:46.621651Z"
+          "published_at": "2026-08-19T01:54:28.744950Z"
         }
       ],
       "source_count": 1,
@@ -1527,7 +1350,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-08-18T21:40:46.621651Z"
+          "published_at": "2026-08-19T01:54:28.744950Z"
         }
       ],
       "item_count": 1,
@@ -1546,8 +1369,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-18T21:40:46.621651Z",
-      "latest_at": "2026-08-18T21:40:46.621651Z",
+      "earliest_at": "2026-08-19T01:54:28.744950Z",
+      "latest_at": "2026-08-19T01:54:28.744950Z",
       "primary_item": {
         "id": "hotelitem_9a958319a874",
         "title": "文化和旅游部印发《旅游强国建设“十五五”...",
@@ -1571,7 +1394,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-08-18T21:40:46.621651Z"
+          "published_at": "2026-08-19T01:54:28.744950Z"
         }
       ],
       "source_count": 1,
@@ -1586,7 +1409,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-08-18T21:40:46.621651Z"
+          "published_at": "2026-08-19T01:54:28.744950Z"
         }
       ],
       "item_count": 1,
@@ -1605,73 +1428,14 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-18T21:40:46.621651Z",
-      "latest_at": "2026-08-18T21:40:46.621651Z",
+      "earliest_at": "2026-08-19T01:54:28.744950Z",
+      "latest_at": "2026-08-19T01:54:28.744950Z",
       "primary_item": {
         "id": "hotelitem_8f218475e743",
         "title": "文化和旅游部发布2026年上半年国内居民出游数据情况",
         "url": "https://www.ctaweb.org.cn/gongzuodongtai/10523.html",
         "source": "中国旅游研究院",
         "source_name": "中国旅游研究院"
-      }
-    },
-    {
-      "story_id": "story_e5201ca8a8ac",
-      "title": "Food Delivery Apps are the new OTAs – and they are quietly eating your hotel’s F&B revenue",
-      "url": "https://insights.ehotelier.com/insights/2026/08/17/food-delivery-apps-are-the-new-otas-and-they-are-quietly-eating-your-hotels-fb-revenue/?utm_source=rss&utm_medium=rss&utm_campaign=food-delivery-apps-are-the-new-otas-and-they-are-quietly-eating-your-hotels-fb-revenue",
-      "primary_url": "https://insights.ehotelier.com/insights/2026/08/17/food-delivery-apps-are-the-new-otas-and-they-are-quietly-eating-your-hotels-fb-revenue/?utm_source=rss&utm_medium=rss&utm_campaign=food-delivery-apps-are-the-new-otas-and-they-are-quietly-eating-your-hotels-fb-revenue",
-      "source": "eHotelier",
-      "source_name": "eHotelier",
-      "sources": [
-        {
-          "id": "hotelitem_e5201ca8a8ac",
-          "title": "Food Delivery Apps are the new OTAs – and they are quietly eating your hotel’s F&B revenue",
-          "url": "https://insights.ehotelier.com/insights/2026/08/17/food-delivery-apps-are-the-new-otas-and-they-are-quietly-eating-your-hotels-fb-revenue/?utm_source=rss&utm_medium=rss&utm_campaign=food-delivery-apps-are-the-new-otas-and-they-are-quietly-eating-your-hotels-fb-revenue",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-08-17T01:50:47Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "eHotelier"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_e5201ca8a8ac",
-          "title": "Food Delivery Apps are the new OTAs – and they are quietly eating your hotel’s F&B revenue",
-          "url": "https://insights.ehotelier.com/insights/2026/08/17/food-delivery-apps-are-the-new-otas-and-they-are-quietly-eating-your-hotels-fb-revenue/?utm_source=rss&utm_medium=rss&utm_campaign=food-delivery-apps-are-the-new-otas-and-they-are-quietly-eating-your-hotels-fb-revenue",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-08-17T01:50:47Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8572,
-      "importance": 0.5919,
-      "importance_score": 0.8572,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9594,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-17T01:50:47Z",
-      "latest_at": "2026-08-17T01:50:47Z",
-      "primary_item": {
-        "id": "hotelitem_e5201ca8a8ac",
-        "title": "Food Delivery Apps are the new OTAs – and they are quietly eating your hotel’s F&B revenue",
-        "url": "https://insights.ehotelier.com/insights/2026/08/17/food-delivery-apps-are-the-new-otas-and-they-are-quietly-eating-your-hotels-fb-revenue/?utm_source=rss&utm_medium=rss&utm_campaign=food-delivery-apps-are-the-new-otas-and-they-are-quietly-eating-your-hotels-fb-revenue",
-        "source": "eHotelier",
-        "source_name": "eHotelier"
       }
     },
     {
@@ -1709,14 +1473,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8466,
-      "importance": 0.5809,
-      "importance_score": 0.8466,
+      "score": 0.8458,
+      "importance": 0.5801,
+      "importance_score": 0.8458,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9044,
+        "recency": 0.9004,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1768,14 +1532,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8463,
-      "importance": 0.5806,
-      "importance_score": 0.8463,
+      "score": 0.8456,
+      "importance": 0.5799,
+      "importance_score": 0.8456,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9032,
+        "recency": 0.8993,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1788,6 +1552,242 @@
         "id": "hotelitem_380fbcf47713",
         "title": "How Net Unit Growth Ate the Hotel Industry",
         "url": "https://skift.com/2026/08/14/how-net-unit-growth-ate-the-hotel-industry/",
+        "source": "Skift Hospitality",
+        "source_name": "Skift Hospitality"
+      }
+    },
+    {
+      "story_id": "story_090f9b250e36",
+      "title": "营收创新高，新航为何仍陷入季度亏损？",
+      "url": "https://www.traveldaily.cn/article/190489",
+      "primary_url": "https://www.traveldaily.cn/article/190489",
+      "source": "环球旅讯 TravelDaily",
+      "source_name": "环球旅讯 TravelDaily",
+      "sources": [
+        {
+          "id": "hotelitem_090f9b250e36",
+          "title": "营收创新高，新航为何仍陷入季度亏损？",
+          "url": "https://www.traveldaily.cn/article/190489",
+          "source": "环球旅讯 TravelDaily",
+          "source_name": "环球旅讯 TravelDaily",
+          "site_id": "traveldaily",
+          "published_at": "2026-08-04T15:23:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "环球旅讯 TravelDaily"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_090f9b250e36",
+          "title": "营收创新高，新航为何仍陷入季度亏损？",
+          "url": "https://www.traveldaily.cn/article/190489",
+          "source": "环球旅讯 TravelDaily",
+          "source_name": "环球旅讯 TravelDaily",
+          "site_id": "traveldaily",
+          "published_at": "2026-08-04T15:23:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.844,
+      "importance": 0.5358,
+      "importance_score": 0.844,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.6791,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-04T15:23:00Z",
+      "latest_at": "2026-08-04T15:23:00Z",
+      "primary_item": {
+        "id": "hotelitem_090f9b250e36",
+        "title": "营收创新高，新航为何仍陷入季度亏损？",
+        "url": "https://www.traveldaily.cn/article/190489",
+        "source": "环球旅讯 TravelDaily",
+        "source_name": "环球旅讯 TravelDaily"
+      }
+    },
+    {
+      "story_id": "story_9a3189550a21",
+      "title": "Stranded Cruise Ships, Higher Fuel Prices: Iran War Eats Into TUI’s Profits",
+      "url": "https://skift.com/2026/08/12/tui-q3-earnings-iran-war/",
+      "primary_url": "https://skift.com/2026/08/12/tui-q3-earnings-iran-war/",
+      "source": "Skift Hospitality",
+      "source_name": "Skift Hospitality",
+      "sources": [
+        {
+          "id": "hotelitem_9a3189550a21",
+          "title": "Stranded Cruise Ships, Higher Fuel Prices: Iran War Eats Into TUI’s Profits",
+          "url": "https://skift.com/2026/08/12/tui-q3-earnings-iran-war/",
+          "source": "Skift Hospitality",
+          "source_name": "Skift Hospitality",
+          "site_id": "skift",
+          "published_at": "2026-08-12T17:04:21Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Skift Hospitality"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_9a3189550a21",
+          "title": "Stranded Cruise Ships, Higher Fuel Prices: Iran War Eats Into TUI’s Profits",
+          "url": "https://skift.com/2026/08/12/tui-q3-earnings-iran-war/",
+          "source": "Skift Hospitality",
+          "source_name": "Skift Hospitality",
+          "site_id": "skift",
+          "published_at": "2026-08-12T17:04:21Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8377,
+      "importance": 0.5717,
+      "importance_score": 0.8377,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.8585,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-12T17:04:21Z",
+      "latest_at": "2026-08-12T17:04:21Z",
+      "primary_item": {
+        "id": "hotelitem_9a3189550a21",
+        "title": "Stranded Cruise Ships, Higher Fuel Prices: Iran War Eats Into TUI’s Profits",
+        "url": "https://skift.com/2026/08/12/tui-q3-earnings-iran-war/",
+        "source": "Skift Hospitality",
+        "source_name": "Skift Hospitality"
+      }
+    },
+    {
+      "story_id": "story_895df6b8b184",
+      "title": "Hospitality dealmakers pursued ‘bigger, higher-conviction’ M&A in H1 2026",
+      "url": "https://www.hoteldive.com/news/hospitality-mergers-acquisitions-H1-2026-kpmg/827622/",
+      "primary_url": "https://www.hoteldive.com/news/hospitality-mergers-acquisitions-H1-2026-kpmg/827622/",
+      "source": "Hotel Dive",
+      "source_name": "Hotel Dive",
+      "sources": [
+        {
+          "id": "hotelitem_895df6b8b184",
+          "title": "Hospitality dealmakers pursued ‘bigger, higher-conviction’ M&A in H1 2026",
+          "url": "https://www.hoteldive.com/news/hospitality-mergers-acquisitions-H1-2026-kpmg/827622/",
+          "source": "Hotel Dive",
+          "source_name": "Hotel Dive",
+          "site_id": "hoteldive",
+          "published_at": "2026-08-12T13:13:33Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hotel Dive"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_895df6b8b184",
+          "title": "Hospitality dealmakers pursued ‘bigger, higher-conviction’ M&A in H1 2026",
+          "url": "https://www.hoteldive.com/news/hospitality-mergers-acquisitions-H1-2026-kpmg/827622/",
+          "source": "Hotel Dive",
+          "source_name": "Hotel Dive",
+          "site_id": "hoteldive",
+          "published_at": "2026-08-12T13:13:33Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.837,
+      "importance": 0.571,
+      "importance_score": 0.837,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.8549,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-12T13:13:33Z",
+      "latest_at": "2026-08-12T13:13:33Z",
+      "primary_item": {
+        "id": "hotelitem_895df6b8b184",
+        "title": "Hospitality dealmakers pursued ‘bigger, higher-conviction’ M&A in H1 2026",
+        "url": "https://www.hoteldive.com/news/hospitality-mergers-acquisitions-H1-2026-kpmg/827622/",
+        "source": "Hotel Dive",
+        "source_name": "Hotel Dive"
+      }
+    },
+    {
+      "story_id": "story_00c9e3835d2d",
+      "title": "High-Paying Foreign Guests Are Still Missing in India, Oberoi Hotels Says",
+      "url": "https://skift.com/2026/08/12/high-paying-foreign-guests-are-still-missing-in-india-oberoi-hotels-says/",
+      "primary_url": "https://skift.com/2026/08/12/high-paying-foreign-guests-are-still-missing-in-india-oberoi-hotels-says/",
+      "source": "Skift Hospitality",
+      "source_name": "Skift Hospitality",
+      "sources": [
+        {
+          "id": "hotelitem_00c9e3835d2d",
+          "title": "High-Paying Foreign Guests Are Still Missing in India, Oberoi Hotels Says",
+          "url": "https://skift.com/2026/08/12/high-paying-foreign-guests-are-still-missing-in-india-oberoi-hotels-says/",
+          "source": "Skift Hospitality",
+          "source_name": "Skift Hospitality",
+          "site_id": "skift",
+          "published_at": "2026-08-12T12:41:08Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Skift Hospitality"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_00c9e3835d2d",
+          "title": "High-Paying Foreign Guests Are Still Missing in India, Oberoi Hotels Says",
+          "url": "https://skift.com/2026/08/12/high-paying-foreign-guests-are-still-missing-in-india-oberoi-hotels-says/",
+          "source": "Skift Hospitality",
+          "source_name": "Skift Hospitality",
+          "site_id": "skift",
+          "published_at": "2026-08-12T12:41:08Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8369,
+      "importance": 0.5709,
+      "importance_score": 0.8369,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.8544,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-12T12:41:08Z",
+      "latest_at": "2026-08-12T12:41:08Z",
+      "primary_item": {
+        "id": "hotelitem_00c9e3835d2d",
+        "title": "High-Paying Foreign Guests Are Still Missing in India, Oberoi Hotels Says",
+        "url": "https://skift.com/2026/08/12/high-paying-foreign-guests-are-still-missing-in-india-oberoi-hotels-says/",
         "source": "Skift Hospitality",
         "source_name": "Skift Hospitality"
       }
