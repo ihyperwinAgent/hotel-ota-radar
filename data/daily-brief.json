@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T18:55:21.522699Z",
+  "generated_at": "2026-08-19T21:42:58.326440Z",
   "window_hours": 1080,
   "total_items": 30,
   "items": [
@@ -38,14 +38,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.979,
-      "importance": 0.5665,
-      "importance_score": 0.979,
+      "score": 0.9782,
+      "importance": 0.566,
+      "importance_score": 0.9782,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8325,
+        "recency": 0.8299,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -60,6 +60,65 @@
         "url": "https://ir.tuniu.com/2026-08-12-Tuniu-to-Report-Second-Quarter-2026-Financial-Results-on-August-25,-2026",
         "source": "途牛 Tuniu IR",
         "source_name": "途牛 Tuniu IR"
+      }
+    },
+    {
+      "story_id": "story_29bb136c8856",
+      "title": "Marriott appoints new chief information security officer",
+      "url": "https://www.hoteldive.com/news/marriott-appoints-chief-information-security-officer/828310/",
+      "primary_url": "https://www.hoteldive.com/news/marriott-appoints-chief-information-security-officer/828310/",
+      "source": "Hotel Dive",
+      "source_name": "Hotel Dive",
+      "sources": [
+        {
+          "id": "hotelitem_29bb136c8856",
+          "title": "Marriott appoints new chief information security officer",
+          "url": "https://www.hoteldive.com/news/marriott-appoints-chief-information-security-officer/828310/",
+          "source": "Hotel Dive",
+          "source_name": "Hotel Dive",
+          "site_id": "hoteldive",
+          "published_at": "2026-08-19T19:11:17Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hotel Dive"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_29bb136c8856",
+          "title": "Marriott appoints new chief information security officer",
+          "url": "https://www.hoteldive.com/news/marriott-appoints-chief-information-security-officer/828310/",
+          "source": "Hotel Dive",
+          "source_name": "Hotel Dive",
+          "site_id": "hoteldive",
+          "published_at": "2026-08-19T19:11:17Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.9545,
+      "importance": 0.5995,
+      "importance_score": 0.9545,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9977,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-19T19:11:17Z",
+      "latest_at": "2026-08-19T19:11:17Z",
+      "primary_item": {
+        "id": "hotelitem_29bb136c8856",
+        "title": "Marriott appoints new chief information security officer",
+        "url": "https://www.hoteldive.com/news/marriott-appoints-chief-information-security-officer/828310/",
+        "source": "Hotel Dive",
+        "source_name": "Hotel Dive"
       }
     },
     {
@@ -97,14 +156,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9457,
-      "importance": 0.5904,
-      "importance_score": 0.9457,
+      "score": 0.9452,
+      "importance": 0.5899,
+      "importance_score": 0.9452,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9519,
+        "recency": 0.9493,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -156,14 +215,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9454,
-      "importance": 0.5901,
-      "importance_score": 0.9454,
+      "score": 0.9449,
+      "importance": 0.5895,
+      "importance_score": 0.9449,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9503,
+        "recency": 0.9477,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -215,14 +274,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9326,
-      "importance": 0.5768,
-      "importance_score": 0.9326,
+      "score": 0.9321,
+      "importance": 0.5763,
+      "importance_score": 0.9321,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.884,
+        "recency": 0.8814,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -237,6 +296,65 @@
         "url": "https://www.hoteldive.com/news/lodging-lowdown-radisson-hotel-group-launches-b2b-extended-stay-program/827897/",
         "source": "Hotel Dive",
         "source_name": "Hotel Dive"
+      }
+    },
+    {
+      "story_id": "story_5757e195f316",
+      "title": "Waiting is the most expensive habit in revenue management",
+      "url": "https://boutiquehotelnews.com/features/expensive-habit-revenue-management/?utm_source=rss&utm_medium=rss&utm_campaign=expensive-habit-revenue-management",
+      "primary_url": "https://boutiquehotelnews.com/features/expensive-habit-revenue-management/?utm_source=rss&utm_medium=rss&utm_campaign=expensive-habit-revenue-management",
+      "source": "Boutique Hotel News",
+      "source_name": "Boutique Hotel News",
+      "sources": [
+        {
+          "id": "hotelitem_5757e195f316",
+          "title": "Waiting is the most expensive habit in revenue management",
+          "url": "https://boutiquehotelnews.com/features/expensive-habit-revenue-management/?utm_source=rss&utm_medium=rss&utm_campaign=expensive-habit-revenue-management",
+          "source": "Boutique Hotel News",
+          "source_name": "Boutique Hotel News",
+          "site_id": "boutiquehotel",
+          "published_at": "2026-08-17T12:21:58Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Boutique Hotel News"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_5757e195f316",
+          "title": "Waiting is the most expensive habit in revenue management",
+          "url": "https://boutiquehotelnews.com/features/expensive-habit-revenue-management/?utm_source=rss&utm_medium=rss&utm_campaign=expensive-habit-revenue-management",
+          "source": "Boutique Hotel News",
+          "source_name": "Boutique Hotel News",
+          "site_id": "boutiquehotel",
+          "published_at": "2026-08-17T12:21:58Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.9298,
+      "importance": 0.5894,
+      "importance_score": 0.9298,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9469,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-17T12:21:58Z",
+      "latest_at": "2026-08-17T12:21:58Z",
+      "primary_item": {
+        "id": "hotelitem_5757e195f316",
+        "title": "Waiting is the most expensive habit in revenue management",
+        "url": "https://boutiquehotelnews.com/features/expensive-habit-revenue-management/?utm_source=rss&utm_medium=rss&utm_campaign=expensive-habit-revenue-management",
+        "source": "Boutique Hotel News",
+        "source_name": "Boutique Hotel News"
       }
     },
     {
@@ -274,14 +392,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9297,
-      "importance": 0.5738,
-      "importance_score": 0.9297,
+      "score": 0.9292,
+      "importance": 0.5733,
+      "importance_score": 0.9292,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8691,
+        "recency": 0.8665,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -333,14 +451,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9294,
-      "importance": 0.5734,
-      "importance_score": 0.9294,
+      "score": 0.9289,
+      "importance": 0.5729,
+      "importance_score": 0.9289,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8672,
+        "recency": 0.8646,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -355,65 +473,6 @@
         "url": "https://www.hoteldive.com/news/braemar-sells-key-west-resort/827868/",
         "source": "Hotel Dive",
         "source_name": "Hotel Dive"
-      }
-    },
-    {
-      "story_id": "story_54c76dab7226",
-      "title": "Atour Lifestyle Holdings Limited to Report Second Quarter 2026 Financial Results on August 20, 2026",
-      "url": "https://ir.yaduo.com/news-releases/news-release-details/atour-lifestyle-holdings-limited-report-second-quarter-2026",
-      "primary_url": "https://ir.yaduo.com/news-releases/news-release-details/atour-lifestyle-holdings-limited-report-second-quarter-2026",
-      "source": "亚朵 Atour IR",
-      "source_name": "亚朵 Atour IR",
-      "sources": [
-        {
-          "id": "hotelitem_54c76dab7226",
-          "title": "Atour Lifestyle Holdings Limited to Report Second Quarter 2026 Financial Results on August 20, 2026",
-          "url": "https://ir.yaduo.com/news-releases/news-release-details/atour-lifestyle-holdings-limited-report-second-quarter-2026",
-          "source": "亚朵 Atour IR",
-          "source_name": "亚朵 Atour IR",
-          "site_id": "atour_ir",
-          "published_at": "2026-08-06T10:00:07Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "亚朵 Atour IR"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_54c76dab7226",
-          "title": "Atour Lifestyle Holdings Limited to Report Second Quarter 2026 Financial Results on August 20, 2026",
-          "url": "https://ir.yaduo.com/news-releases/news-release-details/atour-lifestyle-holdings-limited-report-second-quarter-2026",
-          "source": "亚朵 Atour IR",
-          "source_name": "亚朵 Atour IR",
-          "site_id": "atour_ir",
-          "published_at": "2026-08-06T10:00:07Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.9284,
-      "importance": 0.5406,
-      "importance_score": 0.9284,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.7029,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-06T10:00:07Z",
-      "latest_at": "2026-08-06T10:00:07Z",
-      "primary_item": {
-        "id": "hotelitem_54c76dab7226",
-        "title": "Atour Lifestyle Holdings Limited to Report Second Quarter 2026 Financial Results on August 20, 2026",
-        "url": "https://ir.yaduo.com/news-releases/news-release-details/atour-lifestyle-holdings-limited-report-second-quarter-2026",
-        "source": "亚朵 Atour IR",
-        "source_name": "亚朵 Atour IR"
       }
     },
     {
@@ -451,14 +510,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9283,
-      "importance": 0.5723,
-      "importance_score": 0.9283,
+      "score": 0.9278,
+      "importance": 0.5718,
+      "importance_score": 0.9278,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8616,
+        "recency": 0.859,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -473,6 +532,65 @@
         "url": "https://skift.com/2026/08/13/accors-fix-for-corporate-travels-most-tedious-ritual-rates-that-dont-vanish/",
         "source": "Skift Hospitality",
         "source_name": "Skift Hospitality"
+      }
+    },
+    {
+      "story_id": "story_54c76dab7226",
+      "title": "Atour Lifestyle Holdings Limited to Report Second Quarter 2026 Financial Results on August 20, 2026",
+      "url": "https://ir.yaduo.com/news-releases/news-release-details/atour-lifestyle-holdings-limited-report-second-quarter-2026",
+      "primary_url": "https://ir.yaduo.com/news-releases/news-release-details/atour-lifestyle-holdings-limited-report-second-quarter-2026",
+      "source": "亚朵 Atour IR",
+      "source_name": "亚朵 Atour IR",
+      "sources": [
+        {
+          "id": "hotelitem_54c76dab7226",
+          "title": "Atour Lifestyle Holdings Limited to Report Second Quarter 2026 Financial Results on August 20, 2026",
+          "url": "https://ir.yaduo.com/news-releases/news-release-details/atour-lifestyle-holdings-limited-report-second-quarter-2026",
+          "source": "亚朵 Atour IR",
+          "source_name": "亚朵 Atour IR",
+          "site_id": "atour_ir",
+          "published_at": "2026-08-06T10:00:07Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "亚朵 Atour IR"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_54c76dab7226",
+          "title": "Atour Lifestyle Holdings Limited to Report Second Quarter 2026 Financial Results on August 20, 2026",
+          "url": "https://ir.yaduo.com/news-releases/news-release-details/atour-lifestyle-holdings-limited-report-second-quarter-2026",
+          "source": "亚朵 Atour IR",
+          "source_name": "亚朵 Atour IR",
+          "site_id": "atour_ir",
+          "published_at": "2026-08-06T10:00:07Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.9277,
+      "importance": 0.5401,
+      "importance_score": 0.9277,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.7003,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-06T10:00:07Z",
+      "latest_at": "2026-08-06T10:00:07Z",
+      "primary_item": {
+        "id": "hotelitem_54c76dab7226",
+        "title": "Atour Lifestyle Holdings Limited to Report Second Quarter 2026 Financial Results on August 20, 2026",
+        "url": "https://ir.yaduo.com/news-releases/news-release-details/atour-lifestyle-holdings-limited-report-second-quarter-2026",
+        "source": "亚朵 Atour IR",
+        "source_name": "亚朵 Atour IR"
       }
     },
     {
@@ -510,14 +628,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9223,
-      "importance": 0.5998,
-      "importance_score": 0.9223,
+      "score": 0.9218,
+      "importance": 0.5993,
+      "importance_score": 0.9218,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9991,
+        "recency": 0.9966,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -569,14 +687,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8781,
-      "importance": 0.5591,
-      "importance_score": 0.8781,
+      "score": 0.8774,
+      "importance": 0.5586,
+      "importance_score": 0.8774,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.7954,
+        "recency": 0.7929,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -591,65 +709,6 @@
         "url": "https://www.traveldaily.cn/article/190513",
         "source": "环球旅讯 TravelDaily",
         "source_name": "环球旅讯 TravelDaily"
-      }
-    },
-    {
-      "story_id": "story_3a556fdd6a14",
-      "title": "Meyer Jabara Hotels now managing First University Hotel",
-      "url": "https://insights.ehotelier.com/properties/2026/08/19/meyer-jabara-hotels-now-managing-first-university-hotel/?utm_source=rss&utm_medium=rss&utm_campaign=meyer-jabara-hotels-now-managing-first-university-hotel",
-      "primary_url": "https://insights.ehotelier.com/properties/2026/08/19/meyer-jabara-hotels-now-managing-first-university-hotel/?utm_source=rss&utm_medium=rss&utm_campaign=meyer-jabara-hotels-now-managing-first-university-hotel",
-      "source": "eHotelier",
-      "source_name": "eHotelier",
-      "sources": [
-        {
-          "id": "hotelitem_3a556fdd6a14",
-          "title": "Meyer Jabara Hotels now managing First University Hotel",
-          "url": "https://insights.ehotelier.com/properties/2026/08/19/meyer-jabara-hotels-now-managing-first-university-hotel/?utm_source=rss&utm_medium=rss&utm_campaign=meyer-jabara-hotels-now-managing-first-university-hotel",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-08-19T01:25:40Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "eHotelier"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_3a556fdd6a14",
-          "title": "Meyer Jabara Hotels now managing First University Hotel",
-          "url": "https://insights.ehotelier.com/properties/2026/08/19/meyer-jabara-hotels-now-managing-first-university-hotel/?utm_source=rss&utm_medium=rss&utm_campaign=meyer-jabara-hotels-now-managing-first-university-hotel",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-08-19T01:25:40Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8619,
-      "importance": 0.5968,
-      "importance_score": 0.8619,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9838,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-19T01:25:40Z",
-      "latest_at": "2026-08-19T01:25:40Z",
-      "primary_item": {
-        "id": "hotelitem_3a556fdd6a14",
-        "title": "Meyer Jabara Hotels now managing First University Hotel",
-        "url": "https://insights.ehotelier.com/properties/2026/08/19/meyer-jabara-hotels-now-managing-first-university-hotel/?utm_source=rss&utm_medium=rss&utm_campaign=meyer-jabara-hotels-now-managing-first-university-hotel",
-        "source": "eHotelier",
-        "source_name": "eHotelier"
       }
     },
     {
@@ -687,14 +746,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8619,
-      "importance": 0.5968,
-      "importance_score": 0.8619,
+      "score": 0.8615,
+      "importance": 0.5963,
+      "importance_score": 0.8615,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9842,
+        "recency": 0.9816,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -707,6 +766,65 @@
         "id": "hotelitem_c67aef73d52b",
         "title": "Swimming Against the Current: Thomas Finn on Fatherhood, Business, and Hospitality",
         "url": "https://insights.ehotelier.com/suppliers/2026/08/19/swimming-against-the-current-thomas-finn-on-fatherhood-business-and-hospitality/?utm_source=rss&utm_medium=rss&utm_campaign=swimming-against-the-current-thomas-finn-on-fatherhood-business-and-hospitality",
+        "source": "eHotelier",
+        "source_name": "eHotelier"
+      }
+    },
+    {
+      "story_id": "story_3a556fdd6a14",
+      "title": "Meyer Jabara Hotels now managing First University Hotel",
+      "url": "https://insights.ehotelier.com/properties/2026/08/19/meyer-jabara-hotels-now-managing-first-university-hotel/?utm_source=rss&utm_medium=rss&utm_campaign=meyer-jabara-hotels-now-managing-first-university-hotel",
+      "primary_url": "https://insights.ehotelier.com/properties/2026/08/19/meyer-jabara-hotels-now-managing-first-university-hotel/?utm_source=rss&utm_medium=rss&utm_campaign=meyer-jabara-hotels-now-managing-first-university-hotel",
+      "source": "eHotelier",
+      "source_name": "eHotelier",
+      "sources": [
+        {
+          "id": "hotelitem_3a556fdd6a14",
+          "title": "Meyer Jabara Hotels now managing First University Hotel",
+          "url": "https://insights.ehotelier.com/properties/2026/08/19/meyer-jabara-hotels-now-managing-first-university-hotel/?utm_source=rss&utm_medium=rss&utm_campaign=meyer-jabara-hotels-now-managing-first-university-hotel",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-08-19T01:25:40Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "eHotelier"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_3a556fdd6a14",
+          "title": "Meyer Jabara Hotels now managing First University Hotel",
+          "url": "https://insights.ehotelier.com/properties/2026/08/19/meyer-jabara-hotels-now-managing-first-university-hotel/?utm_source=rss&utm_medium=rss&utm_campaign=meyer-jabara-hotels-now-managing-first-university-hotel",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-08-19T01:25:40Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8614,
+      "importance": 0.5962,
+      "importance_score": 0.8614,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9812,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-19T01:25:40Z",
+      "latest_at": "2026-08-19T01:25:40Z",
+      "primary_item": {
+        "id": "hotelitem_3a556fdd6a14",
+        "title": "Meyer Jabara Hotels now managing First University Hotel",
+        "url": "https://insights.ehotelier.com/properties/2026/08/19/meyer-jabara-hotels-now-managing-first-university-hotel/?utm_source=rss&utm_medium=rss&utm_campaign=meyer-jabara-hotels-now-managing-first-university-hotel",
         "source": "eHotelier",
         "source_name": "eHotelier"
       }
@@ -746,14 +864,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8614,
-      "importance": 0.5963,
-      "importance_score": 0.8614,
+      "score": 0.8609,
+      "importance": 0.5958,
+      "importance_score": 0.8609,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9816,
+        "recency": 0.979,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -785,7 +903,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-08-19T18:55:21.522699Z"
+          "published_at": "2026-08-19T21:42:58.326440Z"
         },
         {
           "id": "hotelitem_c7c15b7680c9",
@@ -794,7 +912,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-08-19T18:55:21.522699Z"
+          "published_at": "2026-08-19T21:42:58.326440Z"
         }
       ],
       "source_count": 2,
@@ -809,7 +927,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-08-19T18:55:21.522699Z"
+          "published_at": "2026-08-19T21:42:58.326440Z"
         },
         {
           "id": "hotelitem_c7c15b7680c9",
@@ -818,7 +936,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-08-19T18:55:21.522699Z"
+          "published_at": "2026-08-19T21:42:58.326440Z"
         }
       ],
       "item_count": 2,
@@ -838,8 +956,8 @@
         "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-19T18:55:21.522699Z",
-      "latest_at": "2026-08-19T18:55:21.522699Z",
+      "earliest_at": "2026-08-19T21:42:58.326440Z",
+      "latest_at": "2026-08-19T21:42:58.326440Z",
       "primary_item": {
         "id": "hotelitem_d4370964909c",
         "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
@@ -883,14 +1001,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8597,
-      "importance": 0.5945,
-      "importance_score": 0.8597,
+      "score": 0.8592,
+      "importance": 0.594,
+      "importance_score": 0.8592,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9727,
+        "recency": 0.9701,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -922,7 +1040,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-08-19T18:55:21.522699Z"
+          "published_at": "2026-08-19T21:42:58.326440Z"
         }
       ],
       "source_count": 1,
@@ -937,7 +1055,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-08-19T18:55:21.522699Z"
+          "published_at": "2026-08-19T21:42:58.326440Z"
         }
       ],
       "item_count": 1,
@@ -956,8 +1074,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-19T18:55:21.522699Z",
-      "latest_at": "2026-08-19T18:55:21.522699Z",
+      "earliest_at": "2026-08-19T21:42:58.326440Z",
+      "latest_at": "2026-08-19T21:42:58.326440Z",
       "primary_item": {
         "id": "hotelitem_e4ce0593c384",
         "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
@@ -981,7 +1099,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-08-19T18:55:21.522699Z"
+          "published_at": "2026-08-19T21:42:58.326440Z"
         }
       ],
       "source_count": 1,
@@ -996,7 +1114,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-08-19T18:55:21.522699Z"
+          "published_at": "2026-08-19T21:42:58.326440Z"
         }
       ],
       "item_count": 1,
@@ -1015,8 +1133,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-19T18:55:21.522699Z",
-      "latest_at": "2026-08-19T18:55:21.522699Z",
+      "earliest_at": "2026-08-19T21:42:58.326440Z",
+      "latest_at": "2026-08-19T21:42:58.326440Z",
       "primary_item": {
         "id": "hotelitem_fa34986b4fc0",
         "title": "文化和旅游部、金融监管总局关于警惕借“保...",
@@ -1040,7 +1158,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-08-19T18:55:21.522699Z"
+          "published_at": "2026-08-19T21:42:58.326440Z"
         }
       ],
       "source_count": 1,
@@ -1055,7 +1173,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-08-19T18:55:21.522699Z"
+          "published_at": "2026-08-19T21:42:58.326440Z"
         }
       ],
       "item_count": 1,
@@ -1074,8 +1192,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-19T18:55:21.522699Z",
-      "latest_at": "2026-08-19T18:55:21.522699Z",
+      "earliest_at": "2026-08-19T21:42:58.326440Z",
+      "latest_at": "2026-08-19T21:42:58.326440Z",
       "primary_item": {
         "id": "hotelitem_9a958319a874",
         "title": "文化和旅游部印发《旅游强国建设“十五五”...",
@@ -1099,7 +1217,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-08-19T18:55:21.522699Z"
+          "published_at": "2026-08-19T21:42:58.326440Z"
         }
       ],
       "source_count": 1,
@@ -1114,7 +1232,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-08-19T18:55:21.522699Z"
+          "published_at": "2026-08-19T21:42:58.326440Z"
         }
       ],
       "item_count": 1,
@@ -1133,8 +1251,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-19T18:55:21.522699Z",
-      "latest_at": "2026-08-19T18:55:21.522699Z",
+      "earliest_at": "2026-08-19T21:42:58.326440Z",
+      "latest_at": "2026-08-19T21:42:58.326440Z",
       "primary_item": {
         "id": "hotelitem_8f218475e743",
         "title": "文化和旅游部发布2026年上半年国内居民出游数据情况",
@@ -1178,14 +1296,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8575,
-      "importance": 0.545,
-      "importance_score": 0.8575,
+      "score": 0.8567,
+      "importance": 0.5445,
+      "importance_score": 0.8567,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.7252,
+        "recency": 0.7226,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1237,14 +1355,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8555,
-      "importance": 0.5902,
-      "importance_score": 0.8555,
+      "score": 0.855,
+      "importance": 0.5896,
+      "importance_score": 0.855,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9508,
+        "recency": 0.9482,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1259,6 +1377,65 @@
         "url": "https://skift.com/2026/08/17/saudi-arabia-and-egypt-lead-middle-easts-hotel-construction-the-uae-trails/",
         "source": "Skift Hospitality",
         "source_name": "Skift Hospitality"
+      }
+    },
+    {
+      "story_id": "story_8225d6eb9b00",
+      "title": "Hand Picked Hotels appoints Stembridge as CEO of luxury division",
+      "url": "https://boutiquehotelnews.com/news/movers-and-shakers/hand-picked-hotels-stembridge/?utm_source=rss&utm_medium=rss&utm_campaign=hand-picked-hotels-stembridge",
+      "primary_url": "https://boutiquehotelnews.com/news/movers-and-shakers/hand-picked-hotels-stembridge/?utm_source=rss&utm_medium=rss&utm_campaign=hand-picked-hotels-stembridge",
+      "source": "Boutique Hotel News",
+      "source_name": "Boutique Hotel News",
+      "sources": [
+        {
+          "id": "hotelitem_8225d6eb9b00",
+          "title": "Hand Picked Hotels appoints Stembridge as CEO of luxury division",
+          "url": "https://boutiquehotelnews.com/news/movers-and-shakers/hand-picked-hotels-stembridge/?utm_source=rss&utm_medium=rss&utm_campaign=hand-picked-hotels-stembridge",
+          "source": "Boutique Hotel News",
+          "source_name": "Boutique Hotel News",
+          "site_id": "boutiquehotel",
+          "published_at": "2026-08-19T10:30:18Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Boutique Hotel News"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_8225d6eb9b00",
+          "title": "Hand Picked Hotels appoints Stembridge as CEO of luxury division",
+          "url": "https://boutiquehotelnews.com/news/movers-and-shakers/hand-picked-hotels-stembridge/?utm_source=rss&utm_medium=rss&utm_campaign=hand-picked-hotels-stembridge",
+          "source": "Boutique Hotel News",
+          "source_name": "Boutique Hotel News",
+          "site_id": "boutiquehotel",
+          "published_at": "2026-08-19T10:30:18Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.848,
+      "importance": 0.5979,
+      "importance_score": 0.848,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9896,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-19T10:30:18Z",
+      "latest_at": "2026-08-19T10:30:18Z",
+      "primary_item": {
+        "id": "hotelitem_8225d6eb9b00",
+        "title": "Hand Picked Hotels appoints Stembridge as CEO of luxury division",
+        "url": "https://boutiquehotelnews.com/news/movers-and-shakers/hand-picked-hotels-stembridge/?utm_source=rss&utm_medium=rss&utm_campaign=hand-picked-hotels-stembridge",
+        "source": "Boutique Hotel News",
+        "source_name": "Boutique Hotel News"
       }
     },
     {
@@ -1296,14 +1473,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8428,
-      "importance": 0.5769,
-      "importance_score": 0.8428,
+      "score": 0.8423,
+      "importance": 0.5764,
+      "importance_score": 0.8423,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8847,
+        "recency": 0.8821,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1355,14 +1532,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8425,
-      "importance": 0.5767,
-      "importance_score": 0.8425,
+      "score": 0.842,
+      "importance": 0.5762,
+      "importance_score": 0.842,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8835,
+        "recency": 0.8809,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1414,14 +1591,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8394,
-      "importance": 0.5327,
-      "importance_score": 0.8394,
+      "score": 0.8386,
+      "importance": 0.5322,
+      "importance_score": 0.8386,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.6634,
+        "recency": 0.6608,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1473,14 +1650,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8345,
-      "importance": 0.5685,
-      "importance_score": 0.8345,
+      "score": 0.8337,
+      "importance": 0.568,
+      "importance_score": 0.8337,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8427,
+        "recency": 0.8401,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1532,14 +1709,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8333,
-      "importance": 0.5677,
-      "importance_score": 0.8333,
+      "score": 0.8325,
+      "importance": 0.5672,
+      "importance_score": 0.8325,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8387,
+        "recency": 0.8361,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1557,239 +1734,62 @@
       }
     },
     {
-      "story_id": "story_99e09e9a93de",
-      "title": "Reduce energy costs without compromising comfort",
-      "url": "https://www.hotelmanagement.net/resource/reduce-energy-costs-without-compromising-comfort",
-      "primary_url": "https://www.hotelmanagement.net/resource/reduce-energy-costs-without-compromising-comfort",
-      "source": "Hotel Management",
-      "source_name": "Hotel Management",
+      "story_id": "story_a2e447853f81",
+      "title": "The Stafford London hit with winding-up petition",
+      "url": "https://boutiquehotelnews.com/news/industry/stafford-london-winding-up/?utm_source=rss&utm_medium=rss&utm_campaign=stafford-london-winding-up",
+      "primary_url": "https://boutiquehotelnews.com/news/industry/stafford-london-winding-up/?utm_source=rss&utm_medium=rss&utm_campaign=stafford-london-winding-up",
+      "source": "Boutique Hotel News",
+      "source_name": "Boutique Hotel News",
       "sources": [
         {
-          "id": "hotelitem_99e09e9a93de",
-          "title": "Reduce energy costs without compromising comfort",
-          "url": "https://www.hotelmanagement.net/resource/reduce-energy-costs-without-compromising-comfort",
-          "source": "Hotel Management",
-          "source_name": "Hotel Management",
-          "site_id": "hotelmgmt",
-          "published_at": "2026-08-10T15:41:58Z"
+          "id": "hotelitem_a2e447853f81",
+          "title": "The Stafford London hit with winding-up petition",
+          "url": "https://boutiquehotelnews.com/news/industry/stafford-london-winding-up/?utm_source=rss&utm_medium=rss&utm_campaign=stafford-london-winding-up",
+          "source": "Boutique Hotel News",
+          "source_name": "Boutique Hotel News",
+          "site_id": "boutiquehotel",
+          "published_at": "2026-08-13T15:29:26Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Hotel Management"
+        "Boutique Hotel News"
       ],
       "items": [
         {
-          "id": "hotelitem_99e09e9a93de",
-          "title": "Reduce energy costs without compromising comfort",
-          "url": "https://www.hotelmanagement.net/resource/reduce-energy-costs-without-compromising-comfort",
-          "source": "Hotel Management",
-          "source_name": "Hotel Management",
-          "site_id": "hotelmgmt",
-          "published_at": "2026-08-10T15:41:58Z"
+          "id": "hotelitem_a2e447853f81",
+          "title": "The Stafford London hit with winding-up petition",
+          "url": "https://boutiquehotelnews.com/news/industry/stafford-london-winding-up/?utm_source=rss&utm_medium=rss&utm_campaign=stafford-london-winding-up",
+          "source": "Boutique Hotel News",
+          "source_name": "Boutique Hotel News",
+          "site_id": "boutiquehotel",
+          "published_at": "2026-08-13T15:29:26Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8211,
-      "importance": 0.5594,
-      "importance_score": 0.8211,
+      "score": 0.8232,
+      "importance": 0.5722,
+      "importance_score": 0.8232,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.797,
+        "recency": 0.8609,
         "story_heat": 0.0
       },
       "category": "watch",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-10T15:41:58Z",
-      "latest_at": "2026-08-10T15:41:58Z",
+      "earliest_at": "2026-08-13T15:29:26Z",
+      "latest_at": "2026-08-13T15:29:26Z",
       "primary_item": {
-        "id": "hotelitem_99e09e9a93de",
-        "title": "Reduce energy costs without compromising comfort",
-        "url": "https://www.hotelmanagement.net/resource/reduce-energy-costs-without-compromising-comfort",
-        "source": "Hotel Management",
-        "source_name": "Hotel Management"
-      }
-    },
-    {
-      "story_id": "story_b6c40d8aaf6c",
-      "title": "How hotels can leverage experiences and unique partnerships to drive loyalty",
-      "url": "https://www.hoteldive.com/news/how-hotels-leverage-experiences-partnerships-to-drive-loyalty/828254/",
-      "primary_url": "https://www.hoteldive.com/news/how-hotels-leverage-experiences-partnerships-to-drive-loyalty/828254/",
-      "source": "Hotel Dive",
-      "source_name": "Hotel Dive",
-      "sources": [
-        {
-          "id": "hotelitem_b6c40d8aaf6c",
-          "title": "How hotels can leverage experiences and unique partnerships to drive loyalty",
-          "url": "https://www.hoteldive.com/news/how-hotels-leverage-experiences-partnerships-to-drive-loyalty/828254/",
-          "source": "Hotel Dive",
-          "source_name": "Hotel Dive",
-          "site_id": "hoteldive",
-          "published_at": "2026-08-19T14:22:09Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hotel Dive"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_b6c40d8aaf6c",
-          "title": "How hotels can leverage experiences and unique partnerships to drive loyalty",
-          "url": "https://www.hoteldive.com/news/how-hotels-leverage-experiences-partnerships-to-drive-loyalty/828254/",
-          "source": "Hotel Dive",
-          "source_name": "Hotel Dive",
-          "site_id": "hoteldive",
-          "published_at": "2026-08-19T14:22:09Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8192,
-      "importance": 0.5992,
-      "importance_score": 0.8192,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9958,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-19T14:22:09Z",
-      "latest_at": "2026-08-19T14:22:09Z",
-      "primary_item": {
-        "id": "hotelitem_b6c40d8aaf6c",
-        "title": "How hotels can leverage experiences and unique partnerships to drive loyalty",
-        "url": "https://www.hoteldive.com/news/how-hotels-leverage-experiences-partnerships-to-drive-loyalty/828254/",
-        "source": "Hotel Dive",
-        "source_name": "Hotel Dive"
-      }
-    },
-    {
-      "story_id": "story_3d47f8b5b08d",
-      "title": "飞猪把旅行AI从“嘴替”逼成“跑腿的”",
-      "url": "https://www.pinchain.com/article/350139",
-      "primary_url": "https://www.pinchain.com/article/350139",
-      "source": "品橙旅游",
-      "source_name": "品橙旅游",
-      "sources": [
-        {
-          "id": "hotelitem_3d47f8b5b08d",
-          "title": "飞猪把旅行AI从“嘴替”逼成“跑腿的”",
-          "url": "https://www.pinchain.com/article/350139",
-          "source": "品橙旅游",
-          "source_name": "品橙旅游",
-          "site_id": "pinchain",
-          "published_at": "2026-08-19T09:08:50Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "品橙旅游"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_3d47f8b5b08d",
-          "title": "飞猪把旅行AI从“嘴替”逼成“跑腿的”",
-          "url": "https://www.pinchain.com/article/350139",
-          "source": "品橙旅游",
-          "source_name": "品橙旅游",
-          "site_id": "pinchain",
-          "published_at": "2026-08-19T09:08:50Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8158,
-      "importance": 0.5982,
-      "importance_score": 0.8158,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9909,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-19T09:08:50Z",
-      "latest_at": "2026-08-19T09:08:50Z",
-      "primary_item": {
-        "id": "hotelitem_3d47f8b5b08d",
-        "title": "飞猪把旅行AI从“嘴替”逼成“跑腿的”",
-        "url": "https://www.pinchain.com/article/350139",
-        "source": "品橙旅游",
-        "source_name": "品橙旅游"
-      }
-    },
-    {
-      "story_id": "story_8957c8ea478e",
-      "title": "同程旅行AR数字文创赋能成都文博新体验",
-      "url": "https://www.pinchain.com/article/350119",
-      "primary_url": "https://www.pinchain.com/article/350119",
-      "source": "品橙旅游",
-      "source_name": "品橙旅游",
-      "sources": [
-        {
-          "id": "hotelitem_8957c8ea478e",
-          "title": "同程旅行AR数字文创赋能成都文博新体验",
-          "url": "https://www.pinchain.com/article/350119",
-          "source": "品橙旅游",
-          "source_name": "品橙旅游",
-          "site_id": "pinchain",
-          "published_at": "2026-08-19T08:17:57Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "品橙旅游"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_8957c8ea478e",
-          "title": "同程旅行AR数字文创赋能成都文博新体验",
-          "url": "https://www.pinchain.com/article/350119",
-          "source": "品橙旅游",
-          "source_name": "品橙旅游",
-          "site_id": "pinchain",
-          "published_at": "2026-08-19T08:17:57Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8156,
-      "importance": 0.598,
-      "importance_score": 0.8156,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9902,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-19T08:17:57Z",
-      "latest_at": "2026-08-19T08:17:57Z",
-      "primary_item": {
-        "id": "hotelitem_8957c8ea478e",
-        "title": "同程旅行AR数字文创赋能成都文博新体验",
-        "url": "https://www.pinchain.com/article/350119",
-        "source": "品橙旅游",
-        "source_name": "品橙旅游"
+        "id": "hotelitem_a2e447853f81",
+        "title": "The Stafford London hit with winding-up petition",
+        "url": "https://boutiquehotelnews.com/news/industry/stafford-london-winding-up/?utm_source=rss&utm_medium=rss&utm_campaign=stafford-london-winding-up",
+        "source": "Boutique Hotel News",
+        "source_name": "Boutique Hotel News"
       }
     }
   ]
