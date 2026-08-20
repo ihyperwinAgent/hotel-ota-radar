@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-20T19:02:20.530546Z",
-  "successful_sites": 23,
+  "generated_at": "2026-08-20T21:45:26.331360Z",
+  "successful_sites": 22,
   "total_sites": 26,
   "items_before_topic_filter": 156,
   "sites": [
@@ -10,7 +10,7 @@
       "category": "cr9_finance",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 65161,
+      "duration_ms": 65242,
       "error": "HTTPSConnectionPool(host='www.globenewswire.com', port=443): Max retries exceeded with url: /en/search/keyword/Huazhu (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='www.globenewswire.com', port=443): Read timed out. (read timeout=15)\"))"
     },
     {
@@ -19,17 +19,17 @@
       "category": "cr9_finance",
       "ok": true,
       "item_count": 2,
-      "duration_ms": 277,
+      "duration_ms": 524,
       "error": null
     },
     {
       "site_id": "bth_ir",
       "site_name": "首旅如家 IR",
       "category": "cr9_finance",
-      "ok": true,
+      "ok": false,
       "item_count": 0,
-      "duration_ms": 2373,
-      "error": null
+      "duration_ms": 71177,
+      "error": "HTTPSConnectionPool(host='ir.bthhotels.com', port=443): Max retries exceeded with url: /periodicReport/index (Caused by ConnectTimeoutError(<HTTPSConnection(host='ir.bthhotels.com', port=443) at 0x7fe4487ade90>, 'Connection to ir.bthhotels.com timed out. (connect timeout=8)'))"
     },
     {
       "site_id": "chinahotel",
@@ -37,7 +37,7 @@
       "category": "supply_chain",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 3686,
+      "duration_ms": 3035,
       "error": null
     },
     {
@@ -46,7 +46,7 @@
       "category": "policy",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 1554,
+      "duration_ms": 1719,
       "error": null
     },
     {
@@ -55,7 +55,7 @@
       "category": "policy",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 3539,
+      "duration_ms": 1540,
       "error": null
     },
     {
@@ -64,7 +64,7 @@
       "category": "supply_chain",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 2042,
+      "duration_ms": 1891,
       "error": null
     },
     {
@@ -73,7 +73,7 @@
       "category": "supply_chain",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 2876,
+      "duration_ms": 1682,
       "error": null
     },
     {
@@ -82,7 +82,7 @@
       "category": "supply_chain",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1737,
+      "duration_ms": 1287,
       "error": null
     },
     {
@@ -91,7 +91,7 @@
       "category": "ai_hotel",
       "ok": true,
       "item_count": 8,
-      "duration_ms": 159,
+      "duration_ms": 173,
       "error": null
     },
     {
@@ -100,7 +100,7 @@
       "category": "ai_hotel",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 437,
+      "duration_ms": 551,
       "error": null
     },
     {
@@ -109,7 +109,7 @@
       "category": "ai_hotel",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 999,
+      "duration_ms": 873,
       "error": null
     },
     {
@@ -118,7 +118,7 @@
       "category": "supply_chain",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 46,
+      "duration_ms": 165,
       "error": "403 Client Error: Forbidden for url: https://lodgingmagazine.com/feed/"
     },
     {
@@ -127,7 +127,7 @@
       "category": "supply_chain",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 673,
+      "duration_ms": 865,
       "error": null
     },
     {
@@ -136,7 +136,7 @@
       "category": "ai_hotel",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 91,
+      "duration_ms": 150,
       "error": null
     },
     {
@@ -145,7 +145,7 @@
       "category": "ota",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 65309,
+      "duration_ms": 65261,
       "error": "HTTPSConnectionPool(host='www.globenewswire.com', port=443): Max retries exceeded with url: /en/search/keyword/Trip.com%20Group (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='www.globenewswire.com', port=443): Read timed out. (read timeout=15)\"))"
     },
     {
@@ -154,7 +154,7 @@
       "category": "ota",
       "ok": true,
       "item_count": 1,
-      "duration_ms": 701,
+      "duration_ms": 397,
       "error": null
     },
     {
@@ -163,7 +163,7 @@
       "category": "ota",
       "ok": true,
       "item_count": 1,
-      "duration_ms": 174,
+      "duration_ms": 1390,
       "error": null
     },
     {
@@ -172,7 +172,7 @@
       "category": "ota",
       "ok": true,
       "item_count": 1,
-      "duration_ms": 15300,
+      "duration_ms": 292,
       "error": null
     },
     {
@@ -181,7 +181,7 @@
       "category": "ota",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 123,
+      "duration_ms": 308,
       "error": null
     },
     {
@@ -190,7 +190,7 @@
       "category": "ota",
       "ok": true,
       "item_count": 1,
-      "duration_ms": 1224,
+      "duration_ms": 2474,
       "error": null
     },
     {
@@ -199,7 +199,7 @@
       "category": "ota",
       "ok": true,
       "item_count": 2,
-      "duration_ms": 187,
+      "duration_ms": 181,
       "error": null
     },
     {
@@ -208,7 +208,7 @@
       "category": "ota",
       "ok": true,
       "item_count": 0,
-      "duration_ms": 1416,
+      "duration_ms": 1281,
       "error": null
     },
     {
@@ -217,7 +217,7 @@
       "category": "ota",
       "ok": true,
       "item_count": 0,
-      "duration_ms": 1754,
+      "duration_ms": 1441,
       "error": null
     },
     {
@@ -226,7 +226,7 @@
       "category": "ota",
       "ok": true,
       "item_count": 20,
-      "duration_ms": 1933,
+      "duration_ms": 1728,
       "error": null
     },
     {
@@ -235,7 +235,7 @@
       "category": "ota",
       "ok": true,
       "item_count": 0,
-      "duration_ms": 1420,
+      "duration_ms": 1421,
       "error": null
     }
   ]
