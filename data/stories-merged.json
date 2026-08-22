@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T01:52:22.609425Z",
+  "generated_at": "2026-08-22T03:58:15.006123Z",
   "window_hours": 1080,
   "total_stories": 30,
   "stories": [
@@ -38,14 +38,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9929,
-      "importance": 0.5926,
-      "importance_score": 0.9929,
+      "score": 0.9925,
+      "importance": 0.5922,
+      "importance_score": 0.9925,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9631,
+        "recency": 0.9611,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -97,14 +97,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9641,
-      "importance": 0.5563,
-      "importance_score": 0.9641,
+      "score": 0.9635,
+      "importance": 0.5559,
+      "importance_score": 0.9635,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.7816,
+        "recency": 0.7797,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -156,14 +156,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9452,
-      "importance": 0.5899,
-      "importance_score": 0.9452,
+      "score": 0.9449,
+      "importance": 0.5895,
+      "importance_score": 0.9449,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9494,
+        "recency": 0.9474,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -215,14 +215,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9359,
-      "importance": 0.5802,
-      "importance_score": 0.9359,
+      "score": 0.9355,
+      "importance": 0.5798,
+      "importance_score": 0.9355,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.901,
+        "recency": 0.8991,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -274,14 +274,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9356,
-      "importance": 0.5799,
-      "importance_score": 0.9356,
+      "score": 0.9352,
+      "importance": 0.5795,
+      "importance_score": 0.9352,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8994,
+        "recency": 0.8975,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -296,65 +296,6 @@
         "url": "https://www.hoteldive.com/news/series-by-marriott-adds-san-diego-boutique-lifestyle-hotel/827993/",
         "source": "Hotel Dive",
         "source_name": "Hotel Dive"
-      }
-    },
-    {
-      "story_id": "story_5757e195f316",
-      "title": "Waiting is the most expensive habit in revenue management",
-      "url": "https://boutiquehotelnews.com/features/expensive-habit-revenue-management/?utm_source=rss&utm_medium=rss&utm_campaign=expensive-habit-revenue-management",
-      "primary_url": "https://boutiquehotelnews.com/features/expensive-habit-revenue-management/?utm_source=rss&utm_medium=rss&utm_campaign=expensive-habit-revenue-management",
-      "source": "Boutique Hotel News",
-      "source_name": "Boutique Hotel News",
-      "sources": [
-        {
-          "id": "hotelitem_5757e195f316",
-          "title": "Waiting is the most expensive habit in revenue management",
-          "url": "https://boutiquehotelnews.com/features/expensive-habit-revenue-management/?utm_source=rss&utm_medium=rss&utm_campaign=expensive-habit-revenue-management",
-          "source": "Boutique Hotel News",
-          "source_name": "Boutique Hotel News",
-          "site_id": "boutiquehotel",
-          "published_at": "2026-08-17T12:21:58Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Boutique Hotel News"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_5757e195f316",
-          "title": "Waiting is the most expensive habit in revenue management",
-          "url": "https://boutiquehotelnews.com/features/expensive-habit-revenue-management/?utm_source=rss&utm_medium=rss&utm_campaign=expensive-habit-revenue-management",
-          "source": "Boutique Hotel News",
-          "source_name": "Boutique Hotel News",
-          "site_id": "boutiquehotel",
-          "published_at": "2026-08-17T12:21:58Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.9204,
-      "importance": 0.5797,
-      "importance_score": 0.9204,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.8986,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-17T12:21:58Z",
-      "latest_at": "2026-08-17T12:21:58Z",
-      "primary_item": {
-        "id": "hotelitem_5757e195f316",
-        "title": "Waiting is the most expensive habit in revenue management",
-        "url": "https://boutiquehotelnews.com/features/expensive-habit-revenue-management/?utm_source=rss&utm_medium=rss&utm_campaign=expensive-habit-revenue-management",
-        "source": "Boutique Hotel News",
-        "source_name": "Boutique Hotel News"
       }
     },
     {
@@ -392,14 +333,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9173,
-      "importance": 0.5636,
-      "importance_score": 0.9173,
+      "score": 0.9167,
+      "importance": 0.5632,
+      "importance_score": 0.9167,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8182,
+        "recency": 0.8162,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -451,14 +392,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9151,
-      "importance": 0.5621,
-      "importance_score": 0.9151,
+      "score": 0.9145,
+      "importance": 0.5618,
+      "importance_score": 0.9145,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8107,
+        "recency": 0.8088,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -510,14 +451,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9135,
-      "importance": 0.5304,
-      "importance_score": 0.9135,
+      "score": 0.9129,
+      "importance": 0.53,
+      "importance_score": 0.9129,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.652,
+        "recency": 0.65,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -569,14 +510,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9125,
-      "importance": 0.5897,
-      "importance_score": 0.9125,
+      "score": 0.9121,
+      "importance": 0.5893,
+      "importance_score": 0.9121,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9483,
+        "recency": 0.9463,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -628,14 +569,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8632,
-      "importance": 0.5489,
-      "importance_score": 0.8632,
+      "score": 0.8626,
+      "importance": 0.5485,
+      "importance_score": 0.8626,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.7446,
+        "recency": 0.7426,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -687,14 +628,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8629,
-      "importance": 0.5978,
-      "importance_score": 0.8629,
+      "score": 0.8625,
+      "importance": 0.5974,
+      "importance_score": 0.8625,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9889,
+        "recency": 0.987,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -709,6 +650,65 @@
         "url": "https://www.hoteldive.com/news/lodging-lowdown-livaway-suites-expands-alabama-meyer-jabara-adds-first/828488/",
         "source": "Hotel Dive",
         "source_name": "Hotel Dive"
+      }
+    },
+    {
+      "story_id": "story_4933e020fb55",
+      "title": "Topnotch Resort unveils new restaurant concept, Maxwell’s",
+      "url": "https://insights.ehotelier.com/properties/2026/08/21/topnotch-resort-unveils-new-restaurant-concept-maxwells/?utm_source=rss&utm_medium=rss&utm_campaign=topnotch-resort-unveils-new-restaurant-concept-maxwells",
+      "primary_url": "https://insights.ehotelier.com/properties/2026/08/21/topnotch-resort-unveils-new-restaurant-concept-maxwells/?utm_source=rss&utm_medium=rss&utm_campaign=topnotch-resort-unveils-new-restaurant-concept-maxwells",
+      "source": "eHotelier",
+      "source_name": "eHotelier",
+      "sources": [
+        {
+          "id": "hotelitem_4933e020fb55",
+          "title": "Topnotch Resort unveils new restaurant concept, Maxwell’s",
+          "url": "https://insights.ehotelier.com/properties/2026/08/21/topnotch-resort-unveils-new-restaurant-concept-maxwells/?utm_source=rss&utm_medium=rss&utm_campaign=topnotch-resort-unveils-new-restaurant-concept-maxwells",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-08-21T01:25:27Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "eHotelier"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_4933e020fb55",
+          "title": "Topnotch Resort unveils new restaurant concept, Maxwell’s",
+          "url": "https://insights.ehotelier.com/properties/2026/08/21/topnotch-resort-unveils-new-restaurant-concept-maxwells/?utm_source=rss&utm_medium=rss&utm_campaign=topnotch-resort-unveils-new-restaurant-concept-maxwells",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-08-21T01:25:27Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8603,
+      "importance": 0.5951,
+      "importance_score": 0.8603,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9754,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-21T01:25:27Z",
+      "latest_at": "2026-08-21T01:25:27Z",
+      "primary_item": {
+        "id": "hotelitem_4933e020fb55",
+        "title": "Topnotch Resort unveils new restaurant concept, Maxwell’s",
+        "url": "https://insights.ehotelier.com/properties/2026/08/21/topnotch-resort-unveils-new-restaurant-concept-maxwells/?utm_source=rss&utm_medium=rss&utm_campaign=topnotch-resort-unveils-new-restaurant-concept-maxwells",
+        "source": "eHotelier",
+        "source_name": "eHotelier"
       }
     },
     {
@@ -746,14 +746,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8607,
-      "importance": 0.5955,
-      "importance_score": 0.8607,
+      "score": 0.8603,
+      "importance": 0.5951,
+      "importance_score": 0.8603,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9775,
+        "recency": 0.9756,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -805,14 +805,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8607,
-      "importance": 0.5955,
-      "importance_score": 0.8607,
+      "score": 0.8603,
+      "importance": 0.5952,
+      "importance_score": 0.8603,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9777,
+        "recency": 0.9758,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -825,65 +825,6 @@
         "id": "hotelitem_05d2cc4d00e6",
         "title": "Thailand’s first grand Nikko-Branded hotel opens with IDeaS G3 RMS",
         "url": "https://insights.ehotelier.com/suppliers/2026/08/21/thailands-first-grand-nikko-branded-hotel-opens-with-ideas-g3-rms/?utm_source=rss&utm_medium=rss&utm_campaign=thailands-first-grand-nikko-branded-hotel-opens-with-ideas-g3-rms",
-        "source": "eHotelier",
-        "source_name": "eHotelier"
-      }
-    },
-    {
-      "story_id": "story_4933e020fb55",
-      "title": "Topnotch Resort unveils new restaurant concept, Maxwell’s",
-      "url": "https://insights.ehotelier.com/properties/2026/08/21/topnotch-resort-unveils-new-restaurant-concept-maxwells/?utm_source=rss&utm_medium=rss&utm_campaign=topnotch-resort-unveils-new-restaurant-concept-maxwells",
-      "primary_url": "https://insights.ehotelier.com/properties/2026/08/21/topnotch-resort-unveils-new-restaurant-concept-maxwells/?utm_source=rss&utm_medium=rss&utm_campaign=topnotch-resort-unveils-new-restaurant-concept-maxwells",
-      "source": "eHotelier",
-      "source_name": "eHotelier",
-      "sources": [
-        {
-          "id": "hotelitem_4933e020fb55",
-          "title": "Topnotch Resort unveils new restaurant concept, Maxwell’s",
-          "url": "https://insights.ehotelier.com/properties/2026/08/21/topnotch-resort-unveils-new-restaurant-concept-maxwells/?utm_source=rss&utm_medium=rss&utm_campaign=topnotch-resort-unveils-new-restaurant-concept-maxwells",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-08-21T01:25:27Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "eHotelier"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_4933e020fb55",
-          "title": "Topnotch Resort unveils new restaurant concept, Maxwell’s",
-          "url": "https://insights.ehotelier.com/properties/2026/08/21/topnotch-resort-unveils-new-restaurant-concept-maxwells/?utm_source=rss&utm_medium=rss&utm_campaign=topnotch-resort-unveils-new-restaurant-concept-maxwells",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-08-21T01:25:27Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8606,
-      "importance": 0.5955,
-      "importance_score": 0.8606,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9774,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-21T01:25:27Z",
-      "latest_at": "2026-08-21T01:25:27Z",
-      "primary_item": {
-        "id": "hotelitem_4933e020fb55",
-        "title": "Topnotch Resort unveils new restaurant concept, Maxwell’s",
-        "url": "https://insights.ehotelier.com/properties/2026/08/21/topnotch-resort-unveils-new-restaurant-concept-maxwells/?utm_source=rss&utm_medium=rss&utm_campaign=topnotch-resort-unveils-new-restaurant-concept-maxwells",
         "source": "eHotelier",
         "source_name": "eHotelier"
       }
@@ -903,7 +844,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-08-22T01:52:22.609425Z"
+          "published_at": "2026-08-22T03:58:15.006123Z"
         },
         {
           "id": "hotelitem_c7c15b7680c9",
@@ -912,7 +853,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-08-22T01:52:22.609425Z"
+          "published_at": "2026-08-22T03:58:15.006123Z"
         }
       ],
       "source_count": 2,
@@ -927,7 +868,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-08-22T01:52:22.609425Z"
+          "published_at": "2026-08-22T03:58:15.006123Z"
         },
         {
           "id": "hotelitem_c7c15b7680c9",
@@ -936,7 +877,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-08-22T01:52:22.609425Z"
+          "published_at": "2026-08-22T03:58:15.006123Z"
         }
       ],
       "item_count": 2,
@@ -956,8 +897,8 @@
         "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-22T01:52:22.609425Z",
-      "latest_at": "2026-08-22T01:52:22.609425Z",
+      "earliest_at": "2026-08-22T03:58:15.006123Z",
+      "latest_at": "2026-08-22T03:58:15.006123Z",
       "primary_item": {
         "id": "hotelitem_d4370964909c",
         "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
@@ -1001,14 +942,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8584,
-      "importance": 0.5932,
-      "importance_score": 0.8584,
+      "score": 0.8581,
+      "importance": 0.5928,
+      "importance_score": 0.8581,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.966,
+        "recency": 0.9641,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1023,6 +964,242 @@
         "url": "https://www.hoteldive.com/news/global-hotel-construction-pipeline-q2-2026/828361/",
         "source": "Hotel Dive",
         "source_name": "Hotel Dive"
+      }
+    },
+    {
+      "story_id": "story_e4ce0593c384",
+      "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
+      "url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
+      "primary_url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
+      "source": "中国旅游研究院",
+      "source_name": "中国旅游研究院",
+      "sources": [
+        {
+          "id": "hotelitem_e4ce0593c384",
+          "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
+          "url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
+          "source": "中国旅游研究院",
+          "source_name": "中国旅游研究院",
+          "site_id": "cta",
+          "published_at": "2026-08-22T03:58:15.006123Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "中国旅游研究院"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_e4ce0593c384",
+          "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
+          "url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
+          "source": "中国旅游研究院",
+          "source_name": "中国旅游研究院",
+          "site_id": "cta",
+          "published_at": "2026-08-22T03:58:15.006123Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.858,
+      "importance": 0.6,
+      "importance_score": 0.858,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-22T03:58:15.006123Z",
+      "latest_at": "2026-08-22T03:58:15.006123Z",
+      "primary_item": {
+        "id": "hotelitem_e4ce0593c384",
+        "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
+        "url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
+        "source": "中国旅游研究院",
+        "source_name": "中国旅游研究院"
+      }
+    },
+    {
+      "story_id": "story_fa34986b4fc0",
+      "title": "文化和旅游部、金融监管总局关于警惕借“保...",
+      "url": "https://www.mct.gov.cn/whzx/whyw/202607/t20260714_966526.htm",
+      "primary_url": "https://www.mct.gov.cn/whzx/whyw/202607/t20260714_966526.htm",
+      "source": "文化和旅游部",
+      "source_name": "文化和旅游部",
+      "sources": [
+        {
+          "id": "hotelitem_fa34986b4fc0",
+          "title": "文化和旅游部、金融监管总局关于警惕借“保...",
+          "url": "https://www.mct.gov.cn/whzx/whyw/202607/t20260714_966526.htm",
+          "source": "文化和旅游部",
+          "source_name": "文化和旅游部",
+          "site_id": "mct",
+          "published_at": "2026-08-22T03:58:15.006123Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "文化和旅游部"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_fa34986b4fc0",
+          "title": "文化和旅游部、金融监管总局关于警惕借“保...",
+          "url": "https://www.mct.gov.cn/whzx/whyw/202607/t20260714_966526.htm",
+          "source": "文化和旅游部",
+          "source_name": "文化和旅游部",
+          "site_id": "mct",
+          "published_at": "2026-08-22T03:58:15.006123Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.858,
+      "importance": 0.6,
+      "importance_score": 0.858,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-22T03:58:15.006123Z",
+      "latest_at": "2026-08-22T03:58:15.006123Z",
+      "primary_item": {
+        "id": "hotelitem_fa34986b4fc0",
+        "title": "文化和旅游部、金融监管总局关于警惕借“保...",
+        "url": "https://www.mct.gov.cn/whzx/whyw/202607/t20260714_966526.htm",
+        "source": "文化和旅游部",
+        "source_name": "文化和旅游部"
+      }
+    },
+    {
+      "story_id": "story_9a958319a874",
+      "title": "文化和旅游部印发《旅游强国建设“十五五”...",
+      "url": "https://www.mct.gov.cn/whzx/whyw/202607/t20260708_966448.htm",
+      "primary_url": "https://www.mct.gov.cn/whzx/whyw/202607/t20260708_966448.htm",
+      "source": "文化和旅游部",
+      "source_name": "文化和旅游部",
+      "sources": [
+        {
+          "id": "hotelitem_9a958319a874",
+          "title": "文化和旅游部印发《旅游强国建设“十五五”...",
+          "url": "https://www.mct.gov.cn/whzx/whyw/202607/t20260708_966448.htm",
+          "source": "文化和旅游部",
+          "source_name": "文化和旅游部",
+          "site_id": "mct",
+          "published_at": "2026-08-22T03:58:15.006123Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "文化和旅游部"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_9a958319a874",
+          "title": "文化和旅游部印发《旅游强国建设“十五五”...",
+          "url": "https://www.mct.gov.cn/whzx/whyw/202607/t20260708_966448.htm",
+          "source": "文化和旅游部",
+          "source_name": "文化和旅游部",
+          "site_id": "mct",
+          "published_at": "2026-08-22T03:58:15.006123Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.858,
+      "importance": 0.6,
+      "importance_score": 0.858,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-22T03:58:15.006123Z",
+      "latest_at": "2026-08-22T03:58:15.006123Z",
+      "primary_item": {
+        "id": "hotelitem_9a958319a874",
+        "title": "文化和旅游部印发《旅游强国建设“十五五”...",
+        "url": "https://www.mct.gov.cn/whzx/whyw/202607/t20260708_966448.htm",
+        "source": "文化和旅游部",
+        "source_name": "文化和旅游部"
+      }
+    },
+    {
+      "story_id": "story_8f218475e743",
+      "title": "文化和旅游部发布2026年上半年国内居民出游数据情况",
+      "url": "https://www.ctaweb.org.cn/gongzuodongtai/10523.html",
+      "primary_url": "https://www.ctaweb.org.cn/gongzuodongtai/10523.html",
+      "source": "中国旅游研究院",
+      "source_name": "中国旅游研究院",
+      "sources": [
+        {
+          "id": "hotelitem_8f218475e743",
+          "title": "文化和旅游部发布2026年上半年国内居民出游数据情况",
+          "url": "https://www.ctaweb.org.cn/gongzuodongtai/10523.html",
+          "source": "中国旅游研究院",
+          "source_name": "中国旅游研究院",
+          "site_id": "cta",
+          "published_at": "2026-08-22T03:58:15.006123Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "中国旅游研究院"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_8f218475e743",
+          "title": "文化和旅游部发布2026年上半年国内居民出游数据情况",
+          "url": "https://www.ctaweb.org.cn/gongzuodongtai/10523.html",
+          "source": "中国旅游研究院",
+          "source_name": "中国旅游研究院",
+          "site_id": "cta",
+          "published_at": "2026-08-22T03:58:15.006123Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.858,
+      "importance": 0.6,
+      "importance_score": 0.858,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-22T03:58:15.006123Z",
+      "latest_at": "2026-08-22T03:58:15.006123Z",
+      "primary_item": {
+        "id": "hotelitem_8f218475e743",
+        "title": "文化和旅游部发布2026年上半年国内居民出游数据情况",
+        "url": "https://www.ctaweb.org.cn/gongzuodongtai/10523.html",
+        "source": "中国旅游研究院",
+        "source_name": "中国旅游研究院"
       }
     },
     {
@@ -1060,14 +1237,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8583,
-      "importance": 0.593,
-      "importance_score": 0.8583,
+      "score": 0.8579,
+      "importance": 0.5926,
+      "importance_score": 0.8579,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9651,
+        "recency": 0.9632,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1119,14 +1296,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8581,
-      "importance": 0.5929,
-      "importance_score": 0.8581,
+      "score": 0.8578,
+      "importance": 0.5925,
+      "importance_score": 0.8578,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9645,
+        "recency": 0.9625,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1141,242 +1318,6 @@
         "url": "https://skift.com/2026/08/20/taj-starts-bringing-staff-back-to-dubai-hotels-others-cautious-on-q4-recovery/",
         "source": "Skift Hospitality",
         "source_name": "Skift Hospitality"
-      }
-    },
-    {
-      "story_id": "story_e4ce0593c384",
-      "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
-      "url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
-      "primary_url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
-      "source": "中国旅游研究院",
-      "source_name": "中国旅游研究院",
-      "sources": [
-        {
-          "id": "hotelitem_e4ce0593c384",
-          "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
-          "url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
-          "source": "中国旅游研究院",
-          "source_name": "中国旅游研究院",
-          "site_id": "cta",
-          "published_at": "2026-08-22T01:52:22.609425Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "中国旅游研究院"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_e4ce0593c384",
-          "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
-          "url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
-          "source": "中国旅游研究院",
-          "source_name": "中国旅游研究院",
-          "site_id": "cta",
-          "published_at": "2026-08-22T01:52:22.609425Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.858,
-      "importance": 0.6,
-      "importance_score": 0.858,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-22T01:52:22.609425Z",
-      "latest_at": "2026-08-22T01:52:22.609425Z",
-      "primary_item": {
-        "id": "hotelitem_e4ce0593c384",
-        "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
-        "url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
-        "source": "中国旅游研究院",
-        "source_name": "中国旅游研究院"
-      }
-    },
-    {
-      "story_id": "story_fa34986b4fc0",
-      "title": "文化和旅游部、金融监管总局关于警惕借“保...",
-      "url": "https://www.mct.gov.cn/whzx/whyw/202607/t20260714_966526.htm",
-      "primary_url": "https://www.mct.gov.cn/whzx/whyw/202607/t20260714_966526.htm",
-      "source": "文化和旅游部",
-      "source_name": "文化和旅游部",
-      "sources": [
-        {
-          "id": "hotelitem_fa34986b4fc0",
-          "title": "文化和旅游部、金融监管总局关于警惕借“保...",
-          "url": "https://www.mct.gov.cn/whzx/whyw/202607/t20260714_966526.htm",
-          "source": "文化和旅游部",
-          "source_name": "文化和旅游部",
-          "site_id": "mct",
-          "published_at": "2026-08-22T01:52:22.609425Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "文化和旅游部"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_fa34986b4fc0",
-          "title": "文化和旅游部、金融监管总局关于警惕借“保...",
-          "url": "https://www.mct.gov.cn/whzx/whyw/202607/t20260714_966526.htm",
-          "source": "文化和旅游部",
-          "source_name": "文化和旅游部",
-          "site_id": "mct",
-          "published_at": "2026-08-22T01:52:22.609425Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.858,
-      "importance": 0.6,
-      "importance_score": 0.858,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-22T01:52:22.609425Z",
-      "latest_at": "2026-08-22T01:52:22.609425Z",
-      "primary_item": {
-        "id": "hotelitem_fa34986b4fc0",
-        "title": "文化和旅游部、金融监管总局关于警惕借“保...",
-        "url": "https://www.mct.gov.cn/whzx/whyw/202607/t20260714_966526.htm",
-        "source": "文化和旅游部",
-        "source_name": "文化和旅游部"
-      }
-    },
-    {
-      "story_id": "story_9a958319a874",
-      "title": "文化和旅游部印发《旅游强国建设“十五五”...",
-      "url": "https://www.mct.gov.cn/whzx/whyw/202607/t20260708_966448.htm",
-      "primary_url": "https://www.mct.gov.cn/whzx/whyw/202607/t20260708_966448.htm",
-      "source": "文化和旅游部",
-      "source_name": "文化和旅游部",
-      "sources": [
-        {
-          "id": "hotelitem_9a958319a874",
-          "title": "文化和旅游部印发《旅游强国建设“十五五”...",
-          "url": "https://www.mct.gov.cn/whzx/whyw/202607/t20260708_966448.htm",
-          "source": "文化和旅游部",
-          "source_name": "文化和旅游部",
-          "site_id": "mct",
-          "published_at": "2026-08-22T01:52:22.609425Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "文化和旅游部"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_9a958319a874",
-          "title": "文化和旅游部印发《旅游强国建设“十五五”...",
-          "url": "https://www.mct.gov.cn/whzx/whyw/202607/t20260708_966448.htm",
-          "source": "文化和旅游部",
-          "source_name": "文化和旅游部",
-          "site_id": "mct",
-          "published_at": "2026-08-22T01:52:22.609425Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.858,
-      "importance": 0.6,
-      "importance_score": 0.858,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-22T01:52:22.609425Z",
-      "latest_at": "2026-08-22T01:52:22.609425Z",
-      "primary_item": {
-        "id": "hotelitem_9a958319a874",
-        "title": "文化和旅游部印发《旅游强国建设“十五五”...",
-        "url": "https://www.mct.gov.cn/whzx/whyw/202607/t20260708_966448.htm",
-        "source": "文化和旅游部",
-        "source_name": "文化和旅游部"
-      }
-    },
-    {
-      "story_id": "story_8f218475e743",
-      "title": "文化和旅游部发布2026年上半年国内居民出游数据情况",
-      "url": "https://www.ctaweb.org.cn/gongzuodongtai/10523.html",
-      "primary_url": "https://www.ctaweb.org.cn/gongzuodongtai/10523.html",
-      "source": "中国旅游研究院",
-      "source_name": "中国旅游研究院",
-      "sources": [
-        {
-          "id": "hotelitem_8f218475e743",
-          "title": "文化和旅游部发布2026年上半年国内居民出游数据情况",
-          "url": "https://www.ctaweb.org.cn/gongzuodongtai/10523.html",
-          "source": "中国旅游研究院",
-          "source_name": "中国旅游研究院",
-          "site_id": "cta",
-          "published_at": "2026-08-22T01:52:22.609425Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "中国旅游研究院"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_8f218475e743",
-          "title": "文化和旅游部发布2026年上半年国内居民出游数据情况",
-          "url": "https://www.ctaweb.org.cn/gongzuodongtai/10523.html",
-          "source": "中国旅游研究院",
-          "source_name": "中国旅游研究院",
-          "site_id": "cta",
-          "published_at": "2026-08-22T01:52:22.609425Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.858,
-      "importance": 0.6,
-      "importance_score": 0.858,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-22T01:52:22.609425Z",
-      "latest_at": "2026-08-22T01:52:22.609425Z",
-      "primary_item": {
-        "id": "hotelitem_8f218475e743",
-        "title": "文化和旅游部发布2026年上半年国内居民出游数据情况",
-        "url": "https://www.ctaweb.org.cn/gongzuodongtai/10523.html",
-        "source": "中国旅游研究院",
-        "source_name": "中国旅游研究院"
       }
     },
     {
@@ -1414,14 +1355,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8499,
-      "importance": 0.5844,
-      "importance_score": 0.8499,
+      "score": 0.8495,
+      "importance": 0.584,
+      "importance_score": 0.8495,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9218,
+        "recency": 0.9198,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1473,14 +1414,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8457,
-      "importance": 0.58,
-      "importance_score": 0.8457,
+      "score": 0.8453,
+      "importance": 0.5796,
+      "importance_score": 0.8453,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8999,
+        "recency": 0.898,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1532,14 +1473,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8426,
-      "importance": 0.5349,
-      "importance_score": 0.8426,
+      "score": 0.842,
+      "importance": 0.5345,
+      "importance_score": 0.842,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.6743,
+        "recency": 0.6723,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1554,65 +1495,6 @@
         "url": "https://www.traveldaily.cn/article/190506",
         "source": "环球旅讯 TravelDaily",
         "source_name": "环球旅讯 TravelDaily"
-      }
-    },
-    {
-      "story_id": "story_8225d6eb9b00",
-      "title": "Hand Picked Hotels appoints Stembridge as CEO of luxury division",
-      "url": "https://boutiquehotelnews.com/news/movers-and-shakers/hand-picked-hotels-stembridge/?utm_source=rss&utm_medium=rss&utm_campaign=hand-picked-hotels-stembridge",
-      "primary_url": "https://boutiquehotelnews.com/news/movers-and-shakers/hand-picked-hotels-stembridge/?utm_source=rss&utm_medium=rss&utm_campaign=hand-picked-hotels-stembridge",
-      "source": "Boutique Hotel News",
-      "source_name": "Boutique Hotel News",
-      "sources": [
-        {
-          "id": "hotelitem_8225d6eb9b00",
-          "title": "Hand Picked Hotels appoints Stembridge as CEO of luxury division",
-          "url": "https://boutiquehotelnews.com/news/movers-and-shakers/hand-picked-hotels-stembridge/?utm_source=rss&utm_medium=rss&utm_campaign=hand-picked-hotels-stembridge",
-          "source": "Boutique Hotel News",
-          "source_name": "Boutique Hotel News",
-          "site_id": "boutiquehotel",
-          "published_at": "2026-08-19T10:30:18Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Boutique Hotel News"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_8225d6eb9b00",
-          "title": "Hand Picked Hotels appoints Stembridge as CEO of luxury division",
-          "url": "https://boutiquehotelnews.com/news/movers-and-shakers/hand-picked-hotels-stembridge/?utm_source=rss&utm_medium=rss&utm_campaign=hand-picked-hotels-stembridge",
-          "source": "Boutique Hotel News",
-          "source_name": "Boutique Hotel News",
-          "site_id": "boutiquehotel",
-          "published_at": "2026-08-19T10:30:18Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8387,
-      "importance": 0.5883,
-      "importance_score": 0.8387,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9413,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-19T10:30:18Z",
-      "latest_at": "2026-08-19T10:30:18Z",
-      "primary_item": {
-        "id": "hotelitem_8225d6eb9b00",
-        "title": "Hand Picked Hotels appoints Stembridge as CEO of luxury division",
-        "url": "https://boutiquehotelnews.com/news/movers-and-shakers/hand-picked-hotels-stembridge/?utm_source=rss&utm_medium=rss&utm_campaign=hand-picked-hotels-stembridge",
-        "source": "Boutique Hotel News",
-        "source_name": "Boutique Hotel News"
       }
     },
     {
@@ -1650,14 +1532,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8319,
-      "importance": 0.5668,
-      "importance_score": 0.8319,
+      "score": 0.8313,
+      "importance": 0.5664,
+      "importance_score": 0.8313,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8338,
+        "recency": 0.8319,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1709,14 +1591,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8315,
-      "importance": 0.5665,
-      "importance_score": 0.8315,
+      "score": 0.831,
+      "importance": 0.5661,
+      "importance_score": 0.831,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8327,
+        "recency": 0.8307,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1768,14 +1650,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8196,
-      "importance": 0.5584,
-      "importance_score": 0.8196,
+      "score": 0.819,
+      "importance": 0.558,
+      "importance_score": 0.819,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.7919,
+        "recency": 0.7899,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1790,6 +1672,124 @@
         "url": "https://skift.com/2026/08/12/tui-q3-earnings-iran-war/",
         "source": "Skift Hospitality",
         "source_name": "Skift Hospitality"
+      }
+    },
+    {
+      "story_id": "story_00c9e3835d2d",
+      "title": "High-Paying Foreign Guests Are Still Missing in India, Oberoi Hotels Says",
+      "url": "https://skift.com/2026/08/12/high-paying-foreign-guests-are-still-missing-in-india-oberoi-hotels-says/",
+      "primary_url": "https://skift.com/2026/08/12/high-paying-foreign-guests-are-still-missing-in-india-oberoi-hotels-says/",
+      "source": "Skift Hospitality",
+      "source_name": "Skift Hospitality",
+      "sources": [
+        {
+          "id": "hotelitem_00c9e3835d2d",
+          "title": "High-Paying Foreign Guests Are Still Missing in India, Oberoi Hotels Says",
+          "url": "https://skift.com/2026/08/12/high-paying-foreign-guests-are-still-missing-in-india-oberoi-hotels-says/",
+          "source": "Skift Hospitality",
+          "source_name": "Skift Hospitality",
+          "site_id": "skift",
+          "published_at": "2026-08-12T12:41:08Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Skift Hospitality"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_00c9e3835d2d",
+          "title": "High-Paying Foreign Guests Are Still Missing in India, Oberoi Hotels Says",
+          "url": "https://skift.com/2026/08/12/high-paying-foreign-guests-are-still-missing-in-india-oberoi-hotels-says/",
+          "source": "Skift Hospitality",
+          "source_name": "Skift Hospitality",
+          "site_id": "skift",
+          "published_at": "2026-08-12T12:41:08Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8178,
+      "importance": 0.5572,
+      "importance_score": 0.8178,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.7858,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-12T12:41:08Z",
+      "latest_at": "2026-08-12T12:41:08Z",
+      "primary_item": {
+        "id": "hotelitem_00c9e3835d2d",
+        "title": "High-Paying Foreign Guests Are Still Missing in India, Oberoi Hotels Says",
+        "url": "https://skift.com/2026/08/12/high-paying-foreign-guests-are-still-missing-in-india-oberoi-hotels-says/",
+        "source": "Skift Hospitality",
+        "source_name": "Skift Hospitality"
+      }
+    },
+    {
+      "story_id": "story_4f0c37215567",
+      "title": "环游青甘大环线！华住会“房车”巡游8月启程",
+      "url": "https://www.pinchain.com/article/350204",
+      "primary_url": "https://www.pinchain.com/article/350204",
+      "source": "品橙旅游",
+      "source_name": "品橙旅游",
+      "sources": [
+        {
+          "id": "hotelitem_4f0c37215567",
+          "title": "环游青甘大环线！华住会“房车”巡游8月启程",
+          "url": "https://www.pinchain.com/article/350204",
+          "source": "品橙旅游",
+          "source_name": "品橙旅游",
+          "site_id": "pinchain",
+          "published_at": "2026-08-22T00:57:11Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "品橙旅游"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_4f0c37215567",
+          "title": "环游青甘大环线！华住会“房车”巡游8月启程",
+          "url": "https://www.pinchain.com/article/350204",
+          "source": "品橙旅游",
+          "source_name": "品橙旅游",
+          "site_id": "pinchain",
+          "published_at": "2026-08-22T00:57:11Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.817,
+      "importance": 0.5994,
+      "importance_score": 0.817,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9972,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-22T00:57:11Z",
+      "latest_at": "2026-08-22T00:57:11Z",
+      "primary_item": {
+        "id": "hotelitem_4f0c37215567",
+        "title": "环游青甘大环线！华住会“房车”巡游8月启程",
+        "url": "https://www.pinchain.com/article/350204",
+        "source": "品橙旅游",
+        "source_name": "品橙旅游"
       }
     }
   ]
