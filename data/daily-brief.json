@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T21:38:30.708100Z",
+  "generated_at": "2026-08-23T02:01:14.229640Z",
   "window_hours": 1080,
   "total_items": 30,
   "items": [
@@ -38,14 +38,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9894,
-      "importance": 0.589,
-      "importance_score": 0.9894,
+      "score": 0.9886,
+      "importance": 0.5881,
+      "importance_score": 0.9886,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9448,
+        "recency": 0.9407,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -97,14 +97,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9587,
-      "importance": 0.5527,
-      "importance_score": 0.9587,
+      "score": 0.9575,
+      "importance": 0.5518,
+      "importance_score": 0.9575,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.7633,
+        "recency": 0.7592,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -156,14 +156,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9417,
-      "importance": 0.5862,
-      "importance_score": 0.9417,
+      "score": 0.9409,
+      "importance": 0.5854,
+      "importance_score": 0.9409,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9311,
+        "recency": 0.927,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -215,14 +215,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9324,
-      "importance": 0.5765,
-      "importance_score": 0.9324,
+      "score": 0.9316,
+      "importance": 0.5757,
+      "importance_score": 0.9316,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8827,
+        "recency": 0.8786,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -274,14 +274,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9321,
-      "importance": 0.5762,
-      "importance_score": 0.9321,
+      "score": 0.9313,
+      "importance": 0.5754,
+      "importance_score": 0.9313,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8811,
+        "recency": 0.8771,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -296,6 +296,65 @@
         "url": "https://www.hoteldive.com/news/series-by-marriott-adds-san-diego-boutique-lifestyle-hotel/827993/",
         "source": "Hotel Dive",
         "source_name": "Hotel Dive"
+      }
+    },
+    {
+      "story_id": "story_5757e195f316",
+      "title": "Waiting is the most expensive habit in revenue management",
+      "url": "https://boutiquehotelnews.com/features/expensive-habit-revenue-management/?utm_source=rss&utm_medium=rss&utm_campaign=expensive-habit-revenue-management",
+      "primary_url": "https://boutiquehotelnews.com/features/expensive-habit-revenue-management/?utm_source=rss&utm_medium=rss&utm_campaign=expensive-habit-revenue-management",
+      "source": "Boutique Hotel News",
+      "source_name": "Boutique Hotel News",
+      "sources": [
+        {
+          "id": "hotelitem_5757e195f316",
+          "title": "Waiting is the most expensive habit in revenue management",
+          "url": "https://boutiquehotelnews.com/features/expensive-habit-revenue-management/?utm_source=rss&utm_medium=rss&utm_campaign=expensive-habit-revenue-management",
+          "source": "Boutique Hotel News",
+          "source_name": "Boutique Hotel News",
+          "site_id": "boutiquehotel",
+          "published_at": "2026-08-17T12:21:58Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Boutique Hotel News"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_5757e195f316",
+          "title": "Waiting is the most expensive habit in revenue management",
+          "url": "https://boutiquehotelnews.com/features/expensive-habit-revenue-management/?utm_source=rss&utm_medium=rss&utm_campaign=expensive-habit-revenue-management",
+          "source": "Boutique Hotel News",
+          "source_name": "Boutique Hotel News",
+          "site_id": "boutiquehotel",
+          "published_at": "2026-08-17T12:21:58Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.9161,
+      "importance": 0.5752,
+      "importance_score": 0.9161,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.8762,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-17T12:21:58Z",
+      "latest_at": "2026-08-17T12:21:58Z",
+      "primary_item": {
+        "id": "hotelitem_5757e195f316",
+        "title": "Waiting is the most expensive habit in revenue management",
+        "url": "https://boutiquehotelnews.com/features/expensive-habit-revenue-management/?utm_source=rss&utm_medium=rss&utm_campaign=expensive-habit-revenue-management",
+        "source": "Boutique Hotel News",
+        "source_name": "Boutique Hotel News"
       }
     },
     {
@@ -333,14 +392,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9119,
-      "importance": 0.56,
-      "importance_score": 0.9119,
+      "score": 0.9107,
+      "importance": 0.5592,
+      "importance_score": 0.9107,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.7999,
+        "recency": 0.7958,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -392,14 +451,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9097,
-      "importance": 0.5585,
-      "importance_score": 0.9097,
+      "score": 0.9085,
+      "importance": 0.5577,
+      "importance_score": 0.9085,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.7924,
+        "recency": 0.7884,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -451,14 +510,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.909,
-      "importance": 0.586,
-      "importance_score": 0.909,
+      "score": 0.9082,
+      "importance": 0.5852,
+      "importance_score": 0.9082,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.93,
+        "recency": 0.9259,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -510,14 +569,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9081,
-      "importance": 0.5267,
-      "importance_score": 0.9081,
+      "score": 0.907,
+      "importance": 0.5259,
+      "importance_score": 0.907,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.6337,
+        "recency": 0.6296,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -549,7 +608,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-08-22T21:38:30.708100Z"
+          "published_at": "2026-08-23T02:01:14.229640Z"
         },
         {
           "id": "hotelitem_c7c15b7680c9",
@@ -558,7 +617,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-08-22T21:38:30.708100Z"
+          "published_at": "2026-08-23T02:01:14.229640Z"
         }
       ],
       "source_count": 2,
@@ -573,7 +632,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-08-22T21:38:30.708100Z"
+          "published_at": "2026-08-23T02:01:14.229640Z"
         },
         {
           "id": "hotelitem_c7c15b7680c9",
@@ -582,7 +641,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-08-22T21:38:30.708100Z"
+          "published_at": "2026-08-23T02:01:14.229640Z"
         }
       ],
       "item_count": 2,
@@ -602,8 +661,8 @@
         "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-22T21:38:30.708100Z",
-      "latest_at": "2026-08-22T21:38:30.708100Z",
+      "earliest_at": "2026-08-23T02:01:14.229640Z",
+      "latest_at": "2026-08-23T02:01:14.229640Z",
       "primary_item": {
         "id": "hotelitem_d4370964909c",
         "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
@@ -627,7 +686,7 @@
           "source": "迈点研究院",
           "source_name": "迈点研究院",
           "site_id": "meadin",
-          "published_at": "2026-08-22T21:38:30.708100Z"
+          "published_at": "2026-08-23T02:01:14.229640Z"
         }
       ],
       "source_count": 1,
@@ -642,7 +701,7 @@
           "source": "迈点研究院",
           "source_name": "迈点研究院",
           "site_id": "meadin",
-          "published_at": "2026-08-22T21:38:30.708100Z"
+          "published_at": "2026-08-23T02:01:14.229640Z"
         }
       ],
       "item_count": 1,
@@ -661,8 +720,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-22T21:38:30.708100Z",
-      "latest_at": "2026-08-22T21:38:30.708100Z",
+      "earliest_at": "2026-08-23T02:01:14.229640Z",
+      "latest_at": "2026-08-23T02:01:14.229640Z",
       "primary_item": {
         "id": "hotelitem_143d72078cc7",
         "title": "中青旅为控股子公司中青旅创格提供5000万元担保",
@@ -706,14 +765,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8593,
-      "importance": 0.5941,
-      "importance_score": 0.8593,
+      "score": 0.8586,
+      "importance": 0.5933,
+      "importance_score": 0.8586,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9706,
+        "recency": 0.9666,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -745,7 +804,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-08-22T21:38:30.708100Z"
+          "published_at": "2026-08-23T02:01:14.229640Z"
         }
       ],
       "source_count": 1,
@@ -760,7 +819,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-08-22T21:38:30.708100Z"
+          "published_at": "2026-08-23T02:01:14.229640Z"
         }
       ],
       "item_count": 1,
@@ -779,8 +838,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-22T21:38:30.708100Z",
-      "latest_at": "2026-08-22T21:38:30.708100Z",
+      "earliest_at": "2026-08-23T02:01:14.229640Z",
+      "latest_at": "2026-08-23T02:01:14.229640Z",
       "primary_item": {
         "id": "hotelitem_e4ce0593c384",
         "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
@@ -804,7 +863,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-08-22T21:38:30.708100Z"
+          "published_at": "2026-08-23T02:01:14.229640Z"
         }
       ],
       "source_count": 1,
@@ -819,7 +878,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-08-22T21:38:30.708100Z"
+          "published_at": "2026-08-23T02:01:14.229640Z"
         }
       ],
       "item_count": 1,
@@ -838,8 +897,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-22T21:38:30.708100Z",
-      "latest_at": "2026-08-22T21:38:30.708100Z",
+      "earliest_at": "2026-08-23T02:01:14.229640Z",
+      "latest_at": "2026-08-23T02:01:14.229640Z",
       "primary_item": {
         "id": "hotelitem_fa34986b4fc0",
         "title": "文化和旅游部、金融监管总局关于警惕借“保...",
@@ -863,7 +922,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-08-22T21:38:30.708100Z"
+          "published_at": "2026-08-23T02:01:14.229640Z"
         }
       ],
       "source_count": 1,
@@ -878,7 +937,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-08-22T21:38:30.708100Z"
+          "published_at": "2026-08-23T02:01:14.229640Z"
         }
       ],
       "item_count": 1,
@@ -897,8 +956,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-22T21:38:30.708100Z",
-      "latest_at": "2026-08-22T21:38:30.708100Z",
+      "earliest_at": "2026-08-23T02:01:14.229640Z",
+      "latest_at": "2026-08-23T02:01:14.229640Z",
       "primary_item": {
         "id": "hotelitem_9a958319a874",
         "title": "文化和旅游部印发《旅游强国建设“十五五”...",
@@ -922,7 +981,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-08-22T21:38:30.708100Z"
+          "published_at": "2026-08-23T02:01:14.229640Z"
         }
       ],
       "source_count": 1,
@@ -937,7 +996,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-08-22T21:38:30.708100Z"
+          "published_at": "2026-08-23T02:01:14.229640Z"
         }
       ],
       "item_count": 1,
@@ -956,8 +1015,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-22T21:38:30.708100Z",
-      "latest_at": "2026-08-22T21:38:30.708100Z",
+      "earliest_at": "2026-08-23T02:01:14.229640Z",
+      "latest_at": "2026-08-23T02:01:14.229640Z",
       "primary_item": {
         "id": "hotelitem_8f218475e743",
         "title": "文化和旅游部发布2026年上半年国内居民出游数据情况",
@@ -1001,14 +1060,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8578,
-      "importance": 0.5453,
-      "importance_score": 0.8578,
+      "score": 0.8566,
+      "importance": 0.5444,
+      "importance_score": 0.8566,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.7263,
+        "recency": 0.7222,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1023,6 +1082,65 @@
         "url": "https://www.traveldaily.cn/article/190513",
         "source": "环球旅讯 TravelDaily",
         "source_name": "环球旅讯 TravelDaily"
+      }
+    },
+    {
+      "story_id": "story_87106bafc691",
+      "title": "Gary Mills appointed as Senior Vice President, Acquisitions at NewcrestImage, LLC",
+      "url": "https://insights.ehotelier.com/people/2026/08/21/gary-mills-appointed-as-senior-vice-president-acquisitions-at-newcrestimage-llc/?utm_source=rss&utm_medium=rss&utm_campaign=gary-mills-appointed-as-senior-vice-president-acquisitions-at-newcrestimage-llc",
+      "primary_url": "https://insights.ehotelier.com/people/2026/08/21/gary-mills-appointed-as-senior-vice-president-acquisitions-at-newcrestimage-llc/?utm_source=rss&utm_medium=rss&utm_campaign=gary-mills-appointed-as-senior-vice-president-acquisitions-at-newcrestimage-llc",
+      "source": "eHotelier",
+      "source_name": "eHotelier",
+      "sources": [
+        {
+          "id": "hotelitem_87106bafc691",
+          "title": "Gary Mills appointed as Senior Vice President, Acquisitions at NewcrestImage, LLC",
+          "url": "https://insights.ehotelier.com/people/2026/08/21/gary-mills-appointed-as-senior-vice-president-acquisitions-at-newcrestimage-llc/?utm_source=rss&utm_medium=rss&utm_campaign=gary-mills-appointed-as-senior-vice-president-acquisitions-at-newcrestimage-llc",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-08-21T01:35:01Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "eHotelier"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_87106bafc691",
+          "title": "Gary Mills appointed as Senior Vice President, Acquisitions at NewcrestImage, LLC",
+          "url": "https://insights.ehotelier.com/people/2026/08/21/gary-mills-appointed-as-senior-vice-president-acquisitions-at-newcrestimage-llc/?utm_source=rss&utm_medium=rss&utm_campaign=gary-mills-appointed-as-senior-vice-president-acquisitions-at-newcrestimage-llc",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-08-21T01:35:01Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8564,
+      "importance": 0.591,
+      "importance_score": 0.8564,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9552,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-21T01:35:01Z",
+      "latest_at": "2026-08-21T01:35:01Z",
+      "primary_item": {
+        "id": "hotelitem_87106bafc691",
+        "title": "Gary Mills appointed as Senior Vice President, Acquisitions at NewcrestImage, LLC",
+        "url": "https://insights.ehotelier.com/people/2026/08/21/gary-mills-appointed-as-senior-vice-president-acquisitions-at-newcrestimage-llc/?utm_source=rss&utm_medium=rss&utm_campaign=gary-mills-appointed-as-senior-vice-president-acquisitions-at-newcrestimage-llc",
+        "source": "eHotelier",
+        "source_name": "eHotelier"
       }
     },
     {
@@ -1060,14 +1178,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8572,
-      "importance": 0.5919,
-      "importance_score": 0.8572,
+      "score": 0.8564,
+      "importance": 0.5911,
+      "importance_score": 0.8564,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9594,
+        "recency": 0.9554,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1119,14 +1237,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8571,
-      "importance": 0.5918,
-      "importance_score": 0.8571,
+      "score": 0.8563,
+      "importance": 0.591,
+      "importance_score": 0.8563,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9591,
+        "recency": 0.955,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1139,65 +1257,6 @@
         "id": "hotelitem_4933e020fb55",
         "title": "Topnotch Resort unveils new restaurant concept, Maxwell’s",
         "url": "https://insights.ehotelier.com/properties/2026/08/21/topnotch-resort-unveils-new-restaurant-concept-maxwells/?utm_source=rss&utm_medium=rss&utm_campaign=topnotch-resort-unveils-new-restaurant-concept-maxwells",
-        "source": "eHotelier",
-        "source_name": "eHotelier"
-      }
-    },
-    {
-      "story_id": "story_87106bafc691",
-      "title": "Gary Mills appointed as Senior Vice President, Acquisitions at NewcrestImage, LLC",
-      "url": "https://insights.ehotelier.com/people/2026/08/21/gary-mills-appointed-as-senior-vice-president-acquisitions-at-newcrestimage-llc/?utm_source=rss&utm_medium=rss&utm_campaign=gary-mills-appointed-as-senior-vice-president-acquisitions-at-newcrestimage-llc",
-      "primary_url": "https://insights.ehotelier.com/people/2026/08/21/gary-mills-appointed-as-senior-vice-president-acquisitions-at-newcrestimage-llc/?utm_source=rss&utm_medium=rss&utm_campaign=gary-mills-appointed-as-senior-vice-president-acquisitions-at-newcrestimage-llc",
-      "source": "eHotelier",
-      "source_name": "eHotelier",
-      "sources": [
-        {
-          "id": "hotelitem_87106bafc691",
-          "title": "Gary Mills appointed as Senior Vice President, Acquisitions at NewcrestImage, LLC",
-          "url": "https://insights.ehotelier.com/people/2026/08/21/gary-mills-appointed-as-senior-vice-president-acquisitions-at-newcrestimage-llc/?utm_source=rss&utm_medium=rss&utm_campaign=gary-mills-appointed-as-senior-vice-president-acquisitions-at-newcrestimage-llc",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-08-21T01:35:01Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "eHotelier"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_87106bafc691",
-          "title": "Gary Mills appointed as Senior Vice President, Acquisitions at NewcrestImage, LLC",
-          "url": "https://insights.ehotelier.com/people/2026/08/21/gary-mills-appointed-as-senior-vice-president-acquisitions-at-newcrestimage-llc/?utm_source=rss&utm_medium=rss&utm_campaign=gary-mills-appointed-as-senior-vice-president-acquisitions-at-newcrestimage-llc",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-08-21T01:35:01Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8571,
-      "importance": 0.5918,
-      "importance_score": 0.8571,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9592,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-21T01:35:01Z",
-      "latest_at": "2026-08-21T01:35:01Z",
-      "primary_item": {
-        "id": "hotelitem_87106bafc691",
-        "title": "Gary Mills appointed as Senior Vice President, Acquisitions at NewcrestImage, LLC",
-        "url": "https://insights.ehotelier.com/people/2026/08/21/gary-mills-appointed-as-senior-vice-president-acquisitions-at-newcrestimage-llc/?utm_source=rss&utm_medium=rss&utm_campaign=gary-mills-appointed-as-senior-vice-president-acquisitions-at-newcrestimage-llc",
         "source": "eHotelier",
         "source_name": "eHotelier"
       }
@@ -1237,14 +1296,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8549,
-      "importance": 0.5895,
-      "importance_score": 0.8549,
+      "score": 0.8541,
+      "importance": 0.5887,
+      "importance_score": 0.8541,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9477,
+        "recency": 0.9437,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1296,14 +1355,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8547,
-      "importance": 0.5894,
-      "importance_score": 0.8547,
+      "score": 0.854,
+      "importance": 0.5886,
+      "importance_score": 0.854,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9468,
+        "recency": 0.9428,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1355,14 +1414,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8546,
-      "importance": 0.5892,
-      "importance_score": 0.8546,
+      "score": 0.8538,
+      "importance": 0.5884,
+      "importance_score": 0.8538,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9462,
+        "recency": 0.9421,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1414,14 +1473,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8464,
-      "importance": 0.5807,
-      "importance_score": 0.8464,
+      "score": 0.8456,
+      "importance": 0.5799,
+      "importance_score": 0.8456,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9035,
+        "recency": 0.8994,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1473,14 +1532,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8422,
-      "importance": 0.5763,
-      "importance_score": 0.8422,
+      "score": 0.8414,
+      "importance": 0.5755,
+      "importance_score": 0.8414,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8816,
+        "recency": 0.8776,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1532,14 +1591,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8372,
-      "importance": 0.5312,
-      "importance_score": 0.8372,
+      "score": 0.836,
+      "importance": 0.5304,
+      "importance_score": 0.836,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.656,
+        "recency": 0.6519,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1554,6 +1613,65 @@
         "url": "https://www.traveldaily.cn/article/190506",
         "source": "环球旅讯 TravelDaily",
         "source_name": "环球旅讯 TravelDaily"
+      }
+    },
+    {
+      "story_id": "story_8225d6eb9b00",
+      "title": "Hand Picked Hotels appoints Stembridge as CEO of luxury division",
+      "url": "https://boutiquehotelnews.com/news/movers-and-shakers/hand-picked-hotels-stembridge/?utm_source=rss&utm_medium=rss&utm_campaign=hand-picked-hotels-stembridge",
+      "primary_url": "https://boutiquehotelnews.com/news/movers-and-shakers/hand-picked-hotels-stembridge/?utm_source=rss&utm_medium=rss&utm_campaign=hand-picked-hotels-stembridge",
+      "source": "Boutique Hotel News",
+      "source_name": "Boutique Hotel News",
+      "sources": [
+        {
+          "id": "hotelitem_8225d6eb9b00",
+          "title": "Hand Picked Hotels appoints Stembridge as CEO of luxury division",
+          "url": "https://boutiquehotelnews.com/news/movers-and-shakers/hand-picked-hotels-stembridge/?utm_source=rss&utm_medium=rss&utm_campaign=hand-picked-hotels-stembridge",
+          "source": "Boutique Hotel News",
+          "source_name": "Boutique Hotel News",
+          "site_id": "boutiquehotel",
+          "published_at": "2026-08-19T10:30:18Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Boutique Hotel News"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_8225d6eb9b00",
+          "title": "Hand Picked Hotels appoints Stembridge as CEO of luxury division",
+          "url": "https://boutiquehotelnews.com/news/movers-and-shakers/hand-picked-hotels-stembridge/?utm_source=rss&utm_medium=rss&utm_campaign=hand-picked-hotels-stembridge",
+          "source": "Boutique Hotel News",
+          "source_name": "Boutique Hotel News",
+          "site_id": "boutiquehotel",
+          "published_at": "2026-08-19T10:30:18Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8344,
+      "importance": 0.5838,
+      "importance_score": 0.8344,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.919,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-19T10:30:18Z",
+      "latest_at": "2026-08-19T10:30:18Z",
+      "primary_item": {
+        "id": "hotelitem_8225d6eb9b00",
+        "title": "Hand Picked Hotels appoints Stembridge as CEO of luxury division",
+        "url": "https://boutiquehotelnews.com/news/movers-and-shakers/hand-picked-hotels-stembridge/?utm_source=rss&utm_medium=rss&utm_campaign=hand-picked-hotels-stembridge",
+        "source": "Boutique Hotel News",
+        "source_name": "Boutique Hotel News"
       }
     },
     {
@@ -1591,14 +1709,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8265,
-      "importance": 0.5631,
-      "importance_score": 0.8265,
+      "score": 0.8253,
+      "importance": 0.5623,
+      "importance_score": 0.8253,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8155,
+        "recency": 0.8115,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1650,14 +1768,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8262,
-      "importance": 0.5629,
-      "importance_score": 0.8262,
+      "score": 0.825,
+      "importance": 0.5621,
+      "importance_score": 0.825,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8143,
+        "recency": 0.8103,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1672,124 +1790,6 @@
         "url": "https://skift.com/2026/08/14/how-net-unit-growth-ate-the-hotel-industry/",
         "source": "Skift Hospitality",
         "source_name": "Skift Hospitality"
-      }
-    },
-    {
-      "story_id": "story_9a3189550a21",
-      "title": "Stranded Cruise Ships, Higher Fuel Prices: Iran War Eats Into TUI’s Profits",
-      "url": "https://skift.com/2026/08/12/tui-q3-earnings-iran-war/",
-      "primary_url": "https://skift.com/2026/08/12/tui-q3-earnings-iran-war/",
-      "source": "Skift Hospitality",
-      "source_name": "Skift Hospitality",
-      "sources": [
-        {
-          "id": "hotelitem_9a3189550a21",
-          "title": "Stranded Cruise Ships, Higher Fuel Prices: Iran War Eats Into TUI’s Profits",
-          "url": "https://skift.com/2026/08/12/tui-q3-earnings-iran-war/",
-          "source": "Skift Hospitality",
-          "source_name": "Skift Hospitality",
-          "site_id": "skift",
-          "published_at": "2026-08-12T17:04:21Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Skift Hospitality"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_9a3189550a21",
-          "title": "Stranded Cruise Ships, Higher Fuel Prices: Iran War Eats Into TUI’s Profits",
-          "url": "https://skift.com/2026/08/12/tui-q3-earnings-iran-war/",
-          "source": "Skift Hospitality",
-          "source_name": "Skift Hospitality",
-          "site_id": "skift",
-          "published_at": "2026-08-12T17:04:21Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8142,
-      "importance": 0.5547,
-      "importance_score": 0.8142,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.7735,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-12T17:04:21Z",
-      "latest_at": "2026-08-12T17:04:21Z",
-      "primary_item": {
-        "id": "hotelitem_9a3189550a21",
-        "title": "Stranded Cruise Ships, Higher Fuel Prices: Iran War Eats Into TUI’s Profits",
-        "url": "https://skift.com/2026/08/12/tui-q3-earnings-iran-war/",
-        "source": "Skift Hospitality",
-        "source_name": "Skift Hospitality"
-      }
-    },
-    {
-      "story_id": "story_4f0c37215567",
-      "title": "环游青甘大环线！华住会“房车”巡游8月启程",
-      "url": "https://www.pinchain.com/article/350204",
-      "primary_url": "https://www.pinchain.com/article/350204",
-      "source": "品橙旅游",
-      "source_name": "品橙旅游",
-      "sources": [
-        {
-          "id": "hotelitem_4f0c37215567",
-          "title": "环游青甘大环线！华住会“房车”巡游8月启程",
-          "url": "https://www.pinchain.com/article/350204",
-          "source": "品橙旅游",
-          "source_name": "品橙旅游",
-          "site_id": "pinchain",
-          "published_at": "2026-08-22T00:57:11Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "品橙旅游"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_4f0c37215567",
-          "title": "环游青甘大环线！华住会“房车”巡游8月启程",
-          "url": "https://www.pinchain.com/article/350204",
-          "source": "品橙旅游",
-          "source_name": "品橙旅游",
-          "site_id": "pinchain",
-          "published_at": "2026-08-22T00:57:11Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8138,
-      "importance": 0.5962,
-      "importance_score": 0.8138,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9808,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-22T00:57:11Z",
-      "latest_at": "2026-08-22T00:57:11Z",
-      "primary_item": {
-        "id": "hotelitem_4f0c37215567",
-        "title": "环游青甘大环线！华住会“房车”巡游8月启程",
-        "url": "https://www.pinchain.com/article/350204",
-        "source": "品橙旅游",
-        "source_name": "品橙旅游"
       }
     }
   ]
