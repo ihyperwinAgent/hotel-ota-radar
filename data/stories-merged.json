@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T20:51:29.138365Z",
+  "generated_at": "2026-09-01T00:39:26.769497Z",
   "window_hours": 1080,
   "total_stories": 30,
   "stories": [
@@ -38,14 +38,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9612,
-      "importance": 0.5543,
-      "importance_score": 0.9612,
+      "score": 0.9601,
+      "importance": 0.5536,
+      "importance_score": 0.9601,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.7717,
+        "recency": 0.7682,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -97,14 +97,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9538,
-      "importance": 0.5988,
-      "importance_score": 0.9538,
+      "score": 0.9532,
+      "importance": 0.5981,
+      "importance_score": 0.9532,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9939,
+        "recency": 0.9904,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -119,6 +119,65 @@
         "url": "https://www.hoteldive.com/news/choice-hotels-names-dominic-dragisich-president-and-ceo/829171/",
         "source": "Hotel Dive",
         "source_name": "Hotel Dive"
+      }
+    },
+    {
+      "story_id": "story_bc7d50a59891",
+      "title": "Radisson Hotel Group strengthens its commitment to Australasia with the signing of the Radisson RED in downtown Sydney",
+      "url": "https://insights.ehotelier.com/properties/2026/08/31/radisson-hotel-group-strengthens-its-commitment-to-australasia-with-the-signing-of-the-radisson-red-in-downtown-sydney/?utm_source=rss&utm_medium=rss&utm_campaign=radisson-hotel-group-strengthens-its-commitment-to-australasia-with-the-signing-of-the-radisson-red-in-downtown-sydney",
+      "primary_url": "https://insights.ehotelier.com/properties/2026/08/31/radisson-hotel-group-strengthens-its-commitment-to-australasia-with-the-signing-of-the-radisson-red-in-downtown-sydney/?utm_source=rss&utm_medium=rss&utm_campaign=radisson-hotel-group-strengthens-its-commitment-to-australasia-with-the-signing-of-the-radisson-red-in-downtown-sydney",
+      "source": "eHotelier",
+      "source_name": "eHotelier",
+      "sources": [
+        {
+          "id": "hotelitem_bc7d50a59891",
+          "title": "Radisson Hotel Group strengthens its commitment to Australasia with the signing of the Radisson RED in downtown Sydney",
+          "url": "https://insights.ehotelier.com/properties/2026/08/31/radisson-hotel-group-strengthens-its-commitment-to-australasia-with-the-signing-of-the-radisson-red-in-downtown-sydney/?utm_source=rss&utm_medium=rss&utm_campaign=radisson-hotel-group-strengthens-its-commitment-to-australasia-with-the-signing-of-the-radisson-red-in-downtown-sydney",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-08-31T00:19:27Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "eHotelier"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_bc7d50a59891",
+          "title": "Radisson Hotel Group strengthens its commitment to Australasia with the signing of the Radisson RED in downtown Sydney",
+          "url": "https://insights.ehotelier.com/properties/2026/08/31/radisson-hotel-group-strengthens-its-commitment-to-australasia-with-the-signing-of-the-radisson-red-in-downtown-sydney/?utm_source=rss&utm_medium=rss&utm_campaign=radisson-hotel-group-strengthens-its-commitment-to-australasia-with-the-signing-of-the-radisson-red-in-downtown-sydney",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-08-31T00:19:27Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.9507,
+      "importance": 0.5955,
+      "importance_score": 0.9507,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9775,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-31T00:19:27Z",
+      "latest_at": "2026-08-31T00:19:27Z",
+      "primary_item": {
+        "id": "hotelitem_bc7d50a59891",
+        "title": "Radisson Hotel Group strengthens its commitment to Australasia with the signing of the Radisson RED in downtown Sydney",
+        "url": "https://insights.ehotelier.com/properties/2026/08/31/radisson-hotel-group-strengthens-its-commitment-to-australasia-with-the-signing-of-the-radisson-red-in-downtown-sydney/?utm_source=rss&utm_medium=rss&utm_campaign=radisson-hotel-group-strengthens-its-commitment-to-australasia-with-the-signing-of-the-radisson-red-in-downtown-sydney",
+        "source": "eHotelier",
+        "source_name": "eHotelier"
       }
     },
     {
@@ -156,14 +215,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9514,
-      "importance": 0.5963,
-      "importance_score": 0.9514,
+      "score": 0.9507,
+      "importance": 0.5956,
+      "importance_score": 0.9507,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9814,
+        "recency": 0.9779,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -215,14 +274,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9514,
-      "importance": 0.5963,
-      "importance_score": 0.9514,
+      "score": 0.9507,
+      "importance": 0.5956,
+      "importance_score": 0.9507,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9815,
+        "recency": 0.9779,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -237,124 +296,6 @@
         "url": "https://insights.ehotelier.com/suppliers/2026/08/31/explorus-consolidates-six-systems-into-one-platform-to-run-hotels-restaurants-retail-camping-and-marinas-across-30-parks-nationwide/?utm_source=rss&utm_medium=rss&utm_campaign=explorus-consolidates-six-systems-into-one-platform-to-run-hotels-restaurants-retail-camping-and-marinas-across-30-parks-nationwide",
         "source": "eHotelier",
         "source_name": "eHotelier"
-      }
-    },
-    {
-      "story_id": "story_bc7d50a59891",
-      "title": "Radisson Hotel Group strengthens its commitment to Australasia with the signing of the Radisson RED in downtown Sydney",
-      "url": "https://insights.ehotelier.com/properties/2026/08/31/radisson-hotel-group-strengthens-its-commitment-to-australasia-with-the-signing-of-the-radisson-red-in-downtown-sydney/?utm_source=rss&utm_medium=rss&utm_campaign=radisson-hotel-group-strengthens-its-commitment-to-australasia-with-the-signing-of-the-radisson-red-in-downtown-sydney",
-      "primary_url": "https://insights.ehotelier.com/properties/2026/08/31/radisson-hotel-group-strengthens-its-commitment-to-australasia-with-the-signing-of-the-radisson-red-in-downtown-sydney/?utm_source=rss&utm_medium=rss&utm_campaign=radisson-hotel-group-strengthens-its-commitment-to-australasia-with-the-signing-of-the-radisson-red-in-downtown-sydney",
-      "source": "eHotelier",
-      "source_name": "eHotelier",
-      "sources": [
-        {
-          "id": "hotelitem_bc7d50a59891",
-          "title": "Radisson Hotel Group strengthens its commitment to Australasia with the signing of the Radisson RED in downtown Sydney",
-          "url": "https://insights.ehotelier.com/properties/2026/08/31/radisson-hotel-group-strengthens-its-commitment-to-australasia-with-the-signing-of-the-radisson-red-in-downtown-sydney/?utm_source=rss&utm_medium=rss&utm_campaign=radisson-hotel-group-strengthens-its-commitment-to-australasia-with-the-signing-of-the-radisson-red-in-downtown-sydney",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-08-31T00:19:27Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "eHotelier"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_bc7d50a59891",
-          "title": "Radisson Hotel Group strengthens its commitment to Australasia with the signing of the Radisson RED in downtown Sydney",
-          "url": "https://insights.ehotelier.com/properties/2026/08/31/radisson-hotel-group-strengthens-its-commitment-to-australasia-with-the-signing-of-the-radisson-red-in-downtown-sydney/?utm_source=rss&utm_medium=rss&utm_campaign=radisson-hotel-group-strengthens-its-commitment-to-australasia-with-the-signing-of-the-radisson-red-in-downtown-sydney",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-08-31T00:19:27Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.9513,
-      "importance": 0.5962,
-      "importance_score": 0.9513,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.981,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-31T00:19:27Z",
-      "latest_at": "2026-08-31T00:19:27Z",
-      "primary_item": {
-        "id": "hotelitem_bc7d50a59891",
-        "title": "Radisson Hotel Group strengthens its commitment to Australasia with the signing of the Radisson RED in downtown Sydney",
-        "url": "https://insights.ehotelier.com/properties/2026/08/31/radisson-hotel-group-strengthens-its-commitment-to-australasia-with-the-signing-of-the-radisson-red-in-downtown-sydney/?utm_source=rss&utm_medium=rss&utm_campaign=radisson-hotel-group-strengthens-its-commitment-to-australasia-with-the-signing-of-the-radisson-red-in-downtown-sydney",
-        "source": "eHotelier",
-        "source_name": "eHotelier"
-      }
-    },
-    {
-      "story_id": "story_ea95ecf9fcf6",
-      "title": "Atour Lifestyle Holdings Limited Reports Second Quarter 2026 Unaudited Financial Results",
-      "url": "https://ir.yaduo.com/news-releases/news-release-details/atour-lifestyle-holdings-limited-reports-second-quarter-2026",
-      "primary_url": "https://ir.yaduo.com/news-releases/news-release-details/atour-lifestyle-holdings-limited-reports-second-quarter-2026",
-      "source": "亚朵 Atour IR",
-      "source_name": "亚朵 Atour IR",
-      "sources": [
-        {
-          "id": "hotelitem_ea95ecf9fcf6",
-          "title": "Atour Lifestyle Holdings Limited Reports Second Quarter 2026 Unaudited Financial Results",
-          "url": "https://ir.yaduo.com/news-releases/news-release-details/atour-lifestyle-holdings-limited-reports-second-quarter-2026",
-          "source": "亚朵 Atour IR",
-          "source_name": "亚朵 Atour IR",
-          "site_id": "atour_ir",
-          "published_at": "2026-08-20T10:00:32Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "亚朵 Atour IR"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_ea95ecf9fcf6",
-          "title": "Atour Lifestyle Holdings Limited Reports Second Quarter 2026 Unaudited Financial Results",
-          "url": "https://ir.yaduo.com/news-releases/news-release-details/atour-lifestyle-holdings-limited-reports-second-quarter-2026",
-          "source": "亚朵 Atour IR",
-          "source_name": "亚朵 Atour IR",
-          "site_id": "atour_ir",
-          "published_at": "2026-08-20T10:00:32Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.941,
-      "importance": 0.5491,
-      "importance_score": 0.941,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.7455,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-20T10:00:32Z",
-      "latest_at": "2026-08-20T10:00:32Z",
-      "primary_item": {
-        "id": "hotelitem_ea95ecf9fcf6",
-        "title": "Atour Lifestyle Holdings Limited Reports Second Quarter 2026 Unaudited Financial Results",
-        "url": "https://ir.yaduo.com/news-releases/news-release-details/atour-lifestyle-holdings-limited-reports-second-quarter-2026",
-        "source": "亚朵 Atour IR",
-        "source_name": "亚朵 Atour IR"
       }
     },
     {
@@ -392,14 +333,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.941,
-      "importance": 0.5855,
-      "importance_score": 0.941,
+      "score": 0.9403,
+      "importance": 0.5848,
+      "importance_score": 0.9403,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9275,
+        "recency": 0.924,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -414,6 +355,65 @@
         "url": "https://skift.com/2026/08/28/what-hotelbeds-shrinking-margins-mean-for-hotel-distribution/",
         "source": "Skift Hospitality",
         "source_name": "Skift Hospitality"
+      }
+    },
+    {
+      "story_id": "story_ea95ecf9fcf6",
+      "title": "Atour Lifestyle Holdings Limited Reports Second Quarter 2026 Unaudited Financial Results",
+      "url": "https://ir.yaduo.com/news-releases/news-release-details/atour-lifestyle-holdings-limited-reports-second-quarter-2026",
+      "primary_url": "https://ir.yaduo.com/news-releases/news-release-details/atour-lifestyle-holdings-limited-reports-second-quarter-2026",
+      "source": "亚朵 Atour IR",
+      "source_name": "亚朵 Atour IR",
+      "sources": [
+        {
+          "id": "hotelitem_ea95ecf9fcf6",
+          "title": "Atour Lifestyle Holdings Limited Reports Second Quarter 2026 Unaudited Financial Results",
+          "url": "https://ir.yaduo.com/news-releases/news-release-details/atour-lifestyle-holdings-limited-reports-second-quarter-2026",
+          "source": "亚朵 Atour IR",
+          "source_name": "亚朵 Atour IR",
+          "site_id": "atour_ir",
+          "published_at": "2026-08-20T10:00:32Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "亚朵 Atour IR"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_ea95ecf9fcf6",
+          "title": "Atour Lifestyle Holdings Limited Reports Second Quarter 2026 Unaudited Financial Results",
+          "url": "https://ir.yaduo.com/news-releases/news-release-details/atour-lifestyle-holdings-limited-reports-second-quarter-2026",
+          "source": "亚朵 Atour IR",
+          "source_name": "亚朵 Atour IR",
+          "site_id": "atour_ir",
+          "published_at": "2026-08-20T10:00:32Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.9399,
+      "importance": 0.5484,
+      "importance_score": 0.9399,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.742,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-20T10:00:32Z",
+      "latest_at": "2026-08-20T10:00:32Z",
+      "primary_item": {
+        "id": "hotelitem_ea95ecf9fcf6",
+        "title": "Atour Lifestyle Holdings Limited Reports Second Quarter 2026 Unaudited Financial Results",
+        "url": "https://ir.yaduo.com/news-releases/news-release-details/atour-lifestyle-holdings-limited-reports-second-quarter-2026",
+        "source": "亚朵 Atour IR",
+        "source_name": "亚朵 Atour IR"
       }
     },
     {
@@ -451,14 +451,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.939,
-      "importance": 0.5835,
-      "importance_score": 0.939,
+      "score": 0.9384,
+      "importance": 0.5827,
+      "importance_score": 0.9384,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9173,
+        "recency": 0.9137,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -510,14 +510,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9365,
-      "importance": 0.5808,
-      "importance_score": 0.9365,
+      "score": 0.9358,
+      "importance": 0.5801,
+      "importance_score": 0.9358,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9038,
+        "recency": 0.9003,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -569,14 +569,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9323,
-      "importance": 0.5765,
-      "importance_score": 0.9323,
+      "score": 0.9317,
+      "importance": 0.5758,
+      "importance_score": 0.9317,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8825,
+        "recency": 0.8789,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -628,14 +628,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.928,
-      "importance": 0.572,
-      "importance_score": 0.928,
+      "score": 0.9273,
+      "importance": 0.5713,
+      "importance_score": 0.9273,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.86,
+        "recency": 0.8565,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -687,14 +687,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9277,
-      "importance": 0.5976,
-      "importance_score": 0.9277,
+      "score": 0.927,
+      "importance": 0.5969,
+      "importance_score": 0.927,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9882,
+        "recency": 0.9847,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -746,14 +746,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9167,
-      "importance": 0.5759,
-      "importance_score": 0.9167,
+      "score": 0.9161,
+      "importance": 0.5752,
+      "importance_score": 0.9161,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8794,
+        "recency": 0.8759,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -805,14 +805,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9002,
-      "importance": 0.5128,
-      "importance_score": 0.9002,
+      "score": 0.8992,
+      "importance": 0.5121,
+      "importance_score": 0.8992,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.564,
+        "recency": 0.5605,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -864,14 +864,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8892,
-      "importance": 0.5667,
-      "importance_score": 0.8892,
+      "score": 0.8882,
+      "importance": 0.566,
+      "importance_score": 0.8882,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8333,
+        "recency": 0.8298,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -923,14 +923,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8818,
-      "importance": 0.5967,
-      "importance_score": 0.8818,
+      "score": 0.8812,
+      "importance": 0.596,
+      "importance_score": 0.8812,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9836,
+        "recency": 0.9801,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -982,14 +982,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8643,
-      "importance": 0.5993,
-      "importance_score": 0.8643,
+      "score": 0.8636,
+      "importance": 0.5986,
+      "importance_score": 0.8636,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9963,
+        "recency": 0.9928,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1004,65 +1004,6 @@
         "url": "https://skift.com/2026/08/31/fosun-files-for-clubmed-ipo-in-hong-kong/",
         "source": "Skift Hospitality",
         "source_name": "Skift Hospitality"
-      }
-    },
-    {
-      "story_id": "story_965ee57821c3",
-      "title": "Vietnamese artists reimagine the mountain landscape as Sapa turns gold",
-      "url": "https://insights.ehotelier.com/global-news/2026/08/31/vietnamese-artists-reimagine-the-mountain-landscape-as-sapa-turns-gold-2/?utm_source=rss&utm_medium=rss&utm_campaign=vietnamese-artists-reimagine-the-mountain-landscape-as-sapa-turns-gold-2",
-      "primary_url": "https://insights.ehotelier.com/global-news/2026/08/31/vietnamese-artists-reimagine-the-mountain-landscape-as-sapa-turns-gold-2/?utm_source=rss&utm_medium=rss&utm_campaign=vietnamese-artists-reimagine-the-mountain-landscape-as-sapa-turns-gold-2",
-      "source": "eHotelier",
-      "source_name": "eHotelier",
-      "sources": [
-        {
-          "id": "hotelitem_965ee57821c3",
-          "title": "Vietnamese artists reimagine the mountain landscape as Sapa turns gold",
-          "url": "https://insights.ehotelier.com/global-news/2026/08/31/vietnamese-artists-reimagine-the-mountain-landscape-as-sapa-turns-gold-2/?utm_source=rss&utm_medium=rss&utm_campaign=vietnamese-artists-reimagine-the-mountain-landscape-as-sapa-turns-gold-2",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-08-31T00:35:57Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "eHotelier"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_965ee57821c3",
-          "title": "Vietnamese artists reimagine the mountain landscape as Sapa turns gold",
-          "url": "https://insights.ehotelier.com/global-news/2026/08/31/vietnamese-artists-reimagine-the-mountain-landscape-as-sapa-turns-gold-2/?utm_source=rss&utm_medium=rss&utm_campaign=vietnamese-artists-reimagine-the-mountain-landscape-as-sapa-turns-gold-2",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-08-31T00:35:57Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8614,
-      "importance": 0.5962,
-      "importance_score": 0.8614,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9812,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-31T00:35:57Z",
-      "latest_at": "2026-08-31T00:35:57Z",
-      "primary_item": {
-        "id": "hotelitem_965ee57821c3",
-        "title": "Vietnamese artists reimagine the mountain landscape as Sapa turns gold",
-        "url": "https://insights.ehotelier.com/global-news/2026/08/31/vietnamese-artists-reimagine-the-mountain-landscape-as-sapa-turns-gold-2/?utm_source=rss&utm_medium=rss&utm_campaign=vietnamese-artists-reimagine-the-mountain-landscape-as-sapa-turns-gold-2",
-        "source": "eHotelier",
-        "source_name": "eHotelier"
       }
     },
     {
@@ -1100,14 +1041,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8614,
-      "importance": 0.5963,
-      "importance_score": 0.8614,
+      "score": 0.8608,
+      "importance": 0.5956,
+      "importance_score": 0.8608,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9815,
+        "recency": 0.978,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1120,6 +1061,65 @@
         "id": "hotelitem_cd7caee83ef6",
         "title": "Professional Attitude and Behavior in the Hospitality Industry",
         "url": "https://insights.ehotelier.com/insights/2026/08/31/professional-attitude-and-behavior-in-the-hospitality-industry/?utm_source=rss&utm_medium=rss&utm_campaign=professional-attitude-and-behavior-in-the-hospitality-industry",
+        "source": "eHotelier",
+        "source_name": "eHotelier"
+      }
+    },
+    {
+      "story_id": "story_965ee57821c3",
+      "title": "Vietnamese artists reimagine the mountain landscape as Sapa turns gold",
+      "url": "https://insights.ehotelier.com/global-news/2026/08/31/vietnamese-artists-reimagine-the-mountain-landscape-as-sapa-turns-gold-2/?utm_source=rss&utm_medium=rss&utm_campaign=vietnamese-artists-reimagine-the-mountain-landscape-as-sapa-turns-gold-2",
+      "primary_url": "https://insights.ehotelier.com/global-news/2026/08/31/vietnamese-artists-reimagine-the-mountain-landscape-as-sapa-turns-gold-2/?utm_source=rss&utm_medium=rss&utm_campaign=vietnamese-artists-reimagine-the-mountain-landscape-as-sapa-turns-gold-2",
+      "source": "eHotelier",
+      "source_name": "eHotelier",
+      "sources": [
+        {
+          "id": "hotelitem_965ee57821c3",
+          "title": "Vietnamese artists reimagine the mountain landscape as Sapa turns gold",
+          "url": "https://insights.ehotelier.com/global-news/2026/08/31/vietnamese-artists-reimagine-the-mountain-landscape-as-sapa-turns-gold-2/?utm_source=rss&utm_medium=rss&utm_campaign=vietnamese-artists-reimagine-the-mountain-landscape-as-sapa-turns-gold-2",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-08-31T00:35:57Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "eHotelier"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_965ee57821c3",
+          "title": "Vietnamese artists reimagine the mountain landscape as Sapa turns gold",
+          "url": "https://insights.ehotelier.com/global-news/2026/08/31/vietnamese-artists-reimagine-the-mountain-landscape-as-sapa-turns-gold-2/?utm_source=rss&utm_medium=rss&utm_campaign=vietnamese-artists-reimagine-the-mountain-landscape-as-sapa-turns-gold-2",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-08-31T00:35:57Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8607,
+      "importance": 0.5955,
+      "importance_score": 0.8607,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9777,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-31T00:35:57Z",
+      "latest_at": "2026-08-31T00:35:57Z",
+      "primary_item": {
+        "id": "hotelitem_965ee57821c3",
+        "title": "Vietnamese artists reimagine the mountain landscape as Sapa turns gold",
+        "url": "https://insights.ehotelier.com/global-news/2026/08/31/vietnamese-artists-reimagine-the-mountain-landscape-as-sapa-turns-gold-2/?utm_source=rss&utm_medium=rss&utm_campaign=vietnamese-artists-reimagine-the-mountain-landscape-as-sapa-turns-gold-2",
         "source": "eHotelier",
         "source_name": "eHotelier"
       }
@@ -1139,7 +1139,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-08-31T20:51:29.138365Z"
+          "published_at": "2026-09-01T00:39:26.769497Z"
         },
         {
           "id": "hotelitem_c7c15b7680c9",
@@ -1148,7 +1148,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-08-31T20:51:29.138365Z"
+          "published_at": "2026-09-01T00:39:26.769497Z"
         }
       ],
       "source_count": 2,
@@ -1163,7 +1163,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-08-31T20:51:29.138365Z"
+          "published_at": "2026-09-01T00:39:26.769497Z"
         },
         {
           "id": "hotelitem_c7c15b7680c9",
@@ -1172,7 +1172,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-08-31T20:51:29.138365Z"
+          "published_at": "2026-09-01T00:39:26.769497Z"
         }
       ],
       "item_count": 2,
@@ -1192,8 +1192,8 @@
         "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-31T20:51:29.138365Z",
-      "latest_at": "2026-08-31T20:51:29.138365Z",
+      "earliest_at": "2026-09-01T00:39:26.769497Z",
+      "latest_at": "2026-09-01T00:39:26.769497Z",
       "primary_item": {
         "id": "hotelitem_d4370964909c",
         "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
@@ -1217,7 +1217,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-08-31T20:51:29.138365Z"
+          "published_at": "2026-09-01T00:39:26.769497Z"
         },
         {
           "id": "hotelitem_da923c0668b1",
@@ -1226,7 +1226,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-08-31T20:51:29.138365Z"
+          "published_at": "2026-09-01T00:39:26.769497Z"
         }
       ],
       "source_count": 2,
@@ -1241,7 +1241,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-08-31T20:51:29.138365Z"
+          "published_at": "2026-09-01T00:39:26.769497Z"
         },
         {
           "id": "hotelitem_da923c0668b1",
@@ -1250,7 +1250,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-08-31T20:51:29.138365Z"
+          "published_at": "2026-09-01T00:39:26.769497Z"
         }
       ],
       "item_count": 2,
@@ -1270,8 +1270,8 @@
         "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-31T20:51:29.138365Z",
-      "latest_at": "2026-08-31T20:51:29.138365Z",
+      "earliest_at": "2026-09-01T00:39:26.769497Z",
+      "latest_at": "2026-09-01T00:39:26.769497Z",
       "primary_item": {
         "id": "hotelitem_6afacb5ef78d",
         "title": "指数发布 | 中国住宿业消费指数报告（2026年7月）发布 为贯彻落实提振消费相关政策，真实反映中国住宿餐饮业市场消费情况，以数据引导促消费政策精准发力，为行业发展提供参考建议，中国饭店协会每月公开发布“中国饭店业消费指数体系”，包含“中国住宿业消费指数（China Hotel Industry Consumption Index, HCI）”与“中国餐饮业消费指数(China Catering Industry Consumption Index, CCI)”，欢迎关注。",
@@ -1281,21 +1281,21 @@
       }
     },
     {
-      "story_id": "story_d6d67ec44a48",
-      "title": "众信旅游上半年营收27.99亿元 归母净利润同比降24.06%",
-      "url": "https://www.meadin.com/wl/300485.html",
-      "primary_url": "https://www.meadin.com/wl/300485.html",
+      "story_id": "story_d747f4ffbe7e",
+      "title": "73.2万间客房待升级，希尔顿给存量酒店改造立了个新规矩",
+      "url": "https://www.meadin.com/jd/300548.html",
+      "primary_url": "https://www.meadin.com/jd/300548.html",
       "source": "迈点研究院",
       "source_name": "迈点研究院",
       "sources": [
         {
-          "id": "hotelitem_d6d67ec44a48",
-          "title": "众信旅游上半年营收27.99亿元 归母净利润同比降24.06%",
-          "url": "https://www.meadin.com/wl/300485.html",
+          "id": "hotelitem_d747f4ffbe7e",
+          "title": "73.2万间客房待升级，希尔顿给存量酒店改造立了个新规矩",
+          "url": "https://www.meadin.com/jd/300548.html",
           "source": "迈点研究院",
           "source_name": "迈点研究院",
           "site_id": "meadin",
-          "published_at": "2026-08-31T20:51:29.138365Z"
+          "published_at": "2026-09-01T00:39:26.769497Z"
         }
       ],
       "source_count": 1,
@@ -1304,13 +1304,13 @@
       ],
       "items": [
         {
-          "id": "hotelitem_d6d67ec44a48",
-          "title": "众信旅游上半年营收27.99亿元 归母净利润同比降24.06%",
-          "url": "https://www.meadin.com/wl/300485.html",
+          "id": "hotelitem_d747f4ffbe7e",
+          "title": "73.2万间客房待升级，希尔顿给存量酒店改造立了个新规矩",
+          "url": "https://www.meadin.com/jd/300548.html",
           "source": "迈点研究院",
           "source_name": "迈点研究院",
           "site_id": "meadin",
-          "published_at": "2026-08-31T20:51:29.138365Z"
+          "published_at": "2026-09-01T00:39:26.769497Z"
         }
       ],
       "item_count": 1,
@@ -1329,8 +1329,67 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-31T20:51:29.138365Z",
-      "latest_at": "2026-08-31T20:51:29.138365Z",
+      "earliest_at": "2026-09-01T00:39:26.769497Z",
+      "latest_at": "2026-09-01T00:39:26.769497Z",
+      "primary_item": {
+        "id": "hotelitem_d747f4ffbe7e",
+        "title": "73.2万间客房待升级，希尔顿给存量酒店改造立了个新规矩",
+        "url": "https://www.meadin.com/jd/300548.html",
+        "source": "迈点研究院",
+        "source_name": "迈点研究院"
+      }
+    },
+    {
+      "story_id": "story_d6d67ec44a48",
+      "title": "众信旅游上半年营收27.99亿元 归母净利润同比降24.06%",
+      "url": "https://www.meadin.com/wl/300485.html",
+      "primary_url": "https://www.meadin.com/wl/300485.html",
+      "source": "迈点研究院",
+      "source_name": "迈点研究院",
+      "sources": [
+        {
+          "id": "hotelitem_d6d67ec44a48",
+          "title": "众信旅游上半年营收27.99亿元 归母净利润同比降24.06%",
+          "url": "https://www.meadin.com/wl/300485.html",
+          "source": "迈点研究院",
+          "source_name": "迈点研究院",
+          "site_id": "meadin",
+          "published_at": "2026-09-01T00:39:26.769497Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "迈点研究院"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_d6d67ec44a48",
+          "title": "众信旅游上半年营收27.99亿元 归母净利润同比降24.06%",
+          "url": "https://www.meadin.com/wl/300485.html",
+          "source": "迈点研究院",
+          "source_name": "迈点研究院",
+          "site_id": "meadin",
+          "published_at": "2026-09-01T00:39:26.769497Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.86,
+      "importance": 0.6,
+      "importance_score": 0.86,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-01T00:39:26.769497Z",
+      "latest_at": "2026-09-01T00:39:26.769497Z",
       "primary_item": {
         "id": "hotelitem_d6d67ec44a48",
         "title": "众信旅游上半年营收27.99亿元 归母净利润同比降24.06%",
@@ -1354,7 +1413,7 @@
           "source": "迈点研究院",
           "source_name": "迈点研究院",
           "site_id": "meadin",
-          "published_at": "2026-08-31T20:51:29.138365Z"
+          "published_at": "2026-09-01T00:39:26.769497Z"
         }
       ],
       "source_count": 1,
@@ -1369,7 +1428,7 @@
           "source": "迈点研究院",
           "source_name": "迈点研究院",
           "site_id": "meadin",
-          "published_at": "2026-08-31T20:51:29.138365Z"
+          "published_at": "2026-09-01T00:39:26.769497Z"
         }
       ],
       "item_count": 1,
@@ -1388,8 +1447,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-31T20:51:29.138365Z",
-      "latest_at": "2026-08-31T20:51:29.138365Z",
+      "earliest_at": "2026-09-01T00:39:26.769497Z",
+      "latest_at": "2026-09-01T00:39:26.769497Z",
       "primary_item": {
         "id": "hotelitem_d2688246a337",
         "title": "金陵饭店中期业绩：酒店业务稳增长",
@@ -1433,14 +1492,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8591,
-      "importance": 0.5461,
-      "importance_score": 0.8591,
+      "score": 0.8581,
+      "importance": 0.5454,
+      "importance_score": 0.8581,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.7307,
+        "recency": 0.7272,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1472,7 +1531,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-08-31T20:51:29.138365Z"
+          "published_at": "2026-09-01T00:39:26.769497Z"
         }
       ],
       "source_count": 1,
@@ -1487,7 +1546,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-08-31T20:51:29.138365Z"
+          "published_at": "2026-09-01T00:39:26.769497Z"
         }
       ],
       "item_count": 1,
@@ -1506,8 +1565,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-31T20:51:29.138365Z",
-      "latest_at": "2026-08-31T20:51:29.138365Z",
+      "earliest_at": "2026-09-01T00:39:26.769497Z",
+      "latest_at": "2026-09-01T00:39:26.769497Z",
       "primary_item": {
         "id": "hotelitem_e4ce0593c384",
         "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
@@ -1531,7 +1590,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-08-31T20:51:29.138365Z"
+          "published_at": "2026-09-01T00:39:26.769497Z"
         }
       ],
       "source_count": 1,
@@ -1546,7 +1605,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-08-31T20:51:29.138365Z"
+          "published_at": "2026-09-01T00:39:26.769497Z"
         }
       ],
       "item_count": 1,
@@ -1565,8 +1624,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-31T20:51:29.138365Z",
-      "latest_at": "2026-08-31T20:51:29.138365Z",
+      "earliest_at": "2026-09-01T00:39:26.769497Z",
+      "latest_at": "2026-09-01T00:39:26.769497Z",
       "primary_item": {
         "id": "hotelitem_fa34986b4fc0",
         "title": "文化和旅游部、金融监管总局关于警惕借“保...",
@@ -1590,7 +1649,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-08-31T20:51:29.138365Z"
+          "published_at": "2026-09-01T00:39:26.769497Z"
         }
       ],
       "source_count": 1,
@@ -1605,7 +1664,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-08-31T20:51:29.138365Z"
+          "published_at": "2026-09-01T00:39:26.769497Z"
         }
       ],
       "item_count": 1,
@@ -1624,8 +1683,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-31T20:51:29.138365Z",
-      "latest_at": "2026-08-31T20:51:29.138365Z",
+      "earliest_at": "2026-09-01T00:39:26.769497Z",
+      "latest_at": "2026-09-01T00:39:26.769497Z",
       "primary_item": {
         "id": "hotelitem_9a958319a874",
         "title": "文化和旅游部印发《旅游强国建设“十五五”...",
@@ -1649,7 +1708,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-08-31T20:51:29.138365Z"
+          "published_at": "2026-09-01T00:39:26.769497Z"
         }
       ],
       "source_count": 1,
@@ -1664,7 +1723,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-08-31T20:51:29.138365Z"
+          "published_at": "2026-09-01T00:39:26.769497Z"
         }
       ],
       "item_count": 1,
@@ -1683,8 +1742,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-31T20:51:29.138365Z",
-      "latest_at": "2026-08-31T20:51:29.138365Z",
+      "earliest_at": "2026-09-01T00:39:26.769497Z",
+      "latest_at": "2026-09-01T00:39:26.769497Z",
       "primary_item": {
         "id": "hotelitem_8f218475e743",
         "title": "文化和旅游部发布2026年上半年国内居民出游数据情况",
@@ -1728,14 +1787,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8515,
-      "importance": 0.586,
-      "importance_score": 0.8515,
+      "score": 0.8508,
+      "importance": 0.5853,
+      "importance_score": 0.8508,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9301,
+        "recency": 0.9266,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1748,65 +1807,6 @@
         "id": "hotelitem_b922a9378a2d",
         "title": "Hotel Tech-in: The AI-powered system optimizing Resorts World’s central utility plant",
         "url": "https://www.hoteldive.com/news/metasys-openblue-technology-vegas-resorts-world/829109/",
-        "source": "Hotel Dive",
-        "source_name": "Hotel Dive"
-      }
-    },
-    {
-      "story_id": "story_a91011d97f71",
-      "title": "Fred Dixon returns as NYC Tourism CEO to drive visitation, economic growth",
-      "url": "https://www.hoteldive.com/news/fred-dixon-appointed-nyc-tourism-ceo/829055/",
-      "primary_url": "https://www.hoteldive.com/news/fred-dixon-appointed-nyc-tourism-ceo/829055/",
-      "source": "Hotel Dive",
-      "source_name": "Hotel Dive",
-      "sources": [
-        {
-          "id": "hotelitem_a91011d97f71",
-          "title": "Fred Dixon returns as NYC Tourism CEO to drive visitation, economic growth",
-          "url": "https://www.hoteldive.com/news/fred-dixon-appointed-nyc-tourism-ceo/829055/",
-          "source": "Hotel Dive",
-          "source_name": "Hotel Dive",
-          "site_id": "hoteldive",
-          "published_at": "2026-08-28T13:19:54Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hotel Dive"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_a91011d97f71",
-          "title": "Fred Dixon returns as NYC Tourism CEO to drive visitation, economic growth",
-          "url": "https://www.hoteldive.com/news/fred-dixon-appointed-nyc-tourism-ceo/829055/",
-          "source": "Hotel Dive",
-          "source_name": "Hotel Dive",
-          "site_id": "hoteldive",
-          "published_at": "2026-08-28T13:19:54Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8508,
-      "importance": 0.5853,
-      "importance_score": 0.8508,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9264,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-28T13:19:54Z",
-      "latest_at": "2026-08-28T13:19:54Z",
-      "primary_item": {
-        "id": "hotelitem_a91011d97f71",
-        "title": "Fred Dixon returns as NYC Tourism CEO to drive visitation, economic growth",
-        "url": "https://www.hoteldive.com/news/fred-dixon-appointed-nyc-tourism-ceo/829055/",
         "source": "Hotel Dive",
         "source_name": "Hotel Dive"
       }
