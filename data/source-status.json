@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-06T22:54:33.812226Z",
+  "generated_at": "2026-09-07T04:48:22.114660Z",
   "successful_sites": 23,
   "total_sites": 26,
-  "items_before_topic_filter": 148,
+  "items_before_topic_filter": 149,
   "sites": [
     {
       "site_id": "huazhu_ir",
@@ -10,7 +10,7 @@
       "category": "cr9_finance",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 65300,
+      "duration_ms": 65102,
       "error": "HTTPSConnectionPool(host='www.globenewswire.com', port=443): Max retries exceeded with url: /en/search/keyword/Huazhu (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='www.globenewswire.com', port=443): Read timed out. (read timeout=15)\"))"
     },
     {
@@ -19,7 +19,7 @@
       "category": "cr9_finance",
       "ok": true,
       "item_count": 2,
-      "duration_ms": 380,
+      "duration_ms": 358,
       "error": null
     },
     {
@@ -28,7 +28,7 @@
       "category": "cr9_finance",
       "ok": true,
       "item_count": 0,
-      "duration_ms": 2087,
+      "duration_ms": 2702,
       "error": null
     },
     {
@@ -37,7 +37,7 @@
       "category": "supply_chain",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 3822,
+      "duration_ms": 3085,
       "error": null
     },
     {
@@ -46,7 +46,7 @@
       "category": "policy",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 1882,
+      "duration_ms": 2144,
       "error": null
     },
     {
@@ -55,7 +55,7 @@
       "category": "policy",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 1921,
+      "duration_ms": 3000,
       "error": null
     },
     {
@@ -64,7 +64,7 @@
       "category": "supply_chain",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 1676,
+      "duration_ms": 1983,
       "error": null
     },
     {
@@ -73,7 +73,7 @@
       "category": "supply_chain",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 2582,
+      "duration_ms": 5775,
       "error": null
     },
     {
@@ -82,7 +82,7 @@
       "category": "supply_chain",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1430,
+      "duration_ms": 1731,
       "error": null
     },
     {
@@ -91,7 +91,7 @@
       "category": "ai_hotel",
       "ok": true,
       "item_count": 8,
-      "duration_ms": 198,
+      "duration_ms": 105,
       "error": null
     },
     {
@@ -100,7 +100,7 @@
       "category": "ai_hotel",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 473,
+      "duration_ms": 409,
       "error": null
     },
     {
@@ -109,7 +109,7 @@
       "category": "ai_hotel",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 871,
+      "duration_ms": 967,
       "error": null
     },
     {
@@ -118,7 +118,7 @@
       "category": "supply_chain",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 195,
+      "duration_ms": 48,
       "error": "403 Client Error: Forbidden for url: https://lodgingmagazine.com/feed/"
     },
     {
@@ -127,7 +127,7 @@
       "category": "supply_chain",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1131,
+      "duration_ms": 864,
       "error": null
     },
     {
@@ -136,7 +136,7 @@
       "category": "ai_hotel",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 257,
+      "duration_ms": 61,
       "error": null
     },
     {
@@ -145,7 +145,7 @@
       "category": "ota",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 65192,
+      "duration_ms": 65204,
       "error": "HTTPSConnectionPool(host='www.globenewswire.com', port=443): Max retries exceeded with url: /en/search/keyword/Trip.com%20Group (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='www.globenewswire.com', port=443): Read timed out. (read timeout=15)\"))"
     },
     {
@@ -154,7 +154,7 @@
       "category": "ota",
       "ok": true,
       "item_count": 2,
-      "duration_ms": 713,
+      "duration_ms": 343,
       "error": null
     },
     {
@@ -163,7 +163,7 @@
       "category": "ota",
       "ok": true,
       "item_count": 1,
-      "duration_ms": 376,
+      "duration_ms": 176,
       "error": null
     },
     {
@@ -172,7 +172,7 @@
       "category": "ota",
       "ok": true,
       "item_count": 1,
-      "duration_ms": 281,
+      "duration_ms": 200,
       "error": null
     },
     {
@@ -181,7 +181,7 @@
       "category": "ota",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 270,
+      "duration_ms": 5131,
       "error": null
     },
     {
@@ -190,7 +190,7 @@
       "category": "ota",
       "ok": true,
       "item_count": 1,
-      "duration_ms": 194,
+      "duration_ms": 152,
       "error": null
     },
     {
@@ -199,7 +199,7 @@
       "category": "ota",
       "ok": true,
       "item_count": 2,
-      "duration_ms": 149,
+      "duration_ms": 114,
       "error": null
     },
     {
@@ -208,7 +208,7 @@
       "category": "ota",
       "ok": true,
       "item_count": 0,
-      "duration_ms": 1061,
+      "duration_ms": 1341,
       "error": null
     },
     {
@@ -217,7 +217,7 @@
       "category": "ota",
       "ok": true,
       "item_count": 0,
-      "duration_ms": 1628,
+      "duration_ms": 1465,
       "error": null
     },
     {
@@ -226,7 +226,7 @@
       "category": "ota",
       "ok": true,
       "item_count": 20,
-      "duration_ms": 2058,
+      "duration_ms": 3045,
       "error": null
     },
     {
@@ -235,7 +235,7 @@
       "category": "ota",
       "ok": true,
       "item_count": 0,
-      "duration_ms": 1514,
+      "duration_ms": 1838,
       "error": null
     }
   ]
