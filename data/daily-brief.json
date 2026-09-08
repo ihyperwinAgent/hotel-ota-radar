@@ -1,8 +1,67 @@
 {
-  "generated_at": "2026-09-08T11:23:55.613239Z",
+  "generated_at": "2026-09-08T16:41:01.695404Z",
   "window_hours": 1080,
   "total_items": 30,
   "items": [
+    {
+      "story_id": "story_2bb67d14fe7e",
+      "title": "Inside the Financial Engineering of Club Med’s IPO",
+      "url": "https://skift.com/2026/09/08/inside-the-financial-engineering-of-club-meds-ipo/",
+      "primary_url": "https://skift.com/2026/09/08/inside-the-financial-engineering-of-club-meds-ipo/",
+      "source": "Skift Hospitality",
+      "source_name": "Skift Hospitality",
+      "sources": [
+        {
+          "id": "hotelitem_2bb67d14fe7e",
+          "title": "Inside the Financial Engineering of Club Med’s IPO",
+          "url": "https://skift.com/2026/09/08/inside-the-financial-engineering-of-club-meds-ipo/",
+          "source": "Skift Hospitality",
+          "source_name": "Skift Hospitality",
+          "site_id": "skift",
+          "published_at": "2026-09-08T16:15:14Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Skift Hospitality"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_2bb67d14fe7e",
+          "title": "Inside the Financial Engineering of Club Med’s IPO",
+          "url": "https://skift.com/2026/09/08/inside-the-financial-engineering-of-club-meds-ipo/",
+          "source": "Skift Hospitality",
+          "source_name": "Skift Hospitality",
+          "site_id": "skift",
+          "published_at": "2026-09-08T16:15:14Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.9549,
+      "importance": 0.5999,
+      "importance_score": 0.9549,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9996,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-08T16:15:14Z",
+      "latest_at": "2026-09-08T16:15:14Z",
+      "primary_item": {
+        "id": "hotelitem_2bb67d14fe7e",
+        "title": "Inside the Financial Engineering of Club Med’s IPO",
+        "url": "https://skift.com/2026/09/08/inside-the-financial-engineering-of-club-meds-ipo/",
+        "source": "Skift Hospitality",
+        "source_name": "Skift Hospitality"
+      }
+    },
     {
       "story_id": "story_2f0a47664cc1",
       "title": "Expedia Group unveils largest-ever Stayz and Escapia product launch",
@@ -38,14 +97,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9489,
-      "importance": 0.5936,
-      "importance_score": 0.9489,
+      "score": 0.9479,
+      "importance": 0.5926,
+      "importance_score": 0.9479,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9681,
+        "recency": 0.9632,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -97,14 +156,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9489,
-      "importance": 0.5936,
-      "importance_score": 0.9489,
+      "score": 0.9479,
+      "importance": 0.5927,
+      "importance_score": 0.9479,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9682,
+        "recency": 0.9634,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -119,6 +178,65 @@
         "url": "https://insights.ehotelier.com/global-news/2026/09/07/wttc-to-host-more-rhan-200-global-travel-tourism-ceos-and-leaders-in-malta-for-landmark-global-summit/?utm_source=rss&utm_medium=rss&utm_campaign=wttc-to-host-more-rhan-200-global-travel-tourism-ceos-and-leaders-in-malta-for-landmark-global-summit",
         "source": "eHotelier",
         "source_name": "eHotelier"
+      }
+    },
+    {
+      "story_id": "story_13fcdaac6a59",
+      "title": "UK’s first JdV by Hyatt hotel set to open in Oxfordshire",
+      "url": "https://boutiquehotelnews.com/news/hotel/uk-jdv-hyatt-oxfordshire/?utm_source=rss&utm_medium=rss&utm_campaign=uk-jdv-hyatt-oxfordshire",
+      "primary_url": "https://boutiquehotelnews.com/news/hotel/uk-jdv-hyatt-oxfordshire/?utm_source=rss&utm_medium=rss&utm_campaign=uk-jdv-hyatt-oxfordshire",
+      "source": "Boutique Hotel News",
+      "source_name": "Boutique Hotel News",
+      "sources": [
+        {
+          "id": "hotelitem_13fcdaac6a59",
+          "title": "UK’s first JdV by Hyatt hotel set to open in Oxfordshire",
+          "url": "https://boutiquehotelnews.com/news/hotel/uk-jdv-hyatt-oxfordshire/?utm_source=rss&utm_medium=rss&utm_campaign=uk-jdv-hyatt-oxfordshire",
+          "source": "Boutique Hotel News",
+          "source_name": "Boutique Hotel News",
+          "site_id": "boutiquehotel",
+          "published_at": "2026-09-08T13:06:13Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Boutique Hotel News"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_13fcdaac6a59",
+          "title": "UK’s first JdV by Hyatt hotel set to open in Oxfordshire",
+          "url": "https://boutiquehotelnews.com/news/hotel/uk-jdv-hyatt-oxfordshire/?utm_source=rss&utm_medium=rss&utm_campaign=uk-jdv-hyatt-oxfordshire",
+          "source": "Boutique Hotel News",
+          "source_name": "Boutique Hotel News",
+          "site_id": "boutiquehotel",
+          "published_at": "2026-09-08T13:06:13Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.9394,
+      "importance": 0.5993,
+      "importance_score": 0.9394,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9967,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-08T13:06:13Z",
+      "latest_at": "2026-09-08T13:06:13Z",
+      "primary_item": {
+        "id": "hotelitem_13fcdaac6a59",
+        "title": "UK’s first JdV by Hyatt hotel set to open in Oxfordshire",
+        "url": "https://boutiquehotelnews.com/news/hotel/uk-jdv-hyatt-oxfordshire/?utm_source=rss&utm_medium=rss&utm_campaign=uk-jdv-hyatt-oxfordshire",
+        "source": "Boutique Hotel News",
+        "source_name": "Boutique Hotel News"
       }
     },
     {
@@ -156,14 +274,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9262,
-      "importance": 0.5701,
-      "importance_score": 0.9262,
+      "score": 0.9252,
+      "importance": 0.5691,
+      "importance_score": 0.9252,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8505,
+        "recency": 0.8456,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -215,14 +333,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9224,
-      "importance": 0.5818,
-      "importance_score": 0.9224,
+      "score": 0.9215,
+      "importance": 0.5808,
+      "importance_score": 0.9215,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9088,
+        "recency": 0.9039,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -237,65 +355,6 @@
         "url": "https://boutiquehotelnews.com/news/hotel/umusic-outernet-london-hotel/?utm_source=rss&utm_medium=rss&utm_campaign=umusic-outernet-london-hotel",
         "source": "Boutique Hotel News",
         "source_name": "Boutique Hotel News"
-      }
-    },
-    {
-      "story_id": "story_1f171feaffa0",
-      "title": "Choice Hotels names Dominic Dragisich president and CEO",
-      "url": "https://www.hoteldive.com/news/choice-hotels-names-dominic-dragisich-president-and-ceo/829171/",
-      "primary_url": "https://www.hoteldive.com/news/choice-hotels-names-dominic-dragisich-president-and-ceo/829171/",
-      "source": "Hotel Dive",
-      "source_name": "Hotel Dive",
-      "sources": [
-        {
-          "id": "hotelitem_1f171feaffa0",
-          "title": "Choice Hotels names Dominic Dragisich president and CEO",
-          "url": "https://www.hoteldive.com/news/choice-hotels-names-dominic-dragisich-president-and-ceo/829171/",
-          "source": "Hotel Dive",
-          "source_name": "Hotel Dive",
-          "site_id": "hoteldive",
-          "published_at": "2026-08-31T14:19:22Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hotel Dive"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_1f171feaffa0",
-          "title": "Choice Hotels names Dominic Dragisich president and CEO",
-          "url": "https://www.hoteldive.com/news/choice-hotels-names-dominic-dragisich-president-and-ceo/829171/",
-          "source": "Hotel Dive",
-          "source_name": "Hotel Dive",
-          "site_id": "hoteldive",
-          "published_at": "2026-08-31T14:19:22Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.9193,
-      "importance": 0.565,
-      "importance_score": 0.9193,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.8249,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-31T14:19:22Z",
-      "latest_at": "2026-08-31T14:19:22Z",
-      "primary_item": {
-        "id": "hotelitem_1f171feaffa0",
-        "title": "Choice Hotels names Dominic Dragisich president and CEO",
-        "url": "https://www.hoteldive.com/news/choice-hotels-names-dominic-dragisich-president-and-ceo/829171/",
-        "source": "Hotel Dive",
-        "source_name": "Hotel Dive"
       }
     },
     {
@@ -333,14 +392,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9116,
-      "importance": 0.5205,
-      "importance_score": 0.9116,
+      "score": 0.9101,
+      "importance": 0.5196,
+      "importance_score": 0.9101,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.6027,
+        "recency": 0.5978,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -392,14 +451,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9019,
-      "importance": 0.5786,
-      "importance_score": 0.9019,
+      "score": 0.9009,
+      "importance": 0.5776,
+      "importance_score": 0.9009,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8931,
+        "recency": 0.8882,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -451,14 +510,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8914,
-      "importance": 0.5153,
-      "importance_score": 0.8914,
+      "score": 0.8899,
+      "importance": 0.5143,
+      "importance_score": 0.8899,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.5765,
+        "recency": 0.5716,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -476,62 +535,199 @@
       }
     },
     {
-      "story_id": "story_ff049d6ff8d3",
-      "title": "VisitBritain leads major trade mission to Australia & New Zealand to drive tourism growth",
-      "url": "https://insights.ehotelier.com/global-news/2026/09/08/visitbritain-leads-major-trade-mission-to-australia-new-zealand-to-drive-tourism-growth/?utm_source=rss&utm_medium=rss&utm_campaign=visitbritain-leads-major-trade-mission-to-australia-new-zealand-to-drive-tourism-growth",
-      "primary_url": "https://insights.ehotelier.com/global-news/2026/09/08/visitbritain-leads-major-trade-mission-to-australia-new-zealand-to-drive-tourism-growth/?utm_source=rss&utm_medium=rss&utm_campaign=visitbritain-leads-major-trade-mission-to-australia-new-zealand-to-drive-tourism-growth",
-      "source": "eHotelier",
-      "source_name": "eHotelier",
+      "story_id": "story_543acec6ab73",
+      "title": "Luxury+Lifestyle: Can a Small Collection of Iconic London Hotels Out-Earn Big Brands?",
+      "url": "https://skift.com/2026/09/08/luxurylifestyle-can-a-small-collection-of-iconic-london-hotels-out-earn-big-brands/",
+      "primary_url": "https://skift.com/2026/09/08/luxurylifestyle-can-a-small-collection-of-iconic-london-hotels-out-earn-big-brands/",
+      "source": "Skift Hospitality",
+      "source_name": "Skift Hospitality",
       "sources": [
         {
-          "id": "hotelitem_ff049d6ff8d3",
-          "title": "VisitBritain leads major trade mission to Australia & New Zealand to drive tourism growth",
-          "url": "https://insights.ehotelier.com/global-news/2026/09/08/visitbritain-leads-major-trade-mission-to-australia-new-zealand-to-drive-tourism-growth/?utm_source=rss&utm_medium=rss&utm_campaign=visitbritain-leads-major-trade-mission-to-australia-new-zealand-to-drive-tourism-growth",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-09-08T00:28:47Z"
+          "id": "hotelitem_543acec6ab73",
+          "title": "Luxury+Lifestyle: Can a Small Collection of Iconic London Hotels Out-Earn Big Brands?",
+          "url": "https://skift.com/2026/09/08/luxurylifestyle-can-a-small-collection-of-iconic-london-hotels-out-earn-big-brands/",
+          "source": "Skift Hospitality",
+          "source_name": "Skift Hospitality",
+          "site_id": "skift",
+          "published_at": "2026-09-08T15:38:31Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "eHotelier"
+        "Skift Hospitality"
       ],
       "items": [
         {
-          "id": "hotelitem_ff049d6ff8d3",
-          "title": "VisitBritain leads major trade mission to Australia & New Zealand to drive tourism growth",
-          "url": "https://insights.ehotelier.com/global-news/2026/09/08/visitbritain-leads-major-trade-mission-to-australia-new-zealand-to-drive-tourism-growth/?utm_source=rss&utm_medium=rss&utm_campaign=visitbritain-leads-major-trade-mission-to-australia-new-zealand-to-drive-tourism-growth",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-09-08T00:28:47Z"
+          "id": "hotelitem_543acec6ab73",
+          "title": "Luxury+Lifestyle: Can a Small Collection of Iconic London Hotels Out-Earn Big Brands?",
+          "url": "https://skift.com/2026/09/08/luxurylifestyle-can-a-small-collection-of-iconic-london-hotels-out-earn-big-brands/",
+          "source": "Skift Hospitality",
+          "source_name": "Skift Hospitality",
+          "site_id": "skift",
+          "published_at": "2026-09-08T15:38:31Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8631,
-      "importance": 0.598,
-      "importance_score": 0.8631,
+      "score": 0.8648,
+      "importance": 0.5998,
+      "importance_score": 0.8648,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9899,
+        "recency": 0.999,
         "story_heat": 0.0
       },
       "category": "watch",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-08T00:28:47Z",
-      "latest_at": "2026-09-08T00:28:47Z",
+      "earliest_at": "2026-09-08T15:38:31Z",
+      "latest_at": "2026-09-08T15:38:31Z",
       "primary_item": {
-        "id": "hotelitem_ff049d6ff8d3",
-        "title": "VisitBritain leads major trade mission to Australia & New Zealand to drive tourism growth",
-        "url": "https://insights.ehotelier.com/global-news/2026/09/08/visitbritain-leads-major-trade-mission-to-australia-new-zealand-to-drive-tourism-growth/?utm_source=rss&utm_medium=rss&utm_campaign=visitbritain-leads-major-trade-mission-to-australia-new-zealand-to-drive-tourism-growth",
-        "source": "eHotelier",
-        "source_name": "eHotelier"
+        "id": "hotelitem_543acec6ab73",
+        "title": "Luxury+Lifestyle: Can a Small Collection of Iconic London Hotels Out-Earn Big Brands?",
+        "url": "https://skift.com/2026/09/08/luxurylifestyle-can-a-small-collection-of-iconic-london-hotels-out-earn-big-brands/",
+        "source": "Skift Hospitality",
+        "source_name": "Skift Hospitality"
+      }
+    },
+    {
+      "story_id": "story_474c8bb0a3a5",
+      "title": "Guest satisfaction is up at branded hotels: report",
+      "url": "https://www.hoteldive.com/news/guest-satisfaction-is-up-at-branded-hotels-report/829771/",
+      "primary_url": "https://www.hoteldive.com/news/guest-satisfaction-is-up-at-branded-hotels-report/829771/",
+      "source": "Hotel Dive",
+      "source_name": "Hotel Dive",
+      "sources": [
+        {
+          "id": "hotelitem_474c8bb0a3a5",
+          "title": "Guest satisfaction is up at branded hotels: report",
+          "url": "https://www.hoteldive.com/news/guest-satisfaction-is-up-at-branded-hotels-report/829771/",
+          "source": "Hotel Dive",
+          "source_name": "Hotel Dive",
+          "site_id": "hoteldive",
+          "published_at": "2026-09-08T13:49:16Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hotel Dive"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_474c8bb0a3a5",
+          "title": "Guest satisfaction is up at branded hotels: report",
+          "url": "https://www.hoteldive.com/news/guest-satisfaction-is-up-at-branded-hotels-report/829771/",
+          "source": "Hotel Dive",
+          "source_name": "Hotel Dive",
+          "site_id": "hoteldive",
+          "published_at": "2026-09-08T13:49:16Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8645,
+      "importance": 0.5995,
+      "importance_score": 0.8645,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9973,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-08T13:49:16Z",
+      "latest_at": "2026-09-08T13:49:16Z",
+      "primary_item": {
+        "id": "hotelitem_474c8bb0a3a5",
+        "title": "Guest satisfaction is up at branded hotels: report",
+        "url": "https://www.hoteldive.com/news/guest-satisfaction-is-up-at-branded-hotels-report/829771/",
+        "source": "Hotel Dive",
+        "source_name": "Hotel Dive"
+      }
+    },
+    {
+      "story_id": "story_4f1065fc8e95",
+      "title": "Agoda Reveals Growing Travel Interest Ahead  ... Singapore, 3 September 2026: Agoda Company Pte. Ltd. (Headquarters: Singapore; CEO: Omri Morgenshtern) ... September 3, 2026 / Travel Trends",
+      "url": "https://www.agoda.com/press/agoda-reveals-growing-travel-interest-ahead-of-one-of-asias-leading-sporting-events-to-be-held-in-japan-in-fall-2026/",
+      "primary_url": "https://www.agoda.com/press/agoda-reveals-growing-travel-interest-ahead-of-one-of-asias-leading-sporting-events-to-be-held-in-japan-in-fall-2026/",
+      "source": "Agoda",
+      "source_name": "Agoda",
+      "sources": [
+        {
+          "id": "hotelitem_4451b63c1784",
+          "title": "Agoda Reveals Growing Travel Interest Ahead  ... Singapore, 3 September 2026: Agoda Company Pte. Ltd. (Headquarters: Singapore; CEO: Omri Morgenshtern) ... September 3, 2026 / Travel Trends",
+          "url": "https://www.agoda.com/press/agoda-reveals-growing-travel-interest-ahead-of-one-of-asias-leading-sporting-events-to-be-held-in-japan-in-fall-2026/",
+          "source": "Agoda",
+          "source_name": "Agoda",
+          "site_id": "agoda_press",
+          "published_at": "2026-09-08T16:41:01.695404Z"
+        },
+        {
+          "id": "hotelitem_4f1065fc8e95",
+          "title": "Agoda Reveals Growing Travel Interest for 20 ... Singapore, 4 September 2026: Agoda Company Pte. Ltd. (Headquarters: Singapore; CEO: Omri Morgenshtern) ... September 4, 2026 / Travel Trends",
+          "url": "https://www.agoda.com/press/agoda-reveals-growing-travel-interest-for-2026-silver-week-in-japan-driven-by-first-five-day-holiday-in-11-years/",
+          "source": "Agoda",
+          "source_name": "Agoda",
+          "site_id": "agoda_press",
+          "published_at": "2026-09-08T16:41:01.695404Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Agoda"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_4451b63c1784",
+          "title": "Agoda Reveals Growing Travel Interest Ahead  ... Singapore, 3 September 2026: Agoda Company Pte. Ltd. (Headquarters: Singapore; CEO: Omri Morgenshtern) ... September 3, 2026 / Travel Trends",
+          "url": "https://www.agoda.com/press/agoda-reveals-growing-travel-interest-ahead-of-one-of-asias-leading-sporting-events-to-be-held-in-japan-in-fall-2026/",
+          "source": "Agoda",
+          "source_name": "Agoda",
+          "site_id": "agoda_press",
+          "published_at": "2026-09-08T16:41:01.695404Z"
+        },
+        {
+          "id": "hotelitem_4f1065fc8e95",
+          "title": "Agoda Reveals Growing Travel Interest for 20 ... Singapore, 4 September 2026: Agoda Company Pte. Ltd. (Headquarters: Singapore; CEO: Omri Morgenshtern) ... September 4, 2026 / Travel Trends",
+          "url": "https://www.agoda.com/press/agoda-reveals-growing-travel-interest-for-2026-silver-week-in-japan-driven-by-first-five-day-holiday-in-11-years/",
+          "source": "Agoda",
+          "source_name": "Agoda",
+          "site_id": "agoda_press",
+          "published_at": "2026-09-08T16:41:01.695404Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8625,
+      "importance": 0.625,
+      "importance_score": 0.8625,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-08T16:41:01.695404Z",
+      "latest_at": "2026-09-08T16:41:01.695404Z",
+      "primary_item": {
+        "id": "hotelitem_4451b63c1784",
+        "title": "Agoda Reveals Growing Travel Interest Ahead  ... Singapore, 3 September 2026: Agoda Company Pte. Ltd. (Headquarters: Singapore; CEO: Omri Morgenshtern) ... September 3, 2026 / Travel Trends",
+        "url": "https://www.agoda.com/press/agoda-reveals-growing-travel-interest-ahead-of-one-of-asias-leading-sporting-events-to-be-held-in-japan-in-fall-2026/",
+        "source": "Agoda",
+        "source_name": "Agoda"
       }
     },
     {
@@ -569,14 +765,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.863,
-      "importance": 0.5979,
-      "importance_score": 0.863,
+      "score": 0.8621,
+      "importance": 0.597,
+      "importance_score": 0.8621,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9897,
+        "recency": 0.9848,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -628,14 +824,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.863,
-      "importance": 0.598,
-      "importance_score": 0.863,
+      "score": 0.8621,
+      "importance": 0.597,
+      "importance_score": 0.8621,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9898,
+        "recency": 0.9849,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -687,14 +883,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.863,
-      "importance": 0.598,
-      "importance_score": 0.863,
+      "score": 0.8621,
+      "importance": 0.597,
+      "importance_score": 0.8621,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9898,
+        "recency": 0.9849,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -712,81 +908,62 @@
       }
     },
     {
-      "story_id": "story_4f1065fc8e95",
-      "title": "Agoda Reveals Growing Travel Interest Ahead  ... Singapore, 3 September 2026: Agoda Company Pte. Ltd. (Headquarters: Singapore; CEO: Omri Morgenshtern) ... September 3, 2026 / Travel Trends",
-      "url": "https://www.agoda.com/press/agoda-reveals-growing-travel-interest-ahead-of-one-of-asias-leading-sporting-events-to-be-held-in-japan-in-fall-2026/",
-      "primary_url": "https://www.agoda.com/press/agoda-reveals-growing-travel-interest-ahead-of-one-of-asias-leading-sporting-events-to-be-held-in-japan-in-fall-2026/",
-      "source": "Agoda",
-      "source_name": "Agoda",
+      "story_id": "story_ff049d6ff8d3",
+      "title": "VisitBritain leads major trade mission to Australia & New Zealand to drive tourism growth",
+      "url": "https://insights.ehotelier.com/global-news/2026/09/08/visitbritain-leads-major-trade-mission-to-australia-new-zealand-to-drive-tourism-growth/?utm_source=rss&utm_medium=rss&utm_campaign=visitbritain-leads-major-trade-mission-to-australia-new-zealand-to-drive-tourism-growth",
+      "primary_url": "https://insights.ehotelier.com/global-news/2026/09/08/visitbritain-leads-major-trade-mission-to-australia-new-zealand-to-drive-tourism-growth/?utm_source=rss&utm_medium=rss&utm_campaign=visitbritain-leads-major-trade-mission-to-australia-new-zealand-to-drive-tourism-growth",
+      "source": "eHotelier",
+      "source_name": "eHotelier",
       "sources": [
         {
-          "id": "hotelitem_4451b63c1784",
-          "title": "Agoda Reveals Growing Travel Interest Ahead  ... Singapore, 3 September 2026: Agoda Company Pte. Ltd. (Headquarters: Singapore; CEO: Omri Morgenshtern) ... September 3, 2026 / Travel Trends",
-          "url": "https://www.agoda.com/press/agoda-reveals-growing-travel-interest-ahead-of-one-of-asias-leading-sporting-events-to-be-held-in-japan-in-fall-2026/",
-          "source": "Agoda",
-          "source_name": "Agoda",
-          "site_id": "agoda_press",
-          "published_at": "2026-09-08T11:23:55.613239Z"
-        },
-        {
-          "id": "hotelitem_4f1065fc8e95",
-          "title": "Agoda Reveals Growing Travel Interest for 20 ... Singapore, 4 September 2026: Agoda Company Pte. Ltd. (Headquarters: Singapore; CEO: Omri Morgenshtern) ... September 4, 2026 / Travel Trends",
-          "url": "https://www.agoda.com/press/agoda-reveals-growing-travel-interest-for-2026-silver-week-in-japan-driven-by-first-five-day-holiday-in-11-years/",
-          "source": "Agoda",
-          "source_name": "Agoda",
-          "site_id": "agoda_press",
-          "published_at": "2026-09-08T11:23:55.613239Z"
+          "id": "hotelitem_ff049d6ff8d3",
+          "title": "VisitBritain leads major trade mission to Australia & New Zealand to drive tourism growth",
+          "url": "https://insights.ehotelier.com/global-news/2026/09/08/visitbritain-leads-major-trade-mission-to-australia-new-zealand-to-drive-tourism-growth/?utm_source=rss&utm_medium=rss&utm_campaign=visitbritain-leads-major-trade-mission-to-australia-new-zealand-to-drive-tourism-growth",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-09-08T00:28:47Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "Agoda"
+        "eHotelier"
       ],
       "items": [
         {
-          "id": "hotelitem_4451b63c1784",
-          "title": "Agoda Reveals Growing Travel Interest Ahead  ... Singapore, 3 September 2026: Agoda Company Pte. Ltd. (Headquarters: Singapore; CEO: Omri Morgenshtern) ... September 3, 2026 / Travel Trends",
-          "url": "https://www.agoda.com/press/agoda-reveals-growing-travel-interest-ahead-of-one-of-asias-leading-sporting-events-to-be-held-in-japan-in-fall-2026/",
-          "source": "Agoda",
-          "source_name": "Agoda",
-          "site_id": "agoda_press",
-          "published_at": "2026-09-08T11:23:55.613239Z"
-        },
-        {
-          "id": "hotelitem_4f1065fc8e95",
-          "title": "Agoda Reveals Growing Travel Interest for 20 ... Singapore, 4 September 2026: Agoda Company Pte. Ltd. (Headquarters: Singapore; CEO: Omri Morgenshtern) ... September 4, 2026 / Travel Trends",
-          "url": "https://www.agoda.com/press/agoda-reveals-growing-travel-interest-for-2026-silver-week-in-japan-driven-by-first-five-day-holiday-in-11-years/",
-          "source": "Agoda",
-          "source_name": "Agoda",
-          "site_id": "agoda_press",
-          "published_at": "2026-09-08T11:23:55.613239Z"
+          "id": "hotelitem_ff049d6ff8d3",
+          "title": "VisitBritain leads major trade mission to Australia & New Zealand to drive tourism growth",
+          "url": "https://insights.ehotelier.com/global-news/2026/09/08/visitbritain-leads-major-trade-mission-to-australia-new-zealand-to-drive-tourism-growth/?utm_source=rss&utm_medium=rss&utm_campaign=visitbritain-leads-major-trade-mission-to-australia-new-zealand-to-drive-tourism-growth",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-09-08T00:28:47Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8625,
-      "importance": 0.625,
-      "importance_score": 0.8625,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8621,
+      "importance": 0.597,
+      "importance_score": 0.8621,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
+        "recency": 0.985,
+        "story_heat": 0.0
       },
       "category": "watch",
       "reasons": [
-        "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-08T11:23:55.613239Z",
-      "latest_at": "2026-09-08T11:23:55.613239Z",
+      "earliest_at": "2026-09-08T00:28:47Z",
+      "latest_at": "2026-09-08T00:28:47Z",
       "primary_item": {
-        "id": "hotelitem_4451b63c1784",
-        "title": "Agoda Reveals Growing Travel Interest Ahead  ... Singapore, 3 September 2026: Agoda Company Pte. Ltd. (Headquarters: Singapore; CEO: Omri Morgenshtern) ... September 3, 2026 / Travel Trends",
-        "url": "https://www.agoda.com/press/agoda-reveals-growing-travel-interest-ahead-of-one-of-asias-leading-sporting-events-to-be-held-in-japan-in-fall-2026/",
-        "source": "Agoda",
-        "source_name": "Agoda"
+        "id": "hotelitem_ff049d6ff8d3",
+        "title": "VisitBritain leads major trade mission to Australia & New Zealand to drive tourism growth",
+        "url": "https://insights.ehotelier.com/global-news/2026/09/08/visitbritain-leads-major-trade-mission-to-australia-new-zealand-to-drive-tourism-growth/?utm_source=rss&utm_medium=rss&utm_campaign=visitbritain-leads-major-trade-mission-to-australia-new-zealand-to-drive-tourism-growth",
+        "source": "eHotelier",
+        "source_name": "eHotelier"
       }
     },
     {
@@ -804,7 +981,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-09-08T11:23:55.613239Z"
+          "published_at": "2026-09-08T16:41:01.695404Z"
         },
         {
           "id": "hotelitem_c7c15b7680c9",
@@ -813,7 +990,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-09-08T11:23:55.613239Z"
+          "published_at": "2026-09-08T16:41:01.695404Z"
         }
       ],
       "source_count": 2,
@@ -828,7 +1005,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-09-08T11:23:55.613239Z"
+          "published_at": "2026-09-08T16:41:01.695404Z"
         },
         {
           "id": "hotelitem_c7c15b7680c9",
@@ -837,7 +1014,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-09-08T11:23:55.613239Z"
+          "published_at": "2026-09-08T16:41:01.695404Z"
         }
       ],
       "item_count": 2,
@@ -857,8 +1034,8 @@
         "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-08T11:23:55.613239Z",
-      "latest_at": "2026-09-08T11:23:55.613239Z",
+      "earliest_at": "2026-09-08T16:41:01.695404Z",
+      "latest_at": "2026-09-08T16:41:01.695404Z",
       "primary_item": {
         "id": "hotelitem_d4370964909c",
         "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
@@ -882,7 +1059,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-09-08T11:23:55.613239Z"
+          "published_at": "2026-09-08T16:41:01.695404Z"
         },
         {
           "id": "hotelitem_da923c0668b1",
@@ -891,7 +1068,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-09-08T11:23:55.613239Z"
+          "published_at": "2026-09-08T16:41:01.695404Z"
         }
       ],
       "source_count": 2,
@@ -906,7 +1083,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-09-08T11:23:55.613239Z"
+          "published_at": "2026-09-08T16:41:01.695404Z"
         },
         {
           "id": "hotelitem_da923c0668b1",
@@ -915,7 +1092,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-09-08T11:23:55.613239Z"
+          "published_at": "2026-09-08T16:41:01.695404Z"
         }
       ],
       "item_count": 2,
@@ -935,8 +1112,8 @@
         "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-08T11:23:55.613239Z",
-      "latest_at": "2026-09-08T11:23:55.613239Z",
+      "earliest_at": "2026-09-08T16:41:01.695404Z",
+      "latest_at": "2026-09-08T16:41:01.695404Z",
       "primary_item": {
         "id": "hotelitem_6afacb5ef78d",
         "title": "指数发布 | 中国住宿业消费指数报告（2026年7月）发布 为贯彻落实提振消费相关政策，真实反映中国住宿餐饮业市场消费情况，以数据引导促消费政策精准发力，为行业发展提供参考建议，中国饭店协会每月公开发布“中国饭店业消费指数体系”，包含“中国住宿业消费指数（China Hotel Industry Consumption Index, HCI）”与“中国餐饮业消费指数(China Catering Industry Consumption Index, CCI)”，欢迎关注。",
@@ -960,7 +1137,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-09-08T11:23:55.613239Z"
+          "published_at": "2026-09-08T16:41:01.695404Z"
         }
       ],
       "source_count": 1,
@@ -975,7 +1152,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-09-08T11:23:55.613239Z"
+          "published_at": "2026-09-08T16:41:01.695404Z"
         }
       ],
       "item_count": 1,
@@ -994,8 +1171,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-08T11:23:55.613239Z",
-      "latest_at": "2026-09-08T11:23:55.613239Z",
+      "earliest_at": "2026-09-08T16:41:01.695404Z",
+      "latest_at": "2026-09-08T16:41:01.695404Z",
       "primary_item": {
         "id": "hotelitem_e4ce0593c384",
         "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
@@ -1019,7 +1196,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-09-08T11:23:55.613239Z"
+          "published_at": "2026-09-08T16:41:01.695404Z"
         }
       ],
       "source_count": 1,
@@ -1034,7 +1211,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-09-08T11:23:55.613239Z"
+          "published_at": "2026-09-08T16:41:01.695404Z"
         }
       ],
       "item_count": 1,
@@ -1053,8 +1230,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-08T11:23:55.613239Z",
-      "latest_at": "2026-09-08T11:23:55.613239Z",
+      "earliest_at": "2026-09-08T16:41:01.695404Z",
+      "latest_at": "2026-09-08T16:41:01.695404Z",
       "primary_item": {
         "id": "hotelitem_fa34986b4fc0",
         "title": "文化和旅游部、金融监管总局关于警惕借“保...",
@@ -1078,7 +1255,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-09-08T11:23:55.613239Z"
+          "published_at": "2026-09-08T16:41:01.695404Z"
         }
       ],
       "source_count": 1,
@@ -1093,7 +1270,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-09-08T11:23:55.613239Z"
+          "published_at": "2026-09-08T16:41:01.695404Z"
         }
       ],
       "item_count": 1,
@@ -1112,8 +1289,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-08T11:23:55.613239Z",
-      "latest_at": "2026-09-08T11:23:55.613239Z",
+      "earliest_at": "2026-09-08T16:41:01.695404Z",
+      "latest_at": "2026-09-08T16:41:01.695404Z",
       "primary_item": {
         "id": "hotelitem_9a958319a874",
         "title": "文化和旅游部印发《旅游强国建设“十五五”...",
@@ -1137,7 +1314,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-09-08T11:23:55.613239Z"
+          "published_at": "2026-09-08T16:41:01.695404Z"
         }
       ],
       "source_count": 1,
@@ -1152,7 +1329,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-09-08T11:23:55.613239Z"
+          "published_at": "2026-09-08T16:41:01.695404Z"
         }
       ],
       "item_count": 1,
@@ -1171,8 +1348,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-08T11:23:55.613239Z",
-      "latest_at": "2026-09-08T11:23:55.613239Z",
+      "earliest_at": "2026-09-08T16:41:01.695404Z",
+      "latest_at": "2026-09-08T16:41:01.695404Z",
       "primary_item": {
         "id": "hotelitem_8f218475e743",
         "title": "文化和旅游部发布2026年上半年国内居民出游数据情况",
@@ -1196,7 +1373,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-09-08T11:23:55.613239Z"
+          "published_at": "2026-09-08T16:41:01.695404Z"
         }
       ],
       "source_count": 1,
@@ -1211,7 +1388,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-09-08T11:23:55.613239Z"
+          "published_at": "2026-09-08T16:41:01.695404Z"
         }
       ],
       "item_count": 1,
@@ -1230,8 +1407,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-08T11:23:55.613239Z",
-      "latest_at": "2026-09-08T11:23:55.613239Z",
+      "earliest_at": "2026-09-08T16:41:01.695404Z",
+      "latest_at": "2026-09-08T16:41:01.695404Z",
       "primary_item": {
         "id": "hotelitem_492acb2b854b",
         "title": "文化和旅游部召开树立和践行正确政绩观学习...",
@@ -1275,14 +1452,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8506,
-      "importance": 0.479,
-      "importance_score": 0.8506,
+      "score": 0.8492,
+      "importance": 0.478,
+      "importance_score": 0.8492,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.395,
+        "recency": 0.3901,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1334,14 +1511,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8496,
-      "importance": 0.5841,
-      "importance_score": 0.8496,
+      "score": 0.8487,
+      "importance": 0.5831,
+      "importance_score": 0.8487,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9204,
+        "recency": 0.9155,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1356,6 +1533,65 @@
         "url": "https://skift.com/2026/09/04/blackstone-plans-7-billion-ipo-of-spanish-resort-owner-hotel-investment-partners-report/",
         "source": "Skift Hospitality",
         "source_name": "Skift Hospitality"
+      }
+    },
+    {
+      "story_id": "story_e5f2d3de433d",
+      "title": "Bally’s CFO resigns weeks after going concern warning",
+      "url": "https://www.hoteldive.com/news/ballys-cfo-resigns-weeks-going-concern-warning/829768/",
+      "primary_url": "https://www.hoteldive.com/news/ballys-cfo-resigns-weeks-going-concern-warning/829768/",
+      "source": "Hotel Dive",
+      "source_name": "Hotel Dive",
+      "sources": [
+        {
+          "id": "hotelitem_e5f2d3de433d",
+          "title": "Bally’s CFO resigns weeks after going concern warning",
+          "url": "https://www.hoteldive.com/news/ballys-cfo-resigns-weeks-going-concern-warning/829768/",
+          "source": "Hotel Dive",
+          "source_name": "Hotel Dive",
+          "site_id": "hoteldive",
+          "published_at": "2026-09-04T17:45:24Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hotel Dive"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_e5f2d3de433d",
+          "title": "Bally’s CFO resigns weeks after going concern warning",
+          "url": "https://www.hoteldive.com/news/ballys-cfo-resigns-weeks-going-concern-warning/829768/",
+          "source": "Hotel Dive",
+          "source_name": "Hotel Dive",
+          "site_id": "hoteldive",
+          "published_at": "2026-09-04T17:45:24Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.848,
+      "importance": 0.5824,
+      "importance_score": 0.848,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9121,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-04T17:45:24Z",
+      "latest_at": "2026-09-04T17:45:24Z",
+      "primary_item": {
+        "id": "hotelitem_e5f2d3de433d",
+        "title": "Bally’s CFO resigns weeks after going concern warning",
+        "url": "https://www.hoteldive.com/news/ballys-cfo-resigns-weeks-going-concern-warning/829768/",
+        "source": "Hotel Dive",
+        "source_name": "Hotel Dive"
       }
     },
     {
@@ -1393,14 +1629,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8482,
-      "importance": 0.5826,
-      "importance_score": 0.8482,
+      "score": 0.8473,
+      "importance": 0.5816,
+      "importance_score": 0.8473,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9129,
+        "recency": 0.908,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1452,14 +1688,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8479,
-      "importance": 0.5823,
-      "importance_score": 0.8479,
+      "score": 0.847,
+      "importance": 0.5813,
+      "importance_score": 0.847,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9114,
+        "recency": 0.9065,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1511,14 +1747,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8397,
-      "importance": 0.5738,
-      "importance_score": 0.8397,
+      "score": 0.8388,
+      "importance": 0.5728,
+      "importance_score": 0.8388,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8688,
+        "recency": 0.8639,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1570,14 +1806,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8396,
-      "importance": 0.5329,
-      "importance_score": 0.8396,
+      "score": 0.8382,
+      "importance": 0.5319,
+      "importance_score": 0.8382,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.6643,
+        "recency": 0.6594,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1592,242 +1828,6 @@
         "url": "https://www.traveldaily.cn/article/190574",
         "source": "环球旅讯 TravelDaily",
         "source_name": "环球旅讯 TravelDaily"
-      }
-    },
-    {
-      "story_id": "story_636850209978",
-      "title": "The F&B Strategy That Starts With Winning Over Locals, Not Just Guests",
-      "url": "https://skift.com/2026/09/01/accor-ennismore-paris-society-food-beverage-strategy/",
-      "primary_url": "https://skift.com/2026/09/01/accor-ennismore-paris-society-food-beverage-strategy/",
-      "source": "Skift Hospitality",
-      "source_name": "Skift Hospitality",
-      "sources": [
-        {
-          "id": "hotelitem_636850209978",
-          "title": "The F&B Strategy That Starts With Winning Over Locals, Not Just Guests",
-          "url": "https://skift.com/2026/09/01/accor-ennismore-paris-society-food-beverage-strategy/",
-          "source": "Skift Hospitality",
-          "source_name": "Skift Hospitality",
-          "site_id": "skift",
-          "published_at": "2026-09-01T13:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Skift Hospitality"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_636850209978",
-          "title": "The F&B Strategy That Starts With Winning Over Locals, Not Just Guests",
-          "url": "https://skift.com/2026/09/01/accor-ennismore-paris-society-food-beverage-strategy/",
-          "source": "Skift Hospitality",
-          "source_name": "Skift Hospitality",
-          "site_id": "skift",
-          "published_at": "2026-09-01T13:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8353,
-      "importance": 0.5692,
-      "importance_score": 0.8353,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.8459,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-01T13:00:00Z",
-      "latest_at": "2026-09-01T13:00:00Z",
-      "primary_item": {
-        "id": "hotelitem_636850209978",
-        "title": "The F&B Strategy That Starts With Winning Over Locals, Not Just Guests",
-        "url": "https://skift.com/2026/09/01/accor-ennismore-paris-society-food-beverage-strategy/",
-        "source": "Skift Hospitality",
-        "source_name": "Skift Hospitality"
-      }
-    },
-    {
-      "story_id": "story_508f8f6bd1ff",
-      "title": "The Social Hub appoints Megan Kennedy as COO",
-      "url": "https://boutiquehotelnews.com/news/movers-and-shakers/social-hub-kennedy-coo/?utm_source=rss&utm_medium=rss&utm_campaign=social-hub-kennedy-coo",
-      "primary_url": "https://boutiquehotelnews.com/news/movers-and-shakers/social-hub-kennedy-coo/?utm_source=rss&utm_medium=rss&utm_campaign=social-hub-kennedy-coo",
-      "source": "Boutique Hotel News",
-      "source_name": "Boutique Hotel News",
-      "sources": [
-        {
-          "id": "hotelitem_508f8f6bd1ff",
-          "title": "The Social Hub appoints Megan Kennedy as COO",
-          "url": "https://boutiquehotelnews.com/news/movers-and-shakers/social-hub-kennedy-coo/?utm_source=rss&utm_medium=rss&utm_campaign=social-hub-kennedy-coo",
-          "source": "Boutique Hotel News",
-          "source_name": "Boutique Hotel News",
-          "site_id": "boutiquehotel",
-          "published_at": "2026-09-04T10:57:22Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Boutique Hotel News"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_508f8f6bd1ff",
-          "title": "The Social Hub appoints Megan Kennedy as COO",
-          "url": "https://boutiquehotelnews.com/news/movers-and-shakers/social-hub-kennedy-coo/?utm_source=rss&utm_medium=rss&utm_campaign=social-hub-kennedy-coo",
-          "source": "Boutique Hotel News",
-          "source_name": "Boutique Hotel News",
-          "site_id": "boutiquehotel",
-          "published_at": "2026-09-04T10:57:22Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8328,
-      "importance": 0.5821,
-      "importance_score": 0.8328,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9107,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-04T10:57:22Z",
-      "latest_at": "2026-09-04T10:57:22Z",
-      "primary_item": {
-        "id": "hotelitem_508f8f6bd1ff",
-        "title": "The Social Hub appoints Megan Kennedy as COO",
-        "url": "https://boutiquehotelnews.com/news/movers-and-shakers/social-hub-kennedy-coo/?utm_source=rss&utm_medium=rss&utm_campaign=social-hub-kennedy-coo",
-        "source": "Boutique Hotel News",
-        "source_name": "Boutique Hotel News"
-      }
-    },
-    {
-      "story_id": "story_4691ff59555d",
-      "title": "Fosun Files for ClubMed IPO in Hong Kong",
-      "url": "https://skift.com/2026/08/31/fosun-files-for-clubmed-ipo-in-hong-kong/",
-      "primary_url": "https://skift.com/2026/08/31/fosun-files-for-clubmed-ipo-in-hong-kong/",
-      "source": "Skift Hospitality",
-      "source_name": "Skift Hospitality",
-      "sources": [
-        {
-          "id": "hotelitem_4691ff59555d",
-          "title": "Fosun Files for ClubMed IPO in Hong Kong",
-          "url": "https://skift.com/2026/08/31/fosun-files-for-clubmed-ipo-in-hong-kong/",
-          "source": "Skift Hospitality",
-          "source_name": "Skift Hospitality",
-          "site_id": "skift",
-          "published_at": "2026-08-31T16:50:15Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Skift Hospitality"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_4691ff59555d",
-          "title": "Fosun Files for ClubMed IPO in Hong Kong",
-          "url": "https://skift.com/2026/08/31/fosun-files-for-clubmed-ipo-in-hong-kong/",
-          "source": "Skift Hospitality",
-          "source_name": "Skift Hospitality",
-          "site_id": "skift",
-          "published_at": "2026-08-31T16:50:15Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.83,
-      "importance": 0.5655,
-      "importance_score": 0.83,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.8273,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-31T16:50:15Z",
-      "latest_at": "2026-08-31T16:50:15Z",
-      "primary_item": {
-        "id": "hotelitem_4691ff59555d",
-        "title": "Fosun Files for ClubMed IPO in Hong Kong",
-        "url": "https://skift.com/2026/08/31/fosun-files-for-clubmed-ipo-in-hong-kong/",
-        "source": "Skift Hospitality",
-        "source_name": "Skift Hospitality"
-      }
-    },
-    {
-      "story_id": "story_86199711512c",
-      "title": "Aman signs first hotel in South Korea",
-      "url": "https://boutiquehotelnews.com/news/hotel/aman-south-korea/?utm_source=rss&utm_medium=rss&utm_campaign=aman-south-korea",
-      "primary_url": "https://boutiquehotelnews.com/news/hotel/aman-south-korea/?utm_source=rss&utm_medium=rss&utm_campaign=aman-south-korea",
-      "source": "Boutique Hotel News",
-      "source_name": "Boutique Hotel News",
-      "sources": [
-        {
-          "id": "hotelitem_86199711512c",
-          "title": "Aman signs first hotel in South Korea",
-          "url": "https://boutiquehotelnews.com/news/hotel/aman-south-korea/?utm_source=rss&utm_medium=rss&utm_campaign=aman-south-korea",
-          "source": "Boutique Hotel News",
-          "source_name": "Boutique Hotel News",
-          "site_id": "boutiquehotel",
-          "published_at": "2026-09-03T13:50:11Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Boutique Hotel News"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_86199711512c",
-          "title": "Aman signs first hotel in South Korea",
-          "url": "https://boutiquehotelnews.com/news/hotel/aman-south-korea/?utm_source=rss&utm_medium=rss&utm_campaign=aman-south-korea",
-          "source": "Boutique Hotel News",
-          "source_name": "Boutique Hotel News",
-          "site_id": "boutiquehotel",
-          "published_at": "2026-09-03T13:50:11Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.829,
-      "importance": 0.5782,
-      "importance_score": 0.829,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.8911,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-03T13:50:11Z",
-      "latest_at": "2026-09-03T13:50:11Z",
-      "primary_item": {
-        "id": "hotelitem_86199711512c",
-        "title": "Aman signs first hotel in South Korea",
-        "url": "https://boutiquehotelnews.com/news/hotel/aman-south-korea/?utm_source=rss&utm_medium=rss&utm_campaign=aman-south-korea",
-        "source": "Boutique Hotel News",
-        "source_name": "Boutique Hotel News"
       }
     }
   ]
