@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T23:17:54.881835Z",
+  "generated_at": "2026-09-10T04:48:42.799602Z",
   "window_hours": 1080,
   "total_items": 30,
   "items": [
@@ -38,14 +38,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.954,
-      "importance": 0.5989,
-      "importance_score": 0.954,
+      "score": 0.953,
+      "importance": 0.5979,
+      "importance_score": 0.953,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9947,
+        "recency": 0.9896,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -97,14 +97,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9512,
-      "importance": 0.5961,
-      "importance_score": 0.9512,
+      "score": 0.9502,
+      "importance": 0.595,
+      "importance_score": 0.9502,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9803,
+        "recency": 0.9752,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -156,14 +156,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9495,
-      "importance": 0.5943,
-      "importance_score": 0.9495,
+      "score": 0.9485,
+      "importance": 0.5932,
+      "importance_score": 0.9485,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9713,
+        "recency": 0.9662,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -215,14 +215,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9339,
-      "importance": 0.5937,
-      "importance_score": 0.9339,
+      "score": 0.9329,
+      "importance": 0.5926,
+      "importance_score": 0.9329,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9683,
+        "recency": 0.9632,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -274,14 +274,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9269,
-      "importance": 0.5968,
-      "importance_score": 0.9269,
+      "score": 0.9259,
+      "importance": 0.5958,
+      "importance_score": 0.9259,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9841,
+        "recency": 0.979,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -296,6 +296,65 @@
         "url": "https://www.pinchain.com/article/350758",
         "source": "品橙旅游",
         "source_name": "品橙旅游"
+      }
+    },
+    {
+      "story_id": "story_40f608d641f2",
+      "title": "全月服务零差评，宜尚酒店拉萨太阳岛店8月RevPAR领跑高原",
+      "url": "https://www.traveldaily.cn/article/190666",
+      "primary_url": "https://www.traveldaily.cn/article/190666",
+      "source": "环球旅讯 TravelDaily",
+      "source_name": "环球旅讯 TravelDaily",
+      "sources": [
+        {
+          "id": "hotelitem_40f608d641f2",
+          "title": "全月服务零差评，宜尚酒店拉萨太阳岛店8月RevPAR领跑高原",
+          "url": "https://www.traveldaily.cn/article/190666",
+          "source": "环球旅讯 TravelDaily",
+          "source_name": "环球旅讯 TravelDaily",
+          "site_id": "traveldaily",
+          "published_at": "2026-09-10T10:25:45Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "环球旅讯 TravelDaily"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_40f608d641f2",
+          "title": "全月服务零差评，宜尚酒店拉萨太阳岛店8月RevPAR领跑高原",
+          "url": "https://www.traveldaily.cn/article/190666",
+          "source": "环球旅讯 TravelDaily",
+          "source_name": "环球旅讯 TravelDaily",
+          "site_id": "traveldaily",
+          "published_at": "2026-09-10T10:25:45Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.9225,
+      "importance": 0.6,
+      "importance_score": 0.9225,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-10T10:25:45Z",
+      "latest_at": "2026-09-10T10:25:45Z",
+      "primary_item": {
+        "id": "hotelitem_40f608d641f2",
+        "title": "全月服务零差评，宜尚酒店拉萨太阳岛店8月RevPAR领跑高原",
+        "url": "https://www.traveldaily.cn/article/190666",
+        "source": "环球旅讯 TravelDaily",
+        "source_name": "环球旅讯 TravelDaily"
       }
     },
     {
@@ -333,14 +392,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.917,
-      "importance": 0.5634,
-      "importance_score": 0.917,
+      "score": 0.9155,
+      "importance": 0.5624,
+      "importance_score": 0.9155,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8172,
+        "recency": 0.8121,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -392,14 +451,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.916,
-      "importance": 0.5751,
-      "importance_score": 0.916,
+      "score": 0.915,
+      "importance": 0.5741,
+      "importance_score": 0.915,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8756,
+        "recency": 0.8705,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -431,7 +490,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-09-09T23:17:54.881835Z"
+          "published_at": "2026-09-10T04:48:42.799602Z"
         }
       ],
       "source_count": 1,
@@ -446,7 +505,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-09-09T23:17:54.881835Z"
+          "published_at": "2026-09-10T04:48:42.799602Z"
         }
       ],
       "item_count": 1,
@@ -465,8 +524,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-09T23:17:54.881835Z",
-      "latest_at": "2026-09-09T23:17:54.881835Z",
+      "earliest_at": "2026-09-10T04:48:42.799602Z",
+      "latest_at": "2026-09-10T04:48:42.799602Z",
       "primary_item": {
         "id": "hotelitem_06f191e24d38",
         "title": "文旅惠报|复星国际申请分拆Club Med在港上市；南京商旅上半年营收3.66亿元",
@@ -510,14 +569,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8955,
-      "importance": 0.572,
-      "importance_score": 0.8955,
+      "score": 0.8945,
+      "importance": 0.571,
+      "importance_score": 0.8945,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8599,
+        "recency": 0.8548,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -532,6 +591,65 @@
         "url": "https://www.traveldaily.cn/article/190632",
         "source": "环球旅讯 TravelDaily",
         "source_name": "环球旅讯 TravelDaily"
+      }
+    },
+    {
+      "story_id": "story_a8f7c778d932",
+      "title": "The First Cortina: New luxury opening in the Dolomites",
+      "url": "https://insights.ehotelier.com/properties/2026/09/10/the-first-cortina-new-luxury-opening-in-the-dolomites/?utm_source=rss&utm_medium=rss&utm_campaign=the-first-cortina-new-luxury-opening-in-the-dolomites",
+      "primary_url": "https://insights.ehotelier.com/properties/2026/09/10/the-first-cortina-new-luxury-opening-in-the-dolomites/?utm_source=rss&utm_medium=rss&utm_campaign=the-first-cortina-new-luxury-opening-in-the-dolomites",
+      "source": "eHotelier",
+      "source_name": "eHotelier",
+      "sources": [
+        {
+          "id": "hotelitem_a8f7c778d932",
+          "title": "The First Cortina: New luxury opening in the Dolomites",
+          "url": "https://insights.ehotelier.com/properties/2026/09/10/the-first-cortina-new-luxury-opening-in-the-dolomites/?utm_source=rss&utm_medium=rss&utm_campaign=the-first-cortina-new-luxury-opening-in-the-dolomites",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-09-10T01:35:07Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "eHotelier"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_a8f7c778d932",
+          "title": "The First Cortina: New luxury opening in the Dolomites",
+          "url": "https://insights.ehotelier.com/properties/2026/09/10/the-first-cortina-new-luxury-opening-in-the-dolomites/?utm_source=rss&utm_medium=rss&utm_campaign=the-first-cortina-new-luxury-opening-in-the-dolomites",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-09-10T01:35:07Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8644,
+      "importance": 0.5994,
+      "importance_score": 0.8644,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.997,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-10T01:35:07Z",
+      "latest_at": "2026-09-10T01:35:07Z",
+      "primary_item": {
+        "id": "hotelitem_a8f7c778d932",
+        "title": "The First Cortina: New luxury opening in the Dolomites",
+        "url": "https://insights.ehotelier.com/properties/2026/09/10/the-first-cortina-new-luxury-opening-in-the-dolomites/?utm_source=rss&utm_medium=rss&utm_campaign=the-first-cortina-new-luxury-opening-in-the-dolomites",
+        "source": "eHotelier",
+        "source_name": "eHotelier"
       }
     },
     {
@@ -569,14 +687,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8644,
-      "importance": 0.5994,
-      "importance_score": 0.8644,
+      "score": 0.8634,
+      "importance": 0.5984,
+      "importance_score": 0.8634,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.997,
+        "recency": 0.9919,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -608,7 +726,7 @@
           "source": "Agoda",
           "source_name": "Agoda",
           "site_id": "agoda_press",
-          "published_at": "2026-09-09T23:17:54.881835Z"
+          "published_at": "2026-09-10T04:48:42.799602Z"
         },
         {
           "id": "hotelitem_4f1065fc8e95",
@@ -617,7 +735,7 @@
           "source": "Agoda",
           "source_name": "Agoda",
           "site_id": "agoda_press",
-          "published_at": "2026-09-09T23:17:54.881835Z"
+          "published_at": "2026-09-10T04:48:42.799602Z"
         }
       ],
       "source_count": 2,
@@ -632,7 +750,7 @@
           "source": "Agoda",
           "source_name": "Agoda",
           "site_id": "agoda_press",
-          "published_at": "2026-09-09T23:17:54.881835Z"
+          "published_at": "2026-09-10T04:48:42.799602Z"
         },
         {
           "id": "hotelitem_4f1065fc8e95",
@@ -641,7 +759,7 @@
           "source": "Agoda",
           "source_name": "Agoda",
           "site_id": "agoda_press",
-          "published_at": "2026-09-09T23:17:54.881835Z"
+          "published_at": "2026-09-10T04:48:42.799602Z"
         }
       ],
       "item_count": 2,
@@ -661,132 +779,14 @@
         "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-09T23:17:54.881835Z",
-      "latest_at": "2026-09-09T23:17:54.881835Z",
+      "earliest_at": "2026-09-10T04:48:42.799602Z",
+      "latest_at": "2026-09-10T04:48:42.799602Z",
       "primary_item": {
         "id": "hotelitem_4451b63c1784",
         "title": "Agoda Reveals Growing Travel Interest Ahead  ... Singapore, 3 September 2026: Agoda Company Pte. Ltd. (Headquarters: Singapore; CEO: Omri Morgenshtern) ... September 3, 2026 / Travel Trends",
         "url": "https://www.agoda.com/press/agoda-reveals-growing-travel-interest-ahead-of-one-of-asias-leading-sporting-events-to-be-held-in-japan-in-fall-2026/",
         "source": "Agoda",
         "source_name": "Agoda"
-      }
-    },
-    {
-      "story_id": "story_75e2e153ba41",
-      "title": "The Meetings Industry Association announces finalists for the 2026 miaList",
-      "url": "https://insights.ehotelier.com/global-news/2026/09/09/the-meetings-industry-association-announces-finalists-for-the-2026-mialist/?utm_source=rss&utm_medium=rss&utm_campaign=the-meetings-industry-association-announces-finalists-for-the-2026-mialist",
-      "primary_url": "https://insights.ehotelier.com/global-news/2026/09/09/the-meetings-industry-association-announces-finalists-for-the-2026-mialist/?utm_source=rss&utm_medium=rss&utm_campaign=the-meetings-industry-association-announces-finalists-for-the-2026-mialist",
-      "source": "eHotelier",
-      "source_name": "eHotelier",
-      "sources": [
-        {
-          "id": "hotelitem_75e2e153ba41",
-          "title": "The Meetings Industry Association announces finalists for the 2026 miaList",
-          "url": "https://insights.ehotelier.com/global-news/2026/09/09/the-meetings-industry-association-announces-finalists-for-the-2026-mialist/?utm_source=rss&utm_medium=rss&utm_campaign=the-meetings-industry-association-announces-finalists-for-the-2026-mialist",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-09-09T01:50:02Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "eHotelier"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_75e2e153ba41",
-          "title": "The Meetings Industry Association announces finalists for the 2026 miaList",
-          "url": "https://insights.ehotelier.com/global-news/2026/09/09/the-meetings-industry-association-announces-finalists-for-the-2026-mialist/?utm_source=rss&utm_medium=rss&utm_campaign=the-meetings-industry-association-announces-finalists-for-the-2026-mialist",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-09-09T01:50:02Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8612,
-      "importance": 0.596,
-      "importance_score": 0.8612,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9801,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-09T01:50:02Z",
-      "latest_at": "2026-09-09T01:50:02Z",
-      "primary_item": {
-        "id": "hotelitem_75e2e153ba41",
-        "title": "The Meetings Industry Association announces finalists for the 2026 miaList",
-        "url": "https://insights.ehotelier.com/global-news/2026/09/09/the-meetings-industry-association-announces-finalists-for-the-2026-mialist/?utm_source=rss&utm_medium=rss&utm_campaign=the-meetings-industry-association-announces-finalists-for-the-2026-mialist",
-        "source": "eHotelier",
-        "source_name": "eHotelier"
-      }
-    },
-    {
-      "story_id": "story_47119bc487a6",
-      "title": "Red Sea Global unveils Nammos Resort AMAALA, introducing Nammos’ first resort hotel globally",
-      "url": "https://insights.ehotelier.com/properties/2026/09/09/red-sea-global-unveils-nammos-resort-amaala-introducing-nammos-first-resort-hotel-globally/?utm_source=rss&utm_medium=rss&utm_campaign=red-sea-global-unveils-nammos-resort-amaala-introducing-nammos-first-resort-hotel-globally",
-      "primary_url": "https://insights.ehotelier.com/properties/2026/09/09/red-sea-global-unveils-nammos-resort-amaala-introducing-nammos-first-resort-hotel-globally/?utm_source=rss&utm_medium=rss&utm_campaign=red-sea-global-unveils-nammos-resort-amaala-introducing-nammos-first-resort-hotel-globally",
-      "source": "eHotelier",
-      "source_name": "eHotelier",
-      "sources": [
-        {
-          "id": "hotelitem_47119bc487a6",
-          "title": "Red Sea Global unveils Nammos Resort AMAALA, introducing Nammos’ first resort hotel globally",
-          "url": "https://insights.ehotelier.com/properties/2026/09/09/red-sea-global-unveils-nammos-resort-amaala-introducing-nammos-first-resort-hotel-globally/?utm_source=rss&utm_medium=rss&utm_campaign=red-sea-global-unveils-nammos-resort-amaala-introducing-nammos-first-resort-hotel-globally",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-09-09T01:30:38Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "eHotelier"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_47119bc487a6",
-          "title": "Red Sea Global unveils Nammos Resort AMAALA, introducing Nammos’ first resort hotel globally",
-          "url": "https://insights.ehotelier.com/properties/2026/09/09/red-sea-global-unveils-nammos-resort-amaala-introducing-nammos-first-resort-hotel-globally/?utm_source=rss&utm_medium=rss&utm_campaign=red-sea-global-unveils-nammos-resort-amaala-introducing-nammos-first-resort-hotel-globally",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-09-09T01:30:38Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8611,
-      "importance": 0.596,
-      "importance_score": 0.8611,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9798,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-09T01:30:38Z",
-      "latest_at": "2026-09-09T01:30:38Z",
-      "primary_item": {
-        "id": "hotelitem_47119bc487a6",
-        "title": "Red Sea Global unveils Nammos Resort AMAALA, introducing Nammos’ first resort hotel globally",
-        "url": "https://insights.ehotelier.com/properties/2026/09/09/red-sea-global-unveils-nammos-resort-amaala-introducing-nammos-first-resort-hotel-globally/?utm_source=rss&utm_medium=rss&utm_campaign=red-sea-global-unveils-nammos-resort-amaala-introducing-nammos-first-resort-hotel-globally",
-        "source": "eHotelier",
-        "source_name": "eHotelier"
       }
     },
     {
@@ -804,7 +804,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-09-09T23:17:54.881835Z"
+          "published_at": "2026-09-10T04:48:42.799602Z"
         },
         {
           "id": "hotelitem_c7c15b7680c9",
@@ -813,7 +813,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-09-09T23:17:54.881835Z"
+          "published_at": "2026-09-10T04:48:42.799602Z"
         }
       ],
       "source_count": 2,
@@ -828,7 +828,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-09-09T23:17:54.881835Z"
+          "published_at": "2026-09-10T04:48:42.799602Z"
         },
         {
           "id": "hotelitem_c7c15b7680c9",
@@ -837,7 +837,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-09-09T23:17:54.881835Z"
+          "published_at": "2026-09-10T04:48:42.799602Z"
         }
       ],
       "item_count": 2,
@@ -857,8 +857,8 @@
         "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-09T23:17:54.881835Z",
-      "latest_at": "2026-09-09T23:17:54.881835Z",
+      "earliest_at": "2026-09-10T04:48:42.799602Z",
+      "latest_at": "2026-09-10T04:48:42.799602Z",
       "primary_item": {
         "id": "hotelitem_d4370964909c",
         "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
@@ -882,7 +882,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-09-09T23:17:54.881835Z"
+          "published_at": "2026-09-10T04:48:42.799602Z"
         },
         {
           "id": "hotelitem_da923c0668b1",
@@ -891,7 +891,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-09-09T23:17:54.881835Z"
+          "published_at": "2026-09-10T04:48:42.799602Z"
         }
       ],
       "source_count": 2,
@@ -906,7 +906,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-09-09T23:17:54.881835Z"
+          "published_at": "2026-09-10T04:48:42.799602Z"
         },
         {
           "id": "hotelitem_da923c0668b1",
@@ -915,7 +915,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-09-09T23:17:54.881835Z"
+          "published_at": "2026-09-10T04:48:42.799602Z"
         }
       ],
       "item_count": 2,
@@ -935,8 +935,8 @@
         "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-09T23:17:54.881835Z",
-      "latest_at": "2026-09-09T23:17:54.881835Z",
+      "earliest_at": "2026-09-10T04:48:42.799602Z",
+      "latest_at": "2026-09-10T04:48:42.799602Z",
       "primary_item": {
         "id": "hotelitem_6afacb5ef78d",
         "title": "指数发布 | 中国住宿业消费指数报告（2026年7月）发布 为贯彻落实提振消费相关政策，真实反映中国住宿餐饮业市场消费情况，以数据引导促消费政策精准发力，为行业发展提供参考建议，中国饭店协会每月公开发布“中国饭店业消费指数体系”，包含“中国住宿业消费指数（China Hotel Industry Consumption Index, HCI）”与“中国餐饮业消费指数(China Catering Industry Consumption Index, CCI)”，欢迎关注。",
@@ -980,14 +980,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8593,
-      "importance": 0.5941,
-      "importance_score": 0.8593,
+      "score": 0.8584,
+      "importance": 0.5931,
+      "importance_score": 0.8584,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9707,
+        "recency": 0.9656,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1039,14 +1039,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.859,
-      "importance": 0.5938,
-      "importance_score": 0.859,
+      "score": 0.858,
+      "importance": 0.5928,
+      "importance_score": 0.858,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.969,
+        "recency": 0.9639,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1078,7 +1078,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-09-09T23:17:54.881835Z"
+          "published_at": "2026-09-10T04:48:42.799602Z"
         }
       ],
       "source_count": 1,
@@ -1093,7 +1093,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-09-09T23:17:54.881835Z"
+          "published_at": "2026-09-10T04:48:42.799602Z"
         }
       ],
       "item_count": 1,
@@ -1112,8 +1112,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-09T23:17:54.881835Z",
-      "latest_at": "2026-09-09T23:17:54.881835Z",
+      "earliest_at": "2026-09-10T04:48:42.799602Z",
+      "latest_at": "2026-09-10T04:48:42.799602Z",
       "primary_item": {
         "id": "hotelitem_e4ce0593c384",
         "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
@@ -1137,7 +1137,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-09-09T23:17:54.881835Z"
+          "published_at": "2026-09-10T04:48:42.799602Z"
         }
       ],
       "source_count": 1,
@@ -1152,7 +1152,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-09-09T23:17:54.881835Z"
+          "published_at": "2026-09-10T04:48:42.799602Z"
         }
       ],
       "item_count": 1,
@@ -1171,8 +1171,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-09T23:17:54.881835Z",
-      "latest_at": "2026-09-09T23:17:54.881835Z",
+      "earliest_at": "2026-09-10T04:48:42.799602Z",
+      "latest_at": "2026-09-10T04:48:42.799602Z",
       "primary_item": {
         "id": "hotelitem_fa34986b4fc0",
         "title": "文化和旅游部、金融监管总局关于警惕借“保...",
@@ -1196,7 +1196,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-09-09T23:17:54.881835Z"
+          "published_at": "2026-09-10T04:48:42.799602Z"
         }
       ],
       "source_count": 1,
@@ -1211,7 +1211,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-09-09T23:17:54.881835Z"
+          "published_at": "2026-09-10T04:48:42.799602Z"
         }
       ],
       "item_count": 1,
@@ -1230,8 +1230,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-09T23:17:54.881835Z",
-      "latest_at": "2026-09-09T23:17:54.881835Z",
+      "earliest_at": "2026-09-10T04:48:42.799602Z",
+      "latest_at": "2026-09-10T04:48:42.799602Z",
       "primary_item": {
         "id": "hotelitem_9a958319a874",
         "title": "文化和旅游部印发《旅游强国建设“十五五”...",
@@ -1255,7 +1255,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-09-09T23:17:54.881835Z"
+          "published_at": "2026-09-10T04:48:42.799602Z"
         }
       ],
       "source_count": 1,
@@ -1270,7 +1270,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-09-09T23:17:54.881835Z"
+          "published_at": "2026-09-10T04:48:42.799602Z"
         }
       ],
       "item_count": 1,
@@ -1289,8 +1289,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-09T23:17:54.881835Z",
-      "latest_at": "2026-09-09T23:17:54.881835Z",
+      "earliest_at": "2026-09-10T04:48:42.799602Z",
+      "latest_at": "2026-09-10T04:48:42.799602Z",
       "primary_item": {
         "id": "hotelitem_8f218475e743",
         "title": "文化和旅游部发布2026年上半年国内居民出游数据情况",
@@ -1314,7 +1314,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-09-09T23:17:54.881835Z"
+          "published_at": "2026-09-10T04:48:42.799602Z"
         }
       ],
       "source_count": 1,
@@ -1329,7 +1329,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-09-09T23:17:54.881835Z"
+          "published_at": "2026-09-10T04:48:42.799602Z"
         }
       ],
       "item_count": 1,
@@ -1348,8 +1348,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-09T23:17:54.881835Z",
-      "latest_at": "2026-09-09T23:17:54.881835Z",
+      "earliest_at": "2026-09-10T04:48:42.799602Z",
+      "latest_at": "2026-09-10T04:48:42.799602Z",
       "primary_item": {
         "id": "hotelitem_492acb2b854b",
         "title": "文化和旅游部召开树立和践行正确政绩观学习...",
@@ -1393,14 +1393,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8474,
-      "importance": 0.5973,
-      "importance_score": 0.8474,
+      "score": 0.8464,
+      "importance": 0.5962,
+      "importance_score": 0.8464,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9863,
+        "recency": 0.9812,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1452,14 +1452,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8474,
-      "importance": 0.5973,
-      "importance_score": 0.8474,
+      "score": 0.8464,
+      "importance": 0.5963,
+      "importance_score": 0.8464,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9865,
+        "recency": 0.9814,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1511,14 +1511,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8432,
-      "importance": 0.5774,
-      "importance_score": 0.8432,
+      "score": 0.8422,
+      "importance": 0.5764,
+      "importance_score": 0.8422,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8871,
+        "recency": 0.882,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1570,14 +1570,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8426,
-      "importance": 0.5768,
-      "importance_score": 0.8426,
+      "score": 0.8416,
+      "importance": 0.5757,
+      "importance_score": 0.8416,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8838,
+        "recency": 0.8787,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1629,14 +1629,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8418,
-      "importance": 0.5759,
-      "importance_score": 0.8418,
+      "score": 0.8408,
+      "importance": 0.5749,
+      "importance_score": 0.8408,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8797,
+        "recency": 0.8746,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1651,65 +1651,6 @@
         "url": "https://www.hoteldive.com/news/travel-ceos-meet-with-trump-to-encourage-international-travel-after-world-c/829668/",
         "source": "Hotel Dive",
         "source_name": "Hotel Dive"
-      }
-    },
-    {
-      "story_id": "story_36f5cea4da4d",
-      "title": "Qatar’s Arrivals Are Down 30% This Year — Its Recovery Now Rests on F1",
-      "url": "https://skift.com/2026/09/04/qatars-arrivals-are-down-30-this-year-its-recovery-now-rests-on-f1/",
-      "primary_url": "https://skift.com/2026/09/04/qatars-arrivals-are-down-30-this-year-its-recovery-now-rests-on-f1/",
-      "source": "Skift Hospitality",
-      "source_name": "Skift Hospitality",
-      "sources": [
-        {
-          "id": "hotelitem_36f5cea4da4d",
-          "title": "Qatar’s Arrivals Are Down 30% This Year — Its Recovery Now Rests on F1",
-          "url": "https://skift.com/2026/09/04/qatars-arrivals-are-down-30-this-year-its-recovery-now-rests-on-f1/",
-          "source": "Skift Hospitality",
-          "source_name": "Skift Hospitality",
-          "site_id": "skift",
-          "published_at": "2026-09-04T11:40:22Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Skift Hospitality"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_36f5cea4da4d",
-          "title": "Qatar’s Arrivals Are Down 30% This Year — Its Recovery Now Rests on F1",
-          "url": "https://skift.com/2026/09/04/qatars-arrivals-are-down-30-this-year-its-recovery-now-rests-on-f1/",
-          "source": "Skift Hospitality",
-          "source_name": "Skift Hospitality",
-          "site_id": "skift",
-          "published_at": "2026-09-04T11:40:22Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8415,
-      "importance": 0.5756,
-      "importance_score": 0.8415,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.8781,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-04T11:40:22Z",
-      "latest_at": "2026-09-04T11:40:22Z",
-      "primary_item": {
-        "id": "hotelitem_36f5cea4da4d",
-        "title": "Qatar’s Arrivals Are Down 30% This Year — Its Recovery Now Rests on F1",
-        "url": "https://skift.com/2026/09/04/qatars-arrivals-are-down-30-this-year-its-recovery-now-rests-on-f1/",
-        "source": "Skift Hospitality",
-        "source_name": "Skift Hospitality"
       }
     },
     {
@@ -1747,14 +1688,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8408,
-      "importance": 0.4724,
-      "importance_score": 0.8408,
+      "score": 0.8393,
+      "importance": 0.4713,
+      "importance_score": 0.8393,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.3618,
+        "recency": 0.3567,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1806,14 +1747,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8324,
-      "importance": 0.5671,
-      "importance_score": 0.8324,
+      "score": 0.8309,
+      "importance": 0.5661,
+      "importance_score": 0.8309,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8356,
+        "recency": 0.8305,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1828,6 +1769,65 @@
         "url": "https://www.hoteldive.com/news/aimbridge-launches-lift-hotel-staffing-platform/829410/",
         "source": "Hotel Dive",
         "source_name": "Hotel Dive"
+      }
+    },
+    {
+      "story_id": "story_49d352c5760c",
+      "title": "1000万美元，可以买走破产航司最值钱的东西？",
+      "url": "https://www.traveldaily.cn/article/190574",
+      "primary_url": "https://www.traveldaily.cn/article/190574",
+      "source": "环球旅讯 TravelDaily",
+      "source_name": "环球旅讯 TravelDaily",
+      "sources": [
+        {
+          "id": "hotelitem_49d352c5760c",
+          "title": "1000万美元，可以买走破产航司最值钱的东西？",
+          "url": "https://www.traveldaily.cn/article/190574",
+          "source": "环球旅讯 TravelDaily",
+          "source_name": "环球旅讯 TravelDaily",
+          "site_id": "traveldaily",
+          "published_at": "2026-08-24T08:50:39Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "环球旅讯 TravelDaily"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_49d352c5760c",
+          "title": "1000万美元，可以买走破产航司最值钱的东西？",
+          "url": "https://www.traveldaily.cn/article/190574",
+          "source": "环球旅讯 TravelDaily",
+          "source_name": "环球旅讯 TravelDaily",
+          "site_id": "traveldaily",
+          "published_at": "2026-08-24T08:50:39Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8284,
+      "importance": 0.5252,
+      "importance_score": 0.8284,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.626,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-24T08:50:39Z",
+      "latest_at": "2026-08-24T08:50:39Z",
+      "primary_item": {
+        "id": "hotelitem_49d352c5760c",
+        "title": "1000万美元，可以买走破产航司最值钱的东西？",
+        "url": "https://www.traveldaily.cn/article/190574",
+        "source": "环球旅讯 TravelDaily",
+        "source_name": "环球旅讯 TravelDaily"
       }
     }
   ]
