@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T16:28:04.450356Z",
+  "generated_at": "2026-09-10T20:54:38.407217Z",
   "window_hours": 1080,
   "total_stories": 30,
   "stories": [
@@ -38,14 +38,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9509,
-      "importance": 0.5958,
-      "importance_score": 0.9509,
+      "score": 0.9501,
+      "importance": 0.5949,
+      "importance_score": 0.9501,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9788,
+        "recency": 0.9747,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -97,14 +97,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9481,
-      "importance": 0.5929,
-      "importance_score": 0.9481,
+      "score": 0.9473,
+      "importance": 0.5921,
+      "importance_score": 0.9473,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9644,
+        "recency": 0.9603,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -156,14 +156,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9464,
-      "importance": 0.5911,
-      "importance_score": 0.9464,
+      "score": 0.9456,
+      "importance": 0.5902,
+      "importance_score": 0.9456,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9554,
+        "recency": 0.9512,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -178,124 +178,6 @@
         "url": "https://skift.com/2026/09/08/inside-the-financial-engineering-of-club-meds-ipo/",
         "source": "Skift Hospitality",
         "source_name": "Skift Hospitality"
-      }
-    },
-    {
-      "story_id": "story_13fcdaac6a59",
-      "title": "UK’s first JdV by Hyatt hotel set to open in Oxfordshire",
-      "url": "https://boutiquehotelnews.com/news/hotel/uk-jdv-hyatt-oxfordshire/?utm_source=rss&utm_medium=rss&utm_campaign=uk-jdv-hyatt-oxfordshire",
-      "primary_url": "https://boutiquehotelnews.com/news/hotel/uk-jdv-hyatt-oxfordshire/?utm_source=rss&utm_medium=rss&utm_campaign=uk-jdv-hyatt-oxfordshire",
-      "source": "Boutique Hotel News",
-      "source_name": "Boutique Hotel News",
-      "sources": [
-        {
-          "id": "hotelitem_13fcdaac6a59",
-          "title": "UK’s first JdV by Hyatt hotel set to open in Oxfordshire",
-          "url": "https://boutiquehotelnews.com/news/hotel/uk-jdv-hyatt-oxfordshire/?utm_source=rss&utm_medium=rss&utm_campaign=uk-jdv-hyatt-oxfordshire",
-          "source": "Boutique Hotel News",
-          "source_name": "Boutique Hotel News",
-          "site_id": "boutiquehotel",
-          "published_at": "2026-09-08T13:06:13Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Boutique Hotel News"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_13fcdaac6a59",
-          "title": "UK’s first JdV by Hyatt hotel set to open in Oxfordshire",
-          "url": "https://boutiquehotelnews.com/news/hotel/uk-jdv-hyatt-oxfordshire/?utm_source=rss&utm_medium=rss&utm_campaign=uk-jdv-hyatt-oxfordshire",
-          "source": "Boutique Hotel News",
-          "source_name": "Boutique Hotel News",
-          "site_id": "boutiquehotel",
-          "published_at": "2026-09-08T13:06:13Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.9308,
-      "importance": 0.5905,
-      "importance_score": 0.9308,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9524,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-08T13:06:13Z",
-      "latest_at": "2026-09-08T13:06:13Z",
-      "primary_item": {
-        "id": "hotelitem_13fcdaac6a59",
-        "title": "UK’s first JdV by Hyatt hotel set to open in Oxfordshire",
-        "url": "https://boutiquehotelnews.com/news/hotel/uk-jdv-hyatt-oxfordshire/?utm_source=rss&utm_medium=rss&utm_campaign=uk-jdv-hyatt-oxfordshire",
-        "source": "Boutique Hotel News",
-        "source_name": "Boutique Hotel News"
-      }
-    },
-    {
-      "story_id": "story_33138bfac60b",
-      "title": "UMusic partners with Outernet London to launch hotel on Denmark Street",
-      "url": "https://boutiquehotelnews.com/news/hotel/umusic-outernet-london-hotel/?utm_source=rss&utm_medium=rss&utm_campaign=umusic-outernet-london-hotel",
-      "primary_url": "https://boutiquehotelnews.com/news/hotel/umusic-outernet-london-hotel/?utm_source=rss&utm_medium=rss&utm_campaign=umusic-outernet-london-hotel",
-      "source": "Boutique Hotel News",
-      "source_name": "Boutique Hotel News",
-      "sources": [
-        {
-          "id": "hotelitem_33138bfac60b",
-          "title": "UMusic partners with Outernet London to launch hotel on Denmark Street",
-          "url": "https://boutiquehotelnews.com/news/hotel/umusic-outernet-london-hotel/?utm_source=rss&utm_medium=rss&utm_campaign=umusic-outernet-london-hotel",
-          "source": "Boutique Hotel News",
-          "source_name": "Boutique Hotel News",
-          "site_id": "boutiquehotel",
-          "published_at": "2026-09-04T08:56:38Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Boutique Hotel News"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_33138bfac60b",
-          "title": "UMusic partners with Outernet London to launch hotel on Denmark Street",
-          "url": "https://boutiquehotelnews.com/news/hotel/umusic-outernet-london-hotel/?utm_source=rss&utm_medium=rss&utm_campaign=umusic-outernet-london-hotel",
-          "source": "Boutique Hotel News",
-          "source_name": "Boutique Hotel News",
-          "site_id": "boutiquehotel",
-          "published_at": "2026-09-04T08:56:38Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.9129,
-      "importance": 0.5719,
-      "importance_score": 0.9129,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.8597,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-04T08:56:38Z",
-      "latest_at": "2026-09-04T08:56:38Z",
-      "primary_item": {
-        "id": "hotelitem_33138bfac60b",
-        "title": "UMusic partners with Outernet London to launch hotel on Denmark Street",
-        "url": "https://boutiquehotelnews.com/news/hotel/umusic-outernet-london-hotel/?utm_source=rss&utm_medium=rss&utm_campaign=umusic-outernet-london-hotel",
-        "source": "Boutique Hotel News",
-        "source_name": "Boutique Hotel News"
       }
     },
     {
@@ -333,14 +215,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9124,
-      "importance": 0.5603,
-      "importance_score": 0.9124,
+      "score": 0.9111,
+      "importance": 0.5594,
+      "importance_score": 0.9111,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8014,
+        "recency": 0.7972,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -372,7 +254,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-09-10T16:28:04.450356Z"
+          "published_at": "2026-09-10T20:54:38.407217Z"
         }
       ],
       "source_count": 1,
@@ -387,7 +269,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-09-10T16:28:04.450356Z"
+          "published_at": "2026-09-10T20:54:38.407217Z"
         }
       ],
       "item_count": 1,
@@ -406,8 +288,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-10T16:28:04.450356Z",
-      "latest_at": "2026-09-10T16:28:04.450356Z",
+      "earliest_at": "2026-09-10T20:54:38.407217Z",
+      "latest_at": "2026-09-10T20:54:38.407217Z",
       "primary_item": {
         "id": "hotelitem_06f191e24d38",
         "title": "文旅惠报|复星国际申请分拆Club Med在港上市；南京商旅上半年营收3.66亿元",
@@ -451,14 +333,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8924,
-      "importance": 0.5688,
-      "importance_score": 0.8924,
+      "score": 0.8912,
+      "importance": 0.568,
+      "importance_score": 0.8912,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.844,
+        "recency": 0.8399,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -510,14 +392,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8648,
-      "importance": 0.5998,
-      "importance_score": 0.8648,
+      "score": 0.864,
+      "importance": 0.599,
+      "importance_score": 0.864,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9992,
+        "recency": 0.9951,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -569,14 +451,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8639,
-      "importance": 0.5989,
-      "importance_score": 0.8639,
+      "score": 0.8631,
+      "importance": 0.5981,
+      "importance_score": 0.8631,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9945,
+        "recency": 0.9904,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -608,7 +490,7 @@
           "source": "Agoda",
           "source_name": "Agoda",
           "site_id": "agoda_press",
-          "published_at": "2026-09-10T16:28:04.450356Z"
+          "published_at": "2026-09-10T20:54:38.407217Z"
         },
         {
           "id": "hotelitem_4f1065fc8e95",
@@ -617,7 +499,7 @@
           "source": "Agoda",
           "source_name": "Agoda",
           "site_id": "agoda_press",
-          "published_at": "2026-09-10T16:28:04.450356Z"
+          "published_at": "2026-09-10T20:54:38.407217Z"
         }
       ],
       "source_count": 2,
@@ -632,7 +514,7 @@
           "source": "Agoda",
           "source_name": "Agoda",
           "site_id": "agoda_press",
-          "published_at": "2026-09-10T16:28:04.450356Z"
+          "published_at": "2026-09-10T20:54:38.407217Z"
         },
         {
           "id": "hotelitem_4f1065fc8e95",
@@ -641,7 +523,7 @@
           "source": "Agoda",
           "source_name": "Agoda",
           "site_id": "agoda_press",
-          "published_at": "2026-09-10T16:28:04.450356Z"
+          "published_at": "2026-09-10T20:54:38.407217Z"
         }
       ],
       "item_count": 2,
@@ -661,8 +543,8 @@
         "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-10T16:28:04.450356Z",
-      "latest_at": "2026-09-10T16:28:04.450356Z",
+      "earliest_at": "2026-09-10T20:54:38.407217Z",
+      "latest_at": "2026-09-10T20:54:38.407217Z",
       "primary_item": {
         "id": "hotelitem_4451b63c1784",
         "title": "Agoda Reveals Growing Travel Interest Ahead  ... Singapore, 3 September 2026: Agoda Company Pte. Ltd. (Headquarters: Singapore; CEO: Omri Morgenshtern) ... September 3, 2026 / Travel Trends",
@@ -706,14 +588,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8623,
-      "importance": 0.5972,
-      "importance_score": 0.8623,
+      "score": 0.8615,
+      "importance": 0.5964,
+      "importance_score": 0.8615,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9862,
+        "recency": 0.9821,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -765,14 +647,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8614,
-      "importance": 0.5962,
-      "importance_score": 0.8614,
+      "score": 0.8606,
+      "importance": 0.5954,
+      "importance_score": 0.8606,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9811,
+        "recency": 0.977,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -804,7 +686,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-09-10T16:28:04.450356Z"
+          "published_at": "2026-09-10T20:54:38.407217Z"
         },
         {
           "id": "hotelitem_c7c15b7680c9",
@@ -813,7 +695,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-09-10T16:28:04.450356Z"
+          "published_at": "2026-09-10T20:54:38.407217Z"
         }
       ],
       "source_count": 2,
@@ -828,7 +710,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-09-10T16:28:04.450356Z"
+          "published_at": "2026-09-10T20:54:38.407217Z"
         },
         {
           "id": "hotelitem_c7c15b7680c9",
@@ -837,7 +719,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-09-10T16:28:04.450356Z"
+          "published_at": "2026-09-10T20:54:38.407217Z"
         }
       ],
       "item_count": 2,
@@ -857,8 +739,8 @@
         "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-10T16:28:04.450356Z",
-      "latest_at": "2026-09-10T16:28:04.450356Z",
+      "earliest_at": "2026-09-10T20:54:38.407217Z",
+      "latest_at": "2026-09-10T20:54:38.407217Z",
       "primary_item": {
         "id": "hotelitem_d4370964909c",
         "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
@@ -882,7 +764,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-09-10T16:28:04.450356Z"
+          "published_at": "2026-09-10T20:54:38.407217Z"
         },
         {
           "id": "hotelitem_da923c0668b1",
@@ -891,7 +773,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-09-10T16:28:04.450356Z"
+          "published_at": "2026-09-10T20:54:38.407217Z"
         }
       ],
       "source_count": 2,
@@ -906,7 +788,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-09-10T16:28:04.450356Z"
+          "published_at": "2026-09-10T20:54:38.407217Z"
         },
         {
           "id": "hotelitem_da923c0668b1",
@@ -915,7 +797,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-09-10T16:28:04.450356Z"
+          "published_at": "2026-09-10T20:54:38.407217Z"
         }
       ],
       "item_count": 2,
@@ -935,8 +817,8 @@
         "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-10T16:28:04.450356Z",
-      "latest_at": "2026-09-10T16:28:04.450356Z",
+      "earliest_at": "2026-09-10T20:54:38.407217Z",
+      "latest_at": "2026-09-10T20:54:38.407217Z",
       "primary_item": {
         "id": "hotelitem_6afacb5ef78d",
         "title": "指数发布 | 中国住宿业消费指数报告（2026年7月）发布 为贯彻落实提振消费相关政策，真实反映中国住宿餐饮业市场消费情况，以数据引导促消费政策精准发力，为行业发展提供参考建议，中国饭店协会每月公开发布“中国饭店业消费指数体系”，包含“中国住宿业消费指数（China Hotel Industry Consumption Index, HCI）”与“中国餐饮业消费指数(China Catering Industry Consumption Index, CCI)”，欢迎关注。",
@@ -960,7 +842,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-09-10T16:28:04.450356Z"
+          "published_at": "2026-09-10T20:54:38.407217Z"
         }
       ],
       "source_count": 1,
@@ -975,7 +857,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-09-10T16:28:04.450356Z"
+          "published_at": "2026-09-10T20:54:38.407217Z"
         }
       ],
       "item_count": 1,
@@ -994,8 +876,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-10T16:28:04.450356Z",
-      "latest_at": "2026-09-10T16:28:04.450356Z",
+      "earliest_at": "2026-09-10T20:54:38.407217Z",
+      "latest_at": "2026-09-10T20:54:38.407217Z",
       "primary_item": {
         "id": "hotelitem_e4ce0593c384",
         "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
@@ -1019,7 +901,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-09-10T16:28:04.450356Z"
+          "published_at": "2026-09-10T20:54:38.407217Z"
         }
       ],
       "source_count": 1,
@@ -1034,7 +916,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-09-10T16:28:04.450356Z"
+          "published_at": "2026-09-10T20:54:38.407217Z"
         }
       ],
       "item_count": 1,
@@ -1053,8 +935,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-10T16:28:04.450356Z",
-      "latest_at": "2026-09-10T16:28:04.450356Z",
+      "earliest_at": "2026-09-10T20:54:38.407217Z",
+      "latest_at": "2026-09-10T20:54:38.407217Z",
       "primary_item": {
         "id": "hotelitem_fa34986b4fc0",
         "title": "文化和旅游部、金融监管总局关于警惕借“保...",
@@ -1078,7 +960,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-09-10T16:28:04.450356Z"
+          "published_at": "2026-09-10T20:54:38.407217Z"
         }
       ],
       "source_count": 1,
@@ -1093,7 +975,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-09-10T16:28:04.450356Z"
+          "published_at": "2026-09-10T20:54:38.407217Z"
         }
       ],
       "item_count": 1,
@@ -1112,8 +994,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-10T16:28:04.450356Z",
-      "latest_at": "2026-09-10T16:28:04.450356Z",
+      "earliest_at": "2026-09-10T20:54:38.407217Z",
+      "latest_at": "2026-09-10T20:54:38.407217Z",
       "primary_item": {
         "id": "hotelitem_9a958319a874",
         "title": "文化和旅游部印发《旅游强国建设“十五五”...",
@@ -1137,7 +1019,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-09-10T16:28:04.450356Z"
+          "published_at": "2026-09-10T20:54:38.407217Z"
         }
       ],
       "source_count": 1,
@@ -1152,7 +1034,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-09-10T16:28:04.450356Z"
+          "published_at": "2026-09-10T20:54:38.407217Z"
         }
       ],
       "item_count": 1,
@@ -1171,8 +1053,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-10T16:28:04.450356Z",
-      "latest_at": "2026-09-10T16:28:04.450356Z",
+      "earliest_at": "2026-09-10T20:54:38.407217Z",
+      "latest_at": "2026-09-10T20:54:38.407217Z",
       "primary_item": {
         "id": "hotelitem_8f218475e743",
         "title": "文化和旅游部发布2026年上半年国内居民出游数据情况",
@@ -1196,7 +1078,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-09-10T16:28:04.450356Z"
+          "published_at": "2026-09-10T20:54:38.407217Z"
         }
       ],
       "source_count": 1,
@@ -1211,7 +1093,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-09-10T16:28:04.450356Z"
+          "published_at": "2026-09-10T20:54:38.407217Z"
         }
       ],
       "item_count": 1,
@@ -1230,8 +1112,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-10T16:28:04.450356Z",
-      "latest_at": "2026-09-10T16:28:04.450356Z",
+      "earliest_at": "2026-09-10T20:54:38.407217Z",
+      "latest_at": "2026-09-10T20:54:38.407217Z",
       "primary_item": {
         "id": "hotelitem_492acb2b854b",
         "title": "文化和旅游部召开树立和践行正确政绩观学习...",
@@ -1275,14 +1157,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8563,
-      "importance": 0.591,
-      "importance_score": 0.8563,
+      "score": 0.8555,
+      "importance": 0.5901,
+      "importance_score": 0.8555,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9548,
+        "recency": 0.9507,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1334,14 +1216,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.856,
-      "importance": 0.5906,
-      "importance_score": 0.856,
+      "score": 0.8552,
+      "importance": 0.5898,
+      "importance_score": 0.8552,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9531,
+        "recency": 0.949,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1356,124 +1238,6 @@
         "url": "https://www.hoteldive.com/news/guest-satisfaction-is-up-at-branded-hotels-report/829771/",
         "source": "Hotel Dive",
         "source_name": "Hotel Dive"
-      }
-    },
-    {
-      "story_id": "story_07d6e0759d9e",
-      "title": "No-cost attendance for hospitality owners and operators at Urban Living Festival 2027",
-      "url": "https://boutiquehotelnews.com/news/industry/urban-living-festival-2027/?utm_source=rss&utm_medium=rss&utm_campaign=urban-living-festival-2027",
-      "primary_url": "https://boutiquehotelnews.com/news/industry/urban-living-festival-2027/?utm_source=rss&utm_medium=rss&utm_campaign=urban-living-festival-2027",
-      "source": "Boutique Hotel News",
-      "source_name": "Boutique Hotel News",
-      "sources": [
-        {
-          "id": "hotelitem_07d6e0759d9e",
-          "title": "No-cost attendance for hospitality owners and operators at Urban Living Festival 2027",
-          "url": "https://boutiquehotelnews.com/news/industry/urban-living-festival-2027/?utm_source=rss&utm_medium=rss&utm_campaign=urban-living-festival-2027",
-          "source": "Boutique Hotel News",
-          "source_name": "Boutique Hotel News",
-          "site_id": "boutiquehotel",
-          "published_at": "2026-09-09T08:30:50Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Boutique Hotel News"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_07d6e0759d9e",
-          "title": "No-cost attendance for hospitality owners and operators at Urban Living Festival 2027",
-          "url": "https://boutiquehotelnews.com/news/industry/urban-living-festival-2027/?utm_source=rss&utm_medium=rss&utm_campaign=urban-living-festival-2027",
-          "source": "Boutique Hotel News",
-          "source_name": "Boutique Hotel News",
-          "site_id": "boutiquehotel",
-          "published_at": "2026-09-09T08:30:50Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8443,
-      "importance": 0.5941,
-      "importance_score": 0.8443,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9704,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-09T08:30:50Z",
-      "latest_at": "2026-09-09T08:30:50Z",
-      "primary_item": {
-        "id": "hotelitem_07d6e0759d9e",
-        "title": "No-cost attendance for hospitality owners and operators at Urban Living Festival 2027",
-        "url": "https://boutiquehotelnews.com/news/industry/urban-living-festival-2027/?utm_source=rss&utm_medium=rss&utm_campaign=urban-living-festival-2027",
-        "source": "Boutique Hotel News",
-        "source_name": "Boutique Hotel News"
-      }
-    },
-    {
-      "story_id": "story_6f466bc19129",
-      "title": "The Hoxton to make Middle East debut",
-      "url": "https://boutiquehotelnews.com/news/hotel/the-hoxton-middle-east/?utm_source=rss&utm_medium=rss&utm_campaign=the-hoxton-middle-east",
-      "primary_url": "https://boutiquehotelnews.com/news/hotel/the-hoxton-middle-east/?utm_source=rss&utm_medium=rss&utm_campaign=the-hoxton-middle-east",
-      "source": "Boutique Hotel News",
-      "source_name": "Boutique Hotel News",
-      "sources": [
-        {
-          "id": "hotelitem_6f466bc19129",
-          "title": "The Hoxton to make Middle East debut",
-          "url": "https://boutiquehotelnews.com/news/hotel/the-hoxton-middle-east/?utm_source=rss&utm_medium=rss&utm_campaign=the-hoxton-middle-east",
-          "source": "Boutique Hotel News",
-          "source_name": "Boutique Hotel News",
-          "site_id": "boutiquehotel",
-          "published_at": "2026-09-09T08:45:33Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Boutique Hotel News"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_6f466bc19129",
-          "title": "The Hoxton to make Middle East debut",
-          "url": "https://boutiquehotelnews.com/news/hotel/the-hoxton-middle-east/?utm_source=rss&utm_medium=rss&utm_campaign=the-hoxton-middle-east",
-          "source": "Boutique Hotel News",
-          "source_name": "Boutique Hotel News",
-          "site_id": "boutiquehotel",
-          "published_at": "2026-09-09T08:45:33Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8443,
-      "importance": 0.5941,
-      "importance_score": 0.8443,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9706,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-09T08:45:33Z",
-      "latest_at": "2026-09-09T08:45:33Z",
-      "primary_item": {
-        "id": "hotelitem_6f466bc19129",
-        "title": "The Hoxton to make Middle East debut",
-        "url": "https://boutiquehotelnews.com/news/hotel/the-hoxton-middle-east/?utm_source=rss&utm_medium=rss&utm_campaign=the-hoxton-middle-east",
-        "source": "Boutique Hotel News",
-        "source_name": "Boutique Hotel News"
       }
     },
     {
@@ -1511,14 +1275,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8395,
-      "importance": 0.5736,
-      "importance_score": 0.8395,
+      "score": 0.8387,
+      "importance": 0.5727,
+      "importance_score": 0.8387,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8679,
+        "recency": 0.8637,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1570,14 +1334,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8387,
-      "importance": 0.5728,
-      "importance_score": 0.8387,
+      "score": 0.8379,
+      "importance": 0.5719,
+      "importance_score": 0.8379,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8638,
+        "recency": 0.8597,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1629,14 +1393,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8362,
-      "importance": 0.4692,
-      "importance_score": 0.8362,
+      "score": 0.835,
+      "importance": 0.4683,
+      "importance_score": 0.835,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.3459,
+        "recency": 0.3417,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1651,65 +1415,6 @@
         "url": "https://ir.tuniu.com/2026-08-12-Tuniu-to-Report-Second-Quarter-2026-Financial-Results-on-August-25,-2026",
         "source": "途牛 Tuniu IR",
         "source_name": "途牛 Tuniu IR"
-      }
-    },
-    {
-      "story_id": "story_508f8f6bd1ff",
-      "title": "The Social Hub appoints Megan Kennedy as COO",
-      "url": "https://boutiquehotelnews.com/news/movers-and-shakers/social-hub-kennedy-coo/?utm_source=rss&utm_medium=rss&utm_campaign=social-hub-kennedy-coo",
-      "primary_url": "https://boutiquehotelnews.com/news/movers-and-shakers/social-hub-kennedy-coo/?utm_source=rss&utm_medium=rss&utm_campaign=social-hub-kennedy-coo",
-      "source": "Boutique Hotel News",
-      "source_name": "Boutique Hotel News",
-      "sources": [
-        {
-          "id": "hotelitem_508f8f6bd1ff",
-          "title": "The Social Hub appoints Megan Kennedy as COO",
-          "url": "https://boutiquehotelnews.com/news/movers-and-shakers/social-hub-kennedy-coo/?utm_source=rss&utm_medium=rss&utm_campaign=social-hub-kennedy-coo",
-          "source": "Boutique Hotel News",
-          "source_name": "Boutique Hotel News",
-          "site_id": "boutiquehotel",
-          "published_at": "2026-09-04T10:57:22Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Boutique Hotel News"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_508f8f6bd1ff",
-          "title": "The Social Hub appoints Megan Kennedy as COO",
-          "url": "https://boutiquehotelnews.com/news/movers-and-shakers/social-hub-kennedy-coo/?utm_source=rss&utm_medium=rss&utm_campaign=social-hub-kennedy-coo",
-          "source": "Boutique Hotel News",
-          "source_name": "Boutique Hotel News",
-          "site_id": "boutiquehotel",
-          "published_at": "2026-09-04T10:57:22Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8233,
-      "importance": 0.5723,
-      "importance_score": 0.8233,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.8616,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-04T10:57:22Z",
-      "latest_at": "2026-09-04T10:57:22Z",
-      "primary_item": {
-        "id": "hotelitem_508f8f6bd1ff",
-        "title": "The Social Hub appoints Megan Kennedy as COO",
-        "url": "https://boutiquehotelnews.com/news/movers-and-shakers/social-hub-kennedy-coo/?utm_source=rss&utm_medium=rss&utm_campaign=social-hub-kennedy-coo",
-        "source": "Boutique Hotel News",
-        "source_name": "Boutique Hotel News"
       }
     },
     {
@@ -1747,14 +1452,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8195,
-      "importance": 0.5994,
-      "importance_score": 0.8195,
+      "score": 0.8187,
+      "importance": 0.5986,
+      "importance_score": 0.8187,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9972,
+        "recency": 0.9931,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1806,14 +1511,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8194,
-      "importance": 0.5994,
-      "importance_score": 0.8194,
+      "score": 0.8186,
+      "importance": 0.5986,
+      "importance_score": 0.8186,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9971,
+        "recency": 0.993,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1828,6 +1533,301 @@
         "url": "https://skift.com/2026/09/10/marriott-brings-loyalty-into-corporate-booking-tools-with-spotnana-deal/",
         "source": "Skift Hospitality",
         "source_name": "Skift Hospitality"
+      }
+    },
+    {
+      "story_id": "story_ff1e2b0f4673",
+      "title": "希尔顿集团携手河南博物院推出酒店文化体验项目",
+      "url": "https://www.pinchain.com/article/350844",
+      "primary_url": "https://www.pinchain.com/article/350844",
+      "source": "品橙旅游",
+      "source_name": "品橙旅游",
+      "sources": [
+        {
+          "id": "hotelitem_ff1e2b0f4673",
+          "title": "希尔顿集团携手河南博物院推出酒店文化体验项目",
+          "url": "https://www.pinchain.com/article/350844",
+          "source": "品橙旅游",
+          "source_name": "品橙旅游",
+          "site_id": "pinchain",
+          "published_at": "2026-09-10T13:41:18Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "品橙旅游"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_ff1e2b0f4673",
+          "title": "希尔顿集团携手河南博物院推出酒店文化体验项目",
+          "url": "https://www.pinchain.com/article/350844",
+          "source": "品橙旅游",
+          "source_name": "品橙旅游",
+          "site_id": "pinchain",
+          "published_at": "2026-09-10T13:41:18Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8162,
+      "importance": 0.5987,
+      "importance_score": 0.8162,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9933,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-10T13:41:18Z",
+      "latest_at": "2026-09-10T13:41:18Z",
+      "primary_item": {
+        "id": "hotelitem_ff1e2b0f4673",
+        "title": "希尔顿集团携手河南博物院推出酒店文化体验项目",
+        "url": "https://www.pinchain.com/article/350844",
+        "source": "品橙旅游",
+        "source_name": "品橙旅游"
+      }
+    },
+    {
+      "story_id": "story_2b02d415fb4f",
+      "title": "Braemar shareholder Al Shams intends to nominate directors to REIT’s board",
+      "url": "https://www.hoteldive.com/news/braemar-shareholder-meeting-board-nomination/829904/",
+      "primary_url": "https://www.hoteldive.com/news/braemar-shareholder-meeting-board-nomination/829904/",
+      "source": "Hotel Dive",
+      "source_name": "Hotel Dive",
+      "sources": [
+        {
+          "id": "hotelitem_2b02d415fb4f",
+          "title": "Braemar shareholder Al Shams intends to nominate directors to REIT’s board",
+          "url": "https://www.hoteldive.com/news/braemar-shareholder-meeting-board-nomination/829904/",
+          "source": "Hotel Dive",
+          "source_name": "Hotel Dive",
+          "site_id": "hoteldive",
+          "published_at": "2026-09-09T14:08:36Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hotel Dive"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_2b02d415fb4f",
+          "title": "Braemar shareholder Al Shams intends to nominate directors to REIT’s board",
+          "url": "https://www.hoteldive.com/news/braemar-shareholder-meeting-board-nomination/829904/",
+          "source": "Hotel Dive",
+          "source_name": "Hotel Dive",
+          "site_id": "hoteldive",
+          "published_at": "2026-09-09T14:08:36Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8145,
+      "importance": 0.5943,
+      "importance_score": 0.8145,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9715,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-09T14:08:36Z",
+      "latest_at": "2026-09-09T14:08:36Z",
+      "primary_item": {
+        "id": "hotelitem_2b02d415fb4f",
+        "title": "Braemar shareholder Al Shams intends to nominate directors to REIT’s board",
+        "url": "https://www.hoteldive.com/news/braemar-shareholder-meeting-board-nomination/829904/",
+        "source": "Hotel Dive",
+        "source_name": "Hotel Dive"
+      }
+    },
+    {
+      "story_id": "story_031c715e3e5c",
+      "title": "Agoda Leadership Team Updates Digital travel platform Agoda today shared an update to its leadership team, reflecting several recent ... August 28, 2026 / Default, Organization",
+      "url": "https://www.agoda.com/press/agoda-leadership-team-updates/",
+      "primary_url": "https://www.agoda.com/press/agoda-leadership-team-updates/",
+      "source": "Agoda",
+      "source_name": "Agoda",
+      "sources": [
+        {
+          "id": "hotelitem_031c715e3e5c",
+          "title": "Agoda Leadership Team Updates Digital travel platform Agoda today shared an update to its leadership team, reflecting several recent ... August 28, 2026 / Default, Organization",
+          "url": "https://www.agoda.com/press/agoda-leadership-team-updates/",
+          "source": "Agoda",
+          "source_name": "Agoda",
+          "site_id": "agoda_press",
+          "published_at": "2026-09-10T20:54:38.407217Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Agoda"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_031c715e3e5c",
+          "title": "Agoda Leadership Team Updates Digital travel platform Agoda today shared an update to its leadership team, reflecting several recent ... August 28, 2026 / Default, Organization",
+          "url": "https://www.agoda.com/press/agoda-leadership-team-updates/",
+          "source": "Agoda",
+          "source_name": "Agoda",
+          "site_id": "agoda_press",
+          "published_at": "2026-09-10T20:54:38.407217Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8125,
+      "importance": 0.6,
+      "importance_score": 0.8125,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-10T20:54:38.407217Z",
+      "latest_at": "2026-09-10T20:54:38.407217Z",
+      "primary_item": {
+        "id": "hotelitem_031c715e3e5c",
+        "title": "Agoda Leadership Team Updates Digital travel platform Agoda today shared an update to its leadership team, reflecting several recent ... August 28, 2026 / Default, Organization",
+        "url": "https://www.agoda.com/press/agoda-leadership-team-updates/",
+        "source": "Agoda",
+        "source_name": "Agoda"
+      }
+    },
+    {
+      "story_id": "story_f86e118e3141",
+      "title": "Agoda Reveals Vietnamese Travelers’ Most-Sea ... Digital travel platform Agoda has revealed the most-searched domestic and international destinations a ... September 7, 2026 / Travel Trends",
+      "url": "https://www.agoda.com/press/agoda-reveals-vietnamese-travelers-most-searched-destinations-for-the-national-day-holiday/",
+      "primary_url": "https://www.agoda.com/press/agoda-reveals-vietnamese-travelers-most-searched-destinations-for-the-national-day-holiday/",
+      "source": "Agoda",
+      "source_name": "Agoda",
+      "sources": [
+        {
+          "id": "hotelitem_f86e118e3141",
+          "title": "Agoda Reveals Vietnamese Travelers’ Most-Sea ... Digital travel platform Agoda has revealed the most-searched domestic and international destinations a ... September 7, 2026 / Travel Trends",
+          "url": "https://www.agoda.com/press/agoda-reveals-vietnamese-travelers-most-searched-destinations-for-the-national-day-holiday/",
+          "source": "Agoda",
+          "source_name": "Agoda",
+          "site_id": "agoda_press",
+          "published_at": "2026-09-10T20:54:38.407217Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Agoda"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_f86e118e3141",
+          "title": "Agoda Reveals Vietnamese Travelers’ Most-Sea ... Digital travel platform Agoda has revealed the most-searched domestic and international destinations a ... September 7, 2026 / Travel Trends",
+          "url": "https://www.agoda.com/press/agoda-reveals-vietnamese-travelers-most-searched-destinations-for-the-national-day-holiday/",
+          "source": "Agoda",
+          "source_name": "Agoda",
+          "site_id": "agoda_press",
+          "published_at": "2026-09-10T20:54:38.407217Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8125,
+      "importance": 0.6,
+      "importance_score": 0.8125,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-10T20:54:38.407217Z",
+      "latest_at": "2026-09-10T20:54:38.407217Z",
+      "primary_item": {
+        "id": "hotelitem_f86e118e3141",
+        "title": "Agoda Reveals Vietnamese Travelers’ Most-Sea ... Digital travel platform Agoda has revealed the most-searched domestic and international destinations a ... September 7, 2026 / Travel Trends",
+        "url": "https://www.agoda.com/press/agoda-reveals-vietnamese-travelers-most-searched-destinations-for-the-national-day-holiday/",
+        "source": "Agoda",
+        "source_name": "Agoda"
+      }
+    },
+    {
+      "story_id": "story_7245e3fed3db",
+      "title": "Agoda and DTTDC Launch MoU to Position Delhi ... Digital travel platform Agoda has announced a strategic partnership with the Delhi Tourism & Trans ... May 21, 2026 / Partnership",
+      "url": "https://www.agoda.com/press/agoda-and-dttdc-launch-mou-to-position-delhi-as-a-year-round-destination/",
+      "primary_url": "https://www.agoda.com/press/agoda-and-dttdc-launch-mou-to-position-delhi-as-a-year-round-destination/",
+      "source": "Agoda",
+      "source_name": "Agoda",
+      "sources": [
+        {
+          "id": "hotelitem_7245e3fed3db",
+          "title": "Agoda and DTTDC Launch MoU to Position Delhi ... Digital travel platform Agoda has announced a strategic partnership with the Delhi Tourism & Trans ... May 21, 2026 / Partnership",
+          "url": "https://www.agoda.com/press/agoda-and-dttdc-launch-mou-to-position-delhi-as-a-year-round-destination/",
+          "source": "Agoda",
+          "source_name": "Agoda",
+          "site_id": "agoda_press",
+          "published_at": "2026-09-10T20:54:38.407217Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Agoda"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_7245e3fed3db",
+          "title": "Agoda and DTTDC Launch MoU to Position Delhi ... Digital travel platform Agoda has announced a strategic partnership with the Delhi Tourism & Trans ... May 21, 2026 / Partnership",
+          "url": "https://www.agoda.com/press/agoda-and-dttdc-launch-mou-to-position-delhi-as-a-year-round-destination/",
+          "source": "Agoda",
+          "source_name": "Agoda",
+          "site_id": "agoda_press",
+          "published_at": "2026-09-10T20:54:38.407217Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8125,
+      "importance": 0.6,
+      "importance_score": 0.8125,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-10T20:54:38.407217Z",
+      "latest_at": "2026-09-10T20:54:38.407217Z",
+      "primary_item": {
+        "id": "hotelitem_7245e3fed3db",
+        "title": "Agoda and DTTDC Launch MoU to Position Delhi ... Digital travel platform Agoda has announced a strategic partnership with the Delhi Tourism & Trans ... May 21, 2026 / Partnership",
+        "url": "https://www.agoda.com/press/agoda-and-dttdc-launch-mou-to-position-delhi-as-a-year-round-destination/",
+        "source": "Agoda",
+        "source_name": "Agoda"
       }
     }
   ]
