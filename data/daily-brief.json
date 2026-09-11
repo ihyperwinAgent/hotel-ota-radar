@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T16:31:58.711105Z",
+  "generated_at": "2026-09-11T21:00:41.663790Z",
   "window_hours": 1080,
   "total_items": 30,
   "items": [
@@ -38,14 +38,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9546,
-      "importance": 0.5995,
-      "importance_score": 0.9546,
+      "score": 0.9538,
+      "importance": 0.5987,
+      "importance_score": 0.9538,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9977,
+        "recency": 0.9935,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -97,14 +97,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9545,
-      "importance": 0.5995,
-      "importance_score": 0.9545,
+      "score": 0.9537,
+      "importance": 0.5987,
+      "importance_score": 0.9537,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9976,
+        "recency": 0.9935,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -156,14 +156,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9523,
-      "importance": 0.5972,
-      "importance_score": 0.9523,
+      "score": 0.9515,
+      "importance": 0.5964,
+      "importance_score": 0.9515,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9861,
+        "recency": 0.9819,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -215,14 +215,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9466,
-      "importance": 0.5913,
-      "importance_score": 0.9466,
+      "score": 0.9458,
+      "importance": 0.5905,
+      "importance_score": 0.9458,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9565,
+        "recency": 0.9524,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -274,14 +274,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9421,
-      "importance": 0.5866,
-      "importance_score": 0.9421,
+      "score": 0.9413,
+      "importance": 0.5858,
+      "importance_score": 0.9413,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9331,
+        "recency": 0.9289,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -333,14 +333,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9285,
-      "importance": 0.5985,
-      "importance_score": 0.9285,
+      "score": 0.9277,
+      "importance": 0.5976,
+      "importance_score": 0.9277,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9923,
+        "recency": 0.9881,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -355,65 +355,6 @@
         "url": "https://www.pinchain.com/article/350884",
         "source": "品橙旅游",
         "source_name": "品橙旅游"
-      }
-    },
-    {
-      "story_id": "story_13fcdaac6a59",
-      "title": "UK’s first JdV by Hyatt hotel set to open in Oxfordshire",
-      "url": "https://boutiquehotelnews.com/news/hotel/uk-jdv-hyatt-oxfordshire/?utm_source=rss&utm_medium=rss&utm_campaign=uk-jdv-hyatt-oxfordshire",
-      "primary_url": "https://boutiquehotelnews.com/news/hotel/uk-jdv-hyatt-oxfordshire/?utm_source=rss&utm_medium=rss&utm_campaign=uk-jdv-hyatt-oxfordshire",
-      "source": "Boutique Hotel News",
-      "source_name": "Boutique Hotel News",
-      "sources": [
-        {
-          "id": "hotelitem_13fcdaac6a59",
-          "title": "UK’s first JdV by Hyatt hotel set to open in Oxfordshire",
-          "url": "https://boutiquehotelnews.com/news/hotel/uk-jdv-hyatt-oxfordshire/?utm_source=rss&utm_medium=rss&utm_campaign=uk-jdv-hyatt-oxfordshire",
-          "source": "Boutique Hotel News",
-          "source_name": "Boutique Hotel News",
-          "site_id": "boutiquehotel",
-          "published_at": "2026-09-08T13:06:13Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Boutique Hotel News"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_13fcdaac6a59",
-          "title": "UK’s first JdV by Hyatt hotel set to open in Oxfordshire",
-          "url": "https://boutiquehotelnews.com/news/hotel/uk-jdv-hyatt-oxfordshire/?utm_source=rss&utm_medium=rss&utm_campaign=uk-jdv-hyatt-oxfordshire",
-          "source": "Boutique Hotel News",
-          "source_name": "Boutique Hotel News",
-          "site_id": "boutiquehotel",
-          "published_at": "2026-09-08T13:06:13Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.9265,
-      "importance": 0.586,
-      "importance_score": 0.9265,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9302,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-08T13:06:13Z",
-      "latest_at": "2026-09-08T13:06:13Z",
-      "primary_item": {
-        "id": "hotelitem_13fcdaac6a59",
-        "title": "UK’s first JdV by Hyatt hotel set to open in Oxfordshire",
-        "url": "https://boutiquehotelnews.com/news/hotel/uk-jdv-hyatt-oxfordshire/?utm_source=rss&utm_medium=rss&utm_campaign=uk-jdv-hyatt-oxfordshire",
-        "source": "Boutique Hotel News",
-        "source_name": "Boutique Hotel News"
       }
     },
     {
@@ -451,14 +392,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9058,
-      "importance": 0.5558,
-      "importance_score": 0.9058,
+      "score": 0.9046,
+      "importance": 0.555,
+      "importance_score": 0.9046,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.7791,
+        "recency": 0.7749,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -490,7 +431,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-09-11T16:31:58.711105Z"
+          "published_at": "2026-09-11T21:00:41.663790Z"
         }
       ],
       "source_count": 1,
@@ -505,7 +446,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-09-11T16:31:58.711105Z"
+          "published_at": "2026-09-11T21:00:41.663790Z"
         }
       ],
       "item_count": 1,
@@ -524,8 +465,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-11T16:31:58.711105Z",
-      "latest_at": "2026-09-11T16:31:58.711105Z",
+      "earliest_at": "2026-09-11T21:00:41.663790Z",
+      "latest_at": "2026-09-11T21:00:41.663790Z",
       "primary_item": {
         "id": "hotelitem_06f191e24d38",
         "title": "文旅惠报|复星国际申请分拆Club Med在港上市；南京商旅上半年营收3.66亿元",
@@ -569,14 +510,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8858,
-      "importance": 0.5643,
-      "importance_score": 0.8858,
+      "score": 0.8846,
+      "importance": 0.5635,
+      "importance_score": 0.8846,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8217,
+        "recency": 0.8176,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -628,14 +569,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8827,
-      "importance": 0.5977,
-      "importance_score": 0.8827,
+      "score": 0.8819,
+      "importance": 0.5968,
+      "importance_score": 0.8819,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9883,
+        "recency": 0.9841,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -687,14 +628,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8646,
-      "importance": 0.5996,
-      "importance_score": 0.8646,
+      "score": 0.8638,
+      "importance": 0.5988,
+      "importance_score": 0.8638,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9979,
+        "recency": 0.9938,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -726,7 +667,7 @@
           "source": "Agoda",
           "source_name": "Agoda",
           "site_id": "agoda_press",
-          "published_at": "2026-09-11T16:31:58.711105Z"
+          "published_at": "2026-09-11T21:00:41.663790Z"
         },
         {
           "id": "hotelitem_4f1065fc8e95",
@@ -735,7 +676,7 @@
           "source": "Agoda",
           "source_name": "Agoda",
           "site_id": "agoda_press",
-          "published_at": "2026-09-11T16:31:58.711105Z"
+          "published_at": "2026-09-11T21:00:41.663790Z"
         }
       ],
       "source_count": 2,
@@ -750,7 +691,7 @@
           "source": "Agoda",
           "source_name": "Agoda",
           "site_id": "agoda_press",
-          "published_at": "2026-09-11T16:31:58.711105Z"
+          "published_at": "2026-09-11T21:00:41.663790Z"
         },
         {
           "id": "hotelitem_4f1065fc8e95",
@@ -759,7 +700,7 @@
           "source": "Agoda",
           "source_name": "Agoda",
           "site_id": "agoda_press",
-          "published_at": "2026-09-11T16:31:58.711105Z"
+          "published_at": "2026-09-11T21:00:41.663790Z"
         }
       ],
       "item_count": 2,
@@ -779,8 +720,8 @@
         "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-11T16:31:58.711105Z",
-      "latest_at": "2026-09-11T16:31:58.711105Z",
+      "earliest_at": "2026-09-11T21:00:41.663790Z",
+      "latest_at": "2026-09-11T21:00:41.663790Z",
       "primary_item": {
         "id": "hotelitem_4451b63c1784",
         "title": "Agoda Reveals Growing Travel Interest Ahead  ... Singapore, 3 September 2026: Agoda Company Pte. Ltd. (Headquarters: Singapore; CEO: Omri Morgenshtern) ... September 3, 2026 / Travel Trends",
@@ -824,14 +765,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8624,
-      "importance": 0.5973,
-      "importance_score": 0.8624,
+      "score": 0.8616,
+      "importance": 0.5964,
+      "importance_score": 0.8616,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9863,
+        "recency": 0.9822,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -883,14 +824,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8624,
-      "importance": 0.5973,
-      "importance_score": 0.8624,
+      "score": 0.8616,
+      "importance": 0.5965,
+      "importance_score": 0.8616,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9864,
+        "recency": 0.9823,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -942,14 +883,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8624,
-      "importance": 0.5973,
-      "importance_score": 0.8624,
+      "score": 0.8616,
+      "importance": 0.5965,
+      "importance_score": 0.8616,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9865,
+        "recency": 0.9823,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -964,6 +905,162 @@
         "url": "https://insights.ehotelier.com/global-news/2026/09/11/tfe-hotels-invests-100m-in-transforming-adina-hotels-across-their-global-network/?utm_source=rss&utm_medium=rss&utm_campaign=tfe-hotels-invests-100m-in-transforming-adina-hotels-across-their-global-network",
         "source": "eHotelier",
         "source_name": "eHotelier"
+      }
+    },
+    {
+      "story_id": "story_c7c15b7680c9",
+      "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
+      "url": "https://www.chinahotel.org.cn/articles/17408",
+      "primary_url": "https://www.chinahotel.org.cn/articles/17408",
+      "source": "中国饭店协会",
+      "source_name": "中国饭店协会",
+      "sources": [
+        {
+          "id": "hotelitem_d4370964909c",
+          "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
+          "url": "https://www.chinahotel.org.cn/articles/17408",
+          "source": "中国饭店协会",
+          "source_name": "中国饭店协会",
+          "site_id": "chinahotel",
+          "published_at": "2026-09-11T21:00:41.663790Z"
+        },
+        {
+          "id": "hotelitem_c7c15b7680c9",
+          "title": "绿色饭店 | 2026年第一批国家标准绿色饭店名单公布 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007) 在全国组织开展国家标准绿色饭店的评定工作。现公布2026年第一批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
+          "url": "https://www.chinahotel.org.cn/articles/17689",
+          "source": "中国饭店协会",
+          "source_name": "中国饭店协会",
+          "site_id": "chinahotel",
+          "published_at": "2026-09-11T21:00:41.663790Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "中国饭店协会"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_d4370964909c",
+          "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
+          "url": "https://www.chinahotel.org.cn/articles/17408",
+          "source": "中国饭店协会",
+          "source_name": "中国饭店协会",
+          "site_id": "chinahotel",
+          "published_at": "2026-09-11T21:00:41.663790Z"
+        },
+        {
+          "id": "hotelitem_c7c15b7680c9",
+          "title": "绿色饭店 | 2026年第一批国家标准绿色饭店名单公布 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007) 在全国组织开展国家标准绿色饭店的评定工作。现公布2026年第一批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
+          "url": "https://www.chinahotel.org.cn/articles/17689",
+          "source": "中国饭店协会",
+          "source_name": "中国饭店协会",
+          "site_id": "chinahotel",
+          "published_at": "2026-09-11T21:00:41.663790Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.86,
+      "importance": 0.625,
+      "importance_score": 0.86,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-11T21:00:41.663790Z",
+      "latest_at": "2026-09-11T21:00:41.663790Z",
+      "primary_item": {
+        "id": "hotelitem_d4370964909c",
+        "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
+        "url": "https://www.chinahotel.org.cn/articles/17408",
+        "source": "中国饭店协会",
+        "source_name": "中国饭店协会"
+      }
+    },
+    {
+      "story_id": "story_da923c0668b1",
+      "title": "指数发布 | 中国住宿业消费指数报告（2026年7月）发布 为贯彻落实提振消费相关政策，真实反映中国住宿餐饮业市场消费情况，以数据引导促消费政策精准发力，为行业发展提供参考建议，中国饭店协会每月公开发布“中国饭店业消费指数体系”，包含“中国住宿业消费指数（China Hotel Industry Consumption Index, HCI）”与“中国餐饮业消费指数(China Catering Industry Consumption Index, CCI)”，欢迎关注。",
+      "url": "https://www.chinahotel.org.cn/articles/17967",
+      "primary_url": "https://www.chinahotel.org.cn/articles/17967",
+      "source": "中国饭店协会",
+      "source_name": "中国饭店协会",
+      "sources": [
+        {
+          "id": "hotelitem_6afacb5ef78d",
+          "title": "指数发布 | 中国住宿业消费指数报告（2026年7月）发布 为贯彻落实提振消费相关政策，真实反映中国住宿餐饮业市场消费情况，以数据引导促消费政策精准发力，为行业发展提供参考建议，中国饭店协会每月公开发布“中国饭店业消费指数体系”，包含“中国住宿业消费指数（China Hotel Industry Consumption Index, HCI）”与“中国餐饮业消费指数(China Catering Industry Consumption Index, CCI)”，欢迎关注。",
+          "url": "https://www.chinahotel.org.cn/articles/17967",
+          "source": "中国饭店协会",
+          "source_name": "中国饭店协会",
+          "site_id": "chinahotel",
+          "published_at": "2026-09-11T21:00:41.663790Z"
+        },
+        {
+          "id": "hotelitem_da923c0668b1",
+          "title": "指数发布 | 中国餐饮业消费指数报告（2026年7月）发布 为贯彻落实提振消费相关政策，真实反映中国住宿餐饮业市场消费情况，以数据引导促消费政策精准发力，为行业发展提供参考建议，中国饭店协会每月公开发布“中国饭店业消费指数体系”，包含“中国住宿业消费指数（China Hotel Industry Consumption Index, HCI）”与“中国餐饮业消费指数(China Catering Industry Consumption Index, CCI)”，欢迎关注。",
+          "url": "https://www.chinahotel.org.cn/articles/17969",
+          "source": "中国饭店协会",
+          "source_name": "中国饭店协会",
+          "site_id": "chinahotel",
+          "published_at": "2026-09-11T21:00:41.663790Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "中国饭店协会"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_6afacb5ef78d",
+          "title": "指数发布 | 中国住宿业消费指数报告（2026年7月）发布 为贯彻落实提振消费相关政策，真实反映中国住宿餐饮业市场消费情况，以数据引导促消费政策精准发力，为行业发展提供参考建议，中国饭店协会每月公开发布“中国饭店业消费指数体系”，包含“中国住宿业消费指数（China Hotel Industry Consumption Index, HCI）”与“中国餐饮业消费指数(China Catering Industry Consumption Index, CCI)”，欢迎关注。",
+          "url": "https://www.chinahotel.org.cn/articles/17967",
+          "source": "中国饭店协会",
+          "source_name": "中国饭店协会",
+          "site_id": "chinahotel",
+          "published_at": "2026-09-11T21:00:41.663790Z"
+        },
+        {
+          "id": "hotelitem_da923c0668b1",
+          "title": "指数发布 | 中国餐饮业消费指数报告（2026年7月）发布 为贯彻落实提振消费相关政策，真实反映中国住宿餐饮业市场消费情况，以数据引导促消费政策精准发力，为行业发展提供参考建议，中国饭店协会每月公开发布“中国饭店业消费指数体系”，包含“中国住宿业消费指数（China Hotel Industry Consumption Index, HCI）”与“中国餐饮业消费指数(China Catering Industry Consumption Index, CCI)”，欢迎关注。",
+          "url": "https://www.chinahotel.org.cn/articles/17969",
+          "source": "中国饭店协会",
+          "source_name": "中国饭店协会",
+          "site_id": "chinahotel",
+          "published_at": "2026-09-11T21:00:41.663790Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.86,
+      "importance": 0.625,
+      "importance_score": 0.86,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-11T21:00:41.663790Z",
+      "latest_at": "2026-09-11T21:00:41.663790Z",
+      "primary_item": {
+        "id": "hotelitem_6afacb5ef78d",
+        "title": "指数发布 | 中国住宿业消费指数报告（2026年7月）发布 为贯彻落实提振消费相关政策，真实反映中国住宿餐饮业市场消费情况，以数据引导促消费政策精准发力，为行业发展提供参考建议，中国饭店协会每月公开发布“中国饭店业消费指数体系”，包含“中国住宿业消费指数（China Hotel Industry Consumption Index, HCI）”与“中国餐饮业消费指数(China Catering Industry Consumption Index, CCI)”，欢迎关注。",
+        "url": "https://www.chinahotel.org.cn/articles/17967",
+        "source": "中国饭店协会",
+        "source_name": "中国饭店协会"
       }
     },
     {
@@ -1001,14 +1098,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8605,
-      "importance": 0.5954,
-      "importance_score": 0.8605,
+      "score": 0.8597,
+      "importance": 0.5946,
+      "importance_score": 0.8597,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9769,
+        "recency": 0.9728,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1023,162 +1120,6 @@
         "url": "https://skift.com/2026/09/10/hotels-have-focused-on-coral-restoration-palladium-is-betting-on-seagrass-too/",
         "source": "Skift Hospitality",
         "source_name": "Skift Hospitality"
-      }
-    },
-    {
-      "story_id": "story_c7c15b7680c9",
-      "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
-      "url": "https://www.chinahotel.org.cn/articles/17408",
-      "primary_url": "https://www.chinahotel.org.cn/articles/17408",
-      "source": "中国饭店协会",
-      "source_name": "中国饭店协会",
-      "sources": [
-        {
-          "id": "hotelitem_d4370964909c",
-          "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
-          "url": "https://www.chinahotel.org.cn/articles/17408",
-          "source": "中国饭店协会",
-          "source_name": "中国饭店协会",
-          "site_id": "chinahotel",
-          "published_at": "2026-09-11T16:31:58.711105Z"
-        },
-        {
-          "id": "hotelitem_c7c15b7680c9",
-          "title": "绿色饭店 | 2026年第一批国家标准绿色饭店名单公布 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007) 在全国组织开展国家标准绿色饭店的评定工作。现公布2026年第一批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
-          "url": "https://www.chinahotel.org.cn/articles/17689",
-          "source": "中国饭店协会",
-          "source_name": "中国饭店协会",
-          "site_id": "chinahotel",
-          "published_at": "2026-09-11T16:31:58.711105Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "中国饭店协会"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_d4370964909c",
-          "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
-          "url": "https://www.chinahotel.org.cn/articles/17408",
-          "source": "中国饭店协会",
-          "source_name": "中国饭店协会",
-          "site_id": "chinahotel",
-          "published_at": "2026-09-11T16:31:58.711105Z"
-        },
-        {
-          "id": "hotelitem_c7c15b7680c9",
-          "title": "绿色饭店 | 2026年第一批国家标准绿色饭店名单公布 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007) 在全国组织开展国家标准绿色饭店的评定工作。现公布2026年第一批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
-          "url": "https://www.chinahotel.org.cn/articles/17689",
-          "source": "中国饭店协会",
-          "source_name": "中国饭店协会",
-          "site_id": "chinahotel",
-          "published_at": "2026-09-11T16:31:58.711105Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.86,
-      "importance": 0.625,
-      "importance_score": 0.86,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-11T16:31:58.711105Z",
-      "latest_at": "2026-09-11T16:31:58.711105Z",
-      "primary_item": {
-        "id": "hotelitem_d4370964909c",
-        "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
-        "url": "https://www.chinahotel.org.cn/articles/17408",
-        "source": "中国饭店协会",
-        "source_name": "中国饭店协会"
-      }
-    },
-    {
-      "story_id": "story_da923c0668b1",
-      "title": "指数发布 | 中国住宿业消费指数报告（2026年7月）发布 为贯彻落实提振消费相关政策，真实反映中国住宿餐饮业市场消费情况，以数据引导促消费政策精准发力，为行业发展提供参考建议，中国饭店协会每月公开发布“中国饭店业消费指数体系”，包含“中国住宿业消费指数（China Hotel Industry Consumption Index, HCI）”与“中国餐饮业消费指数(China Catering Industry Consumption Index, CCI)”，欢迎关注。",
-      "url": "https://www.chinahotel.org.cn/articles/17967",
-      "primary_url": "https://www.chinahotel.org.cn/articles/17967",
-      "source": "中国饭店协会",
-      "source_name": "中国饭店协会",
-      "sources": [
-        {
-          "id": "hotelitem_6afacb5ef78d",
-          "title": "指数发布 | 中国住宿业消费指数报告（2026年7月）发布 为贯彻落实提振消费相关政策，真实反映中国住宿餐饮业市场消费情况，以数据引导促消费政策精准发力，为行业发展提供参考建议，中国饭店协会每月公开发布“中国饭店业消费指数体系”，包含“中国住宿业消费指数（China Hotel Industry Consumption Index, HCI）”与“中国餐饮业消费指数(China Catering Industry Consumption Index, CCI)”，欢迎关注。",
-          "url": "https://www.chinahotel.org.cn/articles/17967",
-          "source": "中国饭店协会",
-          "source_name": "中国饭店协会",
-          "site_id": "chinahotel",
-          "published_at": "2026-09-11T16:31:58.711105Z"
-        },
-        {
-          "id": "hotelitem_da923c0668b1",
-          "title": "指数发布 | 中国餐饮业消费指数报告（2026年7月）发布 为贯彻落实提振消费相关政策，真实反映中国住宿餐饮业市场消费情况，以数据引导促消费政策精准发力，为行业发展提供参考建议，中国饭店协会每月公开发布“中国饭店业消费指数体系”，包含“中国住宿业消费指数（China Hotel Industry Consumption Index, HCI）”与“中国餐饮业消费指数(China Catering Industry Consumption Index, CCI)”，欢迎关注。",
-          "url": "https://www.chinahotel.org.cn/articles/17969",
-          "source": "中国饭店协会",
-          "source_name": "中国饭店协会",
-          "site_id": "chinahotel",
-          "published_at": "2026-09-11T16:31:58.711105Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "中国饭店协会"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_6afacb5ef78d",
-          "title": "指数发布 | 中国住宿业消费指数报告（2026年7月）发布 为贯彻落实提振消费相关政策，真实反映中国住宿餐饮业市场消费情况，以数据引导促消费政策精准发力，为行业发展提供参考建议，中国饭店协会每月公开发布“中国饭店业消费指数体系”，包含“中国住宿业消费指数（China Hotel Industry Consumption Index, HCI）”与“中国餐饮业消费指数(China Catering Industry Consumption Index, CCI)”，欢迎关注。",
-          "url": "https://www.chinahotel.org.cn/articles/17967",
-          "source": "中国饭店协会",
-          "source_name": "中国饭店协会",
-          "site_id": "chinahotel",
-          "published_at": "2026-09-11T16:31:58.711105Z"
-        },
-        {
-          "id": "hotelitem_da923c0668b1",
-          "title": "指数发布 | 中国餐饮业消费指数报告（2026年7月）发布 为贯彻落实提振消费相关政策，真实反映中国住宿餐饮业市场消费情况，以数据引导促消费政策精准发力，为行业发展提供参考建议，中国饭店协会每月公开发布“中国饭店业消费指数体系”，包含“中国住宿业消费指数（China Hotel Industry Consumption Index, HCI）”与“中国餐饮业消费指数(China Catering Industry Consumption Index, CCI)”，欢迎关注。",
-          "url": "https://www.chinahotel.org.cn/articles/17969",
-          "source": "中国饭店协会",
-          "source_name": "中国饭店协会",
-          "site_id": "chinahotel",
-          "published_at": "2026-09-11T16:31:58.711105Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.86,
-      "importance": 0.625,
-      "importance_score": 0.86,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-11T16:31:58.711105Z",
-      "latest_at": "2026-09-11T16:31:58.711105Z",
-      "primary_item": {
-        "id": "hotelitem_6afacb5ef78d",
-        "title": "指数发布 | 中国住宿业消费指数报告（2026年7月）发布 为贯彻落实提振消费相关政策，真实反映中国住宿餐饮业市场消费情况，以数据引导促消费政策精准发力，为行业发展提供参考建议，中国饭店协会每月公开发布“中国饭店业消费指数体系”，包含“中国住宿业消费指数（China Hotel Industry Consumption Index, HCI）”与“中国餐饮业消费指数(China Catering Industry Consumption Index, CCI)”，欢迎关注。",
-        "url": "https://www.chinahotel.org.cn/articles/17967",
-        "source": "中国饭店协会",
-        "source_name": "中国饭店协会"
       }
     },
     {
@@ -1216,14 +1157,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8596,
-      "importance": 0.5944,
-      "importance_score": 0.8596,
+      "score": 0.8588,
+      "importance": 0.5936,
+      "importance_score": 0.8588,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9722,
+        "recency": 0.968,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1255,7 +1196,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-09-11T16:31:58.711105Z"
+          "published_at": "2026-09-11T21:00:41.663790Z"
         }
       ],
       "source_count": 1,
@@ -1270,7 +1211,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-09-11T16:31:58.711105Z"
+          "published_at": "2026-09-11T21:00:41.663790Z"
         }
       ],
       "item_count": 1,
@@ -1289,8 +1230,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-11T16:31:58.711105Z",
-      "latest_at": "2026-09-11T16:31:58.711105Z",
+      "earliest_at": "2026-09-11T21:00:41.663790Z",
+      "latest_at": "2026-09-11T21:00:41.663790Z",
       "primary_item": {
         "id": "hotelitem_e4ce0593c384",
         "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
@@ -1314,7 +1255,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-09-11T16:31:58.711105Z"
+          "published_at": "2026-09-11T21:00:41.663790Z"
         }
       ],
       "source_count": 1,
@@ -1329,7 +1270,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-09-11T16:31:58.711105Z"
+          "published_at": "2026-09-11T21:00:41.663790Z"
         }
       ],
       "item_count": 1,
@@ -1348,8 +1289,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-11T16:31:58.711105Z",
-      "latest_at": "2026-09-11T16:31:58.711105Z",
+      "earliest_at": "2026-09-11T21:00:41.663790Z",
+      "latest_at": "2026-09-11T21:00:41.663790Z",
       "primary_item": {
         "id": "hotelitem_fa34986b4fc0",
         "title": "文化和旅游部、金融监管总局关于警惕借“保...",
@@ -1373,7 +1314,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-09-11T16:31:58.711105Z"
+          "published_at": "2026-09-11T21:00:41.663790Z"
         }
       ],
       "source_count": 1,
@@ -1388,7 +1329,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-09-11T16:31:58.711105Z"
+          "published_at": "2026-09-11T21:00:41.663790Z"
         }
       ],
       "item_count": 1,
@@ -1407,8 +1348,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-11T16:31:58.711105Z",
-      "latest_at": "2026-09-11T16:31:58.711105Z",
+      "earliest_at": "2026-09-11T21:00:41.663790Z",
+      "latest_at": "2026-09-11T21:00:41.663790Z",
       "primary_item": {
         "id": "hotelitem_8f218475e743",
         "title": "文化和旅游部发布2026年上半年国内居民出游数据情况",
@@ -1432,7 +1373,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-09-11T16:31:58.711105Z"
+          "published_at": "2026-09-11T21:00:41.663790Z"
         }
       ],
       "source_count": 1,
@@ -1447,7 +1388,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-09-11T16:31:58.711105Z"
+          "published_at": "2026-09-11T21:00:41.663790Z"
         }
       ],
       "item_count": 1,
@@ -1466,8 +1407,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-11T16:31:58.711105Z",
-      "latest_at": "2026-09-11T16:31:58.711105Z",
+      "earliest_at": "2026-09-11T21:00:41.663790Z",
+      "latest_at": "2026-09-11T21:00:41.663790Z",
       "primary_item": {
         "id": "hotelitem_492acb2b854b",
         "title": "文化和旅游部召开树立和践行正确政绩观学习...",
@@ -1511,14 +1452,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8571,
-      "importance": 0.5918,
-      "importance_score": 0.8571,
+      "score": 0.8563,
+      "importance": 0.5909,
+      "importance_score": 0.8563,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9588,
+        "recency": 0.9547,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1570,14 +1511,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.852,
-      "importance": 0.5865,
-      "importance_score": 0.852,
+      "score": 0.8512,
+      "importance": 0.5857,
+      "importance_score": 0.8512,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9325,
+        "recency": 0.9284,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1629,14 +1570,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8517,
-      "importance": 0.5862,
-      "importance_score": 0.8517,
+      "score": 0.8509,
+      "importance": 0.5853,
+      "importance_score": 0.8509,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9308,
+        "recency": 0.9267,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1654,180 +1595,239 @@
       }
     },
     {
-      "story_id": "story_bdf4e58188f5",
-      "title": "Ruby Group signs first hotel in Finland",
-      "url": "https://boutiquehotelnews.com/news/hotel/ruby-hotel-finland/?utm_source=rss&utm_medium=rss&utm_campaign=ruby-hotel-finland",
-      "primary_url": "https://boutiquehotelnews.com/news/hotel/ruby-hotel-finland/?utm_source=rss&utm_medium=rss&utm_campaign=ruby-hotel-finland",
-      "source": "Boutique Hotel News",
-      "source_name": "Boutique Hotel News",
+      "story_id": "story_e5f2d3de433d",
+      "title": "Bally’s CFO resigns weeks after going concern warning",
+      "url": "https://www.hoteldive.com/news/ballys-cfo-resigns-weeks-going-concern-warning/829768/",
+      "primary_url": "https://www.hoteldive.com/news/ballys-cfo-resigns-weeks-going-concern-warning/829768/",
+      "source": "Hotel Dive",
+      "source_name": "Hotel Dive",
       "sources": [
         {
-          "id": "hotelitem_bdf4e58188f5",
-          "title": "Ruby Group signs first hotel in Finland",
-          "url": "https://boutiquehotelnews.com/news/hotel/ruby-hotel-finland/?utm_source=rss&utm_medium=rss&utm_campaign=ruby-hotel-finland",
-          "source": "Boutique Hotel News",
-          "source_name": "Boutique Hotel News",
-          "site_id": "boutiquehotel",
-          "published_at": "2026-09-10T17:02:05Z"
+          "id": "hotelitem_e5f2d3de433d",
+          "title": "Bally’s CFO resigns weeks after going concern warning",
+          "url": "https://www.hoteldive.com/news/ballys-cfo-resigns-weeks-going-concern-warning/829768/",
+          "source": "Hotel Dive",
+          "source_name": "Hotel Dive",
+          "site_id": "hoteldive",
+          "published_at": "2026-09-04T17:45:24Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Boutique Hotel News"
+        "Hotel Dive"
       ],
       "items": [
         {
-          "id": "hotelitem_bdf4e58188f5",
-          "title": "Ruby Group signs first hotel in Finland",
-          "url": "https://boutiquehotelnews.com/news/hotel/ruby-hotel-finland/?utm_source=rss&utm_medium=rss&utm_campaign=ruby-hotel-finland",
-          "source": "Boutique Hotel News",
-          "source_name": "Boutique Hotel News",
-          "site_id": "boutiquehotel",
-          "published_at": "2026-09-10T17:02:05Z"
+          "id": "hotelitem_e5f2d3de433d",
+          "title": "Bally’s CFO resigns weeks after going concern warning",
+          "url": "https://www.hoteldive.com/news/ballys-cfo-resigns-weeks-going-concern-warning/829768/",
+          "source": "Hotel Dive",
+          "source_name": "Hotel Dive",
+          "site_id": "hoteldive",
+          "published_at": "2026-09-04T17:45:24Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8458,
-      "importance": 0.5956,
-      "importance_score": 0.8458,
+      "score": 0.8341,
+      "importance": 0.5683,
+      "importance_score": 0.8341,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9782,
+        "recency": 0.8414,
         "story_heat": 0.0
       },
       "category": "watch",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-10T17:02:05Z",
-      "latest_at": "2026-09-10T17:02:05Z",
+      "earliest_at": "2026-09-04T17:45:24Z",
+      "latest_at": "2026-09-04T17:45:24Z",
       "primary_item": {
-        "id": "hotelitem_bdf4e58188f5",
-        "title": "Ruby Group signs first hotel in Finland",
-        "url": "https://boutiquehotelnews.com/news/hotel/ruby-hotel-finland/?utm_source=rss&utm_medium=rss&utm_campaign=ruby-hotel-finland",
-        "source": "Boutique Hotel News",
-        "source_name": "Boutique Hotel News"
+        "id": "hotelitem_e5f2d3de433d",
+        "title": "Bally’s CFO resigns weeks after going concern warning",
+        "url": "https://www.hoteldive.com/news/ballys-cfo-resigns-weeks-going-concern-warning/829768/",
+        "source": "Hotel Dive",
+        "source_name": "Hotel Dive"
       }
     },
     {
-      "story_id": "story_07d6e0759d9e",
-      "title": "No-cost attendance for hospitality owners and operators at Urban Living Festival 2027",
-      "url": "https://boutiquehotelnews.com/news/industry/urban-living-festival-2027/?utm_source=rss&utm_medium=rss&utm_campaign=urban-living-festival-2027",
-      "primary_url": "https://boutiquehotelnews.com/news/industry/urban-living-festival-2027/?utm_source=rss&utm_medium=rss&utm_campaign=urban-living-festival-2027",
-      "source": "Boutique Hotel News",
-      "source_name": "Boutique Hotel News",
+      "story_id": "story_3f57c01412f9",
+      "title": "Tuniu to Report Second Quarter 2026 Financial Results on August 25, 2026",
+      "url": "https://ir.tuniu.com/2026-08-12-Tuniu-to-Report-Second-Quarter-2026-Financial-Results-on-August-25,-2026",
+      "primary_url": "https://ir.tuniu.com/2026-08-12-Tuniu-to-Report-Second-Quarter-2026-Financial-Results-on-August-25,-2026",
+      "source": "途牛 Tuniu IR",
+      "source_name": "途牛 Tuniu IR",
       "sources": [
         {
-          "id": "hotelitem_07d6e0759d9e",
-          "title": "No-cost attendance for hospitality owners and operators at Urban Living Festival 2027",
-          "url": "https://boutiquehotelnews.com/news/industry/urban-living-festival-2027/?utm_source=rss&utm_medium=rss&utm_campaign=urban-living-festival-2027",
-          "source": "Boutique Hotel News",
-          "source_name": "Boutique Hotel News",
-          "site_id": "boutiquehotel",
-          "published_at": "2026-09-09T08:30:50Z"
+          "id": "hotelitem_3f57c01412f9",
+          "title": "Tuniu to Report Second Quarter 2026 Financial Results on August 25, 2026",
+          "url": "https://ir.tuniu.com/2026-08-12-Tuniu-to-Report-Second-Quarter-2026-Financial-Results-on-August-25,-2026",
+          "source": "途牛 Tuniu IR",
+          "source_name": "途牛 Tuniu IR",
+          "site_id": "tuniu_ir",
+          "published_at": "2026-08-12T06:00:00Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Boutique Hotel News"
+        "途牛 Tuniu IR"
       ],
       "items": [
         {
-          "id": "hotelitem_07d6e0759d9e",
-          "title": "No-cost attendance for hospitality owners and operators at Urban Living Festival 2027",
-          "url": "https://boutiquehotelnews.com/news/industry/urban-living-festival-2027/?utm_source=rss&utm_medium=rss&utm_campaign=urban-living-festival-2027",
-          "source": "Boutique Hotel News",
-          "source_name": "Boutique Hotel News",
-          "site_id": "boutiquehotel",
-          "published_at": "2026-09-09T08:30:50Z"
+          "id": "hotelitem_3f57c01412f9",
+          "title": "Tuniu to Report Second Quarter 2026 Financial Results on August 25, 2026",
+          "url": "https://ir.tuniu.com/2026-08-12-Tuniu-to-Report-Second-Quarter-2026-Financial-Results-on-August-25,-2026",
+          "source": "途牛 Tuniu IR",
+          "source_name": "途牛 Tuniu IR",
+          "site_id": "tuniu_ir",
+          "published_at": "2026-08-12T06:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.84,
-      "importance": 0.5896,
-      "importance_score": 0.84,
+      "score": 0.8287,
+      "importance": 0.4639,
+      "importance_score": 0.8287,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9481,
+        "recency": 0.3194,
         "story_heat": 0.0
       },
       "category": "watch",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-09T08:30:50Z",
-      "latest_at": "2026-09-09T08:30:50Z",
+      "earliest_at": "2026-08-12T06:00:00Z",
+      "latest_at": "2026-08-12T06:00:00Z",
       "primary_item": {
-        "id": "hotelitem_07d6e0759d9e",
-        "title": "No-cost attendance for hospitality owners and operators at Urban Living Festival 2027",
-        "url": "https://boutiquehotelnews.com/news/industry/urban-living-festival-2027/?utm_source=rss&utm_medium=rss&utm_campaign=urban-living-festival-2027",
-        "source": "Boutique Hotel News",
-        "source_name": "Boutique Hotel News"
+        "id": "hotelitem_3f57c01412f9",
+        "title": "Tuniu to Report Second Quarter 2026 Financial Results on August 25, 2026",
+        "url": "https://ir.tuniu.com/2026-08-12-Tuniu-to-Report-Second-Quarter-2026-Financial-Results-on-August-25,-2026",
+        "source": "途牛 Tuniu IR",
+        "source_name": "途牛 Tuniu IR"
       }
     },
     {
-      "story_id": "story_6f466bc19129",
-      "title": "The Hoxton to make Middle East debut",
-      "url": "https://boutiquehotelnews.com/news/hotel/the-hoxton-middle-east/?utm_source=rss&utm_medium=rss&utm_campaign=the-hoxton-middle-east",
-      "primary_url": "https://boutiquehotelnews.com/news/hotel/the-hoxton-middle-east/?utm_source=rss&utm_medium=rss&utm_campaign=the-hoxton-middle-east",
-      "source": "Boutique Hotel News",
-      "source_name": "Boutique Hotel News",
+      "story_id": "story_36279105b1aa",
+      "title": "众信旅游亮相2026服贸会",
+      "url": "https://www.pinchain.com/article/350877",
+      "primary_url": "https://www.pinchain.com/article/350877",
+      "source": "品橙旅游",
+      "source_name": "品橙旅游",
       "sources": [
         {
-          "id": "hotelitem_6f466bc19129",
-          "title": "The Hoxton to make Middle East debut",
-          "url": "https://boutiquehotelnews.com/news/hotel/the-hoxton-middle-east/?utm_source=rss&utm_medium=rss&utm_campaign=the-hoxton-middle-east",
-          "source": "Boutique Hotel News",
-          "source_name": "Boutique Hotel News",
-          "site_id": "boutiquehotel",
-          "published_at": "2026-09-09T08:45:33Z"
+          "id": "hotelitem_36279105b1aa",
+          "title": "众信旅游亮相2026服贸会",
+          "url": "https://www.pinchain.com/article/350877",
+          "source": "品橙旅游",
+          "source_name": "品橙旅游",
+          "site_id": "pinchain",
+          "published_at": "2026-09-11T05:56:53Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Boutique Hotel News"
+        "品橙旅游"
       ],
       "items": [
         {
-          "id": "hotelitem_6f466bc19129",
-          "title": "The Hoxton to make Middle East debut",
-          "url": "https://boutiquehotelnews.com/news/hotel/the-hoxton-middle-east/?utm_source=rss&utm_medium=rss&utm_campaign=the-hoxton-middle-east",
-          "source": "Boutique Hotel News",
-          "source_name": "Boutique Hotel News",
-          "site_id": "boutiquehotel",
-          "published_at": "2026-09-09T08:45:33Z"
+          "id": "hotelitem_36279105b1aa",
+          "title": "众信旅游亮相2026服贸会",
+          "url": "https://www.pinchain.com/article/350877",
+          "source": "品橙旅游",
+          "source_name": "品橙旅游",
+          "site_id": "pinchain",
+          "published_at": "2026-09-11T05:56:53Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.84,
-      "importance": 0.5897,
-      "importance_score": 0.84,
+      "score": 0.8148,
+      "importance": 0.5972,
+      "importance_score": 0.8148,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9484,
+        "recency": 0.9861,
         "story_heat": 0.0
       },
       "category": "watch",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-09T08:45:33Z",
-      "latest_at": "2026-09-09T08:45:33Z",
+      "earliest_at": "2026-09-11T05:56:53Z",
+      "latest_at": "2026-09-11T05:56:53Z",
       "primary_item": {
-        "id": "hotelitem_6f466bc19129",
-        "title": "The Hoxton to make Middle East debut",
-        "url": "https://boutiquehotelnews.com/news/hotel/the-hoxton-middle-east/?utm_source=rss&utm_medium=rss&utm_campaign=the-hoxton-middle-east",
-        "source": "Boutique Hotel News",
-        "source_name": "Boutique Hotel News"
+        "id": "hotelitem_36279105b1aa",
+        "title": "众信旅游亮相2026服贸会",
+        "url": "https://www.pinchain.com/article/350877",
+        "source": "品橙旅游",
+        "source_name": "品橙旅游"
+      }
+    },
+    {
+      "story_id": "story_ef809601808e",
+      "title": "Hyatt, Delta team up to offer loyalty perks across full travel journey",
+      "url": "https://www.hoteldive.com/news/hyatt-hotels-delta-airlines-loyalty-partnership/830021/",
+      "primary_url": "https://www.hoteldive.com/news/hyatt-hotels-delta-airlines-loyalty-partnership/830021/",
+      "source": "Hotel Dive",
+      "source_name": "Hotel Dive",
+      "sources": [
+        {
+          "id": "hotelitem_ef809601808e",
+          "title": "Hyatt, Delta team up to offer loyalty perks across full travel journey",
+          "url": "https://www.hoteldive.com/news/hyatt-hotels-delta-airlines-loyalty-partnership/830021/",
+          "source": "Hotel Dive",
+          "source_name": "Hotel Dive",
+          "site_id": "hoteldive",
+          "published_at": "2026-09-10T13:27:44Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hotel Dive"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_ef809601808e",
+          "title": "Hyatt, Delta team up to offer loyalty perks across full travel journey",
+          "url": "https://www.hoteldive.com/news/hyatt-hotels-delta-airlines-loyalty-partnership/830021/",
+          "source": "Hotel Dive",
+          "source_name": "Hotel Dive",
+          "site_id": "hoteldive",
+          "published_at": "2026-09-10T13:27:44Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8144,
+      "importance": 0.5942,
+      "importance_score": 0.8144,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9708,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-10T13:27:44Z",
+      "latest_at": "2026-09-10T13:27:44Z",
+      "primary_item": {
+        "id": "hotelitem_ef809601808e",
+        "title": "Hyatt, Delta team up to offer loyalty perks across full travel journey",
+        "url": "https://www.hoteldive.com/news/hyatt-hotels-delta-airlines-loyalty-partnership/830021/",
+        "source": "Hotel Dive",
+        "source_name": "Hotel Dive"
       }
     }
   ]
