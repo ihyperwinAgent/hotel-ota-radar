@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T21:24:34.092309Z",
+  "generated_at": "2026-09-16T04:53:58.874726Z",
   "window_hours": 1080,
   "total_items": 30,
   "items": [
@@ -39,13 +39,13 @@
       "item_count": 1,
       "duplicate_count": 1,
       "score": 1.0,
-      "importance": 0.5974,
+      "importance": 0.596,
       "importance_score": 1.0,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9869,
+        "recency": 0.98,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -60,6 +60,183 @@
         "url": "https://www.pinchain.com/article/351051",
         "source": "品橙旅游",
         "source_name": "品橙旅游"
+      }
+    },
+    {
+      "story_id": "story_4a00474fd3b3",
+      "title": "携程Q2营收157亿元，由盈转亏24亿",
+      "url": "https://www.traveldaily.cn/article/190696",
+      "primary_url": "https://www.traveldaily.cn/article/190696",
+      "source": "环球旅讯 TravelDaily",
+      "source_name": "环球旅讯 TravelDaily",
+      "sources": [
+        {
+          "id": "hotelitem_4a00474fd3b3",
+          "title": "携程Q2营收157亿元，由盈转亏24亿",
+          "url": "https://www.traveldaily.cn/article/190696",
+          "source": "环球旅讯 TravelDaily",
+          "source_name": "环球旅讯 TravelDaily",
+          "site_id": "traveldaily",
+          "published_at": "2026-09-16T07:12:10Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "环球旅讯 TravelDaily"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_4a00474fd3b3",
+          "title": "携程Q2营收157亿元，由盈转亏24亿",
+          "url": "https://www.traveldaily.cn/article/190696",
+          "source": "环球旅讯 TravelDaily",
+          "source_name": "环球旅讯 TravelDaily",
+          "site_id": "traveldaily",
+          "published_at": "2026-09-16T07:12:10Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 1.0,
+      "importance": 0.6,
+      "importance_score": 1.0,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-16T07:12:10Z",
+      "latest_at": "2026-09-16T07:12:10Z",
+      "primary_item": {
+        "id": "hotelitem_4a00474fd3b3",
+        "title": "携程Q2营收157亿元，由盈转亏24亿",
+        "url": "https://www.traveldaily.cn/article/190696",
+        "source": "环球旅讯 TravelDaily",
+        "source_name": "环球旅讯 TravelDaily"
+      }
+    },
+    {
+      "story_id": "story_df6c4e5e0eee",
+      "title": "Accor Considers Acquisitions in India After Treebo Deal Falls Apart",
+      "url": "https://skift.com/2026/09/15/accor-considers-acquisitions-in-india-after-treebo-deal-falls-apart/",
+      "primary_url": "https://skift.com/2026/09/15/accor-considers-acquisitions-in-india-after-treebo-deal-falls-apart/",
+      "source": "Skift Hospitality",
+      "source_name": "Skift Hospitality",
+      "sources": [
+        {
+          "id": "hotelitem_df6c4e5e0eee",
+          "title": "Accor Considers Acquisitions in India After Treebo Deal Falls Apart",
+          "url": "https://skift.com/2026/09/15/accor-considers-acquisitions-in-india-after-treebo-deal-falls-apart/",
+          "source": "Skift Hospitality",
+          "source_name": "Skift Hospitality",
+          "site_id": "skift",
+          "published_at": "2026-09-16T03:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Skift Hospitality"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_df6c4e5e0eee",
+          "title": "Accor Considers Acquisitions in India After Treebo Deal Falls Apart",
+          "url": "https://skift.com/2026/09/15/accor-considers-acquisitions-in-india-after-treebo-deal-falls-apart/",
+          "source": "Skift Hospitality",
+          "source_name": "Skift Hospitality",
+          "site_id": "skift",
+          "published_at": "2026-09-16T03:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.9547,
+      "importance": 0.5996,
+      "importance_score": 0.9547,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9982,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-16T03:00:00Z",
+      "latest_at": "2026-09-16T03:00:00Z",
+      "primary_item": {
+        "id": "hotelitem_df6c4e5e0eee",
+        "title": "Accor Considers Acquisitions in India After Treebo Deal Falls Apart",
+        "url": "https://skift.com/2026/09/15/accor-considers-acquisitions-in-india-after-treebo-deal-falls-apart/",
+        "source": "Skift Hospitality",
+        "source_name": "Skift Hospitality"
+      }
+    },
+    {
+      "story_id": "story_44c25553d3df",
+      "title": "Finnair Plus and Radisson Rewards launch strategic loyalty partnership",
+      "url": "https://insights.ehotelier.com/global-news/2026/09/16/finnair-plus-and-radisson-rewards-launch-strategic-loyalty-partnership/?utm_source=rss&utm_medium=rss&utm_campaign=finnair-plus-and-radisson-rewards-launch-strategic-loyalty-partnership",
+      "primary_url": "https://insights.ehotelier.com/global-news/2026/09/16/finnair-plus-and-radisson-rewards-launch-strategic-loyalty-partnership/?utm_source=rss&utm_medium=rss&utm_campaign=finnair-plus-and-radisson-rewards-launch-strategic-loyalty-partnership",
+      "source": "eHotelier",
+      "source_name": "eHotelier",
+      "sources": [
+        {
+          "id": "hotelitem_44c25553d3df",
+          "title": "Finnair Plus and Radisson Rewards launch strategic loyalty partnership",
+          "url": "https://insights.ehotelier.com/global-news/2026/09/16/finnair-plus-and-radisson-rewards-launch-strategic-loyalty-partnership/?utm_source=rss&utm_medium=rss&utm_campaign=finnair-plus-and-radisson-rewards-launch-strategic-loyalty-partnership",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-09-16T01:50:16Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "eHotelier"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_44c25553d3df",
+          "title": "Finnair Plus and Radisson Rewards launch strategic loyalty partnership",
+          "url": "https://insights.ehotelier.com/global-news/2026/09/16/finnair-plus-and-radisson-rewards-launch-strategic-loyalty-partnership/?utm_source=rss&utm_medium=rss&utm_campaign=finnair-plus-and-radisson-rewards-launch-strategic-loyalty-partnership",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-09-16T01:50:16Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.9545,
+      "importance": 0.5994,
+      "importance_score": 0.9545,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9972,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-16T01:50:16Z",
+      "latest_at": "2026-09-16T01:50:16Z",
+      "primary_item": {
+        "id": "hotelitem_44c25553d3df",
+        "title": "Finnair Plus and Radisson Rewards launch strategic loyalty partnership",
+        "url": "https://insights.ehotelier.com/global-news/2026/09/16/finnair-plus-and-radisson-rewards-launch-strategic-loyalty-partnership/?utm_source=rss&utm_medium=rss&utm_campaign=finnair-plus-and-radisson-rewards-launch-strategic-loyalty-partnership",
+        "source": "eHotelier",
+        "source_name": "eHotelier"
       }
     },
     {
@@ -97,14 +274,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9536,
-      "importance": 0.5985,
-      "importance_score": 0.9536,
+      "score": 0.9522,
+      "importance": 0.5971,
+      "importance_score": 0.9522,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9926,
+        "recency": 0.9857,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -119,65 +296,6 @@
         "url": "https://www.hoteldive.com/news/braemar-shareholder-al-shams-nominates-board-directors/830385/",
         "source": "Hotel Dive",
         "source_name": "Hotel Dive"
-      }
-    },
-    {
-      "story_id": "story_3ef9efc49548",
-      "title": "Hyatt announces long-term strategic collaboration with Delta Air Lines to add highly sought after benefits for members across the globe",
-      "url": "https://insights.ehotelier.com/global-news/2026/09/15/hyatt-announces-long-term-strategic-collaboration-with-delta-air-lines-to-add-highly-sought-after-benefits-for-members-across-the-globe/?utm_source=rss&utm_medium=rss&utm_campaign=hyatt-announces-long-term-strategic-collaboration-with-delta-air-lines-to-add-highly-sought-after-benefits-for-members-across-the-globe",
-      "primary_url": "https://insights.ehotelier.com/global-news/2026/09/15/hyatt-announces-long-term-strategic-collaboration-with-delta-air-lines-to-add-highly-sought-after-benefits-for-members-across-the-globe/?utm_source=rss&utm_medium=rss&utm_campaign=hyatt-announces-long-term-strategic-collaboration-with-delta-air-lines-to-add-highly-sought-after-benefits-for-members-across-the-globe",
-      "source": "eHotelier",
-      "source_name": "eHotelier",
-      "sources": [
-        {
-          "id": "hotelitem_3ef9efc49548",
-          "title": "Hyatt announces long-term strategic collaboration with Delta Air Lines to add highly sought after benefits for members across the globe",
-          "url": "https://insights.ehotelier.com/global-news/2026/09/15/hyatt-announces-long-term-strategic-collaboration-with-delta-air-lines-to-add-highly-sought-after-benefits-for-members-across-the-globe/?utm_source=rss&utm_medium=rss&utm_campaign=hyatt-announces-long-term-strategic-collaboration-with-delta-air-lines-to-add-highly-sought-after-benefits-for-members-across-the-globe",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-09-15T01:50:47Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "eHotelier"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_3ef9efc49548",
-          "title": "Hyatt announces long-term strategic collaboration with Delta Air Lines to add highly sought after benefits for members across the globe",
-          "url": "https://insights.ehotelier.com/global-news/2026/09/15/hyatt-announces-long-term-strategic-collaboration-with-delta-air-lines-to-add-highly-sought-after-benefits-for-members-across-the-globe/?utm_source=rss&utm_medium=rss&utm_campaign=hyatt-announces-long-term-strategic-collaboration-with-delta-air-lines-to-add-highly-sought-after-benefits-for-members-across-the-globe",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-09-15T01:50:47Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.9515,
-      "importance": 0.5964,
-      "importance_score": 0.9515,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9819,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-15T01:50:47Z",
-      "latest_at": "2026-09-15T01:50:47Z",
-      "primary_item": {
-        "id": "hotelitem_3ef9efc49548",
-        "title": "Hyatt announces long-term strategic collaboration with Delta Air Lines to add highly sought after benefits for members across the globe",
-        "url": "https://insights.ehotelier.com/global-news/2026/09/15/hyatt-announces-long-term-strategic-collaboration-with-delta-air-lines-to-add-highly-sought-after-benefits-for-members-across-the-globe/?utm_source=rss&utm_medium=rss&utm_campaign=hyatt-announces-long-term-strategic-collaboration-with-delta-air-lines-to-add-highly-sought-after-benefits-for-members-across-the-globe",
-        "source": "eHotelier",
-        "source_name": "eHotelier"
       }
     },
     {
@@ -215,14 +333,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9506,
-      "importance": 0.5954,
-      "importance_score": 0.9506,
+      "score": 0.9493,
+      "importance": 0.594,
+      "importance_score": 0.9493,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9772,
+        "recency": 0.9702,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -274,14 +392,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9502,
-      "importance": 0.595,
-      "importance_score": 0.9502,
+      "score": 0.9488,
+      "importance": 0.5936,
+      "importance_score": 0.9488,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9749,
+        "recency": 0.9679,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -333,14 +451,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9365,
-      "importance": 0.5808,
-      "importance_score": 0.9365,
+      "score": 0.9352,
+      "importance": 0.5795,
+      "importance_score": 0.9352,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9042,
+        "recency": 0.8973,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -392,14 +510,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9365,
-      "importance": 0.5809,
-      "importance_score": 0.9365,
+      "score": 0.9352,
+      "importance": 0.5795,
+      "importance_score": 0.9352,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9043,
+        "recency": 0.8973,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -417,6 +535,65 @@
       }
     },
     {
+      "story_id": "story_13fcdaac6a59",
+      "title": "UK’s first JdV by Hyatt hotel set to open in Oxfordshire",
+      "url": "https://boutiquehotelnews.com/news/hotel/uk-jdv-hyatt-oxfordshire/?utm_source=rss&utm_medium=rss&utm_campaign=uk-jdv-hyatt-oxfordshire",
+      "primary_url": "https://boutiquehotelnews.com/news/hotel/uk-jdv-hyatt-oxfordshire/?utm_source=rss&utm_medium=rss&utm_campaign=uk-jdv-hyatt-oxfordshire",
+      "source": "Boutique Hotel News",
+      "source_name": "Boutique Hotel News",
+      "sources": [
+        {
+          "id": "hotelitem_13fcdaac6a59",
+          "title": "UK’s first JdV by Hyatt hotel set to open in Oxfordshire",
+          "url": "https://boutiquehotelnews.com/news/hotel/uk-jdv-hyatt-oxfordshire/?utm_source=rss&utm_medium=rss&utm_campaign=uk-jdv-hyatt-oxfordshire",
+          "source": "Boutique Hotel News",
+          "source_name": "Boutique Hotel News",
+          "site_id": "boutiquehotel",
+          "published_at": "2026-09-08T13:06:13Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Boutique Hotel News"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_13fcdaac6a59",
+          "title": "UK’s first JdV by Hyatt hotel set to open in Oxfordshire",
+          "url": "https://boutiquehotelnews.com/news/hotel/uk-jdv-hyatt-oxfordshire/?utm_source=rss&utm_medium=rss&utm_campaign=uk-jdv-hyatt-oxfordshire",
+          "source": "Boutique Hotel News",
+          "source_name": "Boutique Hotel News",
+          "site_id": "boutiquehotel",
+          "published_at": "2026-09-08T13:06:13Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.9057,
+      "importance": 0.566,
+      "importance_score": 0.9057,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.8298,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-08T13:06:13Z",
+      "latest_at": "2026-09-08T13:06:13Z",
+      "primary_item": {
+        "id": "hotelitem_13fcdaac6a59",
+        "title": "UK’s first JdV by Hyatt hotel set to open in Oxfordshire",
+        "url": "https://boutiquehotelnews.com/news/hotel/uk-jdv-hyatt-oxfordshire/?utm_source=rss&utm_medium=rss&utm_campaign=uk-jdv-hyatt-oxfordshire",
+        "source": "Boutique Hotel News",
+        "source_name": "Boutique Hotel News"
+      }
+    },
+    {
       "story_id": "story_06f191e24d38",
       "title": "文旅惠报|复星国际申请分拆Club Med在港上市；南京商旅上半年营收3.66亿元",
       "url": "https://www.tripvivid.com/47868.html",
@@ -431,7 +608,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-09-15T21:24:34.092309Z"
+          "published_at": "2026-09-16T04:53:58.874726Z"
         }
       ],
       "source_count": 1,
@@ -446,7 +623,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-09-15T21:24:34.092309Z"
+          "published_at": "2026-09-16T04:53:58.874726Z"
         }
       ],
       "item_count": 1,
@@ -465,8 +642,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-15T21:24:34.092309Z",
-      "latest_at": "2026-09-15T21:24:34.092309Z",
+      "earliest_at": "2026-09-16T04:53:58.874726Z",
+      "latest_at": "2026-09-16T04:53:58.874726Z",
       "primary_item": {
         "id": "hotelitem_06f191e24d38",
         "title": "文旅惠报|复星国际申请分拆Club Med在港上市；南京商旅上半年营收3.66亿元",
@@ -510,14 +687,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8784,
-      "importance": 0.5371,
-      "importance_score": 0.8784,
+      "score": 0.8764,
+      "importance": 0.5357,
+      "importance_score": 0.8764,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.6857,
+        "recency": 0.6787,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -535,62 +712,258 @@
       }
     },
     {
-      "story_id": "story_0401a81fde93",
-      "title": "多国重点项目达成签约合作，艺龙酒店科技亮相澳门高品会",
-      "url": "https://www.traveldaily.cn/article/190689",
-      "primary_url": "https://www.traveldaily.cn/article/190689",
-      "source": "环球旅讯 TravelDaily",
-      "source_name": "环球旅讯 TravelDaily",
+      "story_id": "story_16e39af7d6e7",
+      "title": "Newly opened Elizabeth Unique Venice joins Design Hotels as its first member in Venice",
+      "url": "https://insights.ehotelier.com/properties/2026/09/16/newly-opened-elizabeth-unique-venice-joins-design-hotels-as-its-first-member-in-venice-2/?utm_source=rss&utm_medium=rss&utm_campaign=newly-opened-elizabeth-unique-venice-joins-design-hotels-as-its-first-member-in-venice-2",
+      "primary_url": "https://insights.ehotelier.com/properties/2026/09/16/newly-opened-elizabeth-unique-venice-joins-design-hotels-as-its-first-member-in-venice-2/?utm_source=rss&utm_medium=rss&utm_campaign=newly-opened-elizabeth-unique-venice-joins-design-hotels-as-its-first-member-in-venice-2",
+      "source": "eHotelier",
+      "source_name": "eHotelier",
       "sources": [
         {
-          "id": "hotelitem_0401a81fde93",
-          "title": "多国重点项目达成签约合作，艺龙酒店科技亮相澳门高品会",
-          "url": "https://www.traveldaily.cn/article/190689",
-          "source": "环球旅讯 TravelDaily",
-          "source_name": "环球旅讯 TravelDaily",
-          "site_id": "traveldaily",
-          "published_at": "2026-09-14T17:12:42Z"
+          "id": "hotelitem_16e39af7d6e7",
+          "title": "Newly opened Elizabeth Unique Venice joins Design Hotels as its first member in Venice",
+          "url": "https://insights.ehotelier.com/properties/2026/09/16/newly-opened-elizabeth-unique-venice-joins-design-hotels-as-its-first-member-in-venice-2/?utm_source=rss&utm_medium=rss&utm_campaign=newly-opened-elizabeth-unique-venice-joins-design-hotels-as-its-first-member-in-venice-2",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-09-16T01:30:52Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "环球旅讯 TravelDaily"
+        "eHotelier"
       ],
       "items": [
         {
-          "id": "hotelitem_0401a81fde93",
-          "title": "多国重点项目达成签约合作，艺龙酒店科技亮相澳门高品会",
-          "url": "https://www.traveldaily.cn/article/190689",
-          "source": "环球旅讯 TravelDaily",
-          "source_name": "环球旅讯 TravelDaily",
-          "site_id": "traveldaily",
-          "published_at": "2026-09-14T17:12:42Z"
+          "id": "hotelitem_16e39af7d6e7",
+          "title": "Newly opened Elizabeth Unique Venice joins Design Hotels as its first member in Venice",
+          "url": "https://insights.ehotelier.com/properties/2026/09/16/newly-opened-elizabeth-unique-venice-joins-design-hotels-as-its-first-member-in-venice-2/?utm_source=rss&utm_medium=rss&utm_campaign=newly-opened-elizabeth-unique-venice-joins-design-hotels-as-its-first-member-in-venice-2",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-09-16T01:30:52Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8725,
-      "importance": 0.5948,
-      "importance_score": 0.8725,
+      "score": 0.8644,
+      "importance": 0.5994,
+      "importance_score": 0.8644,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9739,
+        "recency": 0.9969,
         "story_heat": 0.0
       },
       "category": "watch",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-14T17:12:42Z",
-      "latest_at": "2026-09-14T17:12:42Z",
+      "earliest_at": "2026-09-16T01:30:52Z",
+      "latest_at": "2026-09-16T01:30:52Z",
       "primary_item": {
-        "id": "hotelitem_0401a81fde93",
-        "title": "多国重点项目达成签约合作，艺龙酒店科技亮相澳门高品会",
-        "url": "https://www.traveldaily.cn/article/190689",
-        "source": "环球旅讯 TravelDaily",
-        "source_name": "环球旅讯 TravelDaily"
+        "id": "hotelitem_16e39af7d6e7",
+        "title": "Newly opened Elizabeth Unique Venice joins Design Hotels as its first member in Venice",
+        "url": "https://insights.ehotelier.com/properties/2026/09/16/newly-opened-elizabeth-unique-venice-joins-design-hotels-as-its-first-member-in-venice-2/?utm_source=rss&utm_medium=rss&utm_campaign=newly-opened-elizabeth-unique-venice-joins-design-hotels-as-its-first-member-in-venice-2",
+        "source": "eHotelier",
+        "source_name": "eHotelier"
+      }
+    },
+    {
+      "story_id": "story_0fe6dd99c98d",
+      "title": "AMAALA Yacht Club opens, bringing a new luxury sailing destination to the Red Sea",
+      "url": "https://insights.ehotelier.com/properties/2026/09/16/amaala-yacht-club-opens-bringing-a-new-luxury-sailing-destination-to-the-red-sea/?utm_source=rss&utm_medium=rss&utm_campaign=amaala-yacht-club-opens-bringing-a-new-luxury-sailing-destination-to-the-red-sea",
+      "primary_url": "https://insights.ehotelier.com/properties/2026/09/16/amaala-yacht-club-opens-bringing-a-new-luxury-sailing-destination-to-the-red-sea/?utm_source=rss&utm_medium=rss&utm_campaign=amaala-yacht-club-opens-bringing-a-new-luxury-sailing-destination-to-the-red-sea",
+      "source": "eHotelier",
+      "source_name": "eHotelier",
+      "sources": [
+        {
+          "id": "hotelitem_0fe6dd99c98d",
+          "title": "AMAALA Yacht Club opens, bringing a new luxury sailing destination to the Red Sea",
+          "url": "https://insights.ehotelier.com/properties/2026/09/16/amaala-yacht-club-opens-bringing-a-new-luxury-sailing-destination-to-the-red-sea/?utm_source=rss&utm_medium=rss&utm_campaign=amaala-yacht-club-opens-bringing-a-new-luxury-sailing-destination-to-the-red-sea",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-09-16T01:35:17Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "eHotelier"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_0fe6dd99c98d",
+          "title": "AMAALA Yacht Club opens, bringing a new luxury sailing destination to the Red Sea",
+          "url": "https://insights.ehotelier.com/properties/2026/09/16/amaala-yacht-club-opens-bringing-a-new-luxury-sailing-destination-to-the-red-sea/?utm_source=rss&utm_medium=rss&utm_campaign=amaala-yacht-club-opens-bringing-a-new-luxury-sailing-destination-to-the-red-sea",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-09-16T01:35:17Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8644,
+      "importance": 0.5994,
+      "importance_score": 0.8644,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9969,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-16T01:35:17Z",
+      "latest_at": "2026-09-16T01:35:17Z",
+      "primary_item": {
+        "id": "hotelitem_0fe6dd99c98d",
+        "title": "AMAALA Yacht Club opens, bringing a new luxury sailing destination to the Red Sea",
+        "url": "https://insights.ehotelier.com/properties/2026/09/16/amaala-yacht-club-opens-bringing-a-new-luxury-sailing-destination-to-the-red-sea/?utm_source=rss&utm_medium=rss&utm_campaign=amaala-yacht-club-opens-bringing-a-new-luxury-sailing-destination-to-the-red-sea",
+        "source": "eHotelier",
+        "source_name": "eHotelier"
+      }
+    },
+    {
+      "story_id": "story_7c278efcf94d",
+      "title": "Your Hotel’s Strategy Shouldn’t Live in Your Head",
+      "url": "https://insights.ehotelier.com/announcements/2026/09/16/your-hotels-strategy-shouldnt-live-in-your-head/?utm_source=rss&utm_medium=rss&utm_campaign=your-hotels-strategy-shouldnt-live-in-your-head",
+      "primary_url": "https://insights.ehotelier.com/announcements/2026/09/16/your-hotels-strategy-shouldnt-live-in-your-head/?utm_source=rss&utm_medium=rss&utm_campaign=your-hotels-strategy-shouldnt-live-in-your-head",
+      "source": "eHotelier",
+      "source_name": "eHotelier",
+      "sources": [
+        {
+          "id": "hotelitem_7c278efcf94d",
+          "title": "Your Hotel’s Strategy Shouldn’t Live in Your Head",
+          "url": "https://insights.ehotelier.com/announcements/2026/09/16/your-hotels-strategy-shouldnt-live-in-your-head/?utm_source=rss&utm_medium=rss&utm_campaign=your-hotels-strategy-shouldnt-live-in-your-head",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-09-15T23:00:05Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "eHotelier"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_7c278efcf94d",
+          "title": "Your Hotel’s Strategy Shouldn’t Live in Your Head",
+          "url": "https://insights.ehotelier.com/announcements/2026/09/16/your-hotels-strategy-shouldnt-live-in-your-head/?utm_source=rss&utm_medium=rss&utm_campaign=your-hotels-strategy-shouldnt-live-in-your-head",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-09-15T23:00:05Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8639,
+      "importance": 0.5989,
+      "importance_score": 0.8639,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9945,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-15T23:00:05Z",
+      "latest_at": "2026-09-15T23:00:05Z",
+      "primary_item": {
+        "id": "hotelitem_7c278efcf94d",
+        "title": "Your Hotel’s Strategy Shouldn’t Live in Your Head",
+        "url": "https://insights.ehotelier.com/announcements/2026/09/16/your-hotels-strategy-shouldnt-live-in-your-head/?utm_source=rss&utm_medium=rss&utm_campaign=your-hotels-strategy-shouldnt-live-in-your-head",
+        "source": "eHotelier",
+        "source_name": "eHotelier"
+      }
+    },
+    {
+      "story_id": "story_4f1065fc8e95",
+      "title": "Agoda Reveals Growing Travel Interest Ahead  ... Singapore, 3 September 2026: Agoda Company Pte. Ltd. (Headquarters: Singapore; CEO: Omri Morgenshtern) ... September 3, 2026 / Travel Trends",
+      "url": "https://www.agoda.com/press/agoda-reveals-growing-travel-interest-ahead-of-one-of-asias-leading-sporting-events-to-be-held-in-japan-in-fall-2026/",
+      "primary_url": "https://www.agoda.com/press/agoda-reveals-growing-travel-interest-ahead-of-one-of-asias-leading-sporting-events-to-be-held-in-japan-in-fall-2026/",
+      "source": "Agoda",
+      "source_name": "Agoda",
+      "sources": [
+        {
+          "id": "hotelitem_4451b63c1784",
+          "title": "Agoda Reveals Growing Travel Interest Ahead  ... Singapore, 3 September 2026: Agoda Company Pte. Ltd. (Headquarters: Singapore; CEO: Omri Morgenshtern) ... September 3, 2026 / Travel Trends",
+          "url": "https://www.agoda.com/press/agoda-reveals-growing-travel-interest-ahead-of-one-of-asias-leading-sporting-events-to-be-held-in-japan-in-fall-2026/",
+          "source": "Agoda",
+          "source_name": "Agoda",
+          "site_id": "agoda_press",
+          "published_at": "2026-09-16T04:53:58.874726Z"
+        },
+        {
+          "id": "hotelitem_4f1065fc8e95",
+          "title": "Agoda Reveals Growing Travel Interest for 20 ... Singapore, 4 September 2026: Agoda Company Pte. Ltd. (Headquarters: Singapore; CEO: Omri Morgenshtern) ... September 4, 2026 / Travel Trends",
+          "url": "https://www.agoda.com/press/agoda-reveals-growing-travel-interest-for-2026-silver-week-in-japan-driven-by-first-five-day-holiday-in-11-years/",
+          "source": "Agoda",
+          "source_name": "Agoda",
+          "site_id": "agoda_press",
+          "published_at": "2026-09-16T04:53:58.874726Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Agoda"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_4451b63c1784",
+          "title": "Agoda Reveals Growing Travel Interest Ahead  ... Singapore, 3 September 2026: Agoda Company Pte. Ltd. (Headquarters: Singapore; CEO: Omri Morgenshtern) ... September 3, 2026 / Travel Trends",
+          "url": "https://www.agoda.com/press/agoda-reveals-growing-travel-interest-ahead-of-one-of-asias-leading-sporting-events-to-be-held-in-japan-in-fall-2026/",
+          "source": "Agoda",
+          "source_name": "Agoda",
+          "site_id": "agoda_press",
+          "published_at": "2026-09-16T04:53:58.874726Z"
+        },
+        {
+          "id": "hotelitem_4f1065fc8e95",
+          "title": "Agoda Reveals Growing Travel Interest for 20 ... Singapore, 4 September 2026: Agoda Company Pte. Ltd. (Headquarters: Singapore; CEO: Omri Morgenshtern) ... September 4, 2026 / Travel Trends",
+          "url": "https://www.agoda.com/press/agoda-reveals-growing-travel-interest-for-2026-silver-week-in-japan-driven-by-first-five-day-holiday-in-11-years/",
+          "source": "Agoda",
+          "source_name": "Agoda",
+          "site_id": "agoda_press",
+          "published_at": "2026-09-16T04:53:58.874726Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8625,
+      "importance": 0.625,
+      "importance_score": 0.8625,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-16T04:53:58.874726Z",
+      "latest_at": "2026-09-16T04:53:58.874726Z",
+      "primary_item": {
+        "id": "hotelitem_4451b63c1784",
+        "title": "Agoda Reveals Growing Travel Interest Ahead  ... Singapore, 3 September 2026: Agoda Company Pte. Ltd. (Headquarters: Singapore; CEO: Omri Morgenshtern) ... September 3, 2026 / Travel Trends",
+        "url": "https://www.agoda.com/press/agoda-reveals-growing-travel-interest-ahead-of-one-of-asias-leading-sporting-events-to-be-held-in-japan-in-fall-2026/",
+        "source": "Agoda",
+        "source_name": "Agoda"
       }
     },
     {
@@ -628,14 +1001,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8635,
-      "importance": 0.5984,
-      "importance_score": 0.8635,
+      "score": 0.8622,
+      "importance": 0.5971,
+      "importance_score": 0.8622,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9922,
+        "recency": 0.9853,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -653,202 +1026,6 @@
       }
     },
     {
-      "story_id": "story_4f1065fc8e95",
-      "title": "Agoda Reveals Growing Travel Interest Ahead  ... Singapore, 3 September 2026: Agoda Company Pte. Ltd. (Headquarters: Singapore; CEO: Omri Morgenshtern) ... September 3, 2026 / Travel Trends",
-      "url": "https://www.agoda.com/press/agoda-reveals-growing-travel-interest-ahead-of-one-of-asias-leading-sporting-events-to-be-held-in-japan-in-fall-2026/",
-      "primary_url": "https://www.agoda.com/press/agoda-reveals-growing-travel-interest-ahead-of-one-of-asias-leading-sporting-events-to-be-held-in-japan-in-fall-2026/",
-      "source": "Agoda",
-      "source_name": "Agoda",
-      "sources": [
-        {
-          "id": "hotelitem_4451b63c1784",
-          "title": "Agoda Reveals Growing Travel Interest Ahead  ... Singapore, 3 September 2026: Agoda Company Pte. Ltd. (Headquarters: Singapore; CEO: Omri Morgenshtern) ... September 3, 2026 / Travel Trends",
-          "url": "https://www.agoda.com/press/agoda-reveals-growing-travel-interest-ahead-of-one-of-asias-leading-sporting-events-to-be-held-in-japan-in-fall-2026/",
-          "source": "Agoda",
-          "source_name": "Agoda",
-          "site_id": "agoda_press",
-          "published_at": "2026-09-15T21:24:34.092309Z"
-        },
-        {
-          "id": "hotelitem_4f1065fc8e95",
-          "title": "Agoda Reveals Growing Travel Interest for 20 ... Singapore, 4 September 2026: Agoda Company Pte. Ltd. (Headquarters: Singapore; CEO: Omri Morgenshtern) ... September 4, 2026 / Travel Trends",
-          "url": "https://www.agoda.com/press/agoda-reveals-growing-travel-interest-for-2026-silver-week-in-japan-driven-by-first-five-day-holiday-in-11-years/",
-          "source": "Agoda",
-          "source_name": "Agoda",
-          "site_id": "agoda_press",
-          "published_at": "2026-09-15T21:24:34.092309Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Agoda"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_4451b63c1784",
-          "title": "Agoda Reveals Growing Travel Interest Ahead  ... Singapore, 3 September 2026: Agoda Company Pte. Ltd. (Headquarters: Singapore; CEO: Omri Morgenshtern) ... September 3, 2026 / Travel Trends",
-          "url": "https://www.agoda.com/press/agoda-reveals-growing-travel-interest-ahead-of-one-of-asias-leading-sporting-events-to-be-held-in-japan-in-fall-2026/",
-          "source": "Agoda",
-          "source_name": "Agoda",
-          "site_id": "agoda_press",
-          "published_at": "2026-09-15T21:24:34.092309Z"
-        },
-        {
-          "id": "hotelitem_4f1065fc8e95",
-          "title": "Agoda Reveals Growing Travel Interest for 20 ... Singapore, 4 September 2026: Agoda Company Pte. Ltd. (Headquarters: Singapore; CEO: Omri Morgenshtern) ... September 4, 2026 / Travel Trends",
-          "url": "https://www.agoda.com/press/agoda-reveals-growing-travel-interest-for-2026-silver-week-in-japan-driven-by-first-five-day-holiday-in-11-years/",
-          "source": "Agoda",
-          "source_name": "Agoda",
-          "site_id": "agoda_press",
-          "published_at": "2026-09-15T21:24:34.092309Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8625,
-      "importance": 0.625,
-      "importance_score": 0.8625,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-15T21:24:34.092309Z",
-      "latest_at": "2026-09-15T21:24:34.092309Z",
-      "primary_item": {
-        "id": "hotelitem_4451b63c1784",
-        "title": "Agoda Reveals Growing Travel Interest Ahead  ... Singapore, 3 September 2026: Agoda Company Pte. Ltd. (Headquarters: Singapore; CEO: Omri Morgenshtern) ... September 3, 2026 / Travel Trends",
-        "url": "https://www.agoda.com/press/agoda-reveals-growing-travel-interest-ahead-of-one-of-asias-leading-sporting-events-to-be-held-in-japan-in-fall-2026/",
-        "source": "Agoda",
-        "source_name": "Agoda"
-      }
-    },
-    {
-      "story_id": "story_2276b2830ad0",
-      "title": "Newly opened Elizabeth Unique Venice joins Design Hotels as its first member in Venice",
-      "url": "https://insights.ehotelier.com/properties/2026/09/15/newly-opened-elizabeth-unique-venice-joins-design-hotels-as-its-first-member-in-venice/?utm_source=rss&utm_medium=rss&utm_campaign=newly-opened-elizabeth-unique-venice-joins-design-hotels-as-its-first-member-in-venice",
-      "primary_url": "https://insights.ehotelier.com/properties/2026/09/15/newly-opened-elizabeth-unique-venice-joins-design-hotels-as-its-first-member-in-venice/?utm_source=rss&utm_medium=rss&utm_campaign=newly-opened-elizabeth-unique-venice-joins-design-hotels-as-its-first-member-in-venice",
-      "source": "eHotelier",
-      "source_name": "eHotelier",
-      "sources": [
-        {
-          "id": "hotelitem_2276b2830ad0",
-          "title": "Newly opened Elizabeth Unique Venice joins Design Hotels as its first member in Venice",
-          "url": "https://insights.ehotelier.com/properties/2026/09/15/newly-opened-elizabeth-unique-venice-joins-design-hotels-as-its-first-member-in-venice/?utm_source=rss&utm_medium=rss&utm_campaign=newly-opened-elizabeth-unique-venice-joins-design-hotels-as-its-first-member-in-venice",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-09-15T01:35:39Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "eHotelier"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_2276b2830ad0",
-          "title": "Newly opened Elizabeth Unique Venice joins Design Hotels as its first member in Venice",
-          "url": "https://insights.ehotelier.com/properties/2026/09/15/newly-opened-elizabeth-unique-venice-joins-design-hotels-as-its-first-member-in-venice/?utm_source=rss&utm_medium=rss&utm_campaign=newly-opened-elizabeth-unique-venice-joins-design-hotels-as-its-first-member-in-venice",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-09-15T01:35:39Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8615,
-      "importance": 0.5963,
-      "importance_score": 0.8615,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9817,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-15T01:35:39Z",
-      "latest_at": "2026-09-15T01:35:39Z",
-      "primary_item": {
-        "id": "hotelitem_2276b2830ad0",
-        "title": "Newly opened Elizabeth Unique Venice joins Design Hotels as its first member in Venice",
-        "url": "https://insights.ehotelier.com/properties/2026/09/15/newly-opened-elizabeth-unique-venice-joins-design-hotels-as-its-first-member-in-venice/?utm_source=rss&utm_medium=rss&utm_campaign=newly-opened-elizabeth-unique-venice-joins-design-hotels-as-its-first-member-in-venice",
-        "source": "eHotelier",
-        "source_name": "eHotelier"
-      }
-    },
-    {
-      "story_id": "story_41658678ad0b",
-      "title": "Liam Brown appointed as Member of the Board of Trustees at Chatham Lodging Trust",
-      "url": "https://insights.ehotelier.com/people/2026/09/15/liam-brown-appointed-as-member-of-the-board-of-trustees-at-chatham-lodging-trust/?utm_source=rss&utm_medium=rss&utm_campaign=liam-brown-appointed-as-member-of-the-board-of-trustees-at-chatham-lodging-trust",
-      "primary_url": "https://insights.ehotelier.com/people/2026/09/15/liam-brown-appointed-as-member-of-the-board-of-trustees-at-chatham-lodging-trust/?utm_source=rss&utm_medium=rss&utm_campaign=liam-brown-appointed-as-member-of-the-board-of-trustees-at-chatham-lodging-trust",
-      "source": "eHotelier",
-      "source_name": "eHotelier",
-      "sources": [
-        {
-          "id": "hotelitem_41658678ad0b",
-          "title": "Liam Brown appointed as Member of the Board of Trustees at Chatham Lodging Trust",
-          "url": "https://insights.ehotelier.com/people/2026/09/15/liam-brown-appointed-as-member-of-the-board-of-trustees-at-chatham-lodging-trust/?utm_source=rss&utm_medium=rss&utm_campaign=liam-brown-appointed-as-member-of-the-board-of-trustees-at-chatham-lodging-trust",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-09-15T01:45:12Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "eHotelier"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_41658678ad0b",
-          "title": "Liam Brown appointed as Member of the Board of Trustees at Chatham Lodging Trust",
-          "url": "https://insights.ehotelier.com/people/2026/09/15/liam-brown-appointed-as-member-of-the-board-of-trustees-at-chatham-lodging-trust/?utm_source=rss&utm_medium=rss&utm_campaign=liam-brown-appointed-as-member-of-the-board-of-trustees-at-chatham-lodging-trust",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-09-15T01:45:12Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8615,
-      "importance": 0.5964,
-      "importance_score": 0.8615,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9818,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-15T01:45:12Z",
-      "latest_at": "2026-09-15T01:45:12Z",
-      "primary_item": {
-        "id": "hotelitem_41658678ad0b",
-        "title": "Liam Brown appointed as Member of the Board of Trustees at Chatham Lodging Trust",
-        "url": "https://insights.ehotelier.com/people/2026/09/15/liam-brown-appointed-as-member-of-the-board-of-trustees-at-chatham-lodging-trust/?utm_source=rss&utm_medium=rss&utm_campaign=liam-brown-appointed-as-member-of-the-board-of-trustees-at-chatham-lodging-trust",
-        "source": "eHotelier",
-        "source_name": "eHotelier"
-      }
-    },
-    {
       "story_id": "story_c7c15b7680c9",
       "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
       "url": "https://www.chinahotel.org.cn/articles/17408",
@@ -863,7 +1040,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-09-15T21:24:34.092309Z"
+          "published_at": "2026-09-16T04:53:58.874726Z"
         },
         {
           "id": "hotelitem_c7c15b7680c9",
@@ -872,7 +1049,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-09-15T21:24:34.092309Z"
+          "published_at": "2026-09-16T04:53:58.874726Z"
         }
       ],
       "source_count": 2,
@@ -887,7 +1064,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-09-15T21:24:34.092309Z"
+          "published_at": "2026-09-16T04:53:58.874726Z"
         },
         {
           "id": "hotelitem_c7c15b7680c9",
@@ -896,7 +1073,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-09-15T21:24:34.092309Z"
+          "published_at": "2026-09-16T04:53:58.874726Z"
         }
       ],
       "item_count": 2,
@@ -916,8 +1093,8 @@
         "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-15T21:24:34.092309Z",
-      "latest_at": "2026-09-15T21:24:34.092309Z",
+      "earliest_at": "2026-09-16T04:53:58.874726Z",
+      "latest_at": "2026-09-16T04:53:58.874726Z",
       "primary_item": {
         "id": "hotelitem_d4370964909c",
         "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
@@ -927,121 +1104,43 @@
       }
     },
     {
-      "story_id": "story_da923c0668b1",
-      "title": "指数发布 | 中国住宿业消费指数报告（2026年7月）发布 为贯彻落实提振消费相关政策，真实反映中国住宿餐饮业市场消费情况，以数据引导促消费政策精准发力，为行业发展提供参考建议，中国饭店协会每月公开发布“中国饭店业消费指数体系”，包含“中国住宿业消费指数（China Hotel Industry Consumption Index, HCI）”与“中国餐饮业消费指数(China Catering Industry Consumption Index, CCI)”，欢迎关注。",
-      "url": "https://www.chinahotel.org.cn/articles/17967",
-      "primary_url": "https://www.chinahotel.org.cn/articles/17967",
-      "source": "中国饭店协会",
-      "source_name": "中国饭店协会",
+      "story_id": "story_e4ce0593c384",
+      "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
+      "url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
+      "primary_url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
+      "source": "中国旅游研究院",
+      "source_name": "中国旅游研究院",
       "sources": [
         {
-          "id": "hotelitem_6afacb5ef78d",
-          "title": "指数发布 | 中国住宿业消费指数报告（2026年7月）发布 为贯彻落实提振消费相关政策，真实反映中国住宿餐饮业市场消费情况，以数据引导促消费政策精准发力，为行业发展提供参考建议，中国饭店协会每月公开发布“中国饭店业消费指数体系”，包含“中国住宿业消费指数（China Hotel Industry Consumption Index, HCI）”与“中国餐饮业消费指数(China Catering Industry Consumption Index, CCI)”，欢迎关注。",
-          "url": "https://www.chinahotel.org.cn/articles/17967",
-          "source": "中国饭店协会",
-          "source_name": "中国饭店协会",
-          "site_id": "chinahotel",
-          "published_at": "2026-09-15T21:24:34.092309Z"
-        },
-        {
-          "id": "hotelitem_da923c0668b1",
-          "title": "指数发布 | 中国餐饮业消费指数报告（2026年7月）发布 为贯彻落实提振消费相关政策，真实反映中国住宿餐饮业市场消费情况，以数据引导促消费政策精准发力，为行业发展提供参考建议，中国饭店协会每月公开发布“中国饭店业消费指数体系”，包含“中国住宿业消费指数（China Hotel Industry Consumption Index, HCI）”与“中国餐饮业消费指数(China Catering Industry Consumption Index, CCI)”，欢迎关注。",
-          "url": "https://www.chinahotel.org.cn/articles/17969",
-          "source": "中国饭店协会",
-          "source_name": "中国饭店协会",
-          "site_id": "chinahotel",
-          "published_at": "2026-09-15T21:24:34.092309Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "中国饭店协会"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_6afacb5ef78d",
-          "title": "指数发布 | 中国住宿业消费指数报告（2026年7月）发布 为贯彻落实提振消费相关政策，真实反映中国住宿餐饮业市场消费情况，以数据引导促消费政策精准发力，为行业发展提供参考建议，中国饭店协会每月公开发布“中国饭店业消费指数体系”，包含“中国住宿业消费指数（China Hotel Industry Consumption Index, HCI）”与“中国餐饮业消费指数(China Catering Industry Consumption Index, CCI)”，欢迎关注。",
-          "url": "https://www.chinahotel.org.cn/articles/17967",
-          "source": "中国饭店协会",
-          "source_name": "中国饭店协会",
-          "site_id": "chinahotel",
-          "published_at": "2026-09-15T21:24:34.092309Z"
-        },
-        {
-          "id": "hotelitem_da923c0668b1",
-          "title": "指数发布 | 中国餐饮业消费指数报告（2026年7月）发布 为贯彻落实提振消费相关政策，真实反映中国住宿餐饮业市场消费情况，以数据引导促消费政策精准发力，为行业发展提供参考建议，中国饭店协会每月公开发布“中国饭店业消费指数体系”，包含“中国住宿业消费指数（China Hotel Industry Consumption Index, HCI）”与“中国餐饮业消费指数(China Catering Industry Consumption Index, CCI)”，欢迎关注。",
-          "url": "https://www.chinahotel.org.cn/articles/17969",
-          "source": "中国饭店协会",
-          "source_name": "中国饭店协会",
-          "site_id": "chinahotel",
-          "published_at": "2026-09-15T21:24:34.092309Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.86,
-      "importance": 0.625,
-      "importance_score": 0.86,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-15T21:24:34.092309Z",
-      "latest_at": "2026-09-15T21:24:34.092309Z",
-      "primary_item": {
-        "id": "hotelitem_6afacb5ef78d",
-        "title": "指数发布 | 中国住宿业消费指数报告（2026年7月）发布 为贯彻落实提振消费相关政策，真实反映中国住宿餐饮业市场消费情况，以数据引导促消费政策精准发力，为行业发展提供参考建议，中国饭店协会每月公开发布“中国饭店业消费指数体系”，包含“中国住宿业消费指数（China Hotel Industry Consumption Index, HCI）”与“中国餐饮业消费指数(China Catering Industry Consumption Index, CCI)”，欢迎关注。",
-        "url": "https://www.chinahotel.org.cn/articles/17967",
-        "source": "中国饭店协会",
-        "source_name": "中国饭店协会"
-      }
-    },
-    {
-      "story_id": "story_ffc7e01c2c5f",
-      "title": "同程旅行表态落实在线酒店预订合规要求 反对排他独家与全网最低价",
-      "url": "https://www.meadin.com/wl/301163.html",
-      "primary_url": "https://www.meadin.com/wl/301163.html",
-      "source": "迈点研究院",
-      "source_name": "迈点研究院",
-      "sources": [
-        {
-          "id": "hotelitem_ffc7e01c2c5f",
-          "title": "同程旅行表态落实在线酒店预订合规要求 反对排他独家与全网最低价",
-          "url": "https://www.meadin.com/wl/301163.html",
-          "source": "迈点研究院",
-          "source_name": "迈点研究院",
-          "site_id": "meadin",
-          "published_at": "2026-09-15T21:24:34.092309Z"
+          "id": "hotelitem_e4ce0593c384",
+          "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
+          "url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
+          "source": "中国旅游研究院",
+          "source_name": "中国旅游研究院",
+          "site_id": "cta",
+          "published_at": "2026-09-16T04:53:58.874726Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "迈点研究院"
+        "中国旅游研究院"
       ],
       "items": [
         {
-          "id": "hotelitem_ffc7e01c2c5f",
-          "title": "同程旅行表态落实在线酒店预订合规要求 反对排他独家与全网最低价",
-          "url": "https://www.meadin.com/wl/301163.html",
-          "source": "迈点研究院",
-          "source_name": "迈点研究院",
-          "site_id": "meadin",
-          "published_at": "2026-09-15T21:24:34.092309Z"
+          "id": "hotelitem_e4ce0593c384",
+          "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
+          "url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
+          "source": "中国旅游研究院",
+          "source_name": "中国旅游研究院",
+          "site_id": "cta",
+          "published_at": "2026-09-16T04:53:58.874726Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.86,
+      "score": 0.858,
       "importance": 0.6,
-      "importance_score": 0.86,
+      "importance_score": 0.858,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
@@ -1053,54 +1152,54 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-15T21:24:34.092309Z",
-      "latest_at": "2026-09-15T21:24:34.092309Z",
+      "earliest_at": "2026-09-16T04:53:58.874726Z",
+      "latest_at": "2026-09-16T04:53:58.874726Z",
       "primary_item": {
-        "id": "hotelitem_ffc7e01c2c5f",
-        "title": "同程旅行表态落实在线酒店预订合规要求 反对排他独家与全网最低价",
-        "url": "https://www.meadin.com/wl/301163.html",
-        "source": "迈点研究院",
-        "source_name": "迈点研究院"
+        "id": "hotelitem_e4ce0593c384",
+        "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
+        "url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
+        "source": "中国旅游研究院",
+        "source_name": "中国旅游研究院"
       }
     },
     {
-      "story_id": "story_383f4026c1d7",
-      "title": "携程集团表态严格落实在线酒店预订合规要求",
-      "url": "https://www.meadin.com/wl/301161.html",
-      "primary_url": "https://www.meadin.com/wl/301161.html",
-      "source": "迈点研究院",
-      "source_name": "迈点研究院",
+      "story_id": "story_c3062f911641",
+      "title": "市场监管总局会同文化和旅游部召开在线酒店...",
+      "url": "https://www.mct.gov.cn/whzx/whyw/202609/t20260915_967155.htm",
+      "primary_url": "https://www.mct.gov.cn/whzx/whyw/202609/t20260915_967155.htm",
+      "source": "文化和旅游部",
+      "source_name": "文化和旅游部",
       "sources": [
         {
-          "id": "hotelitem_383f4026c1d7",
-          "title": "携程集团表态严格落实在线酒店预订合规要求",
-          "url": "https://www.meadin.com/wl/301161.html",
-          "source": "迈点研究院",
-          "source_name": "迈点研究院",
-          "site_id": "meadin",
-          "published_at": "2026-09-15T21:24:34.092309Z"
+          "id": "hotelitem_c3062f911641",
+          "title": "市场监管总局会同文化和旅游部召开在线酒店...",
+          "url": "https://www.mct.gov.cn/whzx/whyw/202609/t20260915_967155.htm",
+          "source": "文化和旅游部",
+          "source_name": "文化和旅游部",
+          "site_id": "mct",
+          "published_at": "2026-09-16T04:53:58.874726Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "迈点研究院"
+        "文化和旅游部"
       ],
       "items": [
         {
-          "id": "hotelitem_383f4026c1d7",
-          "title": "携程集团表态严格落实在线酒店预订合规要求",
-          "url": "https://www.meadin.com/wl/301161.html",
-          "source": "迈点研究院",
-          "source_name": "迈点研究院",
-          "site_id": "meadin",
-          "published_at": "2026-09-15T21:24:34.092309Z"
+          "id": "hotelitem_c3062f911641",
+          "title": "市场监管总局会同文化和旅游部召开在线酒店...",
+          "url": "https://www.mct.gov.cn/whzx/whyw/202609/t20260915_967155.htm",
+          "source": "文化和旅游部",
+          "source_name": "文化和旅游部",
+          "site_id": "mct",
+          "published_at": "2026-09-16T04:53:58.874726Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.86,
+      "score": 0.858,
       "importance": 0.6,
-      "importance_score": 0.86,
+      "importance_score": 0.858,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
@@ -1112,54 +1211,54 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-15T21:24:34.092309Z",
-      "latest_at": "2026-09-15T21:24:34.092309Z",
+      "earliest_at": "2026-09-16T04:53:58.874726Z",
+      "latest_at": "2026-09-16T04:53:58.874726Z",
       "primary_item": {
-        "id": "hotelitem_383f4026c1d7",
-        "title": "携程集团表态严格落实在线酒店预订合规要求",
-        "url": "https://www.meadin.com/wl/301161.html",
-        "source": "迈点研究院",
-        "source_name": "迈点研究院"
+        "id": "hotelitem_c3062f911641",
+        "title": "市场监管总局会同文化和旅游部召开在线酒店...",
+        "url": "https://www.mct.gov.cn/whzx/whyw/202609/t20260915_967155.htm",
+        "source": "文化和旅游部",
+        "source_name": "文化和旅游部"
       }
     },
     {
-      "story_id": "story_f0749b24db3c",
-      "title": "飞猪表态落实在线酒店预订合规要求 抵制独家合作与全网最低价",
-      "url": "https://www.meadin.com/wl/301162.html",
-      "primary_url": "https://www.meadin.com/wl/301162.html",
-      "source": "迈点研究院",
-      "source_name": "迈点研究院",
+      "story_id": "story_8f218475e743",
+      "title": "文化和旅游部发布2026年上半年国内居民出游数据情况",
+      "url": "https://www.ctaweb.org.cn/gongzuodongtai/10523.html",
+      "primary_url": "https://www.ctaweb.org.cn/gongzuodongtai/10523.html",
+      "source": "中国旅游研究院",
+      "source_name": "中国旅游研究院",
       "sources": [
         {
-          "id": "hotelitem_f0749b24db3c",
-          "title": "飞猪表态落实在线酒店预订合规要求 抵制独家合作与全网最低价",
-          "url": "https://www.meadin.com/wl/301162.html",
-          "source": "迈点研究院",
-          "source_name": "迈点研究院",
-          "site_id": "meadin",
-          "published_at": "2026-09-15T21:24:34.092309Z"
+          "id": "hotelitem_8f218475e743",
+          "title": "文化和旅游部发布2026年上半年国内居民出游数据情况",
+          "url": "https://www.ctaweb.org.cn/gongzuodongtai/10523.html",
+          "source": "中国旅游研究院",
+          "source_name": "中国旅游研究院",
+          "site_id": "cta",
+          "published_at": "2026-09-16T04:53:58.874726Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "迈点研究院"
+        "中国旅游研究院"
       ],
       "items": [
         {
-          "id": "hotelitem_f0749b24db3c",
-          "title": "飞猪表态落实在线酒店预订合规要求 抵制独家合作与全网最低价",
-          "url": "https://www.meadin.com/wl/301162.html",
-          "source": "迈点研究院",
-          "source_name": "迈点研究院",
-          "site_id": "meadin",
-          "published_at": "2026-09-15T21:24:34.092309Z"
+          "id": "hotelitem_8f218475e743",
+          "title": "文化和旅游部发布2026年上半年国内居民出游数据情况",
+          "url": "https://www.ctaweb.org.cn/gongzuodongtai/10523.html",
+          "source": "中国旅游研究院",
+          "source_name": "中国旅游研究院",
+          "site_id": "cta",
+          "published_at": "2026-09-16T04:53:58.874726Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.86,
+      "score": 0.858,
       "importance": 0.6,
-      "importance_score": 0.86,
+      "importance_score": 0.858,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
@@ -1171,14 +1270,73 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-15T21:24:34.092309Z",
-      "latest_at": "2026-09-15T21:24:34.092309Z",
+      "earliest_at": "2026-09-16T04:53:58.874726Z",
+      "latest_at": "2026-09-16T04:53:58.874726Z",
       "primary_item": {
-        "id": "hotelitem_f0749b24db3c",
-        "title": "飞猪表态落实在线酒店预订合规要求 抵制独家合作与全网最低价",
-        "url": "https://www.meadin.com/wl/301162.html",
-        "source": "迈点研究院",
-        "source_name": "迈点研究院"
+        "id": "hotelitem_8f218475e743",
+        "title": "文化和旅游部发布2026年上半年国内居民出游数据情况",
+        "url": "https://www.ctaweb.org.cn/gongzuodongtai/10523.html",
+        "source": "中国旅游研究院",
+        "source_name": "中国旅游研究院"
+      }
+    },
+    {
+      "story_id": "story_492acb2b854b",
+      "title": "文化和旅游部召开树立和践行正确政绩观学习...",
+      "url": "https://www.mct.gov.cn/whzx/whyw/202609/t20260904_967062.htm",
+      "primary_url": "https://www.mct.gov.cn/whzx/whyw/202609/t20260904_967062.htm",
+      "source": "文化和旅游部",
+      "source_name": "文化和旅游部",
+      "sources": [
+        {
+          "id": "hotelitem_492acb2b854b",
+          "title": "文化和旅游部召开树立和践行正确政绩观学习...",
+          "url": "https://www.mct.gov.cn/whzx/whyw/202609/t20260904_967062.htm",
+          "source": "文化和旅游部",
+          "source_name": "文化和旅游部",
+          "site_id": "mct",
+          "published_at": "2026-09-16T04:53:58.874726Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "文化和旅游部"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_492acb2b854b",
+          "title": "文化和旅游部召开树立和践行正确政绩观学习...",
+          "url": "https://www.mct.gov.cn/whzx/whyw/202609/t20260904_967062.htm",
+          "source": "文化和旅游部",
+          "source_name": "文化和旅游部",
+          "site_id": "mct",
+          "published_at": "2026-09-16T04:53:58.874726Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.858,
+      "importance": 0.6,
+      "importance_score": 0.858,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-16T04:53:58.874726Z",
+      "latest_at": "2026-09-16T04:53:58.874726Z",
+      "primary_item": {
+        "id": "hotelitem_492acb2b854b",
+        "title": "文化和旅游部召开树立和践行正确政绩观学习...",
+        "url": "https://www.mct.gov.cn/whzx/whyw/202609/t20260904_967062.htm",
+        "source": "文化和旅游部",
+        "source_name": "文化和旅游部"
       }
     },
     {
@@ -1216,14 +1374,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8584,
-      "importance": 0.5457,
-      "importance_score": 0.8584,
+      "score": 0.8564,
+      "importance": 0.5443,
+      "importance_score": 0.8564,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.7283,
+        "recency": 0.7214,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1238,360 +1396,6 @@
         "url": "https://www.traveldaily.cn/article/190632",
         "source": "环球旅讯 TravelDaily",
         "source_name": "环球旅讯 TravelDaily"
-      }
-    },
-    {
-      "story_id": "story_e4ce0593c384",
-      "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
-      "url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
-      "primary_url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
-      "source": "中国旅游研究院",
-      "source_name": "中国旅游研究院",
-      "sources": [
-        {
-          "id": "hotelitem_e4ce0593c384",
-          "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
-          "url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
-          "source": "中国旅游研究院",
-          "source_name": "中国旅游研究院",
-          "site_id": "cta",
-          "published_at": "2026-09-15T21:24:34.092309Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "中国旅游研究院"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_e4ce0593c384",
-          "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
-          "url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
-          "source": "中国旅游研究院",
-          "source_name": "中国旅游研究院",
-          "site_id": "cta",
-          "published_at": "2026-09-15T21:24:34.092309Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.858,
-      "importance": 0.6,
-      "importance_score": 0.858,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-15T21:24:34.092309Z",
-      "latest_at": "2026-09-15T21:24:34.092309Z",
-      "primary_item": {
-        "id": "hotelitem_e4ce0593c384",
-        "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
-        "url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
-        "source": "中国旅游研究院",
-        "source_name": "中国旅游研究院"
-      }
-    },
-    {
-      "story_id": "story_c3062f911641",
-      "title": "市场监管总局会同文化和旅游部召开在线酒店...",
-      "url": "https://www.mct.gov.cn/whzx/whyw/202609/t20260915_967155.htm",
-      "primary_url": "https://www.mct.gov.cn/whzx/whyw/202609/t20260915_967155.htm",
-      "source": "文化和旅游部",
-      "source_name": "文化和旅游部",
-      "sources": [
-        {
-          "id": "hotelitem_c3062f911641",
-          "title": "市场监管总局会同文化和旅游部召开在线酒店...",
-          "url": "https://www.mct.gov.cn/whzx/whyw/202609/t20260915_967155.htm",
-          "source": "文化和旅游部",
-          "source_name": "文化和旅游部",
-          "site_id": "mct",
-          "published_at": "2026-09-15T21:24:34.092309Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "文化和旅游部"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_c3062f911641",
-          "title": "市场监管总局会同文化和旅游部召开在线酒店...",
-          "url": "https://www.mct.gov.cn/whzx/whyw/202609/t20260915_967155.htm",
-          "source": "文化和旅游部",
-          "source_name": "文化和旅游部",
-          "site_id": "mct",
-          "published_at": "2026-09-15T21:24:34.092309Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.858,
-      "importance": 0.6,
-      "importance_score": 0.858,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-15T21:24:34.092309Z",
-      "latest_at": "2026-09-15T21:24:34.092309Z",
-      "primary_item": {
-        "id": "hotelitem_c3062f911641",
-        "title": "市场监管总局会同文化和旅游部召开在线酒店...",
-        "url": "https://www.mct.gov.cn/whzx/whyw/202609/t20260915_967155.htm",
-        "source": "文化和旅游部",
-        "source_name": "文化和旅游部"
-      }
-    },
-    {
-      "story_id": "story_8f218475e743",
-      "title": "文化和旅游部发布2026年上半年国内居民出游数据情况",
-      "url": "https://www.ctaweb.org.cn/gongzuodongtai/10523.html",
-      "primary_url": "https://www.ctaweb.org.cn/gongzuodongtai/10523.html",
-      "source": "中国旅游研究院",
-      "source_name": "中国旅游研究院",
-      "sources": [
-        {
-          "id": "hotelitem_8f218475e743",
-          "title": "文化和旅游部发布2026年上半年国内居民出游数据情况",
-          "url": "https://www.ctaweb.org.cn/gongzuodongtai/10523.html",
-          "source": "中国旅游研究院",
-          "source_name": "中国旅游研究院",
-          "site_id": "cta",
-          "published_at": "2026-09-15T21:24:34.092309Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "中国旅游研究院"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_8f218475e743",
-          "title": "文化和旅游部发布2026年上半年国内居民出游数据情况",
-          "url": "https://www.ctaweb.org.cn/gongzuodongtai/10523.html",
-          "source": "中国旅游研究院",
-          "source_name": "中国旅游研究院",
-          "site_id": "cta",
-          "published_at": "2026-09-15T21:24:34.092309Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.858,
-      "importance": 0.6,
-      "importance_score": 0.858,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-15T21:24:34.092309Z",
-      "latest_at": "2026-09-15T21:24:34.092309Z",
-      "primary_item": {
-        "id": "hotelitem_8f218475e743",
-        "title": "文化和旅游部发布2026年上半年国内居民出游数据情况",
-        "url": "https://www.ctaweb.org.cn/gongzuodongtai/10523.html",
-        "source": "中国旅游研究院",
-        "source_name": "中国旅游研究院"
-      }
-    },
-    {
-      "story_id": "story_492acb2b854b",
-      "title": "文化和旅游部召开树立和践行正确政绩观学习...",
-      "url": "https://www.mct.gov.cn/whzx/whyw/202609/t20260904_967062.htm",
-      "primary_url": "https://www.mct.gov.cn/whzx/whyw/202609/t20260904_967062.htm",
-      "source": "文化和旅游部",
-      "source_name": "文化和旅游部",
-      "sources": [
-        {
-          "id": "hotelitem_492acb2b854b",
-          "title": "文化和旅游部召开树立和践行正确政绩观学习...",
-          "url": "https://www.mct.gov.cn/whzx/whyw/202609/t20260904_967062.htm",
-          "source": "文化和旅游部",
-          "source_name": "文化和旅游部",
-          "site_id": "mct",
-          "published_at": "2026-09-15T21:24:34.092309Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "文化和旅游部"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_492acb2b854b",
-          "title": "文化和旅游部召开树立和践行正确政绩观学习...",
-          "url": "https://www.mct.gov.cn/whzx/whyw/202609/t20260904_967062.htm",
-          "source": "文化和旅游部",
-          "source_name": "文化和旅游部",
-          "site_id": "mct",
-          "published_at": "2026-09-15T21:24:34.092309Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.858,
-      "importance": 0.6,
-      "importance_score": 0.858,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-15T21:24:34.092309Z",
-      "latest_at": "2026-09-15T21:24:34.092309Z",
-      "primary_item": {
-        "id": "hotelitem_492acb2b854b",
-        "title": "文化和旅游部召开树立和践行正确政绩观学习...",
-        "url": "https://www.mct.gov.cn/whzx/whyw/202609/t20260904_967062.htm",
-        "source": "文化和旅游部",
-        "source_name": "文化和旅游部"
-      }
-    },
-    {
-      "story_id": "story_c69f421b25f0",
-      "title": "Hotel & Hospitality Expo Saudi Arabia returns to Riyadh with Ministry of Tourism as Strategic Partner",
-      "url": "https://insights.ehotelier.com/global-news/2026/09/14/hotel-hospitality-expo-saudi-arabia-returns-to-riyadh-with-ministry-of-tourism-as-strategic-partner/?utm_source=rss&utm_medium=rss&utm_campaign=hotel-hospitality-expo-saudi-arabia-returns-to-riyadh-with-ministry-of-tourism-as-strategic-partner",
-      "primary_url": "https://insights.ehotelier.com/global-news/2026/09/14/hotel-hospitality-expo-saudi-arabia-returns-to-riyadh-with-ministry-of-tourism-as-strategic-partner/?utm_source=rss&utm_medium=rss&utm_campaign=hotel-hospitality-expo-saudi-arabia-returns-to-riyadh-with-ministry-of-tourism-as-strategic-partner",
-      "source": "eHotelier",
-      "source_name": "eHotelier",
-      "sources": [
-        {
-          "id": "hotelitem_c69f421b25f0",
-          "title": "Hotel & Hospitality Expo Saudi Arabia returns to Riyadh with Ministry of Tourism as Strategic Partner",
-          "url": "https://insights.ehotelier.com/global-news/2026/09/14/hotel-hospitality-expo-saudi-arabia-returns-to-riyadh-with-ministry-of-tourism-as-strategic-partner/?utm_source=rss&utm_medium=rss&utm_campaign=hotel-hospitality-expo-saudi-arabia-returns-to-riyadh-with-ministry-of-tourism-as-strategic-partner",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-09-14T01:34:42Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "eHotelier"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_c69f421b25f0",
-          "title": "Hotel & Hospitality Expo Saudi Arabia returns to Riyadh with Ministry of Tourism as Strategic Partner",
-          "url": "https://insights.ehotelier.com/global-news/2026/09/14/hotel-hospitality-expo-saudi-arabia-returns-to-riyadh-with-ministry-of-tourism-as-strategic-partner/?utm_source=rss&utm_medium=rss&utm_campaign=hotel-hospitality-expo-saudi-arabia-returns-to-riyadh-with-ministry-of-tourism-as-strategic-partner",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-09-14T01:34:42Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8572,
-      "importance": 0.5919,
-      "importance_score": 0.8572,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9594,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-14T01:34:42Z",
-      "latest_at": "2026-09-14T01:34:42Z",
-      "primary_item": {
-        "id": "hotelitem_c69f421b25f0",
-        "title": "Hotel & Hospitality Expo Saudi Arabia returns to Riyadh with Ministry of Tourism as Strategic Partner",
-        "url": "https://insights.ehotelier.com/global-news/2026/09/14/hotel-hospitality-expo-saudi-arabia-returns-to-riyadh-with-ministry-of-tourism-as-strategic-partner/?utm_source=rss&utm_medium=rss&utm_campaign=hotel-hospitality-expo-saudi-arabia-returns-to-riyadh-with-ministry-of-tourism-as-strategic-partner",
-        "source": "eHotelier",
-        "source_name": "eHotelier"
-      }
-    },
-    {
-      "story_id": "story_100125cd8c38",
-      "title": "Hotel du Cap-Eden-Roc gives voice to its sustainability commitment",
-      "url": "https://insights.ehotelier.com/global-news/2026/09/14/hotel-du-cap-eden-roc-gives-voice-to-its-sustainability-commitment/?utm_source=rss&utm_medium=rss&utm_campaign=hotel-du-cap-eden-roc-gives-voice-to-its-sustainability-commitment",
-      "primary_url": "https://insights.ehotelier.com/global-news/2026/09/14/hotel-du-cap-eden-roc-gives-voice-to-its-sustainability-commitment/?utm_source=rss&utm_medium=rss&utm_campaign=hotel-du-cap-eden-roc-gives-voice-to-its-sustainability-commitment",
-      "source": "eHotelier",
-      "source_name": "eHotelier",
-      "sources": [
-        {
-          "id": "hotelitem_100125cd8c38",
-          "title": "Hotel du Cap-Eden-Roc gives voice to its sustainability commitment",
-          "url": "https://insights.ehotelier.com/global-news/2026/09/14/hotel-du-cap-eden-roc-gives-voice-to-its-sustainability-commitment/?utm_source=rss&utm_medium=rss&utm_campaign=hotel-du-cap-eden-roc-gives-voice-to-its-sustainability-commitment",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-09-14T01:39:10Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "eHotelier"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_100125cd8c38",
-          "title": "Hotel du Cap-Eden-Roc gives voice to its sustainability commitment",
-          "url": "https://insights.ehotelier.com/global-news/2026/09/14/hotel-du-cap-eden-roc-gives-voice-to-its-sustainability-commitment/?utm_source=rss&utm_medium=rss&utm_campaign=hotel-du-cap-eden-roc-gives-voice-to-its-sustainability-commitment",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-09-14T01:39:10Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8572,
-      "importance": 0.5919,
-      "importance_score": 0.8572,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9595,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-14T01:39:10Z",
-      "latest_at": "2026-09-14T01:39:10Z",
-      "primary_item": {
-        "id": "hotelitem_100125cd8c38",
-        "title": "Hotel du Cap-Eden-Roc gives voice to its sustainability commitment",
-        "url": "https://insights.ehotelier.com/global-news/2026/09/14/hotel-du-cap-eden-roc-gives-voice-to-its-sustainability-commitment/?utm_source=rss&utm_medium=rss&utm_campaign=hotel-du-cap-eden-roc-gives-voice-to-its-sustainability-commitment",
-        "source": "eHotelier",
-        "source_name": "eHotelier"
       }
     },
     {
@@ -1629,14 +1433,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8466,
-      "importance": 0.5809,
-      "importance_score": 0.8466,
+      "score": 0.8452,
+      "importance": 0.5795,
+      "importance_score": 0.8452,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9045,
+        "recency": 0.8976,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1688,14 +1492,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8425,
-      "importance": 0.5767,
-      "importance_score": 0.8425,
+      "score": 0.8412,
+      "importance": 0.5753,
+      "importance_score": 0.8412,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8835,
+        "recency": 0.8766,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1747,14 +1551,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8416,
-      "importance": 0.5758,
-      "importance_score": 0.8416,
+      "score": 0.8403,
+      "importance": 0.5744,
+      "importance_score": 0.8403,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8788,
+        "recency": 0.8719,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1772,62 +1576,239 @@
       }
     },
     {
-      "story_id": "story_986a47e99dc9",
-      "title": "Choice’s New CEO Has 3 Top Fixes — Plus $450 Million in Hotels to Sell",
-      "url": "https://skift.com/2026/09/09/choices-new-ceo-has-3-top-fixes-plus-450-million-in-hotels-to-sell/",
-      "primary_url": "https://skift.com/2026/09/09/choices-new-ceo-has-3-top-fixes-plus-450-million-in-hotels-to-sell/",
-      "source": "Skift Hospitality",
-      "source_name": "Skift Hospitality",
+      "story_id": "story_bdf4e58188f5",
+      "title": "Ruby Group signs first hotel in Finland",
+      "url": "https://boutiquehotelnews.com/news/hotel/ruby-hotel-finland/?utm_source=rss&utm_medium=rss&utm_campaign=ruby-hotel-finland",
+      "primary_url": "https://boutiquehotelnews.com/news/hotel/ruby-hotel-finland/?utm_source=rss&utm_medium=rss&utm_campaign=ruby-hotel-finland",
+      "source": "Boutique Hotel News",
+      "source_name": "Boutique Hotel News",
       "sources": [
         {
-          "id": "hotelitem_986a47e99dc9",
-          "title": "Choice’s New CEO Has 3 Top Fixes — Plus $450 Million in Hotels to Sell",
-          "url": "https://skift.com/2026/09/09/choices-new-ceo-has-3-top-fixes-plus-450-million-in-hotels-to-sell/",
-          "source": "Skift Hospitality",
-          "source_name": "Skift Hospitality",
-          "site_id": "skift",
-          "published_at": "2026-09-09T20:03:54Z"
+          "id": "hotelitem_bdf4e58188f5",
+          "title": "Ruby Group signs first hotel in Finland",
+          "url": "https://boutiquehotelnews.com/news/hotel/ruby-hotel-finland/?utm_source=rss&utm_medium=rss&utm_campaign=ruby-hotel-finland",
+          "source": "Boutique Hotel News",
+          "source_name": "Boutique Hotel News",
+          "site_id": "boutiquehotel",
+          "published_at": "2026-09-10T17:02:05Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Skift Hospitality"
+        "Boutique Hotel News"
       ],
       "items": [
         {
-          "id": "hotelitem_986a47e99dc9",
-          "title": "Choice’s New CEO Has 3 Top Fixes — Plus $450 Million in Hotels to Sell",
-          "url": "https://skift.com/2026/09/09/choices-new-ceo-has-3-top-fixes-plus-450-million-in-hotels-to-sell/",
-          "source": "Skift Hospitality",
-          "source_name": "Skift Hospitality",
-          "site_id": "skift",
-          "published_at": "2026-09-09T20:03:54Z"
+          "id": "hotelitem_bdf4e58188f5",
+          "title": "Ruby Group signs first hotel in Finland",
+          "url": "https://boutiquehotelnews.com/news/hotel/ruby-hotel-finland/?utm_source=rss&utm_medium=rss&utm_campaign=ruby-hotel-finland",
+          "source": "Boutique Hotel News",
+          "source_name": "Boutique Hotel News",
+          "site_id": "boutiquehotel",
+          "published_at": "2026-09-10T17:02:05Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.839,
-      "importance": 0.5731,
-      "importance_score": 0.839,
+      "score": 0.8265,
+      "importance": 0.5756,
+      "importance_score": 0.8265,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8654,
+        "recency": 0.8779,
         "story_heat": 0.0
       },
       "category": "watch",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-09T20:03:54Z",
-      "latest_at": "2026-09-09T20:03:54Z",
+      "earliest_at": "2026-09-10T17:02:05Z",
+      "latest_at": "2026-09-10T17:02:05Z",
       "primary_item": {
-        "id": "hotelitem_986a47e99dc9",
-        "title": "Choice’s New CEO Has 3 Top Fixes — Plus $450 Million in Hotels to Sell",
-        "url": "https://skift.com/2026/09/09/choices-new-ceo-has-3-top-fixes-plus-450-million-in-hotels-to-sell/",
-        "source": "Skift Hospitality",
-        "source_name": "Skift Hospitality"
+        "id": "hotelitem_bdf4e58188f5",
+        "title": "Ruby Group signs first hotel in Finland",
+        "url": "https://boutiquehotelnews.com/news/hotel/ruby-hotel-finland/?utm_source=rss&utm_medium=rss&utm_campaign=ruby-hotel-finland",
+        "source": "Boutique Hotel News",
+        "source_name": "Boutique Hotel News"
+      }
+    },
+    {
+      "story_id": "story_6f466bc19129",
+      "title": "The Hoxton to make Middle East debut",
+      "url": "https://boutiquehotelnews.com/news/hotel/the-hoxton-middle-east/?utm_source=rss&utm_medium=rss&utm_campaign=the-hoxton-middle-east",
+      "primary_url": "https://boutiquehotelnews.com/news/hotel/the-hoxton-middle-east/?utm_source=rss&utm_medium=rss&utm_campaign=the-hoxton-middle-east",
+      "source": "Boutique Hotel News",
+      "source_name": "Boutique Hotel News",
+      "sources": [
+        {
+          "id": "hotelitem_6f466bc19129",
+          "title": "The Hoxton to make Middle East debut",
+          "url": "https://boutiquehotelnews.com/news/hotel/the-hoxton-middle-east/?utm_source=rss&utm_medium=rss&utm_campaign=the-hoxton-middle-east",
+          "source": "Boutique Hotel News",
+          "source_name": "Boutique Hotel News",
+          "site_id": "boutiquehotel",
+          "published_at": "2026-09-09T08:45:33Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Boutique Hotel News"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_6f466bc19129",
+          "title": "The Hoxton to make Middle East debut",
+          "url": "https://boutiquehotelnews.com/news/hotel/the-hoxton-middle-east/?utm_source=rss&utm_medium=rss&utm_campaign=the-hoxton-middle-east",
+          "source": "Boutique Hotel News",
+          "source_name": "Boutique Hotel News",
+          "site_id": "boutiquehotel",
+          "published_at": "2026-09-09T08:45:33Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8207,
+      "importance": 0.5696,
+      "importance_score": 0.8207,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.848,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-09T08:45:33Z",
+      "latest_at": "2026-09-09T08:45:33Z",
+      "primary_item": {
+        "id": "hotelitem_6f466bc19129",
+        "title": "The Hoxton to make Middle East debut",
+        "url": "https://boutiquehotelnews.com/news/hotel/the-hoxton-middle-east/?utm_source=rss&utm_medium=rss&utm_campaign=the-hoxton-middle-east",
+        "source": "Boutique Hotel News",
+        "source_name": "Boutique Hotel News"
+      }
+    },
+    {
+      "story_id": "story_07d6e0759d9e",
+      "title": "No-cost attendance for hospitality owners and operators at Urban Living Festival 2027",
+      "url": "https://boutiquehotelnews.com/news/industry/urban-living-festival-2027/?utm_source=rss&utm_medium=rss&utm_campaign=urban-living-festival-2027",
+      "primary_url": "https://boutiquehotelnews.com/news/industry/urban-living-festival-2027/?utm_source=rss&utm_medium=rss&utm_campaign=urban-living-festival-2027",
+      "source": "Boutique Hotel News",
+      "source_name": "Boutique Hotel News",
+      "sources": [
+        {
+          "id": "hotelitem_07d6e0759d9e",
+          "title": "No-cost attendance for hospitality owners and operators at Urban Living Festival 2027",
+          "url": "https://boutiquehotelnews.com/news/industry/urban-living-festival-2027/?utm_source=rss&utm_medium=rss&utm_campaign=urban-living-festival-2027",
+          "source": "Boutique Hotel News",
+          "source_name": "Boutique Hotel News",
+          "site_id": "boutiquehotel",
+          "published_at": "2026-09-09T08:30:50Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Boutique Hotel News"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_07d6e0759d9e",
+          "title": "No-cost attendance for hospitality owners and operators at Urban Living Festival 2027",
+          "url": "https://boutiquehotelnews.com/news/industry/urban-living-festival-2027/?utm_source=rss&utm_medium=rss&utm_campaign=urban-living-festival-2027",
+          "source": "Boutique Hotel News",
+          "source_name": "Boutique Hotel News",
+          "site_id": "boutiquehotel",
+          "published_at": "2026-09-09T08:30:50Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8206,
+      "importance": 0.5696,
+      "importance_score": 0.8206,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.8478,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-09T08:30:50Z",
+      "latest_at": "2026-09-09T08:30:50Z",
+      "primary_item": {
+        "id": "hotelitem_07d6e0759d9e",
+        "title": "No-cost attendance for hospitality owners and operators at Urban Living Festival 2027",
+        "url": "https://boutiquehotelnews.com/news/industry/urban-living-festival-2027/?utm_source=rss&utm_medium=rss&utm_campaign=urban-living-festival-2027",
+        "source": "Boutique Hotel News",
+        "source_name": "Boutique Hotel News"
+      }
+    },
+    {
+      "story_id": "story_d9e42a0d0f9c",
+      "title": "奥地利国家旅游局一行到访众信旅游集团",
+      "url": "https://www.pinchain.com/article/351063",
+      "primary_url": "https://www.pinchain.com/article/351063",
+      "source": "品橙旅游",
+      "source_name": "品橙旅游",
+      "sources": [
+        {
+          "id": "hotelitem_d9e42a0d0f9c",
+          "title": "奥地利国家旅游局一行到访众信旅游集团",
+          "url": "https://www.pinchain.com/article/351063",
+          "source": "品橙旅游",
+          "source_name": "品橙旅游",
+          "site_id": "pinchain",
+          "published_at": "2026-09-15T07:35:22Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "品橙旅游"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_d9e42a0d0f9c",
+          "title": "奥地利国家旅游局一行到访众信旅游集团",
+          "url": "https://www.pinchain.com/article/351063",
+          "source": "品橙旅游",
+          "source_name": "品橙旅游",
+          "site_id": "pinchain",
+          "published_at": "2026-09-15T07:35:22Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8137,
+      "importance": 0.5961,
+      "importance_score": 0.8137,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9803,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-15T07:35:22Z",
+      "latest_at": "2026-09-15T07:35:22Z",
+      "primary_item": {
+        "id": "hotelitem_d9e42a0d0f9c",
+        "title": "奥地利国家旅游局一行到访众信旅游集团",
+        "url": "https://www.pinchain.com/article/351063",
+        "source": "品橙旅游",
+        "source_name": "品橙旅游"
       }
     }
   ]
