@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T17:03:18.365729Z",
+  "generated_at": "2026-09-16T21:21:30.483209Z",
   "window_hours": 1080,
   "total_items": 30,
   "items": [
@@ -39,13 +39,13 @@
       "item_count": 1,
       "duplicate_count": 1,
       "score": 1.0,
-      "importance": 0.5982,
+      "importance": 0.5974,
       "importance_score": 1.0,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9909,
+        "recency": 0.9869,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -60,65 +60,6 @@
         "url": "https://www.traveldaily.cn/article/190696",
         "source": "环球旅讯 TravelDaily",
         "source_name": "环球旅讯 TravelDaily"
-      }
-    },
-    {
-      "story_id": "story_df6c4e5e0eee",
-      "title": "Accor Considers Acquisitions in India After Treebo Deal Falls Apart",
-      "url": "https://skift.com/2026/09/15/accor-considers-acquisitions-in-india-after-treebo-deal-falls-apart/",
-      "primary_url": "https://skift.com/2026/09/15/accor-considers-acquisitions-in-india-after-treebo-deal-falls-apart/",
-      "source": "Skift Hospitality",
-      "source_name": "Skift Hospitality",
-      "sources": [
-        {
-          "id": "hotelitem_df6c4e5e0eee",
-          "title": "Accor Considers Acquisitions in India After Treebo Deal Falls Apart",
-          "url": "https://skift.com/2026/09/15/accor-considers-acquisitions-in-india-after-treebo-deal-falls-apart/",
-          "source": "Skift Hospitality",
-          "source_name": "Skift Hospitality",
-          "site_id": "skift",
-          "published_at": "2026-09-16T03:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Skift Hospitality"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_df6c4e5e0eee",
-          "title": "Accor Considers Acquisitions in India After Treebo Deal Falls Apart",
-          "url": "https://skift.com/2026/09/15/accor-considers-acquisitions-in-india-after-treebo-deal-falls-apart/",
-          "source": "Skift Hospitality",
-          "source_name": "Skift Hospitality",
-          "site_id": "skift",
-          "published_at": "2026-09-16T03:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.9525,
-      "importance": 0.5974,
-      "importance_score": 0.9525,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.987,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-16T03:00:00Z",
-      "latest_at": "2026-09-16T03:00:00Z",
-      "primary_item": {
-        "id": "hotelitem_df6c4e5e0eee",
-        "title": "Accor Considers Acquisitions in India After Treebo Deal Falls Apart",
-        "url": "https://skift.com/2026/09/15/accor-considers-acquisitions-in-india-after-treebo-deal-falls-apart/",
-        "source": "Skift Hospitality",
-        "source_name": "Skift Hospitality"
       }
     },
     {
@@ -156,14 +97,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9523,
-      "importance": 0.5972,
-      "importance_score": 0.9523,
+      "score": 0.9515,
+      "importance": 0.5964,
+      "importance_score": 0.9515,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9859,
+        "recency": 0.9819,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -215,14 +156,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9501,
-      "importance": 0.5949,
-      "importance_score": 0.9501,
+      "score": 0.9493,
+      "importance": 0.5941,
+      "importance_score": 0.9493,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9744,
+        "recency": 0.9705,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -274,14 +215,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9471,
-      "importance": 0.5918,
-      "importance_score": 0.9471,
+      "score": 0.9463,
+      "importance": 0.591,
+      "importance_score": 0.9463,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.959,
+        "recency": 0.955,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -333,14 +274,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9466,
-      "importance": 0.5913,
-      "importance_score": 0.9466,
+      "score": 0.9459,
+      "importance": 0.5905,
+      "importance_score": 0.9459,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9567,
+        "recency": 0.9527,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -355,65 +296,6 @@
         "url": "https://skift.com/2026/09/14/wyndhams-newest-brand-is-a-boutique-spin-off-of-dolce-hotels/",
         "source": "Skift Hospitality",
         "source_name": "Skift Hospitality"
-      }
-    },
-    {
-      "story_id": "story_ec7bb9639eaf",
-      "title": "Hilton CMO Mark Weinstein steps down",
-      "url": "https://www.hoteldive.com/news/hilton-cmo-mark-weinstein-steps-down/830152/",
-      "primary_url": "https://www.hoteldive.com/news/hilton-cmo-mark-weinstein-steps-down/830152/",
-      "source": "Hotel Dive",
-      "source_name": "Hotel Dive",
-      "sources": [
-        {
-          "id": "hotelitem_ec7bb9639eaf",
-          "title": "Hilton CMO Mark Weinstein steps down",
-          "url": "https://www.hoteldive.com/news/hilton-cmo-mark-weinstein-steps-down/830152/",
-          "source": "Hotel Dive",
-          "source_name": "Hotel Dive",
-          "site_id": "hoteldive",
-          "published_at": "2026-09-11T13:56:38Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hotel Dive"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_ec7bb9639eaf",
-          "title": "Hilton CMO Mark Weinstein steps down",
-          "url": "https://www.hoteldive.com/news/hilton-cmo-mark-weinstein-steps-down/830152/",
-          "source": "Hotel Dive",
-          "source_name": "Hotel Dive",
-          "site_id": "hoteldive",
-          "published_at": "2026-09-11T13:56:38Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.933,
-      "importance": 0.5772,
-      "importance_score": 0.933,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.886,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-11T13:56:38Z",
-      "latest_at": "2026-09-11T13:56:38Z",
-      "primary_item": {
-        "id": "hotelitem_ec7bb9639eaf",
-        "title": "Hilton CMO Mark Weinstein steps down",
-        "url": "https://www.hoteldive.com/news/hilton-cmo-mark-weinstein-steps-down/830152/",
-        "source": "Hotel Dive",
-        "source_name": "Hotel Dive"
       }
     },
     {
@@ -451,14 +333,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.933,
-      "importance": 0.5772,
-      "importance_score": 0.933,
+      "score": 0.9323,
+      "importance": 0.5764,
+      "importance_score": 0.9323,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8861,
+        "recency": 0.8821,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -471,6 +353,65 @@
         "id": "hotelitem_73df63c24013",
         "title": "Marriott furthers corporate hotel distribution strategy with Spotnana integration",
         "url": "https://www.hoteldive.com/news/marriott-furthers-corporate-hotel-distribution-strategy-spotnana-integration/830154/",
+        "source": "Hotel Dive",
+        "source_name": "Hotel Dive"
+      }
+    },
+    {
+      "story_id": "story_ec7bb9639eaf",
+      "title": "Hilton CMO Mark Weinstein steps down",
+      "url": "https://www.hoteldive.com/news/hilton-cmo-mark-weinstein-steps-down/830152/",
+      "primary_url": "https://www.hoteldive.com/news/hilton-cmo-mark-weinstein-steps-down/830152/",
+      "source": "Hotel Dive",
+      "source_name": "Hotel Dive",
+      "sources": [
+        {
+          "id": "hotelitem_ec7bb9639eaf",
+          "title": "Hilton CMO Mark Weinstein steps down",
+          "url": "https://www.hoteldive.com/news/hilton-cmo-mark-weinstein-steps-down/830152/",
+          "source": "Hotel Dive",
+          "source_name": "Hotel Dive",
+          "site_id": "hoteldive",
+          "published_at": "2026-09-11T13:56:38Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hotel Dive"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_ec7bb9639eaf",
+          "title": "Hilton CMO Mark Weinstein steps down",
+          "url": "https://www.hoteldive.com/news/hilton-cmo-mark-weinstein-steps-down/830152/",
+          "source": "Hotel Dive",
+          "source_name": "Hotel Dive",
+          "site_id": "hoteldive",
+          "published_at": "2026-09-11T13:56:38Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.9322,
+      "importance": 0.5764,
+      "importance_score": 0.9322,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.882,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-11T13:56:38Z",
+      "latest_at": "2026-09-11T13:56:38Z",
+      "primary_item": {
+        "id": "hotelitem_ec7bb9639eaf",
+        "title": "Hilton CMO Mark Weinstein steps down",
+        "url": "https://www.hoteldive.com/news/hilton-cmo-mark-weinstein-steps-down/830152/",
         "source": "Hotel Dive",
         "source_name": "Hotel Dive"
       }
@@ -510,14 +451,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9281,
-      "importance": 0.5981,
-      "importance_score": 0.9281,
+      "score": 0.9274,
+      "importance": 0.5973,
+      "importance_score": 0.9274,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9903,
+        "recency": 0.9863,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -569,14 +510,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9024,
-      "importance": 0.5637,
-      "importance_score": 0.9024,
+      "score": 0.9012,
+      "importance": 0.5629,
+      "importance_score": 0.9012,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8186,
+        "recency": 0.8146,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -608,7 +549,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-09-16T17:03:18.365729Z"
+          "published_at": "2026-09-16T21:21:30.483209Z"
         }
       ],
       "source_count": 1,
@@ -623,7 +564,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-09-16T17:03:18.365729Z"
+          "published_at": "2026-09-16T21:21:30.483209Z"
         }
       ],
       "item_count": 1,
@@ -642,8 +583,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-16T17:03:18.365729Z",
-      "latest_at": "2026-09-16T17:03:18.365729Z",
+      "earliest_at": "2026-09-16T21:21:30.483209Z",
+      "latest_at": "2026-09-16T21:21:30.483209Z",
       "primary_item": {
         "id": "hotelitem_06f191e24d38",
         "title": "文旅惠报|复星国际申请分拆Club Med在港上市；南京商旅上半年营收3.66亿元",
@@ -687,14 +628,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8835,
-      "importance": 0.5984,
-      "importance_score": 0.8835,
+      "score": 0.8827,
+      "importance": 0.5976,
+      "importance_score": 0.8827,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9921,
+        "recency": 0.9881,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -746,14 +687,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8731,
-      "importance": 0.5335,
-      "importance_score": 0.8731,
+      "score": 0.8719,
+      "importance": 0.5327,
+      "importance_score": 0.8719,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.6675,
+        "recency": 0.6635,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -768,6 +709,84 @@
         "url": "https://www.hotelmanagement.net/resource/smarter-purchasing-stronger-profits-hotel-managements-top-purchasing-tips-2027",
         "source": "Hotel Management",
         "source_name": "Hotel Management"
+      }
+    },
+    {
+      "story_id": "story_4f1065fc8e95",
+      "title": "Agoda Reveals Growing Travel Interest Ahead  ... Singapore, 3 September 2026: Agoda Company Pte. Ltd. (Headquarters: Singapore; CEO: Omri Morgenshtern) ... September 3, 2026 / Travel Trends",
+      "url": "https://www.agoda.com/press/agoda-reveals-growing-travel-interest-ahead-of-one-of-asias-leading-sporting-events-to-be-held-in-japan-in-fall-2026/",
+      "primary_url": "https://www.agoda.com/press/agoda-reveals-growing-travel-interest-ahead-of-one-of-asias-leading-sporting-events-to-be-held-in-japan-in-fall-2026/",
+      "source": "Agoda",
+      "source_name": "Agoda",
+      "sources": [
+        {
+          "id": "hotelitem_4451b63c1784",
+          "title": "Agoda Reveals Growing Travel Interest Ahead  ... Singapore, 3 September 2026: Agoda Company Pte. Ltd. (Headquarters: Singapore; CEO: Omri Morgenshtern) ... September 3, 2026 / Travel Trends",
+          "url": "https://www.agoda.com/press/agoda-reveals-growing-travel-interest-ahead-of-one-of-asias-leading-sporting-events-to-be-held-in-japan-in-fall-2026/",
+          "source": "Agoda",
+          "source_name": "Agoda",
+          "site_id": "agoda_press",
+          "published_at": "2026-09-16T21:21:30.483209Z"
+        },
+        {
+          "id": "hotelitem_4f1065fc8e95",
+          "title": "Agoda Reveals Growing Travel Interest for 20 ... Singapore, 4 September 2026: Agoda Company Pte. Ltd. (Headquarters: Singapore; CEO: Omri Morgenshtern) ... September 4, 2026 / Travel Trends",
+          "url": "https://www.agoda.com/press/agoda-reveals-growing-travel-interest-for-2026-silver-week-in-japan-driven-by-first-five-day-holiday-in-11-years/",
+          "source": "Agoda",
+          "source_name": "Agoda",
+          "site_id": "agoda_press",
+          "published_at": "2026-09-16T21:21:30.483209Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Agoda"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_4451b63c1784",
+          "title": "Agoda Reveals Growing Travel Interest Ahead  ... Singapore, 3 September 2026: Agoda Company Pte. Ltd. (Headquarters: Singapore; CEO: Omri Morgenshtern) ... September 3, 2026 / Travel Trends",
+          "url": "https://www.agoda.com/press/agoda-reveals-growing-travel-interest-ahead-of-one-of-asias-leading-sporting-events-to-be-held-in-japan-in-fall-2026/",
+          "source": "Agoda",
+          "source_name": "Agoda",
+          "site_id": "agoda_press",
+          "published_at": "2026-09-16T21:21:30.483209Z"
+        },
+        {
+          "id": "hotelitem_4f1065fc8e95",
+          "title": "Agoda Reveals Growing Travel Interest for 20 ... Singapore, 4 September 2026: Agoda Company Pte. Ltd. (Headquarters: Singapore; CEO: Omri Morgenshtern) ... September 4, 2026 / Travel Trends",
+          "url": "https://www.agoda.com/press/agoda-reveals-growing-travel-interest-for-2026-silver-week-in-japan-driven-by-first-five-day-holiday-in-11-years/",
+          "source": "Agoda",
+          "source_name": "Agoda",
+          "site_id": "agoda_press",
+          "published_at": "2026-09-16T21:21:30.483209Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8625,
+      "importance": 0.625,
+      "importance_score": 0.8625,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-16T21:21:30.483209Z",
+      "latest_at": "2026-09-16T21:21:30.483209Z",
+      "primary_item": {
+        "id": "hotelitem_4451b63c1784",
+        "title": "Agoda Reveals Growing Travel Interest Ahead  ... Singapore, 3 September 2026: Agoda Company Pte. Ltd. (Headquarters: Singapore; CEO: Omri Morgenshtern) ... September 3, 2026 / Travel Trends",
+        "url": "https://www.agoda.com/press/agoda-reveals-growing-travel-interest-ahead-of-one-of-asias-leading-sporting-events-to-be-held-in-japan-in-fall-2026/",
+        "source": "Agoda",
+        "source_name": "Agoda"
       }
     },
     {
@@ -805,14 +824,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.863,
-      "importance": 0.598,
-      "importance_score": 0.863,
+      "score": 0.8623,
+      "importance": 0.5972,
+      "importance_score": 0.8623,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9898,
+        "recency": 0.9858,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -827,84 +846,6 @@
         "url": "https://skift.com/2026/09/16/abu-dhabi-pins-hopes-on-f1-and-events-calendar-to-reverse-a-14-2-drop-in-hotel-guests/",
         "source": "Skift Hospitality",
         "source_name": "Skift Hospitality"
-      }
-    },
-    {
-      "story_id": "story_4f1065fc8e95",
-      "title": "Agoda Reveals Growing Travel Interest Ahead  ... Singapore, 3 September 2026: Agoda Company Pte. Ltd. (Headquarters: Singapore; CEO: Omri Morgenshtern) ... September 3, 2026 / Travel Trends",
-      "url": "https://www.agoda.com/press/agoda-reveals-growing-travel-interest-ahead-of-one-of-asias-leading-sporting-events-to-be-held-in-japan-in-fall-2026/",
-      "primary_url": "https://www.agoda.com/press/agoda-reveals-growing-travel-interest-ahead-of-one-of-asias-leading-sporting-events-to-be-held-in-japan-in-fall-2026/",
-      "source": "Agoda",
-      "source_name": "Agoda",
-      "sources": [
-        {
-          "id": "hotelitem_4451b63c1784",
-          "title": "Agoda Reveals Growing Travel Interest Ahead  ... Singapore, 3 September 2026: Agoda Company Pte. Ltd. (Headquarters: Singapore; CEO: Omri Morgenshtern) ... September 3, 2026 / Travel Trends",
-          "url": "https://www.agoda.com/press/agoda-reveals-growing-travel-interest-ahead-of-one-of-asias-leading-sporting-events-to-be-held-in-japan-in-fall-2026/",
-          "source": "Agoda",
-          "source_name": "Agoda",
-          "site_id": "agoda_press",
-          "published_at": "2026-09-16T17:03:18.365729Z"
-        },
-        {
-          "id": "hotelitem_4f1065fc8e95",
-          "title": "Agoda Reveals Growing Travel Interest for 20 ... Singapore, 4 September 2026: Agoda Company Pte. Ltd. (Headquarters: Singapore; CEO: Omri Morgenshtern) ... September 4, 2026 / Travel Trends",
-          "url": "https://www.agoda.com/press/agoda-reveals-growing-travel-interest-for-2026-silver-week-in-japan-driven-by-first-five-day-holiday-in-11-years/",
-          "source": "Agoda",
-          "source_name": "Agoda",
-          "site_id": "agoda_press",
-          "published_at": "2026-09-16T17:03:18.365729Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Agoda"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_4451b63c1784",
-          "title": "Agoda Reveals Growing Travel Interest Ahead  ... Singapore, 3 September 2026: Agoda Company Pte. Ltd. (Headquarters: Singapore; CEO: Omri Morgenshtern) ... September 3, 2026 / Travel Trends",
-          "url": "https://www.agoda.com/press/agoda-reveals-growing-travel-interest-ahead-of-one-of-asias-leading-sporting-events-to-be-held-in-japan-in-fall-2026/",
-          "source": "Agoda",
-          "source_name": "Agoda",
-          "site_id": "agoda_press",
-          "published_at": "2026-09-16T17:03:18.365729Z"
-        },
-        {
-          "id": "hotelitem_4f1065fc8e95",
-          "title": "Agoda Reveals Growing Travel Interest for 20 ... Singapore, 4 September 2026: Agoda Company Pte. Ltd. (Headquarters: Singapore; CEO: Omri Morgenshtern) ... September 4, 2026 / Travel Trends",
-          "url": "https://www.agoda.com/press/agoda-reveals-growing-travel-interest-for-2026-silver-week-in-japan-driven-by-first-five-day-holiday-in-11-years/",
-          "source": "Agoda",
-          "source_name": "Agoda",
-          "site_id": "agoda_press",
-          "published_at": "2026-09-16T17:03:18.365729Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8625,
-      "importance": 0.625,
-      "importance_score": 0.8625,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-16T17:03:18.365729Z",
-      "latest_at": "2026-09-16T17:03:18.365729Z",
-      "primary_item": {
-        "id": "hotelitem_4451b63c1784",
-        "title": "Agoda Reveals Growing Travel Interest Ahead  ... Singapore, 3 September 2026: Agoda Company Pte. Ltd. (Headquarters: Singapore; CEO: Omri Morgenshtern) ... September 3, 2026 / Travel Trends",
-        "url": "https://www.agoda.com/press/agoda-reveals-growing-travel-interest-ahead-of-one-of-asias-leading-sporting-events-to-be-held-in-japan-in-fall-2026/",
-        "source": "Agoda",
-        "source_name": "Agoda"
       }
     },
     {
@@ -942,14 +883,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8622,
-      "importance": 0.5971,
-      "importance_score": 0.8622,
+      "score": 0.8615,
+      "importance": 0.5963,
+      "importance_score": 0.8615,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9856,
+        "recency": 0.9816,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1001,14 +942,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8622,
-      "importance": 0.5971,
-      "importance_score": 0.8622,
+      "score": 0.8615,
+      "importance": 0.5963,
+      "importance_score": 0.8615,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9857,
+        "recency": 0.9817,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1060,14 +1001,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8618,
-      "importance": 0.5967,
-      "importance_score": 0.8618,
+      "score": 0.861,
+      "importance": 0.5959,
+      "importance_score": 0.861,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9833,
+        "recency": 0.9793,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1082,6 +1023,143 @@
         "url": "https://insights.ehotelier.com/announcements/2026/09/16/your-hotels-strategy-shouldnt-live-in-your-head/?utm_source=rss&utm_medium=rss&utm_campaign=your-hotels-strategy-shouldnt-live-in-your-head",
         "source": "eHotelier",
         "source_name": "eHotelier"
+      }
+    },
+    {
+      "story_id": "story_c7c15b7680c9",
+      "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
+      "url": "https://www.chinahotel.org.cn/articles/17408",
+      "primary_url": "https://www.chinahotel.org.cn/articles/17408",
+      "source": "中国饭店协会",
+      "source_name": "中国饭店协会",
+      "sources": [
+        {
+          "id": "hotelitem_d4370964909c",
+          "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
+          "url": "https://www.chinahotel.org.cn/articles/17408",
+          "source": "中国饭店协会",
+          "source_name": "中国饭店协会",
+          "site_id": "chinahotel",
+          "published_at": "2026-09-16T21:21:30.483209Z"
+        },
+        {
+          "id": "hotelitem_c7c15b7680c9",
+          "title": "绿色饭店 | 2026年第一批国家标准绿色饭店名单公布 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007) 在全国组织开展国家标准绿色饭店的评定工作。现公布2026年第一批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
+          "url": "https://www.chinahotel.org.cn/articles/17689",
+          "source": "中国饭店协会",
+          "source_name": "中国饭店协会",
+          "site_id": "chinahotel",
+          "published_at": "2026-09-16T21:21:30.483209Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "中国饭店协会"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_d4370964909c",
+          "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
+          "url": "https://www.chinahotel.org.cn/articles/17408",
+          "source": "中国饭店协会",
+          "source_name": "中国饭店协会",
+          "site_id": "chinahotel",
+          "published_at": "2026-09-16T21:21:30.483209Z"
+        },
+        {
+          "id": "hotelitem_c7c15b7680c9",
+          "title": "绿色饭店 | 2026年第一批国家标准绿色饭店名单公布 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007) 在全国组织开展国家标准绿色饭店的评定工作。现公布2026年第一批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
+          "url": "https://www.chinahotel.org.cn/articles/17689",
+          "source": "中国饭店协会",
+          "source_name": "中国饭店协会",
+          "site_id": "chinahotel",
+          "published_at": "2026-09-16T21:21:30.483209Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.86,
+      "importance": 0.625,
+      "importance_score": 0.86,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-16T21:21:30.483209Z",
+      "latest_at": "2026-09-16T21:21:30.483209Z",
+      "primary_item": {
+        "id": "hotelitem_d4370964909c",
+        "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
+        "url": "https://www.chinahotel.org.cn/articles/17408",
+        "source": "中国饭店协会",
+        "source_name": "中国饭店协会"
+      }
+    },
+    {
+      "story_id": "story_2a53afb306e4",
+      "title": "凯撒旅业全资孙公司疑遭诈骗2695万元 接近去年净利",
+      "url": "https://www.meadin.com/wl/301195.html",
+      "primary_url": "https://www.meadin.com/wl/301195.html",
+      "source": "迈点研究院",
+      "source_name": "迈点研究院",
+      "sources": [
+        {
+          "id": "hotelitem_2a53afb306e4",
+          "title": "凯撒旅业全资孙公司疑遭诈骗2695万元 接近去年净利",
+          "url": "https://www.meadin.com/wl/301195.html",
+          "source": "迈点研究院",
+          "source_name": "迈点研究院",
+          "site_id": "meadin",
+          "published_at": "2026-09-16T21:21:30.483209Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "迈点研究院"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_2a53afb306e4",
+          "title": "凯撒旅业全资孙公司疑遭诈骗2695万元 接近去年净利",
+          "url": "https://www.meadin.com/wl/301195.html",
+          "source": "迈点研究院",
+          "source_name": "迈点研究院",
+          "site_id": "meadin",
+          "published_at": "2026-09-16T21:21:30.483209Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.86,
+      "importance": 0.6,
+      "importance_score": 0.86,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-16T21:21:30.483209Z",
+      "latest_at": "2026-09-16T21:21:30.483209Z",
+      "primary_item": {
+        "id": "hotelitem_2a53afb306e4",
+        "title": "凯撒旅业全资孙公司疑遭诈骗2695万元 接近去年净利",
+        "url": "https://www.meadin.com/wl/301195.html",
+        "source": "迈点研究院",
+        "source_name": "迈点研究院"
       }
     },
     {
@@ -1119,14 +1197,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.86,
-      "importance": 0.5948,
-      "importance_score": 0.86,
+      "score": 0.8592,
+      "importance": 0.594,
+      "importance_score": 0.8592,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.974,
+        "recency": 0.97,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1144,143 +1222,6 @@
       }
     },
     {
-      "story_id": "story_c7c15b7680c9",
-      "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
-      "url": "https://www.chinahotel.org.cn/articles/17408",
-      "primary_url": "https://www.chinahotel.org.cn/articles/17408",
-      "source": "中国饭店协会",
-      "source_name": "中国饭店协会",
-      "sources": [
-        {
-          "id": "hotelitem_d4370964909c",
-          "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
-          "url": "https://www.chinahotel.org.cn/articles/17408",
-          "source": "中国饭店协会",
-          "source_name": "中国饭店协会",
-          "site_id": "chinahotel",
-          "published_at": "2026-09-16T17:03:18.365729Z"
-        },
-        {
-          "id": "hotelitem_c7c15b7680c9",
-          "title": "绿色饭店 | 2026年第一批国家标准绿色饭店名单公布 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007) 在全国组织开展国家标准绿色饭店的评定工作。现公布2026年第一批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
-          "url": "https://www.chinahotel.org.cn/articles/17689",
-          "source": "中国饭店协会",
-          "source_name": "中国饭店协会",
-          "site_id": "chinahotel",
-          "published_at": "2026-09-16T17:03:18.365729Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "中国饭店协会"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_d4370964909c",
-          "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
-          "url": "https://www.chinahotel.org.cn/articles/17408",
-          "source": "中国饭店协会",
-          "source_name": "中国饭店协会",
-          "site_id": "chinahotel",
-          "published_at": "2026-09-16T17:03:18.365729Z"
-        },
-        {
-          "id": "hotelitem_c7c15b7680c9",
-          "title": "绿色饭店 | 2026年第一批国家标准绿色饭店名单公布 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007) 在全国组织开展国家标准绿色饭店的评定工作。现公布2026年第一批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
-          "url": "https://www.chinahotel.org.cn/articles/17689",
-          "source": "中国饭店协会",
-          "source_name": "中国饭店协会",
-          "site_id": "chinahotel",
-          "published_at": "2026-09-16T17:03:18.365729Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.86,
-      "importance": 0.625,
-      "importance_score": 0.86,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-16T17:03:18.365729Z",
-      "latest_at": "2026-09-16T17:03:18.365729Z",
-      "primary_item": {
-        "id": "hotelitem_d4370964909c",
-        "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
-        "url": "https://www.chinahotel.org.cn/articles/17408",
-        "source": "中国饭店协会",
-        "source_name": "中国饭店协会"
-      }
-    },
-    {
-      "story_id": "story_2a53afb306e4",
-      "title": "凯撒旅业全资孙公司疑遭诈骗2695万元 接近去年净利",
-      "url": "https://www.meadin.com/wl/301195.html",
-      "primary_url": "https://www.meadin.com/wl/301195.html",
-      "source": "迈点研究院",
-      "source_name": "迈点研究院",
-      "sources": [
-        {
-          "id": "hotelitem_2a53afb306e4",
-          "title": "凯撒旅业全资孙公司疑遭诈骗2695万元 接近去年净利",
-          "url": "https://www.meadin.com/wl/301195.html",
-          "source": "迈点研究院",
-          "source_name": "迈点研究院",
-          "site_id": "meadin",
-          "published_at": "2026-09-16T17:03:18.365729Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "迈点研究院"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_2a53afb306e4",
-          "title": "凯撒旅业全资孙公司疑遭诈骗2695万元 接近去年净利",
-          "url": "https://www.meadin.com/wl/301195.html",
-          "source": "迈点研究院",
-          "source_name": "迈点研究院",
-          "site_id": "meadin",
-          "published_at": "2026-09-16T17:03:18.365729Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.86,
-      "importance": 0.6,
-      "importance_score": 0.86,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-16T17:03:18.365729Z",
-      "latest_at": "2026-09-16T17:03:18.365729Z",
-      "primary_item": {
-        "id": "hotelitem_2a53afb306e4",
-        "title": "凯撒旅业全资孙公司疑遭诈骗2695万元 接近去年净利",
-        "url": "https://www.meadin.com/wl/301195.html",
-        "source": "迈点研究院",
-        "source_name": "迈点研究院"
-      }
-    },
-    {
       "story_id": "story_e4ce0593c384",
       "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
       "url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
@@ -1295,7 +1236,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-09-16T17:03:18.365729Z"
+          "published_at": "2026-09-16T21:21:30.483209Z"
         }
       ],
       "source_count": 1,
@@ -1310,7 +1251,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-09-16T17:03:18.365729Z"
+          "published_at": "2026-09-16T21:21:30.483209Z"
         }
       ],
       "item_count": 1,
@@ -1329,8 +1270,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-16T17:03:18.365729Z",
-      "latest_at": "2026-09-16T17:03:18.365729Z",
+      "earliest_at": "2026-09-16T21:21:30.483209Z",
+      "latest_at": "2026-09-16T21:21:30.483209Z",
       "primary_item": {
         "id": "hotelitem_e4ce0593c384",
         "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
@@ -1354,7 +1295,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-09-16T17:03:18.365729Z"
+          "published_at": "2026-09-16T21:21:30.483209Z"
         }
       ],
       "source_count": 1,
@@ -1369,7 +1310,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-09-16T17:03:18.365729Z"
+          "published_at": "2026-09-16T21:21:30.483209Z"
         }
       ],
       "item_count": 1,
@@ -1388,8 +1329,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-16T17:03:18.365729Z",
-      "latest_at": "2026-09-16T17:03:18.365729Z",
+      "earliest_at": "2026-09-16T21:21:30.483209Z",
+      "latest_at": "2026-09-16T21:21:30.483209Z",
       "primary_item": {
         "id": "hotelitem_c3062f911641",
         "title": "市场监管总局会同文化和旅游部召开在线酒店...",
@@ -1413,7 +1354,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-09-16T17:03:18.365729Z"
+          "published_at": "2026-09-16T21:21:30.483209Z"
         }
       ],
       "source_count": 1,
@@ -1428,7 +1369,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-09-16T17:03:18.365729Z"
+          "published_at": "2026-09-16T21:21:30.483209Z"
         }
       ],
       "item_count": 1,
@@ -1447,8 +1388,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-16T17:03:18.365729Z",
-      "latest_at": "2026-09-16T17:03:18.365729Z",
+      "earliest_at": "2026-09-16T21:21:30.483209Z",
+      "latest_at": "2026-09-16T21:21:30.483209Z",
       "primary_item": {
         "id": "hotelitem_b6b01fce0ded",
         "title": "文化和旅游部印发《文化和旅游发展“十五五...",
@@ -1472,7 +1413,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-09-16T17:03:18.365729Z"
+          "published_at": "2026-09-16T21:21:30.483209Z"
         }
       ],
       "source_count": 1,
@@ -1487,7 +1428,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-09-16T17:03:18.365729Z"
+          "published_at": "2026-09-16T21:21:30.483209Z"
         }
       ],
       "item_count": 1,
@@ -1506,8 +1447,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-16T17:03:18.365729Z",
-      "latest_at": "2026-09-16T17:03:18.365729Z",
+      "earliest_at": "2026-09-16T21:21:30.483209Z",
+      "latest_at": "2026-09-16T21:21:30.483209Z",
       "primary_item": {
         "id": "hotelitem_8f218475e743",
         "title": "文化和旅游部发布2026年上半年国内居民出游数据情况",
@@ -1531,7 +1472,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-09-16T17:03:18.365729Z"
+          "published_at": "2026-09-16T21:21:30.483209Z"
         }
       ],
       "source_count": 1,
@@ -1546,7 +1487,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-09-16T17:03:18.365729Z"
+          "published_at": "2026-09-16T21:21:30.483209Z"
         }
       ],
       "item_count": 1,
@@ -1565,8 +1506,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-16T17:03:18.365729Z",
-      "latest_at": "2026-09-16T17:03:18.365729Z",
+      "earliest_at": "2026-09-16T21:21:30.483209Z",
+      "latest_at": "2026-09-16T21:21:30.483209Z",
       "primary_item": {
         "id": "hotelitem_492acb2b854b",
         "title": "文化和旅游部召开树立和践行正确政绩观学习...",
@@ -1610,14 +1551,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8531,
-      "importance": 0.542,
-      "importance_score": 0.8531,
+      "score": 0.8519,
+      "importance": 0.5412,
+      "importance_score": 0.8519,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.7101,
+        "recency": 0.7061,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1669,14 +1610,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8431,
-      "importance": 0.5773,
-      "importance_score": 0.8431,
+      "score": 0.8423,
+      "importance": 0.5765,
+      "importance_score": 0.8423,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8863,
+        "recency": 0.8823,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1728,14 +1669,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.839,
-      "importance": 0.5731,
-      "importance_score": 0.839,
+      "score": 0.8383,
+      "importance": 0.5723,
+      "importance_score": 0.8383,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8653,
+        "recency": 0.8613,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1787,14 +1728,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8243,
-      "importance": 0.5733,
-      "importance_score": 0.8243,
+      "score": 0.8235,
+      "importance": 0.5725,
+      "importance_score": 0.8235,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8666,
+        "recency": 0.8627,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1809,6 +1750,65 @@
         "url": "https://boutiquehotelnews.com/news/hotel/ruby-hotel-finland/?utm_source=rss&utm_medium=rss&utm_campaign=ruby-hotel-finland",
         "source": "Boutique Hotel News",
         "source_name": "Boutique Hotel News"
+      }
+    },
+    {
+      "story_id": "story_df6c4e5e0eee",
+      "title": "Accor Considers More Deals in India After Treebo Partnership Ends",
+      "url": "https://skift.com/2026/09/15/accor-considers-acquisitions-in-india-after-treebo-deal-falls-apart/",
+      "primary_url": "https://skift.com/2026/09/15/accor-considers-acquisitions-in-india-after-treebo-deal-falls-apart/",
+      "source": "Skift Hospitality",
+      "source_name": "Skift Hospitality",
+      "sources": [
+        {
+          "id": "hotelitem_df6c4e5e0eee",
+          "title": "Accor Considers More Deals in India After Treebo Partnership Ends",
+          "url": "https://skift.com/2026/09/15/accor-considers-acquisitions-in-india-after-treebo-deal-falls-apart/",
+          "source": "Skift Hospitality",
+          "source_name": "Skift Hospitality",
+          "site_id": "skift",
+          "published_at": "2026-09-16T03:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Skift Hospitality"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_df6c4e5e0eee",
+          "title": "Accor Considers More Deals in India After Treebo Partnership Ends",
+          "url": "https://skift.com/2026/09/15/accor-considers-acquisitions-in-india-after-treebo-deal-falls-apart/",
+          "source": "Skift Hospitality",
+          "source_name": "Skift Hospitality",
+          "site_id": "skift",
+          "published_at": "2026-09-16T03:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8167,
+      "importance": 0.5966,
+      "importance_score": 0.8167,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.983,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-16T03:00:00Z",
+      "latest_at": "2026-09-16T03:00:00Z",
+      "primary_item": {
+        "id": "hotelitem_df6c4e5e0eee",
+        "title": "Accor Considers More Deals in India After Treebo Partnership Ends",
+        "url": "https://skift.com/2026/09/15/accor-considers-acquisitions-in-india-after-treebo-deal-falls-apart/",
+        "source": "Skift Hospitality",
+        "source_name": "Skift Hospitality"
       }
     }
   ]
