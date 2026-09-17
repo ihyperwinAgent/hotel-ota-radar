@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T11:47:20.490829Z",
+  "generated_at": "2026-09-17T17:03:42.598642Z",
   "window_hours": 1080,
   "total_items": 30,
   "items": [
@@ -39,13 +39,13 @@
       "item_count": 1,
       "duplicate_count": 1,
       "score": 1.0,
-      "importance": 0.5947,
+      "importance": 0.5937,
       "importance_score": 1.0,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9735,
+        "recency": 0.9686,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -60,6 +60,65 @@
         "url": "https://www.traveldaily.cn/article/190696",
         "source": "环球旅讯 TravelDaily",
         "source_name": "环球旅讯 TravelDaily"
+      }
+    },
+    {
+      "story_id": "story_0a2b2eaec8c4",
+      "title": "Marriott undergoes ‘organizational changes’ to customer engagement teams",
+      "url": "https://www.hoteldive.com/news/marriott-undergoes-organizational-changes-customer-engagement-centers/830653/",
+      "primary_url": "https://www.hoteldive.com/news/marriott-undergoes-organizational-changes-customer-engagement-centers/830653/",
+      "source": "Hotel Dive",
+      "source_name": "Hotel Dive",
+      "sources": [
+        {
+          "id": "hotelitem_0a2b2eaec8c4",
+          "title": "Marriott undergoes ‘organizational changes’ to customer engagement teams",
+          "url": "https://www.hoteldive.com/news/marriott-undergoes-organizational-changes-customer-engagement-centers/830653/",
+          "source": "Hotel Dive",
+          "source_name": "Hotel Dive",
+          "site_id": "hoteldive",
+          "published_at": "2026-09-17T14:12:44Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hotel Dive"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_0a2b2eaec8c4",
+          "title": "Marriott undergoes ‘organizational changes’ to customer engagement teams",
+          "url": "https://www.hoteldive.com/news/marriott-undergoes-organizational-changes-customer-engagement-centers/830653/",
+          "source": "Hotel Dive",
+          "source_name": "Hotel Dive",
+          "site_id": "hoteldive",
+          "published_at": "2026-09-17T14:12:44Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.9545,
+      "importance": 0.5995,
+      "importance_score": 0.9545,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9974,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-17T14:12:44Z",
+      "latest_at": "2026-09-17T14:12:44Z",
+      "primary_item": {
+        "id": "hotelitem_0a2b2eaec8c4",
+        "title": "Marriott undergoes ‘organizational changes’ to customer engagement teams",
+        "url": "https://www.hoteldive.com/news/marriott-undergoes-organizational-changes-customer-engagement-centers/830653/",
+        "source": "Hotel Dive",
+        "source_name": "Hotel Dive"
       }
     },
     {
@@ -97,14 +156,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9532,
-      "importance": 0.5982,
-      "importance_score": 0.9532,
+      "score": 0.9523,
+      "importance": 0.5972,
+      "importance_score": 0.9523,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9909,
+        "recency": 0.986,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -119,6 +178,65 @@
         "url": "https://insights.ehotelier.com/global-news/2026/09/17/tribute-portfolio-and-hamptons-whodunit-bring-a-mystery-and-true-crime-festival-to-savannah/?utm_source=rss&utm_medium=rss&utm_campaign=tribute-portfolio-and-hamptons-whodunit-bring-a-mystery-and-true-crime-festival-to-savannah",
         "source": "eHotelier",
         "source_name": "eHotelier"
+      }
+    },
+    {
+      "story_id": "story_8e59191c0b89",
+      "title": "Union workers at Seattle Hilton reach deal to end 85-day strike",
+      "url": "https://www.hoteldive.com/news/union-workers-at-seattle-hilton-reach-deal-to-end-85-day-strike/830486/",
+      "primary_url": "https://www.hoteldive.com/news/union-workers-at-seattle-hilton-reach-deal-to-end-85-day-strike/830486/",
+      "source": "Hotel Dive",
+      "source_name": "Hotel Dive",
+      "sources": [
+        {
+          "id": "hotelitem_8e59191c0b89",
+          "title": "Union workers at Seattle Hilton reach deal to end 85-day strike",
+          "url": "https://www.hoteldive.com/news/union-workers-at-seattle-hilton-reach-deal-to-end-85-day-strike/830486/",
+          "source": "Hotel Dive",
+          "source_name": "Hotel Dive",
+          "site_id": "hoteldive",
+          "published_at": "2026-09-16T04:39:32Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hotel Dive"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_8e59191c0b89",
+          "title": "Union workers at Seattle Hilton reach deal to end 85-day strike",
+          "url": "https://www.hoteldive.com/news/union-workers-at-seattle-hilton-reach-deal-to-end-85-day-strike/830486/",
+          "source": "Hotel Dive",
+          "source_name": "Hotel Dive",
+          "site_id": "hoteldive",
+          "published_at": "2026-09-16T04:39:32Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.9485,
+      "importance": 0.5933,
+      "importance_score": 0.9485,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9663,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-16T04:39:32Z",
+      "latest_at": "2026-09-16T04:39:32Z",
+      "primary_item": {
+        "id": "hotelitem_8e59191c0b89",
+        "title": "Union workers at Seattle Hilton reach deal to end 85-day strike",
+        "url": "https://www.hoteldive.com/news/union-workers-at-seattle-hilton-reach-deal-to-end-85-day-strike/830486/",
+        "source": "Hotel Dive",
+        "source_name": "Hotel Dive"
       }
     },
     {
@@ -156,14 +274,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9467,
-      "importance": 0.5914,
-      "importance_score": 0.9467,
+      "score": 0.9458,
+      "importance": 0.5904,
+      "importance_score": 0.9458,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9571,
+        "recency": 0.9522,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -215,14 +333,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9437,
-      "importance": 0.5883,
-      "importance_score": 0.9437,
+      "score": 0.9428,
+      "importance": 0.5874,
+      "importance_score": 0.9428,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9416,
+        "recency": 0.9368,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -274,14 +392,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9433,
-      "importance": 0.5879,
-      "importance_score": 0.9433,
+      "score": 0.9424,
+      "importance": 0.5869,
+      "importance_score": 0.9424,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9393,
+        "recency": 0.9345,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -333,14 +451,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9393,
-      "importance": 0.5993,
-      "importance_score": 0.9393,
+      "score": 0.9384,
+      "importance": 0.5983,
+      "importance_score": 0.9384,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9965,
+        "recency": 0.9916,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -358,124 +476,6 @@
       }
     },
     {
-      "story_id": "story_ec7bb9639eaf",
-      "title": "Hilton CMO Mark Weinstein steps down",
-      "url": "https://www.hoteldive.com/news/hilton-cmo-mark-weinstein-steps-down/830152/",
-      "primary_url": "https://www.hoteldive.com/news/hilton-cmo-mark-weinstein-steps-down/830152/",
-      "source": "Hotel Dive",
-      "source_name": "Hotel Dive",
-      "sources": [
-        {
-          "id": "hotelitem_ec7bb9639eaf",
-          "title": "Hilton CMO Mark Weinstein steps down",
-          "url": "https://www.hoteldive.com/news/hilton-cmo-mark-weinstein-steps-down/830152/",
-          "source": "Hotel Dive",
-          "source_name": "Hotel Dive",
-          "site_id": "hoteldive",
-          "published_at": "2026-09-11T13:56:38Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hotel Dive"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_ec7bb9639eaf",
-          "title": "Hilton CMO Mark Weinstein steps down",
-          "url": "https://www.hoteldive.com/news/hilton-cmo-mark-weinstein-steps-down/830152/",
-          "source": "Hotel Dive",
-          "source_name": "Hotel Dive",
-          "site_id": "hoteldive",
-          "published_at": "2026-09-11T13:56:38Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.9297,
-      "importance": 0.5737,
-      "importance_score": 0.9297,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.8687,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-11T13:56:38Z",
-      "latest_at": "2026-09-11T13:56:38Z",
-      "primary_item": {
-        "id": "hotelitem_ec7bb9639eaf",
-        "title": "Hilton CMO Mark Weinstein steps down",
-        "url": "https://www.hoteldive.com/news/hilton-cmo-mark-weinstein-steps-down/830152/",
-        "source": "Hotel Dive",
-        "source_name": "Hotel Dive"
-      }
-    },
-    {
-      "story_id": "story_73df63c24013",
-      "title": "Marriott furthers corporate hotel distribution strategy with Spotnana integration",
-      "url": "https://www.hoteldive.com/news/marriott-furthers-corporate-hotel-distribution-strategy-spotnana-integration/830154/",
-      "primary_url": "https://www.hoteldive.com/news/marriott-furthers-corporate-hotel-distribution-strategy-spotnana-integration/830154/",
-      "source": "Hotel Dive",
-      "source_name": "Hotel Dive",
-      "sources": [
-        {
-          "id": "hotelitem_73df63c24013",
-          "title": "Marriott furthers corporate hotel distribution strategy with Spotnana integration",
-          "url": "https://www.hoteldive.com/news/marriott-furthers-corporate-hotel-distribution-strategy-spotnana-integration/830154/",
-          "source": "Hotel Dive",
-          "source_name": "Hotel Dive",
-          "site_id": "hoteldive",
-          "published_at": "2026-09-11T14:01:25Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hotel Dive"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_73df63c24013",
-          "title": "Marriott furthers corporate hotel distribution strategy with Spotnana integration",
-          "url": "https://www.hoteldive.com/news/marriott-furthers-corporate-hotel-distribution-strategy-spotnana-integration/830154/",
-          "source": "Hotel Dive",
-          "source_name": "Hotel Dive",
-          "site_id": "hoteldive",
-          "published_at": "2026-09-11T14:01:25Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.9297,
-      "importance": 0.5737,
-      "importance_score": 0.9297,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.8687,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-11T14:01:25Z",
-      "latest_at": "2026-09-11T14:01:25Z",
-      "primary_item": {
-        "id": "hotelitem_73df63c24013",
-        "title": "Marriott furthers corporate hotel distribution strategy with Spotnana integration",
-        "url": "https://www.hoteldive.com/news/marriott-furthers-corporate-hotel-distribution-strategy-spotnana-integration/830154/",
-        "source": "Hotel Dive",
-        "source_name": "Hotel Dive"
-      }
-    },
-    {
       "story_id": "story_06f191e24d38",
       "title": "文旅惠报|复星国际申请分拆Club Med在港上市；南京商旅上半年营收3.66亿元",
       "url": "https://www.tripvivid.com/47868.html",
@@ -490,7 +490,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-09-17T11:47:20.490829Z"
+          "published_at": "2026-09-17T17:03:42.598642Z"
         }
       ],
       "source_count": 1,
@@ -505,7 +505,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-09-17T11:47:20.490829Z"
+          "published_at": "2026-09-17T17:03:42.598642Z"
         }
       ],
       "item_count": 1,
@@ -524,8 +524,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-17T11:47:20.490829Z",
-      "latest_at": "2026-09-17T11:47:20.490829Z",
+      "earliest_at": "2026-09-17T17:03:42.598642Z",
+      "latest_at": "2026-09-17T17:03:42.598642Z",
       "primary_item": {
         "id": "hotelitem_06f191e24d38",
         "title": "文旅惠报|复星国际申请分拆Club Med在港上市；南京商旅上半年营收3.66亿元",
@@ -569,14 +569,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8801,
-      "importance": 0.5949,
-      "importance_score": 0.8801,
+      "score": 0.8792,
+      "importance": 0.594,
+      "importance_score": 0.8792,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9747,
+        "recency": 0.9699,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -628,14 +628,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.868,
-      "importance": 0.53,
-      "importance_score": 0.868,
+      "score": 0.8665,
+      "importance": 0.529,
+      "importance_score": 0.8665,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.6501,
+        "recency": 0.6452,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -650,6 +650,261 @@
         "url": "https://www.hotelmanagement.net/resource/smarter-purchasing-stronger-profits-hotel-managements-top-purchasing-tips-2027",
         "source": "Hotel Management",
         "source_name": "Hotel Management"
+      }
+    },
+    {
+      "story_id": "story_90212e26f588",
+      "title": "Field & Stream Lodge Co. expands to Oregon, California",
+      "url": "https://www.hoteldive.com/news/field-stream-lodge-co-expands-oregon-california/830643/",
+      "primary_url": "https://www.hoteldive.com/news/field-stream-lodge-co-expands-oregon-california/830643/",
+      "source": "Hotel Dive",
+      "source_name": "Hotel Dive",
+      "sources": [
+        {
+          "id": "hotelitem_90212e26f588",
+          "title": "Field & Stream Lodge Co. expands to Oregon, California",
+          "url": "https://www.hoteldive.com/news/field-stream-lodge-co-expands-oregon-california/830643/",
+          "source": "Hotel Dive",
+          "source_name": "Hotel Dive",
+          "site_id": "hoteldive",
+          "published_at": "2026-09-17T13:27:09Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hotel Dive"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_90212e26f588",
+          "title": "Field & Stream Lodge Co. expands to Oregon, California",
+          "url": "https://www.hoteldive.com/news/field-stream-lodge-co-expands-oregon-california/830643/",
+          "source": "Hotel Dive",
+          "source_name": "Hotel Dive",
+          "site_id": "hoteldive",
+          "published_at": "2026-09-17T13:27:09Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8644,
+      "importance": 0.5993,
+      "importance_score": 0.8644,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9967,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-17T13:27:09Z",
+      "latest_at": "2026-09-17T13:27:09Z",
+      "primary_item": {
+        "id": "hotelitem_90212e26f588",
+        "title": "Field & Stream Lodge Co. expands to Oregon, California",
+        "url": "https://www.hoteldive.com/news/field-stream-lodge-co-expands-oregon-california/830643/",
+        "source": "Hotel Dive",
+        "source_name": "Hotel Dive"
+      }
+    },
+    {
+      "story_id": "story_1e39d62728e2",
+      "title": "Minor Hotels Signs First Hanoi Property, Targets 2028 Opening",
+      "url": "https://skift.com/2026/09/17/minor-hotels-signs-first-hanoi-property-targets-2028-opening/",
+      "primary_url": "https://skift.com/2026/09/17/minor-hotels-signs-first-hanoi-property-targets-2028-opening/",
+      "source": "Skift Hospitality",
+      "source_name": "Skift Hospitality",
+      "sources": [
+        {
+          "id": "hotelitem_1e39d62728e2",
+          "title": "Minor Hotels Signs First Hanoi Property, Targets 2028 Opening",
+          "url": "https://skift.com/2026/09/17/minor-hotels-signs-first-hanoi-property-targets-2028-opening/",
+          "source": "Skift Hospitality",
+          "source_name": "Skift Hospitality",
+          "site_id": "skift",
+          "published_at": "2026-09-17T13:23:17Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Skift Hospitality"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_1e39d62728e2",
+          "title": "Minor Hotels Signs First Hanoi Property, Targets 2028 Opening",
+          "url": "https://skift.com/2026/09/17/minor-hotels-signs-first-hanoi-property-targets-2028-opening/",
+          "source": "Skift Hospitality",
+          "source_name": "Skift Hospitality",
+          "site_id": "skift",
+          "published_at": "2026-09-17T13:23:17Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8643,
+      "importance": 0.5993,
+      "importance_score": 0.8643,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9966,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-17T13:23:17Z",
+      "latest_at": "2026-09-17T13:23:17Z",
+      "primary_item": {
+        "id": "hotelitem_1e39d62728e2",
+        "title": "Minor Hotels Signs First Hanoi Property, Targets 2028 Opening",
+        "url": "https://skift.com/2026/09/17/minor-hotels-signs-first-hanoi-property-targets-2028-opening/",
+        "source": "Skift Hospitality",
+        "source_name": "Skift Hospitality"
+      }
+    },
+    {
+      "story_id": "story_4f1065fc8e95",
+      "title": "Agoda Reveals Growing Travel Interest Ahead  ... Singapore, 3 September 2026: Agoda Company Pte. Ltd. (Headquarters: Singapore; CEO: Omri Morgenshtern) ... September 3, 2026 / Travel Trends",
+      "url": "https://www.agoda.com/press/agoda-reveals-growing-travel-interest-ahead-of-one-of-asias-leading-sporting-events-to-be-held-in-japan-in-fall-2026/",
+      "primary_url": "https://www.agoda.com/press/agoda-reveals-growing-travel-interest-ahead-of-one-of-asias-leading-sporting-events-to-be-held-in-japan-in-fall-2026/",
+      "source": "Agoda",
+      "source_name": "Agoda",
+      "sources": [
+        {
+          "id": "hotelitem_4451b63c1784",
+          "title": "Agoda Reveals Growing Travel Interest Ahead  ... Singapore, 3 September 2026: Agoda Company Pte. Ltd. (Headquarters: Singapore; CEO: Omri Morgenshtern) ... September 3, 2026 / Travel Trends",
+          "url": "https://www.agoda.com/press/agoda-reveals-growing-travel-interest-ahead-of-one-of-asias-leading-sporting-events-to-be-held-in-japan-in-fall-2026/",
+          "source": "Agoda",
+          "source_name": "Agoda",
+          "site_id": "agoda_press",
+          "published_at": "2026-09-17T17:03:42.598642Z"
+        },
+        {
+          "id": "hotelitem_4f1065fc8e95",
+          "title": "Agoda Reveals Growing Travel Interest for 20 ... Singapore, 4 September 2026: Agoda Company Pte. Ltd. (Headquarters: Singapore; CEO: Omri Morgenshtern) ... September 4, 2026 / Travel Trends",
+          "url": "https://www.agoda.com/press/agoda-reveals-growing-travel-interest-for-2026-silver-week-in-japan-driven-by-first-five-day-holiday-in-11-years/",
+          "source": "Agoda",
+          "source_name": "Agoda",
+          "site_id": "agoda_press",
+          "published_at": "2026-09-17T17:03:42.598642Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Agoda"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_4451b63c1784",
+          "title": "Agoda Reveals Growing Travel Interest Ahead  ... Singapore, 3 September 2026: Agoda Company Pte. Ltd. (Headquarters: Singapore; CEO: Omri Morgenshtern) ... September 3, 2026 / Travel Trends",
+          "url": "https://www.agoda.com/press/agoda-reveals-growing-travel-interest-ahead-of-one-of-asias-leading-sporting-events-to-be-held-in-japan-in-fall-2026/",
+          "source": "Agoda",
+          "source_name": "Agoda",
+          "site_id": "agoda_press",
+          "published_at": "2026-09-17T17:03:42.598642Z"
+        },
+        {
+          "id": "hotelitem_4f1065fc8e95",
+          "title": "Agoda Reveals Growing Travel Interest for 20 ... Singapore, 4 September 2026: Agoda Company Pte. Ltd. (Headquarters: Singapore; CEO: Omri Morgenshtern) ... September 4, 2026 / Travel Trends",
+          "url": "https://www.agoda.com/press/agoda-reveals-growing-travel-interest-for-2026-silver-week-in-japan-driven-by-first-five-day-holiday-in-11-years/",
+          "source": "Agoda",
+          "source_name": "Agoda",
+          "site_id": "agoda_press",
+          "published_at": "2026-09-17T17:03:42.598642Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8625,
+      "importance": 0.625,
+      "importance_score": 0.8625,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-17T17:03:42.598642Z",
+      "latest_at": "2026-09-17T17:03:42.598642Z",
+      "primary_item": {
+        "id": "hotelitem_4451b63c1784",
+        "title": "Agoda Reveals Growing Travel Interest Ahead  ... Singapore, 3 September 2026: Agoda Company Pte. Ltd. (Headquarters: Singapore; CEO: Omri Morgenshtern) ... September 3, 2026 / Travel Trends",
+        "url": "https://www.agoda.com/press/agoda-reveals-growing-travel-interest-ahead-of-one-of-asias-leading-sporting-events-to-be-held-in-japan-in-fall-2026/",
+        "source": "Agoda",
+        "source_name": "Agoda"
+      }
+    },
+    {
+      "story_id": "story_f65f4db9fa17",
+      "title": "Navera Phuket – MGallery Collection invites guests to sail into serenity from Q4 2026",
+      "url": "https://insights.ehotelier.com/global-news/2026/09/17/navera-phuket-mgallery-collection-invites-guests-to-sail-into-serenity-from-q4-2026/?utm_source=rss&utm_medium=rss&utm_campaign=navera-phuket-mgallery-collection-invites-guests-to-sail-into-serenity-from-q4-2026",
+      "primary_url": "https://insights.ehotelier.com/global-news/2026/09/17/navera-phuket-mgallery-collection-invites-guests-to-sail-into-serenity-from-q4-2026/?utm_source=rss&utm_medium=rss&utm_campaign=navera-phuket-mgallery-collection-invites-guests-to-sail-into-serenity-from-q4-2026",
+      "source": "eHotelier",
+      "source_name": "eHotelier",
+      "sources": [
+        {
+          "id": "hotelitem_f65f4db9fa17",
+          "title": "Navera Phuket – MGallery Collection invites guests to sail into serenity from Q4 2026",
+          "url": "https://insights.ehotelier.com/global-news/2026/09/17/navera-phuket-mgallery-collection-invites-guests-to-sail-into-serenity-from-q4-2026/?utm_source=rss&utm_medium=rss&utm_campaign=navera-phuket-mgallery-collection-invites-guests-to-sail-into-serenity-from-q4-2026",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-09-17T01:50:30Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "eHotelier"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_f65f4db9fa17",
+          "title": "Navera Phuket – MGallery Collection invites guests to sail into serenity from Q4 2026",
+          "url": "https://insights.ehotelier.com/global-news/2026/09/17/navera-phuket-mgallery-collection-invites-guests-to-sail-into-serenity-from-q4-2026/?utm_source=rss&utm_medium=rss&utm_campaign=navera-phuket-mgallery-collection-invites-guests-to-sail-into-serenity-from-q4-2026",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-09-17T01:50:30Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8623,
+      "importance": 0.5972,
+      "importance_score": 0.8623,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9859,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-17T01:50:30Z",
+      "latest_at": "2026-09-17T01:50:30Z",
+      "primary_item": {
+        "id": "hotelitem_f65f4db9fa17",
+        "title": "Navera Phuket – MGallery Collection invites guests to sail into serenity from Q4 2026",
+        "url": "https://insights.ehotelier.com/global-news/2026/09/17/navera-phuket-mgallery-collection-invites-guests-to-sail-into-serenity-from-q4-2026/?utm_source=rss&utm_medium=rss&utm_campaign=navera-phuket-mgallery-collection-invites-guests-to-sail-into-serenity-from-q4-2026",
+        "source": "eHotelier",
+        "source_name": "eHotelier"
       }
     },
     {
@@ -687,14 +942,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8633,
-      "importance": 0.5982,
-      "importance_score": 0.8633,
+      "score": 0.8623,
+      "importance": 0.5972,
+      "importance_score": 0.8623,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9909,
+        "recency": 0.9861,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -746,14 +1001,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8633,
-      "importance": 0.5982,
-      "importance_score": 0.8633,
+      "score": 0.8623,
+      "importance": 0.5972,
+      "importance_score": 0.8623,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.991,
+        "recency": 0.9861,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -771,143 +1026,6 @@
       }
     },
     {
-      "story_id": "story_f65f4db9fa17",
-      "title": "Navera Phuket – MGallery Collection invites guests to sail into serenity from Q4 2026",
-      "url": "https://insights.ehotelier.com/global-news/2026/09/17/navera-phuket-mgallery-collection-invites-guests-to-sail-into-serenity-from-q4-2026/?utm_source=rss&utm_medium=rss&utm_campaign=navera-phuket-mgallery-collection-invites-guests-to-sail-into-serenity-from-q4-2026",
-      "primary_url": "https://insights.ehotelier.com/global-news/2026/09/17/navera-phuket-mgallery-collection-invites-guests-to-sail-into-serenity-from-q4-2026/?utm_source=rss&utm_medium=rss&utm_campaign=navera-phuket-mgallery-collection-invites-guests-to-sail-into-serenity-from-q4-2026",
-      "source": "eHotelier",
-      "source_name": "eHotelier",
-      "sources": [
-        {
-          "id": "hotelitem_f65f4db9fa17",
-          "title": "Navera Phuket – MGallery Collection invites guests to sail into serenity from Q4 2026",
-          "url": "https://insights.ehotelier.com/global-news/2026/09/17/navera-phuket-mgallery-collection-invites-guests-to-sail-into-serenity-from-q4-2026/?utm_source=rss&utm_medium=rss&utm_campaign=navera-phuket-mgallery-collection-invites-guests-to-sail-into-serenity-from-q4-2026",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-09-17T01:50:30Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "eHotelier"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_f65f4db9fa17",
-          "title": "Navera Phuket – MGallery Collection invites guests to sail into serenity from Q4 2026",
-          "url": "https://insights.ehotelier.com/global-news/2026/09/17/navera-phuket-mgallery-collection-invites-guests-to-sail-into-serenity-from-q4-2026/?utm_source=rss&utm_medium=rss&utm_campaign=navera-phuket-mgallery-collection-invites-guests-to-sail-into-serenity-from-q4-2026",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-09-17T01:50:30Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8632,
-      "importance": 0.5982,
-      "importance_score": 0.8632,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9908,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-17T01:50:30Z",
-      "latest_at": "2026-09-17T01:50:30Z",
-      "primary_item": {
-        "id": "hotelitem_f65f4db9fa17",
-        "title": "Navera Phuket – MGallery Collection invites guests to sail into serenity from Q4 2026",
-        "url": "https://insights.ehotelier.com/global-news/2026/09/17/navera-phuket-mgallery-collection-invites-guests-to-sail-into-serenity-from-q4-2026/?utm_source=rss&utm_medium=rss&utm_campaign=navera-phuket-mgallery-collection-invites-guests-to-sail-into-serenity-from-q4-2026",
-        "source": "eHotelier",
-        "source_name": "eHotelier"
-      }
-    },
-    {
-      "story_id": "story_4f1065fc8e95",
-      "title": "Agoda Reveals Growing Travel Interest Ahead  ... Singapore, 3 September 2026: Agoda Company Pte. Ltd. (Headquarters: Singapore; CEO: Omri Morgenshtern) ... September 3, 2026 / Travel Trends",
-      "url": "https://www.agoda.com/press/agoda-reveals-growing-travel-interest-ahead-of-one-of-asias-leading-sporting-events-to-be-held-in-japan-in-fall-2026/",
-      "primary_url": "https://www.agoda.com/press/agoda-reveals-growing-travel-interest-ahead-of-one-of-asias-leading-sporting-events-to-be-held-in-japan-in-fall-2026/",
-      "source": "Agoda",
-      "source_name": "Agoda",
-      "sources": [
-        {
-          "id": "hotelitem_4451b63c1784",
-          "title": "Agoda Reveals Growing Travel Interest Ahead  ... Singapore, 3 September 2026: Agoda Company Pte. Ltd. (Headquarters: Singapore; CEO: Omri Morgenshtern) ... September 3, 2026 / Travel Trends",
-          "url": "https://www.agoda.com/press/agoda-reveals-growing-travel-interest-ahead-of-one-of-asias-leading-sporting-events-to-be-held-in-japan-in-fall-2026/",
-          "source": "Agoda",
-          "source_name": "Agoda",
-          "site_id": "agoda_press",
-          "published_at": "2026-09-17T11:47:20.490829Z"
-        },
-        {
-          "id": "hotelitem_4f1065fc8e95",
-          "title": "Agoda Reveals Growing Travel Interest for 20 ... Singapore, 4 September 2026: Agoda Company Pte. Ltd. (Headquarters: Singapore; CEO: Omri Morgenshtern) ... September 4, 2026 / Travel Trends",
-          "url": "https://www.agoda.com/press/agoda-reveals-growing-travel-interest-for-2026-silver-week-in-japan-driven-by-first-five-day-holiday-in-11-years/",
-          "source": "Agoda",
-          "source_name": "Agoda",
-          "site_id": "agoda_press",
-          "published_at": "2026-09-17T11:47:20.490829Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Agoda"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_4451b63c1784",
-          "title": "Agoda Reveals Growing Travel Interest Ahead  ... Singapore, 3 September 2026: Agoda Company Pte. Ltd. (Headquarters: Singapore; CEO: Omri Morgenshtern) ... September 3, 2026 / Travel Trends",
-          "url": "https://www.agoda.com/press/agoda-reveals-growing-travel-interest-ahead-of-one-of-asias-leading-sporting-events-to-be-held-in-japan-in-fall-2026/",
-          "source": "Agoda",
-          "source_name": "Agoda",
-          "site_id": "agoda_press",
-          "published_at": "2026-09-17T11:47:20.490829Z"
-        },
-        {
-          "id": "hotelitem_4f1065fc8e95",
-          "title": "Agoda Reveals Growing Travel Interest for 20 ... Singapore, 4 September 2026: Agoda Company Pte. Ltd. (Headquarters: Singapore; CEO: Omri Morgenshtern) ... September 4, 2026 / Travel Trends",
-          "url": "https://www.agoda.com/press/agoda-reveals-growing-travel-interest-for-2026-silver-week-in-japan-driven-by-first-five-day-holiday-in-11-years/",
-          "source": "Agoda",
-          "source_name": "Agoda",
-          "site_id": "agoda_press",
-          "published_at": "2026-09-17T11:47:20.490829Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8625,
-      "importance": 0.625,
-      "importance_score": 0.8625,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-17T11:47:20.490829Z",
-      "latest_at": "2026-09-17T11:47:20.490829Z",
-      "primary_item": {
-        "id": "hotelitem_4451b63c1784",
-        "title": "Agoda Reveals Growing Travel Interest Ahead  ... Singapore, 3 September 2026: Agoda Company Pte. Ltd. (Headquarters: Singapore; CEO: Omri Morgenshtern) ... September 3, 2026 / Travel Trends",
-        "url": "https://www.agoda.com/press/agoda-reveals-growing-travel-interest-ahead-of-one-of-asias-leading-sporting-events-to-be-held-in-japan-in-fall-2026/",
-        "source": "Agoda",
-        "source_name": "Agoda"
-      }
-    },
-    {
       "story_id": "story_c7c15b7680c9",
       "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
       "url": "https://www.chinahotel.org.cn/articles/17408",
@@ -922,7 +1040,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-09-17T11:47:20.490829Z"
+          "published_at": "2026-09-17T17:03:42.598642Z"
         },
         {
           "id": "hotelitem_c7c15b7680c9",
@@ -931,7 +1049,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-09-17T11:47:20.490829Z"
+          "published_at": "2026-09-17T17:03:42.598642Z"
         }
       ],
       "source_count": 2,
@@ -946,7 +1064,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-09-17T11:47:20.490829Z"
+          "published_at": "2026-09-17T17:03:42.598642Z"
         },
         {
           "id": "hotelitem_c7c15b7680c9",
@@ -955,7 +1073,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-09-17T11:47:20.490829Z"
+          "published_at": "2026-09-17T17:03:42.598642Z"
         }
       ],
       "item_count": 2,
@@ -975,8 +1093,8 @@
         "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-17T11:47:20.490829Z",
-      "latest_at": "2026-09-17T11:47:20.490829Z",
+      "earliest_at": "2026-09-17T17:03:42.598642Z",
+      "latest_at": "2026-09-17T17:03:42.598642Z",
       "primary_item": {
         "id": "hotelitem_d4370964909c",
         "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
@@ -1020,14 +1138,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8597,
-      "importance": 0.5945,
-      "importance_score": 0.8597,
+      "score": 0.8587,
+      "importance": 0.5935,
+      "importance_score": 0.8587,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9724,
+        "recency": 0.9675,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1059,7 +1177,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-09-17T11:47:20.490829Z"
+          "published_at": "2026-09-17T17:03:42.598642Z"
         }
       ],
       "source_count": 1,
@@ -1074,7 +1192,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-09-17T11:47:20.490829Z"
+          "published_at": "2026-09-17T17:03:42.598642Z"
         }
       ],
       "item_count": 1,
@@ -1093,8 +1211,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-17T11:47:20.490829Z",
-      "latest_at": "2026-09-17T11:47:20.490829Z",
+      "earliest_at": "2026-09-17T17:03:42.598642Z",
+      "latest_at": "2026-09-17T17:03:42.598642Z",
       "primary_item": {
         "id": "hotelitem_e4ce0593c384",
         "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
@@ -1118,7 +1236,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-09-17T11:47:20.490829Z"
+          "published_at": "2026-09-17T17:03:42.598642Z"
         }
       ],
       "source_count": 1,
@@ -1133,7 +1251,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-09-17T11:47:20.490829Z"
+          "published_at": "2026-09-17T17:03:42.598642Z"
         }
       ],
       "item_count": 1,
@@ -1152,8 +1270,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-17T11:47:20.490829Z",
-      "latest_at": "2026-09-17T11:47:20.490829Z",
+      "earliest_at": "2026-09-17T17:03:42.598642Z",
+      "latest_at": "2026-09-17T17:03:42.598642Z",
       "primary_item": {
         "id": "hotelitem_c3062f911641",
         "title": "市场监管总局会同文化和旅游部召开在线酒店...",
@@ -1177,7 +1295,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-09-17T11:47:20.490829Z"
+          "published_at": "2026-09-17T17:03:42.598642Z"
         }
       ],
       "source_count": 1,
@@ -1192,7 +1310,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-09-17T11:47:20.490829Z"
+          "published_at": "2026-09-17T17:03:42.598642Z"
         }
       ],
       "item_count": 1,
@@ -1211,8 +1329,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-17T11:47:20.490829Z",
-      "latest_at": "2026-09-17T11:47:20.490829Z",
+      "earliest_at": "2026-09-17T17:03:42.598642Z",
+      "latest_at": "2026-09-17T17:03:42.598642Z",
       "primary_item": {
         "id": "hotelitem_b6b01fce0ded",
         "title": "文化和旅游部印发《文化和旅游发展“十五五...",
@@ -1236,7 +1354,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-09-17T11:47:20.490829Z"
+          "published_at": "2026-09-17T17:03:42.598642Z"
         }
       ],
       "source_count": 1,
@@ -1251,7 +1369,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-09-17T11:47:20.490829Z"
+          "published_at": "2026-09-17T17:03:42.598642Z"
         }
       ],
       "item_count": 1,
@@ -1270,8 +1388,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-17T11:47:20.490829Z",
-      "latest_at": "2026-09-17T11:47:20.490829Z",
+      "earliest_at": "2026-09-17T17:03:42.598642Z",
+      "latest_at": "2026-09-17T17:03:42.598642Z",
       "primary_item": {
         "id": "hotelitem_8f218475e743",
         "title": "文化和旅游部发布2026年上半年国内居民出游数据情况",
@@ -1295,7 +1413,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-09-17T11:47:20.490829Z"
+          "published_at": "2026-09-17T17:03:42.598642Z"
         }
       ],
       "source_count": 1,
@@ -1310,7 +1428,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-09-17T11:47:20.490829Z"
+          "published_at": "2026-09-17T17:03:42.598642Z"
         }
       ],
       "item_count": 1,
@@ -1329,8 +1447,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-17T11:47:20.490829Z",
-      "latest_at": "2026-09-17T11:47:20.490829Z",
+      "earliest_at": "2026-09-17T17:03:42.598642Z",
+      "latest_at": "2026-09-17T17:03:42.598642Z",
       "primary_item": {
         "id": "hotelitem_492acb2b854b",
         "title": "文化和旅游部召开树立和践行正确政绩观学习...",
@@ -1374,14 +1492,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8566,
-      "importance": 0.5913,
-      "importance_score": 0.8566,
+      "score": 0.8557,
+      "importance": 0.5904,
+      "importance_score": 0.8557,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9567,
+        "recency": 0.9518,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1433,14 +1551,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8397,
-      "importance": 0.5738,
-      "importance_score": 0.8397,
+      "score": 0.8388,
+      "importance": 0.5728,
+      "importance_score": 0.8388,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.869,
+        "recency": 0.8641,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1455,65 +1573,6 @@
         "url": "https://www.hoteldive.com/news/aimbridge-adds-3-hotels-pm-hotel-group-new-svp/830158/",
         "source": "Hotel Dive",
         "source_name": "Hotel Dive"
-      }
-    },
-    {
-      "story_id": "story_170819a2334a",
-      "title": "Hotels Have Focused on Coral Restoration — Palladium Is Betting on Seagrass Too",
-      "url": "https://skift.com/2026/09/10/hotels-have-focused-on-coral-restoration-palladium-is-betting-on-seagrass-too/",
-      "primary_url": "https://skift.com/2026/09/10/hotels-have-focused-on-coral-restoration-palladium-is-betting-on-seagrass-too/",
-      "source": "Skift Hospitality",
-      "source_name": "Skift Hospitality",
-      "sources": [
-        {
-          "id": "hotelitem_170819a2334a",
-          "title": "Hotels Have Focused on Coral Restoration — Palladium Is Betting on Seagrass Too",
-          "url": "https://skift.com/2026/09/10/hotels-have-focused-on-coral-restoration-palladium-is-betting-on-seagrass-too/",
-          "source": "Skift Hospitality",
-          "source_name": "Skift Hospitality",
-          "site_id": "skift",
-          "published_at": "2026-09-10T15:34:58Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Skift Hospitality"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_170819a2334a",
-          "title": "Hotels Have Focused on Coral Restoration — Palladium Is Betting on Seagrass Too",
-          "url": "https://skift.com/2026/09/10/hotels-have-focused-on-coral-restoration-palladium-is-betting-on-seagrass-too/",
-          "source": "Skift Hospitality",
-          "source_name": "Skift Hospitality",
-          "site_id": "skift",
-          "published_at": "2026-09-10T15:34:58Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8357,
-      "importance": 0.5696,
-      "importance_score": 0.8357,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.848,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-10T15:34:58Z",
-      "latest_at": "2026-09-10T15:34:58Z",
-      "primary_item": {
-        "id": "hotelitem_170819a2334a",
-        "title": "Hotels Have Focused on Coral Restoration — Palladium Is Betting on Seagrass Too",
-        "url": "https://skift.com/2026/09/10/hotels-have-focused-on-coral-restoration-palladium-is-betting-on-seagrass-too/",
-        "source": "Skift Hospitality",
-        "source_name": "Skift Hospitality"
       }
     },
     {
@@ -1551,14 +1610,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8209,
-      "importance": 0.5699,
-      "importance_score": 0.8209,
+      "score": 0.82,
+      "importance": 0.5689,
+      "importance_score": 0.82,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8493,
+        "recency": 0.8444,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1610,14 +1669,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8168,
-      "importance": 0.5992,
-      "importance_score": 0.8168,
+      "score": 0.8158,
+      "importance": 0.5983,
+      "importance_score": 0.8158,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9962,
+        "recency": 0.9914,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1669,14 +1728,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8141,
-      "importance": 0.5939,
-      "importance_score": 0.8141,
+      "score": 0.8132,
+      "importance": 0.593,
+      "importance_score": 0.8132,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9696,
+        "recency": 0.9648,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1694,121 +1753,62 @@
       }
     },
     {
-      "story_id": "story_86baee1d3d9a",
-      "title": "美团：中秋国庆机票预订量增长44%",
-      "url": "https://www.pinchain.com/article/351161",
-      "primary_url": "https://www.pinchain.com/article/351161",
-      "source": "品橙旅游",
-      "source_name": "品橙旅游",
+      "story_id": "story_33c26a3b18aa",
+      "title": "Agoda Astrological Travel Guide: Hidden Gems ... Singapore, 14 September 2026 – Digital travel platform Agoda has shared a curated guide blending astro ... September 14, 2026 / Travel Trends",
+      "url": "https://www.agoda.com/press/agoda-astrological-travel-guide-hidden-gems-in-asia-for-every-star-sign/",
+      "primary_url": "https://www.agoda.com/press/agoda-astrological-travel-guide-hidden-gems-in-asia-for-every-star-sign/",
+      "source": "Agoda",
+      "source_name": "Agoda",
       "sources": [
         {
-          "id": "hotelitem_86baee1d3d9a",
-          "title": "美团：中秋国庆机票预订量增长44%",
-          "url": "https://www.pinchain.com/article/351161",
-          "source": "品橙旅游",
-          "source_name": "品橙旅游",
-          "site_id": "pinchain",
-          "published_at": "2026-09-16T11:42:47Z"
+          "id": "hotelitem_33c26a3b18aa",
+          "title": "Agoda Astrological Travel Guide: Hidden Gems ... Singapore, 14 September 2026 – Digital travel platform Agoda has shared a curated guide blending astro ... September 14, 2026 / Travel Trends",
+          "url": "https://www.agoda.com/press/agoda-astrological-travel-guide-hidden-gems-in-asia-for-every-star-sign/",
+          "source": "Agoda",
+          "source_name": "Agoda",
+          "site_id": "agoda_press",
+          "published_at": "2026-09-17T17:03:42.598642Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "品橙旅游"
+        "Agoda"
       ],
       "items": [
         {
-          "id": "hotelitem_86baee1d3d9a",
-          "title": "美团：中秋国庆机票预订量增长44%",
-          "url": "https://www.pinchain.com/article/351161",
-          "source": "品橙旅游",
-          "source_name": "品橙旅游",
-          "site_id": "pinchain",
-          "published_at": "2026-09-16T11:42:47Z"
+          "id": "hotelitem_33c26a3b18aa",
+          "title": "Agoda Astrological Travel Guide: Hidden Gems ... Singapore, 14 September 2026 – Digital travel platform Agoda has shared a curated guide blending astro ... September 14, 2026 / Travel Trends",
+          "url": "https://www.agoda.com/press/agoda-astrological-travel-guide-hidden-gems-in-asia-for-every-star-sign/",
+          "source": "Agoda",
+          "source_name": "Agoda",
+          "site_id": "agoda_press",
+          "published_at": "2026-09-17T17:03:42.598642Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8132,
-      "importance": 0.5955,
-      "importance_score": 0.8132,
+      "score": 0.8125,
+      "importance": 0.6,
+      "importance_score": 0.8125,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9777,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "watch",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-16T11:42:47Z",
-      "latest_at": "2026-09-16T11:42:47Z",
+      "earliest_at": "2026-09-17T17:03:42.598642Z",
+      "latest_at": "2026-09-17T17:03:42.598642Z",
       "primary_item": {
-        "id": "hotelitem_86baee1d3d9a",
-        "title": "美团：中秋国庆机票预订量增长44%",
-        "url": "https://www.pinchain.com/article/351161",
-        "source": "品橙旅游",
-        "source_name": "品橙旅游"
-      }
-    },
-    {
-      "story_id": "story_6f466bc19129",
-      "title": "The Hoxton to make Middle East debut",
-      "url": "https://boutiquehotelnews.com/news/hotel/the-hoxton-middle-east/?utm_source=rss&utm_medium=rss&utm_campaign=the-hoxton-middle-east",
-      "primary_url": "https://boutiquehotelnews.com/news/hotel/the-hoxton-middle-east/?utm_source=rss&utm_medium=rss&utm_campaign=the-hoxton-middle-east",
-      "source": "Boutique Hotel News",
-      "source_name": "Boutique Hotel News",
-      "sources": [
-        {
-          "id": "hotelitem_6f466bc19129",
-          "title": "The Hoxton to make Middle East debut",
-          "url": "https://boutiquehotelnews.com/news/hotel/the-hoxton-middle-east/?utm_source=rss&utm_medium=rss&utm_campaign=the-hoxton-middle-east",
-          "source": "Boutique Hotel News",
-          "source_name": "Boutique Hotel News",
-          "site_id": "boutiquehotel",
-          "published_at": "2026-09-09T08:45:33Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Boutique Hotel News"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_6f466bc19129",
-          "title": "The Hoxton to make Middle East debut",
-          "url": "https://boutiquehotelnews.com/news/hotel/the-hoxton-middle-east/?utm_source=rss&utm_medium=rss&utm_campaign=the-hoxton-middle-east",
-          "source": "Boutique Hotel News",
-          "source_name": "Boutique Hotel News",
-          "site_id": "boutiquehotel",
-          "published_at": "2026-09-09T08:45:33Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8127,
-      "importance": 0.5639,
-      "importance_score": 0.8127,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.8194,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-09T08:45:33Z",
-      "latest_at": "2026-09-09T08:45:33Z",
-      "primary_item": {
-        "id": "hotelitem_6f466bc19129",
-        "title": "The Hoxton to make Middle East debut",
-        "url": "https://boutiquehotelnews.com/news/hotel/the-hoxton-middle-east/?utm_source=rss&utm_medium=rss&utm_campaign=the-hoxton-middle-east",
-        "source": "Boutique Hotel News",
-        "source_name": "Boutique Hotel News"
+        "id": "hotelitem_33c26a3b18aa",
+        "title": "Agoda Astrological Travel Guide: Hidden Gems ... Singapore, 14 September 2026 – Digital travel platform Agoda has shared a curated guide blending astro ... September 14, 2026 / Travel Trends",
+        "url": "https://www.agoda.com/press/agoda-astrological-travel-guide-hidden-gems-in-asia-for-every-star-sign/",
+        "source": "Agoda",
+        "source_name": "Agoda"
       }
     }
   ]
