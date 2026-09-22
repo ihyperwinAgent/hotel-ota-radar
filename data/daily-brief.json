@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T05:03:22.765838Z",
+  "generated_at": "2026-09-22T11:44:31.774123Z",
   "window_hours": 1080,
   "total_items": 30,
   "items": [
@@ -38,14 +38,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9872,
-      "importance": 0.5737,
-      "importance_score": 0.9872,
+      "score": 0.986,
+      "importance": 0.5725,
+      "importance_score": 0.986,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8687,
+        "recency": 0.8625,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -97,14 +97,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9545,
-      "importance": 0.5994,
-      "importance_score": 0.9545,
+      "score": 0.9533,
+      "importance": 0.5982,
+      "importance_score": 0.9533,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9972,
+        "recency": 0.991,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -119,6 +119,65 @@
         "url": "https://insights.ehotelier.com/suppliers/2026/09/22/nonius-guest-messaging-one-unified-inbox-for-whatsapp-sms-in-app-chat/?utm_source=rss&utm_medium=rss&utm_campaign=nonius-guest-messaging-one-unified-inbox-for-whatsapp-sms-in-app-chat",
         "source": "eHotelier",
         "source_name": "eHotelier"
+      }
+    },
+    {
+      "story_id": "story_4c52a46d7c11",
+      "title": "The revenue-profit gap: what boutique hotels should budget for in 2027",
+      "url": "https://boutiquehotelnews.com/features/boutique-hotels-budget/?utm_source=rss&utm_medium=rss&utm_campaign=boutique-hotels-budget",
+      "primary_url": "https://boutiquehotelnews.com/features/boutique-hotels-budget/?utm_source=rss&utm_medium=rss&utm_campaign=boutique-hotels-budget",
+      "source": "Boutique Hotel News",
+      "source_name": "Boutique Hotel News",
+      "sources": [
+        {
+          "id": "hotelitem_4c52a46d7c11",
+          "title": "The revenue-profit gap: what boutique hotels should budget for in 2027",
+          "url": "https://boutiquehotelnews.com/features/boutique-hotels-budget/?utm_source=rss&utm_medium=rss&utm_campaign=boutique-hotels-budget",
+          "source": "Boutique Hotel News",
+          "source_name": "Boutique Hotel News",
+          "site_id": "boutiquehotel",
+          "published_at": "2026-09-22T10:43:27Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Boutique Hotel News"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_4c52a46d7c11",
+          "title": "The revenue-profit gap: what boutique hotels should budget for in 2027",
+          "url": "https://boutiquehotelnews.com/features/boutique-hotels-budget/?utm_source=rss&utm_medium=rss&utm_campaign=boutique-hotels-budget",
+          "source": "Boutique Hotel News",
+          "source_name": "Boutique Hotel News",
+          "site_id": "boutiquehotel",
+          "published_at": "2026-09-22T10:43:27Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.9398,
+      "importance": 0.5998,
+      "importance_score": 0.9398,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9991,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-22T10:43:27Z",
+      "latest_at": "2026-09-22T10:43:27Z",
+      "primary_item": {
+        "id": "hotelitem_4c52a46d7c11",
+        "title": "The revenue-profit gap: what boutique hotels should budget for in 2027",
+        "url": "https://boutiquehotelnews.com/features/boutique-hotels-budget/?utm_source=rss&utm_medium=rss&utm_campaign=boutique-hotels-budget",
+        "source": "Boutique Hotel News",
+        "source_name": "Boutique Hotel News"
       }
     },
     {
@@ -156,14 +215,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9395,
-      "importance": 0.5839,
-      "importance_score": 0.9395,
+      "score": 0.9383,
+      "importance": 0.5826,
+      "importance_score": 0.9383,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9194,
+        "recency": 0.9132,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -215,14 +274,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9394,
-      "importance": 0.5839,
-      "importance_score": 0.9394,
+      "score": 0.9382,
+      "importance": 0.5826,
+      "importance_score": 0.9382,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9193,
+        "recency": 0.9131,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -274,14 +333,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9352,
-      "importance": 0.5795,
-      "importance_score": 0.9352,
+      "score": 0.934,
+      "importance": 0.5782,
+      "importance_score": 0.934,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8974,
+        "recency": 0.8912,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -333,14 +392,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9292,
-      "importance": 0.5733,
-      "importance_score": 0.9292,
+      "score": 0.928,
+      "importance": 0.572,
+      "importance_score": 0.928,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8663,
+        "recency": 0.8601,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -392,14 +451,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9265,
-      "importance": 0.5704,
-      "importance_score": 0.9265,
+      "score": 0.9253,
+      "importance": 0.5692,
+      "importance_score": 0.9253,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8522,
+        "recency": 0.846,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -451,14 +510,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9191,
-      "importance": 0.5783,
-      "importance_score": 0.9191,
+      "score": 0.9179,
+      "importance": 0.5771,
+      "importance_score": 0.9179,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8916,
+        "recency": 0.8854,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -490,7 +549,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-09-22T05:03:22.765838Z"
+          "published_at": "2026-09-22T11:44:31.774123Z"
         }
       ],
       "source_count": 1,
@@ -505,7 +564,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-09-22T05:03:22.765838Z"
+          "published_at": "2026-09-22T11:44:31.774123Z"
         }
       ],
       "item_count": 1,
@@ -524,8 +583,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-22T05:03:22.765838Z",
-      "latest_at": "2026-09-22T05:03:22.765838Z",
+      "earliest_at": "2026-09-22T11:44:31.774123Z",
+      "latest_at": "2026-09-22T11:44:31.774123Z",
       "primary_item": {
         "id": "hotelitem_06f191e24d38",
         "title": "文旅惠报|复星国际申请分拆Club Med在港上市；南京商旅上半年营收3.66亿元",
@@ -569,14 +628,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8799,
-      "importance": 0.5947,
-      "importance_score": 0.8799,
+      "score": 0.8787,
+      "importance": 0.5935,
+      "importance_score": 0.8787,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9734,
+        "recency": 0.9673,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -628,14 +687,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8645,
-      "importance": 0.5995,
-      "importance_score": 0.8645,
+      "score": 0.8633,
+      "importance": 0.5982,
+      "importance_score": 0.8633,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9973,
+        "recency": 0.9911,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -687,14 +746,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8644,
-      "importance": 0.5993,
-      "importance_score": 0.8644,
+      "score": 0.8632,
+      "importance": 0.5981,
+      "importance_score": 0.8632,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9967,
+        "recency": 0.9905,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -746,14 +805,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8644,
-      "importance": 0.5994,
-      "importance_score": 0.8644,
+      "score": 0.8632,
+      "importance": 0.5982,
+      "importance_score": 0.8632,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.997,
+        "recency": 0.9908,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -805,14 +864,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8644,
-      "importance": 0.5994,
-      "importance_score": 0.8644,
+      "score": 0.8632,
+      "importance": 0.5982,
+      "importance_score": 0.8632,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9971,
+        "recency": 0.9909,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -864,14 +923,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8622,
-      "importance": 0.5971,
-      "importance_score": 0.8622,
+      "score": 0.861,
+      "importance": 0.5958,
+      "importance_score": 0.861,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9854,
+        "recency": 0.9792,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -923,14 +982,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8622,
-      "importance": 0.5971,
-      "importance_score": 0.8622,
+      "score": 0.861,
+      "importance": 0.5958,
+      "importance_score": 0.861,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9854,
+        "recency": 0.9792,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -948,65 +1007,6 @@
       }
     },
     {
-      "story_id": "story_ef4bb951a75f",
-      "title": "Ex-Remington CEO Is Building an ‘AI-Native’ Hotel Operator: Exclusive",
-      "url": "https://skift.com/2026/09/21/ex-remington-ceo-is-building-an-ai-native-hotel-operator-exclusive/",
-      "primary_url": "https://skift.com/2026/09/21/ex-remington-ceo-is-building-an-ai-native-hotel-operator-exclusive/",
-      "source": "Skift Hospitality",
-      "source_name": "Skift Hospitality",
-      "sources": [
-        {
-          "id": "hotelitem_ef4bb951a75f",
-          "title": "Ex-Remington CEO Is Building an ‘AI-Native’ Hotel Operator: Exclusive",
-          "url": "https://skift.com/2026/09/21/ex-remington-ceo-is-building-an-ai-native-hotel-operator-exclusive/",
-          "source": "Skift Hospitality",
-          "source_name": "Skift Hospitality",
-          "site_id": "skift",
-          "published_at": "2026-09-21T12:23:23Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Skift Hospitality"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_ef4bb951a75f",
-          "title": "Ex-Remington CEO Is Building an ‘AI-Native’ Hotel Operator: Exclusive",
-          "url": "https://skift.com/2026/09/21/ex-remington-ceo-is-building-an-ai-native-hotel-operator-exclusive/",
-          "source": "Skift Hospitality",
-          "source_name": "Skift Hospitality",
-          "site_id": "skift",
-          "published_at": "2026-09-21T12:23:23Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.862,
-      "importance": 0.5969,
-      "importance_score": 0.862,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9846,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-21T12:23:23Z",
-      "latest_at": "2026-09-21T12:23:23Z",
-      "primary_item": {
-        "id": "hotelitem_ef4bb951a75f",
-        "title": "Ex-Remington CEO Is Building an ‘AI-Native’ Hotel Operator: Exclusive",
-        "url": "https://skift.com/2026/09/21/ex-remington-ceo-is-building-an-ai-native-hotel-operator-exclusive/",
-        "source": "Skift Hospitality",
-        "source_name": "Skift Hospitality"
-      }
-    },
-    {
       "story_id": "story_c7c15b7680c9",
       "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
       "url": "https://www.chinahotel.org.cn/articles/17408",
@@ -1021,7 +1021,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-09-22T05:03:22.765838Z"
+          "published_at": "2026-09-22T11:44:31.774123Z"
         },
         {
           "id": "hotelitem_c7c15b7680c9",
@@ -1030,7 +1030,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-09-22T05:03:22.765838Z"
+          "published_at": "2026-09-22T11:44:31.774123Z"
         }
       ],
       "source_count": 2,
@@ -1045,7 +1045,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-09-22T05:03:22.765838Z"
+          "published_at": "2026-09-22T11:44:31.774123Z"
         },
         {
           "id": "hotelitem_c7c15b7680c9",
@@ -1054,7 +1054,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-09-22T05:03:22.765838Z"
+          "published_at": "2026-09-22T11:44:31.774123Z"
         }
       ],
       "item_count": 2,
@@ -1074,8 +1074,8 @@
         "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-22T05:03:22.765838Z",
-      "latest_at": "2026-09-22T05:03:22.765838Z",
+      "earliest_at": "2026-09-22T11:44:31.774123Z",
+      "latest_at": "2026-09-22T11:44:31.774123Z",
       "primary_item": {
         "id": "hotelitem_d4370964909c",
         "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
@@ -1099,7 +1099,7 @@
           "source": "迈点研究院",
           "source_name": "迈点研究院",
           "site_id": "meadin",
-          "published_at": "2026-09-22T05:03:22.765838Z"
+          "published_at": "2026-09-22T11:44:31.774123Z"
         }
       ],
       "source_count": 1,
@@ -1114,7 +1114,7 @@
           "source": "迈点研究院",
           "source_name": "迈点研究院",
           "site_id": "meadin",
-          "published_at": "2026-09-22T05:03:22.765838Z"
+          "published_at": "2026-09-22T11:44:31.774123Z"
         }
       ],
       "item_count": 1,
@@ -1133,12 +1133,71 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-22T05:03:22.765838Z",
-      "latest_at": "2026-09-22T05:03:22.765838Z",
+      "earliest_at": "2026-09-22T11:44:31.774123Z",
+      "latest_at": "2026-09-22T11:44:31.774123Z",
       "primary_item": {
         "id": "hotelitem_9f11af75f003",
         "title": "希尔顿全球首席营销官离职",
         "url": "https://www.meadin.com/jd/301545.html",
+        "source": "迈点研究院",
+        "source_name": "迈点研究院"
+      }
+    },
+    {
+      "story_id": "story_388d47ba9655",
+      "title": "新世界发展洽售九龙凯悦酒店50%股权",
+      "url": "https://www.meadin.com/jd/301557.html",
+      "primary_url": "https://www.meadin.com/jd/301557.html",
+      "source": "迈点研究院",
+      "source_name": "迈点研究院",
+      "sources": [
+        {
+          "id": "hotelitem_388d47ba9655",
+          "title": "新世界发展洽售九龙凯悦酒店50%股权",
+          "url": "https://www.meadin.com/jd/301557.html",
+          "source": "迈点研究院",
+          "source_name": "迈点研究院",
+          "site_id": "meadin",
+          "published_at": "2026-09-22T11:44:31.774123Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "迈点研究院"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_388d47ba9655",
+          "title": "新世界发展洽售九龙凯悦酒店50%股权",
+          "url": "https://www.meadin.com/jd/301557.html",
+          "source": "迈点研究院",
+          "source_name": "迈点研究院",
+          "site_id": "meadin",
+          "published_at": "2026-09-22T11:44:31.774123Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.86,
+      "importance": 0.6,
+      "importance_score": 0.86,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-22T11:44:31.774123Z",
+      "latest_at": "2026-09-22T11:44:31.774123Z",
+      "primary_item": {
+        "id": "hotelitem_388d47ba9655",
+        "title": "新世界发展洽售九龙凯悦酒店50%股权",
+        "url": "https://www.meadin.com/jd/301557.html",
         "source": "迈点研究院",
         "source_name": "迈点研究院"
       }
@@ -1158,7 +1217,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-09-22T05:03:22.765838Z"
+          "published_at": "2026-09-22T11:44:31.774123Z"
         }
       ],
       "source_count": 1,
@@ -1173,7 +1232,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-09-22T05:03:22.765838Z"
+          "published_at": "2026-09-22T11:44:31.774123Z"
         }
       ],
       "item_count": 1,
@@ -1192,8 +1251,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-22T05:03:22.765838Z",
-      "latest_at": "2026-09-22T05:03:22.765838Z",
+      "earliest_at": "2026-09-22T11:44:31.774123Z",
+      "latest_at": "2026-09-22T11:44:31.774123Z",
       "primary_item": {
         "id": "hotelitem_e4ce0593c384",
         "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
@@ -1217,7 +1276,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-09-22T05:03:22.765838Z"
+          "published_at": "2026-09-22T11:44:31.774123Z"
         }
       ],
       "source_count": 1,
@@ -1232,7 +1291,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-09-22T05:03:22.765838Z"
+          "published_at": "2026-09-22T11:44:31.774123Z"
         }
       ],
       "item_count": 1,
@@ -1251,8 +1310,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-22T05:03:22.765838Z",
-      "latest_at": "2026-09-22T05:03:22.765838Z",
+      "earliest_at": "2026-09-22T11:44:31.774123Z",
+      "latest_at": "2026-09-22T11:44:31.774123Z",
       "primary_item": {
         "id": "hotelitem_ac4d594208da",
         "title": "国务院办公厅转发文化和旅游部等10部门《关...",
@@ -1276,7 +1335,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-09-22T05:03:22.765838Z"
+          "published_at": "2026-09-22T11:44:31.774123Z"
         }
       ],
       "source_count": 1,
@@ -1291,7 +1350,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-09-22T05:03:22.765838Z"
+          "published_at": "2026-09-22T11:44:31.774123Z"
         }
       ],
       "item_count": 1,
@@ -1310,8 +1369,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-22T05:03:22.765838Z",
-      "latest_at": "2026-09-22T05:03:22.765838Z",
+      "earliest_at": "2026-09-22T11:44:31.774123Z",
+      "latest_at": "2026-09-22T11:44:31.774123Z",
       "primary_item": {
         "id": "hotelitem_c3062f911641",
         "title": "市场监管总局会同文化和旅游部召开在线酒店...",
@@ -1335,7 +1394,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-09-22T05:03:22.765838Z"
+          "published_at": "2026-09-22T11:44:31.774123Z"
         }
       ],
       "source_count": 1,
@@ -1350,7 +1409,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-09-22T05:03:22.765838Z"
+          "published_at": "2026-09-22T11:44:31.774123Z"
         }
       ],
       "item_count": 1,
@@ -1369,8 +1428,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-22T05:03:22.765838Z",
-      "latest_at": "2026-09-22T05:03:22.765838Z",
+      "earliest_at": "2026-09-22T11:44:31.774123Z",
+      "latest_at": "2026-09-22T11:44:31.774123Z",
       "primary_item": {
         "id": "hotelitem_c3e3aec156b1",
         "title": "文化和旅游部印发《公共文化服务体系建设“...",
@@ -1394,7 +1453,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-09-22T05:03:22.765838Z"
+          "published_at": "2026-09-22T11:44:31.774123Z"
         }
       ],
       "source_count": 1,
@@ -1409,7 +1468,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-09-22T05:03:22.765838Z"
+          "published_at": "2026-09-22T11:44:31.774123Z"
         }
       ],
       "item_count": 1,
@@ -1428,8 +1487,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-22T05:03:22.765838Z",
-      "latest_at": "2026-09-22T05:03:22.765838Z",
+      "earliest_at": "2026-09-22T11:44:31.774123Z",
+      "latest_at": "2026-09-22T11:44:31.774123Z",
       "primary_item": {
         "id": "hotelitem_b6b01fce0ded",
         "title": "文化和旅游部印发《文化和旅游发展“十五五...",
@@ -1453,7 +1512,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-09-22T05:03:22.765838Z"
+          "published_at": "2026-09-22T11:44:31.774123Z"
         }
       ],
       "source_count": 1,
@@ -1468,7 +1527,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-09-22T05:03:22.765838Z"
+          "published_at": "2026-09-22T11:44:31.774123Z"
         }
       ],
       "item_count": 1,
@@ -1487,8 +1546,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-22T05:03:22.765838Z",
-      "latest_at": "2026-09-22T05:03:22.765838Z",
+      "earliest_at": "2026-09-22T11:44:31.774123Z",
+      "latest_at": "2026-09-22T11:44:31.774123Z",
       "primary_item": {
         "id": "hotelitem_8f218475e743",
         "title": "文化和旅游部发布2026年上半年国内居民出游数据情况",
@@ -1512,7 +1571,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-09-22T05:03:22.765838Z"
+          "published_at": "2026-09-22T11:44:31.774123Z"
         }
       ],
       "source_count": 1,
@@ -1527,7 +1586,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-09-22T05:03:22.765838Z"
+          "published_at": "2026-09-22T11:44:31.774123Z"
         }
       ],
       "item_count": 1,
@@ -1546,8 +1605,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-22T05:03:22.765838Z",
-      "latest_at": "2026-09-22T05:03:22.765838Z",
+      "earliest_at": "2026-09-22T11:44:31.774123Z",
+      "latest_at": "2026-09-22T11:44:31.774123Z",
       "primary_item": {
         "id": "hotelitem_42fdac876397",
         "title": "文化和旅游部发布《文化产业发展“十五五”...",
@@ -1557,121 +1616,62 @@
       }
     },
     {
-      "story_id": "story_1a01c5bd9a88",
-      "title": "How Grand Ji Hotel Is Building a Distinctly Chinese Premium Brand",
-      "url": "https://skift.com/2026/09/18/h-world-grand-ji-chinese-premium-hospitality/",
-      "primary_url": "https://skift.com/2026/09/18/h-world-grand-ji-chinese-premium-hospitality/",
-      "source": "Skift Hospitality",
-      "source_name": "Skift Hospitality",
+      "story_id": "story_c5afb5adf459",
+      "title": "Former Remington CEO launches AI Hospitality Group",
+      "url": "https://boutiquehotelnews.com/news/industry/ai-hospitality-group/?utm_source=rss&utm_medium=rss&utm_campaign=ai-hospitality-group",
+      "primary_url": "https://boutiquehotelnews.com/news/industry/ai-hospitality-group/?utm_source=rss&utm_medium=rss&utm_campaign=ai-hospitality-group",
+      "source": "Boutique Hotel News",
+      "source_name": "Boutique Hotel News",
       "sources": [
         {
-          "id": "hotelitem_1a01c5bd9a88",
-          "title": "How Grand Ji Hotel Is Building a Distinctly Chinese Premium Brand",
-          "url": "https://skift.com/2026/09/18/h-world-grand-ji-chinese-premium-hospitality/",
-          "source": "Skift Hospitality",
-          "source_name": "Skift Hospitality",
-          "site_id": "skift",
-          "published_at": "2026-09-18T12:30:00Z"
+          "id": "hotelitem_c5afb5adf459",
+          "title": "Former Remington CEO launches AI Hospitality Group",
+          "url": "https://boutiquehotelnews.com/news/industry/ai-hospitality-group/?utm_source=rss&utm_medium=rss&utm_campaign=ai-hospitality-group",
+          "source": "Boutique Hotel News",
+          "source_name": "Boutique Hotel News",
+          "site_id": "boutiquehotel",
+          "published_at": "2026-09-22T09:55:30Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Skift Hospitality"
+        "Boutique Hotel News"
       ],
       "items": [
         {
-          "id": "hotelitem_1a01c5bd9a88",
-          "title": "How Grand Ji Hotel Is Building a Distinctly Chinese Premium Brand",
-          "url": "https://skift.com/2026/09/18/h-world-grand-ji-chinese-premium-hospitality/",
-          "source": "Skift Hospitality",
-          "source_name": "Skift Hospitality",
-          "site_id": "skift",
-          "published_at": "2026-09-18T12:30:00Z"
+          "id": "hotelitem_c5afb5adf459",
+          "title": "Former Remington CEO launches AI Hospitality Group",
+          "url": "https://boutiquehotelnews.com/news/industry/ai-hospitality-group/?utm_source=rss&utm_medium=rss&utm_campaign=ai-hospitality-group",
+          "source": "Boutique Hotel News",
+          "source_name": "Boutique Hotel News",
+          "site_id": "boutiquehotel",
+          "published_at": "2026-09-22T09:55:30Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8492,
-      "importance": 0.5836,
-      "importance_score": 0.8492,
+      "score": 0.8497,
+      "importance": 0.5997,
+      "importance_score": 0.8497,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.918,
+        "recency": 0.9983,
         "story_heat": 0.0
       },
       "category": "watch",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-18T12:30:00Z",
-      "latest_at": "2026-09-18T12:30:00Z",
+      "earliest_at": "2026-09-22T09:55:30Z",
+      "latest_at": "2026-09-22T09:55:30Z",
       "primary_item": {
-        "id": "hotelitem_1a01c5bd9a88",
-        "title": "How Grand Ji Hotel Is Building a Distinctly Chinese Premium Brand",
-        "url": "https://skift.com/2026/09/18/h-world-grand-ji-chinese-premium-hospitality/",
-        "source": "Skift Hospitality",
-        "source_name": "Skift Hospitality"
-      }
-    },
-    {
-      "story_id": "story_1e39d62728e2",
-      "title": "Minor Hotels Signs First Hanoi Property, Targets 2028 Opening",
-      "url": "https://skift.com/2026/09/17/minor-hotels-signs-first-hanoi-property-targets-2028-opening/",
-      "primary_url": "https://skift.com/2026/09/17/minor-hotels-signs-first-hanoi-property-targets-2028-opening/",
-      "source": "Skift Hospitality",
-      "source_name": "Skift Hospitality",
-      "sources": [
-        {
-          "id": "hotelitem_1e39d62728e2",
-          "title": "Minor Hotels Signs First Hanoi Property, Targets 2028 Opening",
-          "url": "https://skift.com/2026/09/17/minor-hotels-signs-first-hanoi-property-targets-2028-opening/",
-          "source": "Skift Hospitality",
-          "source_name": "Skift Hospitality",
-          "site_id": "skift",
-          "published_at": "2026-09-17T13:23:17Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Skift Hospitality"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_1e39d62728e2",
-          "title": "Minor Hotels Signs First Hanoi Property, Targets 2028 Opening",
-          "url": "https://skift.com/2026/09/17/minor-hotels-signs-first-hanoi-property-targets-2028-opening/",
-          "source": "Skift Hospitality",
-          "source_name": "Skift Hospitality",
-          "site_id": "skift",
-          "published_at": "2026-09-17T13:23:17Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8451,
-      "importance": 0.5793,
-      "importance_score": 0.8451,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.8966,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-17T13:23:17Z",
-      "latest_at": "2026-09-17T13:23:17Z",
-      "primary_item": {
-        "id": "hotelitem_1e39d62728e2",
-        "title": "Minor Hotels Signs First Hanoi Property, Targets 2028 Opening",
-        "url": "https://skift.com/2026/09/17/minor-hotels-signs-first-hanoi-property-targets-2028-opening/",
-        "source": "Skift Hospitality",
-        "source_name": "Skift Hospitality"
+        "id": "hotelitem_c5afb5adf459",
+        "title": "Former Remington CEO launches AI Hospitality Group",
+        "url": "https://boutiquehotelnews.com/news/industry/ai-hospitality-group/?utm_source=rss&utm_medium=rss&utm_campaign=ai-hospitality-group",
+        "source": "Boutique Hotel News",
+        "source_name": "Boutique Hotel News"
       }
     },
     {
@@ -1709,14 +1709,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8451,
-      "importance": 0.5793,
-      "importance_score": 0.8451,
+      "score": 0.8439,
+      "importance": 0.5781,
+      "importance_score": 0.8439,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8967,
+        "recency": 0.8905,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1734,62 +1734,62 @@
       }
     },
     {
-      "story_id": "story_3046efcefd0e",
-      "title": "Abu Dhabi Pins Hopes on F1 and Events Calendar to Reverse a 14.2% Drop in Hotel Guests",
-      "url": "https://skift.com/2026/09/16/abu-dhabi-pins-hopes-on-f1-and-events-calendar-to-reverse-a-14-2-drop-in-hotel-guests/",
-      "primary_url": "https://skift.com/2026/09/16/abu-dhabi-pins-hopes-on-f1-and-events-calendar-to-reverse-a-14-2-drop-in-hotel-guests/",
-      "source": "Skift Hospitality",
-      "source_name": "Skift Hospitality",
+      "story_id": "story_242dbc49b69e",
+      "title": "Aimbridge Hospitality’s Eric Jacobs: Hotel owners must look beyond revenue growth",
+      "url": "https://www.hotelmanagement.net/sponsored/aimbridges-eric-jacobs-hotel-owners-must-look-beyond-revenue-growth",
+      "primary_url": "https://www.hotelmanagement.net/sponsored/aimbridges-eric-jacobs-hotel-owners-must-look-beyond-revenue-growth",
+      "source": "Hotel Management",
+      "source_name": "Hotel Management",
       "sources": [
         {
-          "id": "hotelitem_3046efcefd0e",
-          "title": "Abu Dhabi Pins Hopes on F1 and Events Calendar to Reverse a 14.2% Drop in Hotel Guests",
-          "url": "https://skift.com/2026/09/16/abu-dhabi-pins-hopes-on-f1-and-events-calendar-to-reverse-a-14-2-drop-in-hotel-guests/",
-          "source": "Skift Hospitality",
-          "source_name": "Skift Hospitality",
-          "site_id": "skift",
-          "published_at": "2026-09-16T06:00:00Z"
+          "id": "hotelitem_242dbc49b69e",
+          "title": "Aimbridge Hospitality’s Eric Jacobs: Hotel owners must look beyond revenue growth",
+          "url": "https://www.hotelmanagement.net/sponsored/aimbridges-eric-jacobs-hotel-owners-must-look-beyond-revenue-growth",
+          "source": "Hotel Management",
+          "source_name": "Hotel Management",
+          "site_id": "hotelmgmt",
+          "published_at": "2026-09-15T16:23:11Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Skift Hospitality"
+        "Hotel Management"
       ],
       "items": [
         {
-          "id": "hotelitem_3046efcefd0e",
-          "title": "Abu Dhabi Pins Hopes on F1 and Events Calendar to Reverse a 14.2% Drop in Hotel Guests",
-          "url": "https://skift.com/2026/09/16/abu-dhabi-pins-hopes-on-f1-and-events-calendar-to-reverse-a-14-2-drop-in-hotel-guests/",
-          "source": "Skift Hospitality",
-          "source_name": "Skift Hospitality",
-          "site_id": "skift",
-          "published_at": "2026-09-16T06:00:00Z"
+          "id": "hotelitem_242dbc49b69e",
+          "title": "Aimbridge Hospitality’s Eric Jacobs: Hotel owners must look beyond revenue growth",
+          "url": "https://www.hotelmanagement.net/sponsored/aimbridges-eric-jacobs-hotel-owners-must-look-beyond-revenue-growth",
+          "source": "Hotel Management",
+          "source_name": "Hotel Management",
+          "site_id": "hotelmgmt",
+          "published_at": "2026-09-15T16:23:11Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8395,
-      "importance": 0.5735,
-      "importance_score": 0.8395,
+      "score": 0.8358,
+      "importance": 0.5697,
+      "importance_score": 0.8358,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8675,
+        "recency": 0.8487,
         "story_heat": 0.0
       },
       "category": "watch",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-16T06:00:00Z",
-      "latest_at": "2026-09-16T06:00:00Z",
+      "earliest_at": "2026-09-15T16:23:11Z",
+      "latest_at": "2026-09-15T16:23:11Z",
       "primary_item": {
-        "id": "hotelitem_3046efcefd0e",
-        "title": "Abu Dhabi Pins Hopes on F1 and Events Calendar to Reverse a 14.2% Drop in Hotel Guests",
-        "url": "https://skift.com/2026/09/16/abu-dhabi-pins-hopes-on-f1-and-events-calendar-to-reverse-a-14-2-drop-in-hotel-guests/",
-        "source": "Skift Hospitality",
-        "source_name": "Skift Hospitality"
+        "id": "hotelitem_242dbc49b69e",
+        "title": "Aimbridge Hospitality’s Eric Jacobs: Hotel owners must look beyond revenue growth",
+        "url": "https://www.hotelmanagement.net/sponsored/aimbridges-eric-jacobs-hotel-owners-must-look-beyond-revenue-growth",
+        "source": "Hotel Management",
+        "source_name": "Hotel Management"
       }
     }
   ]
