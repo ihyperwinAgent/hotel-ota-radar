@@ -1,8 +1,67 @@
 {
-  "generated_at": "2026-09-24T11:52:31.574542Z",
+  "generated_at": "2026-09-24T17:15:14.821816Z",
   "window_hours": 1080,
   "total_items": 30,
   "items": [
+    {
+      "story_id": "story_a93c26a31ec2",
+      "title": "Caesars shareholders approve acquisition by Fertitta Entertainment",
+      "url": "https://www.hoteldive.com/news/caesars-shareholders-approve-acquisition-by-fertitta-entertainment/831287/",
+      "primary_url": "https://www.hoteldive.com/news/caesars-shareholders-approve-acquisition-by-fertitta-entertainment/831287/",
+      "source": "Hotel Dive",
+      "source_name": "Hotel Dive",
+      "sources": [
+        {
+          "id": "hotelitem_a93c26a31ec2",
+          "title": "Caesars shareholders approve acquisition by Fertitta Entertainment",
+          "url": "https://www.hoteldive.com/news/caesars-shareholders-approve-acquisition-by-fertitta-entertainment/831287/",
+          "source": "Hotel Dive",
+          "source_name": "Hotel Dive",
+          "site_id": "hoteldive",
+          "published_at": "2026-09-24T16:52:16Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hotel Dive"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_a93c26a31ec2",
+          "title": "Caesars shareholders approve acquisition by Fertitta Entertainment",
+          "url": "https://www.hoteldive.com/news/caesars-shareholders-approve-acquisition-by-fertitta-entertainment/831287/",
+          "source": "Hotel Dive",
+          "source_name": "Hotel Dive",
+          "site_id": "hoteldive",
+          "published_at": "2026-09-24T16:52:16Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.9549,
+      "importance": 0.5999,
+      "importance_score": 0.9549,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9996,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-24T16:52:16Z",
+      "latest_at": "2026-09-24T16:52:16Z",
+      "primary_item": {
+        "id": "hotelitem_a93c26a31ec2",
+        "title": "Caesars shareholders approve acquisition by Fertitta Entertainment",
+        "url": "https://www.hoteldive.com/news/caesars-shareholders-approve-acquisition-by-fertitta-entertainment/831287/",
+        "source": "Hotel Dive",
+        "source_name": "Hotel Dive"
+      }
+    },
     {
       "story_id": "story_bfc850699c99",
       "title": "Radisson Hotel Group and GDS-Movement launch roadmap to help close the sustainability action gap",
@@ -38,14 +97,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9532,
-      "importance": 0.5982,
-      "importance_score": 0.9532,
+      "score": 0.9523,
+      "importance": 0.5972,
+      "importance_score": 0.9523,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9908,
+        "recency": 0.9858,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -97,14 +156,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9531,
-      "importance": 0.5981,
-      "importance_score": 0.9531,
+      "score": 0.9522,
+      "importance": 0.5971,
+      "importance_score": 0.9522,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9904,
+        "recency": 0.9854,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -156,14 +215,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9519,
-      "importance": 0.5968,
-      "importance_score": 0.9519,
+      "score": 0.951,
+      "importance": 0.5958,
+      "importance_score": 0.951,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.984,
+        "recency": 0.9791,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -215,14 +274,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.951,
-      "importance": 0.5958,
-      "importance_score": 0.951,
+      "score": 0.95,
+      "importance": 0.5948,
+      "importance_score": 0.95,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9791,
+        "recency": 0.9741,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -274,14 +333,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9312,
-      "importance": 0.5909,
-      "importance_score": 0.9312,
+      "score": 0.9303,
+      "importance": 0.5899,
+      "importance_score": 0.9303,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9545,
+        "recency": 0.9495,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -296,65 +355,6 @@
         "url": "https://boutiquehotelnews.com/features/boutique-hotels-budget/?utm_source=rss&utm_medium=rss&utm_campaign=boutique-hotels-budget",
         "source": "Boutique Hotel News",
         "source_name": "Boutique Hotel News"
-      }
-    },
-    {
-      "story_id": "story_b4d0948d4fd7",
-      "title": "Marriott appoints loyalty SVP",
-      "url": "https://www.hoteldive.com/news/marriott-appoints-loyalty-svp/830769/",
-      "primary_url": "https://www.hoteldive.com/news/marriott-appoints-loyalty-svp/830769/",
-      "source": "Hotel Dive",
-      "source_name": "Hotel Dive",
-      "sources": [
-        {
-          "id": "hotelitem_b4d0948d4fd7",
-          "title": "Marriott appoints loyalty SVP",
-          "url": "https://www.hoteldive.com/news/marriott-appoints-loyalty-svp/830769/",
-          "source": "Hotel Dive",
-          "source_name": "Hotel Dive",
-          "site_id": "hoteldive",
-          "published_at": "2026-09-18T13:55:24Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hotel Dive"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_b4d0948d4fd7",
-          "title": "Marriott appoints loyalty SVP",
-          "url": "https://www.hoteldive.com/news/marriott-appoints-loyalty-svp/830769/",
-          "source": "Hotel Dive",
-          "source_name": "Hotel Dive",
-          "site_id": "hoteldive",
-          "published_at": "2026-09-18T13:55:24Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.9297,
-      "importance": 0.5737,
-      "importance_score": 0.9297,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.8686,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-18T13:55:24Z",
-      "latest_at": "2026-09-18T13:55:24Z",
-      "primary_item": {
-        "id": "hotelitem_b4d0948d4fd7",
-        "title": "Marriott appoints loyalty SVP",
-        "url": "https://www.hoteldive.com/news/marriott-appoints-loyalty-svp/830769/",
-        "source": "Hotel Dive",
-        "source_name": "Hotel Dive"
       }
     },
     {
@@ -392,14 +392,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9297,
-      "importance": 0.5737,
-      "importance_score": 0.9297,
+      "score": 0.9287,
+      "importance": 0.5727,
+      "importance_score": 0.9287,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8686,
+        "recency": 0.8636,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -451,14 +451,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9287,
-      "importance": 0.5986,
-      "importance_score": 0.9287,
+      "score": 0.9277,
+      "importance": 0.5976,
+      "importance_score": 0.9277,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9931,
+        "recency": 0.9882,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -476,65 +476,6 @@
       }
     },
     {
-      "story_id": "story_0a2b2eaec8c4",
-      "title": "Marriott undergoes ‘organizational changes’ to Customer Engagement Centers",
-      "url": "https://www.hoteldive.com/news/marriott-undergoes-organizational-changes-customer-engagement-centers/830653/",
-      "primary_url": "https://www.hoteldive.com/news/marriott-undergoes-organizational-changes-customer-engagement-centers/830653/",
-      "source": "Hotel Dive",
-      "source_name": "Hotel Dive",
-      "sources": [
-        {
-          "id": "hotelitem_0a2b2eaec8c4",
-          "title": "Marriott undergoes ‘organizational changes’ to Customer Engagement Centers",
-          "url": "https://www.hoteldive.com/news/marriott-undergoes-organizational-changes-customer-engagement-centers/830653/",
-          "source": "Hotel Dive",
-          "source_name": "Hotel Dive",
-          "site_id": "hoteldive",
-          "published_at": "2026-09-17T14:12:44Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hotel Dive"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_0a2b2eaec8c4",
-          "title": "Marriott undergoes ‘organizational changes’ to Customer Engagement Centers",
-          "url": "https://www.hoteldive.com/news/marriott-undergoes-organizational-changes-customer-engagement-centers/830653/",
-          "source": "Hotel Dive",
-          "source_name": "Hotel Dive",
-          "site_id": "hoteldive",
-          "published_at": "2026-09-17T14:12:44Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.9254,
-      "importance": 0.5693,
-      "importance_score": 0.9254,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.8466,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-17T14:12:44Z",
-      "latest_at": "2026-09-17T14:12:44Z",
-      "primary_item": {
-        "id": "hotelitem_0a2b2eaec8c4",
-        "title": "Marriott undergoes ‘organizational changes’ to Customer Engagement Centers",
-        "url": "https://www.hoteldive.com/news/marriott-undergoes-organizational-changes-customer-engagement-centers/830653/",
-        "source": "Hotel Dive",
-        "source_name": "Hotel Dive"
-      }
-    },
-    {
       "story_id": "story_06f191e24d38",
       "title": "文旅惠报|复星国际申请分拆Club Med在港上市；南京商旅上半年营收3.66亿元",
       "url": "https://www.tripvivid.com/47868.html",
@@ -549,7 +490,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-09-24T11:52:31.574542Z"
+          "published_at": "2026-09-24T17:15:14.821816Z"
         }
       ],
       "source_count": 1,
@@ -564,7 +505,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-09-24T11:52:31.574542Z"
+          "published_at": "2026-09-24T17:15:14.821816Z"
         }
       ],
       "item_count": 1,
@@ -583,14 +524,73 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-24T11:52:31.574542Z",
-      "latest_at": "2026-09-24T11:52:31.574542Z",
+      "earliest_at": "2026-09-24T17:15:14.821816Z",
+      "latest_at": "2026-09-24T17:15:14.821816Z",
       "primary_item": {
         "id": "hotelitem_06f191e24d38",
         "title": "文旅惠报|复星国际申请分拆Club Med在港上市；南京商旅上半年营收3.66亿元",
         "url": "https://www.tripvivid.com/47868.html",
         "source": "执惠 TripVivid",
         "source_name": "执惠 TripVivid"
+      }
+    },
+    {
+      "story_id": "story_a00c34deb4be",
+      "title": "Unifocus Claira: Workforce Management Redefined",
+      "url": "https://www.hotelmanagement.net/resource/unifocus-claira-workforce-management-redefined",
+      "primary_url": "https://www.hotelmanagement.net/resource/unifocus-claira-workforce-management-redefined",
+      "source": "Hotel Management",
+      "source_name": "Hotel Management",
+      "sources": [
+        {
+          "id": "hotelitem_a00c34deb4be",
+          "title": "Unifocus Claira: Workforce Management Redefined",
+          "url": "https://www.hotelmanagement.net/resource/unifocus-claira-workforce-management-redefined",
+          "source": "Hotel Management",
+          "source_name": "Hotel Management",
+          "site_id": "hotelmgmt",
+          "published_at": "2026-09-24T15:39:57Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hotel Management"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_a00c34deb4be",
+          "title": "Unifocus Claira: Workforce Management Redefined",
+          "url": "https://www.hotelmanagement.net/resource/unifocus-claira-workforce-management-redefined",
+          "source": "Hotel Management",
+          "source_name": "Hotel Management",
+          "site_id": "hotelmgmt",
+          "published_at": "2026-09-24T15:39:57Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8647,
+      "importance": 0.5997,
+      "importance_score": 0.8647,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9985,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-24T15:39:57Z",
+      "latest_at": "2026-09-24T15:39:57Z",
+      "primary_item": {
+        "id": "hotelitem_a00c34deb4be",
+        "title": "Unifocus Claira: Workforce Management Redefined",
+        "url": "https://www.hotelmanagement.net/resource/unifocus-claira-workforce-management-redefined",
+        "source": "Hotel Management",
+        "source_name": "Hotel Management"
       }
     },
     {
@@ -628,14 +628,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8633,
-      "importance": 0.5982,
-      "importance_score": 0.8633,
+      "score": 0.8623,
+      "importance": 0.5972,
+      "importance_score": 0.8623,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.991,
+        "recency": 0.986,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -687,14 +687,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8611,
-      "importance": 0.596,
-      "importance_score": 0.8611,
+      "score": 0.8602,
+      "importance": 0.595,
+      "importance_score": 0.8602,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9799,
+        "recency": 0.9749,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -726,7 +726,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-09-24T11:52:31.574542Z"
+          "published_at": "2026-09-24T17:15:14.821816Z"
         },
         {
           "id": "hotelitem_c7c15b7680c9",
@@ -735,7 +735,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-09-24T11:52:31.574542Z"
+          "published_at": "2026-09-24T17:15:14.821816Z"
         }
       ],
       "source_count": 2,
@@ -750,7 +750,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-09-24T11:52:31.574542Z"
+          "published_at": "2026-09-24T17:15:14.821816Z"
         },
         {
           "id": "hotelitem_c7c15b7680c9",
@@ -759,7 +759,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-09-24T11:52:31.574542Z"
+          "published_at": "2026-09-24T17:15:14.821816Z"
         }
       ],
       "item_count": 2,
@@ -779,8 +779,8 @@
         "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-24T11:52:31.574542Z",
-      "latest_at": "2026-09-24T11:52:31.574542Z",
+      "earliest_at": "2026-09-24T17:15:14.821816Z",
+      "latest_at": "2026-09-24T17:15:14.821816Z",
       "primary_item": {
         "id": "hotelitem_d4370964909c",
         "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
@@ -804,7 +804,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-09-24T11:52:31.574542Z"
+          "published_at": "2026-09-24T17:15:14.821816Z"
         },
         {
           "id": "hotelitem_1243e4eead68",
@@ -813,7 +813,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-09-24T11:52:31.574542Z"
+          "published_at": "2026-09-24T17:15:14.821816Z"
         }
       ],
       "source_count": 2,
@@ -828,7 +828,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-09-24T11:52:31.574542Z"
+          "published_at": "2026-09-24T17:15:14.821816Z"
         },
         {
           "id": "hotelitem_1243e4eead68",
@@ -837,7 +837,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-09-24T11:52:31.574542Z"
+          "published_at": "2026-09-24T17:15:14.821816Z"
         }
       ],
       "item_count": 2,
@@ -857,8 +857,8 @@
         "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-24T11:52:31.574542Z",
-      "latest_at": "2026-09-24T11:52:31.574542Z",
+      "earliest_at": "2026-09-24T17:15:14.821816Z",
+      "latest_at": "2026-09-24T17:15:14.821816Z",
       "primary_item": {
         "id": "hotelitem_b30c7ac8b6e5",
         "title": "指数发布 | 中国住宿业消费指数报告（2026年8月）发布 为贯彻落实提振消费相关政策，真实反映中国住宿餐饮业市场消费情况，以数据引导促消费政策精准发力，为行业发展提供参考建议，中国饭店协会每月公开发布“中国饭店业消费指数体系”，包含“中国住宿业消费指数（China Hotel Industry Consumption Index, HCI）”与“中国餐饮业消费指数（China Catering Industry Consumption Index, CCI）”，欢迎关注。\n本篇发布的是“中国住宿业消费指数”。",
@@ -902,14 +902,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.859,
-      "importance": 0.5937,
-      "importance_score": 0.859,
+      "score": 0.858,
+      "importance": 0.5927,
+      "importance_score": 0.858,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9686,
+        "recency": 0.9637,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -941,7 +941,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-09-24T11:52:31.574542Z"
+          "published_at": "2026-09-24T17:15:14.821816Z"
         }
       ],
       "source_count": 1,
@@ -956,7 +956,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-09-24T11:52:31.574542Z"
+          "published_at": "2026-09-24T17:15:14.821816Z"
         }
       ],
       "item_count": 1,
@@ -975,8 +975,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-24T11:52:31.574542Z",
-      "latest_at": "2026-09-24T11:52:31.574542Z",
+      "earliest_at": "2026-09-24T17:15:14.821816Z",
+      "latest_at": "2026-09-24T17:15:14.821816Z",
       "primary_item": {
         "id": "hotelitem_e4ce0593c384",
         "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
@@ -1000,7 +1000,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-09-24T11:52:31.574542Z"
+          "published_at": "2026-09-24T17:15:14.821816Z"
         }
       ],
       "source_count": 1,
@@ -1015,7 +1015,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-09-24T11:52:31.574542Z"
+          "published_at": "2026-09-24T17:15:14.821816Z"
         }
       ],
       "item_count": 1,
@@ -1034,8 +1034,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-24T11:52:31.574542Z",
-      "latest_at": "2026-09-24T11:52:31.574542Z",
+      "earliest_at": "2026-09-24T17:15:14.821816Z",
+      "latest_at": "2026-09-24T17:15:14.821816Z",
       "primary_item": {
         "id": "hotelitem_ac4d594208da",
         "title": "国务院办公厅转发文化和旅游部等10部门《关...",
@@ -1059,7 +1059,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-09-24T11:52:31.574542Z"
+          "published_at": "2026-09-24T17:15:14.821816Z"
         }
       ],
       "source_count": 1,
@@ -1074,7 +1074,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-09-24T11:52:31.574542Z"
+          "published_at": "2026-09-24T17:15:14.821816Z"
         }
       ],
       "item_count": 1,
@@ -1093,8 +1093,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-24T11:52:31.574542Z",
-      "latest_at": "2026-09-24T11:52:31.574542Z",
+      "earliest_at": "2026-09-24T17:15:14.821816Z",
+      "latest_at": "2026-09-24T17:15:14.821816Z",
       "primary_item": {
         "id": "hotelitem_8dd9d6a00599",
         "title": "文化和旅游部中秋、国庆假期出游提示",
@@ -1118,7 +1118,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-09-24T11:52:31.574542Z"
+          "published_at": "2026-09-24T17:15:14.821816Z"
         }
       ],
       "source_count": 1,
@@ -1133,7 +1133,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-09-24T11:52:31.574542Z"
+          "published_at": "2026-09-24T17:15:14.821816Z"
         }
       ],
       "item_count": 1,
@@ -1152,8 +1152,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-24T11:52:31.574542Z",
-      "latest_at": "2026-09-24T11:52:31.574542Z",
+      "earliest_at": "2026-09-24T17:15:14.821816Z",
+      "latest_at": "2026-09-24T17:15:14.821816Z",
       "primary_item": {
         "id": "hotelitem_c3e3aec156b1",
         "title": "文化和旅游部印发《公共文化服务体系建设“...",
@@ -1177,7 +1177,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-09-24T11:52:31.574542Z"
+          "published_at": "2026-09-24T17:15:14.821816Z"
         }
       ],
       "source_count": 1,
@@ -1192,7 +1192,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-09-24T11:52:31.574542Z"
+          "published_at": "2026-09-24T17:15:14.821816Z"
         }
       ],
       "item_count": 1,
@@ -1211,8 +1211,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-24T11:52:31.574542Z",
-      "latest_at": "2026-09-24T11:52:31.574542Z",
+      "earliest_at": "2026-09-24T17:15:14.821816Z",
+      "latest_at": "2026-09-24T17:15:14.821816Z",
       "primary_item": {
         "id": "hotelitem_8f218475e743",
         "title": "文化和旅游部发布2026年上半年国内居民出游数据情况",
@@ -1236,7 +1236,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-09-24T11:52:31.574542Z"
+          "published_at": "2026-09-24T17:15:14.821816Z"
         }
       ],
       "source_count": 1,
@@ -1251,7 +1251,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-09-24T11:52:31.574542Z"
+          "published_at": "2026-09-24T17:15:14.821816Z"
         }
       ],
       "item_count": 1,
@@ -1270,8 +1270,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-24T11:52:31.574542Z",
-      "latest_at": "2026-09-24T11:52:31.574542Z",
+      "earliest_at": "2026-09-24T17:15:14.821816Z",
+      "latest_at": "2026-09-24T17:15:14.821816Z",
       "primary_item": {
         "id": "hotelitem_42fdac876397",
         "title": "文化和旅游部发布《文化产业发展“十五五”...",
@@ -1315,14 +1315,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8568,
-      "importance": 0.5915,
-      "importance_score": 0.8568,
+      "score": 0.8558,
+      "importance": 0.5905,
+      "importance_score": 0.8558,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9574,
+        "recency": 0.9524,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1374,14 +1374,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8524,
-      "importance": 0.5869,
-      "importance_score": 0.8524,
+      "score": 0.8514,
+      "importance": 0.5859,
+      "importance_score": 0.8514,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9347,
+        "recency": 0.9297,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1433,14 +1433,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8524,
-      "importance": 0.5869,
-      "importance_score": 0.8524,
+      "score": 0.8514,
+      "importance": 0.5859,
+      "importance_score": 0.8514,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9347,
+        "recency": 0.9297,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1492,14 +1492,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8452,
-      "importance": 0.595,
-      "importance_score": 0.8452,
+      "score": 0.8443,
+      "importance": 0.5941,
+      "importance_score": 0.8443,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9752,
+        "recency": 0.9703,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1551,14 +1551,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8423,
-      "importance": 0.592,
-      "importance_score": 0.8423,
+      "score": 0.8413,
+      "importance": 0.591,
+      "importance_score": 0.8413,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9601,
+        "recency": 0.9551,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1610,14 +1610,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8411,
-      "importance": 0.5907,
-      "importance_score": 0.8411,
+      "score": 0.8401,
+      "importance": 0.5898,
+      "importance_score": 0.8401,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9537,
+        "recency": 0.9488,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1630,65 +1630,6 @@
         "id": "hotelitem_c5afb5adf459",
         "title": "Former Remington CEO launches AI Hospitality Group",
         "url": "https://boutiquehotelnews.com/news/industry/ai-hospitality-group/?utm_source=rss&utm_medium=rss&utm_campaign=ai-hospitality-group",
-        "source": "Boutique Hotel News",
-        "source_name": "Boutique Hotel News"
-      }
-    },
-    {
-      "story_id": "story_3e4e94c4353e",
-      "title": "The Zetter makes European debut with Amsterdam signing",
-      "url": "https://boutiquehotelnews.com/news/hotel/the-zetter-amsterdam/?utm_source=rss&utm_medium=rss&utm_campaign=the-zetter-amsterdam",
-      "primary_url": "https://boutiquehotelnews.com/news/hotel/the-zetter-amsterdam/?utm_source=rss&utm_medium=rss&utm_campaign=the-zetter-amsterdam",
-      "source": "Boutique Hotel News",
-      "source_name": "Boutique Hotel News",
-      "sources": [
-        {
-          "id": "hotelitem_3e4e94c4353e",
-          "title": "The Zetter makes European debut with Amsterdam signing",
-          "url": "https://boutiquehotelnews.com/news/hotel/the-zetter-amsterdam/?utm_source=rss&utm_medium=rss&utm_campaign=the-zetter-amsterdam",
-          "source": "Boutique Hotel News",
-          "source_name": "Boutique Hotel News",
-          "site_id": "boutiquehotel",
-          "published_at": "2026-09-18T10:40:19Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Boutique Hotel News"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_3e4e94c4353e",
-          "title": "The Zetter makes European debut with Amsterdam signing",
-          "url": "https://boutiquehotelnews.com/news/hotel/the-zetter-amsterdam/?utm_source=rss&utm_medium=rss&utm_campaign=the-zetter-amsterdam",
-          "source": "Boutique Hotel News",
-          "source_name": "Boutique Hotel News",
-          "site_id": "boutiquehotel",
-          "published_at": "2026-09-18T10:40:19Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8241,
-      "importance": 0.5731,
-      "importance_score": 0.8241,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.8656,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-18T10:40:19Z",
-      "latest_at": "2026-09-18T10:40:19Z",
-      "primary_item": {
-        "id": "hotelitem_3e4e94c4353e",
-        "title": "The Zetter makes European debut with Amsterdam signing",
-        "url": "https://boutiquehotelnews.com/news/hotel/the-zetter-amsterdam/?utm_source=rss&utm_medium=rss&utm_campaign=the-zetter-amsterdam",
         "source": "Boutique Hotel News",
         "source_name": "Boutique Hotel News"
       }
@@ -1728,14 +1669,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.824,
-      "importance": 0.5731,
-      "importance_score": 0.824,
+      "score": 0.8231,
+      "importance": 0.5721,
+      "importance_score": 0.8231,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8654,
+        "recency": 0.8604,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1748,6 +1689,65 @@
         "id": "hotelitem_7149ff6c31ba",
         "title": "The PIG returns to Tunbridge Wells with latest acquisition",
         "url": "https://boutiquehotelnews.com/news/finance-and-investment/the-pig-tunbridge-wells/?utm_source=rss&utm_medium=rss&utm_campaign=the-pig-tunbridge-wells",
+        "source": "Boutique Hotel News",
+        "source_name": "Boutique Hotel News"
+      }
+    },
+    {
+      "story_id": "story_3e4e94c4353e",
+      "title": "The Zetter makes European debut with Amsterdam signing",
+      "url": "https://boutiquehotelnews.com/news/hotel/the-zetter-amsterdam/?utm_source=rss&utm_medium=rss&utm_campaign=the-zetter-amsterdam",
+      "primary_url": "https://boutiquehotelnews.com/news/hotel/the-zetter-amsterdam/?utm_source=rss&utm_medium=rss&utm_campaign=the-zetter-amsterdam",
+      "source": "Boutique Hotel News",
+      "source_name": "Boutique Hotel News",
+      "sources": [
+        {
+          "id": "hotelitem_3e4e94c4353e",
+          "title": "The Zetter makes European debut with Amsterdam signing",
+          "url": "https://boutiquehotelnews.com/news/hotel/the-zetter-amsterdam/?utm_source=rss&utm_medium=rss&utm_campaign=the-zetter-amsterdam",
+          "source": "Boutique Hotel News",
+          "source_name": "Boutique Hotel News",
+          "site_id": "boutiquehotel",
+          "published_at": "2026-09-18T10:40:19Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Boutique Hotel News"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_3e4e94c4353e",
+          "title": "The Zetter makes European debut with Amsterdam signing",
+          "url": "https://boutiquehotelnews.com/news/hotel/the-zetter-amsterdam/?utm_source=rss&utm_medium=rss&utm_campaign=the-zetter-amsterdam",
+          "source": "Boutique Hotel News",
+          "source_name": "Boutique Hotel News",
+          "site_id": "boutiquehotel",
+          "published_at": "2026-09-18T10:40:19Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8231,
+      "importance": 0.5721,
+      "importance_score": 0.8231,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.8606,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-18T10:40:19Z",
+      "latest_at": "2026-09-18T10:40:19Z",
+      "primary_item": {
+        "id": "hotelitem_3e4e94c4353e",
+        "title": "The Zetter makes European debut with Amsterdam signing",
+        "url": "https://boutiquehotelnews.com/news/hotel/the-zetter-amsterdam/?utm_source=rss&utm_medium=rss&utm_campaign=the-zetter-amsterdam",
         "source": "Boutique Hotel News",
         "source_name": "Boutique Hotel News"
       }
@@ -1787,14 +1787,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8232,
-      "importance": 0.5608,
-      "importance_score": 0.8232,
+      "score": 0.8217,
+      "importance": 0.5598,
+      "importance_score": 0.8217,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8042,
+        "recency": 0.7992,
         "story_heat": 0.0
       },
       "category": "watch",
