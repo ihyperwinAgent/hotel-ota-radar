@@ -1,67 +1,8 @@
 {
-  "generated_at": "2026-09-25T05:02:03.043791Z",
+  "generated_at": "2026-09-25T11:55:24.247913Z",
   "window_hours": 1080,
   "total_items": 30,
   "items": [
-    {
-      "story_id": "story_cab6364efd6a",
-      "title": "Why Supercity Aparthotels turned to investors",
-      "url": "https://insights.ehotelier.com/insights/2026/09/25/why-supercity-aparthotels-turned-to-investors/?utm_source=rss&utm_medium=rss&utm_campaign=why-supercity-aparthotels-turned-to-investors",
-      "primary_url": "https://insights.ehotelier.com/insights/2026/09/25/why-supercity-aparthotels-turned-to-investors/?utm_source=rss&utm_medium=rss&utm_campaign=why-supercity-aparthotels-turned-to-investors",
-      "source": "eHotelier",
-      "source_name": "eHotelier",
-      "sources": [
-        {
-          "id": "hotelitem_cab6364efd6a",
-          "title": "Why Supercity Aparthotels turned to investors",
-          "url": "https://insights.ehotelier.com/insights/2026/09/25/why-supercity-aparthotels-turned-to-investors/?utm_source=rss&utm_medium=rss&utm_campaign=why-supercity-aparthotels-turned-to-investors",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-09-25T02:05:43Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "eHotelier"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_cab6364efd6a",
-          "title": "Why Supercity Aparthotels turned to investors",
-          "url": "https://insights.ehotelier.com/insights/2026/09/25/why-supercity-aparthotels-turned-to-investors/?utm_source=rss&utm_medium=rss&utm_campaign=why-supercity-aparthotels-turned-to-investors",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-09-25T02:05:43Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.9545,
-      "importance": 0.5995,
-      "importance_score": 0.9545,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9973,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-25T02:05:43Z",
-      "latest_at": "2026-09-25T02:05:43Z",
-      "primary_item": {
-        "id": "hotelitem_cab6364efd6a",
-        "title": "Why Supercity Aparthotels turned to investors",
-        "url": "https://insights.ehotelier.com/insights/2026/09/25/why-supercity-aparthotels-turned-to-investors/?utm_source=rss&utm_medium=rss&utm_campaign=why-supercity-aparthotels-turned-to-investors",
-        "source": "eHotelier",
-        "source_name": "eHotelier"
-      }
-    },
     {
       "story_id": "story_06bf889f9fe3",
       "title": "Samira Khrichfa promoted to Cluster General Manager at Novotel Bur Dubai",
@@ -97,14 +38,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9544,
-      "importance": 0.5994,
-      "importance_score": 0.9544,
+      "score": 0.9532,
+      "importance": 0.5981,
+      "importance_score": 0.9532,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9969,
+        "recency": 0.9905,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -117,6 +58,65 @@
         "id": "hotelitem_06bf889f9fe3",
         "title": "Samira Khrichfa promoted to Cluster General Manager at Novotel Bur Dubai",
         "url": "https://insights.ehotelier.com/people/2026/09/25/samira-khrichfa-promoted-to-cluster-general-manager-at-novotel-bur-dubai/?utm_source=rss&utm_medium=rss&utm_campaign=samira-khrichfa-promoted-to-cluster-general-manager-at-novotel-bur-dubai",
+        "source": "eHotelier",
+        "source_name": "eHotelier"
+      }
+    },
+    {
+      "story_id": "story_cab6364efd6a",
+      "title": "Why Supercity Aparthotels turned to investors",
+      "url": "https://insights.ehotelier.com/insights/2026/09/25/why-supercity-aparthotels-turned-to-investors/?utm_source=rss&utm_medium=rss&utm_campaign=why-supercity-aparthotels-turned-to-investors",
+      "primary_url": "https://insights.ehotelier.com/insights/2026/09/25/why-supercity-aparthotels-turned-to-investors/?utm_source=rss&utm_medium=rss&utm_campaign=why-supercity-aparthotels-turned-to-investors",
+      "source": "eHotelier",
+      "source_name": "eHotelier",
+      "sources": [
+        {
+          "id": "hotelitem_cab6364efd6a",
+          "title": "Why Supercity Aparthotels turned to investors",
+          "url": "https://insights.ehotelier.com/insights/2026/09/25/why-supercity-aparthotels-turned-to-investors/?utm_source=rss&utm_medium=rss&utm_campaign=why-supercity-aparthotels-turned-to-investors",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-09-25T02:05:43Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "eHotelier"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_cab6364efd6a",
+          "title": "Why Supercity Aparthotels turned to investors",
+          "url": "https://insights.ehotelier.com/insights/2026/09/25/why-supercity-aparthotels-turned-to-investors/?utm_source=rss&utm_medium=rss&utm_campaign=why-supercity-aparthotels-turned-to-investors",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-09-25T02:05:43Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.9532,
+      "importance": 0.5982,
+      "importance_score": 0.9532,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9909,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-25T02:05:43Z",
+      "latest_at": "2026-09-25T02:05:43Z",
+      "primary_item": {
+        "id": "hotelitem_cab6364efd6a",
+        "title": "Why Supercity Aparthotels turned to investors",
+        "url": "https://insights.ehotelier.com/insights/2026/09/25/why-supercity-aparthotels-turned-to-investors/?utm_source=rss&utm_medium=rss&utm_campaign=why-supercity-aparthotels-turned-to-investors",
         "source": "eHotelier",
         "source_name": "eHotelier"
       }
@@ -156,14 +156,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9528,
-      "importance": 0.5977,
-      "importance_score": 0.9528,
+      "score": 0.9516,
+      "importance": 0.5965,
+      "importance_score": 0.9516,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9887,
+        "recency": 0.9824,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -215,14 +215,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9489,
-      "importance": 0.5936,
-      "importance_score": 0.9489,
+      "score": 0.9476,
+      "importance": 0.5924,
+      "importance_score": 0.9476,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9682,
+        "recency": 0.9618,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -274,14 +274,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9479,
-      "importance": 0.5926,
-      "importance_score": 0.9479,
+      "score": 0.9467,
+      "importance": 0.5914,
+      "importance_score": 0.9467,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9632,
+        "recency": 0.9568,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -333,14 +333,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9282,
-      "importance": 0.5877,
-      "importance_score": 0.9282,
+      "score": 0.9269,
+      "importance": 0.5864,
+      "importance_score": 0.9269,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9386,
+        "recency": 0.9322,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -392,14 +392,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9256,
-      "importance": 0.5954,
-      "importance_score": 0.9256,
+      "score": 0.9244,
+      "importance": 0.5942,
+      "importance_score": 0.9244,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9772,
+        "recency": 0.9709,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -431,7 +431,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-09-25T05:02:03.043791Z"
+          "published_at": "2026-09-25T11:55:24.247913Z"
         }
       ],
       "source_count": 1,
@@ -446,7 +446,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-09-25T05:02:03.043791Z"
+          "published_at": "2026-09-25T11:55:24.247913Z"
         }
       ],
       "item_count": 1,
@@ -465,73 +465,14 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-25T05:02:03.043791Z",
-      "latest_at": "2026-09-25T05:02:03.043791Z",
+      "earliest_at": "2026-09-25T11:55:24.247913Z",
+      "latest_at": "2026-09-25T11:55:24.247913Z",
       "primary_item": {
         "id": "hotelitem_06f191e24d38",
         "title": "文旅惠报|复星国际申请分拆Club Med在港上市；南京商旅上半年营收3.66亿元",
         "url": "https://www.tripvivid.com/47868.html",
         "source": "执惠 TripVivid",
         "source_name": "执惠 TripVivid"
-      }
-    },
-    {
-      "story_id": "story_38304394085e",
-      "title": "Six UI design tweaks to boost spend and engagement on your hotel guest directory and F&B ordering platform",
-      "url": "https://insights.ehotelier.com/suppliers/2026/09/25/six-ui-design-tweaks-to-boost-spend-and-engagement-on-your-hotel-guest-directory-and-fb-ordering-platform/?utm_source=rss&utm_medium=rss&utm_campaign=six-ui-design-tweaks-to-boost-spend-and-engagement-on-your-hotel-guest-directory-and-fb-ordering-platform",
-      "primary_url": "https://insights.ehotelier.com/suppliers/2026/09/25/six-ui-design-tweaks-to-boost-spend-and-engagement-on-your-hotel-guest-directory-and-fb-ordering-platform/?utm_source=rss&utm_medium=rss&utm_campaign=six-ui-design-tweaks-to-boost-spend-and-engagement-on-your-hotel-guest-directory-and-fb-ordering-platform",
-      "source": "eHotelier",
-      "source_name": "eHotelier",
-      "sources": [
-        {
-          "id": "hotelitem_38304394085e",
-          "title": "Six UI design tweaks to boost spend and engagement on your hotel guest directory and F&B ordering platform",
-          "url": "https://insights.ehotelier.com/suppliers/2026/09/25/six-ui-design-tweaks-to-boost-spend-and-engagement-on-your-hotel-guest-directory-and-fb-ordering-platform/?utm_source=rss&utm_medium=rss&utm_campaign=six-ui-design-tweaks-to-boost-spend-and-engagement-on-your-hotel-guest-directory-and-fb-ordering-platform",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-09-25T02:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "eHotelier"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_38304394085e",
-          "title": "Six UI design tweaks to boost spend and engagement on your hotel guest directory and F&B ordering platform",
-          "url": "https://insights.ehotelier.com/suppliers/2026/09/25/six-ui-design-tweaks-to-boost-spend-and-engagement-on-your-hotel-guest-directory-and-fb-ordering-platform/?utm_source=rss&utm_medium=rss&utm_campaign=six-ui-design-tweaks-to-boost-spend-and-engagement-on-your-hotel-guest-directory-and-fb-ordering-platform",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-09-25T02:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8645,
-      "importance": 0.5994,
-      "importance_score": 0.8645,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9972,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-25T02:00:00Z",
-      "latest_at": "2026-09-25T02:00:00Z",
-      "primary_item": {
-        "id": "hotelitem_38304394085e",
-        "title": "Six UI design tweaks to boost spend and engagement on your hotel guest directory and F&B ordering platform",
-        "url": "https://insights.ehotelier.com/suppliers/2026/09/25/six-ui-design-tweaks-to-boost-spend-and-engagement-on-your-hotel-guest-directory-and-fb-ordering-platform/?utm_source=rss&utm_medium=rss&utm_campaign=six-ui-design-tweaks-to-boost-spend-and-engagement-on-your-hotel-guest-directory-and-fb-ordering-platform",
-        "source": "eHotelier",
-        "source_name": "eHotelier"
       }
     },
     {
@@ -569,14 +510,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8644,
-      "importance": 0.5994,
-      "importance_score": 0.8644,
+      "score": 0.8632,
+      "importance": 0.5981,
+      "importance_score": 0.8632,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9971,
+        "recency": 0.9907,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -589,6 +530,65 @@
         "id": "hotelitem_401092dfc42d",
         "title": "Stonebridge adds dual-branded property in heart of Atlanta midtown’s arts & entertainment district to managed portfolio",
         "url": "https://insights.ehotelier.com/global-news/2026/09/25/stonebridge-adds-dual-branded-property-in-heart-of-atlanta-midtowns-arts-entertainment-district-to-managed-portfolio/?utm_source=rss&utm_medium=rss&utm_campaign=stonebridge-adds-dual-branded-property-in-heart-of-atlanta-midtowns-arts-entertainment-district-to-managed-portfolio",
+        "source": "eHotelier",
+        "source_name": "eHotelier"
+      }
+    },
+    {
+      "story_id": "story_38304394085e",
+      "title": "Six UI design tweaks to boost spend and engagement on your hotel guest directory and F&B ordering platform",
+      "url": "https://insights.ehotelier.com/suppliers/2026/09/25/six-ui-design-tweaks-to-boost-spend-and-engagement-on-your-hotel-guest-directory-and-fb-ordering-platform/?utm_source=rss&utm_medium=rss&utm_campaign=six-ui-design-tweaks-to-boost-spend-and-engagement-on-your-hotel-guest-directory-and-fb-ordering-platform",
+      "primary_url": "https://insights.ehotelier.com/suppliers/2026/09/25/six-ui-design-tweaks-to-boost-spend-and-engagement-on-your-hotel-guest-directory-and-fb-ordering-platform/?utm_source=rss&utm_medium=rss&utm_campaign=six-ui-design-tweaks-to-boost-spend-and-engagement-on-your-hotel-guest-directory-and-fb-ordering-platform",
+      "source": "eHotelier",
+      "source_name": "eHotelier",
+      "sources": [
+        {
+          "id": "hotelitem_38304394085e",
+          "title": "Six UI design tweaks to boost spend and engagement on your hotel guest directory and F&B ordering platform",
+          "url": "https://insights.ehotelier.com/suppliers/2026/09/25/six-ui-design-tweaks-to-boost-spend-and-engagement-on-your-hotel-guest-directory-and-fb-ordering-platform/?utm_source=rss&utm_medium=rss&utm_campaign=six-ui-design-tweaks-to-boost-spend-and-engagement-on-your-hotel-guest-directory-and-fb-ordering-platform",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-09-25T02:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "eHotelier"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_38304394085e",
+          "title": "Six UI design tweaks to boost spend and engagement on your hotel guest directory and F&B ordering platform",
+          "url": "https://insights.ehotelier.com/suppliers/2026/09/25/six-ui-design-tweaks-to-boost-spend-and-engagement-on-your-hotel-guest-directory-and-fb-ordering-platform/?utm_source=rss&utm_medium=rss&utm_campaign=six-ui-design-tweaks-to-boost-spend-and-engagement-on-your-hotel-guest-directory-and-fb-ordering-platform",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-09-25T02:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8632,
+      "importance": 0.5982,
+      "importance_score": 0.8632,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9908,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-25T02:00:00Z",
+      "latest_at": "2026-09-25T02:00:00Z",
+      "primary_item": {
+        "id": "hotelitem_38304394085e",
+        "title": "Six UI design tweaks to boost spend and engagement on your hotel guest directory and F&B ordering platform",
+        "url": "https://insights.ehotelier.com/suppliers/2026/09/25/six-ui-design-tweaks-to-boost-spend-and-engagement-on-your-hotel-guest-directory-and-fb-ordering-platform/?utm_source=rss&utm_medium=rss&utm_campaign=six-ui-design-tweaks-to-boost-spend-and-engagement-on-your-hotel-guest-directory-and-fb-ordering-platform",
         "source": "eHotelier",
         "source_name": "eHotelier"
       }
@@ -628,14 +628,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8626,
-      "importance": 0.5975,
-      "importance_score": 0.8626,
+      "score": 0.8614,
+      "importance": 0.5962,
+      "importance_score": 0.8614,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9876,
+        "recency": 0.9812,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -650,6 +650,280 @@
         "url": "https://www.hotelmanagement.net/resource/unifocus-claira-workforce-management-redefined",
         "source": "Hotel Management",
         "source_name": "Hotel Management"
+      }
+    },
+    {
+      "story_id": "story_c7c15b7680c9",
+      "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
+      "url": "https://www.chinahotel.org.cn/articles/17408",
+      "primary_url": "https://www.chinahotel.org.cn/articles/17408",
+      "source": "中国饭店协会",
+      "source_name": "中国饭店协会",
+      "sources": [
+        {
+          "id": "hotelitem_d4370964909c",
+          "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
+          "url": "https://www.chinahotel.org.cn/articles/17408",
+          "source": "中国饭店协会",
+          "source_name": "中国饭店协会",
+          "site_id": "chinahotel",
+          "published_at": "2026-09-25T11:55:24.247913Z"
+        },
+        {
+          "id": "hotelitem_c7c15b7680c9",
+          "title": "绿色饭店 | 2026年第一批国家标准绿色饭店名单公布 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007) 在全国组织开展国家标准绿色饭店的评定工作。现公布2026年第一批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
+          "url": "https://www.chinahotel.org.cn/articles/17689",
+          "source": "中国饭店协会",
+          "source_name": "中国饭店协会",
+          "site_id": "chinahotel",
+          "published_at": "2026-09-25T11:55:24.247913Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "中国饭店协会"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_d4370964909c",
+          "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
+          "url": "https://www.chinahotel.org.cn/articles/17408",
+          "source": "中国饭店协会",
+          "source_name": "中国饭店协会",
+          "site_id": "chinahotel",
+          "published_at": "2026-09-25T11:55:24.247913Z"
+        },
+        {
+          "id": "hotelitem_c7c15b7680c9",
+          "title": "绿色饭店 | 2026年第一批国家标准绿色饭店名单公布 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007) 在全国组织开展国家标准绿色饭店的评定工作。现公布2026年第一批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
+          "url": "https://www.chinahotel.org.cn/articles/17689",
+          "source": "中国饭店协会",
+          "source_name": "中国饭店协会",
+          "site_id": "chinahotel",
+          "published_at": "2026-09-25T11:55:24.247913Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.86,
+      "importance": 0.625,
+      "importance_score": 0.86,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-25T11:55:24.247913Z",
+      "latest_at": "2026-09-25T11:55:24.247913Z",
+      "primary_item": {
+        "id": "hotelitem_d4370964909c",
+        "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
+        "url": "https://www.chinahotel.org.cn/articles/17408",
+        "source": "中国饭店协会",
+        "source_name": "中国饭店协会"
+      }
+    },
+    {
+      "story_id": "story_1243e4eead68",
+      "title": "指数发布 | 中国住宿业消费指数报告（2026年8月）发布 为贯彻落实提振消费相关政策，真实反映中国住宿餐饮业市场消费情况，以数据引导促消费政策精准发力，为行业发展提供参考建议，中国饭店协会每月公开发布“中国饭店业消费指数体系”，包含“中国住宿业消费指数（China Hotel Industry Consumption Index, HCI）”与“中国餐饮业消费指数（China Catering Industry Consumption Index, CCI）”，欢迎关注。\n本篇发布的是“中国住宿业消费指数”。",
+      "url": "https://www.chinahotel.org.cn/articles/18010",
+      "primary_url": "https://www.chinahotel.org.cn/articles/18010",
+      "source": "中国饭店协会",
+      "source_name": "中国饭店协会",
+      "sources": [
+        {
+          "id": "hotelitem_b30c7ac8b6e5",
+          "title": "指数发布 | 中国住宿业消费指数报告（2026年8月）发布 为贯彻落实提振消费相关政策，真实反映中国住宿餐饮业市场消费情况，以数据引导促消费政策精准发力，为行业发展提供参考建议，中国饭店协会每月公开发布“中国饭店业消费指数体系”，包含“中国住宿业消费指数（China Hotel Industry Consumption Index, HCI）”与“中国餐饮业消费指数（China Catering Industry Consumption Index, CCI）”，欢迎关注。\n本篇发布的是“中国住宿业消费指数”。",
+          "url": "https://www.chinahotel.org.cn/articles/18010",
+          "source": "中国饭店协会",
+          "source_name": "中国饭店协会",
+          "site_id": "chinahotel",
+          "published_at": "2026-09-25T11:55:24.247913Z"
+        },
+        {
+          "id": "hotelitem_1243e4eead68",
+          "title": "指数发布 | 中国餐饮业消费指数报告（2026年8月）发布 为贯彻落实提振消费相关政策，真实反映中国住宿餐饮业市场消费情况，以数据引导促消费政策精准发力，为行业发展提供参考建议，中国饭店协会每月公开发布“中国饭店业消费指数体系”，包含“中国住宿业消费指数（China Hotel Industry Consumption Index, HCI）”与“中国餐饮业消费指数(China Catering Industry Consumption Index, CCI）”，欢迎关注。\n本篇发布的是“中国餐饮业消费指数”。",
+          "url": "https://www.chinahotel.org.cn/articles/18011",
+          "source": "中国饭店协会",
+          "source_name": "中国饭店协会",
+          "site_id": "chinahotel",
+          "published_at": "2026-09-25T11:55:24.247913Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "中国饭店协会"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_b30c7ac8b6e5",
+          "title": "指数发布 | 中国住宿业消费指数报告（2026年8月）发布 为贯彻落实提振消费相关政策，真实反映中国住宿餐饮业市场消费情况，以数据引导促消费政策精准发力，为行业发展提供参考建议，中国饭店协会每月公开发布“中国饭店业消费指数体系”，包含“中国住宿业消费指数（China Hotel Industry Consumption Index, HCI）”与“中国餐饮业消费指数（China Catering Industry Consumption Index, CCI）”，欢迎关注。\n本篇发布的是“中国住宿业消费指数”。",
+          "url": "https://www.chinahotel.org.cn/articles/18010",
+          "source": "中国饭店协会",
+          "source_name": "中国饭店协会",
+          "site_id": "chinahotel",
+          "published_at": "2026-09-25T11:55:24.247913Z"
+        },
+        {
+          "id": "hotelitem_1243e4eead68",
+          "title": "指数发布 | 中国餐饮业消费指数报告（2026年8月）发布 为贯彻落实提振消费相关政策，真实反映中国住宿餐饮业市场消费情况，以数据引导促消费政策精准发力，为行业发展提供参考建议，中国饭店协会每月公开发布“中国饭店业消费指数体系”，包含“中国住宿业消费指数（China Hotel Industry Consumption Index, HCI）”与“中国餐饮业消费指数(China Catering Industry Consumption Index, CCI）”，欢迎关注。\n本篇发布的是“中国餐饮业消费指数”。",
+          "url": "https://www.chinahotel.org.cn/articles/18011",
+          "source": "中国饭店协会",
+          "source_name": "中国饭店协会",
+          "site_id": "chinahotel",
+          "published_at": "2026-09-25T11:55:24.247913Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.86,
+      "importance": 0.625,
+      "importance_score": 0.86,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-25T11:55:24.247913Z",
+      "latest_at": "2026-09-25T11:55:24.247913Z",
+      "primary_item": {
+        "id": "hotelitem_b30c7ac8b6e5",
+        "title": "指数发布 | 中国住宿业消费指数报告（2026年8月）发布 为贯彻落实提振消费相关政策，真实反映中国住宿餐饮业市场消费情况，以数据引导促消费政策精准发力，为行业发展提供参考建议，中国饭店协会每月公开发布“中国饭店业消费指数体系”，包含“中国住宿业消费指数（China Hotel Industry Consumption Index, HCI）”与“中国餐饮业消费指数（China Catering Industry Consumption Index, CCI）”，欢迎关注。\n本篇发布的是“中国住宿业消费指数”。",
+        "url": "https://www.chinahotel.org.cn/articles/18010",
+        "source": "中国饭店协会",
+        "source_name": "中国饭店协会"
+      }
+    },
+    {
+      "story_id": "story_a9b32c51f574",
+      "title": "万达酒店发展中期净利下滑78.29%",
+      "url": "https://www.meadin.com/jd/301843.html",
+      "primary_url": "https://www.meadin.com/jd/301843.html",
+      "source": "迈点研究院",
+      "source_name": "迈点研究院",
+      "sources": [
+        {
+          "id": "hotelitem_a9b32c51f574",
+          "title": "万达酒店发展中期净利下滑78.29%",
+          "url": "https://www.meadin.com/jd/301843.html",
+          "source": "迈点研究院",
+          "source_name": "迈点研究院",
+          "site_id": "meadin",
+          "published_at": "2026-09-25T11:55:24.247913Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "迈点研究院"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_a9b32c51f574",
+          "title": "万达酒店发展中期净利下滑78.29%",
+          "url": "https://www.meadin.com/jd/301843.html",
+          "source": "迈点研究院",
+          "source_name": "迈点研究院",
+          "site_id": "meadin",
+          "published_at": "2026-09-25T11:55:24.247913Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.86,
+      "importance": 0.6,
+      "importance_score": 0.86,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-25T11:55:24.247913Z",
+      "latest_at": "2026-09-25T11:55:24.247913Z",
+      "primary_item": {
+        "id": "hotelitem_a9b32c51f574",
+        "title": "万达酒店发展中期净利下滑78.29%",
+        "url": "https://www.meadin.com/jd/301843.html",
+        "source": "迈点研究院",
+        "source_name": "迈点研究院"
+      }
+    },
+    {
+      "story_id": "story_0fcd2ebc5d63",
+      "title": "文旅部：2025年文化产业营收20.8万亿元",
+      "url": "https://www.meadin.com/wl/301838.html",
+      "primary_url": "https://www.meadin.com/wl/301838.html",
+      "source": "迈点研究院",
+      "source_name": "迈点研究院",
+      "sources": [
+        {
+          "id": "hotelitem_0fcd2ebc5d63",
+          "title": "文旅部：2025年文化产业营收20.8万亿元",
+          "url": "https://www.meadin.com/wl/301838.html",
+          "source": "迈点研究院",
+          "source_name": "迈点研究院",
+          "site_id": "meadin",
+          "published_at": "2026-09-25T11:55:24.247913Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "迈点研究院"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_0fcd2ebc5d63",
+          "title": "文旅部：2025年文化产业营收20.8万亿元",
+          "url": "https://www.meadin.com/wl/301838.html",
+          "source": "迈点研究院",
+          "source_name": "迈点研究院",
+          "site_id": "meadin",
+          "published_at": "2026-09-25T11:55:24.247913Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.86,
+      "importance": 0.6,
+      "importance_score": 0.86,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-25T11:55:24.247913Z",
+      "latest_at": "2026-09-25T11:55:24.247913Z",
+      "primary_item": {
+        "id": "hotelitem_0fcd2ebc5d63",
+        "title": "文旅部：2025年文化产业营收20.8万亿元",
+        "url": "https://www.meadin.com/wl/301838.html",
+        "source": "迈点研究院",
+        "source_name": "迈点研究院"
       }
     },
     {
@@ -687,14 +961,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8602,
-      "importance": 0.595,
-      "importance_score": 0.8602,
+      "score": 0.859,
+      "importance": 0.5937,
+      "importance_score": 0.859,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9751,
+        "recency": 0.9687,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -712,199 +986,43 @@
       }
     },
     {
-      "story_id": "story_c7c15b7680c9",
-      "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
-      "url": "https://www.chinahotel.org.cn/articles/17408",
-      "primary_url": "https://www.chinahotel.org.cn/articles/17408",
-      "source": "中国饭店协会",
-      "source_name": "中国饭店协会",
+      "story_id": "story_e4ce0593c384",
+      "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
+      "url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
+      "primary_url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
+      "source": "中国旅游研究院",
+      "source_name": "中国旅游研究院",
       "sources": [
         {
-          "id": "hotelitem_d4370964909c",
-          "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
-          "url": "https://www.chinahotel.org.cn/articles/17408",
-          "source": "中国饭店协会",
-          "source_name": "中国饭店协会",
-          "site_id": "chinahotel",
-          "published_at": "2026-09-25T05:02:03.043791Z"
-        },
-        {
-          "id": "hotelitem_c7c15b7680c9",
-          "title": "绿色饭店 | 2026年第一批国家标准绿色饭店名单公布 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007) 在全国组织开展国家标准绿色饭店的评定工作。现公布2026年第一批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
-          "url": "https://www.chinahotel.org.cn/articles/17689",
-          "source": "中国饭店协会",
-          "source_name": "中国饭店协会",
-          "site_id": "chinahotel",
-          "published_at": "2026-09-25T05:02:03.043791Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "中国饭店协会"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_d4370964909c",
-          "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
-          "url": "https://www.chinahotel.org.cn/articles/17408",
-          "source": "中国饭店协会",
-          "source_name": "中国饭店协会",
-          "site_id": "chinahotel",
-          "published_at": "2026-09-25T05:02:03.043791Z"
-        },
-        {
-          "id": "hotelitem_c7c15b7680c9",
-          "title": "绿色饭店 | 2026年第一批国家标准绿色饭店名单公布 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007) 在全国组织开展国家标准绿色饭店的评定工作。现公布2026年第一批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
-          "url": "https://www.chinahotel.org.cn/articles/17689",
-          "source": "中国饭店协会",
-          "source_name": "中国饭店协会",
-          "site_id": "chinahotel",
-          "published_at": "2026-09-25T05:02:03.043791Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.86,
-      "importance": 0.625,
-      "importance_score": 0.86,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-25T05:02:03.043791Z",
-      "latest_at": "2026-09-25T05:02:03.043791Z",
-      "primary_item": {
-        "id": "hotelitem_d4370964909c",
-        "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
-        "url": "https://www.chinahotel.org.cn/articles/17408",
-        "source": "中国饭店协会",
-        "source_name": "中国饭店协会"
-      }
-    },
-    {
-      "story_id": "story_1243e4eead68",
-      "title": "指数发布 | 中国住宿业消费指数报告（2026年8月）发布 为贯彻落实提振消费相关政策，真实反映中国住宿餐饮业市场消费情况，以数据引导促消费政策精准发力，为行业发展提供参考建议，中国饭店协会每月公开发布“中国饭店业消费指数体系”，包含“中国住宿业消费指数（China Hotel Industry Consumption Index, HCI）”与“中国餐饮业消费指数（China Catering Industry Consumption Index, CCI）”，欢迎关注。\n本篇发布的是“中国住宿业消费指数”。",
-      "url": "https://www.chinahotel.org.cn/articles/18010",
-      "primary_url": "https://www.chinahotel.org.cn/articles/18010",
-      "source": "中国饭店协会",
-      "source_name": "中国饭店协会",
-      "sources": [
-        {
-          "id": "hotelitem_b30c7ac8b6e5",
-          "title": "指数发布 | 中国住宿业消费指数报告（2026年8月）发布 为贯彻落实提振消费相关政策，真实反映中国住宿餐饮业市场消费情况，以数据引导促消费政策精准发力，为行业发展提供参考建议，中国饭店协会每月公开发布“中国饭店业消费指数体系”，包含“中国住宿业消费指数（China Hotel Industry Consumption Index, HCI）”与“中国餐饮业消费指数（China Catering Industry Consumption Index, CCI）”，欢迎关注。\n本篇发布的是“中国住宿业消费指数”。",
-          "url": "https://www.chinahotel.org.cn/articles/18010",
-          "source": "中国饭店协会",
-          "source_name": "中国饭店协会",
-          "site_id": "chinahotel",
-          "published_at": "2026-09-25T05:02:03.043791Z"
-        },
-        {
-          "id": "hotelitem_1243e4eead68",
-          "title": "指数发布 | 中国餐饮业消费指数报告（2026年8月）发布 为贯彻落实提振消费相关政策，真实反映中国住宿餐饮业市场消费情况，以数据引导促消费政策精准发力，为行业发展提供参考建议，中国饭店协会每月公开发布“中国饭店业消费指数体系”，包含“中国住宿业消费指数（China Hotel Industry Consumption Index, HCI）”与“中国餐饮业消费指数(China Catering Industry Consumption Index, CCI）”，欢迎关注。\n本篇发布的是“中国餐饮业消费指数”。",
-          "url": "https://www.chinahotel.org.cn/articles/18011",
-          "source": "中国饭店协会",
-          "source_name": "中国饭店协会",
-          "site_id": "chinahotel",
-          "published_at": "2026-09-25T05:02:03.043791Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "中国饭店协会"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_b30c7ac8b6e5",
-          "title": "指数发布 | 中国住宿业消费指数报告（2026年8月）发布 为贯彻落实提振消费相关政策，真实反映中国住宿餐饮业市场消费情况，以数据引导促消费政策精准发力，为行业发展提供参考建议，中国饭店协会每月公开发布“中国饭店业消费指数体系”，包含“中国住宿业消费指数（China Hotel Industry Consumption Index, HCI）”与“中国餐饮业消费指数（China Catering Industry Consumption Index, CCI）”，欢迎关注。\n本篇发布的是“中国住宿业消费指数”。",
-          "url": "https://www.chinahotel.org.cn/articles/18010",
-          "source": "中国饭店协会",
-          "source_name": "中国饭店协会",
-          "site_id": "chinahotel",
-          "published_at": "2026-09-25T05:02:03.043791Z"
-        },
-        {
-          "id": "hotelitem_1243e4eead68",
-          "title": "指数发布 | 中国餐饮业消费指数报告（2026年8月）发布 为贯彻落实提振消费相关政策，真实反映中国住宿餐饮业市场消费情况，以数据引导促消费政策精准发力，为行业发展提供参考建议，中国饭店协会每月公开发布“中国饭店业消费指数体系”，包含“中国住宿业消费指数（China Hotel Industry Consumption Index, HCI）”与“中国餐饮业消费指数(China Catering Industry Consumption Index, CCI）”，欢迎关注。\n本篇发布的是“中国餐饮业消费指数”。",
-          "url": "https://www.chinahotel.org.cn/articles/18011",
-          "source": "中国饭店协会",
-          "source_name": "中国饭店协会",
-          "site_id": "chinahotel",
-          "published_at": "2026-09-25T05:02:03.043791Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.86,
-      "importance": 0.625,
-      "importance_score": 0.86,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-25T05:02:03.043791Z",
-      "latest_at": "2026-09-25T05:02:03.043791Z",
-      "primary_item": {
-        "id": "hotelitem_b30c7ac8b6e5",
-        "title": "指数发布 | 中国住宿业消费指数报告（2026年8月）发布 为贯彻落实提振消费相关政策，真实反映中国住宿餐饮业市场消费情况，以数据引导促消费政策精准发力，为行业发展提供参考建议，中国饭店协会每月公开发布“中国饭店业消费指数体系”，包含“中国住宿业消费指数（China Hotel Industry Consumption Index, HCI）”与“中国餐饮业消费指数（China Catering Industry Consumption Index, CCI）”，欢迎关注。\n本篇发布的是“中国住宿业消费指数”。",
-        "url": "https://www.chinahotel.org.cn/articles/18010",
-        "source": "中国饭店协会",
-        "source_name": "中国饭店协会"
-      }
-    },
-    {
-      "story_id": "story_a9b32c51f574",
-      "title": "万达酒店发展中期净利下滑78.29%",
-      "url": "https://www.meadin.com/jd/301843.html",
-      "primary_url": "https://www.meadin.com/jd/301843.html",
-      "source": "迈点研究院",
-      "source_name": "迈点研究院",
-      "sources": [
-        {
-          "id": "hotelitem_a9b32c51f574",
-          "title": "万达酒店发展中期净利下滑78.29%",
-          "url": "https://www.meadin.com/jd/301843.html",
-          "source": "迈点研究院",
-          "source_name": "迈点研究院",
-          "site_id": "meadin",
-          "published_at": "2026-09-25T05:02:03.043791Z"
+          "id": "hotelitem_e4ce0593c384",
+          "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
+          "url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
+          "source": "中国旅游研究院",
+          "source_name": "中国旅游研究院",
+          "site_id": "cta",
+          "published_at": "2026-09-25T11:55:24.247913Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "迈点研究院"
+        "中国旅游研究院"
       ],
       "items": [
         {
-          "id": "hotelitem_a9b32c51f574",
-          "title": "万达酒店发展中期净利下滑78.29%",
-          "url": "https://www.meadin.com/jd/301843.html",
-          "source": "迈点研究院",
-          "source_name": "迈点研究院",
-          "site_id": "meadin",
-          "published_at": "2026-09-25T05:02:03.043791Z"
+          "id": "hotelitem_e4ce0593c384",
+          "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
+          "url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
+          "source": "中国旅游研究院",
+          "source_name": "中国旅游研究院",
+          "site_id": "cta",
+          "published_at": "2026-09-25T11:55:24.247913Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.86,
+      "score": 0.858,
       "importance": 0.6,
-      "importance_score": 0.86,
+      "importance_score": 0.858,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
@@ -916,54 +1034,54 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-25T05:02:03.043791Z",
-      "latest_at": "2026-09-25T05:02:03.043791Z",
+      "earliest_at": "2026-09-25T11:55:24.247913Z",
+      "latest_at": "2026-09-25T11:55:24.247913Z",
       "primary_item": {
-        "id": "hotelitem_a9b32c51f574",
-        "title": "万达酒店发展中期净利下滑78.29%",
-        "url": "https://www.meadin.com/jd/301843.html",
-        "source": "迈点研究院",
-        "source_name": "迈点研究院"
+        "id": "hotelitem_e4ce0593c384",
+        "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
+        "url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
+        "source": "中国旅游研究院",
+        "source_name": "中国旅游研究院"
       }
     },
     {
-      "story_id": "story_0fcd2ebc5d63",
-      "title": "文旅部：2025年文化产业营收20.8万亿元",
-      "url": "https://www.meadin.com/wl/301838.html",
-      "primary_url": "https://www.meadin.com/wl/301838.html",
-      "source": "迈点研究院",
-      "source_name": "迈点研究院",
+      "story_id": "story_ac4d594208da",
+      "title": "国务院办公厅转发文化和旅游部等10部门《关...",
+      "url": "https://www.mct.gov.cn/whzx/whyw/202609/t20260918_967191.htm",
+      "primary_url": "https://www.mct.gov.cn/whzx/whyw/202609/t20260918_967191.htm",
+      "source": "文化和旅游部",
+      "source_name": "文化和旅游部",
       "sources": [
         {
-          "id": "hotelitem_0fcd2ebc5d63",
-          "title": "文旅部：2025年文化产业营收20.8万亿元",
-          "url": "https://www.meadin.com/wl/301838.html",
-          "source": "迈点研究院",
-          "source_name": "迈点研究院",
-          "site_id": "meadin",
-          "published_at": "2026-09-25T05:02:03.043791Z"
+          "id": "hotelitem_ac4d594208da",
+          "title": "国务院办公厅转发文化和旅游部等10部门《关...",
+          "url": "https://www.mct.gov.cn/whzx/whyw/202609/t20260918_967191.htm",
+          "source": "文化和旅游部",
+          "source_name": "文化和旅游部",
+          "site_id": "mct",
+          "published_at": "2026-09-25T11:55:24.247913Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "迈点研究院"
+        "文化和旅游部"
       ],
       "items": [
         {
-          "id": "hotelitem_0fcd2ebc5d63",
-          "title": "文旅部：2025年文化产业营收20.8万亿元",
-          "url": "https://www.meadin.com/wl/301838.html",
-          "source": "迈点研究院",
-          "source_name": "迈点研究院",
-          "site_id": "meadin",
-          "published_at": "2026-09-25T05:02:03.043791Z"
+          "id": "hotelitem_ac4d594208da",
+          "title": "国务院办公厅转发文化和旅游部等10部门《关...",
+          "url": "https://www.mct.gov.cn/whzx/whyw/202609/t20260918_967191.htm",
+          "source": "文化和旅游部",
+          "source_name": "文化和旅游部",
+          "site_id": "mct",
+          "published_at": "2026-09-25T11:55:24.247913Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.86,
+      "score": 0.858,
       "importance": 0.6,
-      "importance_score": 0.86,
+      "importance_score": 0.858,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
@@ -975,14 +1093,250 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-25T05:02:03.043791Z",
-      "latest_at": "2026-09-25T05:02:03.043791Z",
+      "earliest_at": "2026-09-25T11:55:24.247913Z",
+      "latest_at": "2026-09-25T11:55:24.247913Z",
       "primary_item": {
-        "id": "hotelitem_0fcd2ebc5d63",
-        "title": "文旅部：2025年文化产业营收20.8万亿元",
-        "url": "https://www.meadin.com/wl/301838.html",
-        "source": "迈点研究院",
-        "source_name": "迈点研究院"
+        "id": "hotelitem_ac4d594208da",
+        "title": "国务院办公厅转发文化和旅游部等10部门《关...",
+        "url": "https://www.mct.gov.cn/whzx/whyw/202609/t20260918_967191.htm",
+        "source": "文化和旅游部",
+        "source_name": "文化和旅游部"
+      }
+    },
+    {
+      "story_id": "story_8dd9d6a00599",
+      "title": "文化和旅游部中秋、国庆假期出游提示",
+      "url": "https://www.mct.gov.cn/whzx/whyw/202609/t20260922_967218.htm",
+      "primary_url": "https://www.mct.gov.cn/whzx/whyw/202609/t20260922_967218.htm",
+      "source": "文化和旅游部",
+      "source_name": "文化和旅游部",
+      "sources": [
+        {
+          "id": "hotelitem_8dd9d6a00599",
+          "title": "文化和旅游部中秋、国庆假期出游提示",
+          "url": "https://www.mct.gov.cn/whzx/whyw/202609/t20260922_967218.htm",
+          "source": "文化和旅游部",
+          "source_name": "文化和旅游部",
+          "site_id": "mct",
+          "published_at": "2026-09-25T11:55:24.247913Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "文化和旅游部"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_8dd9d6a00599",
+          "title": "文化和旅游部中秋、国庆假期出游提示",
+          "url": "https://www.mct.gov.cn/whzx/whyw/202609/t20260922_967218.htm",
+          "source": "文化和旅游部",
+          "source_name": "文化和旅游部",
+          "site_id": "mct",
+          "published_at": "2026-09-25T11:55:24.247913Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.858,
+      "importance": 0.6,
+      "importance_score": 0.858,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-25T11:55:24.247913Z",
+      "latest_at": "2026-09-25T11:55:24.247913Z",
+      "primary_item": {
+        "id": "hotelitem_8dd9d6a00599",
+        "title": "文化和旅游部中秋、国庆假期出游提示",
+        "url": "https://www.mct.gov.cn/whzx/whyw/202609/t20260922_967218.htm",
+        "source": "文化和旅游部",
+        "source_name": "文化和旅游部"
+      }
+    },
+    {
+      "story_id": "story_c3e3aec156b1",
+      "title": "文化和旅游部印发《公共文化服务体系建设“...",
+      "url": "https://www.mct.gov.cn/whzx/whyw/202609/t20260920_967198.htm",
+      "primary_url": "https://www.mct.gov.cn/whzx/whyw/202609/t20260920_967198.htm",
+      "source": "文化和旅游部",
+      "source_name": "文化和旅游部",
+      "sources": [
+        {
+          "id": "hotelitem_c3e3aec156b1",
+          "title": "文化和旅游部印发《公共文化服务体系建设“...",
+          "url": "https://www.mct.gov.cn/whzx/whyw/202609/t20260920_967198.htm",
+          "source": "文化和旅游部",
+          "source_name": "文化和旅游部",
+          "site_id": "mct",
+          "published_at": "2026-09-25T11:55:24.247913Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "文化和旅游部"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_c3e3aec156b1",
+          "title": "文化和旅游部印发《公共文化服务体系建设“...",
+          "url": "https://www.mct.gov.cn/whzx/whyw/202609/t20260920_967198.htm",
+          "source": "文化和旅游部",
+          "source_name": "文化和旅游部",
+          "site_id": "mct",
+          "published_at": "2026-09-25T11:55:24.247913Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.858,
+      "importance": 0.6,
+      "importance_score": 0.858,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-25T11:55:24.247913Z",
+      "latest_at": "2026-09-25T11:55:24.247913Z",
+      "primary_item": {
+        "id": "hotelitem_c3e3aec156b1",
+        "title": "文化和旅游部印发《公共文化服务体系建设“...",
+        "url": "https://www.mct.gov.cn/whzx/whyw/202609/t20260920_967198.htm",
+        "source": "文化和旅游部",
+        "source_name": "文化和旅游部"
+      }
+    },
+    {
+      "story_id": "story_8f218475e743",
+      "title": "文化和旅游部发布2026年上半年国内居民出游数据情况",
+      "url": "https://www.ctaweb.org.cn/gongzuodongtai/10523.html",
+      "primary_url": "https://www.ctaweb.org.cn/gongzuodongtai/10523.html",
+      "source": "中国旅游研究院",
+      "source_name": "中国旅游研究院",
+      "sources": [
+        {
+          "id": "hotelitem_8f218475e743",
+          "title": "文化和旅游部发布2026年上半年国内居民出游数据情况",
+          "url": "https://www.ctaweb.org.cn/gongzuodongtai/10523.html",
+          "source": "中国旅游研究院",
+          "source_name": "中国旅游研究院",
+          "site_id": "cta",
+          "published_at": "2026-09-25T11:55:24.247913Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "中国旅游研究院"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_8f218475e743",
+          "title": "文化和旅游部发布2026年上半年国内居民出游数据情况",
+          "url": "https://www.ctaweb.org.cn/gongzuodongtai/10523.html",
+          "source": "中国旅游研究院",
+          "source_name": "中国旅游研究院",
+          "site_id": "cta",
+          "published_at": "2026-09-25T11:55:24.247913Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.858,
+      "importance": 0.6,
+      "importance_score": 0.858,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-25T11:55:24.247913Z",
+      "latest_at": "2026-09-25T11:55:24.247913Z",
+      "primary_item": {
+        "id": "hotelitem_8f218475e743",
+        "title": "文化和旅游部发布2026年上半年国内居民出游数据情况",
+        "url": "https://www.ctaweb.org.cn/gongzuodongtai/10523.html",
+        "source": "中国旅游研究院",
+        "source_name": "中国旅游研究院"
+      }
+    },
+    {
+      "story_id": "story_42fdac876397",
+      "title": "文化和旅游部发布《文化产业发展“十五五”...",
+      "url": "https://www.mct.gov.cn/whzx/whyw/202609/t20260918_967186.htm",
+      "primary_url": "https://www.mct.gov.cn/whzx/whyw/202609/t20260918_967186.htm",
+      "source": "文化和旅游部",
+      "source_name": "文化和旅游部",
+      "sources": [
+        {
+          "id": "hotelitem_42fdac876397",
+          "title": "文化和旅游部发布《文化产业发展“十五五”...",
+          "url": "https://www.mct.gov.cn/whzx/whyw/202609/t20260918_967186.htm",
+          "source": "文化和旅游部",
+          "source_name": "文化和旅游部",
+          "site_id": "mct",
+          "published_at": "2026-09-25T11:55:24.247913Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "文化和旅游部"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_42fdac876397",
+          "title": "文化和旅游部发布《文化产业发展“十五五”...",
+          "url": "https://www.mct.gov.cn/whzx/whyw/202609/t20260918_967186.htm",
+          "source": "文化和旅游部",
+          "source_name": "文化和旅游部",
+          "site_id": "mct",
+          "published_at": "2026-09-25T11:55:24.247913Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.858,
+      "importance": 0.6,
+      "importance_score": 0.858,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-25T11:55:24.247913Z",
+      "latest_at": "2026-09-25T11:55:24.247913Z",
+      "primary_item": {
+        "id": "hotelitem_42fdac876397",
+        "title": "文化和旅游部发布《文化产业发展“十五五”...",
+        "url": "https://www.mct.gov.cn/whzx/whyw/202609/t20260918_967186.htm",
+        "source": "文化和旅游部",
+        "source_name": "文化和旅游部"
       }
     },
     {
@@ -1020,14 +1374,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8581,
-      "importance": 0.5928,
-      "importance_score": 0.8581,
+      "score": 0.8568,
+      "importance": 0.5915,
+      "importance_score": 0.8568,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.964,
+        "recency": 0.9577,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1042,360 +1396,6 @@
         "url": "https://www.hoteldive.com/news/chicago-union-hotel-workers-authorize-strike/831133/",
         "source": "Hotel Dive",
         "source_name": "Hotel Dive"
-      }
-    },
-    {
-      "story_id": "story_e4ce0593c384",
-      "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
-      "url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
-      "primary_url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
-      "source": "中国旅游研究院",
-      "source_name": "中国旅游研究院",
-      "sources": [
-        {
-          "id": "hotelitem_e4ce0593c384",
-          "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
-          "url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
-          "source": "中国旅游研究院",
-          "source_name": "中国旅游研究院",
-          "site_id": "cta",
-          "published_at": "2026-09-25T05:02:03.043791Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "中国旅游研究院"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_e4ce0593c384",
-          "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
-          "url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
-          "source": "中国旅游研究院",
-          "source_name": "中国旅游研究院",
-          "site_id": "cta",
-          "published_at": "2026-09-25T05:02:03.043791Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.858,
-      "importance": 0.6,
-      "importance_score": 0.858,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-25T05:02:03.043791Z",
-      "latest_at": "2026-09-25T05:02:03.043791Z",
-      "primary_item": {
-        "id": "hotelitem_e4ce0593c384",
-        "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
-        "url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
-        "source": "中国旅游研究院",
-        "source_name": "中国旅游研究院"
-      }
-    },
-    {
-      "story_id": "story_ac4d594208da",
-      "title": "国务院办公厅转发文化和旅游部等10部门《关...",
-      "url": "https://www.mct.gov.cn/whzx/whyw/202609/t20260918_967191.htm",
-      "primary_url": "https://www.mct.gov.cn/whzx/whyw/202609/t20260918_967191.htm",
-      "source": "文化和旅游部",
-      "source_name": "文化和旅游部",
-      "sources": [
-        {
-          "id": "hotelitem_ac4d594208da",
-          "title": "国务院办公厅转发文化和旅游部等10部门《关...",
-          "url": "https://www.mct.gov.cn/whzx/whyw/202609/t20260918_967191.htm",
-          "source": "文化和旅游部",
-          "source_name": "文化和旅游部",
-          "site_id": "mct",
-          "published_at": "2026-09-25T05:02:03.043791Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "文化和旅游部"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_ac4d594208da",
-          "title": "国务院办公厅转发文化和旅游部等10部门《关...",
-          "url": "https://www.mct.gov.cn/whzx/whyw/202609/t20260918_967191.htm",
-          "source": "文化和旅游部",
-          "source_name": "文化和旅游部",
-          "site_id": "mct",
-          "published_at": "2026-09-25T05:02:03.043791Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.858,
-      "importance": 0.6,
-      "importance_score": 0.858,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-25T05:02:03.043791Z",
-      "latest_at": "2026-09-25T05:02:03.043791Z",
-      "primary_item": {
-        "id": "hotelitem_ac4d594208da",
-        "title": "国务院办公厅转发文化和旅游部等10部门《关...",
-        "url": "https://www.mct.gov.cn/whzx/whyw/202609/t20260918_967191.htm",
-        "source": "文化和旅游部",
-        "source_name": "文化和旅游部"
-      }
-    },
-    {
-      "story_id": "story_8dd9d6a00599",
-      "title": "文化和旅游部中秋、国庆假期出游提示",
-      "url": "https://www.mct.gov.cn/whzx/whyw/202609/t20260922_967218.htm",
-      "primary_url": "https://www.mct.gov.cn/whzx/whyw/202609/t20260922_967218.htm",
-      "source": "文化和旅游部",
-      "source_name": "文化和旅游部",
-      "sources": [
-        {
-          "id": "hotelitem_8dd9d6a00599",
-          "title": "文化和旅游部中秋、国庆假期出游提示",
-          "url": "https://www.mct.gov.cn/whzx/whyw/202609/t20260922_967218.htm",
-          "source": "文化和旅游部",
-          "source_name": "文化和旅游部",
-          "site_id": "mct",
-          "published_at": "2026-09-25T05:02:03.043791Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "文化和旅游部"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_8dd9d6a00599",
-          "title": "文化和旅游部中秋、国庆假期出游提示",
-          "url": "https://www.mct.gov.cn/whzx/whyw/202609/t20260922_967218.htm",
-          "source": "文化和旅游部",
-          "source_name": "文化和旅游部",
-          "site_id": "mct",
-          "published_at": "2026-09-25T05:02:03.043791Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.858,
-      "importance": 0.6,
-      "importance_score": 0.858,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-25T05:02:03.043791Z",
-      "latest_at": "2026-09-25T05:02:03.043791Z",
-      "primary_item": {
-        "id": "hotelitem_8dd9d6a00599",
-        "title": "文化和旅游部中秋、国庆假期出游提示",
-        "url": "https://www.mct.gov.cn/whzx/whyw/202609/t20260922_967218.htm",
-        "source": "文化和旅游部",
-        "source_name": "文化和旅游部"
-      }
-    },
-    {
-      "story_id": "story_c3e3aec156b1",
-      "title": "文化和旅游部印发《公共文化服务体系建设“...",
-      "url": "https://www.mct.gov.cn/whzx/whyw/202609/t20260920_967198.htm",
-      "primary_url": "https://www.mct.gov.cn/whzx/whyw/202609/t20260920_967198.htm",
-      "source": "文化和旅游部",
-      "source_name": "文化和旅游部",
-      "sources": [
-        {
-          "id": "hotelitem_c3e3aec156b1",
-          "title": "文化和旅游部印发《公共文化服务体系建设“...",
-          "url": "https://www.mct.gov.cn/whzx/whyw/202609/t20260920_967198.htm",
-          "source": "文化和旅游部",
-          "source_name": "文化和旅游部",
-          "site_id": "mct",
-          "published_at": "2026-09-25T05:02:03.043791Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "文化和旅游部"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_c3e3aec156b1",
-          "title": "文化和旅游部印发《公共文化服务体系建设“...",
-          "url": "https://www.mct.gov.cn/whzx/whyw/202609/t20260920_967198.htm",
-          "source": "文化和旅游部",
-          "source_name": "文化和旅游部",
-          "site_id": "mct",
-          "published_at": "2026-09-25T05:02:03.043791Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.858,
-      "importance": 0.6,
-      "importance_score": 0.858,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-25T05:02:03.043791Z",
-      "latest_at": "2026-09-25T05:02:03.043791Z",
-      "primary_item": {
-        "id": "hotelitem_c3e3aec156b1",
-        "title": "文化和旅游部印发《公共文化服务体系建设“...",
-        "url": "https://www.mct.gov.cn/whzx/whyw/202609/t20260920_967198.htm",
-        "source": "文化和旅游部",
-        "source_name": "文化和旅游部"
-      }
-    },
-    {
-      "story_id": "story_8f218475e743",
-      "title": "文化和旅游部发布2026年上半年国内居民出游数据情况",
-      "url": "https://www.ctaweb.org.cn/gongzuodongtai/10523.html",
-      "primary_url": "https://www.ctaweb.org.cn/gongzuodongtai/10523.html",
-      "source": "中国旅游研究院",
-      "source_name": "中国旅游研究院",
-      "sources": [
-        {
-          "id": "hotelitem_8f218475e743",
-          "title": "文化和旅游部发布2026年上半年国内居民出游数据情况",
-          "url": "https://www.ctaweb.org.cn/gongzuodongtai/10523.html",
-          "source": "中国旅游研究院",
-          "source_name": "中国旅游研究院",
-          "site_id": "cta",
-          "published_at": "2026-09-25T05:02:03.043791Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "中国旅游研究院"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_8f218475e743",
-          "title": "文化和旅游部发布2026年上半年国内居民出游数据情况",
-          "url": "https://www.ctaweb.org.cn/gongzuodongtai/10523.html",
-          "source": "中国旅游研究院",
-          "source_name": "中国旅游研究院",
-          "site_id": "cta",
-          "published_at": "2026-09-25T05:02:03.043791Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.858,
-      "importance": 0.6,
-      "importance_score": 0.858,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-25T05:02:03.043791Z",
-      "latest_at": "2026-09-25T05:02:03.043791Z",
-      "primary_item": {
-        "id": "hotelitem_8f218475e743",
-        "title": "文化和旅游部发布2026年上半年国内居民出游数据情况",
-        "url": "https://www.ctaweb.org.cn/gongzuodongtai/10523.html",
-        "source": "中国旅游研究院",
-        "source_name": "中国旅游研究院"
-      }
-    },
-    {
-      "story_id": "story_42fdac876397",
-      "title": "文化和旅游部发布《文化产业发展“十五五”...",
-      "url": "https://www.mct.gov.cn/whzx/whyw/202609/t20260918_967186.htm",
-      "primary_url": "https://www.mct.gov.cn/whzx/whyw/202609/t20260918_967186.htm",
-      "source": "文化和旅游部",
-      "source_name": "文化和旅游部",
-      "sources": [
-        {
-          "id": "hotelitem_42fdac876397",
-          "title": "文化和旅游部发布《文化产业发展“十五五”...",
-          "url": "https://www.mct.gov.cn/whzx/whyw/202609/t20260918_967186.htm",
-          "source": "文化和旅游部",
-          "source_name": "文化和旅游部",
-          "site_id": "mct",
-          "published_at": "2026-09-25T05:02:03.043791Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "文化和旅游部"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_42fdac876397",
-          "title": "文化和旅游部发布《文化产业发展“十五五”...",
-          "url": "https://www.mct.gov.cn/whzx/whyw/202609/t20260918_967186.htm",
-          "source": "文化和旅游部",
-          "source_name": "文化和旅游部",
-          "site_id": "mct",
-          "published_at": "2026-09-25T05:02:03.043791Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.858,
-      "importance": 0.6,
-      "importance_score": 0.858,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-25T05:02:03.043791Z",
-      "latest_at": "2026-09-25T05:02:03.043791Z",
-      "primary_item": {
-        "id": "hotelitem_42fdac876397",
-        "title": "文化和旅游部发布《文化产业发展“十五五”...",
-        "url": "https://www.mct.gov.cn/whzx/whyw/202609/t20260918_967186.htm",
-        "source": "文化和旅游部",
-        "source_name": "文化和旅游部"
       }
     },
     {
@@ -1433,14 +1433,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8537,
-      "importance": 0.5883,
-      "importance_score": 0.8537,
+      "score": 0.8525,
+      "importance": 0.587,
+      "importance_score": 0.8525,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9415,
+        "recency": 0.9351,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1492,14 +1492,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8493,
-      "importance": 0.5838,
-      "importance_score": 0.8493,
+      "score": 0.8481,
+      "importance": 0.5825,
+      "importance_score": 0.8481,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9188,
+        "recency": 0.9124,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1551,14 +1551,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8493,
-      "importance": 0.5838,
-      "importance_score": 0.8493,
+      "score": 0.8481,
+      "importance": 0.5825,
+      "importance_score": 0.8481,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9188,
+        "recency": 0.9124,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1610,14 +1610,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8422,
-      "importance": 0.5919,
-      "importance_score": 0.8422,
+      "score": 0.8409,
+      "importance": 0.5906,
+      "importance_score": 0.8409,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9593,
+        "recency": 0.953,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1669,14 +1669,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8392,
-      "importance": 0.5888,
-      "importance_score": 0.8392,
+      "score": 0.838,
+      "importance": 0.5876,
+      "importance_score": 0.838,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9442,
+        "recency": 0.9378,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1728,14 +1728,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.838,
-      "importance": 0.5876,
-      "importance_score": 0.838,
+      "score": 0.8368,
+      "importance": 0.5863,
+      "importance_score": 0.8368,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9379,
+        "recency": 0.9315,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1753,62 +1753,62 @@
       }
     },
     {
-      "story_id": "story_7149ff6c31ba",
-      "title": "The PIG returns to Tunbridge Wells with latest acquisition",
-      "url": "https://boutiquehotelnews.com/news/finance-and-investment/the-pig-tunbridge-wells/?utm_source=rss&utm_medium=rss&utm_campaign=the-pig-tunbridge-wells",
-      "primary_url": "https://boutiquehotelnews.com/news/finance-and-investment/the-pig-tunbridge-wells/?utm_source=rss&utm_medium=rss&utm_campaign=the-pig-tunbridge-wells",
-      "source": "Boutique Hotel News",
-      "source_name": "Boutique Hotel News",
+      "story_id": "story_bd60c5854082",
+      "title": "IHG accelerates Malaysia expansion with debut of Garner Hotels and Franchise Model",
+      "url": "https://insights.ehotelier.com/properties/2026/09/25/ihg-accelerates-malaysia-expansion-with-debut-of-garner-hotels-and-franchise-model/?utm_source=rss&utm_medium=rss&utm_campaign=ihg-accelerates-malaysia-expansion-with-debut-of-garner-hotels-and-franchise-model",
+      "primary_url": "https://insights.ehotelier.com/properties/2026/09/25/ihg-accelerates-malaysia-expansion-with-debut-of-garner-hotels-and-franchise-model/?utm_source=rss&utm_medium=rss&utm_campaign=ihg-accelerates-malaysia-expansion-with-debut-of-garner-hotels-and-franchise-model",
+      "source": "eHotelier",
+      "source_name": "eHotelier",
       "sources": [
         {
-          "id": "hotelitem_7149ff6c31ba",
-          "title": "The PIG returns to Tunbridge Wells with latest acquisition",
-          "url": "https://boutiquehotelnews.com/news/finance-and-investment/the-pig-tunbridge-wells/?utm_source=rss&utm_medium=rss&utm_campaign=the-pig-tunbridge-wells",
-          "source": "Boutique Hotel News",
-          "source_name": "Boutique Hotel News",
-          "site_id": "boutiquehotel",
-          "published_at": "2026-09-18T10:31:24Z"
+          "id": "hotelitem_bd60c5854082",
+          "title": "IHG accelerates Malaysia expansion with debut of Garner Hotels and Franchise Model",
+          "url": "https://insights.ehotelier.com/properties/2026/09/25/ihg-accelerates-malaysia-expansion-with-debut-of-garner-hotels-and-franchise-model/?utm_source=rss&utm_medium=rss&utm_campaign=ihg-accelerates-malaysia-expansion-with-debut-of-garner-hotels-and-franchise-model",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-09-25T01:30:45Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Boutique Hotel News"
+        "eHotelier"
       ],
       "items": [
         {
-          "id": "hotelitem_7149ff6c31ba",
-          "title": "The PIG returns to Tunbridge Wells with latest acquisition",
-          "url": "https://boutiquehotelnews.com/news/finance-and-investment/the-pig-tunbridge-wells/?utm_source=rss&utm_medium=rss&utm_campaign=the-pig-tunbridge-wells",
-          "source": "Boutique Hotel News",
-          "source_name": "Boutique Hotel News",
-          "site_id": "boutiquehotel",
-          "published_at": "2026-09-18T10:31:24Z"
+          "id": "hotelitem_bd60c5854082",
+          "title": "IHG accelerates Malaysia expansion with debut of Garner Hotels and Franchise Model",
+          "url": "https://insights.ehotelier.com/properties/2026/09/25/ihg-accelerates-malaysia-expansion-with-debut-of-garner-hotels-and-franchise-model/?utm_source=rss&utm_medium=rss&utm_campaign=ihg-accelerates-malaysia-expansion-with-debut-of-garner-hotels-and-franchise-model",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-09-25T01:30:45Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.821,
-      "importance": 0.5699,
-      "importance_score": 0.821,
+      "score": 0.8181,
+      "importance": 0.5981,
+      "importance_score": 0.8181,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8495,
+        "recency": 0.9904,
         "story_heat": 0.0
       },
       "category": "watch",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-18T10:31:24Z",
-      "latest_at": "2026-09-18T10:31:24Z",
+      "earliest_at": "2026-09-25T01:30:45Z",
+      "latest_at": "2026-09-25T01:30:45Z",
       "primary_item": {
-        "id": "hotelitem_7149ff6c31ba",
-        "title": "The PIG returns to Tunbridge Wells with latest acquisition",
-        "url": "https://boutiquehotelnews.com/news/finance-and-investment/the-pig-tunbridge-wells/?utm_source=rss&utm_medium=rss&utm_campaign=the-pig-tunbridge-wells",
-        "source": "Boutique Hotel News",
-        "source_name": "Boutique Hotel News"
+        "id": "hotelitem_bd60c5854082",
+        "title": "IHG accelerates Malaysia expansion with debut of Garner Hotels and Franchise Model",
+        "url": "https://insights.ehotelier.com/properties/2026/09/25/ihg-accelerates-malaysia-expansion-with-debut-of-garner-hotels-and-franchise-model/?utm_source=rss&utm_medium=rss&utm_campaign=ihg-accelerates-malaysia-expansion-with-debut-of-garner-hotels-and-franchise-model",
+        "source": "eHotelier",
+        "source_name": "eHotelier"
       }
     }
   ]
