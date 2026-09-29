@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T09:54:24.095975Z",
+  "generated_at": "2026-09-29T18:07:13.221852Z",
   "window_hours": 1080,
   "total_items": 30,
   "items": [
@@ -38,14 +38,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9536,
-      "importance": 0.5985,
-      "importance_score": 0.9536,
+      "score": 0.9521,
+      "importance": 0.597,
+      "importance_score": 0.9521,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9926,
+        "recency": 0.985,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -97,14 +97,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9535,
-      "importance": 0.5985,
-      "importance_score": 0.9535,
+      "score": 0.952,
+      "importance": 0.5969,
+      "importance_score": 0.952,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9923,
+        "recency": 0.9847,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -156,14 +156,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9492,
-      "importance": 0.594,
-      "importance_score": 0.9492,
+      "score": 0.9477,
+      "importance": 0.5924,
+      "importance_score": 0.9477,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9698,
+        "recency": 0.9622,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -178,6 +178,124 @@
         "url": "https://insights.ehotelier.com/suppliers/2026/09/28/cloudbeds-and-klook-expand-distribution-opportunities-for-hotels-across-asia-pacific/?utm_source=rss&utm_medium=rss&utm_campaign=cloudbeds-and-klook-expand-distribution-opportunities-for-hotels-across-asia-pacific",
         "source": "eHotelier",
         "source_name": "eHotelier"
+      }
+    },
+    {
+      "story_id": "story_3d8e514f90c0",
+      "title": "IHG expands Vignette Collection in Spain with Madrid signing",
+      "url": "https://boutiquehotelnews.com/news/hotel/vignette-collection-madrid/?utm_source=rss&utm_medium=rss&utm_campaign=vignette-collection-madrid",
+      "primary_url": "https://boutiquehotelnews.com/news/hotel/vignette-collection-madrid/?utm_source=rss&utm_medium=rss&utm_campaign=vignette-collection-madrid",
+      "source": "Boutique Hotel News",
+      "source_name": "Boutique Hotel News",
+      "sources": [
+        {
+          "id": "hotelitem_3d8e514f90c0",
+          "title": "IHG expands Vignette Collection in Spain with Madrid signing",
+          "url": "https://boutiquehotelnews.com/news/hotel/vignette-collection-madrid/?utm_source=rss&utm_medium=rss&utm_campaign=vignette-collection-madrid",
+          "source": "Boutique Hotel News",
+          "source_name": "Boutique Hotel News",
+          "site_id": "boutiquehotel",
+          "published_at": "2026-09-29T16:41:20Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Boutique Hotel News"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_3d8e514f90c0",
+          "title": "IHG expands Vignette Collection in Spain with Madrid signing",
+          "url": "https://boutiquehotelnews.com/news/hotel/vignette-collection-madrid/?utm_source=rss&utm_medium=rss&utm_campaign=vignette-collection-madrid",
+          "source": "Boutique Hotel News",
+          "source_name": "Boutique Hotel News",
+          "site_id": "boutiquehotel",
+          "published_at": "2026-09-29T16:41:20Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.9397,
+      "importance": 0.5997,
+      "importance_score": 0.9397,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9987,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-29T16:41:20Z",
+      "latest_at": "2026-09-29T16:41:20Z",
+      "primary_item": {
+        "id": "hotelitem_3d8e514f90c0",
+        "title": "IHG expands Vignette Collection in Spain with Madrid signing",
+        "url": "https://boutiquehotelnews.com/news/hotel/vignette-collection-madrid/?utm_source=rss&utm_medium=rss&utm_campaign=vignette-collection-madrid",
+        "source": "Boutique Hotel News",
+        "source_name": "Boutique Hotel News"
+      }
+    },
+    {
+      "story_id": "story_30db7aa9cef6",
+      "title": "KAYAK co-founders launch AI assistant Lola for travel experiences",
+      "url": "https://boutiquehotelnews.com/news/technology/ai-assistant-lola/?utm_source=rss&utm_medium=rss&utm_campaign=ai-assistant-lola",
+      "primary_url": "https://boutiquehotelnews.com/news/technology/ai-assistant-lola/?utm_source=rss&utm_medium=rss&utm_campaign=ai-assistant-lola",
+      "source": "Boutique Hotel News",
+      "source_name": "Boutique Hotel News",
+      "sources": [
+        {
+          "id": "hotelitem_30db7aa9cef6",
+          "title": "KAYAK co-founders launch AI assistant Lola for travel experiences",
+          "url": "https://boutiquehotelnews.com/news/technology/ai-assistant-lola/?utm_source=rss&utm_medium=rss&utm_campaign=ai-assistant-lola",
+          "source": "Boutique Hotel News",
+          "source_name": "Boutique Hotel News",
+          "site_id": "boutiquehotel",
+          "published_at": "2026-09-29T13:01:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Boutique Hotel News"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_30db7aa9cef6",
+          "title": "KAYAK co-founders launch AI assistant Lola for travel experiences",
+          "url": "https://boutiquehotelnews.com/news/technology/ai-assistant-lola/?utm_source=rss&utm_medium=rss&utm_campaign=ai-assistant-lola",
+          "source": "Boutique Hotel News",
+          "source_name": "Boutique Hotel News",
+          "site_id": "boutiquehotel",
+          "published_at": "2026-09-29T13:01:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.9391,
+      "importance": 0.5991,
+      "importance_score": 0.9391,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9953,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-29T13:01:00Z",
+      "latest_at": "2026-09-29T13:01:00Z",
+      "primary_item": {
+        "id": "hotelitem_30db7aa9cef6",
+        "title": "KAYAK co-founders launch AI assistant Lola for travel experiences",
+        "url": "https://boutiquehotelnews.com/news/technology/ai-assistant-lola/?utm_source=rss&utm_medium=rss&utm_campaign=ai-assistant-lola",
+        "source": "Boutique Hotel News",
+        "source_name": "Boutique Hotel News"
       }
     },
     {
@@ -215,14 +333,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9348,
-      "importance": 0.5791,
-      "importance_score": 0.9348,
+      "score": 0.9333,
+      "importance": 0.5775,
+      "importance_score": 0.9333,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8953,
+        "recency": 0.8877,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -274,14 +392,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9308,
-      "importance": 0.575,
-      "importance_score": 0.9308,
+      "score": 0.9294,
+      "importance": 0.5734,
+      "importance_score": 0.9294,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8748,
+        "recency": 0.8672,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -294,65 +412,6 @@
         "id": "hotelitem_fb3706dbeb08",
         "title": "Accor rolls out AI tool to assist guests across full travel journey",
         "url": "https://www.hoteldive.com/news/accor-launches-ai-travel-concierge/831179/",
-        "source": "Hotel Dive",
-        "source_name": "Hotel Dive"
-      }
-    },
-    {
-      "story_id": "story_058060b72e47",
-      "title": "Hilton debuts sustainability-focused Home2 Suites prototype",
-      "url": "https://www.hoteldive.com/news/hilton-debuts-sustainability-focused-home2-suites-prototype/831074/",
-      "primary_url": "https://www.hoteldive.com/news/hilton-debuts-sustainability-focused-home2-suites-prototype/831074/",
-      "source": "Hotel Dive",
-      "source_name": "Hotel Dive",
-      "sources": [
-        {
-          "id": "hotelitem_058060b72e47",
-          "title": "Hilton debuts sustainability-focused Home2 Suites prototype",
-          "url": "https://www.hoteldive.com/news/hilton-debuts-sustainability-focused-home2-suites-prototype/831074/",
-          "source": "Hotel Dive",
-          "source_name": "Hotel Dive",
-          "site_id": "hoteldive",
-          "published_at": "2026-09-23T13:18:34Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hotel Dive"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_058060b72e47",
-          "title": "Hilton debuts sustainability-focused Home2 Suites prototype",
-          "url": "https://www.hoteldive.com/news/hilton-debuts-sustainability-focused-home2-suites-prototype/831074/",
-          "source": "Hotel Dive",
-          "source_name": "Hotel Dive",
-          "site_id": "hoteldive",
-          "published_at": "2026-09-23T13:18:34Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.9299,
-      "importance": 0.574,
-      "importance_score": 0.9299,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.8698,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-23T13:18:34Z",
-      "latest_at": "2026-09-23T13:18:34Z",
-      "primary_item": {
-        "id": "hotelitem_058060b72e47",
-        "title": "Hilton debuts sustainability-focused Home2 Suites prototype",
-        "url": "https://www.hoteldive.com/news/hilton-debuts-sustainability-focused-home2-suites-prototype/831074/",
         "source": "Hotel Dive",
         "source_name": "Hotel Dive"
       }
@@ -392,14 +451,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9249,
-      "importance": 0.5947,
-      "importance_score": 0.9249,
+      "score": 0.9234,
+      "importance": 0.5932,
+      "importance_score": 0.9234,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9735,
+        "recency": 0.9659,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -417,65 +476,6 @@
       }
     },
     {
-      "story_id": "story_4c52a46d7c11",
-      "title": "The revenue-profit gap: what boutique hotels should budget for in 2027",
-      "url": "https://boutiquehotelnews.com/features/boutique-hotels-budget/?utm_source=rss&utm_medium=rss&utm_campaign=boutique-hotels-budget",
-      "primary_url": "https://boutiquehotelnews.com/features/boutique-hotels-budget/?utm_source=rss&utm_medium=rss&utm_campaign=boutique-hotels-budget",
-      "source": "Boutique Hotel News",
-      "source_name": "Boutique Hotel News",
-      "sources": [
-        {
-          "id": "hotelitem_4c52a46d7c11",
-          "title": "The revenue-profit gap: what boutique hotels should budget for in 2027",
-          "url": "https://boutiquehotelnews.com/features/boutique-hotels-budget/?utm_source=rss&utm_medium=rss&utm_campaign=boutique-hotels-budget",
-          "source": "Boutique Hotel News",
-          "source_name": "Boutique Hotel News",
-          "site_id": "boutiquehotel",
-          "published_at": "2026-09-22T10:43:27Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Boutique Hotel News"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_4c52a46d7c11",
-          "title": "The revenue-profit gap: what boutique hotels should budget for in 2027",
-          "url": "https://boutiquehotelnews.com/features/boutique-hotels-budget/?utm_source=rss&utm_medium=rss&utm_campaign=boutique-hotels-budget",
-          "source": "Boutique Hotel News",
-          "source_name": "Boutique Hotel News",
-          "site_id": "boutiquehotel",
-          "published_at": "2026-09-22T10:43:27Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.9101,
-      "importance": 0.569,
-      "importance_score": 0.9101,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.8452,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-22T10:43:27Z",
-      "latest_at": "2026-09-22T10:43:27Z",
-      "primary_item": {
-        "id": "hotelitem_4c52a46d7c11",
-        "title": "The revenue-profit gap: what boutique hotels should budget for in 2027",
-        "url": "https://boutiquehotelnews.com/features/boutique-hotels-budget/?utm_source=rss&utm_medium=rss&utm_campaign=boutique-hotels-budget",
-        "source": "Boutique Hotel News",
-        "source_name": "Boutique Hotel News"
-      }
-    },
-    {
       "story_id": "story_06f191e24d38",
       "title": "文旅惠报|复星国际申请分拆Club Med在港上市；南京商旅上半年营收3.66亿元",
       "url": "https://www.tripvivid.com/47868.html",
@@ -490,7 +490,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-09-29T09:54:24.095975Z"
+          "published_at": "2026-09-29T18:07:13.221852Z"
         }
       ],
       "source_count": 1,
@@ -505,7 +505,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-09-29T09:54:24.095975Z"
+          "published_at": "2026-09-29T18:07:13.221852Z"
         }
       ],
       "item_count": 1,
@@ -524,73 +524,14 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-29T09:54:24.095975Z",
-      "latest_at": "2026-09-29T09:54:24.095975Z",
+      "earliest_at": "2026-09-29T18:07:13.221852Z",
+      "latest_at": "2026-09-29T18:07:13.221852Z",
       "primary_item": {
         "id": "hotelitem_06f191e24d38",
         "title": "文旅惠报|复星国际申请分拆Club Med在港上市；南京商旅上半年营收3.66亿元",
         "url": "https://www.tripvivid.com/47868.html",
         "source": "执惠 TripVivid",
         "source_name": "执惠 TripVivid"
-      }
-    },
-    {
-      "story_id": "story_63f79ead5251",
-      "title": "Kim Tankersley appointed as General Manager at Westgate Smoky Mountain Resort & Water Park",
-      "url": "https://insights.ehotelier.com/people/2026/09/29/kim-tankersley-appointed-as-general-manager-at-westgate-smoky-mountain-resort-water-park/?utm_source=rss&utm_medium=rss&utm_campaign=kim-tankersley-appointed-as-general-manager-at-westgate-smoky-mountain-resort-water-park",
-      "primary_url": "https://insights.ehotelier.com/people/2026/09/29/kim-tankersley-appointed-as-general-manager-at-westgate-smoky-mountain-resort-water-park/?utm_source=rss&utm_medium=rss&utm_campaign=kim-tankersley-appointed-as-general-manager-at-westgate-smoky-mountain-resort-water-park",
-      "source": "eHotelier",
-      "source_name": "eHotelier",
-      "sources": [
-        {
-          "id": "hotelitem_63f79ead5251",
-          "title": "Kim Tankersley appointed as General Manager at Westgate Smoky Mountain Resort & Water Park",
-          "url": "https://insights.ehotelier.com/people/2026/09/29/kim-tankersley-appointed-as-general-manager-at-westgate-smoky-mountain-resort-water-park/?utm_source=rss&utm_medium=rss&utm_campaign=kim-tankersley-appointed-as-general-manager-at-westgate-smoky-mountain-resort-water-park",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-09-29T01:50:12Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "eHotelier"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_63f79ead5251",
-          "title": "Kim Tankersley appointed as General Manager at Westgate Smoky Mountain Resort & Water Park",
-          "url": "https://insights.ehotelier.com/people/2026/09/29/kim-tankersley-appointed-as-general-manager-at-westgate-smoky-mountain-resort-water-park/?utm_source=rss&utm_medium=rss&utm_campaign=kim-tankersley-appointed-as-general-manager-at-westgate-smoky-mountain-resort-water-park",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-09-29T01:50:12Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8636,
-      "importance": 0.5985,
-      "importance_score": 0.8636,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9925,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-29T01:50:12Z",
-      "latest_at": "2026-09-29T01:50:12Z",
-      "primary_item": {
-        "id": "hotelitem_63f79ead5251",
-        "title": "Kim Tankersley appointed as General Manager at Westgate Smoky Mountain Resort & Water Park",
-        "url": "https://insights.ehotelier.com/people/2026/09/29/kim-tankersley-appointed-as-general-manager-at-westgate-smoky-mountain-resort-water-park/?utm_source=rss&utm_medium=rss&utm_campaign=kim-tankersley-appointed-as-general-manager-at-westgate-smoky-mountain-resort-water-park",
-        "source": "eHotelier",
-        "source_name": "eHotelier"
       }
     },
     {
@@ -628,14 +569,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8636,
-      "importance": 0.5986,
-      "importance_score": 0.8636,
+      "score": 0.8622,
+      "importance": 0.597,
+      "importance_score": 0.8622,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9928,
+        "recency": 0.9852,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -687,14 +628,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8635,
-      "importance": 0.5985,
-      "importance_score": 0.8635,
+      "score": 0.8621,
+      "importance": 0.597,
+      "importance_score": 0.8621,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9924,
+        "recency": 0.9848,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -707,6 +648,65 @@
         "id": "hotelitem_49d06a49043c",
         "title": "Tanner Newton appointed as General Manager at Westgate Branson Lakes Resort",
         "url": "https://insights.ehotelier.com/people/2026/09/29/tanner-newton-appointed-as-general-manager-at-westgate-branson-lakes-resort/?utm_source=rss&utm_medium=rss&utm_campaign=tanner-newton-appointed-as-general-manager-at-westgate-branson-lakes-resort",
+        "source": "eHotelier",
+        "source_name": "eHotelier"
+      }
+    },
+    {
+      "story_id": "story_63f79ead5251",
+      "title": "Kim Tankersley appointed as General Manager at Westgate Smoky Mountain Resort & Water Park",
+      "url": "https://insights.ehotelier.com/people/2026/09/29/kim-tankersley-appointed-as-general-manager-at-westgate-smoky-mountain-resort-water-park/?utm_source=rss&utm_medium=rss&utm_campaign=kim-tankersley-appointed-as-general-manager-at-westgate-smoky-mountain-resort-water-park",
+      "primary_url": "https://insights.ehotelier.com/people/2026/09/29/kim-tankersley-appointed-as-general-manager-at-westgate-smoky-mountain-resort-water-park/?utm_source=rss&utm_medium=rss&utm_campaign=kim-tankersley-appointed-as-general-manager-at-westgate-smoky-mountain-resort-water-park",
+      "source": "eHotelier",
+      "source_name": "eHotelier",
+      "sources": [
+        {
+          "id": "hotelitem_63f79ead5251",
+          "title": "Kim Tankersley appointed as General Manager at Westgate Smoky Mountain Resort & Water Park",
+          "url": "https://insights.ehotelier.com/people/2026/09/29/kim-tankersley-appointed-as-general-manager-at-westgate-smoky-mountain-resort-water-park/?utm_source=rss&utm_medium=rss&utm_campaign=kim-tankersley-appointed-as-general-manager-at-westgate-smoky-mountain-resort-water-park",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-09-29T01:50:12Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "eHotelier"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_63f79ead5251",
+          "title": "Kim Tankersley appointed as General Manager at Westgate Smoky Mountain Resort & Water Park",
+          "url": "https://insights.ehotelier.com/people/2026/09/29/kim-tankersley-appointed-as-general-manager-at-westgate-smoky-mountain-resort-water-park/?utm_source=rss&utm_medium=rss&utm_campaign=kim-tankersley-appointed-as-general-manager-at-westgate-smoky-mountain-resort-water-park",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-09-29T01:50:12Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8621,
+      "importance": 0.597,
+      "importance_score": 0.8621,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9849,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-29T01:50:12Z",
+      "latest_at": "2026-09-29T01:50:12Z",
+      "primary_item": {
+        "id": "hotelitem_63f79ead5251",
+        "title": "Kim Tankersley appointed as General Manager at Westgate Smoky Mountain Resort & Water Park",
+        "url": "https://insights.ehotelier.com/people/2026/09/29/kim-tankersley-appointed-as-general-manager-at-westgate-smoky-mountain-resort-water-park/?utm_source=rss&utm_medium=rss&utm_campaign=kim-tankersley-appointed-as-general-manager-at-westgate-smoky-mountain-resort-water-park",
         "source": "eHotelier",
         "source_name": "eHotelier"
       }
@@ -726,7 +726,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-09-29T09:54:24.095975Z"
+          "published_at": "2026-09-29T18:07:13.221852Z"
         },
         {
           "id": "hotelitem_c7c15b7680c9",
@@ -735,7 +735,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-09-29T09:54:24.095975Z"
+          "published_at": "2026-09-29T18:07:13.221852Z"
         }
       ],
       "source_count": 2,
@@ -750,7 +750,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-09-29T09:54:24.095975Z"
+          "published_at": "2026-09-29T18:07:13.221852Z"
         },
         {
           "id": "hotelitem_c7c15b7680c9",
@@ -759,7 +759,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-09-29T09:54:24.095975Z"
+          "published_at": "2026-09-29T18:07:13.221852Z"
         }
       ],
       "item_count": 2,
@@ -779,8 +779,8 @@
         "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-29T09:54:24.095975Z",
-      "latest_at": "2026-09-29T09:54:24.095975Z",
+      "earliest_at": "2026-09-29T18:07:13.221852Z",
+      "latest_at": "2026-09-29T18:07:13.221852Z",
       "primary_item": {
         "id": "hotelitem_d4370964909c",
         "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
@@ -804,7 +804,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-09-29T09:54:24.095975Z"
+          "published_at": "2026-09-29T18:07:13.221852Z"
         },
         {
           "id": "hotelitem_1243e4eead68",
@@ -813,7 +813,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-09-29T09:54:24.095975Z"
+          "published_at": "2026-09-29T18:07:13.221852Z"
         }
       ],
       "source_count": 2,
@@ -828,7 +828,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-09-29T09:54:24.095975Z"
+          "published_at": "2026-09-29T18:07:13.221852Z"
         },
         {
           "id": "hotelitem_1243e4eead68",
@@ -837,7 +837,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-09-29T09:54:24.095975Z"
+          "published_at": "2026-09-29T18:07:13.221852Z"
         }
       ],
       "item_count": 2,
@@ -857,14 +857,73 @@
         "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-29T09:54:24.095975Z",
-      "latest_at": "2026-09-29T09:54:24.095975Z",
+      "earliest_at": "2026-09-29T18:07:13.221852Z",
+      "latest_at": "2026-09-29T18:07:13.221852Z",
       "primary_item": {
         "id": "hotelitem_b30c7ac8b6e5",
         "title": "指数发布 | 中国住宿业消费指数报告（2026年8月）发布 为贯彻落实提振消费相关政策，真实反映中国住宿餐饮业市场消费情况，以数据引导促消费政策精准发力，为行业发展提供参考建议，中国饭店协会每月公开发布“中国饭店业消费指数体系”，包含“中国住宿业消费指数（China Hotel Industry Consumption Index, HCI）”与“中国餐饮业消费指数（China Catering Industry Consumption Index, CCI）”，欢迎关注。\n本篇发布的是“中国住宿业消费指数”。",
         "url": "https://www.chinahotel.org.cn/articles/18010",
         "source": "中国饭店协会",
         "source_name": "中国饭店协会"
+      }
+    },
+    {
+      "story_id": "story_4e7d625a76a4",
+      "title": "8 hotel openings to watch for the rest of 2026",
+      "url": "https://www.hoteldive.com/news/hotel-openings-fall-2026/831460/",
+      "primary_url": "https://www.hoteldive.com/news/hotel-openings-fall-2026/831460/",
+      "source": "Hotel Dive",
+      "source_name": "Hotel Dive",
+      "sources": [
+        {
+          "id": "hotelitem_4e7d625a76a4",
+          "title": "8 hotel openings to watch for the rest of 2026",
+          "url": "https://www.hoteldive.com/news/hotel-openings-fall-2026/831460/",
+          "source": "Hotel Dive",
+          "source_name": "Hotel Dive",
+          "site_id": "hoteldive",
+          "published_at": "2026-09-28T13:24:36Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hotel Dive"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_4e7d625a76a4",
+          "title": "8 hotel openings to watch for the rest of 2026",
+          "url": "https://www.hoteldive.com/news/hotel-openings-fall-2026/831460/",
+          "source": "Hotel Dive",
+          "source_name": "Hotel Dive",
+          "site_id": "hoteldive",
+          "published_at": "2026-09-28T13:24:36Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8599,
+      "importance": 0.5947,
+      "importance_score": 0.8599,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9734,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-28T13:24:36Z",
+      "latest_at": "2026-09-28T13:24:36Z",
+      "primary_item": {
+        "id": "hotelitem_4e7d625a76a4",
+        "title": "8 hotel openings to watch for the rest of 2026",
+        "url": "https://www.hoteldive.com/news/hotel-openings-fall-2026/831460/",
+        "source": "Hotel Dive",
+        "source_name": "Hotel Dive"
       }
     },
     {
@@ -882,7 +941,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-09-29T09:54:24.095975Z"
+          "published_at": "2026-09-29T18:07:13.221852Z"
         }
       ],
       "source_count": 1,
@@ -897,7 +956,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-09-29T09:54:24.095975Z"
+          "published_at": "2026-09-29T18:07:13.221852Z"
         }
       ],
       "item_count": 1,
@@ -916,8 +975,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-29T09:54:24.095975Z",
-      "latest_at": "2026-09-29T09:54:24.095975Z",
+      "earliest_at": "2026-09-29T18:07:13.221852Z",
+      "latest_at": "2026-09-29T18:07:13.221852Z",
       "primary_item": {
         "id": "hotelitem_e4ce0593c384",
         "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
@@ -927,21 +986,21 @@
       }
     },
     {
-      "story_id": "story_ac4d594208da",
-      "title": "国务院办公厅转发文化和旅游部等10部门《关...",
-      "url": "https://www.mct.gov.cn/whzx/whyw/202609/t20260918_967191.htm",
-      "primary_url": "https://www.mct.gov.cn/whzx/whyw/202609/t20260918_967191.htm",
+      "story_id": "story_b0f4757ffc95",
+      "title": "文化和旅游部 中国气象局联合发布2026年国庆...",
+      "url": "https://www.mct.gov.cn/whzx/whyw/202609/t20260929_967286.htm",
+      "primary_url": "https://www.mct.gov.cn/whzx/whyw/202609/t20260929_967286.htm",
       "source": "文化和旅游部",
       "source_name": "文化和旅游部",
       "sources": [
         {
-          "id": "hotelitem_ac4d594208da",
-          "title": "国务院办公厅转发文化和旅游部等10部门《关...",
-          "url": "https://www.mct.gov.cn/whzx/whyw/202609/t20260918_967191.htm",
+          "id": "hotelitem_b0f4757ffc95",
+          "title": "文化和旅游部 中国气象局联合发布2026年国庆...",
+          "url": "https://www.mct.gov.cn/whzx/whyw/202609/t20260929_967286.htm",
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-09-29T09:54:24.095975Z"
+          "published_at": "2026-09-29T18:07:13.221852Z"
         }
       ],
       "source_count": 1,
@@ -950,13 +1009,13 @@
       ],
       "items": [
         {
-          "id": "hotelitem_ac4d594208da",
-          "title": "国务院办公厅转发文化和旅游部等10部门《关...",
-          "url": "https://www.mct.gov.cn/whzx/whyw/202609/t20260918_967191.htm",
+          "id": "hotelitem_b0f4757ffc95",
+          "title": "文化和旅游部 中国气象局联合发布2026年国庆...",
+          "url": "https://www.mct.gov.cn/whzx/whyw/202609/t20260929_967286.htm",
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-09-29T09:54:24.095975Z"
+          "published_at": "2026-09-29T18:07:13.221852Z"
         }
       ],
       "item_count": 1,
@@ -975,12 +1034,12 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-29T09:54:24.095975Z",
-      "latest_at": "2026-09-29T09:54:24.095975Z",
+      "earliest_at": "2026-09-29T18:07:13.221852Z",
+      "latest_at": "2026-09-29T18:07:13.221852Z",
       "primary_item": {
-        "id": "hotelitem_ac4d594208da",
-        "title": "国务院办公厅转发文化和旅游部等10部门《关...",
-        "url": "https://www.mct.gov.cn/whzx/whyw/202609/t20260918_967191.htm",
+        "id": "hotelitem_b0f4757ffc95",
+        "title": "文化和旅游部 中国气象局联合发布2026年国庆...",
+        "url": "https://www.mct.gov.cn/whzx/whyw/202609/t20260929_967286.htm",
         "source": "文化和旅游部",
         "source_name": "文化和旅游部"
       }
@@ -1000,7 +1059,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-09-29T09:54:24.095975Z"
+          "published_at": "2026-09-29T18:07:13.221852Z"
         }
       ],
       "source_count": 1,
@@ -1015,7 +1074,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-09-29T09:54:24.095975Z"
+          "published_at": "2026-09-29T18:07:13.221852Z"
         }
       ],
       "item_count": 1,
@@ -1034,8 +1093,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-29T09:54:24.095975Z",
-      "latest_at": "2026-09-29T09:54:24.095975Z",
+      "earliest_at": "2026-09-29T18:07:13.221852Z",
+      "latest_at": "2026-09-29T18:07:13.221852Z",
       "primary_item": {
         "id": "hotelitem_8dd9d6a00599",
         "title": "文化和旅游部中秋、国庆假期出游提示",
@@ -1059,7 +1118,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-09-29T09:54:24.095975Z"
+          "published_at": "2026-09-29T18:07:13.221852Z"
         }
       ],
       "source_count": 1,
@@ -1074,7 +1133,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-09-29T09:54:24.095975Z"
+          "published_at": "2026-09-29T18:07:13.221852Z"
         }
       ],
       "item_count": 1,
@@ -1093,8 +1152,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-29T09:54:24.095975Z",
-      "latest_at": "2026-09-29T09:54:24.095975Z",
+      "earliest_at": "2026-09-29T18:07:13.221852Z",
+      "latest_at": "2026-09-29T18:07:13.221852Z",
       "primary_item": {
         "id": "hotelitem_c3e3aec156b1",
         "title": "文化和旅游部印发《公共文化服务体系建设“...",
@@ -1118,7 +1177,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-09-29T09:54:24.095975Z"
+          "published_at": "2026-09-29T18:07:13.221852Z"
         }
       ],
       "source_count": 1,
@@ -1133,7 +1192,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-09-29T09:54:24.095975Z"
+          "published_at": "2026-09-29T18:07:13.221852Z"
         }
       ],
       "item_count": 1,
@@ -1152,8 +1211,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-29T09:54:24.095975Z",
-      "latest_at": "2026-09-29T09:54:24.095975Z",
+      "earliest_at": "2026-09-29T18:07:13.221852Z",
+      "latest_at": "2026-09-29T18:07:13.221852Z",
       "primary_item": {
         "id": "hotelitem_8f218475e743",
         "title": "文化和旅游部发布2026年上半年国内居民出游数据情况",
@@ -1177,7 +1236,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-09-29T09:54:24.095975Z"
+          "published_at": "2026-09-29T18:07:13.221852Z"
         }
       ],
       "source_count": 1,
@@ -1192,7 +1251,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-09-29T09:54:24.095975Z"
+          "published_at": "2026-09-29T18:07:13.221852Z"
         }
       ],
       "item_count": 1,
@@ -1211,14 +1270,73 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-29T09:54:24.095975Z",
-      "latest_at": "2026-09-29T09:54:24.095975Z",
+      "earliest_at": "2026-09-29T18:07:13.221852Z",
+      "latest_at": "2026-09-29T18:07:13.221852Z",
       "primary_item": {
         "id": "hotelitem_42fdac876397",
         "title": "文化和旅游部发布《文化产业发展“十五五”...",
         "url": "https://www.mct.gov.cn/whzx/whyw/202609/t20260918_967186.htm",
         "source": "文化和旅游部",
         "source_name": "文化和旅游部"
+      }
+    },
+    {
+      "story_id": "story_5c4f9fa45ef5",
+      "title": "Minor Hotels names Ercolano as GM of The WestDill Mayfair",
+      "url": "https://boutiquehotelnews.com/news/movers-and-shakers/ercolano-gm-westfill-mayfair/?utm_source=rss&utm_medium=rss&utm_campaign=ercolano-gm-westfill-mayfair",
+      "primary_url": "https://boutiquehotelnews.com/news/movers-and-shakers/ercolano-gm-westfill-mayfair/?utm_source=rss&utm_medium=rss&utm_campaign=ercolano-gm-westfill-mayfair",
+      "source": "Boutique Hotel News",
+      "source_name": "Boutique Hotel News",
+      "sources": [
+        {
+          "id": "hotelitem_5c4f9fa45ef5",
+          "title": "Minor Hotels names Ercolano as GM of The WestDill Mayfair",
+          "url": "https://boutiquehotelnews.com/news/movers-and-shakers/ercolano-gm-westfill-mayfair/?utm_source=rss&utm_medium=rss&utm_campaign=ercolano-gm-westfill-mayfair",
+          "source": "Boutique Hotel News",
+          "source_name": "Boutique Hotel News",
+          "site_id": "boutiquehotel",
+          "published_at": "2026-09-29T10:15:22Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Boutique Hotel News"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_5c4f9fa45ef5",
+          "title": "Minor Hotels names Ercolano as GM of The WestDill Mayfair",
+          "url": "https://boutiquehotelnews.com/news/movers-and-shakers/ercolano-gm-westfill-mayfair/?utm_source=rss&utm_medium=rss&utm_campaign=ercolano-gm-westfill-mayfair",
+          "source": "Boutique Hotel News",
+          "source_name": "Boutique Hotel News",
+          "site_id": "boutiquehotel",
+          "published_at": "2026-09-29T10:15:22Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8486,
+      "importance": 0.5985,
+      "importance_score": 0.8486,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9927,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-29T10:15:22Z",
+      "latest_at": "2026-09-29T10:15:22Z",
+      "primary_item": {
+        "id": "hotelitem_5c4f9fa45ef5",
+        "title": "Minor Hotels names Ercolano as GM of The WestDill Mayfair",
+        "url": "https://boutiquehotelnews.com/news/movers-and-shakers/ercolano-gm-westfill-mayfair/?utm_source=rss&utm_medium=rss&utm_campaign=ercolano-gm-westfill-mayfair",
+        "source": "Boutique Hotel News",
+        "source_name": "Boutique Hotel News"
       }
     },
     {
@@ -1256,14 +1374,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8446,
-      "importance": 0.5788,
-      "importance_score": 0.8446,
+      "score": 0.8431,
+      "importance": 0.5773,
+      "importance_score": 0.8431,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8942,
+        "recency": 0.8866,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1315,14 +1433,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8401,
-      "importance": 0.5741,
-      "importance_score": 0.8401,
+      "score": 0.8386,
+      "importance": 0.5726,
+      "importance_score": 0.8386,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8706,
+        "recency": 0.863,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1335,65 +1453,6 @@
         "id": "hotelitem_c3fc0569e07e",
         "title": "7,000 union hotel workers in Chicago authorize strike",
         "url": "https://www.hoteldive.com/news/chicago-union-hotel-workers-authorize-strike/831133/",
-        "source": "Hotel Dive",
-        "source_name": "Hotel Dive"
-      }
-    },
-    {
-      "story_id": "story_6d23e3023239",
-      "title": "Execs at new AI Hospitality Group give inside look at ‘first AI-native operating company’",
-      "url": "https://www.hoteldive.com/news/ai-hospitality-group-operating-company-launch/830995/",
-      "primary_url": "https://www.hoteldive.com/news/ai-hospitality-group-operating-company-launch/830995/",
-      "source": "Hotel Dive",
-      "source_name": "Hotel Dive",
-      "sources": [
-        {
-          "id": "hotelitem_6d23e3023239",
-          "title": "Execs at new AI Hospitality Group give inside look at ‘first AI-native operating company’",
-          "url": "https://www.hoteldive.com/news/ai-hospitality-group-operating-company-launch/830995/",
-          "source": "Hotel Dive",
-          "source_name": "Hotel Dive",
-          "site_id": "hoteldive",
-          "published_at": "2026-09-22T13:48:54Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hotel Dive"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_6d23e3023239",
-          "title": "Execs at new AI Hospitality Group give inside look at ‘first AI-native operating company’",
-          "url": "https://www.hoteldive.com/news/ai-hospitality-group-operating-company-launch/830995/",
-          "source": "Hotel Dive",
-          "source_name": "Hotel Dive",
-          "site_id": "hoteldive",
-          "published_at": "2026-09-22T13:48:54Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8357,
-      "importance": 0.5696,
-      "importance_score": 0.8357,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.8481,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-22T13:48:54Z",
-      "latest_at": "2026-09-22T13:48:54Z",
-      "primary_item": {
-        "id": "hotelitem_6d23e3023239",
-        "title": "Execs at new AI Hospitality Group give inside look at ‘first AI-native operating company’",
-        "url": "https://www.hoteldive.com/news/ai-hospitality-group-operating-company-launch/830995/",
         "source": "Hotel Dive",
         "source_name": "Hotel Dive"
       }
@@ -1433,14 +1492,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8241,
-      "importance": 0.5732,
-      "importance_score": 0.8241,
+      "score": 0.8227,
+      "importance": 0.5717,
+      "importance_score": 0.8227,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8659,
+        "recency": 0.8583,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1458,183 +1517,6 @@
       }
     },
     {
-      "story_id": "story_be809dbb6ac9",
-      "title": "Value-add and conversion strategies in UK hospitality",
-      "url": "https://boutiquehotelnews.com/features/value-add-conversion-hospitality/?utm_source=rss&utm_medium=rss&utm_campaign=value-add-conversion-hospitality",
-      "primary_url": "https://boutiquehotelnews.com/features/value-add-conversion-hospitality/?utm_source=rss&utm_medium=rss&utm_campaign=value-add-conversion-hospitality",
-      "source": "Boutique Hotel News",
-      "source_name": "Boutique Hotel News",
-      "sources": [
-        {
-          "id": "hotelitem_be809dbb6ac9",
-          "title": "Value-add and conversion strategies in UK hospitality",
-          "url": "https://boutiquehotelnews.com/features/value-add-conversion-hospitality/?utm_source=rss&utm_medium=rss&utm_campaign=value-add-conversion-hospitality",
-          "source": "Boutique Hotel News",
-          "source_name": "Boutique Hotel News",
-          "site_id": "boutiquehotel",
-          "published_at": "2026-09-22T16:46:36Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Boutique Hotel News"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_be809dbb6ac9",
-          "title": "Value-add and conversion strategies in UK hospitality",
-          "url": "https://boutiquehotelnews.com/features/value-add-conversion-hospitality/?utm_source=rss&utm_medium=rss&utm_campaign=value-add-conversion-hospitality",
-          "source": "Boutique Hotel News",
-          "source_name": "Boutique Hotel News",
-          "site_id": "boutiquehotel",
-          "published_at": "2026-09-22T16:46:36Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8212,
-      "importance": 0.5702,
-      "importance_score": 0.8212,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.8508,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-22T16:46:36Z",
-      "latest_at": "2026-09-22T16:46:36Z",
-      "primary_item": {
-        "id": "hotelitem_be809dbb6ac9",
-        "title": "Value-add and conversion strategies in UK hospitality",
-        "url": "https://boutiquehotelnews.com/features/value-add-conversion-hospitality/?utm_source=rss&utm_medium=rss&utm_campaign=value-add-conversion-hospitality",
-        "source": "Boutique Hotel News",
-        "source_name": "Boutique Hotel News"
-      }
-    },
-    {
-      "story_id": "story_c5afb5adf459",
-      "title": "Former Remington CEO launches AI Hospitality Group",
-      "url": "https://boutiquehotelnews.com/news/industry/ai-hospitality-group/?utm_source=rss&utm_medium=rss&utm_campaign=ai-hospitality-group",
-      "primary_url": "https://boutiquehotelnews.com/news/industry/ai-hospitality-group/?utm_source=rss&utm_medium=rss&utm_campaign=ai-hospitality-group",
-      "source": "Boutique Hotel News",
-      "source_name": "Boutique Hotel News",
-      "sources": [
-        {
-          "id": "hotelitem_c5afb5adf459",
-          "title": "Former Remington CEO launches AI Hospitality Group",
-          "url": "https://boutiquehotelnews.com/news/industry/ai-hospitality-group/?utm_source=rss&utm_medium=rss&utm_campaign=ai-hospitality-group",
-          "source": "Boutique Hotel News",
-          "source_name": "Boutique Hotel News",
-          "site_id": "boutiquehotel",
-          "published_at": "2026-09-22T09:55:30Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Boutique Hotel News"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_c5afb5adf459",
-          "title": "Former Remington CEO launches AI Hospitality Group",
-          "url": "https://boutiquehotelnews.com/news/industry/ai-hospitality-group/?utm_source=rss&utm_medium=rss&utm_campaign=ai-hospitality-group",
-          "source": "Boutique Hotel News",
-          "source_name": "Boutique Hotel News",
-          "site_id": "boutiquehotel",
-          "published_at": "2026-09-22T09:55:30Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.82,
-      "importance": 0.5689,
-      "importance_score": 0.82,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.8445,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-22T09:55:30Z",
-      "latest_at": "2026-09-22T09:55:30Z",
-      "primary_item": {
-        "id": "hotelitem_c5afb5adf459",
-        "title": "Former Remington CEO launches AI Hospitality Group",
-        "url": "https://boutiquehotelnews.com/news/industry/ai-hospitality-group/?utm_source=rss&utm_medium=rss&utm_campaign=ai-hospitality-group",
-        "source": "Boutique Hotel News",
-        "source_name": "Boutique Hotel News"
-      }
-    },
-    {
-      "story_id": "story_824f362dcce2",
-      "title": "北京门头沟假日酒店9月28日盛大启幕",
-      "url": "https://www.pinchain.com/article/351433",
-      "primary_url": "https://www.pinchain.com/article/351433",
-      "source": "品橙旅游",
-      "source_name": "品橙旅游",
-      "sources": [
-        {
-          "id": "hotelitem_824f362dcce2",
-          "title": "北京门头沟假日酒店9月28日盛大启幕",
-          "url": "https://www.pinchain.com/article/351433",
-          "source": "品橙旅游",
-          "source_name": "品橙旅游",
-          "site_id": "pinchain",
-          "published_at": "2026-09-28T09:27:07Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "品橙旅游"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_824f362dcce2",
-          "title": "北京门头沟假日酒店9月28日盛大启幕",
-          "url": "https://www.pinchain.com/article/351433",
-          "source": "品橙旅游",
-          "source_name": "品橙旅游",
-          "site_id": "pinchain",
-          "published_at": "2026-09-28T09:27:07Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8131,
-      "importance": 0.5955,
-      "importance_score": 0.8131,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9774,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-28T09:27:07Z",
-      "latest_at": "2026-09-28T09:27:07Z",
-      "primary_item": {
-        "id": "hotelitem_824f362dcce2",
-        "title": "北京门头沟假日酒店9月28日盛大启幕",
-        "url": "https://www.pinchain.com/article/351433",
-        "source": "品橙旅游",
-        "source_name": "品橙旅游"
-      }
-    },
-    {
       "story_id": "story_d601b8535b89",
       "title": "Agoda Begins Limited Public Beta of New AI A ... Digital travel platform Agoda has begun the beta rollout of its new AI Assistant, designed to help tra ... September 15, 2026 / Product, Technology",
       "url": "https://www.agoda.com/press/agoda-begins-limited-public-beta-of-new-ai-assistant-that-turns-travel-ideas-into-bookable-trips/",
@@ -1649,7 +1531,7 @@
           "source": "Agoda",
           "source_name": "Agoda",
           "site_id": "agoda_press",
-          "published_at": "2026-09-29T09:54:24.095975Z"
+          "published_at": "2026-09-29T18:07:13.221852Z"
         }
       ],
       "source_count": 1,
@@ -1664,7 +1546,7 @@
           "source": "Agoda",
           "source_name": "Agoda",
           "site_id": "agoda_press",
-          "published_at": "2026-09-29T09:54:24.095975Z"
+          "published_at": "2026-09-29T18:07:13.221852Z"
         }
       ],
       "item_count": 1,
@@ -1683,8 +1565,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-29T09:54:24.095975Z",
-      "latest_at": "2026-09-29T09:54:24.095975Z",
+      "earliest_at": "2026-09-29T18:07:13.221852Z",
+      "latest_at": "2026-09-29T18:07:13.221852Z",
       "primary_item": {
         "id": "hotelitem_d601b8535b89",
         "title": "Agoda Begins Limited Public Beta of New AI A ... Digital travel platform Agoda has begun the beta rollout of its new AI Assistant, designed to help tra ... September 15, 2026 / Product, Technology",
@@ -1708,7 +1590,7 @@
           "source": "Agoda",
           "source_name": "Agoda",
           "site_id": "agoda_press",
-          "published_at": "2026-09-29T09:54:24.095975Z"
+          "published_at": "2026-09-29T18:07:13.221852Z"
         }
       ],
       "source_count": 1,
@@ -1723,7 +1605,7 @@
           "source": "Agoda",
           "source_name": "Agoda",
           "site_id": "agoda_press",
-          "published_at": "2026-09-29T09:54:24.095975Z"
+          "published_at": "2026-09-29T18:07:13.221852Z"
         }
       ],
       "item_count": 1,
@@ -1742,8 +1624,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-29T09:54:24.095975Z",
-      "latest_at": "2026-09-29T09:54:24.095975Z",
+      "earliest_at": "2026-09-29T18:07:13.221852Z",
+      "latest_at": "2026-09-29T18:07:13.221852Z",
       "primary_item": {
         "id": "hotelitem_69c4ef2b3d80",
         "title": "Agoda Partners Kaohsiung City Government to  ... Digital travel platform Agoda and the Kaohsiung City Government have signed a Memorandum of Understand ... September 11, 2026 / Partnership",
@@ -1767,7 +1649,7 @@
           "source": "Agoda",
           "source_name": "Agoda",
           "site_id": "agoda_press",
-          "published_at": "2026-09-29T09:54:24.095975Z"
+          "published_at": "2026-09-29T18:07:13.221852Z"
         }
       ],
       "source_count": 1,
@@ -1782,7 +1664,7 @@
           "source": "Agoda",
           "source_name": "Agoda",
           "site_id": "agoda_press",
-          "published_at": "2026-09-29T09:54:24.095975Z"
+          "published_at": "2026-09-29T18:07:13.221852Z"
         }
       ],
       "item_count": 1,
@@ -1801,12 +1683,130 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-29T09:54:24.095975Z",
-      "latest_at": "2026-09-29T09:54:24.095975Z",
+      "earliest_at": "2026-09-29T18:07:13.221852Z",
+      "latest_at": "2026-09-29T18:07:13.221852Z",
       "primary_item": {
         "id": "hotelitem_7245e3fed3db",
         "title": "Agoda and DTTDC Launch MoU to Position Delhi ... Digital travel platform Agoda has announced a strategic partnership with the Delhi Tourism & Trans ... May 21, 2026 / Partnership",
         "url": "https://www.agoda.com/press/agoda-and-dttdc-launch-mou-to-position-delhi-as-a-year-round-destination/",
+        "source": "Agoda",
+        "source_name": "Agoda"
+      }
+    },
+    {
+      "story_id": "story_8c5f0ae63982",
+      "title": "Agoda and KakaoBank Partner to Offer Travel  ... Providing seamless access to stay options on one of Korea’s leading digital banks’ app, featuring disc ... May 28, 2026 / Partnership",
+      "url": "https://www.agoda.com/press/agoda-and-kakaobank-partner-to-offer-travel-booking-experience-on-digital-banking-app/",
+      "primary_url": "https://www.agoda.com/press/agoda-and-kakaobank-partner-to-offer-travel-booking-experience-on-digital-banking-app/",
+      "source": "Agoda",
+      "source_name": "Agoda",
+      "sources": [
+        {
+          "id": "hotelitem_8c5f0ae63982",
+          "title": "Agoda and KakaoBank Partner to Offer Travel  ... Providing seamless access to stay options on one of Korea’s leading digital banks’ app, featuring disc ... May 28, 2026 / Partnership",
+          "url": "https://www.agoda.com/press/agoda-and-kakaobank-partner-to-offer-travel-booking-experience-on-digital-banking-app/",
+          "source": "Agoda",
+          "source_name": "Agoda",
+          "site_id": "agoda_press",
+          "published_at": "2026-09-29T18:07:13.221852Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Agoda"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_8c5f0ae63982",
+          "title": "Agoda and KakaoBank Partner to Offer Travel  ... Providing seamless access to stay options on one of Korea’s leading digital banks’ app, featuring disc ... May 28, 2026 / Partnership",
+          "url": "https://www.agoda.com/press/agoda-and-kakaobank-partner-to-offer-travel-booking-experience-on-digital-banking-app/",
+          "source": "Agoda",
+          "source_name": "Agoda",
+          "site_id": "agoda_press",
+          "published_at": "2026-09-29T18:07:13.221852Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8125,
+      "importance": 0.6,
+      "importance_score": 0.8125,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-29T18:07:13.221852Z",
+      "latest_at": "2026-09-29T18:07:13.221852Z",
+      "primary_item": {
+        "id": "hotelitem_8c5f0ae63982",
+        "title": "Agoda and KakaoBank Partner to Offer Travel  ... Providing seamless access to stay options on one of Korea’s leading digital banks’ app, featuring disc ... May 28, 2026 / Partnership",
+        "url": "https://www.agoda.com/press/agoda-and-kakaobank-partner-to-offer-travel-booking-experience-on-digital-banking-app/",
+        "source": "Agoda",
+        "source_name": "Agoda"
+      }
+    },
+    {
+      "story_id": "story_29900a6c3803",
+      "title": "Agoda and Philippines Department of Tourism  ... Digital travel platform Agoda and the Philippines Department of Tourism (DOT) announced a strategic pa ... May 27, 2026 / Partnership",
+      "url": "https://www.agoda.com/press/agoda-and-philippines-department-of-tourism-announce-strategic-partnership-to-promote-and-elevate-tourism/",
+      "primary_url": "https://www.agoda.com/press/agoda-and-philippines-department-of-tourism-announce-strategic-partnership-to-promote-and-elevate-tourism/",
+      "source": "Agoda",
+      "source_name": "Agoda",
+      "sources": [
+        {
+          "id": "hotelitem_29900a6c3803",
+          "title": "Agoda and Philippines Department of Tourism  ... Digital travel platform Agoda and the Philippines Department of Tourism (DOT) announced a strategic pa ... May 27, 2026 / Partnership",
+          "url": "https://www.agoda.com/press/agoda-and-philippines-department-of-tourism-announce-strategic-partnership-to-promote-and-elevate-tourism/",
+          "source": "Agoda",
+          "source_name": "Agoda",
+          "site_id": "agoda_press",
+          "published_at": "2026-09-29T18:07:13.221852Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Agoda"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_29900a6c3803",
+          "title": "Agoda and Philippines Department of Tourism  ... Digital travel platform Agoda and the Philippines Department of Tourism (DOT) announced a strategic pa ... May 27, 2026 / Partnership",
+          "url": "https://www.agoda.com/press/agoda-and-philippines-department-of-tourism-announce-strategic-partnership-to-promote-and-elevate-tourism/",
+          "source": "Agoda",
+          "source_name": "Agoda",
+          "site_id": "agoda_press",
+          "published_at": "2026-09-29T18:07:13.221852Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8125,
+      "importance": 0.6,
+      "importance_score": 0.8125,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-29T18:07:13.221852Z",
+      "latest_at": "2026-09-29T18:07:13.221852Z",
+      "primary_item": {
+        "id": "hotelitem_29900a6c3803",
+        "title": "Agoda and Philippines Department of Tourism  ... Digital travel platform Agoda and the Philippines Department of Tourism (DOT) announced a strategic pa ... May 27, 2026 / Partnership",
+        "url": "https://www.agoda.com/press/agoda-and-philippines-department-of-tourism-announce-strategic-partnership-to-promote-and-elevate-tourism/",
         "source": "Agoda",
         "source_name": "Agoda"
       }
