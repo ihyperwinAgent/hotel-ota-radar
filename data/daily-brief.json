@@ -1,8 +1,146 @@
 {
-  "generated_at": "2026-09-30T12:41:00.865852Z",
+  "generated_at": "2026-09-30T20:04:22.680891Z",
   "window_hours": 1080,
   "total_items": 30,
   "items": [
+    {
+      "story_id": "story_bac2ba631d30",
+      "title": "Choice Hotels Acquires Harvest Hosts",
+      "url": "https://lodgingmagazine.com/choice-hotels-acquires-harvest-hosts/",
+      "primary_url": "https://lodgingmagazine.com/choice-hotels-acquires-harvest-hosts/",
+      "source": "Lodging Magazine",
+      "source_name": "Lodging Magazine",
+      "sources": [
+        {
+          "id": "hotelitem_bc52b0f2b0d8",
+          "title": "Choice Hotels Acquires Harvest Hosts",
+          "url": "https://lodgingmagazine.com/choice-hotels-acquires-harvest-hosts/",
+          "source": "Lodging Magazine",
+          "source_name": "Lodging Magazine",
+          "site_id": "lodgingmag",
+          "published_at": "2026-09-30T14:26:42Z"
+        },
+        {
+          "id": "hotelitem_bac2ba631d30",
+          "title": "Choice Hotels to acquire Harvest Hosts",
+          "url": "https://www.hoteldive.com/news/choice-hotels-acquires-harvest-hosts/831748/",
+          "source": "Hotel Dive",
+          "source_name": "Hotel Dive",
+          "site_id": "hoteldive",
+          "published_at": "2026-09-30T13:42:15Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hotel Dive",
+        "Lodging Magazine"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_bc52b0f2b0d8",
+          "title": "Choice Hotels Acquires Harvest Hosts",
+          "url": "https://lodgingmagazine.com/choice-hotels-acquires-harvest-hosts/",
+          "source": "Lodging Magazine",
+          "source_name": "Lodging Magazine",
+          "site_id": "lodgingmag",
+          "published_at": "2026-09-30T14:26:42Z"
+        },
+        {
+          "id": "hotelitem_bac2ba631d30",
+          "title": "Choice Hotels to acquire Harvest Hosts",
+          "url": "https://www.hoteldive.com/news/choice-hotels-acquires-harvest-hosts/831748/",
+          "source": "Hotel Dive",
+          "source_name": "Hotel Dive",
+          "site_id": "hoteldive",
+          "published_at": "2026-09-30T13:42:15Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.989,
+      "importance": 0.624,
+      "importance_score": 0.989,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9948,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-30T13:42:15Z",
+      "latest_at": "2026-09-30T14:26:42Z",
+      "primary_item": {
+        "id": "hotelitem_bc52b0f2b0d8",
+        "title": "Choice Hotels Acquires Harvest Hosts",
+        "url": "https://lodgingmagazine.com/choice-hotels-acquires-harvest-hosts/",
+        "source": "Lodging Magazine",
+        "source_name": "Lodging Magazine"
+      }
+    },
+    {
+      "story_id": "story_18ceab421436",
+      "title": "Hyatt Announces Appointment of Its First Chief Creative Officer",
+      "url": "https://lodgingmagazine.com/hyatt-announces-appointment-of-its-first-chief-creative-officer/",
+      "primary_url": "https://lodgingmagazine.com/hyatt-announces-appointment-of-its-first-chief-creative-officer/",
+      "source": "Lodging Magazine",
+      "source_name": "Lodging Magazine",
+      "sources": [
+        {
+          "id": "hotelitem_18ceab421436",
+          "title": "Hyatt Announces Appointment of Its First Chief Creative Officer",
+          "url": "https://lodgingmagazine.com/hyatt-announces-appointment-of-its-first-chief-creative-officer/",
+          "source": "Lodging Magazine",
+          "source_name": "Lodging Magazine",
+          "site_id": "lodgingmag",
+          "published_at": "2026-09-30T13:32:05Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Lodging Magazine"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_18ceab421436",
+          "title": "Hyatt Announces Appointment of Its First Chief Creative Officer",
+          "url": "https://lodgingmagazine.com/hyatt-announces-appointment-of-its-first-chief-creative-officer/",
+          "source": "Lodging Magazine",
+          "source_name": "Lodging Magazine",
+          "site_id": "lodgingmag",
+          "published_at": "2026-09-30T13:32:05Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.9388,
+      "importance": 0.5988,
+      "importance_score": 0.9388,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9939,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-30T13:32:05Z",
+      "latest_at": "2026-09-30T13:32:05Z",
+      "primary_item": {
+        "id": "hotelitem_18ceab421436",
+        "title": "Hyatt Announces Appointment of Its First Chief Creative Officer",
+        "url": "https://lodgingmagazine.com/hyatt-announces-appointment-of-its-first-chief-creative-officer/",
+        "source": "Lodging Magazine",
+        "source_name": "Lodging Magazine"
+      }
+    },
     {
       "story_id": "story_3d8e514f90c0",
       "title": "IHG expands Vignette Collection in Spain with Madrid signing",
@@ -38,14 +176,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9364,
-      "importance": 0.5963,
-      "importance_score": 0.9364,
+      "score": 0.9351,
+      "importance": 0.5949,
+      "importance_score": 0.9351,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9815,
+        "recency": 0.9746,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -97,14 +235,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9358,
-      "importance": 0.5956,
-      "importance_score": 0.9358,
+      "score": 0.9345,
+      "importance": 0.5942,
+      "importance_score": 0.9345,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9781,
+        "recency": 0.9712,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -156,14 +294,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.93,
-      "importance": 0.5741,
-      "importance_score": 0.93,
+      "score": 0.9287,
+      "importance": 0.5727,
+      "importance_score": 0.9287,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8705,
+        "recency": 0.8637,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -181,62 +319,81 @@
       }
     },
     {
-      "story_id": "story_fb3706dbeb08",
-      "title": "Accor rolls out AI tool to assist guests across full travel journey",
-      "url": "https://www.hoteldive.com/news/accor-launches-ai-travel-concierge/831179/",
-      "primary_url": "https://www.hoteldive.com/news/accor-launches-ai-travel-concierge/831179/",
-      "source": "Hotel Dive",
-      "source_name": "Hotel Dive",
+      "story_id": "story_9e51b1781dc7",
+      "title": "Taking the first steps towards personalisation in your hotel",
+      "url": "https://insights.ehotelier.com/suppliers/2026/09/30/taking-the-first-steps-towards-personalisation-in-your-hotel/?utm_source=rss&utm_medium=rss&utm_campaign=taking-the-first-steps-towards-personalisation-in-your-hotel",
+      "primary_url": "https://insights.ehotelier.com/suppliers/2026/09/30/taking-the-first-steps-towards-personalisation-in-your-hotel/?utm_source=rss&utm_medium=rss&utm_campaign=taking-the-first-steps-towards-personalisation-in-your-hotel",
+      "source": "eHotelier",
+      "source_name": "eHotelier",
       "sources": [
         {
-          "id": "hotelitem_fb3706dbeb08",
-          "title": "Accor rolls out AI tool to assist guests across full travel journey",
-          "url": "https://www.hoteldive.com/news/accor-launches-ai-travel-concierge/831179/",
-          "source": "Hotel Dive",
-          "source_name": "Hotel Dive",
-          "site_id": "hoteldive",
-          "published_at": "2026-09-23T18:38:52Z"
+          "id": "hotelitem_192536826178",
+          "title": "Taking the first steps towards personalisation in your hotel",
+          "url": "https://insights.ehotelier.com/suppliers/2026/09/30/taking-the-first-steps-towards-personalisation-in-your-hotel/?utm_source=rss&utm_medium=rss&utm_campaign=taking-the-first-steps-towards-personalisation-in-your-hotel",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-09-30T02:05:30Z"
+        },
+        {
+          "id": "hotelitem_9e51b1781dc7",
+          "title": "Taking the first steps toward personalisation in your hotel",
+          "url": "https://insights.ehotelier.com/insights/2026/09/29/taking-the-first-steps-toward-personalisation-in-your-hotel/?utm_source=rss&utm_medium=rss&utm_campaign=taking-the-first-steps-toward-personalisation-in-your-hotel",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-09-29T02:10:29Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "Hotel Dive"
+        "eHotelier"
       ],
       "items": [
         {
-          "id": "hotelitem_fb3706dbeb08",
-          "title": "Accor rolls out AI tool to assist guests across full travel journey",
-          "url": "https://www.hoteldive.com/news/accor-launches-ai-travel-concierge/831179/",
-          "source": "Hotel Dive",
-          "source_name": "Hotel Dive",
-          "site_id": "hoteldive",
-          "published_at": "2026-09-23T18:38:52Z"
+          "id": "hotelitem_192536826178",
+          "title": "Taking the first steps towards personalisation in your hotel",
+          "url": "https://insights.ehotelier.com/suppliers/2026/09/30/taking-the-first-steps-towards-personalisation-in-your-hotel/?utm_source=rss&utm_medium=rss&utm_campaign=taking-the-first-steps-towards-personalisation-in-your-hotel",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-09-30T02:05:30Z"
+        },
+        {
+          "id": "hotelitem_9e51b1781dc7",
+          "title": "Taking the first steps toward personalisation in your hotel",
+          "url": "https://insights.ehotelier.com/insights/2026/09/29/taking-the-first-steps-toward-personalisation-in-your-hotel/?utm_source=rss&utm_medium=rss&utm_campaign=taking-the-first-steps-toward-personalisation-in-your-hotel",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-09-29T02:10:29Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.9261,
-      "importance": 0.57,
-      "importance_score": 0.9261,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.9118,
+      "importance": 0.6217,
+      "importance_score": 0.9118,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.85,
-        "story_heat": 0.0
+        "recency": 0.9834,
+        "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
+        "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-23T18:38:52Z",
-      "latest_at": "2026-09-23T18:38:52Z",
+      "earliest_at": "2026-09-29T02:10:29Z",
+      "latest_at": "2026-09-30T02:05:30Z",
       "primary_item": {
-        "id": "hotelitem_fb3706dbeb08",
-        "title": "Accor rolls out AI tool to assist guests across full travel journey",
-        "url": "https://www.hoteldive.com/news/accor-launches-ai-travel-concierge/831179/",
-        "source": "Hotel Dive",
-        "source_name": "Hotel Dive"
+        "id": "hotelitem_192536826178",
+        "title": "Taking the first steps towards personalisation in your hotel",
+        "url": "https://insights.ehotelier.com/suppliers/2026/09/30/taking-the-first-steps-towards-personalisation-in-your-hotel/?utm_source=rss&utm_medium=rss&utm_campaign=taking-the-first-steps-towards-personalisation-in-your-hotel",
+        "source": "eHotelier",
+        "source_name": "eHotelier"
       }
     },
     {
@@ -254,7 +411,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-09-30T12:41:00.865852Z"
+          "published_at": "2026-09-30T20:04:22.680891Z"
         }
       ],
       "source_count": 1,
@@ -269,7 +426,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-09-30T12:41:00.865852Z"
+          "published_at": "2026-09-30T20:04:22.680891Z"
         }
       ],
       "item_count": 1,
@@ -288,8 +445,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-30T12:41:00.865852Z",
-      "latest_at": "2026-09-30T12:41:00.865852Z",
+      "earliest_at": "2026-09-30T20:04:22.680891Z",
+      "latest_at": "2026-09-30T20:04:22.680891Z",
       "primary_item": {
         "id": "hotelitem_06f191e24d38",
         "title": "文旅惠报|复星国际申请分拆Club Med在港上市；南京商旅上半年营收3.66亿元",
@@ -333,14 +490,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8831,
-      "importance": 0.598,
-      "importance_score": 0.8831,
+      "score": 0.8818,
+      "importance": 0.5967,
+      "importance_score": 0.8818,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9902,
+        "recency": 0.9834,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -392,14 +549,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8631,
-      "importance": 0.598,
-      "importance_score": 0.8631,
+      "score": 0.8618,
+      "importance": 0.5966,
+      "importance_score": 0.8618,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.99,
+        "recency": 0.9832,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -412,124 +569,6 @@
         "id": "hotelitem_405279c1a456",
         "title": "VisitEngland launches national campaign to boost coastal breaks and drive visitor spending",
         "url": "https://insights.ehotelier.com/global-news/2026/09/30/visitengland-launches-national-campaign-to-boost-coastal-breaks-and-drive-visitor-spending/?utm_source=rss&utm_medium=rss&utm_campaign=visitengland-launches-national-campaign-to-boost-coastal-breaks-and-drive-visitor-spending",
-        "source": "eHotelier",
-        "source_name": "eHotelier"
-      }
-    },
-    {
-      "story_id": "story_192536826178",
-      "title": "Taking the first steps towards personalisation in your hotel",
-      "url": "https://insights.ehotelier.com/suppliers/2026/09/30/taking-the-first-steps-towards-personalisation-in-your-hotel/?utm_source=rss&utm_medium=rss&utm_campaign=taking-the-first-steps-towards-personalisation-in-your-hotel",
-      "primary_url": "https://insights.ehotelier.com/suppliers/2026/09/30/taking-the-first-steps-towards-personalisation-in-your-hotel/?utm_source=rss&utm_medium=rss&utm_campaign=taking-the-first-steps-towards-personalisation-in-your-hotel",
-      "source": "eHotelier",
-      "source_name": "eHotelier",
-      "sources": [
-        {
-          "id": "hotelitem_192536826178",
-          "title": "Taking the first steps towards personalisation in your hotel",
-          "url": "https://insights.ehotelier.com/suppliers/2026/09/30/taking-the-first-steps-towards-personalisation-in-your-hotel/?utm_source=rss&utm_medium=rss&utm_campaign=taking-the-first-steps-towards-personalisation-in-your-hotel",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-09-30T02:05:30Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "eHotelier"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_192536826178",
-          "title": "Taking the first steps towards personalisation in your hotel",
-          "url": "https://insights.ehotelier.com/suppliers/2026/09/30/taking-the-first-steps-towards-personalisation-in-your-hotel/?utm_source=rss&utm_medium=rss&utm_campaign=taking-the-first-steps-towards-personalisation-in-your-hotel",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-09-30T02:05:30Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8631,
-      "importance": 0.598,
-      "importance_score": 0.8631,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9902,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-30T02:05:30Z",
-      "latest_at": "2026-09-30T02:05:30Z",
-      "primary_item": {
-        "id": "hotelitem_192536826178",
-        "title": "Taking the first steps towards personalisation in your hotel",
-        "url": "https://insights.ehotelier.com/suppliers/2026/09/30/taking-the-first-steps-towards-personalisation-in-your-hotel/?utm_source=rss&utm_medium=rss&utm_campaign=taking-the-first-steps-towards-personalisation-in-your-hotel",
-        "source": "eHotelier",
-        "source_name": "eHotelier"
-      }
-    },
-    {
-      "story_id": "story_b554456b0471",
-      "title": "Before the Cape Cod Getaway Begins, Ocean Edge and Travel Outlook Make the First Conversation Count",
-      "url": "https://insights.ehotelier.com/suppliers/2026/09/30/before-the-cape-cod-getaway-begins-ocean-edge-and-travel-outlook-make-the-first-conversation-count/?utm_source=rss&utm_medium=rss&utm_campaign=before-the-cape-cod-getaway-begins-ocean-edge-and-travel-outlook-make-the-first-conversation-count",
-      "primary_url": "https://insights.ehotelier.com/suppliers/2026/09/30/before-the-cape-cod-getaway-begins-ocean-edge-and-travel-outlook-make-the-first-conversation-count/?utm_source=rss&utm_medium=rss&utm_campaign=before-the-cape-cod-getaway-begins-ocean-edge-and-travel-outlook-make-the-first-conversation-count",
-      "source": "eHotelier",
-      "source_name": "eHotelier",
-      "sources": [
-        {
-          "id": "hotelitem_b554456b0471",
-          "title": "Before the Cape Cod Getaway Begins, Ocean Edge and Travel Outlook Make the First Conversation Count",
-          "url": "https://insights.ehotelier.com/suppliers/2026/09/30/before-the-cape-cod-getaway-begins-ocean-edge-and-travel-outlook-make-the-first-conversation-count/?utm_source=rss&utm_medium=rss&utm_campaign=before-the-cape-cod-getaway-begins-ocean-edge-and-travel-outlook-make-the-first-conversation-count",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-09-30T02:10:33Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "eHotelier"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_b554456b0471",
-          "title": "Before the Cape Cod Getaway Begins, Ocean Edge and Travel Outlook Make the First Conversation Count",
-          "url": "https://insights.ehotelier.com/suppliers/2026/09/30/before-the-cape-cod-getaway-begins-ocean-edge-and-travel-outlook-make-the-first-conversation-count/?utm_source=rss&utm_medium=rss&utm_campaign=before-the-cape-cod-getaway-begins-ocean-edge-and-travel-outlook-make-the-first-conversation-count",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-09-30T02:10:33Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8631,
-      "importance": 0.5981,
-      "importance_score": 0.8631,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9903,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-30T02:10:33Z",
-      "latest_at": "2026-09-30T02:10:33Z",
-      "primary_item": {
-        "id": "hotelitem_b554456b0471",
-        "title": "Before the Cape Cod Getaway Begins, Ocean Edge and Travel Outlook Make the First Conversation Count",
-        "url": "https://insights.ehotelier.com/suppliers/2026/09/30/before-the-cape-cod-getaway-begins-ocean-edge-and-travel-outlook-make-the-first-conversation-count/?utm_source=rss&utm_medium=rss&utm_campaign=before-the-cape-cod-getaway-begins-ocean-edge-and-travel-outlook-make-the-first-conversation-count",
         "source": "eHotelier",
         "source_name": "eHotelier"
       }
@@ -569,14 +608,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.863,
-      "importance": 0.5979,
-      "importance_score": 0.863,
+      "score": 0.8617,
+      "importance": 0.5966,
+      "importance_score": 0.8617,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9897,
+        "recency": 0.9829,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -628,14 +667,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.863,
-      "importance": 0.598,
-      "importance_score": 0.863,
+      "score": 0.8617,
+      "importance": 0.5966,
+      "importance_score": 0.8617,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9899,
+        "recency": 0.983,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -687,14 +726,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8626,
-      "importance": 0.5975,
-      "importance_score": 0.8626,
+      "score": 0.8612,
+      "importance": 0.5961,
+      "importance_score": 0.8612,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9873,
+        "recency": 0.9805,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -726,7 +765,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-09-30T12:41:00.865852Z"
+          "published_at": "2026-09-30T20:04:22.680891Z"
         },
         {
           "id": "hotelitem_c7c15b7680c9",
@@ -735,7 +774,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-09-30T12:41:00.865852Z"
+          "published_at": "2026-09-30T20:04:22.680891Z"
         }
       ],
       "source_count": 2,
@@ -750,7 +789,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-09-30T12:41:00.865852Z"
+          "published_at": "2026-09-30T20:04:22.680891Z"
         },
         {
           "id": "hotelitem_c7c15b7680c9",
@@ -759,7 +798,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-09-30T12:41:00.865852Z"
+          "published_at": "2026-09-30T20:04:22.680891Z"
         }
       ],
       "item_count": 2,
@@ -779,8 +818,8 @@
         "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-30T12:41:00.865852Z",
-      "latest_at": "2026-09-30T12:41:00.865852Z",
+      "earliest_at": "2026-09-30T20:04:22.680891Z",
+      "latest_at": "2026-09-30T20:04:22.680891Z",
       "primary_item": {
         "id": "hotelitem_d4370964909c",
         "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
@@ -804,7 +843,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-09-30T12:41:00.865852Z"
+          "published_at": "2026-09-30T20:04:22.680891Z"
         },
         {
           "id": "hotelitem_1243e4eead68",
@@ -813,7 +852,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-09-30T12:41:00.865852Z"
+          "published_at": "2026-09-30T20:04:22.680891Z"
         }
       ],
       "source_count": 2,
@@ -828,7 +867,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-09-30T12:41:00.865852Z"
+          "published_at": "2026-09-30T20:04:22.680891Z"
         },
         {
           "id": "hotelitem_1243e4eead68",
@@ -837,7 +876,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-09-30T12:41:00.865852Z"
+          "published_at": "2026-09-30T20:04:22.680891Z"
         }
       ],
       "item_count": 2,
@@ -857,8 +896,8 @@
         "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-30T12:41:00.865852Z",
-      "latest_at": "2026-09-30T12:41:00.865852Z",
+      "earliest_at": "2026-09-30T20:04:22.680891Z",
+      "latest_at": "2026-09-30T20:04:22.680891Z",
       "primary_item": {
         "id": "hotelitem_b30c7ac8b6e5",
         "title": "指数发布 | 中国住宿业消费指数报告（2026年8月）发布 为贯彻落实提振消费相关政策，真实反映中国住宿餐饮业市场消费情况，以数据引导促消费政策精准发力，为行业发展提供参考建议，中国饭店协会每月公开发布“中国饭店业消费指数体系”，包含“中国住宿业消费指数（China Hotel Industry Consumption Index, HCI）”与“中国餐饮业消费指数（China Catering Industry Consumption Index, CCI）”，欢迎关注。\n本篇发布的是“中国住宿业消费指数”。",
@@ -882,7 +921,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-09-30T12:41:00.865852Z"
+          "published_at": "2026-09-30T20:04:22.680891Z"
         }
       ],
       "source_count": 1,
@@ -897,7 +936,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-09-30T12:41:00.865852Z"
+          "published_at": "2026-09-30T20:04:22.680891Z"
         }
       ],
       "item_count": 1,
@@ -916,8 +955,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-30T12:41:00.865852Z",
-      "latest_at": "2026-09-30T12:41:00.865852Z",
+      "earliest_at": "2026-09-30T20:04:22.680891Z",
+      "latest_at": "2026-09-30T20:04:22.680891Z",
       "primary_item": {
         "id": "hotelitem_e4ce0593c384",
         "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
@@ -941,7 +980,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-09-30T12:41:00.865852Z"
+          "published_at": "2026-09-30T20:04:22.680891Z"
         }
       ],
       "source_count": 1,
@@ -956,7 +995,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-09-30T12:41:00.865852Z"
+          "published_at": "2026-09-30T20:04:22.680891Z"
         }
       ],
       "item_count": 1,
@@ -975,8 +1014,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-30T12:41:00.865852Z",
-      "latest_at": "2026-09-30T12:41:00.865852Z",
+      "earliest_at": "2026-09-30T20:04:22.680891Z",
+      "latest_at": "2026-09-30T20:04:22.680891Z",
       "primary_item": {
         "id": "hotelitem_b0f4757ffc95",
         "title": "文化和旅游部 中国气象局联合发布2026年国庆...",
@@ -1000,7 +1039,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-09-30T12:41:00.865852Z"
+          "published_at": "2026-09-30T20:04:22.680891Z"
         }
       ],
       "source_count": 1,
@@ -1015,7 +1054,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-09-30T12:41:00.865852Z"
+          "published_at": "2026-09-30T20:04:22.680891Z"
         }
       ],
       "item_count": 1,
@@ -1034,8 +1073,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-30T12:41:00.865852Z",
-      "latest_at": "2026-09-30T12:41:00.865852Z",
+      "earliest_at": "2026-09-30T20:04:22.680891Z",
+      "latest_at": "2026-09-30T20:04:22.680891Z",
       "primary_item": {
         "id": "hotelitem_8dd9d6a00599",
         "title": "文化和旅游部中秋、国庆假期出游提示",
@@ -1059,7 +1098,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-09-30T12:41:00.865852Z"
+          "published_at": "2026-09-30T20:04:22.680891Z"
         }
       ],
       "source_count": 1,
@@ -1074,7 +1113,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-09-30T12:41:00.865852Z"
+          "published_at": "2026-09-30T20:04:22.680891Z"
         }
       ],
       "item_count": 1,
@@ -1093,8 +1132,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-30T12:41:00.865852Z",
-      "latest_at": "2026-09-30T12:41:00.865852Z",
+      "earliest_at": "2026-09-30T20:04:22.680891Z",
+      "latest_at": "2026-09-30T20:04:22.680891Z",
       "primary_item": {
         "id": "hotelitem_c3e3aec156b1",
         "title": "文化和旅游部印发《公共文化服务体系建设“...",
@@ -1118,7 +1157,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-09-30T12:41:00.865852Z"
+          "published_at": "2026-09-30T20:04:22.680891Z"
         }
       ],
       "source_count": 1,
@@ -1133,7 +1172,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-09-30T12:41:00.865852Z"
+          "published_at": "2026-09-30T20:04:22.680891Z"
         }
       ],
       "item_count": 1,
@@ -1152,8 +1191,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-30T12:41:00.865852Z",
-      "latest_at": "2026-09-30T12:41:00.865852Z",
+      "earliest_at": "2026-09-30T20:04:22.680891Z",
+      "latest_at": "2026-09-30T20:04:22.680891Z",
       "primary_item": {
         "id": "hotelitem_e63a36930397",
         "title": "文化和旅游部印发《艺术发展“十五五”规划》",
@@ -1177,7 +1216,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-09-30T12:41:00.865852Z"
+          "published_at": "2026-09-30T20:04:22.680891Z"
         }
       ],
       "source_count": 1,
@@ -1192,7 +1231,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-09-30T12:41:00.865852Z"
+          "published_at": "2026-09-30T20:04:22.680891Z"
         }
       ],
       "item_count": 1,
@@ -1211,14 +1250,73 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-30T12:41:00.865852Z",
-      "latest_at": "2026-09-30T12:41:00.865852Z",
+      "earliest_at": "2026-09-30T20:04:22.680891Z",
+      "latest_at": "2026-09-30T20:04:22.680891Z",
       "primary_item": {
         "id": "hotelitem_8f218475e743",
         "title": "文化和旅游部发布2026年上半年国内居民出游数据情况",
         "url": "https://www.ctaweb.org.cn/gongzuodongtai/10523.html",
         "source": "中国旅游研究院",
         "source_name": "中国旅游研究院"
+      }
+    },
+    {
+      "story_id": "story_66f76583a869",
+      "title": "2027 Budget Crunch: Unlocking Hidden Revenue Streams Across the Hotel Asset",
+      "url": "https://www.hotelmanagement.net/premium/roundtables-webinars/755525",
+      "primary_url": "https://www.hotelmanagement.net/premium/roundtables-webinars/755525",
+      "source": "Hotel Management",
+      "source_name": "Hotel Management",
+      "sources": [
+        {
+          "id": "hotelitem_66f76583a869",
+          "title": "2027 Budget Crunch: Unlocking Hidden Revenue Streams Across the Hotel Asset",
+          "url": "https://www.hotelmanagement.net/premium/roundtables-webinars/755525",
+          "source": "Hotel Management",
+          "source_name": "Hotel Management",
+          "site_id": "hotelmgmt",
+          "published_at": "2026-09-28T19:03:06Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hotel Management"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_66f76583a869",
+          "title": "2027 Budget Crunch: Unlocking Hidden Revenue Streams Across the Hotel Asset",
+          "url": "https://www.hotelmanagement.net/premium/roundtables-webinars/755525",
+          "source": "Hotel Management",
+          "source_name": "Hotel Management",
+          "site_id": "hotelmgmt",
+          "published_at": "2026-09-28T19:03:06Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8562,
+      "importance": 0.5909,
+      "importance_score": 0.8562,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9546,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-28T19:03:06Z",
+      "latest_at": "2026-09-28T19:03:06Z",
+      "primary_item": {
+        "id": "hotelitem_66f76583a869",
+        "title": "2027 Budget Crunch: Unlocking Hidden Revenue Streams Across the Hotel Asset",
+        "url": "https://www.hotelmanagement.net/premium/roundtables-webinars/755525",
+        "source": "Hotel Management",
+        "source_name": "Hotel Management"
       }
     },
     {
@@ -1256,14 +1354,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8566,
-      "importance": 0.5912,
-      "importance_score": 0.8566,
+      "score": 0.8552,
+      "importance": 0.5899,
+      "importance_score": 0.8552,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9562,
+        "recency": 0.9494,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1278,6 +1376,65 @@
         "url": "https://www.hoteldive.com/news/hotel-openings-fall-2026/831460/",
         "source": "Hotel Dive",
         "source_name": "Hotel Dive"
+      }
+    },
+    {
+      "story_id": "story_78e9363315df",
+      "title": "Nobu Debuts in Puerto Rico With Nobu Hotel and Restaurant San Juan",
+      "url": "https://lodgingmagazine.com/nobu-debuts-in-puerto-rico-with-nobu-hotel-and-restaurant-san-juan/",
+      "primary_url": "https://lodgingmagazine.com/nobu-debuts-in-puerto-rico-with-nobu-hotel-and-restaurant-san-juan/",
+      "source": "Lodging Magazine",
+      "source_name": "Lodging Magazine",
+      "sources": [
+        {
+          "id": "hotelitem_78e9363315df",
+          "title": "Nobu Debuts in Puerto Rico With Nobu Hotel and Restaurant San Juan",
+          "url": "https://lodgingmagazine.com/nobu-debuts-in-puerto-rico-with-nobu-hotel-and-restaurant-san-juan/",
+          "source": "Lodging Magazine",
+          "source_name": "Lodging Magazine",
+          "site_id": "lodgingmag",
+          "published_at": "2026-09-30T18:35:03Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Lodging Magazine"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_78e9363315df",
+          "title": "Nobu Debuts in Puerto Rico With Nobu Hotel and Restaurant San Juan",
+          "url": "https://lodgingmagazine.com/nobu-debuts-in-puerto-rico-with-nobu-hotel-and-restaurant-san-juan/",
+          "source": "Lodging Magazine",
+          "source_name": "Lodging Magazine",
+          "site_id": "lodgingmag",
+          "published_at": "2026-09-30T18:35:03Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8497,
+      "importance": 0.5997,
+      "importance_score": 0.8497,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9986,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-30T18:35:03Z",
+      "latest_at": "2026-09-30T18:35:03Z",
+      "primary_item": {
+        "id": "hotelitem_78e9363315df",
+        "title": "Nobu Debuts in Puerto Rico With Nobu Hotel and Restaurant San Juan",
+        "url": "https://lodgingmagazine.com/nobu-debuts-in-puerto-rico-with-nobu-hotel-and-restaurant-san-juan/",
+        "source": "Lodging Magazine",
+        "source_name": "Lodging Magazine"
       }
     },
     {
@@ -1315,14 +1472,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.85,
-      "importance": 0.6,
-      "importance_score": 0.85,
+      "score": 0.8487,
+      "importance": 0.5986,
+      "importance_score": 0.8487,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9999,
+        "recency": 0.993,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1335,124 +1492,6 @@
         "id": "hotelitem_c80338812856",
         "title": "Spire Hospitality Launches Strategic Asset Performance Division and Names Senior Vice President",
         "url": "https://lodgingmagazine.com/spire-hospitality-launches-strategic-asset-performance-division-and-names-senior-vice-president/",
-        "source": "Lodging Magazine",
-        "source_name": "Lodging Magazine"
-      }
-    },
-    {
-      "story_id": "story_339fd17a21df",
-      "title": "PIP Flexibility: 5 Ways Hoteliers Can Build a Stronger Case to Negotiate With Brands",
-      "url": "https://lodgingmagazine.com/pip-flexibility-5-ways-hoteliers-can-build-a-stronger-case-to-negotiate-with-brands/",
-      "primary_url": "https://lodgingmagazine.com/pip-flexibility-5-ways-hoteliers-can-build-a-stronger-case-to-negotiate-with-brands/",
-      "source": "Lodging Magazine",
-      "source_name": "Lodging Magazine",
-      "sources": [
-        {
-          "id": "hotelitem_339fd17a21df",
-          "title": "PIP Flexibility: 5 Ways Hoteliers Can Build a Stronger Case to Negotiate With Brands",
-          "url": "https://lodgingmagazine.com/pip-flexibility-5-ways-hoteliers-can-build-a-stronger-case-to-negotiate-with-brands/",
-          "source": "Lodging Magazine",
-          "source_name": "Lodging Magazine",
-          "site_id": "lodgingmag",
-          "published_at": "2026-09-29T15:51:06Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Lodging Magazine"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_339fd17a21df",
-          "title": "PIP Flexibility: 5 Ways Hoteliers Can Build a Stronger Case to Negotiate With Brands",
-          "url": "https://lodgingmagazine.com/pip-flexibility-5-ways-hoteliers-can-build-a-stronger-case-to-negotiate-with-brands/",
-          "source": "Lodging Magazine",
-          "source_name": "Lodging Magazine",
-          "site_id": "lodgingmag",
-          "published_at": "2026-09-29T15:51:06Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8463,
-      "importance": 0.5961,
-      "importance_score": 0.8463,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9807,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-29T15:51:06Z",
-      "latest_at": "2026-09-29T15:51:06Z",
-      "primary_item": {
-        "id": "hotelitem_339fd17a21df",
-        "title": "PIP Flexibility: 5 Ways Hoteliers Can Build a Stronger Case to Negotiate With Brands",
-        "url": "https://lodgingmagazine.com/pip-flexibility-5-ways-hoteliers-can-build-a-stronger-case-to-negotiate-with-brands/",
-        "source": "Lodging Magazine",
-        "source_name": "Lodging Magazine"
-      }
-    },
-    {
-      "story_id": "story_8bf6de88d238",
-      "title": "Remington Hospitality Appoints New Senior Vice President of Revenue Strategy",
-      "url": "https://lodgingmagazine.com/remington-hospitality-appoints-new-senior-vice-president-of-revenue-strategy/",
-      "primary_url": "https://lodgingmagazine.com/remington-hospitality-appoints-new-senior-vice-president-of-revenue-strategy/",
-      "source": "Lodging Magazine",
-      "source_name": "Lodging Magazine",
-      "sources": [
-        {
-          "id": "hotelitem_8bf6de88d238",
-          "title": "Remington Hospitality Appoints New Senior Vice President of Revenue Strategy",
-          "url": "https://lodgingmagazine.com/remington-hospitality-appoints-new-senior-vice-president-of-revenue-strategy/",
-          "source": "Lodging Magazine",
-          "source_name": "Lodging Magazine",
-          "site_id": "lodgingmag",
-          "published_at": "2026-09-29T14:07:55Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Lodging Magazine"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_8bf6de88d238",
-          "title": "Remington Hospitality Appoints New Senior Vice President of Revenue Strategy",
-          "url": "https://lodgingmagazine.com/remington-hospitality-appoints-new-senior-vice-president-of-revenue-strategy/",
-          "source": "Lodging Magazine",
-          "source_name": "Lodging Magazine",
-          "site_id": "lodgingmag",
-          "published_at": "2026-09-29T14:07:55Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.846,
-      "importance": 0.5958,
-      "importance_score": 0.846,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9791,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-29T14:07:55Z",
-      "latest_at": "2026-09-29T14:07:55Z",
-      "primary_item": {
-        "id": "hotelitem_8bf6de88d238",
-        "title": "Remington Hospitality Appoints New Senior Vice President of Revenue Strategy",
-        "url": "https://lodgingmagazine.com/remington-hospitality-appoints-new-senior-vice-president-of-revenue-strategy/",
         "source": "Lodging Magazine",
         "source_name": "Lodging Magazine"
       }
@@ -1492,14 +1531,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8453,
-      "importance": 0.5951,
-      "importance_score": 0.8453,
+      "score": 0.844,
+      "importance": 0.5937,
+      "importance_score": 0.844,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9755,
+        "recency": 0.9687,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1514,65 +1553,6 @@
         "url": "https://boutiquehotelnews.com/news/movers-and-shakers/ercolano-gm-westfill-mayfair/?utm_source=rss&utm_medium=rss&utm_campaign=ercolano-gm-westfill-mayfair",
         "source": "Boutique Hotel News",
         "source_name": "Boutique Hotel News"
-      }
-    },
-    {
-      "story_id": "story_d5a9c738d130",
-      "title": "CoStar Reports Positive U.S. Hotel Industry Performance Results in August",
-      "url": "https://lodgingmagazine.com/costar-reports-positive-u-s-hotel-industry-performance-results-in-august/",
-      "primary_url": "https://lodgingmagazine.com/costar-reports-positive-u-s-hotel-industry-performance-results-in-august/",
-      "source": "Lodging Magazine",
-      "source_name": "Lodging Magazine",
-      "sources": [
-        {
-          "id": "hotelitem_d5a9c738d130",
-          "title": "CoStar Reports Positive U.S. Hotel Industry Performance Results in August",
-          "url": "https://lodgingmagazine.com/costar-reports-positive-u-s-hotel-industry-performance-results-in-august/",
-          "source": "Lodging Magazine",
-          "source_name": "Lodging Magazine",
-          "site_id": "lodgingmag",
-          "published_at": "2026-09-28T19:32:33Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Lodging Magazine"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_d5a9c738d130",
-          "title": "CoStar Reports Positive U.S. Hotel Industry Performance Results in August",
-          "url": "https://lodgingmagazine.com/costar-reports-positive-u-s-hotel-industry-performance-results-in-august/",
-          "source": "Lodging Magazine",
-          "source_name": "Lodging Magazine",
-          "site_id": "lodgingmag",
-          "published_at": "2026-09-28T19:32:33Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8427,
-      "importance": 0.5924,
-      "importance_score": 0.8427,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9619,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-28T19:32:33Z",
-      "latest_at": "2026-09-28T19:32:33Z",
-      "primary_item": {
-        "id": "hotelitem_d5a9c738d130",
-        "title": "CoStar Reports Positive U.S. Hotel Industry Performance Results in August",
-        "url": "https://lodgingmagazine.com/costar-reports-positive-u-s-hotel-industry-performance-results-in-august/",
-        "source": "Lodging Magazine",
-        "source_name": "Lodging Magazine"
       }
     },
     {
@@ -1610,14 +1590,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8398,
-      "importance": 0.5739,
-      "importance_score": 0.8398,
+      "score": 0.8385,
+      "importance": 0.5725,
+      "importance_score": 0.8385,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8694,
+        "recency": 0.8626,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1669,14 +1649,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.818,
-      "importance": 0.598,
-      "importance_score": 0.818,
+      "score": 0.8167,
+      "importance": 0.5966,
+      "importance_score": 0.8167,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9898,
+        "recency": 0.983,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1728,14 +1708,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8159,
-      "importance": 0.5983,
-      "importance_score": 0.8159,
+      "score": 0.8146,
+      "importance": 0.5969,
+      "importance_score": 0.8146,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9916,
+        "recency": 0.9847,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1787,14 +1767,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8156,
-      "importance": 0.598,
-      "importance_score": 0.8156,
+      "score": 0.8143,
+      "importance": 0.5967,
+      "importance_score": 0.8143,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9902,
+        "recency": 0.9834,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1809,6 +1789,65 @@
         "url": "https://www.pinchain.com/article/351446",
         "source": "品橙旅游",
         "source_name": "品橙旅游"
+      }
+    },
+    {
+      "story_id": "story_d601b8535b89",
+      "title": "Agoda Begins Limited Public Beta of New AI A ... Digital travel platform Agoda has begun the beta rollout of its new AI Assistant, designed to help tra ... September 15, 2026 / Product, Technology",
+      "url": "https://www.agoda.com/press/agoda-begins-limited-public-beta-of-new-ai-assistant-that-turns-travel-ideas-into-bookable-trips/",
+      "primary_url": "https://www.agoda.com/press/agoda-begins-limited-public-beta-of-new-ai-assistant-that-turns-travel-ideas-into-bookable-trips/",
+      "source": "Agoda",
+      "source_name": "Agoda",
+      "sources": [
+        {
+          "id": "hotelitem_d601b8535b89",
+          "title": "Agoda Begins Limited Public Beta of New AI A ... Digital travel platform Agoda has begun the beta rollout of its new AI Assistant, designed to help tra ... September 15, 2026 / Product, Technology",
+          "url": "https://www.agoda.com/press/agoda-begins-limited-public-beta-of-new-ai-assistant-that-turns-travel-ideas-into-bookable-trips/",
+          "source": "Agoda",
+          "source_name": "Agoda",
+          "site_id": "agoda_press",
+          "published_at": "2026-09-30T20:04:22.680891Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Agoda"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_d601b8535b89",
+          "title": "Agoda Begins Limited Public Beta of New AI A ... Digital travel platform Agoda has begun the beta rollout of its new AI Assistant, designed to help tra ... September 15, 2026 / Product, Technology",
+          "url": "https://www.agoda.com/press/agoda-begins-limited-public-beta-of-new-ai-assistant-that-turns-travel-ideas-into-bookable-trips/",
+          "source": "Agoda",
+          "source_name": "Agoda",
+          "site_id": "agoda_press",
+          "published_at": "2026-09-30T20:04:22.680891Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8125,
+      "importance": 0.6,
+      "importance_score": 0.8125,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-30T20:04:22.680891Z",
+      "latest_at": "2026-09-30T20:04:22.680891Z",
+      "primary_item": {
+        "id": "hotelitem_d601b8535b89",
+        "title": "Agoda Begins Limited Public Beta of New AI A ... Digital travel platform Agoda has begun the beta rollout of its new AI Assistant, designed to help tra ... September 15, 2026 / Product, Technology",
+        "url": "https://www.agoda.com/press/agoda-begins-limited-public-beta-of-new-ai-assistant-that-turns-travel-ideas-into-bookable-trips/",
+        "source": "Agoda",
+        "source_name": "Agoda"
       }
     }
   ]
