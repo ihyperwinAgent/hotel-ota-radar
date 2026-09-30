@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T05:37:49.280390Z",
+  "generated_at": "2026-09-30T12:41:00.865852Z",
   "window_hours": 1080,
   "total_stories": 30,
   "stories": [
@@ -38,14 +38,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9377,
-      "importance": 0.5976,
-      "importance_score": 0.9377,
+      "score": 0.9364,
+      "importance": 0.5963,
+      "importance_score": 0.9364,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.988,
+        "recency": 0.9815,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -97,14 +97,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.937,
-      "importance": 0.5969,
-      "importance_score": 0.937,
+      "score": 0.9358,
+      "importance": 0.5956,
+      "importance_score": 0.9358,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9846,
+        "recency": 0.9781,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -156,14 +156,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9313,
-      "importance": 0.5754,
-      "importance_score": 0.9313,
+      "score": 0.93,
+      "importance": 0.5741,
+      "importance_score": 0.93,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8771,
+        "recency": 0.8705,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -215,14 +215,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9273,
-      "importance": 0.5713,
-      "importance_score": 0.9273,
+      "score": 0.9261,
+      "importance": 0.57,
+      "importance_score": 0.9261,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8565,
+        "recency": 0.85,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -254,7 +254,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-09-30T05:37:49.280390Z"
+          "published_at": "2026-09-30T12:41:00.865852Z"
         }
       ],
       "source_count": 1,
@@ -269,7 +269,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-09-30T05:37:49.280390Z"
+          "published_at": "2026-09-30T12:41:00.865852Z"
         }
       ],
       "item_count": 1,
@@ -288,8 +288,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-30T05:37:49.280390Z",
-      "latest_at": "2026-09-30T05:37:49.280390Z",
+      "earliest_at": "2026-09-30T12:41:00.865852Z",
+      "latest_at": "2026-09-30T12:41:00.865852Z",
       "primary_item": {
         "id": "hotelitem_06f191e24d38",
         "title": "文旅惠报|复星国际申请分拆Club Med在港上市；南京商旅上半年营收3.66亿元",
@@ -333,14 +333,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8844,
-      "importance": 0.5993,
-      "importance_score": 0.8844,
+      "score": 0.8831,
+      "importance": 0.598,
+      "importance_score": 0.8831,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9967,
+        "recency": 0.9902,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -355,6 +355,65 @@
         "url": "https://www.pinchain.com/article/351445",
         "source": "品橙旅游",
         "source_name": "品橙旅游"
+      }
+    },
+    {
+      "story_id": "story_405279c1a456",
+      "title": "VisitEngland launches national campaign to boost coastal breaks and drive visitor spending",
+      "url": "https://insights.ehotelier.com/global-news/2026/09/30/visitengland-launches-national-campaign-to-boost-coastal-breaks-and-drive-visitor-spending/?utm_source=rss&utm_medium=rss&utm_campaign=visitengland-launches-national-campaign-to-boost-coastal-breaks-and-drive-visitor-spending",
+      "primary_url": "https://insights.ehotelier.com/global-news/2026/09/30/visitengland-launches-national-campaign-to-boost-coastal-breaks-and-drive-visitor-spending/?utm_source=rss&utm_medium=rss&utm_campaign=visitengland-launches-national-campaign-to-boost-coastal-breaks-and-drive-visitor-spending",
+      "source": "eHotelier",
+      "source_name": "eHotelier",
+      "sources": [
+        {
+          "id": "hotelitem_405279c1a456",
+          "title": "VisitEngland launches national campaign to boost coastal breaks and drive visitor spending",
+          "url": "https://insights.ehotelier.com/global-news/2026/09/30/visitengland-launches-national-campaign-to-boost-coastal-breaks-and-drive-visitor-spending/?utm_source=rss&utm_medium=rss&utm_campaign=visitengland-launches-national-campaign-to-boost-coastal-breaks-and-drive-visitor-spending",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-09-30T01:55:12Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "eHotelier"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_405279c1a456",
+          "title": "VisitEngland launches national campaign to boost coastal breaks and drive visitor spending",
+          "url": "https://insights.ehotelier.com/global-news/2026/09/30/visitengland-launches-national-campaign-to-boost-coastal-breaks-and-drive-visitor-spending/?utm_source=rss&utm_medium=rss&utm_campaign=visitengland-launches-national-campaign-to-boost-coastal-breaks-and-drive-visitor-spending",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-09-30T01:55:12Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8631,
+      "importance": 0.598,
+      "importance_score": 0.8631,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.99,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-30T01:55:12Z",
+      "latest_at": "2026-09-30T01:55:12Z",
+      "primary_item": {
+        "id": "hotelitem_405279c1a456",
+        "title": "VisitEngland launches national campaign to boost coastal breaks and drive visitor spending",
+        "url": "https://insights.ehotelier.com/global-news/2026/09/30/visitengland-launches-national-campaign-to-boost-coastal-breaks-and-drive-visitor-spending/?utm_source=rss&utm_medium=rss&utm_campaign=visitengland-launches-national-campaign-to-boost-coastal-breaks-and-drive-visitor-spending",
+        "source": "eHotelier",
+        "source_name": "eHotelier"
       }
     },
     {
@@ -392,14 +451,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8644,
-      "importance": 0.5993,
-      "importance_score": 0.8644,
+      "score": 0.8631,
+      "importance": 0.598,
+      "importance_score": 0.8631,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9967,
+        "recency": 0.9902,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -451,14 +510,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8644,
-      "importance": 0.5994,
-      "importance_score": 0.8644,
+      "score": 0.8631,
+      "importance": 0.5981,
+      "importance_score": 0.8631,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9968,
+        "recency": 0.9903,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -510,14 +569,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8643,
-      "importance": 0.5993,
-      "importance_score": 0.8643,
+      "score": 0.863,
+      "importance": 0.5979,
+      "importance_score": 0.863,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9963,
+        "recency": 0.9897,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -569,14 +628,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8643,
-      "importance": 0.5993,
-      "importance_score": 0.8643,
+      "score": 0.863,
+      "importance": 0.598,
+      "importance_score": 0.863,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9964,
+        "recency": 0.9899,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -589,65 +648,6 @@
         "id": "hotelitem_7045716724fc",
         "title": "Melissa Arana appointed Senior Vice President of Revenue Strategy at Remington Hospitality",
         "url": "https://insights.ehotelier.com/people/2026/09/30/melissa-arana-appointed-senior-vice-president-of-revenue-strategy-at-remington-hospitality/?utm_source=rss&utm_medium=rss&utm_campaign=melissa-arana-appointed-senior-vice-president-of-revenue-strategy-at-remington-hospitality",
-        "source": "eHotelier",
-        "source_name": "eHotelier"
-      }
-    },
-    {
-      "story_id": "story_405279c1a456",
-      "title": "VisitEngland launches national campaign to boost coastal breaks and drive visitor spending",
-      "url": "https://insights.ehotelier.com/global-news/2026/09/30/visitengland-launches-national-campaign-to-boost-coastal-breaks-and-drive-visitor-spending/?utm_source=rss&utm_medium=rss&utm_campaign=visitengland-launches-national-campaign-to-boost-coastal-breaks-and-drive-visitor-spending",
-      "primary_url": "https://insights.ehotelier.com/global-news/2026/09/30/visitengland-launches-national-campaign-to-boost-coastal-breaks-and-drive-visitor-spending/?utm_source=rss&utm_medium=rss&utm_campaign=visitengland-launches-national-campaign-to-boost-coastal-breaks-and-drive-visitor-spending",
-      "source": "eHotelier",
-      "source_name": "eHotelier",
-      "sources": [
-        {
-          "id": "hotelitem_405279c1a456",
-          "title": "VisitEngland launches national campaign to boost coastal breaks and drive visitor spending",
-          "url": "https://insights.ehotelier.com/global-news/2026/09/30/visitengland-launches-national-campaign-to-boost-coastal-breaks-and-drive-visitor-spending/?utm_source=rss&utm_medium=rss&utm_campaign=visitengland-launches-national-campaign-to-boost-coastal-breaks-and-drive-visitor-spending",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-09-30T01:55:12Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "eHotelier"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_405279c1a456",
-          "title": "VisitEngland launches national campaign to boost coastal breaks and drive visitor spending",
-          "url": "https://insights.ehotelier.com/global-news/2026/09/30/visitengland-launches-national-campaign-to-boost-coastal-breaks-and-drive-visitor-spending/?utm_source=rss&utm_medium=rss&utm_campaign=visitengland-launches-national-campaign-to-boost-coastal-breaks-and-drive-visitor-spending",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-09-30T01:55:12Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8643,
-      "importance": 0.5993,
-      "importance_score": 0.8643,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9966,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-30T01:55:12Z",
-      "latest_at": "2026-09-30T01:55:12Z",
-      "primary_item": {
-        "id": "hotelitem_405279c1a456",
-        "title": "VisitEngland launches national campaign to boost coastal breaks and drive visitor spending",
-        "url": "https://insights.ehotelier.com/global-news/2026/09/30/visitengland-launches-national-campaign-to-boost-coastal-breaks-and-drive-visitor-spending/?utm_source=rss&utm_medium=rss&utm_campaign=visitengland-launches-national-campaign-to-boost-coastal-breaks-and-drive-visitor-spending",
         "source": "eHotelier",
         "source_name": "eHotelier"
       }
@@ -687,14 +687,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8638,
-      "importance": 0.5988,
-      "importance_score": 0.8638,
+      "score": 0.8626,
+      "importance": 0.5975,
+      "importance_score": 0.8626,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9939,
+        "recency": 0.9873,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -726,7 +726,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-09-30T05:37:49.280390Z"
+          "published_at": "2026-09-30T12:41:00.865852Z"
         },
         {
           "id": "hotelitem_c7c15b7680c9",
@@ -735,7 +735,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-09-30T05:37:49.280390Z"
+          "published_at": "2026-09-30T12:41:00.865852Z"
         }
       ],
       "source_count": 2,
@@ -750,7 +750,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-09-30T05:37:49.280390Z"
+          "published_at": "2026-09-30T12:41:00.865852Z"
         },
         {
           "id": "hotelitem_c7c15b7680c9",
@@ -759,7 +759,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-09-30T05:37:49.280390Z"
+          "published_at": "2026-09-30T12:41:00.865852Z"
         }
       ],
       "item_count": 2,
@@ -779,8 +779,8 @@
         "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-30T05:37:49.280390Z",
-      "latest_at": "2026-09-30T05:37:49.280390Z",
+      "earliest_at": "2026-09-30T12:41:00.865852Z",
+      "latest_at": "2026-09-30T12:41:00.865852Z",
       "primary_item": {
         "id": "hotelitem_d4370964909c",
         "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
@@ -804,7 +804,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-09-30T05:37:49.280390Z"
+          "published_at": "2026-09-30T12:41:00.865852Z"
         },
         {
           "id": "hotelitem_1243e4eead68",
@@ -813,7 +813,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-09-30T05:37:49.280390Z"
+          "published_at": "2026-09-30T12:41:00.865852Z"
         }
       ],
       "source_count": 2,
@@ -828,7 +828,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-09-30T05:37:49.280390Z"
+          "published_at": "2026-09-30T12:41:00.865852Z"
         },
         {
           "id": "hotelitem_1243e4eead68",
@@ -837,7 +837,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-09-30T05:37:49.280390Z"
+          "published_at": "2026-09-30T12:41:00.865852Z"
         }
       ],
       "item_count": 2,
@@ -857,73 +857,14 @@
         "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-30T05:37:49.280390Z",
-      "latest_at": "2026-09-30T05:37:49.280390Z",
+      "earliest_at": "2026-09-30T12:41:00.865852Z",
+      "latest_at": "2026-09-30T12:41:00.865852Z",
       "primary_item": {
         "id": "hotelitem_b30c7ac8b6e5",
         "title": "指数发布 | 中国住宿业消费指数报告（2026年8月）发布 为贯彻落实提振消费相关政策，真实反映中国住宿餐饮业市场消费情况，以数据引导促消费政策精准发力，为行业发展提供参考建议，中国饭店协会每月公开发布“中国饭店业消费指数体系”，包含“中国住宿业消费指数（China Hotel Industry Consumption Index, HCI）”与“中国餐饮业消费指数（China Catering Industry Consumption Index, CCI）”，欢迎关注。\n本篇发布的是“中国住宿业消费指数”。",
         "url": "https://www.chinahotel.org.cn/articles/18010",
         "source": "中国饭店协会",
         "source_name": "中国饭店协会"
-      }
-    },
-    {
-      "story_id": "story_260d6ae0655e",
-      "title": "锦江酒店拟收购维也纳剩余10%股权",
-      "url": "https://www.meadin.com/jd/302069.html",
-      "primary_url": "https://www.meadin.com/jd/302069.html",
-      "source": "迈点研究院",
-      "source_name": "迈点研究院",
-      "sources": [
-        {
-          "id": "hotelitem_260d6ae0655e",
-          "title": "锦江酒店拟收购维也纳剩余10%股权",
-          "url": "https://www.meadin.com/jd/302069.html",
-          "source": "迈点研究院",
-          "source_name": "迈点研究院",
-          "site_id": "meadin",
-          "published_at": "2026-09-30T05:37:49.280390Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "迈点研究院"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_260d6ae0655e",
-          "title": "锦江酒店拟收购维也纳剩余10%股权",
-          "url": "https://www.meadin.com/jd/302069.html",
-          "source": "迈点研究院",
-          "source_name": "迈点研究院",
-          "site_id": "meadin",
-          "published_at": "2026-09-30T05:37:49.280390Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.86,
-      "importance": 0.6,
-      "importance_score": 0.86,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-30T05:37:49.280390Z",
-      "latest_at": "2026-09-30T05:37:49.280390Z",
-      "primary_item": {
-        "id": "hotelitem_260d6ae0655e",
-        "title": "锦江酒店拟收购维也纳剩余10%股权",
-        "url": "https://www.meadin.com/jd/302069.html",
-        "source": "迈点研究院",
-        "source_name": "迈点研究院"
       }
     },
     {
@@ -941,7 +882,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-09-30T05:37:49.280390Z"
+          "published_at": "2026-09-30T12:41:00.865852Z"
         }
       ],
       "source_count": 1,
@@ -956,7 +897,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-09-30T05:37:49.280390Z"
+          "published_at": "2026-09-30T12:41:00.865852Z"
         }
       ],
       "item_count": 1,
@@ -975,8 +916,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-30T05:37:49.280390Z",
-      "latest_at": "2026-09-30T05:37:49.280390Z",
+      "earliest_at": "2026-09-30T12:41:00.865852Z",
+      "latest_at": "2026-09-30T12:41:00.865852Z",
       "primary_item": {
         "id": "hotelitem_e4ce0593c384",
         "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
@@ -1000,7 +941,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-09-30T05:37:49.280390Z"
+          "published_at": "2026-09-30T12:41:00.865852Z"
         }
       ],
       "source_count": 1,
@@ -1015,7 +956,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-09-30T05:37:49.280390Z"
+          "published_at": "2026-09-30T12:41:00.865852Z"
         }
       ],
       "item_count": 1,
@@ -1034,8 +975,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-30T05:37:49.280390Z",
-      "latest_at": "2026-09-30T05:37:49.280390Z",
+      "earliest_at": "2026-09-30T12:41:00.865852Z",
+      "latest_at": "2026-09-30T12:41:00.865852Z",
       "primary_item": {
         "id": "hotelitem_b0f4757ffc95",
         "title": "文化和旅游部 中国气象局联合发布2026年国庆...",
@@ -1059,7 +1000,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-09-30T05:37:49.280390Z"
+          "published_at": "2026-09-30T12:41:00.865852Z"
         }
       ],
       "source_count": 1,
@@ -1074,7 +1015,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-09-30T05:37:49.280390Z"
+          "published_at": "2026-09-30T12:41:00.865852Z"
         }
       ],
       "item_count": 1,
@@ -1093,8 +1034,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-30T05:37:49.280390Z",
-      "latest_at": "2026-09-30T05:37:49.280390Z",
+      "earliest_at": "2026-09-30T12:41:00.865852Z",
+      "latest_at": "2026-09-30T12:41:00.865852Z",
       "primary_item": {
         "id": "hotelitem_8dd9d6a00599",
         "title": "文化和旅游部中秋、国庆假期出游提示",
@@ -1118,7 +1059,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-09-30T05:37:49.280390Z"
+          "published_at": "2026-09-30T12:41:00.865852Z"
         }
       ],
       "source_count": 1,
@@ -1133,7 +1074,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-09-30T05:37:49.280390Z"
+          "published_at": "2026-09-30T12:41:00.865852Z"
         }
       ],
       "item_count": 1,
@@ -1152,12 +1093,71 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-30T05:37:49.280390Z",
-      "latest_at": "2026-09-30T05:37:49.280390Z",
+      "earliest_at": "2026-09-30T12:41:00.865852Z",
+      "latest_at": "2026-09-30T12:41:00.865852Z",
       "primary_item": {
         "id": "hotelitem_c3e3aec156b1",
         "title": "文化和旅游部印发《公共文化服务体系建设“...",
         "url": "https://www.mct.gov.cn/whzx/whyw/202609/t20260920_967198.htm",
+        "source": "文化和旅游部",
+        "source_name": "文化和旅游部"
+      }
+    },
+    {
+      "story_id": "story_e63a36930397",
+      "title": "文化和旅游部印发《艺术发展“十五五”规划》",
+      "url": "https://www.mct.gov.cn/whzx/whyw/202609/t20260930_967299.htm",
+      "primary_url": "https://www.mct.gov.cn/whzx/whyw/202609/t20260930_967299.htm",
+      "source": "文化和旅游部",
+      "source_name": "文化和旅游部",
+      "sources": [
+        {
+          "id": "hotelitem_e63a36930397",
+          "title": "文化和旅游部印发《艺术发展“十五五”规划》",
+          "url": "https://www.mct.gov.cn/whzx/whyw/202609/t20260930_967299.htm",
+          "source": "文化和旅游部",
+          "source_name": "文化和旅游部",
+          "site_id": "mct",
+          "published_at": "2026-09-30T12:41:00.865852Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "文化和旅游部"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_e63a36930397",
+          "title": "文化和旅游部印发《艺术发展“十五五”规划》",
+          "url": "https://www.mct.gov.cn/whzx/whyw/202609/t20260930_967299.htm",
+          "source": "文化和旅游部",
+          "source_name": "文化和旅游部",
+          "site_id": "mct",
+          "published_at": "2026-09-30T12:41:00.865852Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.858,
+      "importance": 0.6,
+      "importance_score": 0.858,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-30T12:41:00.865852Z",
+      "latest_at": "2026-09-30T12:41:00.865852Z",
+      "primary_item": {
+        "id": "hotelitem_e63a36930397",
+        "title": "文化和旅游部印发《艺术发展“十五五”规划》",
+        "url": "https://www.mct.gov.cn/whzx/whyw/202609/t20260930_967299.htm",
         "source": "文化和旅游部",
         "source_name": "文化和旅游部"
       }
@@ -1177,7 +1177,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-09-30T05:37:49.280390Z"
+          "published_at": "2026-09-30T12:41:00.865852Z"
         }
       ],
       "source_count": 1,
@@ -1192,7 +1192,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-09-30T05:37:49.280390Z"
+          "published_at": "2026-09-30T12:41:00.865852Z"
         }
       ],
       "item_count": 1,
@@ -1211,73 +1211,14 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-30T05:37:49.280390Z",
-      "latest_at": "2026-09-30T05:37:49.280390Z",
+      "earliest_at": "2026-09-30T12:41:00.865852Z",
+      "latest_at": "2026-09-30T12:41:00.865852Z",
       "primary_item": {
         "id": "hotelitem_8f218475e743",
         "title": "文化和旅游部发布2026年上半年国内居民出游数据情况",
         "url": "https://www.ctaweb.org.cn/gongzuodongtai/10523.html",
         "source": "中国旅游研究院",
         "source_name": "中国旅游研究院"
-      }
-    },
-    {
-      "story_id": "story_42fdac876397",
-      "title": "文化和旅游部发布《文化产业发展“十五五”...",
-      "url": "https://www.mct.gov.cn/whzx/whyw/202609/t20260918_967186.htm",
-      "primary_url": "https://www.mct.gov.cn/whzx/whyw/202609/t20260918_967186.htm",
-      "source": "文化和旅游部",
-      "source_name": "文化和旅游部",
-      "sources": [
-        {
-          "id": "hotelitem_42fdac876397",
-          "title": "文化和旅游部发布《文化产业发展“十五五”...",
-          "url": "https://www.mct.gov.cn/whzx/whyw/202609/t20260918_967186.htm",
-          "source": "文化和旅游部",
-          "source_name": "文化和旅游部",
-          "site_id": "mct",
-          "published_at": "2026-09-30T05:37:49.280390Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "文化和旅游部"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_42fdac876397",
-          "title": "文化和旅游部发布《文化产业发展“十五五”...",
-          "url": "https://www.mct.gov.cn/whzx/whyw/202609/t20260918_967186.htm",
-          "source": "文化和旅游部",
-          "source_name": "文化和旅游部",
-          "site_id": "mct",
-          "published_at": "2026-09-30T05:37:49.280390Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.858,
-      "importance": 0.6,
-      "importance_score": 0.858,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-30T05:37:49.280390Z",
-      "latest_at": "2026-09-30T05:37:49.280390Z",
-      "primary_item": {
-        "id": "hotelitem_42fdac876397",
-        "title": "文化和旅游部发布《文化产业发展“十五五”...",
-        "url": "https://www.mct.gov.cn/whzx/whyw/202609/t20260918_967186.htm",
-        "source": "文化和旅游部",
-        "source_name": "文化和旅游部"
       }
     },
     {
@@ -1315,14 +1256,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8578,
-      "importance": 0.5926,
-      "importance_score": 0.8578,
+      "score": 0.8566,
+      "importance": 0.5912,
+      "importance_score": 0.8566,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9628,
+        "recency": 0.9562,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1337,6 +1278,183 @@
         "url": "https://www.hoteldive.com/news/hotel-openings-fall-2026/831460/",
         "source": "Hotel Dive",
         "source_name": "Hotel Dive"
+      }
+    },
+    {
+      "story_id": "story_c80338812856",
+      "title": "Spire Hospitality Launches Strategic Asset Performance Division and Names Senior Vice President",
+      "url": "https://lodgingmagazine.com/spire-hospitality-launches-strategic-asset-performance-division-and-names-senior-vice-president/",
+      "primary_url": "https://lodgingmagazine.com/spire-hospitality-launches-strategic-asset-performance-division-and-names-senior-vice-president/",
+      "source": "Lodging Magazine",
+      "source_name": "Lodging Magazine",
+      "sources": [
+        {
+          "id": "hotelitem_c80338812856",
+          "title": "Spire Hospitality Launches Strategic Asset Performance Division and Names Senior Vice President",
+          "url": "https://lodgingmagazine.com/spire-hospitality-launches-strategic-asset-performance-division-and-names-senior-vice-president/",
+          "source": "Lodging Magazine",
+          "source_name": "Lodging Magazine",
+          "site_id": "lodgingmag",
+          "published_at": "2026-09-30T12:33:12Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Lodging Magazine"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_c80338812856",
+          "title": "Spire Hospitality Launches Strategic Asset Performance Division and Names Senior Vice President",
+          "url": "https://lodgingmagazine.com/spire-hospitality-launches-strategic-asset-performance-division-and-names-senior-vice-president/",
+          "source": "Lodging Magazine",
+          "source_name": "Lodging Magazine",
+          "site_id": "lodgingmag",
+          "published_at": "2026-09-30T12:33:12Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.85,
+      "importance": 0.6,
+      "importance_score": 0.85,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9999,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-30T12:33:12Z",
+      "latest_at": "2026-09-30T12:33:12Z",
+      "primary_item": {
+        "id": "hotelitem_c80338812856",
+        "title": "Spire Hospitality Launches Strategic Asset Performance Division and Names Senior Vice President",
+        "url": "https://lodgingmagazine.com/spire-hospitality-launches-strategic-asset-performance-division-and-names-senior-vice-president/",
+        "source": "Lodging Magazine",
+        "source_name": "Lodging Magazine"
+      }
+    },
+    {
+      "story_id": "story_339fd17a21df",
+      "title": "PIP Flexibility: 5 Ways Hoteliers Can Build a Stronger Case to Negotiate With Brands",
+      "url": "https://lodgingmagazine.com/pip-flexibility-5-ways-hoteliers-can-build-a-stronger-case-to-negotiate-with-brands/",
+      "primary_url": "https://lodgingmagazine.com/pip-flexibility-5-ways-hoteliers-can-build-a-stronger-case-to-negotiate-with-brands/",
+      "source": "Lodging Magazine",
+      "source_name": "Lodging Magazine",
+      "sources": [
+        {
+          "id": "hotelitem_339fd17a21df",
+          "title": "PIP Flexibility: 5 Ways Hoteliers Can Build a Stronger Case to Negotiate With Brands",
+          "url": "https://lodgingmagazine.com/pip-flexibility-5-ways-hoteliers-can-build-a-stronger-case-to-negotiate-with-brands/",
+          "source": "Lodging Magazine",
+          "source_name": "Lodging Magazine",
+          "site_id": "lodgingmag",
+          "published_at": "2026-09-29T15:51:06Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Lodging Magazine"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_339fd17a21df",
+          "title": "PIP Flexibility: 5 Ways Hoteliers Can Build a Stronger Case to Negotiate With Brands",
+          "url": "https://lodgingmagazine.com/pip-flexibility-5-ways-hoteliers-can-build-a-stronger-case-to-negotiate-with-brands/",
+          "source": "Lodging Magazine",
+          "source_name": "Lodging Magazine",
+          "site_id": "lodgingmag",
+          "published_at": "2026-09-29T15:51:06Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8463,
+      "importance": 0.5961,
+      "importance_score": 0.8463,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9807,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-29T15:51:06Z",
+      "latest_at": "2026-09-29T15:51:06Z",
+      "primary_item": {
+        "id": "hotelitem_339fd17a21df",
+        "title": "PIP Flexibility: 5 Ways Hoteliers Can Build a Stronger Case to Negotiate With Brands",
+        "url": "https://lodgingmagazine.com/pip-flexibility-5-ways-hoteliers-can-build-a-stronger-case-to-negotiate-with-brands/",
+        "source": "Lodging Magazine",
+        "source_name": "Lodging Magazine"
+      }
+    },
+    {
+      "story_id": "story_8bf6de88d238",
+      "title": "Remington Hospitality Appoints New Senior Vice President of Revenue Strategy",
+      "url": "https://lodgingmagazine.com/remington-hospitality-appoints-new-senior-vice-president-of-revenue-strategy/",
+      "primary_url": "https://lodgingmagazine.com/remington-hospitality-appoints-new-senior-vice-president-of-revenue-strategy/",
+      "source": "Lodging Magazine",
+      "source_name": "Lodging Magazine",
+      "sources": [
+        {
+          "id": "hotelitem_8bf6de88d238",
+          "title": "Remington Hospitality Appoints New Senior Vice President of Revenue Strategy",
+          "url": "https://lodgingmagazine.com/remington-hospitality-appoints-new-senior-vice-president-of-revenue-strategy/",
+          "source": "Lodging Magazine",
+          "source_name": "Lodging Magazine",
+          "site_id": "lodgingmag",
+          "published_at": "2026-09-29T14:07:55Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Lodging Magazine"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_8bf6de88d238",
+          "title": "Remington Hospitality Appoints New Senior Vice President of Revenue Strategy",
+          "url": "https://lodgingmagazine.com/remington-hospitality-appoints-new-senior-vice-president-of-revenue-strategy/",
+          "source": "Lodging Magazine",
+          "source_name": "Lodging Magazine",
+          "site_id": "lodgingmag",
+          "published_at": "2026-09-29T14:07:55Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.846,
+      "importance": 0.5958,
+      "importance_score": 0.846,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9791,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-29T14:07:55Z",
+      "latest_at": "2026-09-29T14:07:55Z",
+      "primary_item": {
+        "id": "hotelitem_8bf6de88d238",
+        "title": "Remington Hospitality Appoints New Senior Vice President of Revenue Strategy",
+        "url": "https://lodgingmagazine.com/remington-hospitality-appoints-new-senior-vice-president-of-revenue-strategy/",
+        "source": "Lodging Magazine",
+        "source_name": "Lodging Magazine"
       }
     },
     {
@@ -1374,14 +1492,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8465,
-      "importance": 0.5964,
-      "importance_score": 0.8465,
+      "score": 0.8453,
+      "importance": 0.5951,
+      "importance_score": 0.8453,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9821,
+        "recency": 0.9755,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1396,6 +1514,65 @@
         "url": "https://boutiquehotelnews.com/news/movers-and-shakers/ercolano-gm-westfill-mayfair/?utm_source=rss&utm_medium=rss&utm_campaign=ercolano-gm-westfill-mayfair",
         "source": "Boutique Hotel News",
         "source_name": "Boutique Hotel News"
+      }
+    },
+    {
+      "story_id": "story_d5a9c738d130",
+      "title": "CoStar Reports Positive U.S. Hotel Industry Performance Results in August",
+      "url": "https://lodgingmagazine.com/costar-reports-positive-u-s-hotel-industry-performance-results-in-august/",
+      "primary_url": "https://lodgingmagazine.com/costar-reports-positive-u-s-hotel-industry-performance-results-in-august/",
+      "source": "Lodging Magazine",
+      "source_name": "Lodging Magazine",
+      "sources": [
+        {
+          "id": "hotelitem_d5a9c738d130",
+          "title": "CoStar Reports Positive U.S. Hotel Industry Performance Results in August",
+          "url": "https://lodgingmagazine.com/costar-reports-positive-u-s-hotel-industry-performance-results-in-august/",
+          "source": "Lodging Magazine",
+          "source_name": "Lodging Magazine",
+          "site_id": "lodgingmag",
+          "published_at": "2026-09-28T19:32:33Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Lodging Magazine"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_d5a9c738d130",
+          "title": "CoStar Reports Positive U.S. Hotel Industry Performance Results in August",
+          "url": "https://lodgingmagazine.com/costar-reports-positive-u-s-hotel-industry-performance-results-in-august/",
+          "source": "Lodging Magazine",
+          "source_name": "Lodging Magazine",
+          "site_id": "lodgingmag",
+          "published_at": "2026-09-28T19:32:33Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8427,
+      "importance": 0.5924,
+      "importance_score": 0.8427,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9619,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-28T19:32:33Z",
+      "latest_at": "2026-09-28T19:32:33Z",
+      "primary_item": {
+        "id": "hotelitem_d5a9c738d130",
+        "title": "CoStar Reports Positive U.S. Hotel Industry Performance Results in August",
+        "url": "https://lodgingmagazine.com/costar-reports-positive-u-s-hotel-industry-performance-results-in-august/",
+        "source": "Lodging Magazine",
+        "source_name": "Lodging Magazine"
       }
     },
     {
@@ -1433,14 +1610,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8411,
-      "importance": 0.5752,
-      "importance_score": 0.8411,
+      "score": 0.8398,
+      "importance": 0.5739,
+      "importance_score": 0.8398,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.876,
+        "recency": 0.8694,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1455,65 +1632,6 @@
         "url": "https://www.hotelmanagement.net/resource/unifocus-claira-workforce-management-redefined",
         "source": "Hotel Management",
         "source_name": "Hotel Management"
-      }
-    },
-    {
-      "story_id": "story_1a580608bdd9",
-      "title": "Treehouse Hotel Manchester unveils rooftop expansion",
-      "url": "https://boutiquehotelnews.com/news/hotel/treehouse-hotel-manchester-expansion/?utm_source=rss&utm_medium=rss&utm_campaign=treehouse-hotel-manchester-expansion",
-      "primary_url": "https://boutiquehotelnews.com/news/hotel/treehouse-hotel-manchester-expansion/?utm_source=rss&utm_medium=rss&utm_campaign=treehouse-hotel-manchester-expansion",
-      "source": "Boutique Hotel News",
-      "source_name": "Boutique Hotel News",
-      "sources": [
-        {
-          "id": "hotelitem_1a580608bdd9",
-          "title": "Treehouse Hotel Manchester unveils rooftop expansion",
-          "url": "https://boutiquehotelnews.com/news/hotel/treehouse-hotel-manchester-expansion/?utm_source=rss&utm_medium=rss&utm_campaign=treehouse-hotel-manchester-expansion",
-          "source": "Boutique Hotel News",
-          "source_name": "Boutique Hotel News",
-          "site_id": "boutiquehotel",
-          "published_at": "2026-09-23T09:07:31Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Boutique Hotel News"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_1a580608bdd9",
-          "title": "Treehouse Hotel Manchester unveils rooftop expansion",
-          "url": "https://boutiquehotelnews.com/news/hotel/treehouse-hotel-manchester-expansion/?utm_source=rss&utm_medium=rss&utm_campaign=treehouse-hotel-manchester-expansion",
-          "source": "Boutique Hotel News",
-          "source_name": "Boutique Hotel News",
-          "site_id": "boutiquehotel",
-          "published_at": "2026-09-23T09:07:31Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8206,
-      "importance": 0.5695,
-      "importance_score": 0.8206,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.8477,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-23T09:07:31Z",
-      "latest_at": "2026-09-23T09:07:31Z",
-      "primary_item": {
-        "id": "hotelitem_1a580608bdd9",
-        "title": "Treehouse Hotel Manchester unveils rooftop expansion",
-        "url": "https://boutiquehotelnews.com/news/hotel/treehouse-hotel-manchester-expansion/?utm_source=rss&utm_medium=rss&utm_campaign=treehouse-hotel-manchester-expansion",
-        "source": "Boutique Hotel News",
-        "source_name": "Boutique Hotel News"
       }
     },
     {
@@ -1551,14 +1669,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8193,
-      "importance": 0.5993,
-      "importance_score": 0.8193,
+      "score": 0.818,
+      "importance": 0.598,
+      "importance_score": 0.818,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9963,
+        "recency": 0.9898,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1610,14 +1728,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8171,
-      "importance": 0.5996,
-      "importance_score": 0.8171,
+      "score": 0.8159,
+      "importance": 0.5983,
+      "importance_score": 0.8159,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9981,
+        "recency": 0.9916,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1669,14 +1787,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8169,
-      "importance": 0.5994,
-      "importance_score": 0.8169,
+      "score": 0.8156,
+      "importance": 0.598,
+      "importance_score": 0.8156,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9968,
+        "recency": 0.9902,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1691,124 +1809,6 @@
         "url": "https://www.pinchain.com/article/351446",
         "source": "品橙旅游",
         "source_name": "品橙旅游"
-      }
-    },
-    {
-      "story_id": "story_d601b8535b89",
-      "title": "Agoda Begins Limited Public Beta of New AI A ... Digital travel platform Agoda has begun the beta rollout of its new AI Assistant, designed to help tra ... September 15, 2026 / Product, Technology",
-      "url": "https://www.agoda.com/press/agoda-begins-limited-public-beta-of-new-ai-assistant-that-turns-travel-ideas-into-bookable-trips/",
-      "primary_url": "https://www.agoda.com/press/agoda-begins-limited-public-beta-of-new-ai-assistant-that-turns-travel-ideas-into-bookable-trips/",
-      "source": "Agoda",
-      "source_name": "Agoda",
-      "sources": [
-        {
-          "id": "hotelitem_d601b8535b89",
-          "title": "Agoda Begins Limited Public Beta of New AI A ... Digital travel platform Agoda has begun the beta rollout of its new AI Assistant, designed to help tra ... September 15, 2026 / Product, Technology",
-          "url": "https://www.agoda.com/press/agoda-begins-limited-public-beta-of-new-ai-assistant-that-turns-travel-ideas-into-bookable-trips/",
-          "source": "Agoda",
-          "source_name": "Agoda",
-          "site_id": "agoda_press",
-          "published_at": "2026-09-30T05:37:49.280390Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Agoda"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_d601b8535b89",
-          "title": "Agoda Begins Limited Public Beta of New AI A ... Digital travel platform Agoda has begun the beta rollout of its new AI Assistant, designed to help tra ... September 15, 2026 / Product, Technology",
-          "url": "https://www.agoda.com/press/agoda-begins-limited-public-beta-of-new-ai-assistant-that-turns-travel-ideas-into-bookable-trips/",
-          "source": "Agoda",
-          "source_name": "Agoda",
-          "site_id": "agoda_press",
-          "published_at": "2026-09-30T05:37:49.280390Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8125,
-      "importance": 0.6,
-      "importance_score": 0.8125,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-30T05:37:49.280390Z",
-      "latest_at": "2026-09-30T05:37:49.280390Z",
-      "primary_item": {
-        "id": "hotelitem_d601b8535b89",
-        "title": "Agoda Begins Limited Public Beta of New AI A ... Digital travel platform Agoda has begun the beta rollout of its new AI Assistant, designed to help tra ... September 15, 2026 / Product, Technology",
-        "url": "https://www.agoda.com/press/agoda-begins-limited-public-beta-of-new-ai-assistant-that-turns-travel-ideas-into-bookable-trips/",
-        "source": "Agoda",
-        "source_name": "Agoda"
-      }
-    },
-    {
-      "story_id": "story_69c4ef2b3d80",
-      "title": "Agoda Partners Kaohsiung City Government to  ... Digital travel platform Agoda and the Kaohsiung City Government have signed a Memorandum of Understand ... September 11, 2026 / Partnership",
-      "url": "https://www.agoda.com/press/agoda-partners-kaohsiung-city-government/",
-      "primary_url": "https://www.agoda.com/press/agoda-partners-kaohsiung-city-government/",
-      "source": "Agoda",
-      "source_name": "Agoda",
-      "sources": [
-        {
-          "id": "hotelitem_69c4ef2b3d80",
-          "title": "Agoda Partners Kaohsiung City Government to  ... Digital travel platform Agoda and the Kaohsiung City Government have signed a Memorandum of Understand ... September 11, 2026 / Partnership",
-          "url": "https://www.agoda.com/press/agoda-partners-kaohsiung-city-government/",
-          "source": "Agoda",
-          "source_name": "Agoda",
-          "site_id": "agoda_press",
-          "published_at": "2026-09-30T05:37:49.280390Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Agoda"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_69c4ef2b3d80",
-          "title": "Agoda Partners Kaohsiung City Government to  ... Digital travel platform Agoda and the Kaohsiung City Government have signed a Memorandum of Understand ... September 11, 2026 / Partnership",
-          "url": "https://www.agoda.com/press/agoda-partners-kaohsiung-city-government/",
-          "source": "Agoda",
-          "source_name": "Agoda",
-          "site_id": "agoda_press",
-          "published_at": "2026-09-30T05:37:49.280390Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8125,
-      "importance": 0.6,
-      "importance_score": 0.8125,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-30T05:37:49.280390Z",
-      "latest_at": "2026-09-30T05:37:49.280390Z",
-      "primary_item": {
-        "id": "hotelitem_69c4ef2b3d80",
-        "title": "Agoda Partners Kaohsiung City Government to  ... Digital travel platform Agoda and the Kaohsiung City Government have signed a Memorandum of Understand ... September 11, 2026 / Partnership",
-        "url": "https://www.agoda.com/press/agoda-partners-kaohsiung-city-government/",
-        "source": "Agoda",
-        "source_name": "Agoda"
       }
     }
   ]
