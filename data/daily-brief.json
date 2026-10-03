@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T22:17:34.304140Z",
+  "generated_at": "2026-10-03T05:23:11.946448Z",
   "window_hours": 1080,
   "total_items": 30,
   "items": [
@@ -38,14 +38,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9534,
-      "importance": 0.5984,
-      "importance_score": 0.9534,
+      "score": 0.9522,
+      "importance": 0.5971,
+      "importance_score": 0.9522,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9919,
+        "recency": 0.9853,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -97,14 +97,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9514,
-      "importance": 0.5962,
-      "importance_score": 0.9514,
+      "score": 0.9501,
+      "importance": 0.5949,
+      "importance_score": 0.9501,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9811,
+        "recency": 0.9746,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -156,14 +156,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9514,
-      "importance": 0.5963,
-      "importance_score": 0.9514,
+      "score": 0.9501,
+      "importance": 0.5949,
+      "importance_score": 0.9501,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9813,
+        "recency": 0.9747,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -215,14 +215,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9514,
-      "importance": 0.5963,
-      "importance_score": 0.9514,
+      "score": 0.9501,
+      "importance": 0.595,
+      "importance_score": 0.9501,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9814,
+        "recency": 0.9748,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -274,14 +274,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9449,
-      "importance": 0.5895,
-      "importance_score": 0.9449,
+      "score": 0.9436,
+      "importance": 0.5882,
+      "importance_score": 0.9436,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9476,
+        "recency": 0.941,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -299,6 +299,85 @@
       }
     },
     {
+      "story_id": "story_e63a36930397",
+      "title": "文化和旅游部印发《艺术发展“十五五”规划》",
+      "url": "https://www.mct.gov.cn/whzx/whyw/202609/t20260930_967299.htm",
+      "primary_url": "https://www.mct.gov.cn/whzx/whyw/202609/t20260930_967299.htm",
+      "source": "文化和旅游部",
+      "source_name": "文化和旅游部",
+      "sources": [
+        {
+          "id": "hotelitem_e63a36930397",
+          "title": "文化和旅游部印发《艺术发展“十五五”规划》",
+          "url": "https://www.mct.gov.cn/whzx/whyw/202609/t20260930_967299.htm",
+          "source": "文化和旅游部",
+          "source_name": "文化和旅游部",
+          "site_id": "mct",
+          "published_at": "2026-10-03T05:23:11.946448Z"
+        },
+        {
+          "id": "hotelitem_6efc76026b20",
+          "title": "文化和旅游部印发《艺术发展“十五五”规划》",
+          "url": "https://www.meadin.com/wl/302176.html",
+          "source": "迈点研究院",
+          "source_name": "迈点研究院",
+          "site_id": "meadin",
+          "published_at": "2026-10-03T05:23:11.946448Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "文化和旅游部",
+        "迈点研究院"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_e63a36930397",
+          "title": "文化和旅游部印发《艺术发展“十五五”规划》",
+          "url": "https://www.mct.gov.cn/whzx/whyw/202609/t20260930_967299.htm",
+          "source": "文化和旅游部",
+          "source_name": "文化和旅游部",
+          "site_id": "mct",
+          "published_at": "2026-10-03T05:23:11.946448Z"
+        },
+        {
+          "id": "hotelitem_6efc76026b20",
+          "title": "文化和旅游部印发《艺术发展“十五五”规划》",
+          "url": "https://www.meadin.com/wl/302176.html",
+          "source": "迈点研究院",
+          "source_name": "迈点研究院",
+          "site_id": "meadin",
+          "published_at": "2026-10-03T05:23:11.946448Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.908,
+      "importance": 0.625,
+      "importance_score": 0.908,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-03T05:23:11.946448Z",
+      "latest_at": "2026-10-03T05:23:11.946448Z",
+      "primary_item": {
+        "id": "hotelitem_e63a36930397",
+        "title": "文化和旅游部印发《艺术发展“十五五”规划》",
+        "url": "https://www.mct.gov.cn/whzx/whyw/202609/t20260930_967299.htm",
+        "source": "文化和旅游部",
+        "source_name": "文化和旅游部"
+      }
+    },
+    {
       "story_id": "story_06f191e24d38",
       "title": "文旅惠报|复星国际申请分拆Club Med在港上市；南京商旅上半年营收3.66亿元",
       "url": "https://www.tripvivid.com/47868.html",
@@ -313,7 +392,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-10-02T22:17:34.304140Z"
+          "published_at": "2026-10-03T05:23:11.946448Z"
         }
       ],
       "source_count": 1,
@@ -328,7 +407,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-10-02T22:17:34.304140Z"
+          "published_at": "2026-10-03T05:23:11.946448Z"
         }
       ],
       "item_count": 1,
@@ -347,8 +426,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-02T22:17:34.304140Z",
-      "latest_at": "2026-10-02T22:17:34.304140Z",
+      "earliest_at": "2026-10-03T05:23:11.946448Z",
+      "latest_at": "2026-10-03T05:23:11.946448Z",
       "primary_item": {
         "id": "hotelitem_06f191e24d38",
         "title": "文旅惠报|复星国际申请分拆Club Med在港上市；南京商旅上半年营收3.66亿元",
@@ -372,7 +451,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-10-02T22:17:34.304140Z"
+          "published_at": "2026-10-03T05:23:11.946448Z"
         },
         {
           "id": "hotelitem_c7c15b7680c9",
@@ -381,7 +460,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-10-02T22:17:34.304140Z"
+          "published_at": "2026-10-03T05:23:11.946448Z"
         }
       ],
       "source_count": 2,
@@ -396,7 +475,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-10-02T22:17:34.304140Z"
+          "published_at": "2026-10-03T05:23:11.946448Z"
         },
         {
           "id": "hotelitem_c7c15b7680c9",
@@ -405,7 +484,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-10-02T22:17:34.304140Z"
+          "published_at": "2026-10-03T05:23:11.946448Z"
         }
       ],
       "item_count": 2,
@@ -425,8 +504,8 @@
         "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-02T22:17:34.304140Z",
-      "latest_at": "2026-10-02T22:17:34.304140Z",
+      "earliest_at": "2026-10-03T05:23:11.946448Z",
+      "latest_at": "2026-10-03T05:23:11.946448Z",
       "primary_item": {
         "id": "hotelitem_d4370964909c",
         "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
@@ -450,7 +529,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-10-02T22:17:34.304140Z"
+          "published_at": "2026-10-03T05:23:11.946448Z"
         },
         {
           "id": "hotelitem_1243e4eead68",
@@ -459,7 +538,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-10-02T22:17:34.304140Z"
+          "published_at": "2026-10-03T05:23:11.946448Z"
         }
       ],
       "source_count": 2,
@@ -474,7 +553,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-10-02T22:17:34.304140Z"
+          "published_at": "2026-10-03T05:23:11.946448Z"
         },
         {
           "id": "hotelitem_1243e4eead68",
@@ -483,7 +562,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-10-02T22:17:34.304140Z"
+          "published_at": "2026-10-03T05:23:11.946448Z"
         }
       ],
       "item_count": 2,
@@ -503,14 +582,73 @@
         "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-02T22:17:34.304140Z",
-      "latest_at": "2026-10-02T22:17:34.304140Z",
+      "earliest_at": "2026-10-03T05:23:11.946448Z",
+      "latest_at": "2026-10-03T05:23:11.946448Z",
       "primary_item": {
         "id": "hotelitem_b30c7ac8b6e5",
         "title": "指数发布 | 中国住宿业消费指数报告（2026年8月）发布 为贯彻落实提振消费相关政策，真实反映中国住宿餐饮业市场消费情况，以数据引导促消费政策精准发力，为行业发展提供参考建议，中国饭店协会每月公开发布“中国饭店业消费指数体系”，包含“中国住宿业消费指数（China Hotel Industry Consumption Index, HCI）”与“中国餐饮业消费指数（China Catering Industry Consumption Index, CCI）”，欢迎关注。\n本篇发布的是“中国住宿业消费指数”。",
         "url": "https://www.chinahotel.org.cn/articles/18010",
         "source": "中国饭店协会",
         "source_name": "中国饭店协会"
+      }
+    },
+    {
+      "story_id": "story_31fadaa4ed66",
+      "title": "凯悦集团发布最新高管任命",
+      "url": "https://www.meadin.com/jd/302175.html",
+      "primary_url": "https://www.meadin.com/jd/302175.html",
+      "source": "迈点研究院",
+      "source_name": "迈点研究院",
+      "sources": [
+        {
+          "id": "hotelitem_31fadaa4ed66",
+          "title": "凯悦集团发布最新高管任命",
+          "url": "https://www.meadin.com/jd/302175.html",
+          "source": "迈点研究院",
+          "source_name": "迈点研究院",
+          "site_id": "meadin",
+          "published_at": "2026-10-03T05:23:11.946448Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "迈点研究院"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_31fadaa4ed66",
+          "title": "凯悦集团发布最新高管任命",
+          "url": "https://www.meadin.com/jd/302175.html",
+          "source": "迈点研究院",
+          "source_name": "迈点研究院",
+          "site_id": "meadin",
+          "published_at": "2026-10-03T05:23:11.946448Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.86,
+      "importance": 0.6,
+      "importance_score": 0.86,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-03T05:23:11.946448Z",
+      "latest_at": "2026-10-03T05:23:11.946448Z",
+      "primary_item": {
+        "id": "hotelitem_31fadaa4ed66",
+        "title": "凯悦集团发布最新高管任命",
+        "url": "https://www.meadin.com/jd/302175.html",
+        "source": "迈点研究院",
+        "source_name": "迈点研究院"
       }
     },
     {
@@ -528,7 +666,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-10-02T22:17:34.304140Z"
+          "published_at": "2026-10-03T05:23:11.946448Z"
         }
       ],
       "source_count": 1,
@@ -543,7 +681,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-10-02T22:17:34.304140Z"
+          "published_at": "2026-10-03T05:23:11.946448Z"
         }
       ],
       "item_count": 1,
@@ -562,8 +700,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-02T22:17:34.304140Z",
-      "latest_at": "2026-10-02T22:17:34.304140Z",
+      "earliest_at": "2026-10-03T05:23:11.946448Z",
+      "latest_at": "2026-10-03T05:23:11.946448Z",
       "primary_item": {
         "id": "hotelitem_e4ce0593c384",
         "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
@@ -587,7 +725,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-10-02T22:17:34.304140Z"
+          "published_at": "2026-10-03T05:23:11.946448Z"
         }
       ],
       "source_count": 1,
@@ -602,7 +740,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-10-02T22:17:34.304140Z"
+          "published_at": "2026-10-03T05:23:11.946448Z"
         }
       ],
       "item_count": 1,
@@ -621,8 +759,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-02T22:17:34.304140Z",
-      "latest_at": "2026-10-02T22:17:34.304140Z",
+      "earliest_at": "2026-10-03T05:23:11.946448Z",
+      "latest_at": "2026-10-03T05:23:11.946448Z",
       "primary_item": {
         "id": "hotelitem_b0f4757ffc95",
         "title": "文化和旅游部 中国气象局联合发布2026年国庆...",
@@ -646,7 +784,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-10-02T22:17:34.304140Z"
+          "published_at": "2026-10-03T05:23:11.946448Z"
         }
       ],
       "source_count": 1,
@@ -661,7 +799,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-10-02T22:17:34.304140Z"
+          "published_at": "2026-10-03T05:23:11.946448Z"
         }
       ],
       "item_count": 1,
@@ -680,8 +818,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-02T22:17:34.304140Z",
-      "latest_at": "2026-10-02T22:17:34.304140Z",
+      "earliest_at": "2026-10-03T05:23:11.946448Z",
+      "latest_at": "2026-10-03T05:23:11.946448Z",
       "primary_item": {
         "id": "hotelitem_8dd9d6a00599",
         "title": "文化和旅游部中秋、国庆假期出游提示",
@@ -705,7 +843,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-10-02T22:17:34.304140Z"
+          "published_at": "2026-10-03T05:23:11.946448Z"
         }
       ],
       "source_count": 1,
@@ -720,7 +858,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-10-02T22:17:34.304140Z"
+          "published_at": "2026-10-03T05:23:11.946448Z"
         }
       ],
       "item_count": 1,
@@ -739,71 +877,12 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-02T22:17:34.304140Z",
-      "latest_at": "2026-10-02T22:17:34.304140Z",
+      "earliest_at": "2026-10-03T05:23:11.946448Z",
+      "latest_at": "2026-10-03T05:23:11.946448Z",
       "primary_item": {
         "id": "hotelitem_c3e3aec156b1",
         "title": "文化和旅游部印发《公共文化服务体系建设“...",
         "url": "https://www.mct.gov.cn/whzx/whyw/202609/t20260920_967198.htm",
-        "source": "文化和旅游部",
-        "source_name": "文化和旅游部"
-      }
-    },
-    {
-      "story_id": "story_e63a36930397",
-      "title": "文化和旅游部印发《艺术发展“十五五”规划》",
-      "url": "https://www.mct.gov.cn/whzx/whyw/202609/t20260930_967299.htm",
-      "primary_url": "https://www.mct.gov.cn/whzx/whyw/202609/t20260930_967299.htm",
-      "source": "文化和旅游部",
-      "source_name": "文化和旅游部",
-      "sources": [
-        {
-          "id": "hotelitem_e63a36930397",
-          "title": "文化和旅游部印发《艺术发展“十五五”规划》",
-          "url": "https://www.mct.gov.cn/whzx/whyw/202609/t20260930_967299.htm",
-          "source": "文化和旅游部",
-          "source_name": "文化和旅游部",
-          "site_id": "mct",
-          "published_at": "2026-10-02T22:17:34.304140Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "文化和旅游部"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_e63a36930397",
-          "title": "文化和旅游部印发《艺术发展“十五五”规划》",
-          "url": "https://www.mct.gov.cn/whzx/whyw/202609/t20260930_967299.htm",
-          "source": "文化和旅游部",
-          "source_name": "文化和旅游部",
-          "site_id": "mct",
-          "published_at": "2026-10-02T22:17:34.304140Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.858,
-      "importance": 0.6,
-      "importance_score": 0.858,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-02T22:17:34.304140Z",
-      "latest_at": "2026-10-02T22:17:34.304140Z",
-      "primary_item": {
-        "id": "hotelitem_e63a36930397",
-        "title": "文化和旅游部印发《艺术发展“十五五”规划》",
-        "url": "https://www.mct.gov.cn/whzx/whyw/202609/t20260930_967299.htm",
         "source": "文化和旅游部",
         "source_name": "文化和旅游部"
       }
@@ -823,7 +902,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-10-02T22:17:34.304140Z"
+          "published_at": "2026-10-03T05:23:11.946448Z"
         }
       ],
       "source_count": 1,
@@ -838,7 +917,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-10-02T22:17:34.304140Z"
+          "published_at": "2026-10-03T05:23:11.946448Z"
         }
       ],
       "item_count": 1,
@@ -857,73 +936,14 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-02T22:17:34.304140Z",
-      "latest_at": "2026-10-02T22:17:34.304140Z",
+      "earliest_at": "2026-10-03T05:23:11.946448Z",
+      "latest_at": "2026-10-03T05:23:11.946448Z",
       "primary_item": {
         "id": "hotelitem_8f218475e743",
         "title": "文化和旅游部发布2026年上半年国内居民出游数据情况",
         "url": "https://www.ctaweb.org.cn/gongzuodongtai/10523.html",
         "source": "中国旅游研究院",
         "source_name": "中国旅游研究院"
-      }
-    },
-    {
-      "story_id": "story_16d1cb6441ed",
-      "title": "Cloudbeds announces new alliance partnership with Preferred Hotels & Resorts, The World’s Largest Independent Hotel Brand",
-      "url": "https://insights.ehotelier.com/suppliers/2026/10/01/cloudbeds-announces-new-alliance-partnership-with-preferred-hotels-resorts-the-worlds-largest-independent-hotel-brand/?utm_source=rss&utm_medium=rss&utm_campaign=cloudbeds-announces-new-alliance-partnership-with-preferred-hotels-resorts-the-worlds-largest-independent-hotel-brand",
-      "primary_url": "https://insights.ehotelier.com/suppliers/2026/10/01/cloudbeds-announces-new-alliance-partnership-with-preferred-hotels-resorts-the-worlds-largest-independent-hotel-brand/?utm_source=rss&utm_medium=rss&utm_campaign=cloudbeds-announces-new-alliance-partnership-with-preferred-hotels-resorts-the-worlds-largest-independent-hotel-brand",
-      "source": "eHotelier",
-      "source_name": "eHotelier",
-      "sources": [
-        {
-          "id": "hotelitem_16d1cb6441ed",
-          "title": "Cloudbeds announces new alliance partnership with Preferred Hotels & Resorts, The World’s Largest Independent Hotel Brand",
-          "url": "https://insights.ehotelier.com/suppliers/2026/10/01/cloudbeds-announces-new-alliance-partnership-with-preferred-hotels-resorts-the-worlds-largest-independent-hotel-brand/?utm_source=rss&utm_medium=rss&utm_campaign=cloudbeds-announces-new-alliance-partnership-with-preferred-hotels-resorts-the-worlds-largest-independent-hotel-brand",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-10-01T02:05:15Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "eHotelier"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_16d1cb6441ed",
-          "title": "Cloudbeds announces new alliance partnership with Preferred Hotels & Resorts, The World’s Largest Independent Hotel Brand",
-          "url": "https://insights.ehotelier.com/suppliers/2026/10/01/cloudbeds-announces-new-alliance-partnership-with-preferred-hotels-resorts-the-worlds-largest-independent-hotel-brand/?utm_source=rss&utm_medium=rss&utm_campaign=cloudbeds-announces-new-alliance-partnership-with-preferred-hotels-resorts-the-worlds-largest-independent-hotel-brand",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-10-01T02:05:15Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8571,
-      "importance": 0.5918,
-      "importance_score": 0.8571,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9591,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-01T02:05:15Z",
-      "latest_at": "2026-10-01T02:05:15Z",
-      "primary_item": {
-        "id": "hotelitem_16d1cb6441ed",
-        "title": "Cloudbeds announces new alliance partnership with Preferred Hotels & Resorts, The World’s Largest Independent Hotel Brand",
-        "url": "https://insights.ehotelier.com/suppliers/2026/10/01/cloudbeds-announces-new-alliance-partnership-with-preferred-hotels-resorts-the-worlds-largest-independent-hotel-brand/?utm_source=rss&utm_medium=rss&utm_campaign=cloudbeds-announces-new-alliance-partnership-with-preferred-hotels-resorts-the-worlds-largest-independent-hotel-brand",
-        "source": "eHotelier",
-        "source_name": "eHotelier"
       }
     },
     {
@@ -961,14 +981,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8571,
-      "importance": 0.5918,
-      "importance_score": 0.8571,
+      "score": 0.8559,
+      "importance": 0.5905,
+      "importance_score": 0.8559,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9592,
+        "recency": 0.9526,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -981,6 +1001,65 @@
         "id": "hotelitem_9ce9248f9927",
         "title": "Before the Cape Cod Getaway Begins, Ocean Edge and Travel Outlook Make the First Conversation Count",
         "url": "https://insights.ehotelier.com/suppliers/2026/10/01/before-the-cape-cod-getaway-begins-ocean-edge-and-travel-outlook-make-the-first-conversation-count/?utm_source=rss&utm_medium=rss&utm_campaign=before-the-cape-cod-getaway-begins-ocean-edge-and-travel-outlook-make-the-first-conversation-count",
+        "source": "eHotelier",
+        "source_name": "eHotelier"
+      }
+    },
+    {
+      "story_id": "story_16d1cb6441ed",
+      "title": "Cloudbeds announces new alliance partnership with Preferred Hotels & Resorts, The World’s Largest Independent Hotel Brand",
+      "url": "https://insights.ehotelier.com/suppliers/2026/10/01/cloudbeds-announces-new-alliance-partnership-with-preferred-hotels-resorts-the-worlds-largest-independent-hotel-brand/?utm_source=rss&utm_medium=rss&utm_campaign=cloudbeds-announces-new-alliance-partnership-with-preferred-hotels-resorts-the-worlds-largest-independent-hotel-brand",
+      "primary_url": "https://insights.ehotelier.com/suppliers/2026/10/01/cloudbeds-announces-new-alliance-partnership-with-preferred-hotels-resorts-the-worlds-largest-independent-hotel-brand/?utm_source=rss&utm_medium=rss&utm_campaign=cloudbeds-announces-new-alliance-partnership-with-preferred-hotels-resorts-the-worlds-largest-independent-hotel-brand",
+      "source": "eHotelier",
+      "source_name": "eHotelier",
+      "sources": [
+        {
+          "id": "hotelitem_16d1cb6441ed",
+          "title": "Cloudbeds announces new alliance partnership with Preferred Hotels & Resorts, The World’s Largest Independent Hotel Brand",
+          "url": "https://insights.ehotelier.com/suppliers/2026/10/01/cloudbeds-announces-new-alliance-partnership-with-preferred-hotels-resorts-the-worlds-largest-independent-hotel-brand/?utm_source=rss&utm_medium=rss&utm_campaign=cloudbeds-announces-new-alliance-partnership-with-preferred-hotels-resorts-the-worlds-largest-independent-hotel-brand",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-10-01T02:05:15Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "eHotelier"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_16d1cb6441ed",
+          "title": "Cloudbeds announces new alliance partnership with Preferred Hotels & Resorts, The World’s Largest Independent Hotel Brand",
+          "url": "https://insights.ehotelier.com/suppliers/2026/10/01/cloudbeds-announces-new-alliance-partnership-with-preferred-hotels-resorts-the-worlds-largest-independent-hotel-brand/?utm_source=rss&utm_medium=rss&utm_campaign=cloudbeds-announces-new-alliance-partnership-with-preferred-hotels-resorts-the-worlds-largest-independent-hotel-brand",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-10-01T02:05:15Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8558,
+      "importance": 0.5905,
+      "importance_score": 0.8558,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9525,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-01T02:05:15Z",
+      "latest_at": "2026-10-01T02:05:15Z",
+      "primary_item": {
+        "id": "hotelitem_16d1cb6441ed",
+        "title": "Cloudbeds announces new alliance partnership with Preferred Hotels & Resorts, The World’s Largest Independent Hotel Brand",
+        "url": "https://insights.ehotelier.com/suppliers/2026/10/01/cloudbeds-announces-new-alliance-partnership-with-preferred-hotels-resorts-the-worlds-largest-independent-hotel-brand/?utm_source=rss&utm_medium=rss&utm_campaign=cloudbeds-announces-new-alliance-partnership-with-preferred-hotels-resorts-the-worlds-largest-independent-hotel-brand",
         "source": "eHotelier",
         "source_name": "eHotelier"
       }
@@ -1020,14 +1099,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.849,
-      "importance": 0.5989,
-      "importance_score": 0.849,
+      "score": 0.8477,
+      "importance": 0.5976,
+      "importance_score": 0.8477,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9947,
+        "recency": 0.9881,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1079,14 +1158,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8482,
-      "importance": 0.5982,
-      "importance_score": 0.8482,
+      "score": 0.847,
+      "importance": 0.5969,
+      "importance_score": 0.847,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9908,
+        "recency": 0.9843,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1138,14 +1217,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8478,
-      "importance": 0.5977,
-      "importance_score": 0.8478,
+      "score": 0.8465,
+      "importance": 0.5964,
+      "importance_score": 0.8465,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9886,
+        "recency": 0.982,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1197,14 +1276,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8478,
-      "importance": 0.5977,
-      "importance_score": 0.8478,
+      "score": 0.8465,
+      "importance": 0.5964,
+      "importance_score": 0.8465,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9886,
+        "recency": 0.982,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1256,14 +1335,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8473,
-      "importance": 0.5816,
-      "importance_score": 0.8473,
+      "score": 0.846,
+      "importance": 0.5803,
+      "importance_score": 0.846,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9081,
+        "recency": 0.9015,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1315,14 +1394,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8448,
-      "importance": 0.5946,
-      "importance_score": 0.8448,
+      "score": 0.8435,
+      "importance": 0.5933,
+      "importance_score": 0.8435,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.973,
+        "recency": 0.9665,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1374,14 +1453,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8432,
-      "importance": 0.593,
-      "importance_score": 0.8432,
+      "score": 0.842,
+      "importance": 0.5917,
+      "importance_score": 0.842,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9649,
+        "recency": 0.9583,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1433,14 +1512,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8267,
-      "importance": 0.5632,
-      "importance_score": 0.8267,
+      "score": 0.8247,
+      "importance": 0.5619,
+      "importance_score": 0.8247,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8161,
+        "recency": 0.8095,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1455,6 +1534,124 @@
         "url": "https://www.hotelmanagement.net/resource/unifocus-claira-workforce-management-redefined",
         "source": "Hotel Management",
         "source_name": "Hotel Management"
+      }
+    },
+    {
+      "story_id": "story_7430fb55ee13",
+      "title": "美团：“十一”假期小城迎“反向奔赴”",
+      "url": "https://www.pinchain.com/article/351504",
+      "primary_url": "https://www.pinchain.com/article/351504",
+      "source": "品橙旅游",
+      "source_name": "品橙旅游",
+      "sources": [
+        {
+          "id": "hotelitem_7430fb55ee13",
+          "title": "美团：“十一”假期小城迎“反向奔赴”",
+          "url": "https://www.pinchain.com/article/351504",
+          "source": "品橙旅游",
+          "source_name": "品橙旅游",
+          "site_id": "pinchain",
+          "published_at": "2026-10-03T01:52:53Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "品橙旅游"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_7430fb55ee13",
+          "title": "美团：“十一”假期小城迎“反向奔赴”",
+          "url": "https://www.pinchain.com/article/351504",
+          "source": "品橙旅游",
+          "source_name": "品橙旅游",
+          "site_id": "pinchain",
+          "published_at": "2026-10-03T01:52:53Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8169,
+      "importance": 0.5994,
+      "importance_score": 0.8169,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9968,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-03T01:52:53Z",
+      "latest_at": "2026-10-03T01:52:53Z",
+      "primary_item": {
+        "id": "hotelitem_7430fb55ee13",
+        "title": "美团：“十一”假期小城迎“反向奔赴”",
+        "url": "https://www.pinchain.com/article/351504",
+        "source": "品橙旅游",
+        "source_name": "品橙旅游"
+      }
+    },
+    {
+      "story_id": "story_cd233f282a68",
+      "title": "去哪儿：国庆节中迎机票“真香价”",
+      "url": "https://www.pinchain.com/article/351505",
+      "primary_url": "https://www.pinchain.com/article/351505",
+      "source": "品橙旅游",
+      "source_name": "品橙旅游",
+      "sources": [
+        {
+          "id": "hotelitem_cd233f282a68",
+          "title": "去哪儿：国庆节中迎机票“真香价”",
+          "url": "https://www.pinchain.com/article/351505",
+          "source": "品橙旅游",
+          "source_name": "品橙旅游",
+          "site_id": "pinchain",
+          "published_at": "2026-10-03T01:54:54Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "品橙旅游"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_cd233f282a68",
+          "title": "去哪儿：国庆节中迎机票“真香价”",
+          "url": "https://www.pinchain.com/article/351505",
+          "source": "品橙旅游",
+          "source_name": "品橙旅游",
+          "site_id": "pinchain",
+          "published_at": "2026-10-03T01:54:54Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8169,
+      "importance": 0.5994,
+      "importance_score": 0.8169,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9968,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-03T01:54:54Z",
+      "latest_at": "2026-10-03T01:54:54Z",
+      "primary_item": {
+        "id": "hotelitem_cd233f282a68",
+        "title": "去哪儿：国庆节中迎机票“真香价”",
+        "url": "https://www.pinchain.com/article/351505",
+        "source": "品橙旅游",
+        "source_name": "品橙旅游"
       }
     },
     {
@@ -1492,14 +1689,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8141,
-      "importance": 0.5939,
-      "importance_score": 0.8141,
+      "score": 0.8129,
+      "importance": 0.5926,
+      "importance_score": 0.8129,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9695,
+        "recency": 0.963,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1531,7 +1728,7 @@
           "source": "Agoda",
           "source_name": "Agoda",
           "site_id": "agoda_press",
-          "published_at": "2026-10-02T22:17:34.304140Z"
+          "published_at": "2026-10-03T05:23:11.946448Z"
         }
       ],
       "source_count": 1,
@@ -1546,7 +1743,7 @@
           "source": "Agoda",
           "source_name": "Agoda",
           "site_id": "agoda_press",
-          "published_at": "2026-10-02T22:17:34.304140Z"
+          "published_at": "2026-10-03T05:23:11.946448Z"
         }
       ],
       "item_count": 1,
@@ -1565,8 +1762,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-02T22:17:34.304140Z",
-      "latest_at": "2026-10-02T22:17:34.304140Z",
+      "earliest_at": "2026-10-03T05:23:11.946448Z",
+      "latest_at": "2026-10-03T05:23:11.946448Z",
       "primary_item": {
         "id": "hotelitem_69c4ef2b3d80",
         "title": "Agoda Partners Kaohsiung City Government to  ... Digital travel platform Agoda and the Kaohsiung City Government have signed a Memorandum of Understand ... September 11, 2026 / Partnership",
@@ -1590,7 +1787,7 @@
           "source": "Agoda",
           "source_name": "Agoda",
           "site_id": "agoda_press",
-          "published_at": "2026-10-02T22:17:34.304140Z"
+          "published_at": "2026-10-03T05:23:11.946448Z"
         }
       ],
       "source_count": 1,
@@ -1605,7 +1802,7 @@
           "source": "Agoda",
           "source_name": "Agoda",
           "site_id": "agoda_press",
-          "published_at": "2026-10-02T22:17:34.304140Z"
+          "published_at": "2026-10-03T05:23:11.946448Z"
         }
       ],
       "item_count": 1,
@@ -1624,189 +1821,12 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-02T22:17:34.304140Z",
-      "latest_at": "2026-10-02T22:17:34.304140Z",
+      "earliest_at": "2026-10-03T05:23:11.946448Z",
+      "latest_at": "2026-10-03T05:23:11.946448Z",
       "primary_item": {
         "id": "hotelitem_e8ae1de14799",
         "title": "Agoda Partners with Marina Bay Sands on Besp ... The custom digital storefront brings together Marina Bay Sands’ rooms, suites and resort experiences,  ... October 1, 2026 / Partnership",
         "url": "https://www.agoda.com/press/agoda-partners-with-marina-bay-sands-on-bespoke-flagship-store-for-experience-led-travel/",
-        "source": "Agoda",
-        "source_name": "Agoda"
-      }
-    },
-    {
-      "story_id": "story_aa68e9432a35",
-      "title": "Agoda Reveals Growing Asian Appetite for Ger ... As the 191st Oktoberfest draws to a close, Asia’s appetite for Germany’s world-famous beer festival ap ... October 2, 2026 / Travel Trends",
-      "url": "https://www.agoda.com/press/agoda-reveals-growing-asian-appetite-for-germanys-oktoberfest/",
-      "primary_url": "https://www.agoda.com/press/agoda-reveals-growing-asian-appetite-for-germanys-oktoberfest/",
-      "source": "Agoda",
-      "source_name": "Agoda",
-      "sources": [
-        {
-          "id": "hotelitem_aa68e9432a35",
-          "title": "Agoda Reveals Growing Asian Appetite for Ger ... As the 191st Oktoberfest draws to a close, Asia’s appetite for Germany’s world-famous beer festival ap ... October 2, 2026 / Travel Trends",
-          "url": "https://www.agoda.com/press/agoda-reveals-growing-asian-appetite-for-germanys-oktoberfest/",
-          "source": "Agoda",
-          "source_name": "Agoda",
-          "site_id": "agoda_press",
-          "published_at": "2026-10-02T22:17:34.304140Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Agoda"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_aa68e9432a35",
-          "title": "Agoda Reveals Growing Asian Appetite for Ger ... As the 191st Oktoberfest draws to a close, Asia’s appetite for Germany’s world-famous beer festival ap ... October 2, 2026 / Travel Trends",
-          "url": "https://www.agoda.com/press/agoda-reveals-growing-asian-appetite-for-germanys-oktoberfest/",
-          "source": "Agoda",
-          "source_name": "Agoda",
-          "site_id": "agoda_press",
-          "published_at": "2026-10-02T22:17:34.304140Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8125,
-      "importance": 0.6,
-      "importance_score": 0.8125,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-02T22:17:34.304140Z",
-      "latest_at": "2026-10-02T22:17:34.304140Z",
-      "primary_item": {
-        "id": "hotelitem_aa68e9432a35",
-        "title": "Agoda Reveals Growing Asian Appetite for Ger ... As the 191st Oktoberfest draws to a close, Asia’s appetite for Germany’s world-famous beer festival ap ... October 2, 2026 / Travel Trends",
-        "url": "https://www.agoda.com/press/agoda-reveals-growing-asian-appetite-for-germanys-oktoberfest/",
-        "source": "Agoda",
-        "source_name": "Agoda"
-      }
-    },
-    {
-      "story_id": "story_8c5f0ae63982",
-      "title": "Agoda and KakaoBank Partner to Offer Travel  ... Providing seamless access to stay options on one of Korea’s leading digital banks’ app, featuring disc ... May 28, 2026 / Partnership",
-      "url": "https://www.agoda.com/press/agoda-and-kakaobank-partner-to-offer-travel-booking-experience-on-digital-banking-app/",
-      "primary_url": "https://www.agoda.com/press/agoda-and-kakaobank-partner-to-offer-travel-booking-experience-on-digital-banking-app/",
-      "source": "Agoda",
-      "source_name": "Agoda",
-      "sources": [
-        {
-          "id": "hotelitem_8c5f0ae63982",
-          "title": "Agoda and KakaoBank Partner to Offer Travel  ... Providing seamless access to stay options on one of Korea’s leading digital banks’ app, featuring disc ... May 28, 2026 / Partnership",
-          "url": "https://www.agoda.com/press/agoda-and-kakaobank-partner-to-offer-travel-booking-experience-on-digital-banking-app/",
-          "source": "Agoda",
-          "source_name": "Agoda",
-          "site_id": "agoda_press",
-          "published_at": "2026-10-02T22:17:34.304140Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Agoda"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_8c5f0ae63982",
-          "title": "Agoda and KakaoBank Partner to Offer Travel  ... Providing seamless access to stay options on one of Korea’s leading digital banks’ app, featuring disc ... May 28, 2026 / Partnership",
-          "url": "https://www.agoda.com/press/agoda-and-kakaobank-partner-to-offer-travel-booking-experience-on-digital-banking-app/",
-          "source": "Agoda",
-          "source_name": "Agoda",
-          "site_id": "agoda_press",
-          "published_at": "2026-10-02T22:17:34.304140Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8125,
-      "importance": 0.6,
-      "importance_score": 0.8125,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-02T22:17:34.304140Z",
-      "latest_at": "2026-10-02T22:17:34.304140Z",
-      "primary_item": {
-        "id": "hotelitem_8c5f0ae63982",
-        "title": "Agoda and KakaoBank Partner to Offer Travel  ... Providing seamless access to stay options on one of Korea’s leading digital banks’ app, featuring disc ... May 28, 2026 / Partnership",
-        "url": "https://www.agoda.com/press/agoda-and-kakaobank-partner-to-offer-travel-booking-experience-on-digital-banking-app/",
-        "source": "Agoda",
-        "source_name": "Agoda"
-      }
-    },
-    {
-      "story_id": "story_29900a6c3803",
-      "title": "Agoda and Philippines Department of Tourism  ... Digital travel platform Agoda and the Philippines Department of Tourism (DOT) announced a strategic pa ... May 27, 2026 / Partnership",
-      "url": "https://www.agoda.com/press/agoda-and-philippines-department-of-tourism-announce-strategic-partnership-to-promote-and-elevate-tourism/",
-      "primary_url": "https://www.agoda.com/press/agoda-and-philippines-department-of-tourism-announce-strategic-partnership-to-promote-and-elevate-tourism/",
-      "source": "Agoda",
-      "source_name": "Agoda",
-      "sources": [
-        {
-          "id": "hotelitem_29900a6c3803",
-          "title": "Agoda and Philippines Department of Tourism  ... Digital travel platform Agoda and the Philippines Department of Tourism (DOT) announced a strategic pa ... May 27, 2026 / Partnership",
-          "url": "https://www.agoda.com/press/agoda-and-philippines-department-of-tourism-announce-strategic-partnership-to-promote-and-elevate-tourism/",
-          "source": "Agoda",
-          "source_name": "Agoda",
-          "site_id": "agoda_press",
-          "published_at": "2026-10-02T22:17:34.304140Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Agoda"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_29900a6c3803",
-          "title": "Agoda and Philippines Department of Tourism  ... Digital travel platform Agoda and the Philippines Department of Tourism (DOT) announced a strategic pa ... May 27, 2026 / Partnership",
-          "url": "https://www.agoda.com/press/agoda-and-philippines-department-of-tourism-announce-strategic-partnership-to-promote-and-elevate-tourism/",
-          "source": "Agoda",
-          "source_name": "Agoda",
-          "site_id": "agoda_press",
-          "published_at": "2026-10-02T22:17:34.304140Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8125,
-      "importance": 0.6,
-      "importance_score": 0.8125,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-02T22:17:34.304140Z",
-      "latest_at": "2026-10-02T22:17:34.304140Z",
-      "primary_item": {
-        "id": "hotelitem_29900a6c3803",
-        "title": "Agoda and Philippines Department of Tourism  ... Digital travel platform Agoda and the Philippines Department of Tourism (DOT) announced a strategic pa ... May 27, 2026 / Partnership",
-        "url": "https://www.agoda.com/press/agoda-and-philippines-department-of-tourism-announce-strategic-partnership-to-promote-and-elevate-tourism/",
         "source": "Agoda",
         "source_name": "Agoda"
       }
