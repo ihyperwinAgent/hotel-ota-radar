@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T23:58:26.865872Z",
+  "generated_at": "2026-10-05T05:47:35.326739Z",
   "window_hours": 1080,
   "total_stories": 30,
   "stories": [
@@ -38,14 +38,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9446,
-      "importance": 0.5892,
-      "importance_score": 0.9446,
+      "score": 0.9435,
+      "importance": 0.5881,
+      "importance_score": 0.9435,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9459,
+        "recency": 0.9405,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -60,65 +60,6 @@
         "url": "https://www.hoteldive.com/news/nobu-expands-to-puerto-rico-accor-taps-mews/831995/",
         "source": "Hotel Dive",
         "source_name": "Hotel Dive"
-      }
-    },
-    {
-      "story_id": "story_e999de15c281",
-      "title": "Radisson Hotel Group accelerates ambition for 100 Verified Net Zero hotels by 2030 with four new hotels in Stockholm and Copenhagen",
-      "url": "https://insights.ehotelier.com/global-news/2026/10/02/radisson-hotel-group-accelerates-ambition-for-100-verified-net-zero-hotels-by-2030-with-four-new-hotels-in-stockholm-and-copenhagen/?utm_source=rss&utm_medium=rss&utm_campaign=radisson-hotel-group-accelerates-ambition-for-100-verified-net-zero-hotels-by-2030-with-four-new-hotels-in-stockholm-and-copenhagen",
-      "primary_url": "https://insights.ehotelier.com/global-news/2026/10/02/radisson-hotel-group-accelerates-ambition-for-100-verified-net-zero-hotels-by-2030-with-four-new-hotels-in-stockholm-and-copenhagen/?utm_source=rss&utm_medium=rss&utm_campaign=radisson-hotel-group-accelerates-ambition-for-100-verified-net-zero-hotels-by-2030-with-four-new-hotels-in-stockholm-and-copenhagen",
-      "source": "eHotelier",
-      "source_name": "eHotelier",
-      "sources": [
-        {
-          "id": "hotelitem_e999de15c281",
-          "title": "Radisson Hotel Group accelerates ambition for 100 Verified Net Zero hotels by 2030 with four new hotels in Stockholm and Copenhagen",
-          "url": "https://insights.ehotelier.com/global-news/2026/10/02/radisson-hotel-group-accelerates-ambition-for-100-verified-net-zero-hotels-by-2030-with-four-new-hotels-in-stockholm-and-copenhagen/?utm_source=rss&utm_medium=rss&utm_campaign=radisson-hotel-group-accelerates-ambition-for-100-verified-net-zero-hotels-by-2030-with-four-new-hotels-in-stockholm-and-copenhagen",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-10-02T01:55:13Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "eHotelier"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_e999de15c281",
-          "title": "Radisson Hotel Group accelerates ambition for 100 Verified Net Zero hotels by 2030 with four new hotels in Stockholm and Copenhagen",
-          "url": "https://insights.ehotelier.com/global-news/2026/10/02/radisson-hotel-group-accelerates-ambition-for-100-verified-net-zero-hotels-by-2030-with-four-new-hotels-in-stockholm-and-copenhagen/?utm_source=rss&utm_medium=rss&utm_campaign=radisson-hotel-group-accelerates-ambition-for-100-verified-net-zero-hotels-by-2030-with-four-new-hotels-in-stockholm-and-copenhagen",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-10-02T01:55:13Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.9425,
-      "importance": 0.587,
-      "importance_score": 0.9425,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9351,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-02T01:55:13Z",
-      "latest_at": "2026-10-02T01:55:13Z",
-      "primary_item": {
-        "id": "hotelitem_e999de15c281",
-        "title": "Radisson Hotel Group accelerates ambition for 100 Verified Net Zero hotels by 2030 with four new hotels in Stockholm and Copenhagen",
-        "url": "https://insights.ehotelier.com/global-news/2026/10/02/radisson-hotel-group-accelerates-ambition-for-100-verified-net-zero-hotels-by-2030-with-four-new-hotels-in-stockholm-and-copenhagen/?utm_source=rss&utm_medium=rss&utm_campaign=radisson-hotel-group-accelerates-ambition-for-100-verified-net-zero-hotels-by-2030-with-four-new-hotels-in-stockholm-and-copenhagen",
-        "source": "eHotelier",
-        "source_name": "eHotelier"
       }
     },
     {
@@ -156,14 +97,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9425,
-      "importance": 0.5871,
-      "importance_score": 0.9425,
+      "score": 0.9415,
+      "importance": 0.586,
+      "importance_score": 0.9415,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9353,
+        "recency": 0.9299,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -215,14 +156,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9425,
-      "importance": 0.5871,
-      "importance_score": 0.9425,
+      "score": 0.9415,
+      "importance": 0.586,
+      "importance_score": 0.9415,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9354,
+        "recency": 0.93,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -274,14 +215,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.936,
-      "importance": 0.5803,
-      "importance_score": 0.936,
+      "score": 0.935,
+      "importance": 0.5792,
+      "importance_score": 0.935,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9016,
+        "recency": 0.8962,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -313,7 +254,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-10-04T23:58:26.865872Z"
+          "published_at": "2026-10-05T05:47:35.326739Z"
         },
         {
           "id": "hotelitem_6efc76026b20",
@@ -322,7 +263,7 @@
           "source": "迈点研究院",
           "source_name": "迈点研究院",
           "site_id": "meadin",
-          "published_at": "2026-10-04T23:58:26.865872Z"
+          "published_at": "2026-10-05T05:47:35.326739Z"
         }
       ],
       "source_count": 2,
@@ -338,7 +279,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-10-04T23:58:26.865872Z"
+          "published_at": "2026-10-05T05:47:35.326739Z"
         },
         {
           "id": "hotelitem_6efc76026b20",
@@ -347,7 +288,7 @@
           "source": "迈点研究院",
           "source_name": "迈点研究院",
           "site_id": "meadin",
-          "published_at": "2026-10-04T23:58:26.865872Z"
+          "published_at": "2026-10-05T05:47:35.326739Z"
         }
       ],
       "item_count": 2,
@@ -367,8 +308,8 @@
         "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-04T23:58:26.865872Z",
-      "latest_at": "2026-10-04T23:58:26.865872Z",
+      "earliest_at": "2026-10-05T05:47:35.326739Z",
+      "latest_at": "2026-10-05T05:47:35.326739Z",
       "primary_item": {
         "id": "hotelitem_e63a36930397",
         "title": "文化和旅游部印发《艺术发展“十五五”规划》",
@@ -392,7 +333,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-10-04T23:58:26.865872Z"
+          "published_at": "2026-10-05T05:47:35.326739Z"
         }
       ],
       "source_count": 1,
@@ -407,7 +348,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-10-04T23:58:26.865872Z"
+          "published_at": "2026-10-05T05:47:35.326739Z"
         }
       ],
       "item_count": 1,
@@ -426,14 +367,309 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-04T23:58:26.865872Z",
-      "latest_at": "2026-10-04T23:58:26.865872Z",
+      "earliest_at": "2026-10-05T05:47:35.326739Z",
+      "latest_at": "2026-10-05T05:47:35.326739Z",
       "primary_item": {
         "id": "hotelitem_06f191e24d38",
         "title": "文旅惠报|复星国际申请分拆Club Med在港上市；南京商旅上半年营收3.66亿元",
         "url": "https://www.tripvivid.com/47868.html",
         "source": "执惠 TripVivid",
         "source_name": "执惠 TripVivid"
+      }
+    },
+    {
+      "story_id": "story_440e47d1fb39",
+      "title": "Starhotels Collezione will be Art Basel’s Official Hotel Partner for the 2026 edition taking place at the Grand Palais this October",
+      "url": "https://insights.ehotelier.com/global-news/2026/10/05/starhotels-collezione-will-be-art-basels-official-hotel-partner-for-the-2026-edition-taking-place-at-the-grand-palais-this-october/?utm_source=rss&utm_medium=rss&utm_campaign=starhotels-collezione-will-be-art-basels-official-hotel-partner-for-the-2026-edition-taking-place-at-the-grand-palais-this-october",
+      "primary_url": "https://insights.ehotelier.com/global-news/2026/10/05/starhotels-collezione-will-be-art-basels-official-hotel-partner-for-the-2026-edition-taking-place-at-the-grand-palais-this-october/?utm_source=rss&utm_medium=rss&utm_campaign=starhotels-collezione-will-be-art-basels-official-hotel-partner-for-the-2026-edition-taking-place-at-the-grand-palais-this-october",
+      "source": "eHotelier",
+      "source_name": "eHotelier",
+      "sources": [
+        {
+          "id": "hotelitem_440e47d1fb39",
+          "title": "Starhotels Collezione will be Art Basel’s Official Hotel Partner for the 2026 edition taking place at the Grand Palais this October",
+          "url": "https://insights.ehotelier.com/global-news/2026/10/05/starhotels-collezione-will-be-art-basels-official-hotel-partner-for-the-2026-edition-taking-place-at-the-grand-palais-this-october/?utm_source=rss&utm_medium=rss&utm_campaign=starhotels-collezione-will-be-art-basels-official-hotel-partner-for-the-2026-edition-taking-place-at-the-grand-palais-this-october",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-10-05T01:47:34Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "eHotelier"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_440e47d1fb39",
+          "title": "Starhotels Collezione will be Art Basel’s Official Hotel Partner for the 2026 edition taking place at the Grand Palais this October",
+          "url": "https://insights.ehotelier.com/global-news/2026/10/05/starhotels-collezione-will-be-art-basels-official-hotel-partner-for-the-2026-edition-taking-place-at-the-grand-palais-this-october/?utm_source=rss&utm_medium=rss&utm_campaign=starhotels-collezione-will-be-art-basels-official-hotel-partner-for-the-2026-edition-taking-place-at-the-grand-palais-this-october",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-10-05T01:47:34Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8643,
+      "importance": 0.5993,
+      "importance_score": 0.8643,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9963,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-05T01:47:34Z",
+      "latest_at": "2026-10-05T01:47:34Z",
+      "primary_item": {
+        "id": "hotelitem_440e47d1fb39",
+        "title": "Starhotels Collezione will be Art Basel’s Official Hotel Partner for the 2026 edition taking place at the Grand Palais this October",
+        "url": "https://insights.ehotelier.com/global-news/2026/10/05/starhotels-collezione-will-be-art-basels-official-hotel-partner-for-the-2026-edition-taking-place-at-the-grand-palais-this-october/?utm_source=rss&utm_medium=rss&utm_campaign=starhotels-collezione-will-be-art-basels-official-hotel-partner-for-the-2026-edition-taking-place-at-the-grand-palais-this-october",
+        "source": "eHotelier",
+        "source_name": "eHotelier"
+      }
+    },
+    {
+      "story_id": "story_275e9922bd3a",
+      "title": "New Retirement Index reveals World’s Top Retirement Destinations",
+      "url": "https://insights.ehotelier.com/global-news/2026/10/05/new-retirement-index-reveals-worlds-top-retirement-destinations/?utm_source=rss&utm_medium=rss&utm_campaign=new-retirement-index-reveals-worlds-top-retirement-destinations",
+      "primary_url": "https://insights.ehotelier.com/global-news/2026/10/05/new-retirement-index-reveals-worlds-top-retirement-destinations/?utm_source=rss&utm_medium=rss&utm_campaign=new-retirement-index-reveals-worlds-top-retirement-destinations",
+      "source": "eHotelier",
+      "source_name": "eHotelier",
+      "sources": [
+        {
+          "id": "hotelitem_275e9922bd3a",
+          "title": "New Retirement Index reveals World’s Top Retirement Destinations",
+          "url": "https://insights.ehotelier.com/global-news/2026/10/05/new-retirement-index-reveals-worlds-top-retirement-destinations/?utm_source=rss&utm_medium=rss&utm_campaign=new-retirement-index-reveals-worlds-top-retirement-destinations",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-10-05T01:52:49Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "eHotelier"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_275e9922bd3a",
+          "title": "New Retirement Index reveals World’s Top Retirement Destinations",
+          "url": "https://insights.ehotelier.com/global-news/2026/10/05/new-retirement-index-reveals-worlds-top-retirement-destinations/?utm_source=rss&utm_medium=rss&utm_campaign=new-retirement-index-reveals-worlds-top-retirement-destinations",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-10-05T01:52:49Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8643,
+      "importance": 0.5993,
+      "importance_score": 0.8643,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9964,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-05T01:52:49Z",
+      "latest_at": "2026-10-05T01:52:49Z",
+      "primary_item": {
+        "id": "hotelitem_275e9922bd3a",
+        "title": "New Retirement Index reveals World’s Top Retirement Destinations",
+        "url": "https://insights.ehotelier.com/global-news/2026/10/05/new-retirement-index-reveals-worlds-top-retirement-destinations/?utm_source=rss&utm_medium=rss&utm_campaign=new-retirement-index-reveals-worlds-top-retirement-destinations",
+        "source": "eHotelier",
+        "source_name": "eHotelier"
+      }
+    },
+    {
+      "story_id": "story_e8d92f22f28f",
+      "title": "7 budget priorities to turn your hotel F&B from amenity to main revenue driver in 2027",
+      "url": "https://insights.ehotelier.com/insights/2026/10/05/7-budget-priorities-to-turn-your-hotel-fb-from-amenity-to-main-revenue-driver-in-2027/?utm_source=rss&utm_medium=rss&utm_campaign=7-budget-priorities-to-turn-your-hotel-fb-from-amenity-to-main-revenue-driver-in-2027",
+      "primary_url": "https://insights.ehotelier.com/insights/2026/10/05/7-budget-priorities-to-turn-your-hotel-fb-from-amenity-to-main-revenue-driver-in-2027/?utm_source=rss&utm_medium=rss&utm_campaign=7-budget-priorities-to-turn-your-hotel-fb-from-amenity-to-main-revenue-driver-in-2027",
+      "source": "eHotelier",
+      "source_name": "eHotelier",
+      "sources": [
+        {
+          "id": "hotelitem_e8d92f22f28f",
+          "title": "7 budget priorities to turn your hotel F&B from amenity to main revenue driver in 2027",
+          "url": "https://insights.ehotelier.com/insights/2026/10/05/7-budget-priorities-to-turn-your-hotel-fb-from-amenity-to-main-revenue-driver-in-2027/?utm_source=rss&utm_medium=rss&utm_campaign=7-budget-priorities-to-turn-your-hotel-fb-from-amenity-to-main-revenue-driver-in-2027",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-10-05T01:55:17Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "eHotelier"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_e8d92f22f28f",
+          "title": "7 budget priorities to turn your hotel F&B from amenity to main revenue driver in 2027",
+          "url": "https://insights.ehotelier.com/insights/2026/10/05/7-budget-priorities-to-turn-your-hotel-fb-from-amenity-to-main-revenue-driver-in-2027/?utm_source=rss&utm_medium=rss&utm_campaign=7-budget-priorities-to-turn-your-hotel-fb-from-amenity-to-main-revenue-driver-in-2027",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-10-05T01:55:17Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8643,
+      "importance": 0.5993,
+      "importance_score": 0.8643,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9964,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-05T01:55:17Z",
+      "latest_at": "2026-10-05T01:55:17Z",
+      "primary_item": {
+        "id": "hotelitem_e8d92f22f28f",
+        "title": "7 budget priorities to turn your hotel F&B from amenity to main revenue driver in 2027",
+        "url": "https://insights.ehotelier.com/insights/2026/10/05/7-budget-priorities-to-turn-your-hotel-fb-from-amenity-to-main-revenue-driver-in-2027/?utm_source=rss&utm_medium=rss&utm_campaign=7-budget-priorities-to-turn-your-hotel-fb-from-amenity-to-main-revenue-driver-in-2027",
+        "source": "eHotelier",
+        "source_name": "eHotelier"
+      }
+    },
+    {
+      "story_id": "story_6bba5c6dc01b",
+      "title": "The Orion Kuala Lumpur soft opens today with BE THE FIRST stay package",
+      "url": "https://insights.ehotelier.com/properties/2026/10/05/the-orion-kuala-lumpur-soft-opens-today-with-be-the-first-stay-package/?utm_source=rss&utm_medium=rss&utm_campaign=the-orion-kuala-lumpur-soft-opens-today-with-be-the-first-stay-package",
+      "primary_url": "https://insights.ehotelier.com/properties/2026/10/05/the-orion-kuala-lumpur-soft-opens-today-with-be-the-first-stay-package/?utm_source=rss&utm_medium=rss&utm_campaign=the-orion-kuala-lumpur-soft-opens-today-with-be-the-first-stay-package",
+      "source": "eHotelier",
+      "source_name": "eHotelier",
+      "sources": [
+        {
+          "id": "hotelitem_6bba5c6dc01b",
+          "title": "The Orion Kuala Lumpur soft opens today with BE THE FIRST stay package",
+          "url": "https://insights.ehotelier.com/properties/2026/10/05/the-orion-kuala-lumpur-soft-opens-today-with-be-the-first-stay-package/?utm_source=rss&utm_medium=rss&utm_campaign=the-orion-kuala-lumpur-soft-opens-today-with-be-the-first-stay-package",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-10-05T00:40:13Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "eHotelier"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_6bba5c6dc01b",
+          "title": "The Orion Kuala Lumpur soft opens today with BE THE FIRST stay package",
+          "url": "https://insights.ehotelier.com/properties/2026/10/05/the-orion-kuala-lumpur-soft-opens-today-with-be-the-first-stay-package/?utm_source=rss&utm_medium=rss&utm_campaign=the-orion-kuala-lumpur-soft-opens-today-with-be-the-first-stay-package",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-10-05T00:40:13Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8641,
+      "importance": 0.5991,
+      "importance_score": 0.8641,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9953,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-05T00:40:13Z",
+      "latest_at": "2026-10-05T00:40:13Z",
+      "primary_item": {
+        "id": "hotelitem_6bba5c6dc01b",
+        "title": "The Orion Kuala Lumpur soft opens today with BE THE FIRST stay package",
+        "url": "https://insights.ehotelier.com/properties/2026/10/05/the-orion-kuala-lumpur-soft-opens-today-with-be-the-first-stay-package/?utm_source=rss&utm_medium=rss&utm_campaign=the-orion-kuala-lumpur-soft-opens-today-with-be-the-first-stay-package",
+        "source": "eHotelier",
+        "source_name": "eHotelier"
+      }
+    },
+    {
+      "story_id": "story_549330319ae2",
+      "title": "Stacy Hiquet appointed as Chief People Officer at Prime Hospitality Corp.",
+      "url": "https://insights.ehotelier.com/people/2026/10/05/stacy-hiquet-appointed-as-chief-people-officer-at-prime-hospitality-corp/?utm_source=rss&utm_medium=rss&utm_campaign=stacy-hiquet-appointed-as-chief-people-officer-at-prime-hospitality-corp",
+      "primary_url": "https://insights.ehotelier.com/people/2026/10/05/stacy-hiquet-appointed-as-chief-people-officer-at-prime-hospitality-corp/?utm_source=rss&utm_medium=rss&utm_campaign=stacy-hiquet-appointed-as-chief-people-officer-at-prime-hospitality-corp",
+      "source": "eHotelier",
+      "source_name": "eHotelier",
+      "sources": [
+        {
+          "id": "hotelitem_549330319ae2",
+          "title": "Stacy Hiquet appointed as Chief People Officer at Prime Hospitality Corp.",
+          "url": "https://insights.ehotelier.com/people/2026/10/05/stacy-hiquet-appointed-as-chief-people-officer-at-prime-hospitality-corp/?utm_source=rss&utm_medium=rss&utm_campaign=stacy-hiquet-appointed-as-chief-people-officer-at-prime-hospitality-corp",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-10-05T00:45:17Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "eHotelier"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_549330319ae2",
+          "title": "Stacy Hiquet appointed as Chief People Officer at Prime Hospitality Corp.",
+          "url": "https://insights.ehotelier.com/people/2026/10/05/stacy-hiquet-appointed-as-chief-people-officer-at-prime-hospitality-corp/?utm_source=rss&utm_medium=rss&utm_campaign=stacy-hiquet-appointed-as-chief-people-officer-at-prime-hospitality-corp",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-10-05T00:45:17Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8641,
+      "importance": 0.5991,
+      "importance_score": 0.8641,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9953,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-05T00:45:17Z",
+      "latest_at": "2026-10-05T00:45:17Z",
+      "primary_item": {
+        "id": "hotelitem_549330319ae2",
+        "title": "Stacy Hiquet appointed as Chief People Officer at Prime Hospitality Corp.",
+        "url": "https://insights.ehotelier.com/people/2026/10/05/stacy-hiquet-appointed-as-chief-people-officer-at-prime-hospitality-corp/?utm_source=rss&utm_medium=rss&utm_campaign=stacy-hiquet-appointed-as-chief-people-officer-at-prime-hospitality-corp",
+        "source": "eHotelier",
+        "source_name": "eHotelier"
       }
     },
     {
@@ -451,7 +687,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-10-04T23:58:26.865872Z"
+          "published_at": "2026-10-05T05:47:35.326739Z"
         },
         {
           "id": "hotelitem_c7c15b7680c9",
@@ -460,7 +696,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-10-04T23:58:26.865872Z"
+          "published_at": "2026-10-05T05:47:35.326739Z"
         }
       ],
       "source_count": 2,
@@ -475,7 +711,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-10-04T23:58:26.865872Z"
+          "published_at": "2026-10-05T05:47:35.326739Z"
         },
         {
           "id": "hotelitem_c7c15b7680c9",
@@ -484,7 +720,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-10-04T23:58:26.865872Z"
+          "published_at": "2026-10-05T05:47:35.326739Z"
         }
       ],
       "item_count": 2,
@@ -504,8 +740,8 @@
         "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-04T23:58:26.865872Z",
-      "latest_at": "2026-10-04T23:58:26.865872Z",
+      "earliest_at": "2026-10-05T05:47:35.326739Z",
+      "latest_at": "2026-10-05T05:47:35.326739Z",
       "primary_item": {
         "id": "hotelitem_d4370964909c",
         "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
@@ -529,7 +765,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-10-04T23:58:26.865872Z"
+          "published_at": "2026-10-05T05:47:35.326739Z"
         },
         {
           "id": "hotelitem_1243e4eead68",
@@ -538,7 +774,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-10-04T23:58:26.865872Z"
+          "published_at": "2026-10-05T05:47:35.326739Z"
         }
       ],
       "source_count": 2,
@@ -553,7 +789,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-10-04T23:58:26.865872Z"
+          "published_at": "2026-10-05T05:47:35.326739Z"
         },
         {
           "id": "hotelitem_1243e4eead68",
@@ -562,7 +798,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-10-04T23:58:26.865872Z"
+          "published_at": "2026-10-05T05:47:35.326739Z"
         }
       ],
       "item_count": 2,
@@ -582,8 +818,8 @@
         "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-04T23:58:26.865872Z",
-      "latest_at": "2026-10-04T23:58:26.865872Z",
+      "earliest_at": "2026-10-05T05:47:35.326739Z",
+      "latest_at": "2026-10-05T05:47:35.326739Z",
       "primary_item": {
         "id": "hotelitem_b30c7ac8b6e5",
         "title": "指数发布 | 中国住宿业消费指数报告（2026年8月）发布 为贯彻落实提振消费相关政策，真实反映中国住宿餐饮业市场消费情况，以数据引导促消费政策精准发力，为行业发展提供参考建议，中国饭店协会每月公开发布“中国饭店业消费指数体系”，包含“中国住宿业消费指数（China Hotel Industry Consumption Index, HCI）”与“中国餐饮业消费指数（China Catering Industry Consumption Index, CCI）”，欢迎关注。\n本篇发布的是“中国住宿业消费指数”。",
@@ -607,7 +843,7 @@
           "source": "迈点研究院",
           "source_name": "迈点研究院",
           "site_id": "meadin",
-          "published_at": "2026-10-04T23:58:26.865872Z"
+          "published_at": "2026-10-05T05:47:35.326739Z"
         }
       ],
       "source_count": 1,
@@ -622,7 +858,7 @@
           "source": "迈点研究院",
           "source_name": "迈点研究院",
           "site_id": "meadin",
-          "published_at": "2026-10-04T23:58:26.865872Z"
+          "published_at": "2026-10-05T05:47:35.326739Z"
         }
       ],
       "item_count": 1,
@@ -641,8 +877,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-04T23:58:26.865872Z",
-      "latest_at": "2026-10-04T23:58:26.865872Z",
+      "earliest_at": "2026-10-05T05:47:35.326739Z",
+      "latest_at": "2026-10-05T05:47:35.326739Z",
       "primary_item": {
         "id": "hotelitem_31fadaa4ed66",
         "title": "凯悦集团发布最新高管任命",
@@ -666,7 +902,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-10-04T23:58:26.865872Z"
+          "published_at": "2026-10-05T05:47:35.326739Z"
         }
       ],
       "source_count": 1,
@@ -681,7 +917,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-10-04T23:58:26.865872Z"
+          "published_at": "2026-10-05T05:47:35.326739Z"
         }
       ],
       "item_count": 1,
@@ -700,8 +936,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-04T23:58:26.865872Z",
-      "latest_at": "2026-10-04T23:58:26.865872Z",
+      "earliest_at": "2026-10-05T05:47:35.326739Z",
+      "latest_at": "2026-10-05T05:47:35.326739Z",
       "primary_item": {
         "id": "hotelitem_e4ce0593c384",
         "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
@@ -725,7 +961,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-10-04T23:58:26.865872Z"
+          "published_at": "2026-10-05T05:47:35.326739Z"
         }
       ],
       "source_count": 1,
@@ -740,7 +976,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-10-04T23:58:26.865872Z"
+          "published_at": "2026-10-05T05:47:35.326739Z"
         }
       ],
       "item_count": 1,
@@ -759,8 +995,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-04T23:58:26.865872Z",
-      "latest_at": "2026-10-04T23:58:26.865872Z",
+      "earliest_at": "2026-10-05T05:47:35.326739Z",
+      "latest_at": "2026-10-05T05:47:35.326739Z",
       "primary_item": {
         "id": "hotelitem_b0f4757ffc95",
         "title": "文化和旅游部 中国气象局联合发布2026年国庆...",
@@ -784,7 +1020,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-10-04T23:58:26.865872Z"
+          "published_at": "2026-10-05T05:47:35.326739Z"
         }
       ],
       "source_count": 1,
@@ -799,7 +1035,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-10-04T23:58:26.865872Z"
+          "published_at": "2026-10-05T05:47:35.326739Z"
         }
       ],
       "item_count": 1,
@@ -818,8 +1054,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-04T23:58:26.865872Z",
-      "latest_at": "2026-10-04T23:58:26.865872Z",
+      "earliest_at": "2026-10-05T05:47:35.326739Z",
+      "latest_at": "2026-10-05T05:47:35.326739Z",
       "primary_item": {
         "id": "hotelitem_8dd9d6a00599",
         "title": "文化和旅游部中秋、国庆假期出游提示",
@@ -843,7 +1079,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-10-04T23:58:26.865872Z"
+          "published_at": "2026-10-05T05:47:35.326739Z"
         }
       ],
       "source_count": 1,
@@ -858,7 +1094,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-10-04T23:58:26.865872Z"
+          "published_at": "2026-10-05T05:47:35.326739Z"
         }
       ],
       "item_count": 1,
@@ -877,8 +1113,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-04T23:58:26.865872Z",
-      "latest_at": "2026-10-04T23:58:26.865872Z",
+      "earliest_at": "2026-10-05T05:47:35.326739Z",
+      "latest_at": "2026-10-05T05:47:35.326739Z",
       "primary_item": {
         "id": "hotelitem_c3e3aec156b1",
         "title": "文化和旅游部印发《公共文化服务体系建设“...",
@@ -902,7 +1138,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-10-04T23:58:26.865872Z"
+          "published_at": "2026-10-05T05:47:35.326739Z"
         }
       ],
       "source_count": 1,
@@ -917,7 +1153,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-10-04T23:58:26.865872Z"
+          "published_at": "2026-10-05T05:47:35.326739Z"
         }
       ],
       "item_count": 1,
@@ -936,132 +1172,14 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-04T23:58:26.865872Z",
-      "latest_at": "2026-10-04T23:58:26.865872Z",
+      "earliest_at": "2026-10-05T05:47:35.326739Z",
+      "latest_at": "2026-10-05T05:47:35.326739Z",
       "primary_item": {
         "id": "hotelitem_8f218475e743",
         "title": "文化和旅游部发布2026年上半年国内居民出游数据情况",
         "url": "https://www.ctaweb.org.cn/gongzuodongtai/10523.html",
         "source": "中国旅游研究院",
         "source_name": "中国旅游研究院"
-      }
-    },
-    {
-      "story_id": "story_9ce9248f9927",
-      "title": "Before the Cape Cod Getaway Begins, Ocean Edge and Travel Outlook Make the First Conversation Count",
-      "url": "https://insights.ehotelier.com/suppliers/2026/10/01/before-the-cape-cod-getaway-begins-ocean-edge-and-travel-outlook-make-the-first-conversation-count/?utm_source=rss&utm_medium=rss&utm_campaign=before-the-cape-cod-getaway-begins-ocean-edge-and-travel-outlook-make-the-first-conversation-count",
-      "primary_url": "https://insights.ehotelier.com/suppliers/2026/10/01/before-the-cape-cod-getaway-begins-ocean-edge-and-travel-outlook-make-the-first-conversation-count/?utm_source=rss&utm_medium=rss&utm_campaign=before-the-cape-cod-getaway-begins-ocean-edge-and-travel-outlook-make-the-first-conversation-count",
-      "source": "eHotelier",
-      "source_name": "eHotelier",
-      "sources": [
-        {
-          "id": "hotelitem_9ce9248f9927",
-          "title": "Before the Cape Cod Getaway Begins, Ocean Edge and Travel Outlook Make the First Conversation Count",
-          "url": "https://insights.ehotelier.com/suppliers/2026/10/01/before-the-cape-cod-getaway-begins-ocean-edge-and-travel-outlook-make-the-first-conversation-count/?utm_source=rss&utm_medium=rss&utm_campaign=before-the-cape-cod-getaway-begins-ocean-edge-and-travel-outlook-make-the-first-conversation-count",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-10-01T02:10:33Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "eHotelier"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_9ce9248f9927",
-          "title": "Before the Cape Cod Getaway Begins, Ocean Edge and Travel Outlook Make the First Conversation Count",
-          "url": "https://insights.ehotelier.com/suppliers/2026/10/01/before-the-cape-cod-getaway-begins-ocean-edge-and-travel-outlook-make-the-first-conversation-count/?utm_source=rss&utm_medium=rss&utm_campaign=before-the-cape-cod-getaway-begins-ocean-edge-and-travel-outlook-make-the-first-conversation-count",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-10-01T02:10:33Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8483,
-      "importance": 0.5826,
-      "importance_score": 0.8483,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9131,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-01T02:10:33Z",
-      "latest_at": "2026-10-01T02:10:33Z",
-      "primary_item": {
-        "id": "hotelitem_9ce9248f9927",
-        "title": "Before the Cape Cod Getaway Begins, Ocean Edge and Travel Outlook Make the First Conversation Count",
-        "url": "https://insights.ehotelier.com/suppliers/2026/10/01/before-the-cape-cod-getaway-begins-ocean-edge-and-travel-outlook-make-the-first-conversation-count/?utm_source=rss&utm_medium=rss&utm_campaign=before-the-cape-cod-getaway-begins-ocean-edge-and-travel-outlook-make-the-first-conversation-count",
-        "source": "eHotelier",
-        "source_name": "eHotelier"
-      }
-    },
-    {
-      "story_id": "story_16d1cb6441ed",
-      "title": "Cloudbeds announces new alliance partnership with Preferred Hotels & Resorts, The World’s Largest Independent Hotel Brand",
-      "url": "https://insights.ehotelier.com/suppliers/2026/10/01/cloudbeds-announces-new-alliance-partnership-with-preferred-hotels-resorts-the-worlds-largest-independent-hotel-brand/?utm_source=rss&utm_medium=rss&utm_campaign=cloudbeds-announces-new-alliance-partnership-with-preferred-hotels-resorts-the-worlds-largest-independent-hotel-brand",
-      "primary_url": "https://insights.ehotelier.com/suppliers/2026/10/01/cloudbeds-announces-new-alliance-partnership-with-preferred-hotels-resorts-the-worlds-largest-independent-hotel-brand/?utm_source=rss&utm_medium=rss&utm_campaign=cloudbeds-announces-new-alliance-partnership-with-preferred-hotels-resorts-the-worlds-largest-independent-hotel-brand",
-      "source": "eHotelier",
-      "source_name": "eHotelier",
-      "sources": [
-        {
-          "id": "hotelitem_16d1cb6441ed",
-          "title": "Cloudbeds announces new alliance partnership with Preferred Hotels & Resorts, The World’s Largest Independent Hotel Brand",
-          "url": "https://insights.ehotelier.com/suppliers/2026/10/01/cloudbeds-announces-new-alliance-partnership-with-preferred-hotels-resorts-the-worlds-largest-independent-hotel-brand/?utm_source=rss&utm_medium=rss&utm_campaign=cloudbeds-announces-new-alliance-partnership-with-preferred-hotels-resorts-the-worlds-largest-independent-hotel-brand",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-10-01T02:05:15Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "eHotelier"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_16d1cb6441ed",
-          "title": "Cloudbeds announces new alliance partnership with Preferred Hotels & Resorts, The World’s Largest Independent Hotel Brand",
-          "url": "https://insights.ehotelier.com/suppliers/2026/10/01/cloudbeds-announces-new-alliance-partnership-with-preferred-hotels-resorts-the-worlds-largest-independent-hotel-brand/?utm_source=rss&utm_medium=rss&utm_campaign=cloudbeds-announces-new-alliance-partnership-with-preferred-hotels-resorts-the-worlds-largest-independent-hotel-brand",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-10-01T02:05:15Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8482,
-      "importance": 0.5826,
-      "importance_score": 0.8482,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9131,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-01T02:05:15Z",
-      "latest_at": "2026-10-01T02:05:15Z",
-      "primary_item": {
-        "id": "hotelitem_16d1cb6441ed",
-        "title": "Cloudbeds announces new alliance partnership with Preferred Hotels & Resorts, The World’s Largest Independent Hotel Brand",
-        "url": "https://insights.ehotelier.com/suppliers/2026/10/01/cloudbeds-announces-new-alliance-partnership-with-preferred-hotels-resorts-the-worlds-largest-independent-hotel-brand/?utm_source=rss&utm_medium=rss&utm_campaign=cloudbeds-announces-new-alliance-partnership-with-preferred-hotels-resorts-the-worlds-largest-independent-hotel-brand",
-        "source": "eHotelier",
-        "source_name": "eHotelier"
       }
     },
     {
@@ -1099,14 +1217,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8401,
-      "importance": 0.5897,
-      "importance_score": 0.8401,
+      "score": 0.8391,
+      "importance": 0.5887,
+      "importance_score": 0.8391,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9487,
+        "recency": 0.9433,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1158,14 +1276,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8394,
-      "importance": 0.589,
-      "importance_score": 0.8394,
+      "score": 0.8383,
+      "importance": 0.5879,
+      "importance_score": 0.8383,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9448,
+        "recency": 0.9395,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1217,14 +1335,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8389,
-      "importance": 0.5885,
-      "importance_score": 0.8389,
+      "score": 0.8379,
+      "importance": 0.5874,
+      "importance_score": 0.8379,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9426,
+        "recency": 0.9372,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1276,14 +1394,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8389,
-      "importance": 0.5885,
-      "importance_score": 0.8389,
+      "score": 0.8379,
+      "importance": 0.5874,
+      "importance_score": 0.8379,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9426,
+        "recency": 0.9372,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1335,14 +1453,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8384,
-      "importance": 0.5724,
-      "importance_score": 0.8384,
+      "score": 0.8374,
+      "importance": 0.5713,
+      "importance_score": 0.8374,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8621,
+        "recency": 0.8567,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1394,14 +1512,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8359,
-      "importance": 0.5854,
-      "importance_score": 0.8359,
+      "score": 0.8349,
+      "importance": 0.5843,
+      "importance_score": 0.8349,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.927,
+        "recency": 0.9217,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1419,62 +1537,62 @@
       }
     },
     {
-      "story_id": "story_1d771b84ec66",
-      "title": "NoMad Hotels appoints three global general managers",
-      "url": "https://boutiquehotelnews.com/news/movers-and-shakers/nomad-hotels-general-managers/?utm_source=rss&utm_medium=rss&utm_campaign=nomad-hotels-general-managers",
-      "primary_url": "https://boutiquehotelnews.com/news/movers-and-shakers/nomad-hotels-general-managers/?utm_source=rss&utm_medium=rss&utm_campaign=nomad-hotels-general-managers",
-      "source": "Boutique Hotel News",
-      "source_name": "Boutique Hotel News",
+      "story_id": "story_44f198d7b3f4",
+      "title": "Marriott International reaches 300 properties in Mexico, with over 70 hotels in the country’s pipeline",
+      "url": "https://insights.ehotelier.com/properties/2026/10/05/marriott-international-reaches-300-properties-in-mexico-with-over-70-hotels-in-the-countrys-pipeline/?utm_source=rss&utm_medium=rss&utm_campaign=marriott-international-reaches-300-properties-in-mexico-with-over-70-hotels-in-the-countrys-pipeline",
+      "primary_url": "https://insights.ehotelier.com/properties/2026/10/05/marriott-international-reaches-300-properties-in-mexico-with-over-70-hotels-in-the-countrys-pipeline/?utm_source=rss&utm_medium=rss&utm_campaign=marriott-international-reaches-300-properties-in-mexico-with-over-70-hotels-in-the-countrys-pipeline",
+      "source": "eHotelier",
+      "source_name": "eHotelier",
       "sources": [
         {
-          "id": "hotelitem_1d771b84ec66",
-          "title": "NoMad Hotels appoints three global general managers",
-          "url": "https://boutiquehotelnews.com/news/movers-and-shakers/nomad-hotels-general-managers/?utm_source=rss&utm_medium=rss&utm_campaign=nomad-hotels-general-managers",
-          "source": "Boutique Hotel News",
-          "source_name": "Boutique Hotel News",
-          "site_id": "boutiquehotel",
-          "published_at": "2026-10-01T08:24:03Z"
+          "id": "hotelitem_44f198d7b3f4",
+          "title": "Marriott International reaches 300 properties in Mexico, with over 70 hotels in the country’s pipeline",
+          "url": "https://insights.ehotelier.com/properties/2026/10/05/marriott-international-reaches-300-properties-in-mexico-with-over-70-hotels-in-the-countrys-pipeline/?utm_source=rss&utm_medium=rss&utm_campaign=marriott-international-reaches-300-properties-in-mexico-with-over-70-hotels-in-the-countrys-pipeline",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-10-05T00:35:50Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Boutique Hotel News"
+        "eHotelier"
       ],
       "items": [
         {
-          "id": "hotelitem_1d771b84ec66",
-          "title": "NoMad Hotels appoints three global general managers",
-          "url": "https://boutiquehotelnews.com/news/movers-and-shakers/nomad-hotels-general-managers/?utm_source=rss&utm_medium=rss&utm_campaign=nomad-hotels-general-managers",
-          "source": "Boutique Hotel News",
-          "source_name": "Boutique Hotel News",
-          "site_id": "boutiquehotel",
-          "published_at": "2026-10-01T08:24:03Z"
+          "id": "hotelitem_44f198d7b3f4",
+          "title": "Marriott International reaches 300 properties in Mexico, with over 70 hotels in the country’s pipeline",
+          "url": "https://insights.ehotelier.com/properties/2026/10/05/marriott-international-reaches-300-properties-in-mexico-with-over-70-hotels-in-the-countrys-pipeline/?utm_source=rss&utm_medium=rss&utm_campaign=marriott-international-reaches-300-properties-in-mexico-with-over-70-hotels-in-the-countrys-pipeline",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-10-05T00:35:50Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8344,
-      "importance": 0.5838,
-      "importance_score": 0.8344,
+      "score": 0.8191,
+      "importance": 0.599,
+      "importance_score": 0.8191,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9189,
+        "recency": 0.9952,
         "story_heat": 0.0
       },
       "category": "watch",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-01T08:24:03Z",
-      "latest_at": "2026-10-01T08:24:03Z",
+      "earliest_at": "2026-10-05T00:35:50Z",
+      "latest_at": "2026-10-05T00:35:50Z",
       "primary_item": {
-        "id": "hotelitem_1d771b84ec66",
-        "title": "NoMad Hotels appoints three global general managers",
-        "url": "https://boutiquehotelnews.com/news/movers-and-shakers/nomad-hotels-general-managers/?utm_source=rss&utm_medium=rss&utm_campaign=nomad-hotels-general-managers",
-        "source": "Boutique Hotel News",
-        "source_name": "Boutique Hotel News"
+        "id": "hotelitem_44f198d7b3f4",
+        "title": "Marriott International reaches 300 properties in Mexico, with over 70 hotels in the country’s pipeline",
+        "url": "https://insights.ehotelier.com/properties/2026/10/05/marriott-international-reaches-300-properties-in-mexico-with-over-70-hotels-in-the-countrys-pipeline/?utm_source=rss&utm_medium=rss&utm_campaign=marriott-international-reaches-300-properties-in-mexico-with-over-70-hotels-in-the-countrys-pipeline",
+        "source": "eHotelier",
+        "source_name": "eHotelier"
       }
     },
     {
@@ -1512,14 +1630,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8142,
-      "importance": 0.5966,
-      "importance_score": 0.8142,
+      "score": 0.8132,
+      "importance": 0.5955,
+      "importance_score": 0.8132,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.983,
+        "recency": 0.9776,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1537,65 +1655,6 @@
       }
     },
     {
-      "story_id": "story_a00c34deb4be",
-      "title": "Unifocus Claira: Workforce Management Redefined",
-      "url": "https://www.hotelmanagement.net/resource/unifocus-claira-workforce-management-redefined",
-      "primary_url": "https://www.hotelmanagement.net/resource/unifocus-claira-workforce-management-redefined",
-      "source": "Hotel Management",
-      "source_name": "Hotel Management",
-      "sources": [
-        {
-          "id": "hotelitem_a00c34deb4be",
-          "title": "Unifocus Claira: Workforce Management Redefined",
-          "url": "https://www.hotelmanagement.net/resource/unifocus-claira-workforce-management-redefined",
-          "source": "Hotel Management",
-          "source_name": "Hotel Management",
-          "site_id": "hotelmgmt",
-          "published_at": "2026-09-24T15:39:57Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hotel Management"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_a00c34deb4be",
-          "title": "Unifocus Claira: Workforce Management Redefined",
-          "url": "https://www.hotelmanagement.net/resource/unifocus-claira-workforce-management-redefined",
-          "source": "Hotel Management",
-          "source_name": "Hotel Management",
-          "site_id": "hotelmgmt",
-          "published_at": "2026-09-24T15:39:57Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8132,
-      "importance": 0.554,
-      "importance_score": 0.8132,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.7701,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-24T15:39:57Z",
-      "latest_at": "2026-09-24T15:39:57Z",
-      "primary_item": {
-        "id": "hotelitem_a00c34deb4be",
-        "title": "Unifocus Claira: Workforce Management Redefined",
-        "url": "https://www.hotelmanagement.net/resource/unifocus-claira-workforce-management-redefined",
-        "source": "Hotel Management",
-        "source_name": "Hotel Management"
-      }
-    },
-    {
       "story_id": "story_69c4ef2b3d80",
       "title": "Agoda Partners Kaohsiung City Government to  ... Digital travel platform Agoda and the Kaohsiung City Government have signed a Memorandum of Understand ... September 11, 2026 / Partnership",
       "url": "https://www.agoda.com/press/agoda-partners-kaohsiung-city-government/",
@@ -1610,7 +1669,7 @@
           "source": "Agoda",
           "source_name": "Agoda",
           "site_id": "agoda_press",
-          "published_at": "2026-10-04T23:58:26.865872Z"
+          "published_at": "2026-10-05T05:47:35.326739Z"
         }
       ],
       "source_count": 1,
@@ -1625,7 +1684,7 @@
           "source": "Agoda",
           "source_name": "Agoda",
           "site_id": "agoda_press",
-          "published_at": "2026-10-04T23:58:26.865872Z"
+          "published_at": "2026-10-05T05:47:35.326739Z"
         }
       ],
       "item_count": 1,
@@ -1644,8 +1703,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-04T23:58:26.865872Z",
-      "latest_at": "2026-10-04T23:58:26.865872Z",
+      "earliest_at": "2026-10-05T05:47:35.326739Z",
+      "latest_at": "2026-10-05T05:47:35.326739Z",
       "primary_item": {
         "id": "hotelitem_69c4ef2b3d80",
         "title": "Agoda Partners Kaohsiung City Government to  ... Digital travel platform Agoda and the Kaohsiung City Government have signed a Memorandum of Understand ... September 11, 2026 / Partnership",
@@ -1669,7 +1728,7 @@
           "source": "Agoda",
           "source_name": "Agoda",
           "site_id": "agoda_press",
-          "published_at": "2026-10-04T23:58:26.865872Z"
+          "published_at": "2026-10-05T05:47:35.326739Z"
         }
       ],
       "source_count": 1,
@@ -1684,7 +1743,7 @@
           "source": "Agoda",
           "source_name": "Agoda",
           "site_id": "agoda_press",
-          "published_at": "2026-10-04T23:58:26.865872Z"
+          "published_at": "2026-10-05T05:47:35.326739Z"
         }
       ],
       "item_count": 1,
@@ -1703,8 +1762,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-04T23:58:26.865872Z",
-      "latest_at": "2026-10-04T23:58:26.865872Z",
+      "earliest_at": "2026-10-05T05:47:35.326739Z",
+      "latest_at": "2026-10-05T05:47:35.326739Z",
       "primary_item": {
         "id": "hotelitem_e8ae1de14799",
         "title": "Agoda Partners with Marina Bay Sands on Besp ... The custom digital storefront brings together Marina Bay Sands’ rooms, suites and resort experiences,  ... October 1, 2026 / Partnership",
@@ -1728,7 +1787,7 @@
           "source": "Agoda",
           "source_name": "Agoda",
           "site_id": "agoda_press",
-          "published_at": "2026-10-04T23:58:26.865872Z"
+          "published_at": "2026-10-05T05:47:35.326739Z"
         }
       ],
       "source_count": 1,
@@ -1743,7 +1802,7 @@
           "source": "Agoda",
           "source_name": "Agoda",
           "site_id": "agoda_press",
-          "published_at": "2026-10-04T23:58:26.865872Z"
+          "published_at": "2026-10-05T05:47:35.326739Z"
         }
       ],
       "item_count": 1,
@@ -1762,71 +1821,12 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-04T23:58:26.865872Z",
-      "latest_at": "2026-10-04T23:58:26.865872Z",
+      "earliest_at": "2026-10-05T05:47:35.326739Z",
+      "latest_at": "2026-10-05T05:47:35.326739Z",
       "primary_item": {
         "id": "hotelitem_aa68e9432a35",
         "title": "Agoda Reveals Growing Asian Appetite for Ger ... As the 191st Oktoberfest draws to a close, Asia’s appetite for Germany’s world-famous beer festival ap ... October 2, 2026 / Travel Trends",
         "url": "https://www.agoda.com/press/agoda-reveals-growing-asian-appetite-for-germanys-oktoberfest/",
-        "source": "Agoda",
-        "source_name": "Agoda"
-      }
-    },
-    {
-      "story_id": "story_8c5f0ae63982",
-      "title": "Agoda and KakaoBank Partner to Offer Travel  ... Providing seamless access to stay options on one of Korea’s leading digital banks’ app, featuring disc ... May 28, 2026 / Partnership",
-      "url": "https://www.agoda.com/press/agoda-and-kakaobank-partner-to-offer-travel-booking-experience-on-digital-banking-app/",
-      "primary_url": "https://www.agoda.com/press/agoda-and-kakaobank-partner-to-offer-travel-booking-experience-on-digital-banking-app/",
-      "source": "Agoda",
-      "source_name": "Agoda",
-      "sources": [
-        {
-          "id": "hotelitem_8c5f0ae63982",
-          "title": "Agoda and KakaoBank Partner to Offer Travel  ... Providing seamless access to stay options on one of Korea’s leading digital banks’ app, featuring disc ... May 28, 2026 / Partnership",
-          "url": "https://www.agoda.com/press/agoda-and-kakaobank-partner-to-offer-travel-booking-experience-on-digital-banking-app/",
-          "source": "Agoda",
-          "source_name": "Agoda",
-          "site_id": "agoda_press",
-          "published_at": "2026-10-04T23:58:26.865872Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Agoda"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_8c5f0ae63982",
-          "title": "Agoda and KakaoBank Partner to Offer Travel  ... Providing seamless access to stay options on one of Korea’s leading digital banks’ app, featuring disc ... May 28, 2026 / Partnership",
-          "url": "https://www.agoda.com/press/agoda-and-kakaobank-partner-to-offer-travel-booking-experience-on-digital-banking-app/",
-          "source": "Agoda",
-          "source_name": "Agoda",
-          "site_id": "agoda_press",
-          "published_at": "2026-10-04T23:58:26.865872Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8125,
-      "importance": 0.6,
-      "importance_score": 0.8125,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-04T23:58:26.865872Z",
-      "latest_at": "2026-10-04T23:58:26.865872Z",
-      "primary_item": {
-        "id": "hotelitem_8c5f0ae63982",
-        "title": "Agoda and KakaoBank Partner to Offer Travel  ... Providing seamless access to stay options on one of Korea’s leading digital banks’ app, featuring disc ... May 28, 2026 / Partnership",
-        "url": "https://www.agoda.com/press/agoda-and-kakaobank-partner-to-offer-travel-booking-experience-on-digital-banking-app/",
         "source": "Agoda",
         "source_name": "Agoda"
       }
