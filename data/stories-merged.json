@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T06:26:52.063753Z",
+  "generated_at": "2026-10-06T15:59:00.992832Z",
   "window_hours": 1080,
   "total_stories": 30,
   "stories": [
@@ -38,14 +38,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.954,
-      "importance": 0.5989,
-      "importance_score": 0.954,
+      "score": 0.9523,
+      "importance": 0.5972,
+      "importance_score": 0.9523,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9946,
+        "recency": 0.9858,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -97,14 +97,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.954,
-      "importance": 0.5989,
-      "importance_score": 0.954,
+      "score": 0.9523,
+      "importance": 0.5972,
+      "importance_score": 0.9523,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9947,
+        "recency": 0.9859,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -156,14 +156,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.954,
-      "importance": 0.599,
-      "importance_score": 0.954,
+      "score": 0.9523,
+      "importance": 0.5972,
+      "importance_score": 0.9523,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.995,
+        "recency": 0.9861,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -215,14 +215,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.954,
-      "importance": 0.599,
-      "importance_score": 0.954,
+      "score": 0.9523,
+      "importance": 0.5972,
+      "importance_score": 0.9523,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.995,
+        "recency": 0.9862,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -240,8 +240,67 @@
       }
     },
     {
+      "story_id": "story_253822d237b7",
+      "title": "Travel + Leisure Taps Wyndham to Take Sports Illustrated Resorts Into Hotels",
+      "url": "https://skift.com/2026/10/05/travel-leisure-taps-wyndham-to-take-sports-illustrated-resorts-into-hotels/",
+      "primary_url": "https://skift.com/2026/10/05/travel-leisure-taps-wyndham-to-take-sports-illustrated-resorts-into-hotels/",
+      "source": "Skift Hospitality",
+      "source_name": "Skift Hospitality",
+      "sources": [
+        {
+          "id": "hotelitem_253822d237b7",
+          "title": "Travel + Leisure Taps Wyndham to Take Sports Illustrated Resorts Into Hotels",
+          "url": "https://skift.com/2026/10/05/travel-leisure-taps-wyndham-to-take-sports-illustrated-resorts-into-hotels/",
+          "source": "Skift Hospitality",
+          "source_name": "Skift Hospitality",
+          "site_id": "skift",
+          "published_at": "2026-10-05T21:23:01Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Skift Hospitality"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_253822d237b7",
+          "title": "Travel + Leisure Taps Wyndham to Take Sports Illustrated Resorts Into Hotels",
+          "url": "https://skift.com/2026/10/05/travel-leisure-taps-wyndham-to-take-sports-illustrated-resorts-into-hotels/",
+          "source": "Skift Hospitality",
+          "source_name": "Skift Hospitality",
+          "site_id": "skift",
+          "published_at": "2026-10-05T21:23:01Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.9517,
+      "importance": 0.5966,
+      "importance_score": 0.9517,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9828,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-05T21:23:01Z",
+      "latest_at": "2026-10-05T21:23:01Z",
+      "primary_item": {
+        "id": "hotelitem_253822d237b7",
+        "title": "Travel + Leisure Taps Wyndham to Take Sports Illustrated Resorts Into Hotels",
+        "url": "https://skift.com/2026/10/05/travel-leisure-taps-wyndham-to-take-sports-illustrated-resorts-into-hotels/",
+        "source": "Skift Hospitality",
+        "source_name": "Skift Hospitality"
+      }
+    },
+    {
       "story_id": "story_e1c0375ce136",
-      "title": "Travel + Leisure Co. taps Wyndham to scale hotels under Sports Illustrated Resorts",
+      "title": "Wyndham, Travel + Leisure Co. team up to scale Sports Illustrated Resorts",
       "url": "https://www.hoteldive.com/news/travel-leisure-wyndham-sports-illustrated-resorts-partnership/832107/",
       "primary_url": "https://www.hoteldive.com/news/travel-leisure-wyndham-sports-illustrated-resorts-partnership/832107/",
       "source": "Hotel Dive",
@@ -249,7 +308,7 @@
       "sources": [
         {
           "id": "hotelitem_e1c0375ce136",
-          "title": "Travel + Leisure Co. taps Wyndham to scale hotels under Sports Illustrated Resorts",
+          "title": "Wyndham, Travel + Leisure Co. team up to scale Sports Illustrated Resorts",
           "url": "https://www.hoteldive.com/news/travel-leisure-wyndham-sports-illustrated-resorts-partnership/832107/",
           "source": "Hotel Dive",
           "source_name": "Hotel Dive",
@@ -264,7 +323,7 @@
       "items": [
         {
           "id": "hotelitem_e1c0375ce136",
-          "title": "Travel + Leisure Co. taps Wyndham to scale hotels under Sports Illustrated Resorts",
+          "title": "Wyndham, Travel + Leisure Co. team up to scale Sports Illustrated Resorts",
           "url": "https://www.hoteldive.com/news/travel-leisure-wyndham-sports-illustrated-resorts-partnership/832107/",
           "source": "Hotel Dive",
           "source_name": "Hotel Dive",
@@ -274,14 +333,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.952,
-      "importance": 0.5969,
-      "importance_score": 0.952,
+      "score": 0.9503,
+      "importance": 0.5952,
+      "importance_score": 0.9503,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9846,
+        "recency": 0.9758,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -292,10 +351,69 @@
       "latest_at": "2026-10-05T13:48:55Z",
       "primary_item": {
         "id": "hotelitem_e1c0375ce136",
-        "title": "Travel + Leisure Co. taps Wyndham to scale hotels under Sports Illustrated Resorts",
+        "title": "Wyndham, Travel + Leisure Co. team up to scale Sports Illustrated Resorts",
         "url": "https://www.hoteldive.com/news/travel-leisure-wyndham-sports-illustrated-resorts-partnership/832107/",
         "source": "Hotel Dive",
         "source_name": "Hotel Dive"
+      }
+    },
+    {
+      "story_id": "story_a083a31222b2",
+      "title": "Accor expands into living sector with Australian BTR and PBSA partnership",
+      "url": "https://boutiquehotelnews.com/news/industry/accor-btr-pbsa/?utm_source=rss&utm_medium=rss&utm_campaign=accor-btr-pbsa",
+      "primary_url": "https://boutiquehotelnews.com/news/industry/accor-btr-pbsa/?utm_source=rss&utm_medium=rss&utm_campaign=accor-btr-pbsa",
+      "source": "Boutique Hotel News",
+      "source_name": "Boutique Hotel News",
+      "sources": [
+        {
+          "id": "hotelitem_a083a31222b2",
+          "title": "Accor expands into living sector with Australian BTR and PBSA partnership",
+          "url": "https://boutiquehotelnews.com/news/industry/accor-btr-pbsa/?utm_source=rss&utm_medium=rss&utm_campaign=accor-btr-pbsa",
+          "source": "Boutique Hotel News",
+          "source_name": "Boutique Hotel News",
+          "site_id": "boutiquehotel",
+          "published_at": "2026-10-06T13:23:34Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Boutique Hotel News"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_a083a31222b2",
+          "title": "Accor expands into living sector with Australian BTR and PBSA partnership",
+          "url": "https://boutiquehotelnews.com/news/industry/accor-btr-pbsa/?utm_source=rss&utm_medium=rss&utm_campaign=accor-btr-pbsa",
+          "source": "Boutique Hotel News",
+          "source_name": "Boutique Hotel News",
+          "site_id": "boutiquehotel",
+          "published_at": "2026-10-06T13:23:34Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.9395,
+      "importance": 0.5995,
+      "importance_score": 0.9395,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9976,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-06T13:23:34Z",
+      "latest_at": "2026-10-06T13:23:34Z",
+      "primary_item": {
+        "id": "hotelitem_a083a31222b2",
+        "title": "Accor expands into living sector with Australian BTR and PBSA partnership",
+        "url": "https://boutiquehotelnews.com/news/industry/accor-btr-pbsa/?utm_source=rss&utm_medium=rss&utm_campaign=accor-btr-pbsa",
+        "source": "Boutique Hotel News",
+        "source_name": "Boutique Hotel News"
       }
     },
     {
@@ -333,14 +451,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9391,
-      "importance": 0.5835,
-      "importance_score": 0.9391,
+      "score": 0.9374,
+      "importance": 0.5818,
+      "importance_score": 0.9374,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9177,
+        "recency": 0.9089,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -392,14 +510,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9381,
-      "importance": 0.598,
-      "importance_score": 0.9381,
+      "score": 0.9364,
+      "importance": 0.5963,
+      "importance_score": 0.9364,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9902,
+        "recency": 0.9813,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -451,14 +569,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9375,
-      "importance": 0.5974,
-      "importance_score": 0.9375,
+      "score": 0.9358,
+      "importance": 0.5957,
+      "importance_score": 0.9358,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9872,
+        "recency": 0.9783,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -476,17 +594,17 @@
       }
     },
     {
-      "story_id": "story_8d467255ea1f",
+      "story_id": "story_c80f31573d67",
       "title": "Choice Hotels Opens Its 600th Extended-Stay Property",
-      "url": "https://lodgingmagazine.com/choice-hotels-opens-its-600th-extended-stay-property/",
-      "primary_url": "https://lodgingmagazine.com/choice-hotels-opens-its-600th-extended-stay-property/",
+      "url": "https://lodgingmagazine.com/choice-hotels-opens-600th-extended-stay-property/",
+      "primary_url": "https://lodgingmagazine.com/choice-hotels-opens-600th-extended-stay-property/",
       "source": "Lodging Magazine",
       "source_name": "Lodging Magazine",
       "sources": [
         {
-          "id": "hotelitem_8d467255ea1f",
+          "id": "hotelitem_c80f31573d67",
           "title": "Choice Hotels Opens Its 600th Extended-Stay Property",
-          "url": "https://lodgingmagazine.com/choice-hotels-opens-its-600th-extended-stay-property/",
+          "url": "https://lodgingmagazine.com/choice-hotels-opens-600th-extended-stay-property/",
           "source": "Lodging Magazine",
           "source_name": "Lodging Magazine",
           "site_id": "lodgingmag",
@@ -499,9 +617,9 @@
       ],
       "items": [
         {
-          "id": "hotelitem_8d467255ea1f",
+          "id": "hotelitem_c80f31573d67",
           "title": "Choice Hotels Opens Its 600th Extended-Stay Property",
-          "url": "https://lodgingmagazine.com/choice-hotels-opens-its-600th-extended-stay-property/",
+          "url": "https://lodgingmagazine.com/choice-hotels-opens-600th-extended-stay-property/",
           "source": "Lodging Magazine",
           "source_name": "Lodging Magazine",
           "site_id": "lodgingmag",
@@ -510,14 +628,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.937,
-      "importance": 0.5969,
-      "importance_score": 0.937,
+      "score": 0.9353,
+      "importance": 0.5951,
+      "importance_score": 0.9353,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9844,
+        "recency": 0.9756,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -527,70 +645,70 @@
       "earliest_at": "2026-10-05T13:39:04Z",
       "latest_at": "2026-10-05T13:39:04Z",
       "primary_item": {
-        "id": "hotelitem_8d467255ea1f",
+        "id": "hotelitem_c80f31573d67",
         "title": "Choice Hotels Opens Its 600th Extended-Stay Property",
-        "url": "https://lodgingmagazine.com/choice-hotels-opens-its-600th-extended-stay-property/",
+        "url": "https://lodgingmagazine.com/choice-hotels-opens-600th-extended-stay-property/",
         "source": "Lodging Magazine",
         "source_name": "Lodging Magazine"
       }
     },
     {
-      "story_id": "story_41e5745fd21f",
-      "title": "Travel + Leisure Co. Expands Partnership with Wyndham to Advance Sports Illustrated Resorts Brand",
-      "url": "https://lodgingmagazine.com/travel-leisure-co-expands-partnership-with-wyndham-to-advance-sports-illustrated-resorts-brand/",
-      "primary_url": "https://lodgingmagazine.com/travel-leisure-co-expands-partnership-with-wyndham-to-advance-sports-illustrated-resorts-brand/",
-      "source": "Lodging Magazine",
-      "source_name": "Lodging Magazine",
+      "story_id": "story_dbd532356c04",
+      "title": "Choice Hotels Buys RV Club Harvest Hosts for $130 Million",
+      "url": "https://skift.com/2026/09/30/choice-hotels-buys-rv-club-harvest-hosts-for-130-million/",
+      "primary_url": "https://skift.com/2026/09/30/choice-hotels-buys-rv-club-harvest-hosts-for-130-million/",
+      "source": "Skift Hospitality",
+      "source_name": "Skift Hospitality",
       "sources": [
         {
-          "id": "hotelitem_41e5745fd21f",
-          "title": "Travel + Leisure Co. Expands Partnership with Wyndham to Advance Sports Illustrated Resorts Brand",
-          "url": "https://lodgingmagazine.com/travel-leisure-co-expands-partnership-with-wyndham-to-advance-sports-illustrated-resorts-brand/",
-          "source": "Lodging Magazine",
-          "source_name": "Lodging Magazine",
-          "site_id": "lodgingmag",
-          "published_at": "2026-10-05T12:02:13Z"
+          "id": "hotelitem_dbd532356c04",
+          "title": "Choice Hotels Buys RV Club Harvest Hosts for $130 Million",
+          "url": "https://skift.com/2026/09/30/choice-hotels-buys-rv-club-harvest-hosts-for-130-million/",
+          "source": "Skift Hospitality",
+          "source_name": "Skift Hospitality",
+          "site_id": "skift",
+          "published_at": "2026-09-30T13:40:18Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Lodging Magazine"
+        "Skift Hospitality"
       ],
       "items": [
         {
-          "id": "hotelitem_41e5745fd21f",
-          "title": "Travel + Leisure Co. Expands Partnership with Wyndham to Advance Sports Illustrated Resorts Brand",
-          "url": "https://lodgingmagazine.com/travel-leisure-co-expands-partnership-with-wyndham-to-advance-sports-illustrated-resorts-brand/",
-          "source": "Lodging Magazine",
-          "source_name": "Lodging Magazine",
-          "site_id": "lodgingmag",
-          "published_at": "2026-10-05T12:02:13Z"
+          "id": "hotelitem_dbd532356c04",
+          "title": "Choice Hotels Buys RV Club Harvest Hosts for $130 Million",
+          "url": "https://skift.com/2026/09/30/choice-hotels-buys-rv-club-harvest-hosts-for-130-million/",
+          "source": "Skift Hospitality",
+          "source_name": "Skift Hospitality",
+          "site_id": "skift",
+          "published_at": "2026-09-30T13:40:18Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9367,
-      "importance": 0.5966,
-      "importance_score": 0.9367,
+      "score": 0.9289,
+      "importance": 0.5729,
+      "importance_score": 0.9289,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.983,
+        "recency": 0.8645,
         "story_heat": 0.0
       },
       "category": "watch",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-05T12:02:13Z",
-      "latest_at": "2026-10-05T12:02:13Z",
+      "earliest_at": "2026-09-30T13:40:18Z",
+      "latest_at": "2026-09-30T13:40:18Z",
       "primary_item": {
-        "id": "hotelitem_41e5745fd21f",
-        "title": "Travel + Leisure Co. Expands Partnership with Wyndham to Advance Sports Illustrated Resorts Brand",
-        "url": "https://lodgingmagazine.com/travel-leisure-co-expands-partnership-with-wyndham-to-advance-sports-illustrated-resorts-brand/",
-        "source": "Lodging Magazine",
-        "source_name": "Lodging Magazine"
+        "id": "hotelitem_dbd532356c04",
+        "title": "Choice Hotels Buys RV Club Harvest Hosts for $130 Million",
+        "url": "https://skift.com/2026/09/30/choice-hotels-buys-rv-club-harvest-hosts-for-130-million/",
+        "source": "Skift Hospitality",
+        "source_name": "Skift Hospitality"
       }
     },
     {
@@ -628,14 +746,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9306,
-      "importance": 0.5747,
-      "importance_score": 0.9306,
+      "score": 0.9289,
+      "importance": 0.5729,
+      "importance_score": 0.9289,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8734,
+        "recency": 0.8646,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -667,7 +785,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-10-06T06:26:52.063753Z"
+          "published_at": "2026-10-06T15:59:00.992832Z"
         }
       ],
       "source_count": 1,
@@ -682,7 +800,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-10-06T06:26:52.063753Z"
+          "published_at": "2026-10-06T15:59:00.992832Z"
         }
       ],
       "item_count": 1,
@@ -701,14 +819,73 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-06T06:26:52.063753Z",
-      "latest_at": "2026-10-06T06:26:52.063753Z",
+      "earliest_at": "2026-10-06T15:59:00.992832Z",
+      "latest_at": "2026-10-06T15:59:00.992832Z",
       "primary_item": {
         "id": "hotelitem_06f191e24d38",
         "title": "文旅惠报|复星国际申请分拆Club Med在港上市；南京商旅上半年营收3.66亿元",
         "url": "https://www.tripvivid.com/47868.html",
         "source": "执惠 TripVivid",
         "source_name": "执惠 TripVivid"
+      }
+    },
+    {
+      "story_id": "story_905ecd8e5c2c",
+      "title": "Inside Mews’ $2.5 Billion Valuation: Can the Economics Catch Up?",
+      "url": "https://skift.com/2026/10/06/inside-mews-2-5-billion-valuation-can-the-economics-catch-up/",
+      "primary_url": "https://skift.com/2026/10/06/inside-mews-2-5-billion-valuation-can-the-economics-catch-up/",
+      "source": "Skift Hospitality",
+      "source_name": "Skift Hospitality",
+      "sources": [
+        {
+          "id": "hotelitem_905ecd8e5c2c",
+          "title": "Inside Mews’ $2.5 Billion Valuation: Can the Economics Catch Up?",
+          "url": "https://skift.com/2026/10/06/inside-mews-2-5-billion-valuation-can-the-economics-catch-up/",
+          "source": "Skift Hospitality",
+          "source_name": "Skift Hospitality",
+          "site_id": "skift",
+          "published_at": "2026-10-06T15:49:56Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Skift Hospitality"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_905ecd8e5c2c",
+          "title": "Inside Mews’ $2.5 Billion Valuation: Can the Economics Catch Up?",
+          "url": "https://skift.com/2026/10/06/inside-mews-2-5-billion-valuation-can-the-economics-catch-up/",
+          "source": "Skift Hospitality",
+          "source_name": "Skift Hospitality",
+          "site_id": "skift",
+          "published_at": "2026-10-06T15:49:56Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.865,
+      "importance": 0.6,
+      "importance_score": 0.865,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9999,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-06T15:49:56Z",
+      "latest_at": "2026-10-06T15:49:56Z",
+      "primary_item": {
+        "id": "hotelitem_905ecd8e5c2c",
+        "title": "Inside Mews’ $2.5 Billion Valuation: Can the Economics Catch Up?",
+        "url": "https://skift.com/2026/10/06/inside-mews-2-5-billion-valuation-can-the-economics-catch-up/",
+        "source": "Skift Hospitality",
+        "source_name": "Skift Hospitality"
       }
     },
     {
@@ -746,14 +923,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.864,
-      "importance": 0.599,
-      "importance_score": 0.864,
+      "score": 0.8623,
+      "importance": 0.5972,
+      "importance_score": 0.8623,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9949,
+        "recency": 0.9861,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -785,7 +962,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-10-06T06:26:52.063753Z"
+          "published_at": "2026-10-06T15:59:00.992832Z"
         },
         {
           "id": "hotelitem_c7c15b7680c9",
@@ -794,7 +971,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-10-06T06:26:52.063753Z"
+          "published_at": "2026-10-06T15:59:00.992832Z"
         }
       ],
       "source_count": 2,
@@ -809,7 +986,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-10-06T06:26:52.063753Z"
+          "published_at": "2026-10-06T15:59:00.992832Z"
         },
         {
           "id": "hotelitem_c7c15b7680c9",
@@ -818,7 +995,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-10-06T06:26:52.063753Z"
+          "published_at": "2026-10-06T15:59:00.992832Z"
         }
       ],
       "item_count": 2,
@@ -838,8 +1015,8 @@
         "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-06T06:26:52.063753Z",
-      "latest_at": "2026-10-06T06:26:52.063753Z",
+      "earliest_at": "2026-10-06T15:59:00.992832Z",
+      "latest_at": "2026-10-06T15:59:00.992832Z",
       "primary_item": {
         "id": "hotelitem_d4370964909c",
         "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
@@ -863,7 +1040,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-10-06T06:26:52.063753Z"
+          "published_at": "2026-10-06T15:59:00.992832Z"
         },
         {
           "id": "hotelitem_1243e4eead68",
@@ -872,7 +1049,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-10-06T06:26:52.063753Z"
+          "published_at": "2026-10-06T15:59:00.992832Z"
         }
       ],
       "source_count": 2,
@@ -887,7 +1064,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-10-06T06:26:52.063753Z"
+          "published_at": "2026-10-06T15:59:00.992832Z"
         },
         {
           "id": "hotelitem_1243e4eead68",
@@ -896,7 +1073,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-10-06T06:26:52.063753Z"
+          "published_at": "2026-10-06T15:59:00.992832Z"
         }
       ],
       "item_count": 2,
@@ -916,14 +1093,73 @@
         "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-06T06:26:52.063753Z",
-      "latest_at": "2026-10-06T06:26:52.063753Z",
+      "earliest_at": "2026-10-06T15:59:00.992832Z",
+      "latest_at": "2026-10-06T15:59:00.992832Z",
       "primary_item": {
         "id": "hotelitem_b30c7ac8b6e5",
         "title": "指数发布 | 中国住宿业消费指数报告（2026年8月）发布 为贯彻落实提振消费相关政策，真实反映中国住宿餐饮业市场消费情况，以数据引导促消费政策精准发力，为行业发展提供参考建议，中国饭店协会每月公开发布“中国饭店业消费指数体系”，包含“中国住宿业消费指数（China Hotel Industry Consumption Index, HCI）”与“中国餐饮业消费指数（China Catering Industry Consumption Index, CCI）”，欢迎关注。\n本篇发布的是“中国住宿业消费指数”。",
         "url": "https://www.chinahotel.org.cn/articles/18010",
         "source": "中国饭店协会",
         "source_name": "中国饭店协会"
+      }
+    },
+    {
+      "story_id": "story_b4e38a7a5c95",
+      "title": "Gulf Hotel Deals Stall as U.S.-Iran War Scrambles Valuations",
+      "url": "https://skift.com/2026/10/05/gulf-hotel-deals-stall-as-u-s-iran-war-scrambles-valuations/",
+      "primary_url": "https://skift.com/2026/10/05/gulf-hotel-deals-stall-as-u-s-iran-war-scrambles-valuations/",
+      "source": "Skift Hospitality",
+      "source_name": "Skift Hospitality",
+      "sources": [
+        {
+          "id": "hotelitem_b4e38a7a5c95",
+          "title": "Gulf Hotel Deals Stall as U.S.-Iran War Scrambles Valuations",
+          "url": "https://skift.com/2026/10/05/gulf-hotel-deals-stall-as-u-s-iran-war-scrambles-valuations/",
+          "source": "Skift Hospitality",
+          "source_name": "Skift Hospitality",
+          "site_id": "skift",
+          "published_at": "2026-10-05T09:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Skift Hospitality"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_b4e38a7a5c95",
+          "title": "Gulf Hotel Deals Stall as U.S.-Iran War Scrambles Valuations",
+          "url": "https://skift.com/2026/10/05/gulf-hotel-deals-stall-as-u-s-iran-war-scrambles-valuations/",
+          "source": "Skift Hospitality",
+          "source_name": "Skift Hospitality",
+          "site_id": "skift",
+          "published_at": "2026-10-05T09:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8595,
+      "importance": 0.5943,
+      "importance_score": 0.8595,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9713,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-05T09:00:00Z",
+      "latest_at": "2026-10-05T09:00:00Z",
+      "primary_item": {
+        "id": "hotelitem_b4e38a7a5c95",
+        "title": "Gulf Hotel Deals Stall as U.S.-Iran War Scrambles Valuations",
+        "url": "https://skift.com/2026/10/05/gulf-hotel-deals-stall-as-u-s-iran-war-scrambles-valuations/",
+        "source": "Skift Hospitality",
+        "source_name": "Skift Hospitality"
       }
     },
     {
@@ -961,14 +1197,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8599,
-      "importance": 0.5947,
-      "importance_score": 0.8599,
+      "score": 0.8582,
+      "importance": 0.5929,
+      "importance_score": 0.8582,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9735,
+        "recency": 0.9646,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1020,14 +1256,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8599,
-      "importance": 0.5947,
-      "importance_score": 0.8599,
+      "score": 0.8582,
+      "importance": 0.5929,
+      "importance_score": 0.8582,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9735,
+        "recency": 0.9647,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1079,14 +1315,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8599,
-      "importance": 0.5947,
-      "importance_score": 0.8599,
+      "score": 0.8582,
+      "importance": 0.593,
+      "importance_score": 0.8582,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9736,
+        "recency": 0.9648,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1118,7 +1354,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-10-06T06:26:52.063753Z"
+          "published_at": "2026-10-06T15:59:00.992832Z"
         }
       ],
       "source_count": 1,
@@ -1133,7 +1369,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-10-06T06:26:52.063753Z"
+          "published_at": "2026-10-06T15:59:00.992832Z"
         }
       ],
       "item_count": 1,
@@ -1152,8 +1388,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-06T06:26:52.063753Z",
-      "latest_at": "2026-10-06T06:26:52.063753Z",
+      "earliest_at": "2026-10-06T15:59:00.992832Z",
+      "latest_at": "2026-10-06T15:59:00.992832Z",
       "primary_item": {
         "id": "hotelitem_e4ce0593c384",
         "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
@@ -1177,7 +1413,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-10-06T06:26:52.063753Z"
+          "published_at": "2026-10-06T15:59:00.992832Z"
         }
       ],
       "source_count": 1,
@@ -1192,7 +1428,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-10-06T06:26:52.063753Z"
+          "published_at": "2026-10-06T15:59:00.992832Z"
         }
       ],
       "item_count": 1,
@@ -1211,8 +1447,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-06T06:26:52.063753Z",
-      "latest_at": "2026-10-06T06:26:52.063753Z",
+      "earliest_at": "2026-10-06T15:59:00.992832Z",
+      "latest_at": "2026-10-06T15:59:00.992832Z",
       "primary_item": {
         "id": "hotelitem_b0f4757ffc95",
         "title": "文化和旅游部 中国气象局联合发布2026年国庆...",
@@ -1236,7 +1472,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-10-06T06:26:52.063753Z"
+          "published_at": "2026-10-06T15:59:00.992832Z"
         }
       ],
       "source_count": 1,
@@ -1251,7 +1487,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-10-06T06:26:52.063753Z"
+          "published_at": "2026-10-06T15:59:00.992832Z"
         }
       ],
       "item_count": 1,
@@ -1270,8 +1506,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-06T06:26:52.063753Z",
-      "latest_at": "2026-10-06T06:26:52.063753Z",
+      "earliest_at": "2026-10-06T15:59:00.992832Z",
+      "latest_at": "2026-10-06T15:59:00.992832Z",
       "primary_item": {
         "id": "hotelitem_8dd9d6a00599",
         "title": "文化和旅游部中秋、国庆假期出游提示",
@@ -1295,7 +1531,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-10-06T06:26:52.063753Z"
+          "published_at": "2026-10-06T15:59:00.992832Z"
         }
       ],
       "source_count": 1,
@@ -1310,7 +1546,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-10-06T06:26:52.063753Z"
+          "published_at": "2026-10-06T15:59:00.992832Z"
         }
       ],
       "item_count": 1,
@@ -1329,8 +1565,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-06T06:26:52.063753Z",
-      "latest_at": "2026-10-06T06:26:52.063753Z",
+      "earliest_at": "2026-10-06T15:59:00.992832Z",
+      "latest_at": "2026-10-06T15:59:00.992832Z",
       "primary_item": {
         "id": "hotelitem_c3e3aec156b1",
         "title": "文化和旅游部印发《公共文化服务体系建设“...",
@@ -1354,7 +1590,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-10-06T06:26:52.063753Z"
+          "published_at": "2026-10-06T15:59:00.992832Z"
         }
       ],
       "source_count": 1,
@@ -1369,7 +1605,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-10-06T06:26:52.063753Z"
+          "published_at": "2026-10-06T15:59:00.992832Z"
         }
       ],
       "item_count": 1,
@@ -1388,8 +1624,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-06T06:26:52.063753Z",
-      "latest_at": "2026-10-06T06:26:52.063753Z",
+      "earliest_at": "2026-10-06T15:59:00.992832Z",
+      "latest_at": "2026-10-06T15:59:00.992832Z",
       "primary_item": {
         "id": "hotelitem_e63a36930397",
         "title": "文化和旅游部印发《艺术发展“十五五”规划》",
@@ -1413,7 +1649,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-10-06T06:26:52.063753Z"
+          "published_at": "2026-10-06T15:59:00.992832Z"
         }
       ],
       "source_count": 1,
@@ -1428,7 +1664,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-10-06T06:26:52.063753Z"
+          "published_at": "2026-10-06T15:59:00.992832Z"
         }
       ],
       "item_count": 1,
@@ -1447,14 +1683,73 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-06T06:26:52.063753Z",
-      "latest_at": "2026-10-06T06:26:52.063753Z",
+      "earliest_at": "2026-10-06T15:59:00.992832Z",
+      "latest_at": "2026-10-06T15:59:00.992832Z",
       "primary_item": {
         "id": "hotelitem_8f218475e743",
         "title": "文化和旅游部发布2026年上半年国内居民出游数据情况",
         "url": "https://www.ctaweb.org.cn/gongzuodongtai/10523.html",
         "source": "中国旅游研究院",
         "source_name": "中国旅游研究院"
+      }
+    },
+    {
+      "story_id": "story_ced8720ba5b4",
+      "title": "Access Point Financial Shares Findings From Its State of the Hotel Construction Loan Report",
+      "url": "https://lodgingmagazine.com/access-point-financial-shares-findings-from-its-state-of-the-hotel-construction-loan-report/",
+      "primary_url": "https://lodgingmagazine.com/access-point-financial-shares-findings-from-its-state-of-the-hotel-construction-loan-report/",
+      "source": "Lodging Magazine",
+      "source_name": "Lodging Magazine",
+      "sources": [
+        {
+          "id": "hotelitem_ced8720ba5b4",
+          "title": "Access Point Financial Shares Findings From Its State of the Hotel Construction Loan Report",
+          "url": "https://lodgingmagazine.com/access-point-financial-shares-findings-from-its-state-of-the-hotel-construction-loan-report/",
+          "source": "Lodging Magazine",
+          "source_name": "Lodging Magazine",
+          "site_id": "lodgingmag",
+          "published_at": "2026-10-06T10:14:45Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Lodging Magazine"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_ced8720ba5b4",
+          "title": "Access Point Financial Shares Findings From Its State of the Hotel Construction Loan Report",
+          "url": "https://lodgingmagazine.com/access-point-financial-shares-findings-from-its-state-of-the-hotel-construction-loan-report/",
+          "source": "Lodging Magazine",
+          "source_name": "Lodging Magazine",
+          "site_id": "lodgingmag",
+          "published_at": "2026-10-06T10:14:45Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.849,
+      "importance": 0.5989,
+      "importance_score": 0.849,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9947,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-06T10:14:45Z",
+      "latest_at": "2026-10-06T10:14:45Z",
+      "primary_item": {
+        "id": "hotelitem_ced8720ba5b4",
+        "title": "Access Point Financial Shares Findings From Its State of the Hotel Construction Loan Report",
+        "url": "https://lodgingmagazine.com/access-point-financial-shares-findings-from-its-state-of-the-hotel-construction-loan-report/",
+        "source": "Lodging Magazine",
+        "source_name": "Lodging Magazine"
       }
     },
     {
@@ -1492,14 +1787,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.848,
-      "importance": 0.598,
-      "importance_score": 0.848,
+      "score": 0.8463,
+      "importance": 0.5962,
+      "importance_score": 0.8463,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9899,
+        "recency": 0.981,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1514,301 +1809,6 @@
         "url": "https://lodgingmagazine.com/ahla-aahoa-leaders-share-strategies-for-navigating-a-challenging-environment/",
         "source": "Lodging Magazine",
         "source_name": "Lodging Magazine"
-      }
-    },
-    {
-      "story_id": "story_e800dc53eb18",
-      "title": "Baited, Bamboozled, and Betrayed: Taking Steps Against the Lurking Menace of Online Travel Scams",
-      "url": "https://lodgingmagazine.com/baited-bamboozled-and-betrayed-taking-steps-against-the-lurking-menace-of-online-travel-scams/",
-      "primary_url": "https://lodgingmagazine.com/baited-bamboozled-and-betrayed-taking-steps-against-the-lurking-menace-of-online-travel-scams/",
-      "source": "Lodging Magazine",
-      "source_name": "Lodging Magazine",
-      "sources": [
-        {
-          "id": "hotelitem_e800dc53eb18",
-          "title": "Baited, Bamboozled, and Betrayed: Taking Steps Against the Lurking Menace of Online Travel Scams",
-          "url": "https://lodgingmagazine.com/baited-bamboozled-and-betrayed-taking-steps-against-the-lurking-menace-of-online-travel-scams/",
-          "source": "Lodging Magazine",
-          "source_name": "Lodging Magazine",
-          "site_id": "lodgingmag",
-          "published_at": "2026-10-05T13:24:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Lodging Magazine"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_e800dc53eb18",
-          "title": "Baited, Bamboozled, and Betrayed: Taking Steps Against the Lurking Menace of Online Travel Scams",
-          "url": "https://lodgingmagazine.com/baited-bamboozled-and-betrayed-taking-steps-against-the-lurking-menace-of-online-travel-scams/",
-          "source": "Lodging Magazine",
-          "source_name": "Lodging Magazine",
-          "site_id": "lodgingmag",
-          "published_at": "2026-10-05T13:24:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.847,
-      "importance": 0.5968,
-      "importance_score": 0.847,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9842,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-05T13:24:00Z",
-      "latest_at": "2026-10-05T13:24:00Z",
-      "primary_item": {
-        "id": "hotelitem_e800dc53eb18",
-        "title": "Baited, Bamboozled, and Betrayed: Taking Steps Against the Lurking Menace of Online Travel Scams",
-        "url": "https://lodgingmagazine.com/baited-bamboozled-and-betrayed-taking-steps-against-the-lurking-menace-of-online-travel-scams/",
-        "source": "Lodging Magazine",
-        "source_name": "Lodging Magazine"
-      }
-    },
-    {
-      "story_id": "story_8ac38143f2d0",
-      "title": "31st Edition of The Lodging Conference Kicks Off",
-      "url": "https://lodgingmagazine.com/31st-edition-of-the-lodging-conference-kicks-off/",
-      "primary_url": "https://lodgingmagazine.com/31st-edition-of-the-lodging-conference-kicks-off/",
-      "source": "Lodging Magazine",
-      "source_name": "Lodging Magazine",
-      "sources": [
-        {
-          "id": "hotelitem_8ac38143f2d0",
-          "title": "31st Edition of The Lodging Conference Kicks Off",
-          "url": "https://lodgingmagazine.com/31st-edition-of-the-lodging-conference-kicks-off/",
-          "source": "Lodging Magazine",
-          "source_name": "Lodging Magazine",
-          "site_id": "lodgingmag",
-          "published_at": "2026-10-05T11:32:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Lodging Magazine"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_8ac38143f2d0",
-          "title": "31st Edition of The Lodging Conference Kicks Off",
-          "url": "https://lodgingmagazine.com/31st-edition-of-the-lodging-conference-kicks-off/",
-          "source": "Lodging Magazine",
-          "source_name": "Lodging Magazine",
-          "site_id": "lodgingmag",
-          "published_at": "2026-10-05T11:32:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8466,
-      "importance": 0.5965,
-      "importance_score": 0.8466,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9825,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-05T11:32:00Z",
-      "latest_at": "2026-10-05T11:32:00Z",
-      "primary_item": {
-        "id": "hotelitem_8ac38143f2d0",
-        "title": "31st Edition of The Lodging Conference Kicks Off",
-        "url": "https://lodgingmagazine.com/31st-edition-of-the-lodging-conference-kicks-off/",
-        "source": "Lodging Magazine",
-        "source_name": "Lodging Magazine"
-      }
-    },
-    {
-      "story_id": "story_5e80e334e0b6",
-      "title": "Red Roof Debuts Multiple Strategic Initiatives",
-      "url": "https://lodgingmagazine.com/red-roof-debuts-multiple-strategic-initiatives/",
-      "primary_url": "https://lodgingmagazine.com/red-roof-debuts-multiple-strategic-initiatives/",
-      "source": "Lodging Magazine",
-      "source_name": "Lodging Magazine",
-      "sources": [
-        {
-          "id": "hotelitem_5e80e334e0b6",
-          "title": "Red Roof Debuts Multiple Strategic Initiatives",
-          "url": "https://lodgingmagazine.com/red-roof-debuts-multiple-strategic-initiatives/",
-          "source": "Lodging Magazine",
-          "source_name": "Lodging Magazine",
-          "site_id": "lodgingmag",
-          "published_at": "2026-10-05T11:34:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Lodging Magazine"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_5e80e334e0b6",
-          "title": "Red Roof Debuts Multiple Strategic Initiatives",
-          "url": "https://lodgingmagazine.com/red-roof-debuts-multiple-strategic-initiatives/",
-          "source": "Lodging Magazine",
-          "source_name": "Lodging Magazine",
-          "site_id": "lodgingmag",
-          "published_at": "2026-10-05T11:34:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8466,
-      "importance": 0.5965,
-      "importance_score": 0.8466,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9825,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-05T11:34:00Z",
-      "latest_at": "2026-10-05T11:34:00Z",
-      "primary_item": {
-        "id": "hotelitem_5e80e334e0b6",
-        "title": "Red Roof Debuts Multiple Strategic Initiatives",
-        "url": "https://lodgingmagazine.com/red-roof-debuts-multiple-strategic-initiatives/",
-        "source": "Lodging Magazine",
-        "source_name": "Lodging Magazine"
-      }
-    },
-    {
-      "story_id": "story_66f76583a869",
-      "title": "2027 Budget Crunch: Unlocking Hidden Revenue Streams Across the Hotel Asset",
-      "url": "https://www.hotelmanagement.net/premium/roundtables-webinars/755525",
-      "primary_url": "https://www.hotelmanagement.net/premium/roundtables-webinars/755525",
-      "source": "Hotel Management",
-      "source_name": "Hotel Management",
-      "sources": [
-        {
-          "id": "hotelitem_66f76583a869",
-          "title": "2027 Budget Crunch: Unlocking Hidden Revenue Streams Across the Hotel Asset",
-          "url": "https://www.hotelmanagement.net/premium/roundtables-webinars/755525",
-          "source": "Hotel Management",
-          "source_name": "Hotel Management",
-          "site_id": "hotelmgmt",
-          "published_at": "2026-09-28T19:03:06Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hotel Management"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_66f76583a869",
-          "title": "2027 Budget Crunch: Unlocking Hidden Revenue Streams Across the Hotel Asset",
-          "url": "https://www.hotelmanagement.net/premium/roundtables-webinars/755525",
-          "source": "Hotel Management",
-          "source_name": "Hotel Management",
-          "site_id": "hotelmgmt",
-          "published_at": "2026-09-28T19:03:06Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8319,
-      "importance": 0.5668,
-      "importance_score": 0.8319,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.8339,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-28T19:03:06Z",
-      "latest_at": "2026-09-28T19:03:06Z",
-      "primary_item": {
-        "id": "hotelitem_66f76583a869",
-        "title": "2027 Budget Crunch: Unlocking Hidden Revenue Streams Across the Hotel Asset",
-        "url": "https://www.hotelmanagement.net/premium/roundtables-webinars/755525",
-        "source": "Hotel Management",
-        "source_name": "Hotel Management"
-      }
-    },
-    {
-      "story_id": "story_65ad1e2ce2a9",
-      "title": "How unified F&B ordering turns guest touchpoints into revenue",
-      "url": "https://www.hotelmanagement.net/sponsored/how-unified-ordering-turns-guest-touchpoints-revenue",
-      "primary_url": "https://www.hotelmanagement.net/sponsored/how-unified-ordering-turns-guest-touchpoints-revenue",
-      "source": "Hotel Management",
-      "source_name": "Hotel Management",
-      "sources": [
-        {
-          "id": "hotelitem_65ad1e2ce2a9",
-          "title": "How unified F&B ordering turns guest touchpoints into revenue",
-          "url": "https://www.hotelmanagement.net/sponsored/how-unified-ordering-turns-guest-touchpoints-revenue",
-          "source": "Hotel Management",
-          "source_name": "Hotel Management",
-          "site_id": "hotelmgmt",
-          "published_at": "2026-09-28T16:44:36Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hotel Management"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_65ad1e2ce2a9",
-          "title": "How unified F&B ordering turns guest touchpoints into revenue",
-          "url": "https://www.hotelmanagement.net/sponsored/how-unified-ordering-turns-guest-touchpoints-revenue",
-          "source": "Hotel Management",
-          "source_name": "Hotel Management",
-          "site_id": "hotelmgmt",
-          "published_at": "2026-09-28T16:44:36Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8313,
-      "importance": 0.5664,
-      "importance_score": 0.8313,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.8318,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-28T16:44:36Z",
-      "latest_at": "2026-09-28T16:44:36Z",
-      "primary_item": {
-        "id": "hotelitem_65ad1e2ce2a9",
-        "title": "How unified F&B ordering turns guest touchpoints into revenue",
-        "url": "https://www.hotelmanagement.net/sponsored/how-unified-ordering-turns-guest-touchpoints-revenue",
-        "source": "Hotel Management",
-        "source_name": "Hotel Management"
       }
     }
   ]
