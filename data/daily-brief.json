@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T10:40:15.186694Z",
+  "generated_at": "2026-10-08T18:52:44.821191Z",
   "window_hours": 1080,
   "total_items": 30,
   "items": [
@@ -38,14 +38,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9533,
-      "importance": 0.5982,
-      "importance_score": 0.9533,
+      "score": 0.9518,
+      "importance": 0.5967,
+      "importance_score": 0.9518,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.991,
+        "recency": 0.9834,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -97,14 +97,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9533,
-      "importance": 0.5982,
-      "importance_score": 0.9533,
+      "score": 0.9518,
+      "importance": 0.5967,
+      "importance_score": 0.9518,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9911,
+        "recency": 0.9835,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -156,14 +156,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9532,
-      "importance": 0.5981,
-      "importance_score": 0.9532,
+      "score": 0.9517,
+      "importance": 0.5966,
+      "importance_score": 0.9517,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9907,
+        "recency": 0.9831,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -215,14 +215,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9512,
-      "importance": 0.5961,
-      "importance_score": 0.9512,
+      "score": 0.9498,
+      "importance": 0.5946,
+      "importance_score": 0.9498,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9804,
+        "recency": 0.9728,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -274,14 +274,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9427,
-      "importance": 0.5872,
-      "importance_score": 0.9427,
+      "score": 0.9412,
+      "importance": 0.5857,
+      "importance_score": 0.9412,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9362,
+        "recency": 0.9286,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -296,65 +296,6 @@
         "url": "https://www.hoteldive.com/news/travel-leisure-wyndham-sports-illustrated-resorts-partnership/832107/",
         "source": "Hotel Dive",
         "source_name": "Hotel Dive"
-      }
-    },
-    {
-      "story_id": "story_033aa0fc2b1d",
-      "title": "The St. James Hotel Reopens and Joins Series by Marriott Collection",
-      "url": "https://lodgingmagazine.com/the-st-james-hotel-reopens-and-joins-series-by-marriott-collection/",
-      "primary_url": "https://lodgingmagazine.com/the-st-james-hotel-reopens-and-joins-series-by-marriott-collection/",
-      "source": "Lodging Magazine",
-      "source_name": "Lodging Magazine",
-      "sources": [
-        {
-          "id": "hotelitem_033aa0fc2b1d",
-          "title": "The St. James Hotel Reopens and Joins Series by Marriott Collection",
-          "url": "https://lodgingmagazine.com/the-st-james-hotel-reopens-and-joins-series-by-marriott-collection/",
-          "source": "Lodging Magazine",
-          "source_name": "Lodging Magazine",
-          "site_id": "lodgingmag",
-          "published_at": "2026-10-06T19:32:22Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Lodging Magazine"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_033aa0fc2b1d",
-          "title": "The St. James Hotel Reopens and Joins Series by Marriott Collection",
-          "url": "https://lodgingmagazine.com/the-st-james-hotel-reopens-and-joins-series-by-marriott-collection/",
-          "source": "Lodging Magazine",
-          "source_name": "Lodging Magazine",
-          "site_id": "lodgingmag",
-          "published_at": "2026-10-06T19:32:22Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.933,
-      "importance": 0.5928,
-      "importance_score": 0.933,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9638,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-06T19:32:22Z",
-      "latest_at": "2026-10-06T19:32:22Z",
-      "primary_item": {
-        "id": "hotelitem_033aa0fc2b1d",
-        "title": "The St. James Hotel Reopens and Joins Series by Marriott Collection",
-        "url": "https://lodgingmagazine.com/the-st-james-hotel-reopens-and-joins-series-by-marriott-collection/",
-        "source": "Lodging Magazine",
-        "source_name": "Lodging Magazine"
       }
     },
     {
@@ -392,14 +333,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9319,
-      "importance": 0.5916,
-      "importance_score": 0.9319,
+      "score": 0.9304,
+      "importance": 0.5901,
+      "importance_score": 0.9304,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9581,
+        "recency": 0.9505,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -414,65 +355,6 @@
         "url": "https://boutiquehotelnews.com/news/industry/accor-btr-pbsa/?utm_source=rss&utm_medium=rss&utm_campaign=accor-btr-pbsa",
         "source": "Boutique Hotel News",
         "source_name": "Boutique Hotel News"
-      }
-    },
-    {
-      "story_id": "story_aedb0452b6e9",
-      "title": "Lodging Lowdown: Nobu Hospitality expands to Puerto Rico, Accor taps Mews to standardize F&B operations",
-      "url": "https://www.hoteldive.com/news/nobu-expands-to-puerto-rico-accor-taps-mews/831995/",
-      "primary_url": "https://www.hoteldive.com/news/nobu-expands-to-puerto-rico-accor-taps-mews/831995/",
-      "source": "Hotel Dive",
-      "source_name": "Hotel Dive",
-      "sources": [
-        {
-          "id": "hotelitem_aedb0452b6e9",
-          "title": "Lodging Lowdown: Nobu Hospitality expands to Puerto Rico, Accor taps Mews to standardize F&B operations",
-          "url": "https://www.hoteldive.com/news/nobu-expands-to-puerto-rico-accor-taps-mews/831995/",
-          "source": "Hotel Dive",
-          "source_name": "Hotel Dive",
-          "site_id": "hoteldive",
-          "published_at": "2026-10-02T13:32:32Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hotel Dive"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_aedb0452b6e9",
-          "title": "Lodging Lowdown: Nobu Hospitality expands to Puerto Rico, Accor taps Mews to standardize F&B operations",
-          "url": "https://www.hoteldive.com/news/nobu-expands-to-puerto-rico-accor-taps-mews/831995/",
-          "source": "Hotel Dive",
-          "source_name": "Hotel Dive",
-          "site_id": "hoteldive",
-          "published_at": "2026-10-02T13:32:32Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.9298,
-      "importance": 0.5739,
-      "importance_score": 0.9298,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.8693,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-02T13:32:32Z",
-      "latest_at": "2026-10-02T13:32:32Z",
-      "primary_item": {
-        "id": "hotelitem_aedb0452b6e9",
-        "title": "Lodging Lowdown: Nobu Hospitality expands to Puerto Rico, Accor taps Mews to standardize F&B operations",
-        "url": "https://www.hoteldive.com/news/nobu-expands-to-puerto-rico-accor-taps-mews/831995/",
-        "source": "Hotel Dive",
-        "source_name": "Hotel Dive"
       }
     },
     {
@@ -510,14 +392,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9298,
-      "importance": 0.5998,
-      "importance_score": 0.9298,
+      "score": 0.9284,
+      "importance": 0.5983,
+      "importance_score": 0.9284,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9991,
+        "recency": 0.9915,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -535,6 +417,65 @@
       }
     },
     {
+      "story_id": "story_aedb0452b6e9",
+      "title": "Lodging Lowdown: Nobu Hospitality expands to Puerto Rico, Accor taps Mews to standardize F&B operations",
+      "url": "https://www.hoteldive.com/news/nobu-expands-to-puerto-rico-accor-taps-mews/831995/",
+      "primary_url": "https://www.hoteldive.com/news/nobu-expands-to-puerto-rico-accor-taps-mews/831995/",
+      "source": "Hotel Dive",
+      "source_name": "Hotel Dive",
+      "sources": [
+        {
+          "id": "hotelitem_aedb0452b6e9",
+          "title": "Lodging Lowdown: Nobu Hospitality expands to Puerto Rico, Accor taps Mews to standardize F&B operations",
+          "url": "https://www.hoteldive.com/news/nobu-expands-to-puerto-rico-accor-taps-mews/831995/",
+          "source": "Hotel Dive",
+          "source_name": "Hotel Dive",
+          "site_id": "hoteldive",
+          "published_at": "2026-10-02T13:32:32Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hotel Dive"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_aedb0452b6e9",
+          "title": "Lodging Lowdown: Nobu Hospitality expands to Puerto Rico, Accor taps Mews to standardize F&B operations",
+          "url": "https://www.hoteldive.com/news/nobu-expands-to-puerto-rico-accor-taps-mews/831995/",
+          "source": "Hotel Dive",
+          "source_name": "Hotel Dive",
+          "site_id": "hoteldive",
+          "published_at": "2026-10-02T13:32:32Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.9283,
+      "importance": 0.5723,
+      "importance_score": 0.9283,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.8617,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-02T13:32:32Z",
+      "latest_at": "2026-10-02T13:32:32Z",
+      "primary_item": {
+        "id": "hotelitem_aedb0452b6e9",
+        "title": "Lodging Lowdown: Nobu Hospitality expands to Puerto Rico, Accor taps Mews to standardize F&B operations",
+        "url": "https://www.hoteldive.com/news/nobu-expands-to-puerto-rico-accor-taps-mews/831995/",
+        "source": "Hotel Dive",
+        "source_name": "Hotel Dive"
+      }
+    },
+    {
       "story_id": "story_06f191e24d38",
       "title": "文旅惠报|复星国际申请分拆Club Med在港上市；南京商旅上半年营收3.66亿元",
       "url": "https://www.tripvivid.com/47868.html",
@@ -549,7 +490,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-10-08T10:40:15.186694Z"
+          "published_at": "2026-10-08T18:52:44.821191Z"
         }
       ],
       "source_count": 1,
@@ -564,7 +505,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-10-08T10:40:15.186694Z"
+          "published_at": "2026-10-08T18:52:44.821191Z"
         }
       ],
       "item_count": 1,
@@ -583,73 +524,14 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-08T10:40:15.186694Z",
-      "latest_at": "2026-10-08T10:40:15.186694Z",
+      "earliest_at": "2026-10-08T18:52:44.821191Z",
+      "latest_at": "2026-10-08T18:52:44.821191Z",
       "primary_item": {
         "id": "hotelitem_06f191e24d38",
         "title": "文旅惠报|复星国际申请分拆Club Med在港上市；南京商旅上半年营收3.66亿元",
         "url": "https://www.tripvivid.com/47868.html",
         "source": "执惠 TripVivid",
         "source_name": "执惠 TripVivid"
-      }
-    },
-    {
-      "story_id": "story_0a027d89a2f2",
-      "title": "Ernest, Lighthouse’s AI teammate for hotel commercial teams, is now generally available",
-      "url": "https://insights.ehotelier.com/suppliers/2026/10/08/ernest-lighthouses-ai-teammate-for-hotel-commercial-teams-is-now-generally-available/?utm_source=rss&utm_medium=rss&utm_campaign=ernest-lighthouses-ai-teammate-for-hotel-commercial-teams-is-now-generally-available",
-      "primary_url": "https://insights.ehotelier.com/suppliers/2026/10/08/ernest-lighthouses-ai-teammate-for-hotel-commercial-teams-is-now-generally-available/?utm_source=rss&utm_medium=rss&utm_campaign=ernest-lighthouses-ai-teammate-for-hotel-commercial-teams-is-now-generally-available",
-      "source": "eHotelier",
-      "source_name": "eHotelier",
-      "sources": [
-        {
-          "id": "hotelitem_0a027d89a2f2",
-          "title": "Ernest, Lighthouse’s AI teammate for hotel commercial teams, is now generally available",
-          "url": "https://insights.ehotelier.com/suppliers/2026/10/08/ernest-lighthouses-ai-teammate-for-hotel-commercial-teams-is-now-generally-available/?utm_source=rss&utm_medium=rss&utm_campaign=ernest-lighthouses-ai-teammate-for-hotel-commercial-teams-is-now-generally-available",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-10-08T01:10:16Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "eHotelier"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_0a027d89a2f2",
-          "title": "Ernest, Lighthouse’s AI teammate for hotel commercial teams, is now generally available",
-          "url": "https://insights.ehotelier.com/suppliers/2026/10/08/ernest-lighthouses-ai-teammate-for-hotel-commercial-teams-is-now-generally-available/?utm_source=rss&utm_medium=rss&utm_campaign=ernest-lighthouses-ai-teammate-for-hotel-commercial-teams-is-now-generally-available",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-10-08T01:10:16Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8633,
-      "importance": 0.5982,
-      "importance_score": 0.8633,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9912,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-08T01:10:16Z",
-      "latest_at": "2026-10-08T01:10:16Z",
-      "primary_item": {
-        "id": "hotelitem_0a027d89a2f2",
-        "title": "Ernest, Lighthouse’s AI teammate for hotel commercial teams, is now generally available",
-        "url": "https://insights.ehotelier.com/suppliers/2026/10/08/ernest-lighthouses-ai-teammate-for-hotel-commercial-teams-is-now-generally-available/?utm_source=rss&utm_medium=rss&utm_campaign=ernest-lighthouses-ai-teammate-for-hotel-commercial-teams-is-now-generally-available",
-        "source": "eHotelier",
-        "source_name": "eHotelier"
       }
     },
     {
@@ -687,14 +569,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8633,
-      "importance": 0.5983,
-      "importance_score": 0.8633,
+      "score": 0.8619,
+      "importance": 0.5967,
+      "importance_score": 0.8619,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9913,
+        "recency": 0.9837,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -707,6 +589,65 @@
         "id": "hotelitem_5e0bcb2b8c49",
         "title": "Travel operators can’t just watch as AI reroutes the customer journey",
         "url": "https://insights.ehotelier.com/insights/2026/10/08/travel-operators-cant-just-watch-as-ai-reroutes-the-customer-journey/?utm_source=rss&utm_medium=rss&utm_campaign=travel-operators-cant-just-watch-as-ai-reroutes-the-customer-journey",
+        "source": "eHotelier",
+        "source_name": "eHotelier"
+      }
+    },
+    {
+      "story_id": "story_0a027d89a2f2",
+      "title": "Ernest, Lighthouse’s AI teammate for hotel commercial teams, is now generally available",
+      "url": "https://insights.ehotelier.com/suppliers/2026/10/08/ernest-lighthouses-ai-teammate-for-hotel-commercial-teams-is-now-generally-available/?utm_source=rss&utm_medium=rss&utm_campaign=ernest-lighthouses-ai-teammate-for-hotel-commercial-teams-is-now-generally-available",
+      "primary_url": "https://insights.ehotelier.com/suppliers/2026/10/08/ernest-lighthouses-ai-teammate-for-hotel-commercial-teams-is-now-generally-available/?utm_source=rss&utm_medium=rss&utm_campaign=ernest-lighthouses-ai-teammate-for-hotel-commercial-teams-is-now-generally-available",
+      "source": "eHotelier",
+      "source_name": "eHotelier",
+      "sources": [
+        {
+          "id": "hotelitem_0a027d89a2f2",
+          "title": "Ernest, Lighthouse’s AI teammate for hotel commercial teams, is now generally available",
+          "url": "https://insights.ehotelier.com/suppliers/2026/10/08/ernest-lighthouses-ai-teammate-for-hotel-commercial-teams-is-now-generally-available/?utm_source=rss&utm_medium=rss&utm_campaign=ernest-lighthouses-ai-teammate-for-hotel-commercial-teams-is-now-generally-available",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-10-08T01:10:16Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "eHotelier"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_0a027d89a2f2",
+          "title": "Ernest, Lighthouse’s AI teammate for hotel commercial teams, is now generally available",
+          "url": "https://insights.ehotelier.com/suppliers/2026/10/08/ernest-lighthouses-ai-teammate-for-hotel-commercial-teams-is-now-generally-available/?utm_source=rss&utm_medium=rss&utm_campaign=ernest-lighthouses-ai-teammate-for-hotel-commercial-teams-is-now-generally-available",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-10-08T01:10:16Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8618,
+      "importance": 0.5967,
+      "importance_score": 0.8618,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9836,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-08T01:10:16Z",
+      "latest_at": "2026-10-08T01:10:16Z",
+      "primary_item": {
+        "id": "hotelitem_0a027d89a2f2",
+        "title": "Ernest, Lighthouse’s AI teammate for hotel commercial teams, is now generally available",
+        "url": "https://insights.ehotelier.com/suppliers/2026/10/08/ernest-lighthouses-ai-teammate-for-hotel-commercial-teams-is-now-generally-available/?utm_source=rss&utm_medium=rss&utm_campaign=ernest-lighthouses-ai-teammate-for-hotel-commercial-teams-is-now-generally-available",
         "source": "eHotelier",
         "source_name": "eHotelier"
       }
@@ -726,7 +667,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-10-08T10:40:15.186694Z"
+          "published_at": "2026-10-08T18:52:44.821191Z"
         },
         {
           "id": "hotelitem_c7c15b7680c9",
@@ -735,7 +676,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-10-08T10:40:15.186694Z"
+          "published_at": "2026-10-08T18:52:44.821191Z"
         }
       ],
       "source_count": 2,
@@ -750,7 +691,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-10-08T10:40:15.186694Z"
+          "published_at": "2026-10-08T18:52:44.821191Z"
         },
         {
           "id": "hotelitem_c7c15b7680c9",
@@ -759,7 +700,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-10-08T10:40:15.186694Z"
+          "published_at": "2026-10-08T18:52:44.821191Z"
         }
       ],
       "item_count": 2,
@@ -779,8 +720,8 @@
         "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-08T10:40:15.186694Z",
-      "latest_at": "2026-10-08T10:40:15.186694Z",
+      "earliest_at": "2026-10-08T18:52:44.821191Z",
+      "latest_at": "2026-10-08T18:52:44.821191Z",
       "primary_item": {
         "id": "hotelitem_d4370964909c",
         "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
@@ -804,7 +745,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-10-08T10:40:15.186694Z"
+          "published_at": "2026-10-08T18:52:44.821191Z"
         },
         {
           "id": "hotelitem_1243e4eead68",
@@ -813,7 +754,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-10-08T10:40:15.186694Z"
+          "published_at": "2026-10-08T18:52:44.821191Z"
         }
       ],
       "source_count": 2,
@@ -828,7 +769,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-10-08T10:40:15.186694Z"
+          "published_at": "2026-10-08T18:52:44.821191Z"
         },
         {
           "id": "hotelitem_1243e4eead68",
@@ -837,7 +778,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-10-08T10:40:15.186694Z"
+          "published_at": "2026-10-08T18:52:44.821191Z"
         }
       ],
       "item_count": 2,
@@ -857,8 +798,8 @@
         "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-08T10:40:15.186694Z",
-      "latest_at": "2026-10-08T10:40:15.186694Z",
+      "earliest_at": "2026-10-08T18:52:44.821191Z",
+      "latest_at": "2026-10-08T18:52:44.821191Z",
       "primary_item": {
         "id": "hotelitem_b30c7ac8b6e5",
         "title": "指数发布 | 中国住宿业消费指数报告（2026年8月）发布 为贯彻落实提振消费相关政策，真实反映中国住宿餐饮业市场消费情况，以数据引导促消费政策精准发力，为行业发展提供参考建议，中国饭店协会每月公开发布“中国饭店业消费指数体系”，包含“中国住宿业消费指数（China Hotel Industry Consumption Index, HCI）”与“中国餐饮业消费指数（China Catering Industry Consumption Index, CCI）”，欢迎关注。\n本篇发布的是“中国住宿业消费指数”。",
@@ -882,7 +823,7 @@
           "source": "迈点研究院",
           "source_name": "迈点研究院",
           "site_id": "meadin",
-          "published_at": "2026-10-08T10:40:15.186694Z"
+          "published_at": "2026-10-08T18:52:44.821191Z"
         }
       ],
       "source_count": 1,
@@ -897,7 +838,7 @@
           "source": "迈点研究院",
           "source_name": "迈点研究院",
           "site_id": "meadin",
-          "published_at": "2026-10-08T10:40:15.186694Z"
+          "published_at": "2026-10-08T18:52:44.821191Z"
         }
       ],
       "item_count": 1,
@@ -916,8 +857,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-08T10:40:15.186694Z",
-      "latest_at": "2026-10-08T10:40:15.186694Z",
+      "earliest_at": "2026-10-08T18:52:44.821191Z",
+      "latest_at": "2026-10-08T18:52:44.821191Z",
       "primary_item": {
         "id": "hotelitem_9c7c8b578144",
         "title": "希尔顿任命优步前高管出任首席技术官",
@@ -941,7 +882,7 @@
           "source": "迈点研究院",
           "source_name": "迈点研究院",
           "site_id": "meadin",
-          "published_at": "2026-10-08T10:40:15.186694Z"
+          "published_at": "2026-10-08T18:52:44.821191Z"
         }
       ],
       "source_count": 1,
@@ -956,7 +897,7 @@
           "source": "迈点研究院",
           "source_name": "迈点研究院",
           "site_id": "meadin",
-          "published_at": "2026-10-08T10:40:15.186694Z"
+          "published_at": "2026-10-08T18:52:44.821191Z"
         }
       ],
       "item_count": 1,
@@ -975,8 +916,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-08T10:40:15.186694Z",
-      "latest_at": "2026-10-08T10:40:15.186694Z",
+      "earliest_at": "2026-10-08T18:52:44.821191Z",
+      "latest_at": "2026-10-08T18:52:44.821191Z",
       "primary_item": {
         "id": "hotelitem_f8337219db9b",
         "title": "洲际酒店集团任命莉安·哈伍德为全球销售高级副总裁",
@@ -1000,7 +941,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-10-08T10:40:15.186694Z"
+          "published_at": "2026-10-08T18:52:44.821191Z"
         }
       ],
       "source_count": 1,
@@ -1015,7 +956,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-10-08T10:40:15.186694Z"
+          "published_at": "2026-10-08T18:52:44.821191Z"
         }
       ],
       "item_count": 1,
@@ -1034,8 +975,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-08T10:40:15.186694Z",
-      "latest_at": "2026-10-08T10:40:15.186694Z",
+      "earliest_at": "2026-10-08T18:52:44.821191Z",
+      "latest_at": "2026-10-08T18:52:44.821191Z",
       "primary_item": {
         "id": "hotelitem_e4ce0593c384",
         "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
@@ -1059,7 +1000,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-10-08T10:40:15.186694Z"
+          "published_at": "2026-10-08T18:52:44.821191Z"
         }
       ],
       "source_count": 1,
@@ -1074,7 +1015,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-10-08T10:40:15.186694Z"
+          "published_at": "2026-10-08T18:52:44.821191Z"
         }
       ],
       "item_count": 1,
@@ -1093,8 +1034,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-08T10:40:15.186694Z",
-      "latest_at": "2026-10-08T10:40:15.186694Z",
+      "earliest_at": "2026-10-08T18:52:44.821191Z",
+      "latest_at": "2026-10-08T18:52:44.821191Z",
       "primary_item": {
         "id": "hotelitem_b0f4757ffc95",
         "title": "文化和旅游部 中国气象局联合发布2026年国庆...",
@@ -1118,7 +1059,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-10-08T10:40:15.186694Z"
+          "published_at": "2026-10-08T18:52:44.821191Z"
         }
       ],
       "source_count": 1,
@@ -1133,7 +1074,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-10-08T10:40:15.186694Z"
+          "published_at": "2026-10-08T18:52:44.821191Z"
         }
       ],
       "item_count": 1,
@@ -1152,8 +1093,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-08T10:40:15.186694Z",
-      "latest_at": "2026-10-08T10:40:15.186694Z",
+      "earliest_at": "2026-10-08T18:52:44.821191Z",
+      "latest_at": "2026-10-08T18:52:44.821191Z",
       "primary_item": {
         "id": "hotelitem_8dd9d6a00599",
         "title": "文化和旅游部中秋、国庆假期出游提示",
@@ -1177,7 +1118,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-10-08T10:40:15.186694Z"
+          "published_at": "2026-10-08T18:52:44.821191Z"
         }
       ],
       "source_count": 1,
@@ -1192,7 +1133,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-10-08T10:40:15.186694Z"
+          "published_at": "2026-10-08T18:52:44.821191Z"
         }
       ],
       "item_count": 1,
@@ -1211,8 +1152,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-08T10:40:15.186694Z",
-      "latest_at": "2026-10-08T10:40:15.186694Z",
+      "earliest_at": "2026-10-08T18:52:44.821191Z",
+      "latest_at": "2026-10-08T18:52:44.821191Z",
       "primary_item": {
         "id": "hotelitem_c3e3aec156b1",
         "title": "文化和旅游部印发《公共文化服务体系建设“...",
@@ -1236,7 +1177,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-10-08T10:40:15.186694Z"
+          "published_at": "2026-10-08T18:52:44.821191Z"
         }
       ],
       "source_count": 1,
@@ -1251,7 +1192,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-10-08T10:40:15.186694Z"
+          "published_at": "2026-10-08T18:52:44.821191Z"
         }
       ],
       "item_count": 1,
@@ -1270,8 +1211,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-08T10:40:15.186694Z",
-      "latest_at": "2026-10-08T10:40:15.186694Z",
+      "earliest_at": "2026-10-08T18:52:44.821191Z",
+      "latest_at": "2026-10-08T18:52:44.821191Z",
       "primary_item": {
         "id": "hotelitem_e63a36930397",
         "title": "文化和旅游部印发《艺术发展“十五五”规划》",
@@ -1295,7 +1236,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-10-08T10:40:15.186694Z"
+          "published_at": "2026-10-08T18:52:44.821191Z"
         }
       ],
       "source_count": 1,
@@ -1310,7 +1251,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-10-08T10:40:15.186694Z"
+          "published_at": "2026-10-08T18:52:44.821191Z"
         }
       ],
       "item_count": 1,
@@ -1329,8 +1270,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-08T10:40:15.186694Z",
-      "latest_at": "2026-10-08T10:40:15.186694Z",
+      "earliest_at": "2026-10-08T18:52:44.821191Z",
+      "latest_at": "2026-10-08T18:52:44.821191Z",
       "primary_item": {
         "id": "hotelitem_8f218475e743",
         "title": "文化和旅游部发布2026年上半年国内居民出游数据情况",
@@ -1374,14 +1315,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8529,
-      "importance": 0.5875,
-      "importance_score": 0.8529,
+      "score": 0.8514,
+      "importance": 0.5859,
+      "importance_score": 0.8514,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9373,
+        "recency": 0.9297,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1399,21 +1340,21 @@
       }
     },
     {
-      "story_id": "story_f7ea1871ea1c",
-      "title": "Spire Hospitality Appoints New SVP of Commercial Strategy",
-      "url": "https://lodgingmagazine.com/spire-hospitality-appoints-new-svp-of-commercial-strategy/",
-      "primary_url": "https://lodgingmagazine.com/spire-hospitality-appoints-new-svp-of-commercial-strategy/",
+      "story_id": "story_d086417a2529",
+      "title": "CoStar: U.S. Hotel Industry Again Reports Positive Year-Over-Year Comparisons",
+      "url": "https://lodgingmagazine.com/costar-u-s-hotel-industry-again-reports-positive-year-over-year-comparisons-6/",
+      "primary_url": "https://lodgingmagazine.com/costar-u-s-hotel-industry-again-reports-positive-year-over-year-comparisons-6/",
       "source": "Lodging Magazine",
       "source_name": "Lodging Magazine",
       "sources": [
         {
-          "id": "hotelitem_f7ea1871ea1c",
-          "title": "Spire Hospitality Appoints New SVP of Commercial Strategy",
-          "url": "https://lodgingmagazine.com/spire-hospitality-appoints-new-svp-of-commercial-strategy/",
+          "id": "hotelitem_d086417a2529",
+          "title": "CoStar: U.S. Hotel Industry Again Reports Positive Year-Over-Year Comparisons",
+          "url": "https://lodgingmagazine.com/costar-u-s-hotel-industry-again-reports-positive-year-over-year-comparisons-6/",
           "source": "Lodging Magazine",
           "source_name": "Lodging Magazine",
           "site_id": "lodgingmag",
-          "published_at": "2026-10-07T13:55:34Z"
+          "published_at": "2026-10-08T15:24:43Z"
         }
       ],
       "source_count": 1,
@@ -1422,37 +1363,155 @@
       ],
       "items": [
         {
-          "id": "hotelitem_f7ea1871ea1c",
-          "title": "Spire Hospitality Appoints New SVP of Commercial Strategy",
-          "url": "https://lodgingmagazine.com/spire-hospitality-appoints-new-svp-of-commercial-strategy/",
+          "id": "hotelitem_d086417a2529",
+          "title": "CoStar: U.S. Hotel Industry Again Reports Positive Year-Over-Year Comparisons",
+          "url": "https://lodgingmagazine.com/costar-u-s-hotel-industry-again-reports-positive-year-over-year-comparisons-6/",
           "source": "Lodging Magazine",
           "source_name": "Lodging Magazine",
           "site_id": "lodgingmag",
-          "published_at": "2026-10-07T13:55:34Z"
+          "published_at": "2026-10-08T15:24:43Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8463,
-      "importance": 0.5962,
-      "importance_score": 0.8463,
+      "score": 0.8494,
+      "importance": 0.5994,
+      "importance_score": 0.8494,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9808,
+        "recency": 0.9968,
         "story_heat": 0.0
       },
       "category": "watch",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-07T13:55:34Z",
-      "latest_at": "2026-10-07T13:55:34Z",
+      "earliest_at": "2026-10-08T15:24:43Z",
+      "latest_at": "2026-10-08T15:24:43Z",
       "primary_item": {
-        "id": "hotelitem_f7ea1871ea1c",
-        "title": "Spire Hospitality Appoints New SVP of Commercial Strategy",
-        "url": "https://lodgingmagazine.com/spire-hospitality-appoints-new-svp-of-commercial-strategy/",
+        "id": "hotelitem_d086417a2529",
+        "title": "CoStar: U.S. Hotel Industry Again Reports Positive Year-Over-Year Comparisons",
+        "url": "https://lodgingmagazine.com/costar-u-s-hotel-industry-again-reports-positive-year-over-year-comparisons-6/",
+        "source": "Lodging Magazine",
+        "source_name": "Lodging Magazine"
+      }
+    },
+    {
+      "story_id": "story_a5b20143d144",
+      "title": "Duetto Announces Acquisition of FLYR Hospitality",
+      "url": "https://lodgingmagazine.com/duetto-announces-acquisition-of-flyr-hospitality/",
+      "primary_url": "https://lodgingmagazine.com/duetto-announces-acquisition-of-flyr-hospitality/",
+      "source": "Lodging Magazine",
+      "source_name": "Lodging Magazine",
+      "sources": [
+        {
+          "id": "hotelitem_a5b20143d144",
+          "title": "Duetto Announces Acquisition of FLYR Hospitality",
+          "url": "https://lodgingmagazine.com/duetto-announces-acquisition-of-flyr-hospitality/",
+          "source": "Lodging Magazine",
+          "source_name": "Lodging Magazine",
+          "site_id": "lodgingmag",
+          "published_at": "2026-10-08T15:36:20Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Lodging Magazine"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_a5b20143d144",
+          "title": "Duetto Announces Acquisition of FLYR Hospitality",
+          "url": "https://lodgingmagazine.com/duetto-announces-acquisition-of-flyr-hospitality/",
+          "source": "Lodging Magazine",
+          "source_name": "Lodging Magazine",
+          "site_id": "lodgingmag",
+          "published_at": "2026-10-08T15:36:20Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8494,
+      "importance": 0.5994,
+      "importance_score": 0.8494,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.997,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-08T15:36:20Z",
+      "latest_at": "2026-10-08T15:36:20Z",
+      "primary_item": {
+        "id": "hotelitem_a5b20143d144",
+        "title": "Duetto Announces Acquisition of FLYR Hospitality",
+        "url": "https://lodgingmagazine.com/duetto-announces-acquisition-of-flyr-hospitality/",
+        "source": "Lodging Magazine",
+        "source_name": "Lodging Magazine"
+      }
+    },
+    {
+      "story_id": "story_e573f6726a0f",
+      "title": "Resolute Road Hospitality’s Gary Horton Details Its Owner-First Approach",
+      "url": "https://lodgingmagazine.com/resolute-road-hospitalitys-gary-horton-details-its-owner-first-approach/",
+      "primary_url": "https://lodgingmagazine.com/resolute-road-hospitalitys-gary-horton-details-its-owner-first-approach/",
+      "source": "Lodging Magazine",
+      "source_name": "Lodging Magazine",
+      "sources": [
+        {
+          "id": "hotelitem_e573f6726a0f",
+          "title": "Resolute Road Hospitality’s Gary Horton Details Its Owner-First Approach",
+          "url": "https://lodgingmagazine.com/resolute-road-hospitalitys-gary-horton-details-its-owner-first-approach/",
+          "source": "Lodging Magazine",
+          "source_name": "Lodging Magazine",
+          "site_id": "lodgingmag",
+          "published_at": "2026-10-08T14:15:35Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Lodging Magazine"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_e573f6726a0f",
+          "title": "Resolute Road Hospitality’s Gary Horton Details Its Owner-First Approach",
+          "url": "https://lodgingmagazine.com/resolute-road-hospitalitys-gary-horton-details-its-owner-first-approach/",
+          "source": "Lodging Magazine",
+          "source_name": "Lodging Magazine",
+          "site_id": "lodgingmag",
+          "published_at": "2026-10-08T14:15:35Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8492,
+      "importance": 0.5991,
+      "importance_score": 0.8492,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9957,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-08T14:15:35Z",
+      "latest_at": "2026-10-08T14:15:35Z",
+      "primary_item": {
+        "id": "hotelitem_e573f6726a0f",
+        "title": "Resolute Road Hospitality’s Gary Horton Details Its Owner-First Approach",
+        "url": "https://lodgingmagazine.com/resolute-road-hospitalitys-gary-horton-details-its-owner-first-approach/",
         "source": "Lodging Magazine",
         "source_name": "Lodging Magazine"
       }
@@ -1492,14 +1551,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8463,
-      "importance": 0.5962,
-      "importance_score": 0.8463,
+      "score": 0.8449,
+      "importance": 0.5947,
+      "importance_score": 0.8449,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.981,
+        "recency": 0.9734,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1517,21 +1576,21 @@
       }
     },
     {
-      "story_id": "story_7c9a3668694b",
-      "title": "Stayntouch Announces Integration With Staklio",
-      "url": "https://lodgingmagazine.com/stayntouch-announces-integration-with-staklio/",
-      "primary_url": "https://lodgingmagazine.com/stayntouch-announces-integration-with-staklio/",
+      "story_id": "story_f7ea1871ea1c",
+      "title": "Spire Hospitality Appoints New SVP of Commercial Strategy",
+      "url": "https://lodgingmagazine.com/spire-hospitality-appoints-new-svp-of-commercial-strategy/",
+      "primary_url": "https://lodgingmagazine.com/spire-hospitality-appoints-new-svp-of-commercial-strategy/",
       "source": "Lodging Magazine",
       "source_name": "Lodging Magazine",
       "sources": [
         {
-          "id": "hotelitem_7c9a3668694b",
-          "title": "Stayntouch Announces Integration With Staklio",
-          "url": "https://lodgingmagazine.com/stayntouch-announces-integration-with-staklio/",
+          "id": "hotelitem_f7ea1871ea1c",
+          "title": "Spire Hospitality Appoints New SVP of Commercial Strategy",
+          "url": "https://lodgingmagazine.com/spire-hospitality-appoints-new-svp-of-commercial-strategy/",
           "source": "Lodging Magazine",
           "source_name": "Lodging Magazine",
           "site_id": "lodgingmag",
-          "published_at": "2026-10-07T12:58:57Z"
+          "published_at": "2026-10-07T13:55:34Z"
         }
       ],
       "source_count": 1,
@@ -1540,37 +1599,37 @@
       ],
       "items": [
         {
-          "id": "hotelitem_7c9a3668694b",
-          "title": "Stayntouch Announces Integration With Staklio",
-          "url": "https://lodgingmagazine.com/stayntouch-announces-integration-with-staklio/",
+          "id": "hotelitem_f7ea1871ea1c",
+          "title": "Spire Hospitality Appoints New SVP of Commercial Strategy",
+          "url": "https://lodgingmagazine.com/spire-hospitality-appoints-new-svp-of-commercial-strategy/",
           "source": "Lodging Magazine",
           "source_name": "Lodging Magazine",
           "site_id": "lodgingmag",
-          "published_at": "2026-10-07T12:58:57Z"
+          "published_at": "2026-10-07T13:55:34Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8461,
-      "importance": 0.596,
-      "importance_score": 0.8461,
+      "score": 0.8448,
+      "importance": 0.5946,
+      "importance_score": 0.8448,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9799,
+        "recency": 0.9732,
         "story_heat": 0.0
       },
       "category": "watch",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-07T12:58:57Z",
-      "latest_at": "2026-10-07T12:58:57Z",
+      "earliest_at": "2026-10-07T13:55:34Z",
+      "latest_at": "2026-10-07T13:55:34Z",
       "primary_item": {
-        "id": "hotelitem_7c9a3668694b",
-        "title": "Stayntouch Announces Integration With Staklio",
-        "url": "https://lodgingmagazine.com/stayntouch-announces-integration-with-staklio/",
+        "id": "hotelitem_f7ea1871ea1c",
+        "title": "Spire Hospitality Appoints New SVP of Commercial Strategy",
+        "url": "https://lodgingmagazine.com/spire-hospitality-appoints-new-svp-of-commercial-strategy/",
         "source": "Lodging Magazine",
         "source_name": "Lodging Magazine"
       }
@@ -1610,14 +1669,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8183,
-      "importance": 0.5982,
-      "importance_score": 0.8183,
+      "score": 0.8168,
+      "importance": 0.5967,
+      "importance_score": 0.8168,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.991,
+        "recency": 0.9834,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1632,65 +1691,6 @@
         "url": "https://insights.ehotelier.com/global-news/2026/10/08/qantas-loyalty-partners-with-expedia-group-to-transform-hotels-holidays-platform/?utm_source=rss&utm_medium=rss&utm_campaign=qantas-loyalty-partners-with-expedia-group-to-transform-hotels-holidays-platform",
         "source": "eHotelier",
         "source_name": "eHotelier"
-      }
-    },
-    {
-      "story_id": "story_66f76583a869",
-      "title": "2027 Budget Crunch: Unlocking Hidden Revenue Streams Across the Hotel Asset",
-      "url": "https://www.hotelmanagement.net/premium/roundtables-webinars/755525",
-      "primary_url": "https://www.hotelmanagement.net/premium/roundtables-webinars/755525",
-      "source": "Hotel Management",
-      "source_name": "Hotel Management",
-      "sources": [
-        {
-          "id": "hotelitem_66f76583a869",
-          "title": "2027 Budget Crunch: Unlocking Hidden Revenue Streams Across the Hotel Asset",
-          "url": "https://www.hotelmanagement.net/premium/roundtables-webinars/755525",
-          "source": "Hotel Management",
-          "source_name": "Hotel Management",
-          "site_id": "hotelmgmt",
-          "published_at": "2026-09-28T19:03:06Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hotel Management"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_66f76583a869",
-          "title": "2027 Budget Crunch: Unlocking Hidden Revenue Streams Across the Hotel Asset",
-          "url": "https://www.hotelmanagement.net/premium/roundtables-webinars/755525",
-          "source": "Hotel Management",
-          "source_name": "Hotel Management",
-          "site_id": "hotelmgmt",
-          "published_at": "2026-09-28T19:03:06Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8177,
-      "importance": 0.5571,
-      "importance_score": 0.8177,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.7855,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-28T19:03:06Z",
-      "latest_at": "2026-09-28T19:03:06Z",
-      "primary_item": {
-        "id": "hotelitem_66f76583a869",
-        "title": "2027 Budget Crunch: Unlocking Hidden Revenue Streams Across the Hotel Asset",
-        "url": "https://www.hotelmanagement.net/premium/roundtables-webinars/755525",
-        "source": "Hotel Management",
-        "source_name": "Hotel Management"
       }
     },
     {
@@ -1728,14 +1728,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8173,
-      "importance": 0.5998,
-      "importance_score": 0.8173,
+      "score": 0.8159,
+      "importance": 0.5983,
+      "importance_score": 0.8159,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9991,
+        "recency": 0.9915,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1753,21 +1753,21 @@
       }
     },
     {
-      "story_id": "story_65ad1e2ce2a9",
-      "title": "How unified F&B ordering turns guest touchpoints into revenue",
-      "url": "https://www.hotelmanagement.net/sponsored/how-unified-ordering-turns-guest-touchpoints-revenue",
-      "primary_url": "https://www.hotelmanagement.net/sponsored/how-unified-ordering-turns-guest-touchpoints-revenue",
+      "story_id": "story_66f76583a869",
+      "title": "2027 Budget Crunch: Unlocking Hidden Revenue Streams Across the Hotel Asset",
+      "url": "https://www.hotelmanagement.net/premium/roundtables-webinars/755525",
+      "primary_url": "https://www.hotelmanagement.net/premium/roundtables-webinars/755525",
       "source": "Hotel Management",
       "source_name": "Hotel Management",
       "sources": [
         {
-          "id": "hotelitem_65ad1e2ce2a9",
-          "title": "How unified F&B ordering turns guest touchpoints into revenue",
-          "url": "https://www.hotelmanagement.net/sponsored/how-unified-ordering-turns-guest-touchpoints-revenue",
+          "id": "hotelitem_66f76583a869",
+          "title": "2027 Budget Crunch: Unlocking Hidden Revenue Streams Across the Hotel Asset",
+          "url": "https://www.hotelmanagement.net/premium/roundtables-webinars/755525",
           "source": "Hotel Management",
           "source_name": "Hotel Management",
           "site_id": "hotelmgmt",
-          "published_at": "2026-09-28T16:44:36Z"
+          "published_at": "2026-09-28T19:03:06Z"
         }
       ],
       "source_count": 1,
@@ -1776,37 +1776,37 @@
       ],
       "items": [
         {
-          "id": "hotelitem_65ad1e2ce2a9",
-          "title": "How unified F&B ordering turns guest touchpoints into revenue",
-          "url": "https://www.hotelmanagement.net/sponsored/how-unified-ordering-turns-guest-touchpoints-revenue",
+          "id": "hotelitem_66f76583a869",
+          "title": "2027 Budget Crunch: Unlocking Hidden Revenue Streams Across the Hotel Asset",
+          "url": "https://www.hotelmanagement.net/premium/roundtables-webinars/755525",
           "source": "Hotel Management",
           "source_name": "Hotel Management",
           "site_id": "hotelmgmt",
-          "published_at": "2026-09-28T16:44:36Z"
+          "published_at": "2026-09-28T19:03:06Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8171,
-      "importance": 0.5567,
-      "importance_score": 0.8171,
+      "score": 0.8155,
+      "importance": 0.5556,
+      "importance_score": 0.8155,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.7834,
+        "recency": 0.7779,
         "story_heat": 0.0
       },
       "category": "watch",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-28T16:44:36Z",
-      "latest_at": "2026-09-28T16:44:36Z",
+      "earliest_at": "2026-09-28T19:03:06Z",
+      "latest_at": "2026-09-28T19:03:06Z",
       "primary_item": {
-        "id": "hotelitem_65ad1e2ce2a9",
-        "title": "How unified F&B ordering turns guest touchpoints into revenue",
-        "url": "https://www.hotelmanagement.net/sponsored/how-unified-ordering-turns-guest-touchpoints-revenue",
+        "id": "hotelitem_66f76583a869",
+        "title": "2027 Budget Crunch: Unlocking Hidden Revenue Streams Across the Hotel Asset",
+        "url": "https://www.hotelmanagement.net/premium/roundtables-webinars/755525",
         "source": "Hotel Management",
         "source_name": "Hotel Management"
       }
