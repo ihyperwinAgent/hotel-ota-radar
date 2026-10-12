@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T10:57:31.908718Z",
+  "generated_at": "2026-10-12T21:17:46.845142Z",
   "window_hours": 1080,
   "total_stories": 30,
   "stories": [
@@ -38,14 +38,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9532,
-      "importance": 0.5981,
-      "importance_score": 0.9532,
+      "score": 0.9514,
+      "importance": 0.5962,
+      "importance_score": 0.9514,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9907,
+        "recency": 0.9811,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -60,6 +60,65 @@
         "url": "https://insights.ehotelier.com/properties/2026/10/12/mercure-perth-aurea-kings-park-opens-expanding-accors-presence-in-western-australia/?utm_source=rss&utm_medium=rss&utm_campaign=mercure-perth-aurea-kings-park-opens-expanding-accors-presence-in-western-australia",
         "source": "eHotelier",
         "source_name": "eHotelier"
+      }
+    },
+    {
+      "story_id": "story_7b7dae968b3f",
+      "title": "Hilton Garden Inn West 35th Street Debuts Completed Renovation",
+      "url": "https://lodgingmagazine.com/hilton-garden-inn-west-35th-street-debuts-completed-renovation/",
+      "primary_url": "https://lodgingmagazine.com/hilton-garden-inn-west-35th-street-debuts-completed-renovation/",
+      "source": "Lodging Magazine",
+      "source_name": "Lodging Magazine",
+      "sources": [
+        {
+          "id": "hotelitem_7b7dae968b3f",
+          "title": "Hilton Garden Inn West 35th Street Debuts Completed Renovation",
+          "url": "https://lodgingmagazine.com/hilton-garden-inn-west-35th-street-debuts-completed-renovation/",
+          "source": "Lodging Magazine",
+          "source_name": "Lodging Magazine",
+          "site_id": "lodgingmag",
+          "published_at": "2026-10-12T16:24:56Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Lodging Magazine"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_7b7dae968b3f",
+          "title": "Hilton Garden Inn West 35th Street Debuts Completed Renovation",
+          "url": "https://lodgingmagazine.com/hilton-garden-inn-west-35th-street-debuts-completed-renovation/",
+          "source": "Lodging Magazine",
+          "source_name": "Lodging Magazine",
+          "site_id": "lodgingmag",
+          "published_at": "2026-10-12T16:24:56Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.9391,
+      "importance": 0.5991,
+      "importance_score": 0.9391,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9955,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-12T16:24:56Z",
+      "latest_at": "2026-10-12T16:24:56Z",
+      "primary_item": {
+        "id": "hotelitem_7b7dae968b3f",
+        "title": "Hilton Garden Inn West 35th Street Debuts Completed Renovation",
+        "url": "https://lodgingmagazine.com/hilton-garden-inn-west-35th-street-debuts-completed-renovation/",
+        "source": "Lodging Magazine",
+        "source_name": "Lodging Magazine"
       }
     },
     {
@@ -97,14 +156,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9404,
-      "importance": 0.5848,
-      "importance_score": 0.9404,
+      "score": 0.9385,
+      "importance": 0.5829,
+      "importance_score": 0.9385,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9241,
+        "recency": 0.9145,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -119,6 +178,65 @@
         "url": "https://insights.ehotelier.com/global-news/2026/10/09/choice-hotels-to-acquire-harvest-hosts-expanding-its-reach-with-the-value-minded-traveler-into-outdoor-and-rv-travel/?utm_source=rss&utm_medium=rss&utm_campaign=choice-hotels-to-acquire-harvest-hosts-expanding-its-reach-with-the-value-minded-traveler-into-outdoor-and-rv-travel",
         "source": "eHotelier",
         "source_name": "eHotelier"
+      }
+    },
+    {
+      "story_id": "story_5221538f2565",
+      "title": "Capitalizing on Connectivity: How Room Tech Integrations Support Operations and the Guest Experience",
+      "url": "https://lodgingmagazine.com/capitalizing-on-connectivity-how-room-tech-integrations-support-operations-and-the-guest-experience/",
+      "primary_url": "https://lodgingmagazine.com/capitalizing-on-connectivity-how-room-tech-integrations-support-operations-and-the-guest-experience/",
+      "source": "Lodging Magazine",
+      "source_name": "Lodging Magazine",
+      "sources": [
+        {
+          "id": "hotelitem_5221538f2565",
+          "title": "Capitalizing on Connectivity: How Room Tech Integrations Support Operations and the Guest Experience",
+          "url": "https://lodgingmagazine.com/capitalizing-on-connectivity-how-room-tech-integrations-support-operations-and-the-guest-experience/",
+          "source": "Lodging Magazine",
+          "source_name": "Lodging Magazine",
+          "site_id": "lodgingmag",
+          "published_at": "2026-10-12T11:34:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Lodging Magazine"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_5221538f2565",
+          "title": "Capitalizing on Connectivity: How Room Tech Integrations Support Operations and the Guest Experience",
+          "url": "https://lodgingmagazine.com/capitalizing-on-connectivity-how-room-tech-integrations-support-operations-and-the-guest-experience/",
+          "source": "Lodging Magazine",
+          "source_name": "Lodging Magazine",
+          "site_id": "lodgingmag",
+          "published_at": "2026-10-12T11:34:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.9383,
+      "importance": 0.5982,
+      "importance_score": 0.9383,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.991,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-12T11:34:00Z",
+      "latest_at": "2026-10-12T11:34:00Z",
+      "primary_item": {
+        "id": "hotelitem_5221538f2565",
+        "title": "Capitalizing on Connectivity: How Room Tech Integrations Support Operations and the Guest Experience",
+        "url": "https://lodgingmagazine.com/capitalizing-on-connectivity-how-room-tech-integrations-support-operations-and-the-guest-experience/",
+        "source": "Lodging Magazine",
+        "source_name": "Lodging Magazine"
       }
     },
     {
@@ -156,14 +274,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.934,
-      "importance": 0.5782,
-      "importance_score": 0.934,
+      "score": 0.9322,
+      "importance": 0.5763,
+      "importance_score": 0.9322,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8912,
+        "recency": 0.8817,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -176,65 +294,6 @@
         "id": "hotelitem_5505f79dd5a9",
         "title": "Hyatt updates Hyatt Place, Hyatt Studios prototypes",
         "url": "https://www.hoteldive.com/news/hyatt-updates-brand-prototypes/832354/",
-        "source": "Hotel Dive",
-        "source_name": "Hotel Dive"
-      }
-    },
-    {
-      "story_id": "story_e1c0375ce136",
-      "title": "Wyndham, Travel + Leisure Co. team up to scale Sports Illustrated Resorts",
-      "url": "https://www.hoteldive.com/news/travel-leisure-wyndham-sports-illustrated-resorts-partnership/832107/",
-      "primary_url": "https://www.hoteldive.com/news/travel-leisure-wyndham-sports-illustrated-resorts-partnership/832107/",
-      "source": "Hotel Dive",
-      "source_name": "Hotel Dive",
-      "sources": [
-        {
-          "id": "hotelitem_e1c0375ce136",
-          "title": "Wyndham, Travel + Leisure Co. team up to scale Sports Illustrated Resorts",
-          "url": "https://www.hoteldive.com/news/travel-leisure-wyndham-sports-illustrated-resorts-partnership/832107/",
-          "source": "Hotel Dive",
-          "source_name": "Hotel Dive",
-          "site_id": "hoteldive",
-          "published_at": "2026-10-05T13:48:55Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hotel Dive"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_e1c0375ce136",
-          "title": "Wyndham, Travel + Leisure Co. team up to scale Sports Illustrated Resorts",
-          "url": "https://www.hoteldive.com/news/travel-leisure-wyndham-sports-illustrated-resorts-partnership/832107/",
-          "source": "Hotel Dive",
-          "source_name": "Hotel Dive",
-          "site_id": "hoteldive",
-          "published_at": "2026-10-05T13:48:55Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.9255,
-      "importance": 0.5694,
-      "importance_score": 0.9255,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.8471,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-05T13:48:55Z",
-      "latest_at": "2026-10-05T13:48:55Z",
-      "primary_item": {
-        "id": "hotelitem_e1c0375ce136",
-        "title": "Wyndham, Travel + Leisure Co. team up to scale Sports Illustrated Resorts",
-        "url": "https://www.hoteldive.com/news/travel-leisure-wyndham-sports-illustrated-resorts-partnership/832107/",
         "source": "Hotel Dive",
         "source_name": "Hotel Dive"
       }
@@ -274,14 +333,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9147,
-      "importance": 0.5738,
-      "importance_score": 0.9147,
+      "score": 0.9129,
+      "importance": 0.5719,
+      "importance_score": 0.9129,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8689,
+        "recency": 0.8593,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -313,7 +372,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-10-12T10:57:31.908718Z"
+          "published_at": "2026-10-12T21:17:46.845142Z"
         }
       ],
       "source_count": 1,
@@ -328,7 +387,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-10-12T10:57:31.908718Z"
+          "published_at": "2026-10-12T21:17:46.845142Z"
         }
       ],
       "item_count": 1,
@@ -347,14 +406,73 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-12T10:57:31.908718Z",
-      "latest_at": "2026-10-12T10:57:31.908718Z",
+      "earliest_at": "2026-10-12T21:17:46.845142Z",
+      "latest_at": "2026-10-12T21:17:46.845142Z",
       "primary_item": {
         "id": "hotelitem_06f191e24d38",
         "title": "文旅惠报|复星国际申请分拆Club Med在港上市；南京商旅上半年营收3.66亿元",
         "url": "https://www.tripvivid.com/47868.html",
         "source": "执惠 TripVivid",
         "source_name": "执惠 TripVivid"
+      }
+    },
+    {
+      "story_id": "story_ee6fd2f3118f",
+      "title": "Beyond Length of Stay: Why Apartment-Style Suites Work",
+      "url": "https://www.hotelmanagement.net/sponsored/beyond-length-stay-why-apartment-style-suites-work",
+      "primary_url": "https://www.hotelmanagement.net/sponsored/beyond-length-stay-why-apartment-style-suites-work",
+      "source": "Hotel Management",
+      "source_name": "Hotel Management",
+      "sources": [
+        {
+          "id": "hotelitem_ee6fd2f3118f",
+          "title": "Beyond Length of Stay: Why Apartment-Style Suites Work",
+          "url": "https://www.hotelmanagement.net/sponsored/beyond-length-stay-why-apartment-style-suites-work",
+          "source": "Hotel Management",
+          "source_name": "Hotel Management",
+          "site_id": "hotelmgmt",
+          "published_at": "2026-09-28T16:09:12Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hotel Management"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_ee6fd2f3118f",
+          "title": "Beyond Length of Stay: Why Apartment-Style Suites Work",
+          "url": "https://www.hotelmanagement.net/sponsored/beyond-length-stay-why-apartment-style-suites-work",
+          "source": "Hotel Management",
+          "source_name": "Hotel Management",
+          "site_id": "hotelmgmt",
+          "published_at": "2026-09-28T16:09:12Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.878,
+      "importance": 0.5368,
+      "importance_score": 0.878,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.6841,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-28T16:09:12Z",
+      "latest_at": "2026-09-28T16:09:12Z",
+      "primary_item": {
+        "id": "hotelitem_ee6fd2f3118f",
+        "title": "Beyond Length of Stay: Why Apartment-Style Suites Work",
+        "url": "https://www.hotelmanagement.net/sponsored/beyond-length-stay-why-apartment-style-suites-work",
+        "source": "Hotel Management",
+        "source_name": "Hotel Management"
       }
     },
     {
@@ -392,14 +510,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8646,
-      "importance": 0.5866,
-      "importance_score": 0.8646,
+      "score": 0.8628,
+      "importance": 0.5847,
+      "importance_score": 0.8628,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9332,
+        "recency": 0.9236,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -414,65 +532,6 @@
         "url": "https://www.traveldaily.cn/article/190810",
         "source": "环球旅讯 TravelDaily",
         "source_name": "环球旅讯 TravelDaily"
-      }
-    },
-    {
-      "story_id": "story_06508753b4e1",
-      "title": "Hotel de la Coupole Sapa – MGallery Collection brings artists and travellers together",
-      "url": "https://insights.ehotelier.com/properties/2026/10/12/hotel-de-la-coupole-sapa-mgallery-collection-brings-artists-and-travellers-together/?utm_source=rss&utm_medium=rss&utm_campaign=hotel-de-la-coupole-sapa-mgallery-collection-brings-artists-and-travellers-together",
-      "primary_url": "https://insights.ehotelier.com/properties/2026/10/12/hotel-de-la-coupole-sapa-mgallery-collection-brings-artists-and-travellers-together/?utm_source=rss&utm_medium=rss&utm_campaign=hotel-de-la-coupole-sapa-mgallery-collection-brings-artists-and-travellers-together",
-      "source": "eHotelier",
-      "source_name": "eHotelier",
-      "sources": [
-        {
-          "id": "hotelitem_06508753b4e1",
-          "title": "Hotel de la Coupole Sapa – MGallery Collection brings artists and travellers together",
-          "url": "https://insights.ehotelier.com/properties/2026/10/12/hotel-de-la-coupole-sapa-mgallery-collection-brings-artists-and-travellers-together/?utm_source=rss&utm_medium=rss&utm_campaign=hotel-de-la-coupole-sapa-mgallery-collection-brings-artists-and-travellers-together",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-10-12T00:48:25Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "eHotelier"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_06508753b4e1",
-          "title": "Hotel de la Coupole Sapa – MGallery Collection brings artists and travellers together",
-          "url": "https://insights.ehotelier.com/properties/2026/10/12/hotel-de-la-coupole-sapa-mgallery-collection-brings-artists-and-travellers-together/?utm_source=rss&utm_medium=rss&utm_campaign=hotel-de-la-coupole-sapa-mgallery-collection-brings-artists-and-travellers-together",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-10-12T00:48:25Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8632,
-      "importance": 0.5981,
-      "importance_score": 0.8632,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9906,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-12T00:48:25Z",
-      "latest_at": "2026-10-12T00:48:25Z",
-      "primary_item": {
-        "id": "hotelitem_06508753b4e1",
-        "title": "Hotel de la Coupole Sapa – MGallery Collection brings artists and travellers together",
-        "url": "https://insights.ehotelier.com/properties/2026/10/12/hotel-de-la-coupole-sapa-mgallery-collection-brings-artists-and-travellers-together/?utm_source=rss&utm_medium=rss&utm_campaign=hotel-de-la-coupole-sapa-mgallery-collection-brings-artists-and-travellers-together",
-        "source": "eHotelier",
-        "source_name": "eHotelier"
       }
     },
     {
@@ -510,14 +569,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8632,
-      "importance": 0.5982,
-      "importance_score": 0.8632,
+      "score": 0.8614,
+      "importance": 0.5963,
+      "importance_score": 0.8614,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9908,
+        "recency": 0.9813,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -530,6 +589,65 @@
         "id": "hotelitem_8dfe19c80db0",
         "title": "WTTC and ICC unite to strengthen the voice and growth of millions of Travel & Tourism SMEs worldwide",
         "url": "https://insights.ehotelier.com/global-news/2026/10/12/wttc-and-icc-unite-to-strengthen-the-voice-and-growth-of-millions-of-travel-tourism-smes-worldwide/?utm_source=rss&utm_medium=rss&utm_campaign=wttc-and-icc-unite-to-strengthen-the-voice-and-growth-of-millions-of-travel-tourism-smes-worldwide",
+        "source": "eHotelier",
+        "source_name": "eHotelier"
+      }
+    },
+    {
+      "story_id": "story_06508753b4e1",
+      "title": "Hotel de la Coupole Sapa – MGallery Collection brings artists and travellers together",
+      "url": "https://insights.ehotelier.com/properties/2026/10/12/hotel-de-la-coupole-sapa-mgallery-collection-brings-artists-and-travellers-together/?utm_source=rss&utm_medium=rss&utm_campaign=hotel-de-la-coupole-sapa-mgallery-collection-brings-artists-and-travellers-together",
+      "primary_url": "https://insights.ehotelier.com/properties/2026/10/12/hotel-de-la-coupole-sapa-mgallery-collection-brings-artists-and-travellers-together/?utm_source=rss&utm_medium=rss&utm_campaign=hotel-de-la-coupole-sapa-mgallery-collection-brings-artists-and-travellers-together",
+      "source": "eHotelier",
+      "source_name": "eHotelier",
+      "sources": [
+        {
+          "id": "hotelitem_06508753b4e1",
+          "title": "Hotel de la Coupole Sapa – MGallery Collection brings artists and travellers together",
+          "url": "https://insights.ehotelier.com/properties/2026/10/12/hotel-de-la-coupole-sapa-mgallery-collection-brings-artists-and-travellers-together/?utm_source=rss&utm_medium=rss&utm_campaign=hotel-de-la-coupole-sapa-mgallery-collection-brings-artists-and-travellers-together",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-10-12T00:48:25Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "eHotelier"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_06508753b4e1",
+          "title": "Hotel de la Coupole Sapa – MGallery Collection brings artists and travellers together",
+          "url": "https://insights.ehotelier.com/properties/2026/10/12/hotel-de-la-coupole-sapa-mgallery-collection-brings-artists-and-travellers-together/?utm_source=rss&utm_medium=rss&utm_campaign=hotel-de-la-coupole-sapa-mgallery-collection-brings-artists-and-travellers-together",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-10-12T00:48:25Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8613,
+      "importance": 0.5962,
+      "importance_score": 0.8613,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.981,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-12T00:48:25Z",
+      "latest_at": "2026-10-12T00:48:25Z",
+      "primary_item": {
+        "id": "hotelitem_06508753b4e1",
+        "title": "Hotel de la Coupole Sapa – MGallery Collection brings artists and travellers together",
+        "url": "https://insights.ehotelier.com/properties/2026/10/12/hotel-de-la-coupole-sapa-mgallery-collection-brings-artists-and-travellers-together/?utm_source=rss&utm_medium=rss&utm_campaign=hotel-de-la-coupole-sapa-mgallery-collection-brings-artists-and-travellers-together",
         "source": "eHotelier",
         "source_name": "eHotelier"
       }
@@ -549,7 +667,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-10-12T10:57:31.908718Z"
+          "published_at": "2026-10-12T21:17:46.845142Z"
         },
         {
           "id": "hotelitem_c7c15b7680c9",
@@ -558,7 +676,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-10-12T10:57:31.908718Z"
+          "published_at": "2026-10-12T21:17:46.845142Z"
         }
       ],
       "source_count": 2,
@@ -573,7 +691,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-10-12T10:57:31.908718Z"
+          "published_at": "2026-10-12T21:17:46.845142Z"
         },
         {
           "id": "hotelitem_c7c15b7680c9",
@@ -582,7 +700,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-10-12T10:57:31.908718Z"
+          "published_at": "2026-10-12T21:17:46.845142Z"
         }
       ],
       "item_count": 2,
@@ -602,8 +720,8 @@
         "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-12T10:57:31.908718Z",
-      "latest_at": "2026-10-12T10:57:31.908718Z",
+      "earliest_at": "2026-10-12T21:17:46.845142Z",
+      "latest_at": "2026-10-12T21:17:46.845142Z",
       "primary_item": {
         "id": "hotelitem_d4370964909c",
         "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
@@ -627,7 +745,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-10-12T10:57:31.908718Z"
+          "published_at": "2026-10-12T21:17:46.845142Z"
         },
         {
           "id": "hotelitem_1243e4eead68",
@@ -636,7 +754,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-10-12T10:57:31.908718Z"
+          "published_at": "2026-10-12T21:17:46.845142Z"
         }
       ],
       "source_count": 2,
@@ -651,7 +769,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-10-12T10:57:31.908718Z"
+          "published_at": "2026-10-12T21:17:46.845142Z"
         },
         {
           "id": "hotelitem_1243e4eead68",
@@ -660,7 +778,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-10-12T10:57:31.908718Z"
+          "published_at": "2026-10-12T21:17:46.845142Z"
         }
       ],
       "item_count": 2,
@@ -680,8 +798,8 @@
         "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-12T10:57:31.908718Z",
-      "latest_at": "2026-10-12T10:57:31.908718Z",
+      "earliest_at": "2026-10-12T21:17:46.845142Z",
+      "latest_at": "2026-10-12T21:17:46.845142Z",
       "primary_item": {
         "id": "hotelitem_b30c7ac8b6e5",
         "title": "指数发布 | 中国住宿业消费指数报告（2026年8月）发布 为贯彻落实提振消费相关政策，真实反映中国住宿餐饮业市场消费情况，以数据引导促消费政策精准发力，为行业发展提供参考建议，中国饭店协会每月公开发布“中国饭店业消费指数体系”，包含“中国住宿业消费指数（China Hotel Industry Consumption Index, HCI）”与“中国餐饮业消费指数（China Catering Industry Consumption Index, CCI）”，欢迎关注。\n本篇发布的是“中国住宿业消费指数”。",
@@ -705,7 +823,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-10-12T10:57:31.908718Z"
+          "published_at": "2026-10-12T21:17:46.845142Z"
         }
       ],
       "source_count": 1,
@@ -720,7 +838,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-10-12T10:57:31.908718Z"
+          "published_at": "2026-10-12T21:17:46.845142Z"
         }
       ],
       "item_count": 1,
@@ -739,8 +857,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-12T10:57:31.908718Z",
-      "latest_at": "2026-10-12T10:57:31.908718Z",
+      "earliest_at": "2026-10-12T21:17:46.845142Z",
+      "latest_at": "2026-10-12T21:17:46.845142Z",
       "primary_item": {
         "id": "hotelitem_e4ce0593c384",
         "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
@@ -764,7 +882,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-10-12T10:57:31.908718Z"
+          "published_at": "2026-10-12T21:17:46.845142Z"
         }
       ],
       "source_count": 1,
@@ -779,7 +897,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-10-12T10:57:31.908718Z"
+          "published_at": "2026-10-12T21:17:46.845142Z"
         }
       ],
       "item_count": 1,
@@ -798,8 +916,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-12T10:57:31.908718Z",
-      "latest_at": "2026-10-12T10:57:31.908718Z",
+      "earliest_at": "2026-10-12T21:17:46.845142Z",
+      "latest_at": "2026-10-12T21:17:46.845142Z",
       "primary_item": {
         "id": "hotelitem_b0f4757ffc95",
         "title": "文化和旅游部 中国气象局联合发布2026年国庆...",
@@ -823,7 +941,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-10-12T10:57:31.908718Z"
+          "published_at": "2026-10-12T21:17:46.845142Z"
         }
       ],
       "source_count": 1,
@@ -838,7 +956,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-10-12T10:57:31.908718Z"
+          "published_at": "2026-10-12T21:17:46.845142Z"
         }
       ],
       "item_count": 1,
@@ -857,8 +975,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-12T10:57:31.908718Z",
-      "latest_at": "2026-10-12T10:57:31.908718Z",
+      "earliest_at": "2026-10-12T21:17:46.845142Z",
+      "latest_at": "2026-10-12T21:17:46.845142Z",
       "primary_item": {
         "id": "hotelitem_8dd9d6a00599",
         "title": "文化和旅游部中秋、国庆假期出游提示",
@@ -882,7 +1000,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-10-12T10:57:31.908718Z"
+          "published_at": "2026-10-12T21:17:46.845142Z"
         }
       ],
       "source_count": 1,
@@ -897,7 +1015,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-10-12T10:57:31.908718Z"
+          "published_at": "2026-10-12T21:17:46.845142Z"
         }
       ],
       "item_count": 1,
@@ -916,8 +1034,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-12T10:57:31.908718Z",
-      "latest_at": "2026-10-12T10:57:31.908718Z",
+      "earliest_at": "2026-10-12T21:17:46.845142Z",
+      "latest_at": "2026-10-12T21:17:46.845142Z",
       "primary_item": {
         "id": "hotelitem_4adba65c20e7",
         "title": "文化和旅游部党组召开会议坚决拥护党中央对...",
@@ -941,7 +1059,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-10-12T10:57:31.908718Z"
+          "published_at": "2026-10-12T21:17:46.845142Z"
         }
       ],
       "source_count": 1,
@@ -956,7 +1074,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-10-12T10:57:31.908718Z"
+          "published_at": "2026-10-12T21:17:46.845142Z"
         }
       ],
       "item_count": 1,
@@ -975,8 +1093,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-12T10:57:31.908718Z",
-      "latest_at": "2026-10-12T10:57:31.908718Z",
+      "earliest_at": "2026-10-12T21:17:46.845142Z",
+      "latest_at": "2026-10-12T21:17:46.845142Z",
       "primary_item": {
         "id": "hotelitem_e63a36930397",
         "title": "文化和旅游部印发《艺术发展“十五五”规划》",
@@ -1020,14 +1138,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8528,
-      "importance": 0.5873,
-      "importance_score": 0.8528,
+      "score": 0.8509,
+      "importance": 0.5854,
+      "importance_score": 0.8509,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9365,
+        "recency": 0.9269,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1042,6 +1160,242 @@
         "url": "https://www.hoteldive.com/news/chicago-hotel-union-workers-strike/832612/",
         "source": "Hotel Dive",
         "source_name": "Hotel Dive"
+      }
+    },
+    {
+      "story_id": "story_d8cdb2769f22",
+      "title": "Kohler Co. Names Nina Kohler as New Hospitality CEO",
+      "url": "https://lodgingmagazine.com/kohler-co-names-nina-kohler-as-new-hospitality-ceo/",
+      "primary_url": "https://lodgingmagazine.com/kohler-co-names-nina-kohler-as-new-hospitality-ceo/",
+      "source": "Lodging Magazine",
+      "source_name": "Lodging Magazine",
+      "sources": [
+        {
+          "id": "hotelitem_d8cdb2769f22",
+          "title": "Kohler Co. Names Nina Kohler as New Hospitality CEO",
+          "url": "https://lodgingmagazine.com/kohler-co-names-nina-kohler-as-new-hospitality-ceo/",
+          "source": "Lodging Magazine",
+          "source_name": "Lodging Magazine",
+          "site_id": "lodgingmag",
+          "published_at": "2026-10-12T17:36:34Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Lodging Magazine"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_d8cdb2769f22",
+          "title": "Kohler Co. Names Nina Kohler as New Hospitality CEO",
+          "url": "https://lodgingmagazine.com/kohler-co-names-nina-kohler-as-new-hospitality-ceo/",
+          "source": "Lodging Magazine",
+          "source_name": "Lodging Magazine",
+          "site_id": "lodgingmag",
+          "published_at": "2026-10-12T17:36:34Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8493,
+      "importance": 0.5993,
+      "importance_score": 0.8493,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9966,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-12T17:36:34Z",
+      "latest_at": "2026-10-12T17:36:34Z",
+      "primary_item": {
+        "id": "hotelitem_d8cdb2769f22",
+        "title": "Kohler Co. Names Nina Kohler as New Hospitality CEO",
+        "url": "https://lodgingmagazine.com/kohler-co-names-nina-kohler-as-new-hospitality-ceo/",
+        "source": "Lodging Magazine",
+        "source_name": "Lodging Magazine"
+      }
+    },
+    {
+      "story_id": "story_74df451aae06",
+      "title": "TKO lodges $2 billion bid for Service Properties Trust’s hotel portfolio",
+      "url": "https://boutiquehotelnews.com/news/tko-lodges-2-billion-bid-for-service-properties-trusts-hotel-portfolio/?utm_source=rss&utm_medium=rss&utm_campaign=tko-lodges-2-billion-bid-for-service-properties-trusts-hotel-portfolio",
+      "primary_url": "https://boutiquehotelnews.com/news/tko-lodges-2-billion-bid-for-service-properties-trusts-hotel-portfolio/?utm_source=rss&utm_medium=rss&utm_campaign=tko-lodges-2-billion-bid-for-service-properties-trusts-hotel-portfolio",
+      "source": "Boutique Hotel News",
+      "source_name": "Boutique Hotel News",
+      "sources": [
+        {
+          "id": "hotelitem_74df451aae06",
+          "title": "TKO lodges $2 billion bid for Service Properties Trust’s hotel portfolio",
+          "url": "https://boutiquehotelnews.com/news/tko-lodges-2-billion-bid-for-service-properties-trusts-hotel-portfolio/?utm_source=rss&utm_medium=rss&utm_campaign=tko-lodges-2-billion-bid-for-service-properties-trusts-hotel-portfolio",
+          "source": "Boutique Hotel News",
+          "source_name": "Boutique Hotel News",
+          "site_id": "boutiquehotel",
+          "published_at": "2026-10-12T14:33:31Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Boutique Hotel News"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_74df451aae06",
+          "title": "TKO lodges $2 billion bid for Service Properties Trust’s hotel portfolio",
+          "url": "https://boutiquehotelnews.com/news/tko-lodges-2-billion-bid-for-service-properties-trusts-hotel-portfolio/?utm_source=rss&utm_medium=rss&utm_campaign=tko-lodges-2-billion-bid-for-service-properties-trusts-hotel-portfolio",
+          "source": "Boutique Hotel News",
+          "source_name": "Boutique Hotel News",
+          "site_id": "boutiquehotel",
+          "published_at": "2026-10-12T14:33:31Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8488,
+      "importance": 0.5988,
+      "importance_score": 0.8488,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9938,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-12T14:33:31Z",
+      "latest_at": "2026-10-12T14:33:31Z",
+      "primary_item": {
+        "id": "hotelitem_74df451aae06",
+        "title": "TKO lodges $2 billion bid for Service Properties Trust’s hotel portfolio",
+        "url": "https://boutiquehotelnews.com/news/tko-lodges-2-billion-bid-for-service-properties-trusts-hotel-portfolio/?utm_source=rss&utm_medium=rss&utm_campaign=tko-lodges-2-billion-bid-for-service-properties-trusts-hotel-portfolio",
+        "source": "Boutique Hotel News",
+        "source_name": "Boutique Hotel News"
+      }
+    },
+    {
+      "story_id": "story_c46f29f70da8",
+      "title": "NewcrestImage Announces Acquisition of The Hotel Zags",
+      "url": "https://lodgingmagazine.com/newcrestimage-announces-acquisition-of-the-hotel-zags/",
+      "primary_url": "https://lodgingmagazine.com/newcrestimage-announces-acquisition-of-the-hotel-zags/",
+      "source": "Lodging Magazine",
+      "source_name": "Lodging Magazine",
+      "sources": [
+        {
+          "id": "hotelitem_c46f29f70da8",
+          "title": "NewcrestImage Announces Acquisition of The Hotel Zags",
+          "url": "https://lodgingmagazine.com/newcrestimage-announces-acquisition-of-the-hotel-zags/",
+          "source": "Lodging Magazine",
+          "source_name": "Lodging Magazine",
+          "site_id": "lodgingmag",
+          "published_at": "2026-10-12T13:00:16Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Lodging Magazine"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_c46f29f70da8",
+          "title": "NewcrestImage Announces Acquisition of The Hotel Zags",
+          "url": "https://lodgingmagazine.com/newcrestimage-announces-acquisition-of-the-hotel-zags/",
+          "source": "Lodging Magazine",
+          "source_name": "Lodging Magazine",
+          "site_id": "lodgingmag",
+          "published_at": "2026-10-12T13:00:16Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8485,
+      "importance": 0.5985,
+      "importance_score": 0.8485,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9923,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-12T13:00:16Z",
+      "latest_at": "2026-10-12T13:00:16Z",
+      "primary_item": {
+        "id": "hotelitem_c46f29f70da8",
+        "title": "NewcrestImage Announces Acquisition of The Hotel Zags",
+        "url": "https://lodgingmagazine.com/newcrestimage-announces-acquisition-of-the-hotel-zags/",
+        "source": "Lodging Magazine",
+        "source_name": "Lodging Magazine"
+      }
+    },
+    {
+      "story_id": "story_da58c1e04ce0",
+      "title": "Planning for hotels with staying-power: the role of placemaking",
+      "url": "https://boutiquehotelnews.com/features/planning-hotels-placemaking/?utm_source=rss&utm_medium=rss&utm_campaign=planning-hotels-placemaking",
+      "primary_url": "https://boutiquehotelnews.com/features/planning-hotels-placemaking/?utm_source=rss&utm_medium=rss&utm_campaign=planning-hotels-placemaking",
+      "source": "Boutique Hotel News",
+      "source_name": "Boutique Hotel News",
+      "sources": [
+        {
+          "id": "hotelitem_da58c1e04ce0",
+          "title": "Planning for hotels with staying-power: the role of placemaking",
+          "url": "https://boutiquehotelnews.com/features/planning-hotels-placemaking/?utm_source=rss&utm_medium=rss&utm_campaign=planning-hotels-placemaking",
+          "source": "Boutique Hotel News",
+          "source_name": "Boutique Hotel News",
+          "site_id": "boutiquehotel",
+          "published_at": "2026-10-12T08:05:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Boutique Hotel News"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_da58c1e04ce0",
+          "title": "Planning for hotels with staying-power: the role of placemaking",
+          "url": "https://boutiquehotelnews.com/features/planning-hotels-placemaking/?utm_source=rss&utm_medium=rss&utm_campaign=planning-hotels-placemaking",
+          "source": "Boutique Hotel News",
+          "source_name": "Boutique Hotel News",
+          "site_id": "boutiquehotel",
+          "published_at": "2026-10-12T08:05:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8476,
+      "importance": 0.5976,
+      "importance_score": 0.8476,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9878,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-12T08:05:00Z",
+      "latest_at": "2026-10-12T08:05:00Z",
+      "primary_item": {
+        "id": "hotelitem_da58c1e04ce0",
+        "title": "Planning for hotels with staying-power: the role of placemaking",
+        "url": "https://boutiquehotelnews.com/features/planning-hotels-placemaking/?utm_source=rss&utm_medium=rss&utm_campaign=planning-hotels-placemaking",
+        "source": "Boutique Hotel News",
+        "source_name": "Boutique Hotel News"
       }
     },
     {
@@ -1079,14 +1433,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8377,
-      "importance": 0.5873,
-      "importance_score": 0.8377,
+      "score": 0.8359,
+      "importance": 0.5854,
+      "importance_score": 0.8359,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9364,
+        "recency": 0.9268,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1099,65 +1453,6 @@
         "id": "hotelitem_b6b9a1862e30",
         "title": "The Workarounds Masking Your Hotel’s Biggest Operational Problems",
         "url": "https://lodgingmagazine.com/the-workarounds-masking-your-hotels-biggest-operational-problems/",
-        "source": "Lodging Magazine",
-        "source_name": "Lodging Magazine"
-      }
-    },
-    {
-      "story_id": "story_516d4e4eecd4",
-      "title": "Capitalizing on CapEx Best Practices From the Pros",
-      "url": "https://lodgingmagazine.com/capitalizing-on-capex-best-practices-from-the-pros/",
-      "primary_url": "https://lodgingmagazine.com/capitalizing-on-capex-best-practices-from-the-pros/",
-      "source": "Lodging Magazine",
-      "source_name": "Lodging Magazine",
-      "sources": [
-        {
-          "id": "hotelitem_516d4e4eecd4",
-          "title": "Capitalizing on CapEx Best Practices From the Pros",
-          "url": "https://lodgingmagazine.com/capitalizing-on-capex-best-practices-from-the-pros/",
-          "source": "Lodging Magazine",
-          "source_name": "Lodging Magazine",
-          "site_id": "lodgingmag",
-          "published_at": "2026-10-09T13:07:39Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Lodging Magazine"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_516d4e4eecd4",
-          "title": "Capitalizing on CapEx Best Practices From the Pros",
-          "url": "https://lodgingmagazine.com/capitalizing-on-capex-best-practices-from-the-pros/",
-          "source": "Lodging Magazine",
-          "source_name": "Lodging Magazine",
-          "site_id": "lodgingmag",
-          "published_at": "2026-10-09T13:07:39Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8375,
-      "importance": 0.5871,
-      "importance_score": 0.8375,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9353,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-09T13:07:39Z",
-      "latest_at": "2026-10-09T13:07:39Z",
-      "primary_item": {
-        "id": "hotelitem_516d4e4eecd4",
-        "title": "Capitalizing on CapEx Best Practices From the Pros",
-        "url": "https://lodgingmagazine.com/capitalizing-on-capex-best-practices-from-the-pros/",
         "source": "Lodging Magazine",
         "source_name": "Lodging Magazine"
       }
@@ -1197,14 +1492,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8371,
-      "importance": 0.5866,
-      "importance_score": 0.8371,
+      "score": 0.8353,
+      "importance": 0.5847,
+      "importance_score": 0.8353,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9331,
+        "recency": 0.9236,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1256,14 +1551,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8357,
-      "importance": 0.5696,
-      "importance_score": 0.8357,
+      "score": 0.8333,
+      "importance": 0.5677,
+      "importance_score": 0.8333,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8481,
+        "recency": 0.8386,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1281,62 +1576,62 @@
       }
     },
     {
-      "story_id": "story_b061a24fd81b",
-      "title": "Mews Survey: Hotel Guests Don’t Want AI-Led Stays",
-      "url": "https://lodgingmagazine.com/mews-survey-hotel-guests-dont-want-ai-led-stays/",
-      "primary_url": "https://lodgingmagazine.com/mews-survey-hotel-guests-dont-want-ai-led-stays/",
-      "source": "Lodging Magazine",
-      "source_name": "Lodging Magazine",
+      "story_id": "story_ecd269c4f47d",
+      "title": "SELECT-SERVICE MARRIOTT FRANCHISE IN NORTHERN NJ/NYC MARKET",
+      "url": "https://www.hotelmanagement.net/resource/select-service-marriott-franchise-northern-njnyc-market-0",
+      "primary_url": "https://www.hotelmanagement.net/resource/select-service-marriott-franchise-northern-njnyc-market-0",
+      "source": "Hotel Management",
+      "source_name": "Hotel Management",
       "sources": [
         {
-          "id": "hotelitem_b061a24fd81b",
-          "title": "Mews Survey: Hotel Guests Don’t Want AI-Led Stays",
-          "url": "https://lodgingmagazine.com/mews-survey-hotel-guests-dont-want-ai-led-stays/",
-          "source": "Lodging Magazine",
-          "source_name": "Lodging Magazine",
-          "site_id": "lodgingmag",
-          "published_at": "2026-10-08T18:52:50Z"
+          "id": "hotelitem_ecd269c4f47d",
+          "title": "SELECT-SERVICE MARRIOTT FRANCHISE IN NORTHERN NJ/NYC MARKET",
+          "url": "https://www.hotelmanagement.net/resource/select-service-marriott-franchise-northern-njnyc-market-0",
+          "source": "Hotel Management",
+          "source_name": "Hotel Management",
+          "site_id": "hotelmgmt",
+          "published_at": "2026-10-12T18:22:18Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Lodging Magazine"
+        "Hotel Management"
       ],
       "items": [
         {
-          "id": "hotelitem_b061a24fd81b",
-          "title": "Mews Survey: Hotel Guests Don’t Want AI-Led Stays",
-          "url": "https://lodgingmagazine.com/mews-survey-hotel-guests-dont-want-ai-led-stays/",
-          "source": "Lodging Magazine",
-          "source_name": "Lodging Magazine",
-          "site_id": "lodgingmag",
-          "published_at": "2026-10-08T18:52:50Z"
+          "id": "hotelitem_ecd269c4f47d",
+          "title": "SELECT-SERVICE MARRIOTT FRANCHISE IN NORTHERN NJ/NYC MARKET",
+          "url": "https://www.hotelmanagement.net/resource/select-service-marriott-franchise-northern-njnyc-market-0",
+          "source": "Hotel Management",
+          "source_name": "Hotel Management",
+          "site_id": "hotelmgmt",
+          "published_at": "2026-10-12T18:22:18Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8343,
-      "importance": 0.5837,
-      "importance_score": 0.8343,
+      "score": 0.8195,
+      "importance": 0.5995,
+      "importance_score": 0.8195,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9184,
+        "recency": 0.9973,
         "story_heat": 0.0
       },
       "category": "watch",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-08T18:52:50Z",
-      "latest_at": "2026-10-08T18:52:50Z",
+      "earliest_at": "2026-10-12T18:22:18Z",
+      "latest_at": "2026-10-12T18:22:18Z",
       "primary_item": {
-        "id": "hotelitem_b061a24fd81b",
-        "title": "Mews Survey: Hotel Guests Don’t Want AI-Led Stays",
-        "url": "https://lodgingmagazine.com/mews-survey-hotel-guests-dont-want-ai-led-stays/",
-        "source": "Lodging Magazine",
-        "source_name": "Lodging Magazine"
+        "id": "hotelitem_ecd269c4f47d",
+        "title": "SELECT-SERVICE MARRIOTT FRANCHISE IN NORTHERN NJ/NYC MARKET",
+        "url": "https://www.hotelmanagement.net/resource/select-service-marriott-franchise-northern-njnyc-market-0",
+        "source": "Hotel Management",
+        "source_name": "Hotel Management"
       }
     },
     {
@@ -1374,14 +1669,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8171,
-      "importance": 0.5996,
-      "importance_score": 0.8171,
+      "score": 0.8153,
+      "importance": 0.5977,
+      "importance_score": 0.8153,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9981,
+        "recency": 0.9886,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1433,14 +1728,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8168,
-      "importance": 0.5993,
-      "importance_score": 0.8168,
+      "score": 0.815,
+      "importance": 0.5974,
+      "importance_score": 0.815,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9965,
+        "recency": 0.987,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1472,7 +1767,7 @@
           "source": "Agoda",
           "source_name": "Agoda",
           "site_id": "agoda_press",
-          "published_at": "2026-10-12T10:57:31.908718Z"
+          "published_at": "2026-10-12T21:17:46.845142Z"
         }
       ],
       "source_count": 1,
@@ -1487,7 +1782,7 @@
           "source": "Agoda",
           "source_name": "Agoda",
           "site_id": "agoda_press",
-          "published_at": "2026-10-12T10:57:31.908718Z"
+          "published_at": "2026-10-12T21:17:46.845142Z"
         }
       ],
       "item_count": 1,
@@ -1506,307 +1801,12 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-12T10:57:31.908718Z",
-      "latest_at": "2026-10-12T10:57:31.908718Z",
+      "earliest_at": "2026-10-12T21:17:46.845142Z",
+      "latest_at": "2026-10-12T21:17:46.845142Z",
       "primary_item": {
         "id": "hotelitem_69c4ef2b3d80",
         "title": "Agoda Partners Kaohsiung City Government to  ... Digital travel platform Agoda and the Kaohsiung City Government have signed a Memorandum of Understand ... September 11, 2026 / Partnership",
         "url": "https://www.agoda.com/press/agoda-partners-kaohsiung-city-government/",
-        "source": "Agoda",
-        "source_name": "Agoda"
-      }
-    },
-    {
-      "story_id": "story_e8ae1de14799",
-      "title": "Agoda Partners with Marina Bay Sands on Besp ... The custom digital storefront brings together Marina Bay Sands’ rooms, suites and resort experiences,  ... October 1, 2026 / Partnership",
-      "url": "https://www.agoda.com/press/agoda-partners-with-marina-bay-sands-on-bespoke-flagship-store-for-experience-led-travel/",
-      "primary_url": "https://www.agoda.com/press/agoda-partners-with-marina-bay-sands-on-bespoke-flagship-store-for-experience-led-travel/",
-      "source": "Agoda",
-      "source_name": "Agoda",
-      "sources": [
-        {
-          "id": "hotelitem_e8ae1de14799",
-          "title": "Agoda Partners with Marina Bay Sands on Besp ... The custom digital storefront brings together Marina Bay Sands’ rooms, suites and resort experiences,  ... October 1, 2026 / Partnership",
-          "url": "https://www.agoda.com/press/agoda-partners-with-marina-bay-sands-on-bespoke-flagship-store-for-experience-led-travel/",
-          "source": "Agoda",
-          "source_name": "Agoda",
-          "site_id": "agoda_press",
-          "published_at": "2026-10-12T10:57:31.908718Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Agoda"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_e8ae1de14799",
-          "title": "Agoda Partners with Marina Bay Sands on Besp ... The custom digital storefront brings together Marina Bay Sands’ rooms, suites and resort experiences,  ... October 1, 2026 / Partnership",
-          "url": "https://www.agoda.com/press/agoda-partners-with-marina-bay-sands-on-bespoke-flagship-store-for-experience-led-travel/",
-          "source": "Agoda",
-          "source_name": "Agoda",
-          "site_id": "agoda_press",
-          "published_at": "2026-10-12T10:57:31.908718Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8125,
-      "importance": 0.6,
-      "importance_score": 0.8125,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-12T10:57:31.908718Z",
-      "latest_at": "2026-10-12T10:57:31.908718Z",
-      "primary_item": {
-        "id": "hotelitem_e8ae1de14799",
-        "title": "Agoda Partners with Marina Bay Sands on Besp ... The custom digital storefront brings together Marina Bay Sands’ rooms, suites and resort experiences,  ... October 1, 2026 / Partnership",
-        "url": "https://www.agoda.com/press/agoda-partners-with-marina-bay-sands-on-bespoke-flagship-store-for-experience-led-travel/",
-        "source": "Agoda",
-        "source_name": "Agoda"
-      }
-    },
-    {
-      "story_id": "story_aa68e9432a35",
-      "title": "Agoda Reveals Growing Asian Appetite for Ger ... As the 191st Oktoberfest draws to a close, Asia’s appetite for Germany’s world-famous beer festival ap ... October 2, 2026 / Travel Trends",
-      "url": "https://www.agoda.com/press/agoda-reveals-growing-asian-appetite-for-germanys-oktoberfest/",
-      "primary_url": "https://www.agoda.com/press/agoda-reveals-growing-asian-appetite-for-germanys-oktoberfest/",
-      "source": "Agoda",
-      "source_name": "Agoda",
-      "sources": [
-        {
-          "id": "hotelitem_aa68e9432a35",
-          "title": "Agoda Reveals Growing Asian Appetite for Ger ... As the 191st Oktoberfest draws to a close, Asia’s appetite for Germany’s world-famous beer festival ap ... October 2, 2026 / Travel Trends",
-          "url": "https://www.agoda.com/press/agoda-reveals-growing-asian-appetite-for-germanys-oktoberfest/",
-          "source": "Agoda",
-          "source_name": "Agoda",
-          "site_id": "agoda_press",
-          "published_at": "2026-10-12T10:57:31.908718Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Agoda"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_aa68e9432a35",
-          "title": "Agoda Reveals Growing Asian Appetite for Ger ... As the 191st Oktoberfest draws to a close, Asia’s appetite for Germany’s world-famous beer festival ap ... October 2, 2026 / Travel Trends",
-          "url": "https://www.agoda.com/press/agoda-reveals-growing-asian-appetite-for-germanys-oktoberfest/",
-          "source": "Agoda",
-          "source_name": "Agoda",
-          "site_id": "agoda_press",
-          "published_at": "2026-10-12T10:57:31.908718Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8125,
-      "importance": 0.6,
-      "importance_score": 0.8125,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-12T10:57:31.908718Z",
-      "latest_at": "2026-10-12T10:57:31.908718Z",
-      "primary_item": {
-        "id": "hotelitem_aa68e9432a35",
-        "title": "Agoda Reveals Growing Asian Appetite for Ger ... As the 191st Oktoberfest draws to a close, Asia’s appetite for Germany’s world-famous beer festival ap ... October 2, 2026 / Travel Trends",
-        "url": "https://www.agoda.com/press/agoda-reveals-growing-asian-appetite-for-germanys-oktoberfest/",
-        "source": "Agoda",
-        "source_name": "Agoda"
-      }
-    },
-    {
-      "story_id": "story_8c5f0ae63982",
-      "title": "Agoda and KakaoBank Partner to Offer Travel  ... Providing seamless access to stay options on one of Korea’s leading digital banks’ app, featuring disc ... May 28, 2026 / Partnership",
-      "url": "https://www.agoda.com/press/agoda-and-kakaobank-partner-to-offer-travel-booking-experience-on-digital-banking-app/",
-      "primary_url": "https://www.agoda.com/press/agoda-and-kakaobank-partner-to-offer-travel-booking-experience-on-digital-banking-app/",
-      "source": "Agoda",
-      "source_name": "Agoda",
-      "sources": [
-        {
-          "id": "hotelitem_8c5f0ae63982",
-          "title": "Agoda and KakaoBank Partner to Offer Travel  ... Providing seamless access to stay options on one of Korea’s leading digital banks’ app, featuring disc ... May 28, 2026 / Partnership",
-          "url": "https://www.agoda.com/press/agoda-and-kakaobank-partner-to-offer-travel-booking-experience-on-digital-banking-app/",
-          "source": "Agoda",
-          "source_name": "Agoda",
-          "site_id": "agoda_press",
-          "published_at": "2026-10-12T10:57:31.908718Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Agoda"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_8c5f0ae63982",
-          "title": "Agoda and KakaoBank Partner to Offer Travel  ... Providing seamless access to stay options on one of Korea’s leading digital banks’ app, featuring disc ... May 28, 2026 / Partnership",
-          "url": "https://www.agoda.com/press/agoda-and-kakaobank-partner-to-offer-travel-booking-experience-on-digital-banking-app/",
-          "source": "Agoda",
-          "source_name": "Agoda",
-          "site_id": "agoda_press",
-          "published_at": "2026-10-12T10:57:31.908718Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8125,
-      "importance": 0.6,
-      "importance_score": 0.8125,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-12T10:57:31.908718Z",
-      "latest_at": "2026-10-12T10:57:31.908718Z",
-      "primary_item": {
-        "id": "hotelitem_8c5f0ae63982",
-        "title": "Agoda and KakaoBank Partner to Offer Travel  ... Providing seamless access to stay options on one of Korea’s leading digital banks’ app, featuring disc ... May 28, 2026 / Partnership",
-        "url": "https://www.agoda.com/press/agoda-and-kakaobank-partner-to-offer-travel-booking-experience-on-digital-banking-app/",
-        "source": "Agoda",
-        "source_name": "Agoda"
-      }
-    },
-    {
-      "story_id": "story_29900a6c3803",
-      "title": "Agoda and Philippines Department of Tourism  ... Digital travel platform Agoda and the Philippines Department of Tourism (DOT) announced a strategic pa ... May 27, 2026 / Partnership",
-      "url": "https://www.agoda.com/press/agoda-and-philippines-department-of-tourism-announce-strategic-partnership-to-promote-and-elevate-tourism/",
-      "primary_url": "https://www.agoda.com/press/agoda-and-philippines-department-of-tourism-announce-strategic-partnership-to-promote-and-elevate-tourism/",
-      "source": "Agoda",
-      "source_name": "Agoda",
-      "sources": [
-        {
-          "id": "hotelitem_29900a6c3803",
-          "title": "Agoda and Philippines Department of Tourism  ... Digital travel platform Agoda and the Philippines Department of Tourism (DOT) announced a strategic pa ... May 27, 2026 / Partnership",
-          "url": "https://www.agoda.com/press/agoda-and-philippines-department-of-tourism-announce-strategic-partnership-to-promote-and-elevate-tourism/",
-          "source": "Agoda",
-          "source_name": "Agoda",
-          "site_id": "agoda_press",
-          "published_at": "2026-10-12T10:57:31.908718Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Agoda"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_29900a6c3803",
-          "title": "Agoda and Philippines Department of Tourism  ... Digital travel platform Agoda and the Philippines Department of Tourism (DOT) announced a strategic pa ... May 27, 2026 / Partnership",
-          "url": "https://www.agoda.com/press/agoda-and-philippines-department-of-tourism-announce-strategic-partnership-to-promote-and-elevate-tourism/",
-          "source": "Agoda",
-          "source_name": "Agoda",
-          "site_id": "agoda_press",
-          "published_at": "2026-10-12T10:57:31.908718Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8125,
-      "importance": 0.6,
-      "importance_score": 0.8125,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-12T10:57:31.908718Z",
-      "latest_at": "2026-10-12T10:57:31.908718Z",
-      "primary_item": {
-        "id": "hotelitem_29900a6c3803",
-        "title": "Agoda and Philippines Department of Tourism  ... Digital travel platform Agoda and the Philippines Department of Tourism (DOT) announced a strategic pa ... May 27, 2026 / Partnership",
-        "url": "https://www.agoda.com/press/agoda-and-philippines-department-of-tourism-announce-strategic-partnership-to-promote-and-elevate-tourism/",
-        "source": "Agoda",
-        "source_name": "Agoda"
-      }
-    },
-    {
-      "story_id": "story_2b1ac16dd17d",
-      "title": "Agoda and Singapore Tourism Board Expand Par ... Digital travel platform Agoda and the Singapore Tourism Board (STB) have renewed and broadened their s ... August 14, 2026 / Partnership",
-      "url": "https://www.agoda.com/press/agoda-and-singapore-tourism-board-expand-partnership-to-boost-demand-and-tech-transformation-in-tourism/",
-      "primary_url": "https://www.agoda.com/press/agoda-and-singapore-tourism-board-expand-partnership-to-boost-demand-and-tech-transformation-in-tourism/",
-      "source": "Agoda",
-      "source_name": "Agoda",
-      "sources": [
-        {
-          "id": "hotelitem_2b1ac16dd17d",
-          "title": "Agoda and Singapore Tourism Board Expand Par ... Digital travel platform Agoda and the Singapore Tourism Board (STB) have renewed and broadened their s ... August 14, 2026 / Partnership",
-          "url": "https://www.agoda.com/press/agoda-and-singapore-tourism-board-expand-partnership-to-boost-demand-and-tech-transformation-in-tourism/",
-          "source": "Agoda",
-          "source_name": "Agoda",
-          "site_id": "agoda_press",
-          "published_at": "2026-10-12T10:57:31.908718Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Agoda"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_2b1ac16dd17d",
-          "title": "Agoda and Singapore Tourism Board Expand Par ... Digital travel platform Agoda and the Singapore Tourism Board (STB) have renewed and broadened their s ... August 14, 2026 / Partnership",
-          "url": "https://www.agoda.com/press/agoda-and-singapore-tourism-board-expand-partnership-to-boost-demand-and-tech-transformation-in-tourism/",
-          "source": "Agoda",
-          "source_name": "Agoda",
-          "site_id": "agoda_press",
-          "published_at": "2026-10-12T10:57:31.908718Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8125,
-      "importance": 0.6,
-      "importance_score": 0.8125,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-12T10:57:31.908718Z",
-      "latest_at": "2026-10-12T10:57:31.908718Z",
-      "primary_item": {
-        "id": "hotelitem_2b1ac16dd17d",
-        "title": "Agoda and Singapore Tourism Board Expand Par ... Digital travel platform Agoda and the Singapore Tourism Board (STB) have renewed and broadened their s ... August 14, 2026 / Partnership",
-        "url": "https://www.agoda.com/press/agoda-and-singapore-tourism-board-expand-partnership-to-boost-demand-and-tech-transformation-in-tourism/",
         "source": "Agoda",
         "source_name": "Agoda"
       }
