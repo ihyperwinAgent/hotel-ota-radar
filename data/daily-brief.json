@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T17:05:20.277100Z",
+  "generated_at": "2026-10-15T21:27:15.342564Z",
   "window_hours": 1080,
   "total_items": 30,
   "items": [
@@ -38,14 +38,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9501,
-      "importance": 0.5949,
-      "importance_score": 0.9501,
+      "score": 0.9493,
+      "importance": 0.5941,
+      "importance_score": 0.9493,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9744,
+        "recency": 0.9704,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -97,14 +97,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9351,
-      "importance": 0.5949,
-      "importance_score": 0.9351,
+      "score": 0.9343,
+      "importance": 0.5941,
+      "importance_score": 0.9343,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9745,
+        "recency": 0.9704,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -119,65 +119,6 @@
         "url": "https://boutiquehotelnews.com/news/marriott-appoints-alok-dixit-as-gm-ahead-of-w-manchester-and-w-residences-2027-opening/?utm_source=rss&utm_medium=rss&utm_campaign=marriott-appoints-alok-dixit-as-gm-ahead-of-w-manchester-and-w-residences-2027-opening",
         "source": "Boutique Hotel News",
         "source_name": "Boutique Hotel News"
-      }
-    },
-    {
-      "story_id": "story_6d1c887bff33",
-      "title": "The Indigo Road Hospitality Group Appoints New Chief Marketing Officer",
-      "url": "https://lodgingmagazine.com/the-indigo-road-hospitality-group-appoints-new-chief-marketing-officer/",
-      "primary_url": "https://lodgingmagazine.com/the-indigo-road-hospitality-group-appoints-new-chief-marketing-officer/",
-      "source": "Lodging Magazine",
-      "source_name": "Lodging Magazine",
-      "sources": [
-        {
-          "id": "hotelitem_6d1c887bff33",
-          "title": "The Indigo Road Hospitality Group Appoints New Chief Marketing Officer",
-          "url": "https://lodgingmagazine.com/the-indigo-road-hospitality-group-appoints-new-chief-marketing-officer/",
-          "source": "Lodging Magazine",
-          "source_name": "Lodging Magazine",
-          "site_id": "lodgingmag",
-          "published_at": "2026-10-14T12:41:43Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Lodging Magazine"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_6d1c887bff33",
-          "title": "The Indigo Road Hospitality Group Appoints New Chief Marketing Officer",
-          "url": "https://lodgingmagazine.com/the-indigo-road-hospitality-group-appoints-new-chief-marketing-officer/",
-          "source": "Lodging Magazine",
-          "source_name": "Lodging Magazine",
-          "site_id": "lodgingmag",
-          "published_at": "2026-10-14T12:41:43Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.9349,
-      "importance": 0.5947,
-      "importance_score": 0.9349,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9737,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-14T12:41:43Z",
-      "latest_at": "2026-10-14T12:41:43Z",
-      "primary_item": {
-        "id": "hotelitem_6d1c887bff33",
-        "title": "The Indigo Road Hospitality Group Appoints New Chief Marketing Officer",
-        "url": "https://lodgingmagazine.com/the-indigo-road-hospitality-group-appoints-new-chief-marketing-officer/",
-        "source": "Lodging Magazine",
-        "source_name": "Lodging Magazine"
       }
     },
     {
@@ -215,14 +156,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9346,
-      "importance": 0.5944,
-      "importance_score": 0.9346,
+      "score": 0.9338,
+      "importance": 0.5936,
+      "importance_score": 0.9338,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.972,
+        "recency": 0.968,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -254,7 +195,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-10-15T17:05:20.277100Z"
+          "published_at": "2026-10-15T21:27:15.342564Z"
         }
       ],
       "source_count": 1,
@@ -269,7 +210,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-10-15T17:05:20.277100Z"
+          "published_at": "2026-10-15T21:27:15.342564Z"
         }
       ],
       "item_count": 1,
@@ -288,14 +229,73 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-15T17:05:20.277100Z",
-      "latest_at": "2026-10-15T17:05:20.277100Z",
+      "earliest_at": "2026-10-15T21:27:15.342564Z",
+      "latest_at": "2026-10-15T21:27:15.342564Z",
       "primary_item": {
         "id": "hotelitem_06f191e24d38",
         "title": "文旅惠报|复星国际申请分拆Club Med在港上市；南京商旅上半年营收3.66亿元",
         "url": "https://www.tripvivid.com/47868.html",
         "source": "执惠 TripVivid",
         "source_name": "执惠 TripVivid"
+      }
+    },
+    {
+      "story_id": "story_0abaa1a2096e",
+      "title": "NYC’s Plaza Hotel to close in 2027 for multiyear facade restoration",
+      "url": "https://www.hoteldive.com/news/plaza-hotel-nyc-closure-facade-restoration/833144/",
+      "primary_url": "https://www.hoteldive.com/news/plaza-hotel-nyc-closure-facade-restoration/833144/",
+      "source": "Hotel Dive",
+      "source_name": "Hotel Dive",
+      "sources": [
+        {
+          "id": "hotelitem_0abaa1a2096e",
+          "title": "NYC’s Plaza Hotel to close in 2027 for multiyear facade restoration",
+          "url": "https://www.hoteldive.com/news/plaza-hotel-nyc-closure-facade-restoration/833144/",
+          "source": "Hotel Dive",
+          "source_name": "Hotel Dive",
+          "site_id": "hoteldive",
+          "published_at": "2026-10-15T17:47:11Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hotel Dive"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_0abaa1a2096e",
+          "title": "NYC’s Plaza Hotel to close in 2027 for multiyear facade restoration",
+          "url": "https://www.hoteldive.com/news/plaza-hotel-nyc-closure-facade-restoration/833144/",
+          "source": "Hotel Dive",
+          "source_name": "Hotel Dive",
+          "site_id": "hoteldive",
+          "published_at": "2026-10-15T17:47:11Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8643,
+      "importance": 0.5993,
+      "importance_score": 0.8643,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9966,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-15T17:47:11Z",
+      "latest_at": "2026-10-15T17:47:11Z",
+      "primary_item": {
+        "id": "hotelitem_0abaa1a2096e",
+        "title": "NYC’s Plaza Hotel to close in 2027 for multiyear facade restoration",
+        "url": "https://www.hoteldive.com/news/plaza-hotel-nyc-closure-facade-restoration/833144/",
+        "source": "Hotel Dive",
+        "source_name": "Hotel Dive"
       }
     },
     {
@@ -333,14 +333,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8608,
-      "importance": 0.5956,
-      "importance_score": 0.8608,
+      "score": 0.86,
+      "importance": 0.5948,
+      "importance_score": 0.86,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.978,
+        "recency": 0.9739,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -355,6 +355,84 @@
         "url": "https://www.hoteldive.com/news/dreamscape-names-adam-patenaude-president-ceo/833008/",
         "source": "Hotel Dive",
         "source_name": "Hotel Dive"
+      }
+    },
+    {
+      "story_id": "story_c7c15b7680c9",
+      "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
+      "url": "https://www.chinahotel.org.cn/articles/17408",
+      "primary_url": "https://www.chinahotel.org.cn/articles/17408",
+      "source": "中国饭店协会",
+      "source_name": "中国饭店协会",
+      "sources": [
+        {
+          "id": "hotelitem_d4370964909c",
+          "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
+          "url": "https://www.chinahotel.org.cn/articles/17408",
+          "source": "中国饭店协会",
+          "source_name": "中国饭店协会",
+          "site_id": "chinahotel",
+          "published_at": "2026-10-15T21:27:15.342564Z"
+        },
+        {
+          "id": "hotelitem_c7c15b7680c9",
+          "title": "绿色饭店 | 2026年第一批国家标准绿色饭店名单公布 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007) 在全国组织开展国家标准绿色饭店的评定工作。现公布2026年第一批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
+          "url": "https://www.chinahotel.org.cn/articles/17689",
+          "source": "中国饭店协会",
+          "source_name": "中国饭店协会",
+          "site_id": "chinahotel",
+          "published_at": "2026-10-15T21:27:15.342564Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "中国饭店协会"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_d4370964909c",
+          "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
+          "url": "https://www.chinahotel.org.cn/articles/17408",
+          "source": "中国饭店协会",
+          "source_name": "中国饭店协会",
+          "site_id": "chinahotel",
+          "published_at": "2026-10-15T21:27:15.342564Z"
+        },
+        {
+          "id": "hotelitem_c7c15b7680c9",
+          "title": "绿色饭店 | 2026年第一批国家标准绿色饭店名单公布 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007) 在全国组织开展国家标准绿色饭店的评定工作。现公布2026年第一批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
+          "url": "https://www.chinahotel.org.cn/articles/17689",
+          "source": "中国饭店协会",
+          "source_name": "中国饭店协会",
+          "site_id": "chinahotel",
+          "published_at": "2026-10-15T21:27:15.342564Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.86,
+      "importance": 0.625,
+      "importance_score": 0.86,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-15T21:27:15.342564Z",
+      "latest_at": "2026-10-15T21:27:15.342564Z",
+      "primary_item": {
+        "id": "hotelitem_d4370964909c",
+        "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
+        "url": "https://www.chinahotel.org.cn/articles/17408",
+        "source": "中国饭店协会",
+        "source_name": "中国饭店协会"
       }
     },
     {
@@ -392,14 +470,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.86,
-      "importance": 0.5948,
-      "importance_score": 0.86,
+      "score": 0.8592,
+      "importance": 0.594,
+      "importance_score": 0.8592,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9742,
+        "recency": 0.9701,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -414,84 +492,6 @@
         "url": "https://www.hoteldive.com/news/hotel-insurance-cost-pressures/832921/",
         "source": "Hotel Dive",
         "source_name": "Hotel Dive"
-      }
-    },
-    {
-      "story_id": "story_c7c15b7680c9",
-      "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
-      "url": "https://www.chinahotel.org.cn/articles/17408",
-      "primary_url": "https://www.chinahotel.org.cn/articles/17408",
-      "source": "中国饭店协会",
-      "source_name": "中国饭店协会",
-      "sources": [
-        {
-          "id": "hotelitem_d4370964909c",
-          "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
-          "url": "https://www.chinahotel.org.cn/articles/17408",
-          "source": "中国饭店协会",
-          "source_name": "中国饭店协会",
-          "site_id": "chinahotel",
-          "published_at": "2026-10-15T17:05:20.277100Z"
-        },
-        {
-          "id": "hotelitem_c7c15b7680c9",
-          "title": "绿色饭店 | 2026年第一批国家标准绿色饭店名单公布 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007) 在全国组织开展国家标准绿色饭店的评定工作。现公布2026年第一批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
-          "url": "https://www.chinahotel.org.cn/articles/17689",
-          "source": "中国饭店协会",
-          "source_name": "中国饭店协会",
-          "site_id": "chinahotel",
-          "published_at": "2026-10-15T17:05:20.277100Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "中国饭店协会"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_d4370964909c",
-          "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
-          "url": "https://www.chinahotel.org.cn/articles/17408",
-          "source": "中国饭店协会",
-          "source_name": "中国饭店协会",
-          "site_id": "chinahotel",
-          "published_at": "2026-10-15T17:05:20.277100Z"
-        },
-        {
-          "id": "hotelitem_c7c15b7680c9",
-          "title": "绿色饭店 | 2026年第一批国家标准绿色饭店名单公布 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007) 在全国组织开展国家标准绿色饭店的评定工作。现公布2026年第一批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
-          "url": "https://www.chinahotel.org.cn/articles/17689",
-          "source": "中国饭店协会",
-          "source_name": "中国饭店协会",
-          "site_id": "chinahotel",
-          "published_at": "2026-10-15T17:05:20.277100Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.86,
-      "importance": 0.625,
-      "importance_score": 0.86,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-15T17:05:20.277100Z",
-      "latest_at": "2026-10-15T17:05:20.277100Z",
-      "primary_item": {
-        "id": "hotelitem_d4370964909c",
-        "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
-        "url": "https://www.chinahotel.org.cn/articles/17408",
-        "source": "中国饭店协会",
-        "source_name": "中国饭店协会"
       }
     },
     {
@@ -529,14 +529,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8595,
-      "importance": 0.5243,
-      "importance_score": 0.8595,
+      "score": 0.8583,
+      "importance": 0.5235,
+      "importance_score": 0.8583,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.6214,
+        "recency": 0.6173,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -568,7 +568,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-10-15T17:05:20.277100Z"
+          "published_at": "2026-10-15T21:27:15.342564Z"
         }
       ],
       "source_count": 1,
@@ -583,7 +583,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-10-15T17:05:20.277100Z"
+          "published_at": "2026-10-15T21:27:15.342564Z"
         }
       ],
       "item_count": 1,
@@ -602,8 +602,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-15T17:05:20.277100Z",
-      "latest_at": "2026-10-15T17:05:20.277100Z",
+      "earliest_at": "2026-10-15T21:27:15.342564Z",
+      "latest_at": "2026-10-15T21:27:15.342564Z",
       "primary_item": {
         "id": "hotelitem_e4ce0593c384",
         "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
@@ -627,7 +627,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-10-15T17:05:20.277100Z"
+          "published_at": "2026-10-15T21:27:15.342564Z"
         }
       ],
       "source_count": 1,
@@ -642,7 +642,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-10-15T17:05:20.277100Z"
+          "published_at": "2026-10-15T21:27:15.342564Z"
         }
       ],
       "item_count": 1,
@@ -661,8 +661,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-15T17:05:20.277100Z",
-      "latest_at": "2026-10-15T17:05:20.277100Z",
+      "earliest_at": "2026-10-15T21:27:15.342564Z",
+      "latest_at": "2026-10-15T21:27:15.342564Z",
       "primary_item": {
         "id": "hotelitem_b0f4757ffc95",
         "title": "文化和旅游部 中国气象局联合发布2026年国庆...",
@@ -686,7 +686,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-10-15T17:05:20.277100Z"
+          "published_at": "2026-10-15T21:27:15.342564Z"
         }
       ],
       "source_count": 1,
@@ -701,7 +701,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-10-15T17:05:20.277100Z"
+          "published_at": "2026-10-15T21:27:15.342564Z"
         }
       ],
       "item_count": 1,
@@ -720,8 +720,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-15T17:05:20.277100Z",
-      "latest_at": "2026-10-15T17:05:20.277100Z",
+      "earliest_at": "2026-10-15T21:27:15.342564Z",
+      "latest_at": "2026-10-15T21:27:15.342564Z",
       "primary_item": {
         "id": "hotelitem_4adba65c20e7",
         "title": "文化和旅游部党组召开会议坚决拥护党中央对...",
@@ -745,7 +745,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-10-15T17:05:20.277100Z"
+          "published_at": "2026-10-15T21:27:15.342564Z"
         }
       ],
       "source_count": 1,
@@ -760,7 +760,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-10-15T17:05:20.277100Z"
+          "published_at": "2026-10-15T21:27:15.342564Z"
         }
       ],
       "item_count": 1,
@@ -779,8 +779,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-15T17:05:20.277100Z",
-      "latest_at": "2026-10-15T17:05:20.277100Z",
+      "earliest_at": "2026-10-15T21:27:15.342564Z",
+      "latest_at": "2026-10-15T21:27:15.342564Z",
       "primary_item": {
         "id": "hotelitem_e63a36930397",
         "title": "文化和旅游部印发《艺术发展“十五五”规划》",
@@ -824,14 +824,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8567,
-      "importance": 0.5914,
-      "importance_score": 0.8567,
+      "score": 0.8559,
+      "importance": 0.5906,
+      "importance_score": 0.8559,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.957,
+        "recency": 0.9529,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -883,14 +883,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8558,
-      "importance": 0.5905,
-      "importance_score": 0.8558,
+      "score": 0.855,
+      "importance": 0.5896,
+      "importance_score": 0.855,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9523,
+        "recency": 0.9482,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -942,14 +942,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8499,
-      "importance": 0.5999,
-      "importance_score": 0.8499,
+      "score": 0.8492,
+      "importance": 0.5991,
+      "importance_score": 0.8492,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9997,
+        "recency": 0.9957,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1001,14 +1001,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8495,
-      "importance": 0.5995,
-      "importance_score": 0.8495,
+      "score": 0.8487,
+      "importance": 0.5987,
+      "importance_score": 0.8487,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9974,
+        "recency": 0.9934,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1060,14 +1060,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.845,
-      "importance": 0.5948,
-      "importance_score": 0.845,
+      "score": 0.8442,
+      "importance": 0.594,
+      "importance_score": 0.8442,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9739,
+        "recency": 0.9699,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1119,14 +1119,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.845,
-      "importance": 0.5948,
-      "importance_score": 0.845,
+      "score": 0.8442,
+      "importance": 0.594,
+      "importance_score": 0.8442,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9742,
+        "recency": 0.9702,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1139,65 +1139,6 @@
         "id": "hotelitem_bc95838a91a2",
         "title": "Kempinski to open Augustine Hotel Prague following renovation of 800-year-old monastery",
         "url": "https://boutiquehotelnews.com/news/kempinski-to-open-augustine-hotel-prague-following-renovation-of-800-year-old-monastery/?utm_source=rss&utm_medium=rss&utm_campaign=kempinski-to-open-augustine-hotel-prague-following-renovation-of-800-year-old-monastery",
-        "source": "Boutique Hotel News",
-        "source_name": "Boutique Hotel News"
-      }
-    },
-    {
-      "story_id": "story_ece73d7f1ced",
-      "title": "The Sirius Hotel Group appoints John Adams as chair",
-      "url": "https://boutiquehotelnews.com/news/the-sirius-hotel-group-appoints-john-adams-as-chair/?utm_source=rss&utm_medium=rss&utm_campaign=the-sirius-hotel-group-appoints-john-adams-as-chair",
-      "primary_url": "https://boutiquehotelnews.com/news/the-sirius-hotel-group-appoints-john-adams-as-chair/?utm_source=rss&utm_medium=rss&utm_campaign=the-sirius-hotel-group-appoints-john-adams-as-chair",
-      "source": "Boutique Hotel News",
-      "source_name": "Boutique Hotel News",
-      "sources": [
-        {
-          "id": "hotelitem_ece73d7f1ced",
-          "title": "The Sirius Hotel Group appoints John Adams as chair",
-          "url": "https://boutiquehotelnews.com/news/the-sirius-hotel-group-appoints-john-adams-as-chair/?utm_source=rss&utm_medium=rss&utm_campaign=the-sirius-hotel-group-appoints-john-adams-as-chair",
-          "source": "Boutique Hotel News",
-          "source_name": "Boutique Hotel News",
-          "site_id": "boutiquehotel",
-          "published_at": "2026-10-13T15:03:34Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Boutique Hotel News"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_ece73d7f1ced",
-          "title": "The Sirius Hotel Group appoints John Adams as chair",
-          "url": "https://boutiquehotelnews.com/news/the-sirius-hotel-group-appoints-john-adams-as-chair/?utm_source=rss&utm_medium=rss&utm_campaign=the-sirius-hotel-group-appoints-john-adams-as-chair",
-          "source": "Boutique Hotel News",
-          "source_name": "Boutique Hotel News",
-          "site_id": "boutiquehotel",
-          "published_at": "2026-10-13T15:03:34Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8411,
-      "importance": 0.5907,
-      "importance_score": 0.8411,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9537,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-13T15:03:34Z",
-      "latest_at": "2026-10-13T15:03:34Z",
-      "primary_item": {
-        "id": "hotelitem_ece73d7f1ced",
-        "title": "The Sirius Hotel Group appoints John Adams as chair",
-        "url": "https://boutiquehotelnews.com/news/the-sirius-hotel-group-appoints-john-adams-as-chair/?utm_source=rss&utm_medium=rss&utm_campaign=the-sirius-hotel-group-appoints-john-adams-as-chair",
         "source": "Boutique Hotel News",
         "source_name": "Boutique Hotel News"
       }
@@ -1237,14 +1178,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8411,
-      "importance": 0.5908,
-      "importance_score": 0.8411,
+      "score": 0.8404,
+      "importance": 0.59,
+      "importance_score": 0.8404,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.954,
+        "recency": 0.95,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1257,6 +1198,65 @@
         "id": "hotelitem_1406eebdbf44",
         "title": "Iconic Hotels & Resorts appoints Michelle Walder as group director of operations",
         "url": "https://boutiquehotelnews.com/news/iconic-hotels-resorts-appoints-michelle-walder-as-group-director-of-operations/?utm_source=rss&utm_medium=rss&utm_campaign=iconic-hotels-resorts-appoints-michelle-walder-as-group-director-of-operations",
+        "source": "Boutique Hotel News",
+        "source_name": "Boutique Hotel News"
+      }
+    },
+    {
+      "story_id": "story_ece73d7f1ced",
+      "title": "The Sirius Hotel Group appoints John Adams as chair",
+      "url": "https://boutiquehotelnews.com/news/the-sirius-hotel-group-appoints-john-adams-as-chair/?utm_source=rss&utm_medium=rss&utm_campaign=the-sirius-hotel-group-appoints-john-adams-as-chair",
+      "primary_url": "https://boutiquehotelnews.com/news/the-sirius-hotel-group-appoints-john-adams-as-chair/?utm_source=rss&utm_medium=rss&utm_campaign=the-sirius-hotel-group-appoints-john-adams-as-chair",
+      "source": "Boutique Hotel News",
+      "source_name": "Boutique Hotel News",
+      "sources": [
+        {
+          "id": "hotelitem_ece73d7f1ced",
+          "title": "The Sirius Hotel Group appoints John Adams as chair",
+          "url": "https://boutiquehotelnews.com/news/the-sirius-hotel-group-appoints-john-adams-as-chair/?utm_source=rss&utm_medium=rss&utm_campaign=the-sirius-hotel-group-appoints-john-adams-as-chair",
+          "source": "Boutique Hotel News",
+          "source_name": "Boutique Hotel News",
+          "site_id": "boutiquehotel",
+          "published_at": "2026-10-13T15:03:34Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Boutique Hotel News"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_ece73d7f1ced",
+          "title": "The Sirius Hotel Group appoints John Adams as chair",
+          "url": "https://boutiquehotelnews.com/news/the-sirius-hotel-group-appoints-john-adams-as-chair/?utm_source=rss&utm_medium=rss&utm_campaign=the-sirius-hotel-group-appoints-john-adams-as-chair",
+          "source": "Boutique Hotel News",
+          "source_name": "Boutique Hotel News",
+          "site_id": "boutiquehotel",
+          "published_at": "2026-10-13T15:03:34Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8403,
+      "importance": 0.5899,
+      "importance_score": 0.8403,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9496,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-13T15:03:34Z",
+      "latest_at": "2026-10-13T15:03:34Z",
+      "primary_item": {
+        "id": "hotelitem_ece73d7f1ced",
+        "title": "The Sirius Hotel Group appoints John Adams as chair",
+        "url": "https://boutiquehotelnews.com/news/the-sirius-hotel-group-appoints-john-adams-as-chair/?utm_source=rss&utm_medium=rss&utm_campaign=the-sirius-hotel-group-appoints-john-adams-as-chair",
         "source": "Boutique Hotel News",
         "source_name": "Boutique Hotel News"
       }
@@ -1296,14 +1296,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.841,
-      "importance": 0.5906,
-      "importance_score": 0.841,
+      "score": 0.8402,
+      "importance": 0.5898,
+      "importance_score": 0.8402,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9532,
+        "recency": 0.9491,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1355,14 +1355,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8388,
-      "importance": 0.5728,
-      "importance_score": 0.8388,
+      "score": 0.838,
+      "importance": 0.572,
+      "importance_score": 0.838,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8642,
+        "recency": 0.8601,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1414,14 +1414,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8367,
-      "importance": 0.5862,
-      "importance_score": 0.8367,
+      "score": 0.8359,
+      "importance": 0.5854,
+      "importance_score": 0.8359,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.931,
+        "recency": 0.9269,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1473,14 +1473,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8148,
-      "importance": 0.5552,
-      "importance_score": 0.8148,
+      "score": 0.8137,
+      "importance": 0.5543,
+      "importance_score": 0.8137,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.7758,
+        "recency": 0.7717,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1512,7 +1512,7 @@
           "source": "Agoda",
           "source_name": "Agoda",
           "site_id": "agoda_press",
-          "published_at": "2026-10-15T17:05:20.277100Z"
+          "published_at": "2026-10-15T21:27:15.342564Z"
         }
       ],
       "source_count": 1,
@@ -1527,7 +1527,7 @@
           "source": "Agoda",
           "source_name": "Agoda",
           "site_id": "agoda_press",
-          "published_at": "2026-10-15T17:05:20.277100Z"
+          "published_at": "2026-10-15T21:27:15.342564Z"
         }
       ],
       "item_count": 1,
@@ -1546,8 +1546,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-15T17:05:20.277100Z",
-      "latest_at": "2026-10-15T17:05:20.277100Z",
+      "earliest_at": "2026-10-15T21:27:15.342564Z",
+      "latest_at": "2026-10-15T21:27:15.342564Z",
       "primary_item": {
         "id": "hotelitem_69c4ef2b3d80",
         "title": "Agoda Partners Kaohsiung City Government to  ... Digital travel platform Agoda and the Kaohsiung City Government have signed a Memorandum of Understand ... September 11, 2026 / Partnership",
@@ -1571,7 +1571,7 @@
           "source": "Agoda",
           "source_name": "Agoda",
           "site_id": "agoda_press",
-          "published_at": "2026-10-15T17:05:20.277100Z"
+          "published_at": "2026-10-15T21:27:15.342564Z"
         }
       ],
       "source_count": 1,
@@ -1586,7 +1586,7 @@
           "source": "Agoda",
           "source_name": "Agoda",
           "site_id": "agoda_press",
-          "published_at": "2026-10-15T17:05:20.277100Z"
+          "published_at": "2026-10-15T21:27:15.342564Z"
         }
       ],
       "item_count": 1,
@@ -1605,8 +1605,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-15T17:05:20.277100Z",
-      "latest_at": "2026-10-15T17:05:20.277100Z",
+      "earliest_at": "2026-10-15T21:27:15.342564Z",
+      "latest_at": "2026-10-15T21:27:15.342564Z",
       "primary_item": {
         "id": "hotelitem_e8ae1de14799",
         "title": "Agoda Partners with Marina Bay Sands on Besp ... The custom digital storefront brings together Marina Bay Sands’ rooms, suites and resort experiences,  ... October 1, 2026 / Partnership",
@@ -1630,7 +1630,7 @@
           "source": "Agoda",
           "source_name": "Agoda",
           "site_id": "agoda_press",
-          "published_at": "2026-10-15T17:05:20.277100Z"
+          "published_at": "2026-10-15T21:27:15.342564Z"
         }
       ],
       "source_count": 1,
@@ -1645,7 +1645,7 @@
           "source": "Agoda",
           "source_name": "Agoda",
           "site_id": "agoda_press",
-          "published_at": "2026-10-15T17:05:20.277100Z"
+          "published_at": "2026-10-15T21:27:15.342564Z"
         }
       ],
       "item_count": 1,
@@ -1664,71 +1664,12 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-15T17:05:20.277100Z",
-      "latest_at": "2026-10-15T17:05:20.277100Z",
+      "earliest_at": "2026-10-15T21:27:15.342564Z",
+      "latest_at": "2026-10-15T21:27:15.342564Z",
       "primary_item": {
         "id": "hotelitem_aa68e9432a35",
         "title": "Agoda Reveals Growing Asian Appetite for Ger ... As the 191st Oktoberfest draws to a close, Asia’s appetite for Germany’s world-famous beer festival ap ... October 2, 2026 / Travel Trends",
         "url": "https://www.agoda.com/press/agoda-reveals-growing-asian-appetite-for-germanys-oktoberfest/",
-        "source": "Agoda",
-        "source_name": "Agoda"
-      }
-    },
-    {
-      "story_id": "story_fbf410613f99",
-      "title": "Agoda and Emerging Travel Group Enter Strate ... Digital travel platform Agoda and Emerging Travel Group (ETG), a global travel technology company oper ... October 15, 2026 / Default",
-      "url": "https://www.agoda.com/press/agoda-and-emerging-travel-group-enter-strategic-partnership/",
-      "primary_url": "https://www.agoda.com/press/agoda-and-emerging-travel-group-enter-strategic-partnership/",
-      "source": "Agoda",
-      "source_name": "Agoda",
-      "sources": [
-        {
-          "id": "hotelitem_fbf410613f99",
-          "title": "Agoda and Emerging Travel Group Enter Strate ... Digital travel platform Agoda and Emerging Travel Group (ETG), a global travel technology company oper ... October 15, 2026 / Default",
-          "url": "https://www.agoda.com/press/agoda-and-emerging-travel-group-enter-strategic-partnership/",
-          "source": "Agoda",
-          "source_name": "Agoda",
-          "site_id": "agoda_press",
-          "published_at": "2026-10-15T17:05:20.277100Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Agoda"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_fbf410613f99",
-          "title": "Agoda and Emerging Travel Group Enter Strate ... Digital travel platform Agoda and Emerging Travel Group (ETG), a global travel technology company oper ... October 15, 2026 / Default",
-          "url": "https://www.agoda.com/press/agoda-and-emerging-travel-group-enter-strategic-partnership/",
-          "source": "Agoda",
-          "source_name": "Agoda",
-          "site_id": "agoda_press",
-          "published_at": "2026-10-15T17:05:20.277100Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8125,
-      "importance": 0.6,
-      "importance_score": 0.8125,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-15T17:05:20.277100Z",
-      "latest_at": "2026-10-15T17:05:20.277100Z",
-      "primary_item": {
-        "id": "hotelitem_fbf410613f99",
-        "title": "Agoda and Emerging Travel Group Enter Strate ... Digital travel platform Agoda and Emerging Travel Group (ETG), a global travel technology company oper ... October 15, 2026 / Default",
-        "url": "https://www.agoda.com/press/agoda-and-emerging-travel-group-enter-strategic-partnership/",
         "source": "Agoda",
         "source_name": "Agoda"
       }
@@ -1748,7 +1689,7 @@
           "source": "Agoda",
           "source_name": "Agoda",
           "site_id": "agoda_press",
-          "published_at": "2026-10-15T17:05:20.277100Z"
+          "published_at": "2026-10-15T21:27:15.342564Z"
         }
       ],
       "source_count": 1,
@@ -1763,7 +1704,7 @@
           "source": "Agoda",
           "source_name": "Agoda",
           "site_id": "agoda_press",
-          "published_at": "2026-10-15T17:05:20.277100Z"
+          "published_at": "2026-10-15T21:27:15.342564Z"
         }
       ],
       "item_count": 1,
@@ -1782,12 +1723,71 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-15T17:05:20.277100Z",
-      "latest_at": "2026-10-15T17:05:20.277100Z",
+      "earliest_at": "2026-10-15T21:27:15.342564Z",
+      "latest_at": "2026-10-15T21:27:15.342564Z",
       "primary_item": {
         "id": "hotelitem_8c5f0ae63982",
         "title": "Agoda and KakaoBank Partner to Offer Travel  ... Providing seamless access to stay options on one of Korea’s leading digital banks’ app, featuring disc ... May 28, 2026 / Partnership",
         "url": "https://www.agoda.com/press/agoda-and-kakaobank-partner-to-offer-travel-booking-experience-on-digital-banking-app/",
+        "source": "Agoda",
+        "source_name": "Agoda"
+      }
+    },
+    {
+      "story_id": "story_29900a6c3803",
+      "title": "Agoda and Philippines Department of Tourism  ... Digital travel platform Agoda and the Philippines Department of Tourism (DOT) announced a strategic pa ... May 27, 2026 / Partnership",
+      "url": "https://www.agoda.com/press/agoda-and-philippines-department-of-tourism-announce-strategic-partnership-to-promote-and-elevate-tourism/",
+      "primary_url": "https://www.agoda.com/press/agoda-and-philippines-department-of-tourism-announce-strategic-partnership-to-promote-and-elevate-tourism/",
+      "source": "Agoda",
+      "source_name": "Agoda",
+      "sources": [
+        {
+          "id": "hotelitem_29900a6c3803",
+          "title": "Agoda and Philippines Department of Tourism  ... Digital travel platform Agoda and the Philippines Department of Tourism (DOT) announced a strategic pa ... May 27, 2026 / Partnership",
+          "url": "https://www.agoda.com/press/agoda-and-philippines-department-of-tourism-announce-strategic-partnership-to-promote-and-elevate-tourism/",
+          "source": "Agoda",
+          "source_name": "Agoda",
+          "site_id": "agoda_press",
+          "published_at": "2026-10-15T21:27:15.342564Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Agoda"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_29900a6c3803",
+          "title": "Agoda and Philippines Department of Tourism  ... Digital travel platform Agoda and the Philippines Department of Tourism (DOT) announced a strategic pa ... May 27, 2026 / Partnership",
+          "url": "https://www.agoda.com/press/agoda-and-philippines-department-of-tourism-announce-strategic-partnership-to-promote-and-elevate-tourism/",
+          "source": "Agoda",
+          "source_name": "Agoda",
+          "site_id": "agoda_press",
+          "published_at": "2026-10-15T21:27:15.342564Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8125,
+      "importance": 0.6,
+      "importance_score": 0.8125,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-15T21:27:15.342564Z",
+      "latest_at": "2026-10-15T21:27:15.342564Z",
+      "primary_item": {
+        "id": "hotelitem_29900a6c3803",
+        "title": "Agoda and Philippines Department of Tourism  ... Digital travel platform Agoda and the Philippines Department of Tourism (DOT) announced a strategic pa ... May 27, 2026 / Partnership",
+        "url": "https://www.agoda.com/press/agoda-and-philippines-department-of-tourism-announce-strategic-partnership-to-promote-and-elevate-tourism/",
         "source": "Agoda",
         "source_name": "Agoda"
       }
