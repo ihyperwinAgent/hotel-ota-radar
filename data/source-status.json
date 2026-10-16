@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-16T04:37:10.894163Z",
-  "successful_sites": 22,
+  "generated_at": "2026-10-16T11:30:02.689978Z",
+  "successful_sites": 21,
   "total_sites": 26,
-  "items_before_topic_filter": 137,
+  "items_before_topic_filter": 116,
   "sites": [
     {
       "site_id": "huazhu_ir",
@@ -10,7 +10,7 @@
       "category": "cr9_finance",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 212,
+      "duration_ms": 106,
       "error": "403 Client Error: Forbidden for url: https://www.globenewswire.com/en/search/keyword/Huazhu"
     },
     {
@@ -19,7 +19,7 @@
       "category": "cr9_finance",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 86573,
+      "duration_ms": 85726,
       "error": "HTTPSConnectionPool(host='ir.yaduo.com', port=443): Max retries exceeded with url: /rss/news-releases.xml (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='ir.yaduo.com', port=443): Read timed out. (read timeout=20)\")) | fallback: 403 Client Error: Forbidden for url: https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1853717&type=6-K&output=atom"
     },
     {
@@ -28,7 +28,7 @@
       "category": "cr9_finance",
       "ok": true,
       "item_count": 0,
-      "duration_ms": 2167,
+      "duration_ms": 1900,
       "error": null
     },
     {
@@ -37,7 +37,7 @@
       "category": "supply_chain",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 2951,
+      "duration_ms": 2519,
       "error": null
     },
     {
@@ -46,7 +46,7 @@
       "category": "policy",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 1693,
+      "duration_ms": 1475,
       "error": null
     },
     {
@@ -55,7 +55,7 @@
       "category": "policy",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 2680,
+      "duration_ms": 2648,
       "error": null
     },
     {
@@ -64,7 +64,7 @@
       "category": "supply_chain",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 1986,
+      "duration_ms": 1787,
       "error": null
     },
     {
@@ -73,7 +73,7 @@
       "category": "supply_chain",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 4710,
+      "duration_ms": 7626,
       "error": null
     },
     {
@@ -82,7 +82,7 @@
       "category": "supply_chain",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1771,
+      "duration_ms": 1091,
       "error": null
     },
     {
@@ -91,7 +91,7 @@
       "category": "ai_hotel",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 203,
+      "duration_ms": 147,
       "error": null
     },
     {
@@ -100,7 +100,7 @@
       "category": "ai_hotel",
       "ok": true,
       "item_count": 0,
-      "duration_ms": 1326,
+      "duration_ms": 1683,
       "error": null
     },
     {
@@ -109,7 +109,7 @@
       "category": "ai_hotel",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 6254,
+      "duration_ms": 6146,
       "error": "HTTPSConnectionPool(host='insights.ehotelier.com', port=443): Max retries exceeded with url: /feed/ (Caused by ResponseError('too many 500 error responses'))"
     },
     {
@@ -118,7 +118,7 @@
       "category": "supply_chain",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 216,
+      "duration_ms": 649,
       "error": null
     },
     {
@@ -127,7 +127,7 @@
       "category": "supply_chain",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 917,
+      "duration_ms": 1336,
       "error": null
     },
     {
@@ -136,7 +136,7 @@
       "category": "ai_hotel",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 127,
+      "duration_ms": 164,
       "error": null
     },
     {
@@ -145,7 +145,7 @@
       "category": "ota",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 234,
+      "duration_ms": 166,
       "error": "403 Client Error: Forbidden for url: https://www.globenewswire.com/en/search/keyword/Trip.com%20Group"
     },
     {
@@ -154,7 +154,7 @@
       "category": "ota",
       "ok": true,
       "item_count": 0,
-      "duration_ms": 229,
+      "duration_ms": 483,
       "error": null
     },
     {
@@ -163,7 +163,7 @@
       "category": "ota",
       "ok": true,
       "item_count": 0,
-      "duration_ms": 179,
+      "duration_ms": 192,
       "error": null
     },
     {
@@ -172,7 +172,7 @@
       "category": "ota",
       "ok": true,
       "item_count": 0,
-      "duration_ms": 89,
+      "duration_ms": 124,
       "error": null
     },
     {
@@ -181,7 +181,7 @@
       "category": "ota",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 281,
+      "duration_ms": 189,
       "error": null
     },
     {
@@ -190,7 +190,7 @@
       "category": "ota",
       "ok": true,
       "item_count": 0,
-      "duration_ms": 137,
+      "duration_ms": 191,
       "error": null
     },
     {
@@ -199,7 +199,7 @@
       "category": "ota",
       "ok": true,
       "item_count": 0,
-      "duration_ms": 121,
+      "duration_ms": 180,
       "error": null
     },
     {
@@ -208,7 +208,7 @@
       "category": "ota",
       "ok": true,
       "item_count": 0,
-      "duration_ms": 1336,
+      "duration_ms": 1866,
       "error": null
     },
     {
@@ -217,17 +217,17 @@
       "category": "ota",
       "ok": true,
       "item_count": 0,
-      "duration_ms": 1639,
+      "duration_ms": 1475,
       "error": null
     },
     {
       "site_id": "traveldaily",
       "site_name": "环球旅讯 TravelDaily",
       "category": "ota",
-      "ok": true,
-      "item_count": 20,
-      "duration_ms": 8734,
-      "error": null
+      "ok": false,
+      "item_count": 0,
+      "duration_ms": 16574,
+      "error": "HTTPSConnectionPool(host='www.traveldaily.cn', port=443): Read timed out."
     },
     {
       "site_id": "iresearch",
@@ -235,7 +235,7 @@
       "category": "ota",
       "ok": true,
       "item_count": 0,
-      "duration_ms": 1423,
+      "duration_ms": 1318,
       "error": null
     }
   ]
