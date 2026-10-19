@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T04:47:38.585877Z",
+  "generated_at": "2026-10-19T13:25:48.435025Z",
   "window_hours": 1080,
   "total_items": 30,
   "items": [
@@ -38,14 +38,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9544,
-      "importance": 0.5994,
-      "importance_score": 0.9544,
+      "score": 0.9529,
+      "importance": 0.5978,
+      "importance_score": 0.9529,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9969,
+        "recency": 0.9889,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -97,14 +97,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9351,
-      "importance": 0.5794,
-      "importance_score": 0.9351,
+      "score": 0.9336,
+      "importance": 0.5778,
+      "importance_score": 0.9336,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8969,
+        "recency": 0.8889,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -156,14 +156,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9201,
-      "importance": 0.5794,
-      "importance_score": 0.9201,
+      "score": 0.9186,
+      "importance": 0.5778,
+      "importance_score": 0.9186,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.897,
+        "recency": 0.889,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -215,14 +215,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9197,
-      "importance": 0.5789,
-      "importance_score": 0.9197,
+      "score": 0.9181,
+      "importance": 0.5773,
+      "importance_score": 0.9181,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8945,
+        "recency": 0.8865,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -240,65 +240,6 @@
       }
     },
     {
-      "story_id": "story_9da7baf83560",
-      "title": "乌兹别克斯坦酒店集团 TEG 完成在美业务合并",
-      "url": "https://www.pinchain.com/article/351955",
-      "primary_url": "https://www.pinchain.com/article/351955",
-      "source": "品橙旅游",
-      "source_name": "品橙旅游",
-      "sources": [
-        {
-          "id": "hotelitem_9da7baf83560",
-          "title": "乌兹别克斯坦酒店集团 TEG 完成在美业务合并",
-          "url": "https://www.pinchain.com/article/351955",
-          "source": "品橙旅游",
-          "source_name": "品橙旅游",
-          "site_id": "pinchain",
-          "published_at": "2026-10-16T07:49:20Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "品橙旅游"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_9da7baf83560",
-          "title": "乌兹别克斯坦酒店集团 TEG 完成在美业务合并",
-          "url": "https://www.pinchain.com/article/351955",
-          "source": "品橙旅游",
-          "source_name": "品橙旅游",
-          "site_id": "pinchain",
-          "published_at": "2026-10-16T07:49:20Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.9177,
-      "importance": 0.5872,
-      "importance_score": 0.9177,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9361,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-16T07:49:20Z",
-      "latest_at": "2026-10-16T07:49:20Z",
-      "primary_item": {
-        "id": "hotelitem_9da7baf83560",
-        "title": "乌兹别克斯坦酒店集团 TEG 完成在美业务合并",
-        "url": "https://www.pinchain.com/article/351955",
-        "source": "品橙旅游",
-        "source_name": "品橙旅游"
-      }
-    },
-    {
       "story_id": "story_06f191e24d38",
       "title": "文旅惠报|复星国际申请分拆Club Med在港上市；南京商旅上半年营收3.66亿元",
       "url": "https://www.tripvivid.com/47868.html",
@@ -313,7 +254,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-10-19T04:47:38.585877Z"
+          "published_at": "2026-10-19T13:25:48.435025Z"
         }
       ],
       "source_count": 1,
@@ -328,7 +269,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-10-19T04:47:38.585877Z"
+          "published_at": "2026-10-19T13:25:48.435025Z"
         }
       ],
       "item_count": 1,
@@ -347,8 +288,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-19T04:47:38.585877Z",
-      "latest_at": "2026-10-19T04:47:38.585877Z",
+      "earliest_at": "2026-10-19T13:25:48.435025Z",
+      "latest_at": "2026-10-19T13:25:48.435025Z",
       "primary_item": {
         "id": "hotelitem_06f191e24d38",
         "title": "文旅惠报|复星国际申请分拆Club Med在港上市；南京商旅上半年营收3.66亿元",
@@ -358,21 +299,21 @@
       }
     },
     {
-      "story_id": "story_f73327e0b266",
-      "title": "希尔顿花园酒店中国市场开业酒店突破200家",
-      "url": "https://www.pinchain.com/article/351965",
-      "primary_url": "https://www.pinchain.com/article/351965",
+      "story_id": "story_30afe3f9297d",
+      "title": "福朋喜来登第一次进驻杭州湾良港",
+      "url": "https://www.pinchain.com/article/352006",
+      "primary_url": "https://www.pinchain.com/article/352006",
       "source": "品橙旅游",
       "source_name": "品橙旅游",
       "sources": [
         {
-          "id": "hotelitem_f73327e0b266",
-          "title": "希尔顿花园酒店中国市场开业酒店突破200家",
-          "url": "https://www.pinchain.com/article/351965",
+          "id": "hotelitem_30afe3f9297d",
+          "title": "福朋喜来登第一次进驻杭州湾良港",
+          "url": "https://www.pinchain.com/article/352006",
           "source": "品橙旅游",
           "source_name": "品橙旅游",
           "site_id": "pinchain",
-          "published_at": "2026-10-16T08:00:50Z"
+          "published_at": "2026-10-19T08:27:20Z"
         }
       ],
       "source_count": 1,
@@ -381,98 +322,39 @@
       ],
       "items": [
         {
-          "id": "hotelitem_f73327e0b266",
-          "title": "希尔顿花园酒店中国市场开业酒店突破200家",
-          "url": "https://www.pinchain.com/article/351965",
+          "id": "hotelitem_30afe3f9297d",
+          "title": "福朋喜来登第一次进驻杭州湾良港",
+          "url": "https://www.pinchain.com/article/352006",
           "source": "品橙旅游",
           "source_name": "品橙旅游",
           "site_id": "pinchain",
-          "published_at": "2026-10-16T08:00:50Z"
+          "published_at": "2026-10-19T08:27:20Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8727,
-      "importance": 0.5873,
-      "importance_score": 0.8727,
+      "score": 0.8841,
+      "importance": 0.5991,
+      "importance_score": 0.8841,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9363,
+        "recency": 0.9954,
         "story_heat": 0.0
       },
       "category": "watch",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-16T08:00:50Z",
-      "latest_at": "2026-10-16T08:00:50Z",
+      "earliest_at": "2026-10-19T08:27:20Z",
+      "latest_at": "2026-10-19T08:27:20Z",
       "primary_item": {
-        "id": "hotelitem_f73327e0b266",
-        "title": "希尔顿花园酒店中国市场开业酒店突破200家",
-        "url": "https://www.pinchain.com/article/351965",
+        "id": "hotelitem_30afe3f9297d",
+        "title": "福朋喜来登第一次进驻杭州湾良港",
+        "url": "https://www.pinchain.com/article/352006",
         "source": "品橙旅游",
         "source_name": "品橙旅游"
-      }
-    },
-    {
-      "story_id": "story_af2032c3768d",
-      "title": "Reclaiming hotel F&B revenue from delivery apps: Are your guests ordering from DoorDash & Deliveroo instead of from you?",
-      "url": "https://insights.ehotelier.com/suppliers/2026/10/19/reclaiming-hotel-fb-revenue-from-delivery-apps-are-your-guests-ordering-from-doordash-deliveroo-instead-of-from-you/?utm_source=rss&utm_medium=rss&utm_campaign=reclaiming-hotel-fb-revenue-from-delivery-apps-are-your-guests-ordering-from-doordash-deliveroo-instead-of-from-you",
-      "primary_url": "https://insights.ehotelier.com/suppliers/2026/10/19/reclaiming-hotel-fb-revenue-from-delivery-apps-are-your-guests-ordering-from-doordash-deliveroo-instead-of-from-you/?utm_source=rss&utm_medium=rss&utm_campaign=reclaiming-hotel-fb-revenue-from-delivery-apps-are-your-guests-ordering-from-doordash-deliveroo-instead-of-from-you",
-      "source": "eHotelier",
-      "source_name": "eHotelier",
-      "sources": [
-        {
-          "id": "hotelitem_af2032c3768d",
-          "title": "Reclaiming hotel F&B revenue from delivery apps: Are your guests ordering from DoorDash & Deliveroo instead of from you?",
-          "url": "https://insights.ehotelier.com/suppliers/2026/10/19/reclaiming-hotel-fb-revenue-from-delivery-apps-are-your-guests-ordering-from-doordash-deliveroo-instead-of-from-you/?utm_source=rss&utm_medium=rss&utm_campaign=reclaiming-hotel-fb-revenue-from-delivery-apps-are-your-guests-ordering-from-doordash-deliveroo-instead-of-from-you",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-10-19T01:12:06Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "eHotelier"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_af2032c3768d",
-          "title": "Reclaiming hotel F&B revenue from delivery apps: Are your guests ordering from DoorDash & Deliveroo instead of from you?",
-          "url": "https://insights.ehotelier.com/suppliers/2026/10/19/reclaiming-hotel-fb-revenue-from-delivery-apps-are-your-guests-ordering-from-doordash-deliveroo-instead-of-from-you/?utm_source=rss&utm_medium=rss&utm_campaign=reclaiming-hotel-fb-revenue-from-delivery-apps-are-your-guests-ordering-from-doordash-deliveroo-instead-of-from-you",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-10-19T01:12:06Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8644,
-      "importance": 0.5993,
-      "importance_score": 0.8644,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9967,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-19T01:12:06Z",
-      "latest_at": "2026-10-19T01:12:06Z",
-      "primary_item": {
-        "id": "hotelitem_af2032c3768d",
-        "title": "Reclaiming hotel F&B revenue from delivery apps: Are your guests ordering from DoorDash & Deliveroo instead of from you?",
-        "url": "https://insights.ehotelier.com/suppliers/2026/10/19/reclaiming-hotel-fb-revenue-from-delivery-apps-are-your-guests-ordering-from-doordash-deliveroo-instead-of-from-you/?utm_source=rss&utm_medium=rss&utm_campaign=reclaiming-hotel-fb-revenue-from-delivery-apps-are-your-guests-ordering-from-doordash-deliveroo-instead-of-from-you",
-        "source": "eHotelier",
-        "source_name": "eHotelier"
       }
     },
     {
@@ -510,14 +392,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8644,
-      "importance": 0.5994,
-      "importance_score": 0.8644,
+      "score": 0.8629,
+      "importance": 0.5978,
+      "importance_score": 0.8629,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.997,
+        "recency": 0.989,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -569,14 +451,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8643,
-      "importance": 0.5993,
-      "importance_score": 0.8643,
+      "score": 0.8628,
+      "importance": 0.5977,
+      "importance_score": 0.8628,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9964,
+        "recency": 0.9884,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -589,6 +471,65 @@
         "id": "hotelitem_83632b613ab7",
         "title": "Pan Pacific Hotels Group is making Summer More Rewarding with up to 25% off stays",
         "url": "https://insights.ehotelier.com/properties/2026/10/19/pan-pacific-hotels-group-is-making-summer-more-rewarding-with-up-to-25-off-stays/?utm_source=rss&utm_medium=rss&utm_campaign=pan-pacific-hotels-group-is-making-summer-more-rewarding-with-up-to-25-off-stays",
+        "source": "eHotelier",
+        "source_name": "eHotelier"
+      }
+    },
+    {
+      "story_id": "story_af2032c3768d",
+      "title": "Reclaiming hotel F&B revenue from delivery apps: Are your guests ordering from DoorDash & Deliveroo instead of from you?",
+      "url": "https://insights.ehotelier.com/suppliers/2026/10/19/reclaiming-hotel-fb-revenue-from-delivery-apps-are-your-guests-ordering-from-doordash-deliveroo-instead-of-from-you/?utm_source=rss&utm_medium=rss&utm_campaign=reclaiming-hotel-fb-revenue-from-delivery-apps-are-your-guests-ordering-from-doordash-deliveroo-instead-of-from-you",
+      "primary_url": "https://insights.ehotelier.com/suppliers/2026/10/19/reclaiming-hotel-fb-revenue-from-delivery-apps-are-your-guests-ordering-from-doordash-deliveroo-instead-of-from-you/?utm_source=rss&utm_medium=rss&utm_campaign=reclaiming-hotel-fb-revenue-from-delivery-apps-are-your-guests-ordering-from-doordash-deliveroo-instead-of-from-you",
+      "source": "eHotelier",
+      "source_name": "eHotelier",
+      "sources": [
+        {
+          "id": "hotelitem_af2032c3768d",
+          "title": "Reclaiming hotel F&B revenue from delivery apps: Are your guests ordering from DoorDash & Deliveroo instead of from you?",
+          "url": "https://insights.ehotelier.com/suppliers/2026/10/19/reclaiming-hotel-fb-revenue-from-delivery-apps-are-your-guests-ordering-from-doordash-deliveroo-instead-of-from-you/?utm_source=rss&utm_medium=rss&utm_campaign=reclaiming-hotel-fb-revenue-from-delivery-apps-are-your-guests-ordering-from-doordash-deliveroo-instead-of-from-you",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-10-19T01:12:06Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "eHotelier"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_af2032c3768d",
+          "title": "Reclaiming hotel F&B revenue from delivery apps: Are your guests ordering from DoorDash & Deliveroo instead of from you?",
+          "url": "https://insights.ehotelier.com/suppliers/2026/10/19/reclaiming-hotel-fb-revenue-from-delivery-apps-are-your-guests-ordering-from-doordash-deliveroo-instead-of-from-you/?utm_source=rss&utm_medium=rss&utm_campaign=reclaiming-hotel-fb-revenue-from-delivery-apps-are-your-guests-ordering-from-doordash-deliveroo-instead-of-from-you",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-10-19T01:12:06Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8628,
+      "importance": 0.5977,
+      "importance_score": 0.8628,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9887,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-19T01:12:06Z",
+      "latest_at": "2026-10-19T01:12:06Z",
+      "primary_item": {
+        "id": "hotelitem_af2032c3768d",
+        "title": "Reclaiming hotel F&B revenue from delivery apps: Are your guests ordering from DoorDash & Deliveroo instead of from you?",
+        "url": "https://insights.ehotelier.com/suppliers/2026/10/19/reclaiming-hotel-fb-revenue-from-delivery-apps-are-your-guests-ordering-from-doordash-deliveroo-instead-of-from-you/?utm_source=rss&utm_medium=rss&utm_campaign=reclaiming-hotel-fb-revenue-from-delivery-apps-are-your-guests-ordering-from-doordash-deliveroo-instead-of-from-you",
         "source": "eHotelier",
         "source_name": "eHotelier"
       }
@@ -608,7 +549,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-10-19T04:47:38.585877Z"
+          "published_at": "2026-10-19T13:25:48.435025Z"
         },
         {
           "id": "hotelitem_c7c15b7680c9",
@@ -617,7 +558,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-10-19T04:47:38.585877Z"
+          "published_at": "2026-10-19T13:25:48.435025Z"
         }
       ],
       "source_count": 2,
@@ -632,7 +573,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-10-19T04:47:38.585877Z"
+          "published_at": "2026-10-19T13:25:48.435025Z"
         },
         {
           "id": "hotelitem_c7c15b7680c9",
@@ -641,7 +582,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-10-19T04:47:38.585877Z"
+          "published_at": "2026-10-19T13:25:48.435025Z"
         }
       ],
       "item_count": 2,
@@ -661,8 +602,8 @@
         "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-19T04:47:38.585877Z",
-      "latest_at": "2026-10-19T04:47:38.585877Z",
+      "earliest_at": "2026-10-19T13:25:48.435025Z",
+      "latest_at": "2026-10-19T13:25:48.435025Z",
       "primary_item": {
         "id": "hotelitem_d4370964909c",
         "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
@@ -686,7 +627,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-10-19T04:47:38.585877Z"
+          "published_at": "2026-10-19T13:25:48.435025Z"
         }
       ],
       "source_count": 1,
@@ -701,7 +642,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-10-19T04:47:38.585877Z"
+          "published_at": "2026-10-19T13:25:48.435025Z"
         }
       ],
       "item_count": 1,
@@ -720,8 +661,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-19T04:47:38.585877Z",
-      "latest_at": "2026-10-19T04:47:38.585877Z",
+      "earliest_at": "2026-10-19T13:25:48.435025Z",
+      "latest_at": "2026-10-19T13:25:48.435025Z",
       "primary_item": {
         "id": "hotelitem_e4ce0593c384",
         "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
@@ -745,7 +686,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-10-19T04:47:38.585877Z"
+          "published_at": "2026-10-19T13:25:48.435025Z"
         }
       ],
       "source_count": 1,
@@ -760,7 +701,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-10-19T04:47:38.585877Z"
+          "published_at": "2026-10-19T13:25:48.435025Z"
         }
       ],
       "item_count": 1,
@@ -779,8 +720,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-19T04:47:38.585877Z",
-      "latest_at": "2026-10-19T04:47:38.585877Z",
+      "earliest_at": "2026-10-19T13:25:48.435025Z",
+      "latest_at": "2026-10-19T13:25:48.435025Z",
       "primary_item": {
         "id": "hotelitem_b0f4757ffc95",
         "title": "文化和旅游部 中国气象局联合发布2026年国庆...",
@@ -804,7 +745,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-10-19T04:47:38.585877Z"
+          "published_at": "2026-10-19T13:25:48.435025Z"
         }
       ],
       "source_count": 1,
@@ -819,7 +760,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-10-19T04:47:38.585877Z"
+          "published_at": "2026-10-19T13:25:48.435025Z"
         }
       ],
       "item_count": 1,
@@ -838,8 +779,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-19T04:47:38.585877Z",
-      "latest_at": "2026-10-19T04:47:38.585877Z",
+      "earliest_at": "2026-10-19T13:25:48.435025Z",
+      "latest_at": "2026-10-19T13:25:48.435025Z",
       "primary_item": {
         "id": "hotelitem_4adba65c20e7",
         "title": "文化和旅游部党组召开会议坚决拥护党中央对...",
@@ -863,7 +804,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-10-19T04:47:38.585877Z"
+          "published_at": "2026-10-19T13:25:48.435025Z"
         }
       ],
       "source_count": 1,
@@ -878,7 +819,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-10-19T04:47:38.585877Z"
+          "published_at": "2026-10-19T13:25:48.435025Z"
         }
       ],
       "item_count": 1,
@@ -897,8 +838,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-19T04:47:38.585877Z",
-      "latest_at": "2026-10-19T04:47:38.585877Z",
+      "earliest_at": "2026-10-19T13:25:48.435025Z",
+      "latest_at": "2026-10-19T13:25:48.435025Z",
       "primary_item": {
         "id": "hotelitem_e63a36930397",
         "title": "文化和旅游部印发《艺术发展“十五五”规划》",
@@ -942,14 +883,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8502,
-      "importance": 0.5846,
-      "importance_score": 0.8502,
+      "score": 0.8486,
+      "importance": 0.583,
+      "importance_score": 0.8486,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9231,
+        "recency": 0.9151,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1001,14 +942,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8472,
-      "importance": 0.5816,
-      "importance_score": 0.8472,
+      "score": 0.8457,
+      "importance": 0.58,
+      "importance_score": 0.8457,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9078,
+        "recency": 0.8998,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1060,14 +1001,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8458,
-      "importance": 0.5801,
-      "importance_score": 0.8458,
+      "score": 0.8443,
+      "importance": 0.5785,
+      "importance_score": 0.8443,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9005,
+        "recency": 0.8925,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1119,14 +1060,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8451,
-      "importance": 0.5793,
-      "importance_score": 0.8451,
+      "score": 0.8435,
+      "importance": 0.5777,
+      "importance_score": 0.8435,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8967,
+        "recency": 0.8887,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1178,14 +1119,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8418,
-      "importance": 0.5759,
-      "importance_score": 0.8418,
+      "score": 0.8402,
+      "importance": 0.5743,
+      "importance_score": 0.8402,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8795,
+        "recency": 0.8715,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1237,14 +1178,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8408,
-      "importance": 0.575,
-      "importance_score": 0.8408,
+      "score": 0.8393,
+      "importance": 0.5734,
+      "importance_score": 0.8393,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8748,
+        "recency": 0.8668,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1296,14 +1237,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8393,
-      "importance": 0.5889,
-      "importance_score": 0.8393,
+      "score": 0.8378,
+      "importance": 0.5873,
+      "importance_score": 0.8378,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9445,
+        "recency": 0.9365,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1355,14 +1296,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8387,
-      "importance": 0.5883,
-      "importance_score": 0.8387,
+      "score": 0.8372,
+      "importance": 0.5867,
+      "importance_score": 0.8372,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9416,
+        "recency": 0.9336,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1377,124 +1318,6 @@
         "url": "https://lodgingmagazine.com/homestead-midway-utah-debuts-new-event-venue/",
         "source": "Lodging Magazine",
         "source_name": "Lodging Magazine"
-      }
-    },
-    {
-      "story_id": "story_23ec421c88df",
-      "title": "Sonesta Announces Opening of 20th Signature Inn by Sonesta Hotel",
-      "url": "https://lodgingmagazine.com/sonesta-announces-opening-of-20th-signature-inn-by-sonesta-hotel/",
-      "primary_url": "https://lodgingmagazine.com/sonesta-announces-opening-of-20th-signature-inn-by-sonesta-hotel/",
-      "source": "Lodging Magazine",
-      "source_name": "Lodging Magazine",
-      "sources": [
-        {
-          "id": "hotelitem_23ec421c88df",
-          "title": "Sonesta Announces Opening of 20th Signature Inn by Sonesta Hotel",
-          "url": "https://lodgingmagazine.com/sonesta-announces-opening-of-20th-signature-inn-by-sonesta-hotel/",
-          "source": "Lodging Magazine",
-          "source_name": "Lodging Magazine",
-          "site_id": "lodgingmag",
-          "published_at": "2026-10-15T16:47:24Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Lodging Magazine"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_23ec421c88df",
-          "title": "Sonesta Announces Opening of 20th Signature Inn by Sonesta Hotel",
-          "url": "https://lodgingmagazine.com/sonesta-announces-opening-of-20th-signature-inn-by-sonesta-hotel/",
-          "source": "Lodging Magazine",
-          "source_name": "Lodging Magazine",
-          "site_id": "lodgingmag",
-          "published_at": "2026-10-15T16:47:24Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.835,
-      "importance": 0.5844,
-      "importance_score": 0.835,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9222,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-15T16:47:24Z",
-      "latest_at": "2026-10-15T16:47:24Z",
-      "primary_item": {
-        "id": "hotelitem_23ec421c88df",
-        "title": "Sonesta Announces Opening of 20th Signature Inn by Sonesta Hotel",
-        "url": "https://lodgingmagazine.com/sonesta-announces-opening-of-20th-signature-inn-by-sonesta-hotel/",
-        "source": "Lodging Magazine",
-        "source_name": "Lodging Magazine"
-      }
-    },
-    {
-      "story_id": "story_bc95838a91a2",
-      "title": "Kempinski to open Augustine Hotel Prague following renovation of 800-year-old monastery",
-      "url": "https://boutiquehotelnews.com/news/kempinski-to-open-augustine-hotel-prague-following-renovation-of-800-year-old-monastery/?utm_source=rss&utm_medium=rss&utm_campaign=kempinski-to-open-augustine-hotel-prague-following-renovation-of-800-year-old-monastery",
-      "primary_url": "https://boutiquehotelnews.com/news/kempinski-to-open-augustine-hotel-prague-following-renovation-of-800-year-old-monastery/?utm_source=rss&utm_medium=rss&utm_campaign=kempinski-to-open-augustine-hotel-prague-following-renovation-of-800-year-old-monastery",
-      "source": "Boutique Hotel News",
-      "source_name": "Boutique Hotel News",
-      "sources": [
-        {
-          "id": "hotelitem_bc95838a91a2",
-          "title": "Kempinski to open Augustine Hotel Prague following renovation of 800-year-old monastery",
-          "url": "https://boutiquehotelnews.com/news/kempinski-to-open-augustine-hotel-prague-following-renovation-of-800-year-old-monastery/?utm_source=rss&utm_medium=rss&utm_campaign=kempinski-to-open-augustine-hotel-prague-following-renovation-of-800-year-old-monastery",
-          "source": "Boutique Hotel News",
-          "source_name": "Boutique Hotel News",
-          "site_id": "boutiquehotel",
-          "published_at": "2026-10-14T13:13:26Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Boutique Hotel News"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_bc95838a91a2",
-          "title": "Kempinski to open Augustine Hotel Prague following renovation of 800-year-old monastery",
-          "url": "https://boutiquehotelnews.com/news/kempinski-to-open-augustine-hotel-prague-following-renovation-of-800-year-old-monastery/?utm_source=rss&utm_medium=rss&utm_campaign=kempinski-to-open-augustine-hotel-prague-following-renovation-of-800-year-old-monastery",
-          "source": "Boutique Hotel News",
-          "source_name": "Boutique Hotel News",
-          "site_id": "boutiquehotel",
-          "published_at": "2026-10-14T13:13:26Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8301,
-      "importance": 0.5793,
-      "importance_score": 0.8301,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.8967,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-14T13:13:26Z",
-      "latest_at": "2026-10-14T13:13:26Z",
-      "primary_item": {
-        "id": "hotelitem_bc95838a91a2",
-        "title": "Kempinski to open Augustine Hotel Prague following renovation of 800-year-old monastery",
-        "url": "https://boutiquehotelnews.com/news/kempinski-to-open-augustine-hotel-prague-following-renovation-of-800-year-old-monastery/?utm_source=rss&utm_medium=rss&utm_campaign=kempinski-to-open-augustine-hotel-prague-following-renovation-of-800-year-old-monastery",
-        "source": "Boutique Hotel News",
-        "source_name": "Boutique Hotel News"
       }
     },
     {
@@ -1532,14 +1355,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.83,
-      "importance": 0.5793,
-      "importance_score": 0.83,
+      "score": 0.8285,
+      "importance": 0.5777,
+      "importance_score": 0.8285,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8964,
+        "recency": 0.8884,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1557,21 +1380,21 @@
       }
     },
     {
-      "story_id": "story_1406eebdbf44",
-      "title": "Iconic Hotels & Resorts appoints Michelle Walder as group director of operations",
-      "url": "https://boutiquehotelnews.com/news/iconic-hotels-resorts-appoints-michelle-walder-as-group-director-of-operations/?utm_source=rss&utm_medium=rss&utm_campaign=iconic-hotels-resorts-appoints-michelle-walder-as-group-director-of-operations",
-      "primary_url": "https://boutiquehotelnews.com/news/iconic-hotels-resorts-appoints-michelle-walder-as-group-director-of-operations/?utm_source=rss&utm_medium=rss&utm_campaign=iconic-hotels-resorts-appoints-michelle-walder-as-group-director-of-operations",
+      "story_id": "story_bc95838a91a2",
+      "title": "Kempinski to open Augustine Hotel Prague following renovation of 800-year-old monastery",
+      "url": "https://boutiquehotelnews.com/news/kempinski-to-open-augustine-hotel-prague-following-renovation-of-800-year-old-monastery/?utm_source=rss&utm_medium=rss&utm_campaign=kempinski-to-open-augustine-hotel-prague-following-renovation-of-800-year-old-monastery",
+      "primary_url": "https://boutiquehotelnews.com/news/kempinski-to-open-augustine-hotel-prague-following-renovation-of-800-year-old-monastery/?utm_source=rss&utm_medium=rss&utm_campaign=kempinski-to-open-augustine-hotel-prague-following-renovation-of-800-year-old-monastery",
       "source": "Boutique Hotel News",
       "source_name": "Boutique Hotel News",
       "sources": [
         {
-          "id": "hotelitem_1406eebdbf44",
-          "title": "Iconic Hotels & Resorts appoints Michelle Walder as group director of operations",
-          "url": "https://boutiquehotelnews.com/news/iconic-hotels-resorts-appoints-michelle-walder-as-group-director-of-operations/?utm_source=rss&utm_medium=rss&utm_campaign=iconic-hotels-resorts-appoints-michelle-walder-as-group-director-of-operations",
+          "id": "hotelitem_bc95838a91a2",
+          "title": "Kempinski to open Augustine Hotel Prague following renovation of 800-year-old monastery",
+          "url": "https://boutiquehotelnews.com/news/kempinski-to-open-augustine-hotel-prague-following-renovation-of-800-year-old-monastery/?utm_source=rss&utm_medium=rss&utm_campaign=kempinski-to-open-augustine-hotel-prague-following-renovation-of-800-year-old-monastery",
           "source": "Boutique Hotel News",
           "source_name": "Boutique Hotel News",
           "site_id": "boutiquehotel",
-          "published_at": "2026-10-13T15:26:52Z"
+          "published_at": "2026-10-14T13:13:26Z"
         }
       ],
       "source_count": 1,
@@ -1580,37 +1403,37 @@
       ],
       "items": [
         {
-          "id": "hotelitem_1406eebdbf44",
-          "title": "Iconic Hotels & Resorts appoints Michelle Walder as group director of operations",
-          "url": "https://boutiquehotelnews.com/news/iconic-hotels-resorts-appoints-michelle-walder-as-group-director-of-operations/?utm_source=rss&utm_medium=rss&utm_campaign=iconic-hotels-resorts-appoints-michelle-walder-as-group-director-of-operations",
+          "id": "hotelitem_bc95838a91a2",
+          "title": "Kempinski to open Augustine Hotel Prague following renovation of 800-year-old monastery",
+          "url": "https://boutiquehotelnews.com/news/kempinski-to-open-augustine-hotel-prague-following-renovation-of-800-year-old-monastery/?utm_source=rss&utm_medium=rss&utm_campaign=kempinski-to-open-augustine-hotel-prague-following-renovation-of-800-year-old-monastery",
           "source": "Boutique Hotel News",
           "source_name": "Boutique Hotel News",
           "site_id": "boutiquehotel",
-          "published_at": "2026-10-13T15:26:52Z"
+          "published_at": "2026-10-14T13:13:26Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8262,
-      "importance": 0.5753,
-      "importance_score": 0.8262,
+      "score": 0.8285,
+      "importance": 0.5777,
+      "importance_score": 0.8285,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8765,
+        "recency": 0.8887,
         "story_heat": 0.0
       },
       "category": "watch",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-13T15:26:52Z",
-      "latest_at": "2026-10-13T15:26:52Z",
+      "earliest_at": "2026-10-14T13:13:26Z",
+      "latest_at": "2026-10-14T13:13:26Z",
       "primary_item": {
-        "id": "hotelitem_1406eebdbf44",
-        "title": "Iconic Hotels & Resorts appoints Michelle Walder as group director of operations",
-        "url": "https://boutiquehotelnews.com/news/iconic-hotels-resorts-appoints-michelle-walder-as-group-director-of-operations/?utm_source=rss&utm_medium=rss&utm_campaign=iconic-hotels-resorts-appoints-michelle-walder-as-group-director-of-operations",
+        "id": "hotelitem_bc95838a91a2",
+        "title": "Kempinski to open Augustine Hotel Prague following renovation of 800-year-old monastery",
+        "url": "https://boutiquehotelnews.com/news/kempinski-to-open-augustine-hotel-prague-following-renovation-of-800-year-old-monastery/?utm_source=rss&utm_medium=rss&utm_campaign=kempinski-to-open-augustine-hotel-prague-following-renovation-of-800-year-old-monastery",
         "source": "Boutique Hotel News",
         "source_name": "Boutique Hotel News"
       }
@@ -1650,14 +1473,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8261,
-      "importance": 0.5752,
-      "importance_score": 0.8261,
+      "score": 0.8246,
+      "importance": 0.5736,
+      "importance_score": 0.8246,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8762,
+        "recency": 0.8682,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1670,6 +1493,65 @@
         "id": "hotelitem_ece73d7f1ced",
         "title": "The Sirius Hotel Group appoints John Adams as chair",
         "url": "https://boutiquehotelnews.com/news/the-sirius-hotel-group-appoints-john-adams-as-chair/?utm_source=rss&utm_medium=rss&utm_campaign=the-sirius-hotel-group-appoints-john-adams-as-chair",
+        "source": "Boutique Hotel News",
+        "source_name": "Boutique Hotel News"
+      }
+    },
+    {
+      "story_id": "story_1406eebdbf44",
+      "title": "Iconic Hotels & Resorts appoints Michelle Walder as group director of operations",
+      "url": "https://boutiquehotelnews.com/news/iconic-hotels-resorts-appoints-michelle-walder-as-group-director-of-operations/?utm_source=rss&utm_medium=rss&utm_campaign=iconic-hotels-resorts-appoints-michelle-walder-as-group-director-of-operations",
+      "primary_url": "https://boutiquehotelnews.com/news/iconic-hotels-resorts-appoints-michelle-walder-as-group-director-of-operations/?utm_source=rss&utm_medium=rss&utm_campaign=iconic-hotels-resorts-appoints-michelle-walder-as-group-director-of-operations",
+      "source": "Boutique Hotel News",
+      "source_name": "Boutique Hotel News",
+      "sources": [
+        {
+          "id": "hotelitem_1406eebdbf44",
+          "title": "Iconic Hotels & Resorts appoints Michelle Walder as group director of operations",
+          "url": "https://boutiquehotelnews.com/news/iconic-hotels-resorts-appoints-michelle-walder-as-group-director-of-operations/?utm_source=rss&utm_medium=rss&utm_campaign=iconic-hotels-resorts-appoints-michelle-walder-as-group-director-of-operations",
+          "source": "Boutique Hotel News",
+          "source_name": "Boutique Hotel News",
+          "site_id": "boutiquehotel",
+          "published_at": "2026-10-13T15:26:52Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Boutique Hotel News"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_1406eebdbf44",
+          "title": "Iconic Hotels & Resorts appoints Michelle Walder as group director of operations",
+          "url": "https://boutiquehotelnews.com/news/iconic-hotels-resorts-appoints-michelle-walder-as-group-director-of-operations/?utm_source=rss&utm_medium=rss&utm_campaign=iconic-hotels-resorts-appoints-michelle-walder-as-group-director-of-operations",
+          "source": "Boutique Hotel News",
+          "source_name": "Boutique Hotel News",
+          "site_id": "boutiquehotel",
+          "published_at": "2026-10-13T15:26:52Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8246,
+      "importance": 0.5737,
+      "importance_score": 0.8246,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.8685,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-13T15:26:52Z",
+      "latest_at": "2026-10-13T15:26:52Z",
+      "primary_item": {
+        "id": "hotelitem_1406eebdbf44",
+        "title": "Iconic Hotels & Resorts appoints Michelle Walder as group director of operations",
+        "url": "https://boutiquehotelnews.com/news/iconic-hotels-resorts-appoints-michelle-walder-as-group-director-of-operations/?utm_source=rss&utm_medium=rss&utm_campaign=iconic-hotels-resorts-appoints-michelle-walder-as-group-director-of-operations",
         "source": "Boutique Hotel News",
         "source_name": "Boutique Hotel News"
       }
@@ -1709,14 +1591,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.826,
-      "importance": 0.5751,
-      "importance_score": 0.826,
+      "score": 0.8245,
+      "importance": 0.5735,
+      "importance_score": 0.8245,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8757,
+        "recency": 0.8677,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1748,7 +1630,7 @@
           "source": "Agoda",
           "source_name": "Agoda",
           "site_id": "agoda_press",
-          "published_at": "2026-10-19T04:47:38.585877Z"
+          "published_at": "2026-10-19T13:25:48.435025Z"
         }
       ],
       "source_count": 1,
@@ -1763,7 +1645,7 @@
           "source": "Agoda",
           "source_name": "Agoda",
           "site_id": "agoda_press",
-          "published_at": "2026-10-19T04:47:38.585877Z"
+          "published_at": "2026-10-19T13:25:48.435025Z"
         }
       ],
       "item_count": 1,
@@ -1782,12 +1664,130 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-19T04:47:38.585877Z",
-      "latest_at": "2026-10-19T04:47:38.585877Z",
+      "earliest_at": "2026-10-19T13:25:48.435025Z",
+      "latest_at": "2026-10-19T13:25:48.435025Z",
       "primary_item": {
         "id": "hotelitem_69c4ef2b3d80",
         "title": "Agoda Partners Kaohsiung City Government to  ... Digital travel platform Agoda and the Kaohsiung City Government have signed a Memorandum of Understand ... September 11, 2026 / Partnership",
         "url": "https://www.agoda.com/press/agoda-partners-kaohsiung-city-government/",
+        "source": "Agoda",
+        "source_name": "Agoda"
+      }
+    },
+    {
+      "story_id": "story_e8ae1de14799",
+      "title": "Agoda Partners with Marina Bay Sands on Besp ... The custom digital storefront brings together Marina Bay Sands’ rooms, suites and resort experiences,  ... October 1, 2026 / Partnership",
+      "url": "https://www.agoda.com/press/agoda-partners-with-marina-bay-sands-on-bespoke-flagship-store-for-experience-led-travel/",
+      "primary_url": "https://www.agoda.com/press/agoda-partners-with-marina-bay-sands-on-bespoke-flagship-store-for-experience-led-travel/",
+      "source": "Agoda",
+      "source_name": "Agoda",
+      "sources": [
+        {
+          "id": "hotelitem_e8ae1de14799",
+          "title": "Agoda Partners with Marina Bay Sands on Besp ... The custom digital storefront brings together Marina Bay Sands’ rooms, suites and resort experiences,  ... October 1, 2026 / Partnership",
+          "url": "https://www.agoda.com/press/agoda-partners-with-marina-bay-sands-on-bespoke-flagship-store-for-experience-led-travel/",
+          "source": "Agoda",
+          "source_name": "Agoda",
+          "site_id": "agoda_press",
+          "published_at": "2026-10-19T13:25:48.435025Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Agoda"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_e8ae1de14799",
+          "title": "Agoda Partners with Marina Bay Sands on Besp ... The custom digital storefront brings together Marina Bay Sands’ rooms, suites and resort experiences,  ... October 1, 2026 / Partnership",
+          "url": "https://www.agoda.com/press/agoda-partners-with-marina-bay-sands-on-bespoke-flagship-store-for-experience-led-travel/",
+          "source": "Agoda",
+          "source_name": "Agoda",
+          "site_id": "agoda_press",
+          "published_at": "2026-10-19T13:25:48.435025Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8125,
+      "importance": 0.6,
+      "importance_score": 0.8125,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-19T13:25:48.435025Z",
+      "latest_at": "2026-10-19T13:25:48.435025Z",
+      "primary_item": {
+        "id": "hotelitem_e8ae1de14799",
+        "title": "Agoda Partners with Marina Bay Sands on Besp ... The custom digital storefront brings together Marina Bay Sands’ rooms, suites and resort experiences,  ... October 1, 2026 / Partnership",
+        "url": "https://www.agoda.com/press/agoda-partners-with-marina-bay-sands-on-bespoke-flagship-store-for-experience-led-travel/",
+        "source": "Agoda",
+        "source_name": "Agoda"
+      }
+    },
+    {
+      "story_id": "story_aa68e9432a35",
+      "title": "Agoda Reveals Growing Asian Appetite for Ger ... As the 191st Oktoberfest draws to a close, Asia’s appetite for Germany’s world-famous beer festival ap ... October 2, 2026 / Travel Trends",
+      "url": "https://www.agoda.com/press/agoda-reveals-growing-asian-appetite-for-germanys-oktoberfest/",
+      "primary_url": "https://www.agoda.com/press/agoda-reveals-growing-asian-appetite-for-germanys-oktoberfest/",
+      "source": "Agoda",
+      "source_name": "Agoda",
+      "sources": [
+        {
+          "id": "hotelitem_aa68e9432a35",
+          "title": "Agoda Reveals Growing Asian Appetite for Ger ... As the 191st Oktoberfest draws to a close, Asia’s appetite for Germany’s world-famous beer festival ap ... October 2, 2026 / Travel Trends",
+          "url": "https://www.agoda.com/press/agoda-reveals-growing-asian-appetite-for-germanys-oktoberfest/",
+          "source": "Agoda",
+          "source_name": "Agoda",
+          "site_id": "agoda_press",
+          "published_at": "2026-10-19T13:25:48.435025Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Agoda"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_aa68e9432a35",
+          "title": "Agoda Reveals Growing Asian Appetite for Ger ... As the 191st Oktoberfest draws to a close, Asia’s appetite for Germany’s world-famous beer festival ap ... October 2, 2026 / Travel Trends",
+          "url": "https://www.agoda.com/press/agoda-reveals-growing-asian-appetite-for-germanys-oktoberfest/",
+          "source": "Agoda",
+          "source_name": "Agoda",
+          "site_id": "agoda_press",
+          "published_at": "2026-10-19T13:25:48.435025Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8125,
+      "importance": 0.6,
+      "importance_score": 0.8125,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-19T13:25:48.435025Z",
+      "latest_at": "2026-10-19T13:25:48.435025Z",
+      "primary_item": {
+        "id": "hotelitem_aa68e9432a35",
+        "title": "Agoda Reveals Growing Asian Appetite for Ger ... As the 191st Oktoberfest draws to a close, Asia’s appetite for Germany’s world-famous beer festival ap ... October 2, 2026 / Travel Trends",
+        "url": "https://www.agoda.com/press/agoda-reveals-growing-asian-appetite-for-germanys-oktoberfest/",
         "source": "Agoda",
         "source_name": "Agoda"
       }
