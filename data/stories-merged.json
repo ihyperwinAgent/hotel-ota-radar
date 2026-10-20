@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T00:23:59.176629Z",
+  "generated_at": "2026-10-20T08:37:32.777452Z",
   "window_hours": 1080,
   "total_stories": 30,
   "stories": [
@@ -38,14 +38,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9536,
-      "importance": 0.5985,
-      "importance_score": 0.9536,
+      "score": 0.9521,
+      "importance": 0.597,
+      "importance_score": 0.9521,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9925,
+        "recency": 0.9849,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -97,14 +97,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9509,
-      "importance": 0.5957,
-      "importance_score": 0.9509,
+      "score": 0.9494,
+      "importance": 0.5942,
+      "importance_score": 0.9494,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9787,
+        "recency": 0.9711,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -156,14 +156,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9316,
-      "importance": 0.5758,
-      "importance_score": 0.9316,
+      "score": 0.9302,
+      "importance": 0.5742,
+      "importance_score": 0.9302,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8788,
+        "recency": 0.8712,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -178,6 +178,65 @@
         "url": "https://www.hoteldive.com/news/global-meeting-event-forecast-2027/832946/",
         "source": "Hotel Dive",
         "source_name": "Hotel Dive"
+      }
+    },
+    {
+      "story_id": "story_12b7c1f80a2c",
+      "title": "丽江股份2026年三季度净利润9396.69万元",
+      "url": "https://www.pinchain.com/article/352046",
+      "primary_url": "https://www.pinchain.com/article/352046",
+      "source": "品橙旅游",
+      "source_name": "品橙旅游",
+      "sources": [
+        {
+          "id": "hotelitem_12b7c1f80a2c",
+          "title": "丽江股份2026年三季度净利润9396.69万元",
+          "url": "https://www.pinchain.com/article/352046",
+          "source": "品橙旅游",
+          "source_name": "品橙旅游",
+          "site_id": "pinchain",
+          "published_at": "2026-10-20T08:33:36Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "品橙旅游"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_12b7c1f80a2c",
+          "title": "丽江股份2026年三季度净利润9396.69万元",
+          "url": "https://www.pinchain.com/article/352046",
+          "source": "品橙旅游",
+          "source_name": "品橙旅游",
+          "site_id": "pinchain",
+          "published_at": "2026-10-20T08:33:36Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.93,
+      "importance": 0.6,
+      "importance_score": 0.93,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9999,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-20T08:33:36Z",
+      "latest_at": "2026-10-20T08:33:36Z",
+      "primary_item": {
+        "id": "hotelitem_12b7c1f80a2c",
+        "title": "丽江股份2026年三季度净利润9396.69万元",
+        "url": "https://www.pinchain.com/article/352046",
+        "source": "品橙旅游",
+        "source_name": "品橙旅游"
       }
     },
     {
@@ -215,14 +274,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9166,
-      "importance": 0.5758,
-      "importance_score": 0.9166,
+      "score": 0.9152,
+      "importance": 0.5742,
+      "importance_score": 0.9152,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8788,
+        "recency": 0.8712,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -274,14 +333,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9162,
-      "importance": 0.5753,
-      "importance_score": 0.9162,
+      "score": 0.9147,
+      "importance": 0.5737,
+      "importance_score": 0.9147,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8764,
+        "recency": 0.8687,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -313,7 +372,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-10-20T00:23:59.176629Z"
+          "published_at": "2026-10-20T08:37:32.777452Z"
         }
       ],
       "source_count": 1,
@@ -328,7 +387,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-10-20T00:23:59.176629Z"
+          "published_at": "2026-10-20T08:37:32.777452Z"
         }
       ],
       "item_count": 1,
@@ -347,73 +406,14 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-20T00:23:59.176629Z",
-      "latest_at": "2026-10-20T00:23:59.176629Z",
+      "earliest_at": "2026-10-20T08:37:32.777452Z",
+      "latest_at": "2026-10-20T08:37:32.777452Z",
       "primary_item": {
         "id": "hotelitem_06f191e24d38",
         "title": "文旅惠报|复星国际申请分拆Club Med在港上市；南京商旅上半年营收3.66亿元",
         "url": "https://www.tripvivid.com/47868.html",
         "source": "执惠 TripVivid",
         "source_name": "执惠 TripVivid"
-      }
-    },
-    {
-      "story_id": "story_30afe3f9297d",
-      "title": "福朋喜来登第一次进驻杭州湾良港",
-      "url": "https://www.pinchain.com/article/352006",
-      "primary_url": "https://www.pinchain.com/article/352006",
-      "source": "品橙旅游",
-      "source_name": "品橙旅游",
-      "sources": [
-        {
-          "id": "hotelitem_30afe3f9297d",
-          "title": "福朋喜来登第一次进驻杭州湾良港",
-          "url": "https://www.pinchain.com/article/352006",
-          "source": "品橙旅游",
-          "source_name": "品橙旅游",
-          "site_id": "pinchain",
-          "published_at": "2026-10-19T08:27:20Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "品橙旅游"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_30afe3f9297d",
-          "title": "福朋喜来登第一次进驻杭州湾良港",
-          "url": "https://www.pinchain.com/article/352006",
-          "source": "品橙旅游",
-          "source_name": "品橙旅游",
-          "site_id": "pinchain",
-          "published_at": "2026-10-19T08:27:20Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8822,
-      "importance": 0.597,
-      "importance_score": 0.8822,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9852,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-19T08:27:20Z",
-      "latest_at": "2026-10-19T08:27:20Z",
-      "primary_item": {
-        "id": "hotelitem_30afe3f9297d",
-        "title": "福朋喜来登第一次进驻杭州湾良港",
-        "url": "https://www.pinchain.com/article/352006",
-        "source": "品橙旅游",
-        "source_name": "品橙旅游"
       }
     },
     {
@@ -451,14 +451,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8635,
-      "importance": 0.5985,
-      "importance_score": 0.8635,
+      "score": 0.8621,
+      "importance": 0.597,
+      "importance_score": 0.8621,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9924,
+        "recency": 0.9848,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -510,14 +510,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8631,
-      "importance": 0.5981,
-      "importance_score": 0.8631,
+      "score": 0.8617,
+      "importance": 0.5965,
+      "importance_score": 0.8617,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9903,
+        "recency": 0.9826,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -535,62 +535,81 @@
       }
     },
     {
-      "story_id": "story_af2032c3768d",
-      "title": "Reclaiming hotel F&B revenue from delivery apps: Are your guests ordering from DoorDash & Deliveroo instead of from you?",
-      "url": "https://insights.ehotelier.com/suppliers/2026/10/19/reclaiming-hotel-fb-revenue-from-delivery-apps-are-your-guests-ordering-from-doordash-deliveroo-instead-of-from-you/?utm_source=rss&utm_medium=rss&utm_campaign=reclaiming-hotel-fb-revenue-from-delivery-apps-are-your-guests-ordering-from-doordash-deliveroo-instead-of-from-you",
-      "primary_url": "https://insights.ehotelier.com/suppliers/2026/10/19/reclaiming-hotel-fb-revenue-from-delivery-apps-are-your-guests-ordering-from-doordash-deliveroo-instead-of-from-you/?utm_source=rss&utm_medium=rss&utm_campaign=reclaiming-hotel-fb-revenue-from-delivery-apps-are-your-guests-ordering-from-doordash-deliveroo-instead-of-from-you",
-      "source": "eHotelier",
-      "source_name": "eHotelier",
+      "story_id": "story_c7c15b7680c9",
+      "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
+      "url": "https://www.chinahotel.org.cn/articles/17408",
+      "primary_url": "https://www.chinahotel.org.cn/articles/17408",
+      "source": "中国饭店协会",
+      "source_name": "中国饭店协会",
       "sources": [
         {
-          "id": "hotelitem_af2032c3768d",
-          "title": "Reclaiming hotel F&B revenue from delivery apps: Are your guests ordering from DoorDash & Deliveroo instead of from you?",
-          "url": "https://insights.ehotelier.com/suppliers/2026/10/19/reclaiming-hotel-fb-revenue-from-delivery-apps-are-your-guests-ordering-from-doordash-deliveroo-instead-of-from-you/?utm_source=rss&utm_medium=rss&utm_campaign=reclaiming-hotel-fb-revenue-from-delivery-apps-are-your-guests-ordering-from-doordash-deliveroo-instead-of-from-you",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-10-19T01:12:06Z"
+          "id": "hotelitem_d4370964909c",
+          "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
+          "url": "https://www.chinahotel.org.cn/articles/17408",
+          "source": "中国饭店协会",
+          "source_name": "中国饭店协会",
+          "site_id": "chinahotel",
+          "published_at": "2026-10-20T08:37:32.777452Z"
+        },
+        {
+          "id": "hotelitem_c7c15b7680c9",
+          "title": "绿色饭店 | 2026年第一批国家标准绿色饭店名单公布 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007) 在全国组织开展国家标准绿色饭店的评定工作。现公布2026年第一批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
+          "url": "https://www.chinahotel.org.cn/articles/17689",
+          "source": "中国饭店协会",
+          "source_name": "中国饭店协会",
+          "site_id": "chinahotel",
+          "published_at": "2026-10-20T08:37:32.777452Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "eHotelier"
+        "中国饭店协会"
       ],
       "items": [
         {
-          "id": "hotelitem_af2032c3768d",
-          "title": "Reclaiming hotel F&B revenue from delivery apps: Are your guests ordering from DoorDash & Deliveroo instead of from you?",
-          "url": "https://insights.ehotelier.com/suppliers/2026/10/19/reclaiming-hotel-fb-revenue-from-delivery-apps-are-your-guests-ordering-from-doordash-deliveroo-instead-of-from-you/?utm_source=rss&utm_medium=rss&utm_campaign=reclaiming-hotel-fb-revenue-from-delivery-apps-are-your-guests-ordering-from-doordash-deliveroo-instead-of-from-you",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-10-19T01:12:06Z"
+          "id": "hotelitem_d4370964909c",
+          "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
+          "url": "https://www.chinahotel.org.cn/articles/17408",
+          "source": "中国饭店协会",
+          "source_name": "中国饭店协会",
+          "site_id": "chinahotel",
+          "published_at": "2026-10-20T08:37:32.777452Z"
+        },
+        {
+          "id": "hotelitem_c7c15b7680c9",
+          "title": "绿色饭店 | 2026年第一批国家标准绿色饭店名单公布 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007) 在全国组织开展国家标准绿色饭店的评定工作。现公布2026年第一批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
+          "url": "https://www.chinahotel.org.cn/articles/17689",
+          "source": "中国饭店协会",
+          "source_name": "中国饭店协会",
+          "site_id": "chinahotel",
+          "published_at": "2026-10-20T08:37:32.777452Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8609,
-      "importance": 0.5957,
-      "importance_score": 0.8609,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.86,
+      "importance": 0.625,
+      "importance_score": 0.86,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9785,
-        "story_heat": 0.0
+        "recency": 1.0,
+        "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
+        "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-19T01:12:06Z",
-      "latest_at": "2026-10-19T01:12:06Z",
+      "earliest_at": "2026-10-20T08:37:32.777452Z",
+      "latest_at": "2026-10-20T08:37:32.777452Z",
       "primary_item": {
-        "id": "hotelitem_af2032c3768d",
-        "title": "Reclaiming hotel F&B revenue from delivery apps: Are your guests ordering from DoorDash & Deliveroo instead of from you?",
-        "url": "https://insights.ehotelier.com/suppliers/2026/10/19/reclaiming-hotel-fb-revenue-from-delivery-apps-are-your-guests-ordering-from-doordash-deliveroo-instead-of-from-you/?utm_source=rss&utm_medium=rss&utm_campaign=reclaiming-hotel-fb-revenue-from-delivery-apps-are-your-guests-ordering-from-doordash-deliveroo-instead-of-from-you",
-        "source": "eHotelier",
-        "source_name": "eHotelier"
+        "id": "hotelitem_d4370964909c",
+        "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
+        "url": "https://www.chinahotel.org.cn/articles/17408",
+        "source": "中国饭店协会",
+        "source_name": "中国饭店协会"
       }
     },
     {
@@ -628,14 +647,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8609,
-      "importance": 0.5958,
-      "importance_score": 0.8609,
+      "score": 0.8595,
+      "importance": 0.5943,
+      "importance_score": 0.8595,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9789,
+        "recency": 0.9713,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -648,6 +667,65 @@
         "id": "hotelitem_193c9961c54c",
         "title": "AI search for hotels: How to stay visible",
         "url": "https://insights.ehotelier.com/insights/2026/10/19/ai-search-for-hotels-how-to-stay-visible/?utm_source=rss&utm_medium=rss&utm_campaign=ai-search-for-hotels-how-to-stay-visible",
+        "source": "eHotelier",
+        "source_name": "eHotelier"
+      }
+    },
+    {
+      "story_id": "story_af2032c3768d",
+      "title": "Reclaiming hotel F&B revenue from delivery apps: Are your guests ordering from DoorDash & Deliveroo instead of from you?",
+      "url": "https://insights.ehotelier.com/suppliers/2026/10/19/reclaiming-hotel-fb-revenue-from-delivery-apps-are-your-guests-ordering-from-doordash-deliveroo-instead-of-from-you/?utm_source=rss&utm_medium=rss&utm_campaign=reclaiming-hotel-fb-revenue-from-delivery-apps-are-your-guests-ordering-from-doordash-deliveroo-instead-of-from-you",
+      "primary_url": "https://insights.ehotelier.com/suppliers/2026/10/19/reclaiming-hotel-fb-revenue-from-delivery-apps-are-your-guests-ordering-from-doordash-deliveroo-instead-of-from-you/?utm_source=rss&utm_medium=rss&utm_campaign=reclaiming-hotel-fb-revenue-from-delivery-apps-are-your-guests-ordering-from-doordash-deliveroo-instead-of-from-you",
+      "source": "eHotelier",
+      "source_name": "eHotelier",
+      "sources": [
+        {
+          "id": "hotelitem_af2032c3768d",
+          "title": "Reclaiming hotel F&B revenue from delivery apps: Are your guests ordering from DoorDash & Deliveroo instead of from you?",
+          "url": "https://insights.ehotelier.com/suppliers/2026/10/19/reclaiming-hotel-fb-revenue-from-delivery-apps-are-your-guests-ordering-from-doordash-deliveroo-instead-of-from-you/?utm_source=rss&utm_medium=rss&utm_campaign=reclaiming-hotel-fb-revenue-from-delivery-apps-are-your-guests-ordering-from-doordash-deliveroo-instead-of-from-you",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-10-19T01:12:06Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "eHotelier"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_af2032c3768d",
+          "title": "Reclaiming hotel F&B revenue from delivery apps: Are your guests ordering from DoorDash & Deliveroo instead of from you?",
+          "url": "https://insights.ehotelier.com/suppliers/2026/10/19/reclaiming-hotel-fb-revenue-from-delivery-apps-are-your-guests-ordering-from-doordash-deliveroo-instead-of-from-you/?utm_source=rss&utm_medium=rss&utm_campaign=reclaiming-hotel-fb-revenue-from-delivery-apps-are-your-guests-ordering-from-doordash-deliveroo-instead-of-from-you",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-10-19T01:12:06Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8594,
+      "importance": 0.5942,
+      "importance_score": 0.8594,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9709,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-19T01:12:06Z",
+      "latest_at": "2026-10-19T01:12:06Z",
+      "primary_item": {
+        "id": "hotelitem_af2032c3768d",
+        "title": "Reclaiming hotel F&B revenue from delivery apps: Are your guests ordering from DoorDash & Deliveroo instead of from you?",
+        "url": "https://insights.ehotelier.com/suppliers/2026/10/19/reclaiming-hotel-fb-revenue-from-delivery-apps-are-your-guests-ordering-from-doordash-deliveroo-instead-of-from-you/?utm_source=rss&utm_medium=rss&utm_campaign=reclaiming-hotel-fb-revenue-from-delivery-apps-are-your-guests-ordering-from-doordash-deliveroo-instead-of-from-you",
         "source": "eHotelier",
         "source_name": "eHotelier"
       }
@@ -687,14 +765,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8608,
-      "importance": 0.5956,
-      "importance_score": 0.8608,
+      "score": 0.8593,
+      "importance": 0.5941,
+      "importance_score": 0.8593,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9782,
+        "recency": 0.9706,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -712,84 +790,6 @@
       }
     },
     {
-      "story_id": "story_c7c15b7680c9",
-      "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
-      "url": "https://www.chinahotel.org.cn/articles/17408",
-      "primary_url": "https://www.chinahotel.org.cn/articles/17408",
-      "source": "中国饭店协会",
-      "source_name": "中国饭店协会",
-      "sources": [
-        {
-          "id": "hotelitem_d4370964909c",
-          "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
-          "url": "https://www.chinahotel.org.cn/articles/17408",
-          "source": "中国饭店协会",
-          "source_name": "中国饭店协会",
-          "site_id": "chinahotel",
-          "published_at": "2026-10-20T00:23:59.176629Z"
-        },
-        {
-          "id": "hotelitem_c7c15b7680c9",
-          "title": "绿色饭店 | 2026年第一批国家标准绿色饭店名单公布 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007) 在全国组织开展国家标准绿色饭店的评定工作。现公布2026年第一批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
-          "url": "https://www.chinahotel.org.cn/articles/17689",
-          "source": "中国饭店协会",
-          "source_name": "中国饭店协会",
-          "site_id": "chinahotel",
-          "published_at": "2026-10-20T00:23:59.176629Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "中国饭店协会"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_d4370964909c",
-          "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
-          "url": "https://www.chinahotel.org.cn/articles/17408",
-          "source": "中国饭店协会",
-          "source_name": "中国饭店协会",
-          "site_id": "chinahotel",
-          "published_at": "2026-10-20T00:23:59.176629Z"
-        },
-        {
-          "id": "hotelitem_c7c15b7680c9",
-          "title": "绿色饭店 | 2026年第一批国家标准绿色饭店名单公布 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007) 在全国组织开展国家标准绿色饭店的评定工作。现公布2026年第一批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
-          "url": "https://www.chinahotel.org.cn/articles/17689",
-          "source": "中国饭店协会",
-          "source_name": "中国饭店协会",
-          "site_id": "chinahotel",
-          "published_at": "2026-10-20T00:23:59.176629Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.86,
-      "importance": 0.625,
-      "importance_score": 0.86,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-20T00:23:59.176629Z",
-      "latest_at": "2026-10-20T00:23:59.176629Z",
-      "primary_item": {
-        "id": "hotelitem_d4370964909c",
-        "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
-        "url": "https://www.chinahotel.org.cn/articles/17408",
-        "source": "中国饭店协会",
-        "source_name": "中国饭店协会"
-      }
-    },
-    {
       "story_id": "story_e4ce0593c384",
       "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
       "url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
@@ -804,7 +804,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-10-20T00:23:59.176629Z"
+          "published_at": "2026-10-20T08:37:32.777452Z"
         }
       ],
       "source_count": 1,
@@ -819,7 +819,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-10-20T00:23:59.176629Z"
+          "published_at": "2026-10-20T08:37:32.777452Z"
         }
       ],
       "item_count": 1,
@@ -838,8 +838,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-20T00:23:59.176629Z",
-      "latest_at": "2026-10-20T00:23:59.176629Z",
+      "earliest_at": "2026-10-20T08:37:32.777452Z",
+      "latest_at": "2026-10-20T08:37:32.777452Z",
       "primary_item": {
         "id": "hotelitem_e4ce0593c384",
         "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
@@ -863,7 +863,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-10-20T00:23:59.176629Z"
+          "published_at": "2026-10-20T08:37:32.777452Z"
         }
       ],
       "source_count": 1,
@@ -878,7 +878,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-10-20T00:23:59.176629Z"
+          "published_at": "2026-10-20T08:37:32.777452Z"
         }
       ],
       "item_count": 1,
@@ -897,8 +897,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-20T00:23:59.176629Z",
-      "latest_at": "2026-10-20T00:23:59.176629Z",
+      "earliest_at": "2026-10-20T08:37:32.777452Z",
+      "latest_at": "2026-10-20T08:37:32.777452Z",
       "primary_item": {
         "id": "hotelitem_b0f4757ffc95",
         "title": "文化和旅游部 中国气象局联合发布2026年国庆...",
@@ -922,7 +922,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-10-20T00:23:59.176629Z"
+          "published_at": "2026-10-20T08:37:32.777452Z"
         }
       ],
       "source_count": 1,
@@ -937,7 +937,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-10-20T00:23:59.176629Z"
+          "published_at": "2026-10-20T08:37:32.777452Z"
         }
       ],
       "item_count": 1,
@@ -956,8 +956,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-20T00:23:59.176629Z",
-      "latest_at": "2026-10-20T00:23:59.176629Z",
+      "earliest_at": "2026-10-20T08:37:32.777452Z",
+      "latest_at": "2026-10-20T08:37:32.777452Z",
       "primary_item": {
         "id": "hotelitem_4adba65c20e7",
         "title": "文化和旅游部党组召开会议坚决拥护党中央对...",
@@ -981,7 +981,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-10-20T00:23:59.176629Z"
+          "published_at": "2026-10-20T08:37:32.777452Z"
         }
       ],
       "source_count": 1,
@@ -996,7 +996,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-10-20T00:23:59.176629Z"
+          "published_at": "2026-10-20T08:37:32.777452Z"
         }
       ],
       "item_count": 1,
@@ -1015,8 +1015,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-20T00:23:59.176629Z",
-      "latest_at": "2026-10-20T00:23:59.176629Z",
+      "earliest_at": "2026-10-20T08:37:32.777452Z",
+      "latest_at": "2026-10-20T08:37:32.777452Z",
       "primary_item": {
         "id": "hotelitem_e63a36930397",
         "title": "文化和旅游部印发《艺术发展“十五五”规划》",
@@ -1060,14 +1060,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.849,
-      "importance": 0.599,
-      "importance_score": 0.849,
+      "score": 0.8475,
+      "importance": 0.5974,
+      "importance_score": 0.8475,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9948,
+        "recency": 0.9872,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1119,14 +1119,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8482,
-      "importance": 0.5981,
-      "importance_score": 0.8482,
+      "score": 0.8467,
+      "importance": 0.5966,
+      "importance_score": 0.8467,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9907,
+        "recency": 0.983,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1178,14 +1178,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8467,
-      "importance": 0.581,
-      "importance_score": 0.8467,
+      "score": 0.8452,
+      "importance": 0.5795,
+      "importance_score": 0.8452,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.905,
+        "recency": 0.8974,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1237,14 +1237,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8437,
-      "importance": 0.5779,
-      "importance_score": 0.8437,
+      "score": 0.8423,
+      "importance": 0.5764,
+      "importance_score": 0.8423,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8897,
+        "recency": 0.8821,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1296,14 +1296,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8423,
-      "importance": 0.5765,
-      "importance_score": 0.8423,
+      "score": 0.8408,
+      "importance": 0.5749,
+      "importance_score": 0.8408,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8823,
+        "recency": 0.8747,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1355,14 +1355,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8416,
-      "importance": 0.5757,
-      "importance_score": 0.8416,
+      "score": 0.8401,
+      "importance": 0.5742,
+      "importance_score": 0.8401,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8785,
+        "recency": 0.8709,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1414,14 +1414,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8383,
-      "importance": 0.5723,
-      "importance_score": 0.8383,
+      "score": 0.8368,
+      "importance": 0.5707,
+      "importance_score": 0.8368,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8613,
+        "recency": 0.8537,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1473,14 +1473,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8373,
-      "importance": 0.5713,
-      "importance_score": 0.8373,
+      "score": 0.8359,
+      "importance": 0.5698,
+      "importance_score": 0.8359,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8566,
+        "recency": 0.849,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1532,14 +1532,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8358,
-      "importance": 0.5853,
-      "importance_score": 0.8358,
+      "score": 0.8343,
+      "importance": 0.5837,
+      "importance_score": 0.8343,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9264,
+        "recency": 0.9187,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1591,14 +1591,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8352,
-      "importance": 0.5847,
-      "importance_score": 0.8352,
+      "score": 0.8338,
+      "importance": 0.5832,
+      "importance_score": 0.8338,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9234,
+        "recency": 0.9158,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1613,65 +1613,6 @@
         "url": "https://lodgingmagazine.com/homestead-midway-utah-debuts-new-event-venue/",
         "source": "Lodging Magazine",
         "source_name": "Lodging Magazine"
-      }
-    },
-    {
-      "story_id": "story_bc95838a91a2",
-      "title": "Kempinski to open Augustine Hotel Prague following renovation of 800-year-old monastery",
-      "url": "https://boutiquehotelnews.com/news/kempinski-to-open-augustine-hotel-prague-following-renovation-of-800-year-old-monastery/?utm_source=rss&utm_medium=rss&utm_campaign=kempinski-to-open-augustine-hotel-prague-following-renovation-of-800-year-old-monastery",
-      "primary_url": "https://boutiquehotelnews.com/news/kempinski-to-open-augustine-hotel-prague-following-renovation-of-800-year-old-monastery/?utm_source=rss&utm_medium=rss&utm_campaign=kempinski-to-open-augustine-hotel-prague-following-renovation-of-800-year-old-monastery",
-      "source": "Boutique Hotel News",
-      "source_name": "Boutique Hotel News",
-      "sources": [
-        {
-          "id": "hotelitem_bc95838a91a2",
-          "title": "Kempinski to open Augustine Hotel Prague following renovation of 800-year-old monastery",
-          "url": "https://boutiquehotelnews.com/news/kempinski-to-open-augustine-hotel-prague-following-renovation-of-800-year-old-monastery/?utm_source=rss&utm_medium=rss&utm_campaign=kempinski-to-open-augustine-hotel-prague-following-renovation-of-800-year-old-monastery",
-          "source": "Boutique Hotel News",
-          "source_name": "Boutique Hotel News",
-          "site_id": "boutiquehotel",
-          "published_at": "2026-10-14T13:13:26Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Boutique Hotel News"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_bc95838a91a2",
-          "title": "Kempinski to open Augustine Hotel Prague following renovation of 800-year-old monastery",
-          "url": "https://boutiquehotelnews.com/news/kempinski-to-open-augustine-hotel-prague-following-renovation-of-800-year-old-monastery/?utm_source=rss&utm_medium=rss&utm_campaign=kempinski-to-open-augustine-hotel-prague-following-renovation-of-800-year-old-monastery",
-          "source": "Boutique Hotel News",
-          "source_name": "Boutique Hotel News",
-          "site_id": "boutiquehotel",
-          "published_at": "2026-10-14T13:13:26Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8266,
-      "importance": 0.5757,
-      "importance_score": 0.8266,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.8785,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-14T13:13:26Z",
-      "latest_at": "2026-10-14T13:13:26Z",
-      "primary_item": {
-        "id": "hotelitem_bc95838a91a2",
-        "title": "Kempinski to open Augustine Hotel Prague following renovation of 800-year-old monastery",
-        "url": "https://boutiquehotelnews.com/news/kempinski-to-open-augustine-hotel-prague-following-renovation-of-800-year-old-monastery/?utm_source=rss&utm_medium=rss&utm_campaign=kempinski-to-open-augustine-hotel-prague-following-renovation-of-800-year-old-monastery",
-        "source": "Boutique Hotel News",
-        "source_name": "Boutique Hotel News"
       }
     },
     {
@@ -1709,14 +1650,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8265,
-      "importance": 0.5757,
-      "importance_score": 0.8265,
+      "score": 0.8251,
+      "importance": 0.5741,
+      "importance_score": 0.8251,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8783,
+        "recency": 0.8707,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1729,6 +1670,65 @@
         "id": "hotelitem_1c2b90d57b97",
         "title": "Relais & Châteaux introduces MyImpact sustainability platform to reduce carbon emission",
         "url": "https://boutiquehotelnews.com/news/relais-chateaux-introduces-myimpact-sustainability-platform-to-reduce-carbon-emission/?utm_source=rss&utm_medium=rss&utm_campaign=relais-chateaux-introduces-myimpact-sustainability-platform-to-reduce-carbon-emission",
+        "source": "Boutique Hotel News",
+        "source_name": "Boutique Hotel News"
+      }
+    },
+    {
+      "story_id": "story_bc95838a91a2",
+      "title": "Kempinski to open Augustine Hotel Prague following renovation of 800-year-old monastery",
+      "url": "https://boutiquehotelnews.com/news/kempinski-to-open-augustine-hotel-prague-following-renovation-of-800-year-old-monastery/?utm_source=rss&utm_medium=rss&utm_campaign=kempinski-to-open-augustine-hotel-prague-following-renovation-of-800-year-old-monastery",
+      "primary_url": "https://boutiquehotelnews.com/news/kempinski-to-open-augustine-hotel-prague-following-renovation-of-800-year-old-monastery/?utm_source=rss&utm_medium=rss&utm_campaign=kempinski-to-open-augustine-hotel-prague-following-renovation-of-800-year-old-monastery",
+      "source": "Boutique Hotel News",
+      "source_name": "Boutique Hotel News",
+      "sources": [
+        {
+          "id": "hotelitem_bc95838a91a2",
+          "title": "Kempinski to open Augustine Hotel Prague following renovation of 800-year-old monastery",
+          "url": "https://boutiquehotelnews.com/news/kempinski-to-open-augustine-hotel-prague-following-renovation-of-800-year-old-monastery/?utm_source=rss&utm_medium=rss&utm_campaign=kempinski-to-open-augustine-hotel-prague-following-renovation-of-800-year-old-monastery",
+          "source": "Boutique Hotel News",
+          "source_name": "Boutique Hotel News",
+          "site_id": "boutiquehotel",
+          "published_at": "2026-10-14T13:13:26Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Boutique Hotel News"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_bc95838a91a2",
+          "title": "Kempinski to open Augustine Hotel Prague following renovation of 800-year-old monastery",
+          "url": "https://boutiquehotelnews.com/news/kempinski-to-open-augustine-hotel-prague-following-renovation-of-800-year-old-monastery/?utm_source=rss&utm_medium=rss&utm_campaign=kempinski-to-open-augustine-hotel-prague-following-renovation-of-800-year-old-monastery",
+          "source": "Boutique Hotel News",
+          "source_name": "Boutique Hotel News",
+          "site_id": "boutiquehotel",
+          "published_at": "2026-10-14T13:13:26Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8251,
+      "importance": 0.5742,
+      "importance_score": 0.8251,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.8709,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-14T13:13:26Z",
+      "latest_at": "2026-10-14T13:13:26Z",
+      "primary_item": {
+        "id": "hotelitem_bc95838a91a2",
+        "title": "Kempinski to open Augustine Hotel Prague following renovation of 800-year-old monastery",
+        "url": "https://boutiquehotelnews.com/news/kempinski-to-open-augustine-hotel-prague-following-renovation-of-800-year-old-monastery/?utm_source=rss&utm_medium=rss&utm_campaign=kempinski-to-open-augustine-hotel-prague-following-renovation-of-800-year-old-monastery",
         "source": "Boutique Hotel News",
         "source_name": "Boutique Hotel News"
       }
@@ -1768,14 +1768,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8227,
-      "importance": 0.5717,
-      "importance_score": 0.8227,
+      "score": 0.8212,
+      "importance": 0.5702,
+      "importance_score": 0.8212,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8584,
+        "recency": 0.8508,
         "story_heat": 0.0
       },
       "category": "watch",
