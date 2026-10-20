@@ -1,8 +1,67 @@
 {
-  "generated_at": "2026-10-20T08:37:32.777452Z",
+  "generated_at": "2026-10-20T14:20:20.924349Z",
   "window_hours": 1080,
   "total_stories": 30,
   "stories": [
+    {
+      "story_id": "story_516440eb94d1",
+      "title": "Hyatt opens first Hyatt Centric hotel in Missouri",
+      "url": "https://www.hoteldive.com/news/hyatt-centric-opens-missouri-hotel/833445/",
+      "primary_url": "https://www.hoteldive.com/news/hyatt-centric-opens-missouri-hotel/833445/",
+      "source": "Hotel Dive",
+      "source_name": "Hotel Dive",
+      "sources": [
+        {
+          "id": "hotelitem_516440eb94d1",
+          "title": "Hyatt opens first Hyatt Centric hotel in Missouri",
+          "url": "https://www.hoteldive.com/news/hyatt-centric-opens-missouri-hotel/833445/",
+          "source": "Hotel Dive",
+          "source_name": "Hotel Dive",
+          "site_id": "hoteldive",
+          "published_at": "2026-10-20T13:23:19Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hotel Dive"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_516440eb94d1",
+          "title": "Hyatt opens first Hyatt Centric hotel in Missouri",
+          "url": "https://www.hoteldive.com/news/hyatt-centric-opens-missouri-hotel/833445/",
+          "source": "Hotel Dive",
+          "source_name": "Hotel Dive",
+          "site_id": "hoteldive",
+          "published_at": "2026-10-20T13:23:19Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.9548,
+      "importance": 0.5998,
+      "importance_score": 0.9548,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9991,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-20T13:23:19Z",
+      "latest_at": "2026-10-20T13:23:19Z",
+      "primary_item": {
+        "id": "hotelitem_516440eb94d1",
+        "title": "Hyatt opens first Hyatt Centric hotel in Missouri",
+        "url": "https://www.hoteldive.com/news/hyatt-centric-opens-missouri-hotel/833445/",
+        "source": "Hotel Dive",
+        "source_name": "Hotel Dive"
+      }
+    },
     {
       "story_id": "story_ad645fb8afe3",
       "title": "Built to Compete: Why Hotel Technology Infrastructure Is the New Business Imperative",
@@ -38,14 +97,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9521,
-      "importance": 0.597,
-      "importance_score": 0.9521,
+      "score": 0.9511,
+      "importance": 0.5959,
+      "importance_score": 0.9511,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9849,
+        "recency": 0.9796,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -97,14 +156,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9494,
-      "importance": 0.5942,
-      "importance_score": 0.9494,
+      "score": 0.9484,
+      "importance": 0.5932,
+      "importance_score": 0.9484,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9711,
+        "recency": 0.9658,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -119,6 +178,124 @@
         "url": "https://insights.ehotelier.com/suppliers/2026/10/19/booking-com-no-longer-shares-guest-phone-numbers-heres-how-hotels-can-keep-reaching-their-guests/?utm_source=rss&utm_medium=rss&utm_campaign=booking-com-no-longer-shares-guest-phone-numbers-heres-how-hotels-can-keep-reaching-their-guests",
         "source": "eHotelier",
         "source_name": "eHotelier"
+      }
+    },
+    {
+      "story_id": "story_a2e822d70116",
+      "title": "Hilton Announces Plans to Move Stock Listing to Nasdaq",
+      "url": "https://lodgingmagazine.com/hilton-announces-plans-to-move-stock-listing-to-nasdaq/",
+      "primary_url": "https://lodgingmagazine.com/hilton-announces-plans-to-move-stock-listing-to-nasdaq/",
+      "source": "Lodging Magazine",
+      "source_name": "Lodging Magazine",
+      "sources": [
+        {
+          "id": "hotelitem_a2e822d70116",
+          "title": "Hilton Announces Plans to Move Stock Listing to Nasdaq",
+          "url": "https://lodgingmagazine.com/hilton-announces-plans-to-move-stock-listing-to-nasdaq/",
+          "source": "Lodging Magazine",
+          "source_name": "Lodging Magazine",
+          "site_id": "lodgingmag",
+          "published_at": "2026-10-20T13:58:22Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Lodging Magazine"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_a2e822d70116",
+          "title": "Hilton Announces Plans to Move Stock Listing to Nasdaq",
+          "url": "https://lodgingmagazine.com/hilton-announces-plans-to-move-stock-listing-to-nasdaq/",
+          "source": "Lodging Magazine",
+          "source_name": "Lodging Magazine",
+          "site_id": "lodgingmag",
+          "published_at": "2026-10-20T13:58:22Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.9399,
+      "importance": 0.5999,
+      "importance_score": 0.9399,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9997,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-20T13:58:22Z",
+      "latest_at": "2026-10-20T13:58:22Z",
+      "primary_item": {
+        "id": "hotelitem_a2e822d70116",
+        "title": "Hilton Announces Plans to Move Stock Listing to Nasdaq",
+        "url": "https://lodgingmagazine.com/hilton-announces-plans-to-move-stock-listing-to-nasdaq/",
+        "source": "Lodging Magazine",
+        "source_name": "Lodging Magazine"
+      }
+    },
+    {
+      "story_id": "story_a9de33e3c363",
+      "title": "Hyatt Announces Opening of New Hyatt Centric Hotel in St. Louis, Missouri",
+      "url": "https://lodgingmagazine.com/hyatt-announces-opening-of-new-hyatt-centric-hotel-in-st-louis-missouri/",
+      "primary_url": "https://lodgingmagazine.com/hyatt-announces-opening-of-new-hyatt-centric-hotel-in-st-louis-missouri/",
+      "source": "Lodging Magazine",
+      "source_name": "Lodging Magazine",
+      "sources": [
+        {
+          "id": "hotelitem_a9de33e3c363",
+          "title": "Hyatt Announces Opening of New Hyatt Centric Hotel in St. Louis, Missouri",
+          "url": "https://lodgingmagazine.com/hyatt-announces-opening-of-new-hyatt-centric-hotel-in-st-louis-missouri/",
+          "source": "Lodging Magazine",
+          "source_name": "Lodging Magazine",
+          "site_id": "lodgingmag",
+          "published_at": "2026-10-20T12:20:15Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Lodging Magazine"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_a9de33e3c363",
+          "title": "Hyatt Announces Opening of New Hyatt Centric Hotel in St. Louis, Missouri",
+          "url": "https://lodgingmagazine.com/hyatt-announces-opening-of-new-hyatt-centric-hotel-in-st-louis-missouri/",
+          "source": "Lodging Magazine",
+          "source_name": "Lodging Magazine",
+          "site_id": "lodgingmag",
+          "published_at": "2026-10-20T12:20:15Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.9396,
+      "importance": 0.5996,
+      "importance_score": 0.9396,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9981,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-20T12:20:15Z",
+      "latest_at": "2026-10-20T12:20:15Z",
+      "primary_item": {
+        "id": "hotelitem_a9de33e3c363",
+        "title": "Hyatt Announces Opening of New Hyatt Centric Hotel in St. Louis, Missouri",
+        "url": "https://lodgingmagazine.com/hyatt-announces-opening-of-new-hyatt-centric-hotel-in-st-louis-missouri/",
+        "source": "Lodging Magazine",
+        "source_name": "Lodging Magazine"
       }
     },
     {
@@ -156,14 +333,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9302,
-      "importance": 0.5742,
-      "importance_score": 0.9302,
+      "score": 0.9291,
+      "importance": 0.5732,
+      "importance_score": 0.9291,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8712,
+        "recency": 0.8659,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -215,14 +392,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.93,
-      "importance": 0.6,
-      "importance_score": 0.93,
+      "score": 0.929,
+      "importance": 0.5989,
+      "importance_score": 0.929,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9999,
+        "recency": 0.9946,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -274,14 +451,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9152,
-      "importance": 0.5742,
-      "importance_score": 0.9152,
+      "score": 0.9141,
+      "importance": 0.5732,
+      "importance_score": 0.9141,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8712,
+        "recency": 0.8659,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -333,14 +510,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9147,
-      "importance": 0.5737,
-      "importance_score": 0.9147,
+      "score": 0.9137,
+      "importance": 0.5727,
+      "importance_score": 0.9137,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8687,
+        "recency": 0.8634,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -372,7 +549,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-10-20T08:37:32.777452Z"
+          "published_at": "2026-10-20T14:20:20.924349Z"
         }
       ],
       "source_count": 1,
@@ -387,7 +564,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-10-20T08:37:32.777452Z"
+          "published_at": "2026-10-20T14:20:20.924349Z"
         }
       ],
       "item_count": 1,
@@ -406,8 +583,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-20T08:37:32.777452Z",
-      "latest_at": "2026-10-20T08:37:32.777452Z",
+      "earliest_at": "2026-10-20T14:20:20.924349Z",
+      "latest_at": "2026-10-20T14:20:20.924349Z",
       "primary_item": {
         "id": "hotelitem_06f191e24d38",
         "title": "文旅惠报|复星国际申请分拆Club Med在港上市；南京商旅上半年营收3.66亿元",
@@ -451,14 +628,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8621,
-      "importance": 0.597,
-      "importance_score": 0.8621,
+      "score": 0.861,
+      "importance": 0.5959,
+      "importance_score": 0.861,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9848,
+        "recency": 0.9795,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -510,14 +687,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8617,
-      "importance": 0.5965,
-      "importance_score": 0.8617,
+      "score": 0.8606,
+      "importance": 0.5955,
+      "importance_score": 0.8606,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9826,
+        "recency": 0.9773,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -549,7 +726,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-10-20T08:37:32.777452Z"
+          "published_at": "2026-10-20T14:20:20.924349Z"
         },
         {
           "id": "hotelitem_c7c15b7680c9",
@@ -558,7 +735,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-10-20T08:37:32.777452Z"
+          "published_at": "2026-10-20T14:20:20.924349Z"
         }
       ],
       "source_count": 2,
@@ -573,7 +750,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-10-20T08:37:32.777452Z"
+          "published_at": "2026-10-20T14:20:20.924349Z"
         },
         {
           "id": "hotelitem_c7c15b7680c9",
@@ -582,7 +759,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-10-20T08:37:32.777452Z"
+          "published_at": "2026-10-20T14:20:20.924349Z"
         }
       ],
       "item_count": 2,
@@ -602,8 +779,8 @@
         "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-20T08:37:32.777452Z",
-      "latest_at": "2026-10-20T08:37:32.777452Z",
+      "earliest_at": "2026-10-20T14:20:20.924349Z",
+      "latest_at": "2026-10-20T14:20:20.924349Z",
       "primary_item": {
         "id": "hotelitem_d4370964909c",
         "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
@@ -613,62 +790,82 @@
       }
     },
     {
-      "story_id": "story_193c9961c54c",
-      "title": "AI search for hotels: How to stay visible",
-      "url": "https://insights.ehotelier.com/insights/2026/10/19/ai-search-for-hotels-how-to-stay-visible/?utm_source=rss&utm_medium=rss&utm_campaign=ai-search-for-hotels-how-to-stay-visible",
-      "primary_url": "https://insights.ehotelier.com/insights/2026/10/19/ai-search-for-hotels-how-to-stay-visible/?utm_source=rss&utm_medium=rss&utm_campaign=ai-search-for-hotels-how-to-stay-visible",
-      "source": "eHotelier",
-      "source_name": "eHotelier",
+      "story_id": "story_715cbc102423",
+      "title": "抖音生活服务心动榜酒店2026年度盛典：把消费者的每一次“心动”做成长期生意",
+      "url": "https://www.traveldaily.cn/article/190897",
+      "primary_url": "https://www.traveldaily.cn/article/190897",
+      "source": "环球旅讯 TravelDaily",
+      "source_name": "环球旅讯 TravelDaily",
       "sources": [
         {
-          "id": "hotelitem_193c9961c54c",
-          "title": "AI search for hotels: How to stay visible",
-          "url": "https://insights.ehotelier.com/insights/2026/10/19/ai-search-for-hotels-how-to-stay-visible/?utm_source=rss&utm_medium=rss&utm_campaign=ai-search-for-hotels-how-to-stay-visible",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-10-19T01:34:44Z"
+          "id": "hotelitem_7c0929a1fb7b",
+          "title": "抖音生活服务心动榜酒店2026年度盛典：把消费者的每一次“心动”做成长期生意",
+          "url": "https://www.traveldaily.cn/article/190897",
+          "source": "环球旅讯 TravelDaily",
+          "source_name": "环球旅讯 TravelDaily",
+          "site_id": "traveldaily",
+          "published_at": "2026-10-20T18:18:46Z"
+        },
+        {
+          "id": "hotelitem_715cbc102423",
+          "title": "抖音生活服务心动榜酒店2026年度盛典：把消费者的每一次“心动”做成长期生意",
+          "url": "https://www.meadin.com/jd/302831.html",
+          "source": "迈点研究院",
+          "source_name": "迈点研究院",
+          "site_id": "meadin",
+          "published_at": "2026-10-20T14:20:20.924349Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "eHotelier"
+        "环球旅讯 TravelDaily",
+        "迈点研究院"
       ],
       "items": [
         {
-          "id": "hotelitem_193c9961c54c",
-          "title": "AI search for hotels: How to stay visible",
-          "url": "https://insights.ehotelier.com/insights/2026/10/19/ai-search-for-hotels-how-to-stay-visible/?utm_source=rss&utm_medium=rss&utm_campaign=ai-search-for-hotels-how-to-stay-visible",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-10-19T01:34:44Z"
+          "id": "hotelitem_7c0929a1fb7b",
+          "title": "抖音生活服务心动榜酒店2026年度盛典：把消费者的每一次“心动”做成长期生意",
+          "url": "https://www.traveldaily.cn/article/190897",
+          "source": "环球旅讯 TravelDaily",
+          "source_name": "环球旅讯 TravelDaily",
+          "site_id": "traveldaily",
+          "published_at": "2026-10-20T18:18:46Z"
+        },
+        {
+          "id": "hotelitem_715cbc102423",
+          "title": "抖音生活服务心动榜酒店2026年度盛典：把消费者的每一次“心动”做成长期生意",
+          "url": "https://www.meadin.com/jd/302831.html",
+          "source": "迈点研究院",
+          "source_name": "迈点研究院",
+          "site_id": "meadin",
+          "published_at": "2026-10-20T14:20:20.924349Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8595,
-      "importance": 0.5943,
-      "importance_score": 0.8595,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.86,
+      "importance": 0.625,
+      "importance_score": 0.86,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9713,
-        "story_heat": 0.0
+        "recency": 1.0,
+        "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
+        "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-19T01:34:44Z",
-      "latest_at": "2026-10-19T01:34:44Z",
+      "earliest_at": "2026-10-20T14:20:20.924349Z",
+      "latest_at": "2026-10-20T18:18:46Z",
       "primary_item": {
-        "id": "hotelitem_193c9961c54c",
-        "title": "AI search for hotels: How to stay visible",
-        "url": "https://insights.ehotelier.com/insights/2026/10/19/ai-search-for-hotels-how-to-stay-visible/?utm_source=rss&utm_medium=rss&utm_campaign=ai-search-for-hotels-how-to-stay-visible",
-        "source": "eHotelier",
-        "source_name": "eHotelier"
+        "id": "hotelitem_7c0929a1fb7b",
+        "title": "抖音生活服务心动榜酒店2026年度盛典：把消费者的每一次“心动”做成长期生意",
+        "url": "https://www.traveldaily.cn/article/190897",
+        "source": "环球旅讯 TravelDaily",
+        "source_name": "环球旅讯 TravelDaily"
       }
     },
     {
@@ -706,14 +903,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8594,
-      "importance": 0.5942,
-      "importance_score": 0.8594,
+      "score": 0.8584,
+      "importance": 0.5931,
+      "importance_score": 0.8584,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9709,
+        "recency": 0.9656,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -726,6 +923,65 @@
         "id": "hotelitem_af2032c3768d",
         "title": "Reclaiming hotel F&B revenue from delivery apps: Are your guests ordering from DoorDash & Deliveroo instead of from you?",
         "url": "https://insights.ehotelier.com/suppliers/2026/10/19/reclaiming-hotel-fb-revenue-from-delivery-apps-are-your-guests-ordering-from-doordash-deliveroo-instead-of-from-you/?utm_source=rss&utm_medium=rss&utm_campaign=reclaiming-hotel-fb-revenue-from-delivery-apps-are-your-guests-ordering-from-doordash-deliveroo-instead-of-from-you",
+        "source": "eHotelier",
+        "source_name": "eHotelier"
+      }
+    },
+    {
+      "story_id": "story_193c9961c54c",
+      "title": "AI search for hotels: How to stay visible",
+      "url": "https://insights.ehotelier.com/insights/2026/10/19/ai-search-for-hotels-how-to-stay-visible/?utm_source=rss&utm_medium=rss&utm_campaign=ai-search-for-hotels-how-to-stay-visible",
+      "primary_url": "https://insights.ehotelier.com/insights/2026/10/19/ai-search-for-hotels-how-to-stay-visible/?utm_source=rss&utm_medium=rss&utm_campaign=ai-search-for-hotels-how-to-stay-visible",
+      "source": "eHotelier",
+      "source_name": "eHotelier",
+      "sources": [
+        {
+          "id": "hotelitem_193c9961c54c",
+          "title": "AI search for hotels: How to stay visible",
+          "url": "https://insights.ehotelier.com/insights/2026/10/19/ai-search-for-hotels-how-to-stay-visible/?utm_source=rss&utm_medium=rss&utm_campaign=ai-search-for-hotels-how-to-stay-visible",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-10-19T01:34:44Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "eHotelier"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_193c9961c54c",
+          "title": "AI search for hotels: How to stay visible",
+          "url": "https://insights.ehotelier.com/insights/2026/10/19/ai-search-for-hotels-how-to-stay-visible/?utm_source=rss&utm_medium=rss&utm_campaign=ai-search-for-hotels-how-to-stay-visible",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-10-19T01:34:44Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8584,
+      "importance": 0.5932,
+      "importance_score": 0.8584,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.966,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-19T01:34:44Z",
+      "latest_at": "2026-10-19T01:34:44Z",
+      "primary_item": {
+        "id": "hotelitem_193c9961c54c",
+        "title": "AI search for hotels: How to stay visible",
+        "url": "https://insights.ehotelier.com/insights/2026/10/19/ai-search-for-hotels-how-to-stay-visible/?utm_source=rss&utm_medium=rss&utm_campaign=ai-search-for-hotels-how-to-stay-visible",
         "source": "eHotelier",
         "source_name": "eHotelier"
       }
@@ -765,14 +1021,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8593,
-      "importance": 0.5941,
-      "importance_score": 0.8593,
+      "score": 0.8583,
+      "importance": 0.5931,
+      "importance_score": 0.8583,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9706,
+        "recency": 0.9653,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -804,7 +1060,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-10-20T08:37:32.777452Z"
+          "published_at": "2026-10-20T14:20:20.924349Z"
         }
       ],
       "source_count": 1,
@@ -819,7 +1075,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-10-20T08:37:32.777452Z"
+          "published_at": "2026-10-20T14:20:20.924349Z"
         }
       ],
       "item_count": 1,
@@ -838,8 +1094,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-20T08:37:32.777452Z",
-      "latest_at": "2026-10-20T08:37:32.777452Z",
+      "earliest_at": "2026-10-20T14:20:20.924349Z",
+      "latest_at": "2026-10-20T14:20:20.924349Z",
       "primary_item": {
         "id": "hotelitem_e4ce0593c384",
         "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
@@ -863,7 +1119,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-10-20T08:37:32.777452Z"
+          "published_at": "2026-10-20T14:20:20.924349Z"
         }
       ],
       "source_count": 1,
@@ -878,7 +1134,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-10-20T08:37:32.777452Z"
+          "published_at": "2026-10-20T14:20:20.924349Z"
         }
       ],
       "item_count": 1,
@@ -897,8 +1153,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-20T08:37:32.777452Z",
-      "latest_at": "2026-10-20T08:37:32.777452Z",
+      "earliest_at": "2026-10-20T14:20:20.924349Z",
+      "latest_at": "2026-10-20T14:20:20.924349Z",
       "primary_item": {
         "id": "hotelitem_b0f4757ffc95",
         "title": "文化和旅游部 中国气象局联合发布2026年国庆...",
@@ -922,7 +1178,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-10-20T08:37:32.777452Z"
+          "published_at": "2026-10-20T14:20:20.924349Z"
         }
       ],
       "source_count": 1,
@@ -937,7 +1193,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-10-20T08:37:32.777452Z"
+          "published_at": "2026-10-20T14:20:20.924349Z"
         }
       ],
       "item_count": 1,
@@ -956,8 +1212,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-20T08:37:32.777452Z",
-      "latest_at": "2026-10-20T08:37:32.777452Z",
+      "earliest_at": "2026-10-20T14:20:20.924349Z",
+      "latest_at": "2026-10-20T14:20:20.924349Z",
       "primary_item": {
         "id": "hotelitem_4adba65c20e7",
         "title": "文化和旅游部党组召开会议坚决拥护党中央对...",
@@ -981,7 +1237,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-10-20T08:37:32.777452Z"
+          "published_at": "2026-10-20T14:20:20.924349Z"
         }
       ],
       "source_count": 1,
@@ -996,7 +1252,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-10-20T08:37:32.777452Z"
+          "published_at": "2026-10-20T14:20:20.924349Z"
         }
       ],
       "item_count": 1,
@@ -1015,8 +1271,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-20T08:37:32.777452Z",
-      "latest_at": "2026-10-20T08:37:32.777452Z",
+      "earliest_at": "2026-10-20T14:20:20.924349Z",
+      "latest_at": "2026-10-20T14:20:20.924349Z",
       "primary_item": {
         "id": "hotelitem_e63a36930397",
         "title": "文化和旅游部印发《艺术发展“十五五”规划》",
@@ -1060,14 +1316,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8475,
-      "importance": 0.5974,
-      "importance_score": 0.8475,
+      "score": 0.8465,
+      "importance": 0.5964,
+      "importance_score": 0.8465,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9872,
+        "recency": 0.9819,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1119,14 +1375,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8467,
-      "importance": 0.5966,
-      "importance_score": 0.8467,
+      "score": 0.8457,
+      "importance": 0.5956,
+      "importance_score": 0.8457,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.983,
+        "recency": 0.9778,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1178,14 +1434,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8452,
-      "importance": 0.5795,
-      "importance_score": 0.8452,
+      "score": 0.8442,
+      "importance": 0.5784,
+      "importance_score": 0.8442,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8974,
+        "recency": 0.8921,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1237,14 +1493,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8423,
-      "importance": 0.5764,
-      "importance_score": 0.8423,
+      "score": 0.8412,
+      "importance": 0.5754,
+      "importance_score": 0.8412,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8821,
+        "recency": 0.8768,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1296,14 +1552,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8408,
-      "importance": 0.5749,
-      "importance_score": 0.8408,
+      "score": 0.8398,
+      "importance": 0.5739,
+      "importance_score": 0.8398,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8747,
+        "recency": 0.8694,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1316,65 +1572,6 @@
         "id": "hotelitem_005fe18565a0",
         "title": "Dreamscape names Adam Patenaude president and CEO",
         "url": "https://www.hoteldive.com/news/dreamscape-names-adam-patenaude-president-ceo/833008/",
-        "source": "Hotel Dive",
-        "source_name": "Hotel Dive"
-      }
-    },
-    {
-      "story_id": "story_41f485d7bfc3",
-      "title": "How hotels can combat rising insurance costs",
-      "url": "https://www.hoteldive.com/news/hotel-insurance-cost-pressures/832921/",
-      "primary_url": "https://www.hoteldive.com/news/hotel-insurance-cost-pressures/832921/",
-      "source": "Hotel Dive",
-      "source_name": "Hotel Dive",
-      "sources": [
-        {
-          "id": "hotelitem_41f485d7bfc3",
-          "title": "How hotels can combat rising insurance costs",
-          "url": "https://www.hoteldive.com/news/hotel-insurance-cost-pressures/832921/",
-          "source": "Hotel Dive",
-          "source_name": "Hotel Dive",
-          "site_id": "hoteldive",
-          "published_at": "2026-10-14T13:11:47Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hotel Dive"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_41f485d7bfc3",
-          "title": "How hotels can combat rising insurance costs",
-          "url": "https://www.hoteldive.com/news/hotel-insurance-cost-pressures/832921/",
-          "source": "Hotel Dive",
-          "source_name": "Hotel Dive",
-          "site_id": "hoteldive",
-          "published_at": "2026-10-14T13:11:47Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8401,
-      "importance": 0.5742,
-      "importance_score": 0.8401,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.8709,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-14T13:11:47Z",
-      "latest_at": "2026-10-14T13:11:47Z",
-      "primary_item": {
-        "id": "hotelitem_41f485d7bfc3",
-        "title": "How hotels can combat rising insurance costs",
-        "url": "https://www.hoteldive.com/news/hotel-insurance-cost-pressures/832921/",
         "source": "Hotel Dive",
         "source_name": "Hotel Dive"
       }
@@ -1414,14 +1611,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8368,
-      "importance": 0.5707,
-      "importance_score": 0.8368,
+      "score": 0.8358,
+      "importance": 0.5697,
+      "importance_score": 0.8358,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8537,
+        "recency": 0.8484,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1436,65 +1633,6 @@
         "url": "https://www.hotelmanagement.net/resource/hidden-costs-hotels-bed-bugs-put-more-rooms-risk",
         "source": "Hotel Management",
         "source_name": "Hotel Management"
-      }
-    },
-    {
-      "story_id": "story_b3aa2ef161c4",
-      "title": "Sonesta debuts meetings-focused hotel collection",
-      "url": "https://www.hoteldive.com/news/sonesta-debuts-meetings-focused-hotel-collection/832837/",
-      "primary_url": "https://www.hoteldive.com/news/sonesta-debuts-meetings-focused-hotel-collection/832837/",
-      "source": "Hotel Dive",
-      "source_name": "Hotel Dive",
-      "sources": [
-        {
-          "id": "hotelitem_b3aa2ef161c4",
-          "title": "Sonesta debuts meetings-focused hotel collection",
-          "url": "https://www.hoteldive.com/news/sonesta-debuts-meetings-focused-hotel-collection/832837/",
-          "source": "Hotel Dive",
-          "source_name": "Hotel Dive",
-          "site_id": "hoteldive",
-          "published_at": "2026-10-13T13:32:43Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hotel Dive"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_b3aa2ef161c4",
-          "title": "Sonesta debuts meetings-focused hotel collection",
-          "url": "https://www.hoteldive.com/news/sonesta-debuts-meetings-focused-hotel-collection/832837/",
-          "source": "Hotel Dive",
-          "source_name": "Hotel Dive",
-          "site_id": "hoteldive",
-          "published_at": "2026-10-13T13:32:43Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8359,
-      "importance": 0.5698,
-      "importance_score": 0.8359,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.849,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-13T13:32:43Z",
-      "latest_at": "2026-10-13T13:32:43Z",
-      "primary_item": {
-        "id": "hotelitem_b3aa2ef161c4",
-        "title": "Sonesta debuts meetings-focused hotel collection",
-        "url": "https://www.hoteldive.com/news/sonesta-debuts-meetings-focused-hotel-collection/832837/",
-        "source": "Hotel Dive",
-        "source_name": "Hotel Dive"
       }
     },
     {
@@ -1532,14 +1670,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8343,
-      "importance": 0.5837,
-      "importance_score": 0.8343,
+      "score": 0.8333,
+      "importance": 0.5827,
+      "importance_score": 0.8333,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9187,
+        "recency": 0.9135,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1554,124 +1692,6 @@
         "url": "https://lodgingmagazine.com/schoolhouse-history-meets-modern-hospitality-hill-hall-hotel/",
         "source": "Lodging Magazine",
         "source_name": "Lodging Magazine"
-      }
-    },
-    {
-      "story_id": "story_ff9a0026df9d",
-      "title": "Homestead Midway Utah Debuts New Event Venue",
-      "url": "https://lodgingmagazine.com/homestead-midway-utah-debuts-new-event-venue/",
-      "primary_url": "https://lodgingmagazine.com/homestead-midway-utah-debuts-new-event-venue/",
-      "source": "Lodging Magazine",
-      "source_name": "Lodging Magazine",
-      "sources": [
-        {
-          "id": "hotelitem_ff9a0026df9d",
-          "title": "Homestead Midway Utah Debuts New Event Venue",
-          "url": "https://lodgingmagazine.com/homestead-midway-utah-debuts-new-event-venue/",
-          "source": "Lodging Magazine",
-          "source_name": "Lodging Magazine",
-          "site_id": "lodgingmag",
-          "published_at": "2026-10-16T13:40:35Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Lodging Magazine"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_ff9a0026df9d",
-          "title": "Homestead Midway Utah Debuts New Event Venue",
-          "url": "https://lodgingmagazine.com/homestead-midway-utah-debuts-new-event-venue/",
-          "source": "Lodging Magazine",
-          "source_name": "Lodging Magazine",
-          "site_id": "lodgingmag",
-          "published_at": "2026-10-16T13:40:35Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8338,
-      "importance": 0.5832,
-      "importance_score": 0.8338,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9158,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-16T13:40:35Z",
-      "latest_at": "2026-10-16T13:40:35Z",
-      "primary_item": {
-        "id": "hotelitem_ff9a0026df9d",
-        "title": "Homestead Midway Utah Debuts New Event Venue",
-        "url": "https://lodgingmagazine.com/homestead-midway-utah-debuts-new-event-venue/",
-        "source": "Lodging Magazine",
-        "source_name": "Lodging Magazine"
-      }
-    },
-    {
-      "story_id": "story_1c2b90d57b97",
-      "title": "Relais & Châteaux introduces MyImpact sustainability platform to reduce carbon emission",
-      "url": "https://boutiquehotelnews.com/news/relais-chateaux-introduces-myimpact-sustainability-platform-to-reduce-carbon-emission/?utm_source=rss&utm_medium=rss&utm_campaign=relais-chateaux-introduces-myimpact-sustainability-platform-to-reduce-carbon-emission",
-      "primary_url": "https://boutiquehotelnews.com/news/relais-chateaux-introduces-myimpact-sustainability-platform-to-reduce-carbon-emission/?utm_source=rss&utm_medium=rss&utm_campaign=relais-chateaux-introduces-myimpact-sustainability-platform-to-reduce-carbon-emission",
-      "source": "Boutique Hotel News",
-      "source_name": "Boutique Hotel News",
-      "sources": [
-        {
-          "id": "hotelitem_1c2b90d57b97",
-          "title": "Relais & Châteaux introduces MyImpact sustainability platform to reduce carbon emission",
-          "url": "https://boutiquehotelnews.com/news/relais-chateaux-introduces-myimpact-sustainability-platform-to-reduce-carbon-emission/?utm_source=rss&utm_medium=rss&utm_campaign=relais-chateaux-introduces-myimpact-sustainability-platform-to-reduce-carbon-emission",
-          "source": "Boutique Hotel News",
-          "source_name": "Boutique Hotel News",
-          "site_id": "boutiquehotel",
-          "published_at": "2026-10-14T12:56:19Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Boutique Hotel News"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_1c2b90d57b97",
-          "title": "Relais & Châteaux introduces MyImpact sustainability platform to reduce carbon emission",
-          "url": "https://boutiquehotelnews.com/news/relais-chateaux-introduces-myimpact-sustainability-platform-to-reduce-carbon-emission/?utm_source=rss&utm_medium=rss&utm_campaign=relais-chateaux-introduces-myimpact-sustainability-platform-to-reduce-carbon-emission",
-          "source": "Boutique Hotel News",
-          "source_name": "Boutique Hotel News",
-          "site_id": "boutiquehotel",
-          "published_at": "2026-10-14T12:56:19Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8251,
-      "importance": 0.5741,
-      "importance_score": 0.8251,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.8707,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-14T12:56:19Z",
-      "latest_at": "2026-10-14T12:56:19Z",
-      "primary_item": {
-        "id": "hotelitem_1c2b90d57b97",
-        "title": "Relais & Châteaux introduces MyImpact sustainability platform to reduce carbon emission",
-        "url": "https://boutiquehotelnews.com/news/relais-chateaux-introduces-myimpact-sustainability-platform-to-reduce-carbon-emission/?utm_source=rss&utm_medium=rss&utm_campaign=relais-chateaux-introduces-myimpact-sustainability-platform-to-reduce-carbon-emission",
-        "source": "Boutique Hotel News",
-        "source_name": "Boutique Hotel News"
       }
     },
     {
@@ -1709,14 +1729,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8251,
-      "importance": 0.5742,
-      "importance_score": 0.8251,
+      "score": 0.8241,
+      "importance": 0.5731,
+      "importance_score": 0.8241,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8709,
+        "recency": 0.8656,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1734,21 +1754,21 @@
       }
     },
     {
-      "story_id": "story_1406eebdbf44",
-      "title": "Iconic Hotels & Resorts appoints Michelle Walder as group director of operations",
-      "url": "https://boutiquehotelnews.com/news/iconic-hotels-resorts-appoints-michelle-walder-as-group-director-of-operations/?utm_source=rss&utm_medium=rss&utm_campaign=iconic-hotels-resorts-appoints-michelle-walder-as-group-director-of-operations",
-      "primary_url": "https://boutiquehotelnews.com/news/iconic-hotels-resorts-appoints-michelle-walder-as-group-director-of-operations/?utm_source=rss&utm_medium=rss&utm_campaign=iconic-hotels-resorts-appoints-michelle-walder-as-group-director-of-operations",
+      "story_id": "story_1c2b90d57b97",
+      "title": "Relais & Châteaux introduces MyImpact sustainability platform to reduce carbon emission",
+      "url": "https://boutiquehotelnews.com/news/relais-chateaux-introduces-myimpact-sustainability-platform-to-reduce-carbon-emission/?utm_source=rss&utm_medium=rss&utm_campaign=relais-chateaux-introduces-myimpact-sustainability-platform-to-reduce-carbon-emission",
+      "primary_url": "https://boutiquehotelnews.com/news/relais-chateaux-introduces-myimpact-sustainability-platform-to-reduce-carbon-emission/?utm_source=rss&utm_medium=rss&utm_campaign=relais-chateaux-introduces-myimpact-sustainability-platform-to-reduce-carbon-emission",
       "source": "Boutique Hotel News",
       "source_name": "Boutique Hotel News",
       "sources": [
         {
-          "id": "hotelitem_1406eebdbf44",
-          "title": "Iconic Hotels & Resorts appoints Michelle Walder as group director of operations",
-          "url": "https://boutiquehotelnews.com/news/iconic-hotels-resorts-appoints-michelle-walder-as-group-director-of-operations/?utm_source=rss&utm_medium=rss&utm_campaign=iconic-hotels-resorts-appoints-michelle-walder-as-group-director-of-operations",
+          "id": "hotelitem_1c2b90d57b97",
+          "title": "Relais & Châteaux introduces MyImpact sustainability platform to reduce carbon emission",
+          "url": "https://boutiquehotelnews.com/news/relais-chateaux-introduces-myimpact-sustainability-platform-to-reduce-carbon-emission/?utm_source=rss&utm_medium=rss&utm_campaign=relais-chateaux-introduces-myimpact-sustainability-platform-to-reduce-carbon-emission",
           "source": "Boutique Hotel News",
           "source_name": "Boutique Hotel News",
           "site_id": "boutiquehotel",
-          "published_at": "2026-10-13T15:26:52Z"
+          "published_at": "2026-10-14T12:56:19Z"
         }
       ],
       "source_count": 1,
@@ -1757,37 +1777,37 @@
       ],
       "items": [
         {
-          "id": "hotelitem_1406eebdbf44",
-          "title": "Iconic Hotels & Resorts appoints Michelle Walder as group director of operations",
-          "url": "https://boutiquehotelnews.com/news/iconic-hotels-resorts-appoints-michelle-walder-as-group-director-of-operations/?utm_source=rss&utm_medium=rss&utm_campaign=iconic-hotels-resorts-appoints-michelle-walder-as-group-director-of-operations",
+          "id": "hotelitem_1c2b90d57b97",
+          "title": "Relais & Châteaux introduces MyImpact sustainability platform to reduce carbon emission",
+          "url": "https://boutiquehotelnews.com/news/relais-chateaux-introduces-myimpact-sustainability-platform-to-reduce-carbon-emission/?utm_source=rss&utm_medium=rss&utm_campaign=relais-chateaux-introduces-myimpact-sustainability-platform-to-reduce-carbon-emission",
           "source": "Boutique Hotel News",
           "source_name": "Boutique Hotel News",
           "site_id": "boutiquehotel",
-          "published_at": "2026-10-13T15:26:52Z"
+          "published_at": "2026-10-14T12:56:19Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8212,
-      "importance": 0.5702,
-      "importance_score": 0.8212,
+      "score": 0.824,
+      "importance": 0.5731,
+      "importance_score": 0.824,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8508,
+        "recency": 0.8654,
         "story_heat": 0.0
       },
       "category": "watch",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-13T15:26:52Z",
-      "latest_at": "2026-10-13T15:26:52Z",
+      "earliest_at": "2026-10-14T12:56:19Z",
+      "latest_at": "2026-10-14T12:56:19Z",
       "primary_item": {
-        "id": "hotelitem_1406eebdbf44",
-        "title": "Iconic Hotels & Resorts appoints Michelle Walder as group director of operations",
-        "url": "https://boutiquehotelnews.com/news/iconic-hotels-resorts-appoints-michelle-walder-as-group-director-of-operations/?utm_source=rss&utm_medium=rss&utm_campaign=iconic-hotels-resorts-appoints-michelle-walder-as-group-director-of-operations",
+        "id": "hotelitem_1c2b90d57b97",
+        "title": "Relais & Châteaux introduces MyImpact sustainability platform to reduce carbon emission",
+        "url": "https://boutiquehotelnews.com/news/relais-chateaux-introduces-myimpact-sustainability-platform-to-reduce-carbon-emission/?utm_source=rss&utm_medium=rss&utm_campaign=relais-chateaux-introduces-myimpact-sustainability-platform-to-reduce-carbon-emission",
         "source": "Boutique Hotel News",
         "source_name": "Boutique Hotel News"
       }
