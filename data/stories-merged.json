@@ -1,8 +1,126 @@
 {
-  "generated_at": "2026-10-22T17:14:51.760464Z",
+  "generated_at": "2026-10-22T21:40:43.919271Z",
   "window_hours": 1080,
   "total_stories": 30,
   "stories": [
+    {
+      "story_id": "story_e4b81e2f3ed7",
+      "title": "IHG reports Q3 RevPAR growth driven by ‘strength of US economy’",
+      "url": "https://www.hoteldive.com/news/ihg-q3-revpar-growth-strong-us-economy/833773/",
+      "primary_url": "https://www.hoteldive.com/news/ihg-q3-revpar-growth-strong-us-economy/833773/",
+      "source": "Hotel Dive",
+      "source_name": "Hotel Dive",
+      "sources": [
+        {
+          "id": "hotelitem_e4b81e2f3ed7",
+          "title": "IHG reports Q3 RevPAR growth driven by ‘strength of US economy’",
+          "url": "https://www.hoteldive.com/news/ihg-q3-revpar-growth-strong-us-economy/833773/",
+          "source": "Hotel Dive",
+          "source_name": "Hotel Dive",
+          "site_id": "hoteldive",
+          "published_at": "2026-10-22T19:11:26Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hotel Dive"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_e4b81e2f3ed7",
+          "title": "IHG reports Q3 RevPAR growth driven by ‘strength of US economy’",
+          "url": "https://www.hoteldive.com/news/ihg-q3-revpar-growth-strong-us-economy/833773/",
+          "source": "Hotel Dive",
+          "source_name": "Hotel Dive",
+          "site_id": "hoteldive",
+          "published_at": "2026-10-22T19:11:26Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.9546,
+      "importance": 0.5995,
+      "importance_score": 0.9546,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9977,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-22T19:11:26Z",
+      "latest_at": "2026-10-22T19:11:26Z",
+      "primary_item": {
+        "id": "hotelitem_e4b81e2f3ed7",
+        "title": "IHG reports Q3 RevPAR growth driven by ‘strength of US economy’",
+        "url": "https://www.hoteldive.com/news/ihg-q3-revpar-growth-strong-us-economy/833773/",
+        "source": "Hotel Dive",
+        "source_name": "Hotel Dive"
+      }
+    },
+    {
+      "story_id": "story_891fe45c2300",
+      "title": "Wyndham posts Q3 US RevPAR gains amid ‘healthier’ demand trends",
+      "url": "https://www.hoteldive.com/news/wyndham-earnings-q3-2026/833706/",
+      "primary_url": "https://www.hoteldive.com/news/wyndham-earnings-q3-2026/833706/",
+      "source": "Hotel Dive",
+      "source_name": "Hotel Dive",
+      "sources": [
+        {
+          "id": "hotelitem_891fe45c2300",
+          "title": "Wyndham posts Q3 US RevPAR gains amid ‘healthier’ demand trends",
+          "url": "https://www.hoteldive.com/news/wyndham-earnings-q3-2026/833706/",
+          "source": "Hotel Dive",
+          "source_name": "Hotel Dive",
+          "site_id": "hoteldive",
+          "published_at": "2026-10-22T13:55:13Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hotel Dive"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_891fe45c2300",
+          "title": "Wyndham posts Q3 US RevPAR gains amid ‘healthier’ demand trends",
+          "url": "https://www.hoteldive.com/news/wyndham-earnings-q3-2026/833706/",
+          "source": "Hotel Dive",
+          "source_name": "Hotel Dive",
+          "site_id": "hoteldive",
+          "published_at": "2026-10-22T13:55:13Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.9536,
+      "importance": 0.5986,
+      "importance_score": 0.9536,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9928,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-22T13:55:13Z",
+      "latest_at": "2026-10-22T13:55:13Z",
+      "primary_item": {
+        "id": "hotelitem_891fe45c2300",
+        "title": "Wyndham posts Q3 US RevPAR gains amid ‘healthier’ demand trends",
+        "url": "https://www.hoteldive.com/news/wyndham-earnings-q3-2026/833706/",
+        "source": "Hotel Dive",
+        "source_name": "Hotel Dive"
+      }
+    },
     {
       "story_id": "story_5f8dd6004447",
       "title": "Kieran Cain appointed Vice President of Marketing & Communications at Stonebridge",
@@ -38,14 +156,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9521,
-      "importance": 0.5969,
-      "importance_score": 0.9521,
+      "score": 0.9513,
+      "importance": 0.5961,
+      "importance_score": 0.9513,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9847,
+        "recency": 0.9806,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -97,14 +215,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9521,
-      "importance": 0.597,
-      "importance_score": 0.9521,
+      "score": 0.9513,
+      "importance": 0.5962,
+      "importance_score": 0.9513,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9851,
+        "recency": 0.981,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -156,14 +274,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9501,
-      "importance": 0.595,
-      "importance_score": 0.9501,
+      "score": 0.9494,
+      "importance": 0.5941,
+      "importance_score": 0.9494,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9748,
+        "recency": 0.9707,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -215,14 +333,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9457,
-      "importance": 0.5904,
-      "importance_score": 0.9457,
+      "score": 0.9449,
+      "importance": 0.5896,
+      "importance_score": 0.9449,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.952,
+        "recency": 0.9479,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -274,14 +392,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.942,
-      "importance": 0.5865,
-      "importance_score": 0.942,
+      "score": 0.9412,
+      "importance": 0.5857,
+      "importance_score": 0.9412,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9325,
+        "recency": 0.9284,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -333,14 +451,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9351,
-      "importance": 0.5949,
-      "importance_score": 0.9351,
+      "score": 0.9343,
+      "importance": 0.5941,
+      "importance_score": 0.9343,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9746,
+        "recency": 0.9705,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -392,14 +510,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.928,
-      "importance": 0.5979,
-      "importance_score": 0.928,
+      "score": 0.9272,
+      "importance": 0.5971,
+      "importance_score": 0.9272,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9895,
+        "recency": 0.9854,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -451,14 +569,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.918,
-      "importance": 0.5954,
-      "importance_score": 0.918,
+      "score": 0.9172,
+      "importance": 0.5945,
+      "importance_score": 0.9172,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9768,
+        "recency": 0.9726,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -510,14 +628,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9025,
-      "importance": 0.5638,
-      "importance_score": 0.9025,
+      "score": 0.9013,
+      "importance": 0.5629,
+      "importance_score": 0.9013,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8188,
+        "recency": 0.8147,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -549,7 +667,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-10-22T17:14:51.760464Z"
+          "published_at": "2026-10-22T21:40:43.919271Z"
         }
       ],
       "source_count": 1,
@@ -564,7 +682,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-10-22T17:14:51.760464Z"
+          "published_at": "2026-10-22T21:40:43.919271Z"
         }
       ],
       "item_count": 1,
@@ -583,8 +701,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-22T17:14:51.760464Z",
-      "latest_at": "2026-10-22T17:14:51.760464Z",
+      "earliest_at": "2026-10-22T21:40:43.919271Z",
+      "latest_at": "2026-10-22T21:40:43.919271Z",
       "primary_item": {
         "id": "hotelitem_06f191e24d38",
         "title": "文旅惠报|复星国际申请分拆Club Med在港上市；南京商旅上半年营收3.66亿元",
@@ -628,14 +746,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8621,
-      "importance": 0.597,
-      "importance_score": 0.8621,
+      "score": 0.8613,
+      "importance": 0.5962,
+      "importance_score": 0.8613,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9849,
+        "recency": 0.9808,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -667,7 +785,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-10-22T17:14:51.760464Z"
+          "published_at": "2026-10-22T21:40:43.919271Z"
         },
         {
           "id": "hotelitem_c7c15b7680c9",
@@ -676,7 +794,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-10-22T17:14:51.760464Z"
+          "published_at": "2026-10-22T21:40:43.919271Z"
         }
       ],
       "source_count": 2,
@@ -691,7 +809,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-10-22T17:14:51.760464Z"
+          "published_at": "2026-10-22T21:40:43.919271Z"
         },
         {
           "id": "hotelitem_c7c15b7680c9",
@@ -700,7 +818,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-10-22T17:14:51.760464Z"
+          "published_at": "2026-10-22T21:40:43.919271Z"
         }
       ],
       "item_count": 2,
@@ -720,8 +838,8 @@
         "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-22T17:14:51.760464Z",
-      "latest_at": "2026-10-22T17:14:51.760464Z",
+      "earliest_at": "2026-10-22T21:40:43.919271Z",
+      "latest_at": "2026-10-22T21:40:43.919271Z",
       "primary_item": {
         "id": "hotelitem_d4370964909c",
         "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
@@ -745,7 +863,7 @@
           "source": "迈点研究院",
           "source_name": "迈点研究院",
           "site_id": "meadin",
-          "published_at": "2026-10-22T17:14:51.760464Z"
+          "published_at": "2026-10-22T21:40:43.919271Z"
         }
       ],
       "source_count": 1,
@@ -760,7 +878,7 @@
           "source": "迈点研究院",
           "source_name": "迈点研究院",
           "site_id": "meadin",
-          "published_at": "2026-10-22T17:14:51.760464Z"
+          "published_at": "2026-10-22T21:40:43.919271Z"
         }
       ],
       "item_count": 1,
@@ -779,8 +897,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-22T17:14:51.760464Z",
-      "latest_at": "2026-10-22T17:14:51.760464Z",
+      "earliest_at": "2026-10-22T21:40:43.919271Z",
+      "latest_at": "2026-10-22T21:40:43.919271Z",
       "primary_item": {
         "id": "hotelitem_d68f3b736a75",
         "title": "世茂集团27亿港元出售中国香港两间喜来登酒店",
@@ -804,7 +922,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-10-22T17:14:51.760464Z"
+          "published_at": "2026-10-22T21:40:43.919271Z"
         }
       ],
       "source_count": 1,
@@ -819,7 +937,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-10-22T17:14:51.760464Z"
+          "published_at": "2026-10-22T21:40:43.919271Z"
         }
       ],
       "item_count": 1,
@@ -838,8 +956,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-22T17:14:51.760464Z",
-      "latest_at": "2026-10-22T17:14:51.760464Z",
+      "earliest_at": "2026-10-22T21:40:43.919271Z",
+      "latest_at": "2026-10-22T21:40:43.919271Z",
       "primary_item": {
         "id": "hotelitem_e4ce0593c384",
         "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
@@ -863,7 +981,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-10-22T17:14:51.760464Z"
+          "published_at": "2026-10-22T21:40:43.919271Z"
         }
       ],
       "source_count": 1,
@@ -878,7 +996,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-10-22T17:14:51.760464Z"
+          "published_at": "2026-10-22T21:40:43.919271Z"
         }
       ],
       "item_count": 1,
@@ -897,8 +1015,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-22T17:14:51.760464Z",
-      "latest_at": "2026-10-22T17:14:51.760464Z",
+      "earliest_at": "2026-10-22T21:40:43.919271Z",
+      "latest_at": "2026-10-22T21:40:43.919271Z",
       "primary_item": {
         "id": "hotelitem_b0f4757ffc95",
         "title": "文化和旅游部 中国气象局联合发布2026年国庆...",
@@ -922,7 +1040,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-10-22T17:14:51.760464Z"
+          "published_at": "2026-10-22T21:40:43.919271Z"
         }
       ],
       "source_count": 1,
@@ -937,7 +1055,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-10-22T17:14:51.760464Z"
+          "published_at": "2026-10-22T21:40:43.919271Z"
         }
       ],
       "item_count": 1,
@@ -956,8 +1074,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-22T17:14:51.760464Z",
-      "latest_at": "2026-10-22T17:14:51.760464Z",
+      "earliest_at": "2026-10-22T21:40:43.919271Z",
+      "latest_at": "2026-10-22T21:40:43.919271Z",
       "primary_item": {
         "id": "hotelitem_4adba65c20e7",
         "title": "文化和旅游部党组召开会议坚决拥护党中央对...",
@@ -981,7 +1099,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-10-22T17:14:51.760464Z"
+          "published_at": "2026-10-22T21:40:43.919271Z"
         }
       ],
       "source_count": 1,
@@ -996,7 +1114,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-10-22T17:14:51.760464Z"
+          "published_at": "2026-10-22T21:40:43.919271Z"
         }
       ],
       "item_count": 1,
@@ -1015,8 +1133,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-22T17:14:51.760464Z",
-      "latest_at": "2026-10-22T17:14:51.760464Z",
+      "earliest_at": "2026-10-22T21:40:43.919271Z",
+      "latest_at": "2026-10-22T21:40:43.919271Z",
       "primary_item": {
         "id": "hotelitem_e63a36930397",
         "title": "文化和旅游部印发《艺术发展“十五五”规划》",
@@ -1060,14 +1178,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.852,
-      "importance": 0.5865,
-      "importance_score": 0.852,
+      "score": 0.8512,
+      "importance": 0.5857,
+      "importance_score": 0.8512,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9324,
+        "recency": 0.9283,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1119,14 +1237,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8515,
-      "importance": 0.586,
-      "importance_score": 0.8515,
+      "score": 0.8507,
+      "importance": 0.5852,
+      "importance_score": 0.8507,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9302,
+        "recency": 0.9261,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1178,14 +1296,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8498,
-      "importance": 0.5997,
-      "importance_score": 0.8498,
+      "score": 0.849,
+      "importance": 0.5989,
+      "importance_score": 0.849,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9987,
+        "recency": 0.9946,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1237,14 +1355,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8495,
-      "importance": 0.5995,
-      "importance_score": 0.8495,
+      "score": 0.8487,
+      "importance": 0.5987,
+      "importance_score": 0.8487,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9974,
+        "recency": 0.9933,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1296,14 +1414,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.849,
-      "importance": 0.599,
-      "importance_score": 0.849,
+      "score": 0.8482,
+      "importance": 0.5982,
+      "importance_score": 0.8482,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.995,
+        "recency": 0.9909,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1355,14 +1473,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8485,
-      "importance": 0.5984,
-      "importance_score": 0.8485,
+      "score": 0.8477,
+      "importance": 0.5976,
+      "importance_score": 0.8477,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9921,
+        "recency": 0.988,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1377,65 +1495,6 @@
         "url": "https://boutiquehotelnews.com/news/industry/far-east-hospitality/?utm_source=rss&utm_medium=rss&utm_campaign=far-east-hospitality",
         "source": "Boutique Hotel News",
         "source_name": "Boutique Hotel News"
-      }
-    },
-    {
-      "story_id": "story_0abaa1a2096e",
-      "title": "NYC’s Plaza Hotel to close in 2027 for multiyear facade restoration",
-      "url": "https://www.hoteldive.com/news/plaza-hotel-nyc-closure-facade-restoration/833144/",
-      "primary_url": "https://www.hoteldive.com/news/plaza-hotel-nyc-closure-facade-restoration/833144/",
-      "source": "Hotel Dive",
-      "source_name": "Hotel Dive",
-      "sources": [
-        {
-          "id": "hotelitem_0abaa1a2096e",
-          "title": "NYC’s Plaza Hotel to close in 2027 for multiyear facade restoration",
-          "url": "https://www.hoteldive.com/news/plaza-hotel-nyc-closure-facade-restoration/833144/",
-          "source": "Hotel Dive",
-          "source_name": "Hotel Dive",
-          "site_id": "hoteldive",
-          "published_at": "2026-10-15T17:47:11Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hotel Dive"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_0abaa1a2096e",
-          "title": "NYC’s Plaza Hotel to close in 2027 for multiyear facade restoration",
-          "url": "https://www.hoteldive.com/news/plaza-hotel-nyc-closure-facade-restoration/833144/",
-          "source": "Hotel Dive",
-          "source_name": "Hotel Dive",
-          "site_id": "hoteldive",
-          "published_at": "2026-10-15T17:47:11Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8351,
-      "importance": 0.569,
-      "importance_score": 0.8351,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.8449,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-15T17:47:11Z",
-      "latest_at": "2026-10-15T17:47:11Z",
-      "primary_item": {
-        "id": "hotelitem_0abaa1a2096e",
-        "title": "NYC’s Plaza Hotel to close in 2027 for multiyear facade restoration",
-        "url": "https://www.hoteldive.com/news/plaza-hotel-nyc-closure-facade-restoration/833144/",
-        "source": "Hotel Dive",
-        "source_name": "Hotel Dive"
       }
     },
     {
@@ -1473,14 +1532,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8223,
-      "importance": 0.5603,
-      "importance_score": 0.8223,
+      "score": 0.8211,
+      "importance": 0.5594,
+      "importance_score": 0.8211,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8013,
+        "recency": 0.7972,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1532,14 +1591,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8194,
-      "importance": 0.5994,
-      "importance_score": 0.8194,
+      "score": 0.8186,
+      "importance": 0.5986,
+      "importance_score": 0.8186,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9971,
+        "recency": 0.993,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1591,14 +1650,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8156,
-      "importance": 0.598,
-      "importance_score": 0.8156,
+      "score": 0.8148,
+      "importance": 0.5972,
+      "importance_score": 0.8148,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.99,
+        "recency": 0.9859,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1630,7 +1689,7 @@
           "source": "Agoda",
           "source_name": "Agoda",
           "site_id": "agoda_press",
-          "published_at": "2026-10-22T17:14:51.760464Z"
+          "published_at": "2026-10-22T21:40:43.919271Z"
         }
       ],
       "source_count": 1,
@@ -1645,7 +1704,7 @@
           "source": "Agoda",
           "source_name": "Agoda",
           "site_id": "agoda_press",
-          "published_at": "2026-10-22T17:14:51.760464Z"
+          "published_at": "2026-10-22T21:40:43.919271Z"
         }
       ],
       "item_count": 1,
@@ -1664,8 +1723,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-22T17:14:51.760464Z",
-      "latest_at": "2026-10-22T17:14:51.760464Z",
+      "earliest_at": "2026-10-22T21:40:43.919271Z",
+      "latest_at": "2026-10-22T21:40:43.919271Z",
       "primary_item": {
         "id": "hotelitem_69c4ef2b3d80",
         "title": "Agoda Partners Kaohsiung City Government to  ... Digital travel platform Agoda and the Kaohsiung City Government have signed a Memorandum of Understand ... September 11, 2026 / Partnership",
@@ -1689,7 +1748,7 @@
           "source": "Agoda",
           "source_name": "Agoda",
           "site_id": "agoda_press",
-          "published_at": "2026-10-22T17:14:51.760464Z"
+          "published_at": "2026-10-22T21:40:43.919271Z"
         }
       ],
       "source_count": 1,
@@ -1704,7 +1763,7 @@
           "source": "Agoda",
           "source_name": "Agoda",
           "site_id": "agoda_press",
-          "published_at": "2026-10-22T17:14:51.760464Z"
+          "published_at": "2026-10-22T21:40:43.919271Z"
         }
       ],
       "item_count": 1,
@@ -1723,71 +1782,12 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-22T17:14:51.760464Z",
-      "latest_at": "2026-10-22T17:14:51.760464Z",
+      "earliest_at": "2026-10-22T21:40:43.919271Z",
+      "latest_at": "2026-10-22T21:40:43.919271Z",
       "primary_item": {
         "id": "hotelitem_e8ae1de14799",
         "title": "Agoda Partners with Marina Bay Sands on Besp ... The custom digital storefront brings together Marina Bay Sands’ rooms, suites and resort experiences,  ... October 1, 2026 / Partnership",
         "url": "https://www.agoda.com/press/agoda-partners-with-marina-bay-sands-on-bespoke-flagship-store-for-experience-led-travel/",
-        "source": "Agoda",
-        "source_name": "Agoda"
-      }
-    },
-    {
-      "story_id": "story_aa68e9432a35",
-      "title": "Agoda Reveals Growing Asian Appetite for Ger ... As the 191st Oktoberfest draws to a close, Asia’s appetite for Germany’s world-famous beer festival ap ... October 2, 2026 / Travel Trends",
-      "url": "https://www.agoda.com/press/agoda-reveals-growing-asian-appetite-for-germanys-oktoberfest/",
-      "primary_url": "https://www.agoda.com/press/agoda-reveals-growing-asian-appetite-for-germanys-oktoberfest/",
-      "source": "Agoda",
-      "source_name": "Agoda",
-      "sources": [
-        {
-          "id": "hotelitem_aa68e9432a35",
-          "title": "Agoda Reveals Growing Asian Appetite for Ger ... As the 191st Oktoberfest draws to a close, Asia’s appetite for Germany’s world-famous beer festival ap ... October 2, 2026 / Travel Trends",
-          "url": "https://www.agoda.com/press/agoda-reveals-growing-asian-appetite-for-germanys-oktoberfest/",
-          "source": "Agoda",
-          "source_name": "Agoda",
-          "site_id": "agoda_press",
-          "published_at": "2026-10-22T17:14:51.760464Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Agoda"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_aa68e9432a35",
-          "title": "Agoda Reveals Growing Asian Appetite for Ger ... As the 191st Oktoberfest draws to a close, Asia’s appetite for Germany’s world-famous beer festival ap ... October 2, 2026 / Travel Trends",
-          "url": "https://www.agoda.com/press/agoda-reveals-growing-asian-appetite-for-germanys-oktoberfest/",
-          "source": "Agoda",
-          "source_name": "Agoda",
-          "site_id": "agoda_press",
-          "published_at": "2026-10-22T17:14:51.760464Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8125,
-      "importance": 0.6,
-      "importance_score": 0.8125,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-22T17:14:51.760464Z",
-      "latest_at": "2026-10-22T17:14:51.760464Z",
-      "primary_item": {
-        "id": "hotelitem_aa68e9432a35",
-        "title": "Agoda Reveals Growing Asian Appetite for Ger ... As the 191st Oktoberfest draws to a close, Asia’s appetite for Germany’s world-famous beer festival ap ... October 2, 2026 / Travel Trends",
-        "url": "https://www.agoda.com/press/agoda-reveals-growing-asian-appetite-for-germanys-oktoberfest/",
         "source": "Agoda",
         "source_name": "Agoda"
       }
