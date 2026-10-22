@@ -1,67 +1,8 @@
 {
-  "generated_at": "2026-10-22T11:58:59.135491Z",
+  "generated_at": "2026-10-22T17:14:51.760464Z",
   "window_hours": 1080,
   "total_items": 30,
   "items": [
-    {
-      "story_id": "story_e5d36ff689af",
-      "title": "When the holiday season ends, your guest’s value doesn’t",
-      "url": "https://insights.ehotelier.com/insights/2026/10/22/when-the-holiday-season-ends-your-guests-value-doesnt/?utm_source=rss&utm_medium=rss&utm_campaign=when-the-holiday-season-ends-your-guests-value-doesnt",
-      "primary_url": "https://insights.ehotelier.com/insights/2026/10/22/when-the-holiday-season-ends-your-guests-value-doesnt/?utm_source=rss&utm_medium=rss&utm_campaign=when-the-holiday-season-ends-your-guests-value-doesnt",
-      "source": "eHotelier",
-      "source_name": "eHotelier",
-      "sources": [
-        {
-          "id": "hotelitem_e5d36ff689af",
-          "title": "When the holiday season ends, your guest’s value doesn’t",
-          "url": "https://insights.ehotelier.com/insights/2026/10/22/when-the-holiday-season-ends-your-guests-value-doesnt/?utm_source=rss&utm_medium=rss&utm_campaign=when-the-holiday-season-ends-your-guests-value-doesnt",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-10-22T01:10:33Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "eHotelier"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_e5d36ff689af",
-          "title": "When the holiday season ends, your guest’s value doesn’t",
-          "url": "https://insights.ehotelier.com/insights/2026/10/22/when-the-holiday-season-ends-your-guests-value-doesnt/?utm_source=rss&utm_medium=rss&utm_campaign=when-the-holiday-season-ends-your-guests-value-doesnt",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-10-22T01:10:33Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.9531,
-      "importance": 0.598,
-      "importance_score": 0.9531,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.99,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-22T01:10:33Z",
-      "latest_at": "2026-10-22T01:10:33Z",
-      "primary_item": {
-        "id": "hotelitem_e5d36ff689af",
-        "title": "When the holiday season ends, your guest’s value doesn’t",
-        "url": "https://insights.ehotelier.com/insights/2026/10/22/when-the-holiday-season-ends-your-guests-value-doesnt/?utm_source=rss&utm_medium=rss&utm_campaign=when-the-holiday-season-ends-your-guests-value-doesnt",
-        "source": "eHotelier",
-        "source_name": "eHotelier"
-      }
-    },
     {
       "story_id": "story_5f8dd6004447",
       "title": "Kieran Cain appointed Vice President of Marketing & Communications at Stonebridge",
@@ -97,14 +38,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.953,
-      "importance": 0.5979,
-      "importance_score": 0.953,
+      "score": 0.9521,
+      "importance": 0.5969,
+      "importance_score": 0.9521,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9896,
+        "recency": 0.9847,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -117,6 +58,65 @@
         "id": "hotelitem_5f8dd6004447",
         "title": "Kieran Cain appointed Vice President of Marketing & Communications at Stonebridge",
         "url": "https://insights.ehotelier.com/people/2026/10/22/kieran-cain-appointed-vice-president-of-marketing-communications-at-stonebridge/?utm_source=rss&utm_medium=rss&utm_campaign=kieran-cain-appointed-vice-president-of-marketing-communications-at-stonebridge",
+        "source": "eHotelier",
+        "source_name": "eHotelier"
+      }
+    },
+    {
+      "story_id": "story_e5d36ff689af",
+      "title": "When the holiday season ends, your guest’s value doesn’t",
+      "url": "https://insights.ehotelier.com/insights/2026/10/22/when-the-holiday-season-ends-your-guests-value-doesnt/?utm_source=rss&utm_medium=rss&utm_campaign=when-the-holiday-season-ends-your-guests-value-doesnt",
+      "primary_url": "https://insights.ehotelier.com/insights/2026/10/22/when-the-holiday-season-ends-your-guests-value-doesnt/?utm_source=rss&utm_medium=rss&utm_campaign=when-the-holiday-season-ends-your-guests-value-doesnt",
+      "source": "eHotelier",
+      "source_name": "eHotelier",
+      "sources": [
+        {
+          "id": "hotelitem_e5d36ff689af",
+          "title": "When the holiday season ends, your guest’s value doesn’t",
+          "url": "https://insights.ehotelier.com/insights/2026/10/22/when-the-holiday-season-ends-your-guests-value-doesnt/?utm_source=rss&utm_medium=rss&utm_campaign=when-the-holiday-season-ends-your-guests-value-doesnt",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-10-22T01:10:33Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "eHotelier"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_e5d36ff689af",
+          "title": "When the holiday season ends, your guest’s value doesn’t",
+          "url": "https://insights.ehotelier.com/insights/2026/10/22/when-the-holiday-season-ends-your-guests-value-doesnt/?utm_source=rss&utm_medium=rss&utm_campaign=when-the-holiday-season-ends-your-guests-value-doesnt",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-10-22T01:10:33Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.9521,
+      "importance": 0.597,
+      "importance_score": 0.9521,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9851,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-22T01:10:33Z",
+      "latest_at": "2026-10-22T01:10:33Z",
+      "primary_item": {
+        "id": "hotelitem_e5d36ff689af",
+        "title": "When the holiday season ends, your guest’s value doesn’t",
+        "url": "https://insights.ehotelier.com/insights/2026/10/22/when-the-holiday-season-ends-your-guests-value-doesnt/?utm_source=rss&utm_medium=rss&utm_campaign=when-the-holiday-season-ends-your-guests-value-doesnt",
         "source": "eHotelier",
         "source_name": "eHotelier"
       }
@@ -156,14 +156,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9511,
-      "importance": 0.5959,
-      "importance_score": 0.9511,
+      "score": 0.9501,
+      "importance": 0.595,
+      "importance_score": 0.9501,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9797,
+        "recency": 0.9748,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -215,14 +215,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9467,
-      "importance": 0.5914,
-      "importance_score": 0.9467,
+      "score": 0.9457,
+      "importance": 0.5904,
+      "importance_score": 0.9457,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9569,
+        "recency": 0.952,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -274,14 +274,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9429,
-      "importance": 0.5875,
-      "importance_score": 0.9429,
+      "score": 0.942,
+      "importance": 0.5865,
+      "importance_score": 0.942,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9374,
+        "recency": 0.9325,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -333,14 +333,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.936,
-      "importance": 0.5959,
-      "importance_score": 0.936,
+      "score": 0.9351,
+      "importance": 0.5949,
+      "importance_score": 0.9351,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9794,
+        "recency": 0.9746,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -392,14 +392,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9289,
-      "importance": 0.5989,
-      "importance_score": 0.9289,
+      "score": 0.928,
+      "importance": 0.5979,
+      "importance_score": 0.928,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9944,
+        "recency": 0.9895,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -451,14 +451,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.919,
-      "importance": 0.5963,
-      "importance_score": 0.919,
+      "score": 0.918,
+      "importance": 0.5954,
+      "importance_score": 0.918,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9816,
+        "recency": 0.9768,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -510,14 +510,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9039,
-      "importance": 0.5647,
-      "importance_score": 0.9039,
+      "score": 0.9025,
+      "importance": 0.5638,
+      "importance_score": 0.9025,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8236,
+        "recency": 0.8188,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -549,7 +549,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-10-22T11:58:59.135491Z"
+          "published_at": "2026-10-22T17:14:51.760464Z"
         }
       ],
       "source_count": 1,
@@ -564,7 +564,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-10-22T11:58:59.135491Z"
+          "published_at": "2026-10-22T17:14:51.760464Z"
         }
       ],
       "item_count": 1,
@@ -583,8 +583,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-22T11:58:59.135491Z",
-      "latest_at": "2026-10-22T11:58:59.135491Z",
+      "earliest_at": "2026-10-22T17:14:51.760464Z",
+      "latest_at": "2026-10-22T17:14:51.760464Z",
       "primary_item": {
         "id": "hotelitem_06f191e24d38",
         "title": "文旅惠报|复星国际申请分拆Club Med在港上市；南京商旅上半年营收3.66亿元",
@@ -628,14 +628,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.863,
-      "importance": 0.598,
-      "importance_score": 0.863,
+      "score": 0.8621,
+      "importance": 0.597,
+      "importance_score": 0.8621,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9898,
+        "recency": 0.9849,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -667,7 +667,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-10-22T11:58:59.135491Z"
+          "published_at": "2026-10-22T17:14:51.760464Z"
         },
         {
           "id": "hotelitem_c7c15b7680c9",
@@ -676,7 +676,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-10-22T11:58:59.135491Z"
+          "published_at": "2026-10-22T17:14:51.760464Z"
         }
       ],
       "source_count": 2,
@@ -691,7 +691,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-10-22T11:58:59.135491Z"
+          "published_at": "2026-10-22T17:14:51.760464Z"
         },
         {
           "id": "hotelitem_c7c15b7680c9",
@@ -700,7 +700,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-10-22T11:58:59.135491Z"
+          "published_at": "2026-10-22T17:14:51.760464Z"
         }
       ],
       "item_count": 2,
@@ -720,8 +720,8 @@
         "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-22T11:58:59.135491Z",
-      "latest_at": "2026-10-22T11:58:59.135491Z",
+      "earliest_at": "2026-10-22T17:14:51.760464Z",
+      "latest_at": "2026-10-22T17:14:51.760464Z",
       "primary_item": {
         "id": "hotelitem_d4370964909c",
         "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
@@ -745,7 +745,7 @@
           "source": "迈点研究院",
           "source_name": "迈点研究院",
           "site_id": "meadin",
-          "published_at": "2026-10-22T11:58:59.135491Z"
+          "published_at": "2026-10-22T17:14:51.760464Z"
         }
       ],
       "source_count": 1,
@@ -760,7 +760,7 @@
           "source": "迈点研究院",
           "source_name": "迈点研究院",
           "site_id": "meadin",
-          "published_at": "2026-10-22T11:58:59.135491Z"
+          "published_at": "2026-10-22T17:14:51.760464Z"
         }
       ],
       "item_count": 1,
@@ -779,8 +779,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-22T11:58:59.135491Z",
-      "latest_at": "2026-10-22T11:58:59.135491Z",
+      "earliest_at": "2026-10-22T17:14:51.760464Z",
+      "latest_at": "2026-10-22T17:14:51.760464Z",
       "primary_item": {
         "id": "hotelitem_d68f3b736a75",
         "title": "世茂集团27亿港元出售中国香港两间喜来登酒店",
@@ -804,7 +804,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-10-22T11:58:59.135491Z"
+          "published_at": "2026-10-22T17:14:51.760464Z"
         }
       ],
       "source_count": 1,
@@ -819,7 +819,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-10-22T11:58:59.135491Z"
+          "published_at": "2026-10-22T17:14:51.760464Z"
         }
       ],
       "item_count": 1,
@@ -838,8 +838,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-22T11:58:59.135491Z",
-      "latest_at": "2026-10-22T11:58:59.135491Z",
+      "earliest_at": "2026-10-22T17:14:51.760464Z",
+      "latest_at": "2026-10-22T17:14:51.760464Z",
       "primary_item": {
         "id": "hotelitem_e4ce0593c384",
         "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
@@ -863,7 +863,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-10-22T11:58:59.135491Z"
+          "published_at": "2026-10-22T17:14:51.760464Z"
         }
       ],
       "source_count": 1,
@@ -878,7 +878,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-10-22T11:58:59.135491Z"
+          "published_at": "2026-10-22T17:14:51.760464Z"
         }
       ],
       "item_count": 1,
@@ -897,8 +897,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-22T11:58:59.135491Z",
-      "latest_at": "2026-10-22T11:58:59.135491Z",
+      "earliest_at": "2026-10-22T17:14:51.760464Z",
+      "latest_at": "2026-10-22T17:14:51.760464Z",
       "primary_item": {
         "id": "hotelitem_b0f4757ffc95",
         "title": "文化和旅游部 中国气象局联合发布2026年国庆...",
@@ -922,7 +922,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-10-22T11:58:59.135491Z"
+          "published_at": "2026-10-22T17:14:51.760464Z"
         }
       ],
       "source_count": 1,
@@ -937,7 +937,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-10-22T11:58:59.135491Z"
+          "published_at": "2026-10-22T17:14:51.760464Z"
         }
       ],
       "item_count": 1,
@@ -956,8 +956,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-22T11:58:59.135491Z",
-      "latest_at": "2026-10-22T11:58:59.135491Z",
+      "earliest_at": "2026-10-22T17:14:51.760464Z",
+      "latest_at": "2026-10-22T17:14:51.760464Z",
       "primary_item": {
         "id": "hotelitem_4adba65c20e7",
         "title": "文化和旅游部党组召开会议坚决拥护党中央对...",
@@ -981,7 +981,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-10-22T11:58:59.135491Z"
+          "published_at": "2026-10-22T17:14:51.760464Z"
         }
       ],
       "source_count": 1,
@@ -996,7 +996,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-10-22T11:58:59.135491Z"
+          "published_at": "2026-10-22T17:14:51.760464Z"
         }
       ],
       "item_count": 1,
@@ -1015,8 +1015,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-22T11:58:59.135491Z",
-      "latest_at": "2026-10-22T11:58:59.135491Z",
+      "earliest_at": "2026-10-22T17:14:51.760464Z",
+      "latest_at": "2026-10-22T17:14:51.760464Z",
       "primary_item": {
         "id": "hotelitem_e63a36930397",
         "title": "文化和旅游部印发《艺术发展“十五五”规划》",
@@ -1060,14 +1060,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8529,
-      "importance": 0.5874,
-      "importance_score": 0.8529,
+      "score": 0.852,
+      "importance": 0.5865,
+      "importance_score": 0.852,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9372,
+        "recency": 0.9324,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1119,14 +1119,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8525,
-      "importance": 0.587,
-      "importance_score": 0.8525,
+      "score": 0.8515,
+      "importance": 0.586,
+      "importance_score": 0.8515,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9351,
+        "recency": 0.9302,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1141,6 +1141,183 @@
         "url": "https://www.hoteldive.com/news/hotel-asset-managers-anticipate-revpar-growth-2026/833279/",
         "source": "Hotel Dive",
         "source_name": "Hotel Dive"
+      }
+    },
+    {
+      "story_id": "story_4c9d7c27b35e",
+      "title": "Extended Stay America Announces Conversion of San Antonio Hotel",
+      "url": "https://lodgingmagazine.com/extended-stay-america-announces-conversion-of-san-antonio-hotel/",
+      "primary_url": "https://lodgingmagazine.com/extended-stay-america-announces-conversion-of-san-antonio-hotel/",
+      "source": "Lodging Magazine",
+      "source_name": "Lodging Magazine",
+      "sources": [
+        {
+          "id": "hotelitem_4c9d7c27b35e",
+          "title": "Extended Stay America Announces Conversion of San Antonio Hotel",
+          "url": "https://lodgingmagazine.com/extended-stay-america-announces-conversion-of-san-antonio-hotel/",
+          "source": "Lodging Magazine",
+          "source_name": "Lodging Magazine",
+          "site_id": "lodgingmag",
+          "published_at": "2026-10-22T15:52:50Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Lodging Magazine"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_4c9d7c27b35e",
+          "title": "Extended Stay America Announces Conversion of San Antonio Hotel",
+          "url": "https://lodgingmagazine.com/extended-stay-america-announces-conversion-of-san-antonio-hotel/",
+          "source": "Lodging Magazine",
+          "source_name": "Lodging Magazine",
+          "site_id": "lodgingmag",
+          "published_at": "2026-10-22T15:52:50Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8498,
+      "importance": 0.5997,
+      "importance_score": 0.8498,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9987,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-22T15:52:50Z",
+      "latest_at": "2026-10-22T15:52:50Z",
+      "primary_item": {
+        "id": "hotelitem_4c9d7c27b35e",
+        "title": "Extended Stay America Announces Conversion of San Antonio Hotel",
+        "url": "https://lodgingmagazine.com/extended-stay-america-announces-conversion-of-san-antonio-hotel/",
+        "source": "Lodging Magazine",
+        "source_name": "Lodging Magazine"
+      }
+    },
+    {
+      "story_id": "story_3396b3df7c4f",
+      "title": "CoStar: U.S. Hotel Industry Reports Positive Year-Over-Year Comparisons",
+      "url": "https://lodgingmagazine.com/costar-u-s-hotel-industry-reports-positive-year-over-year-comparisons-oct-22/",
+      "primary_url": "https://lodgingmagazine.com/costar-u-s-hotel-industry-reports-positive-year-over-year-comparisons-oct-22/",
+      "source": "Lodging Magazine",
+      "source_name": "Lodging Magazine",
+      "sources": [
+        {
+          "id": "hotelitem_3396b3df7c4f",
+          "title": "CoStar: U.S. Hotel Industry Reports Positive Year-Over-Year Comparisons",
+          "url": "https://lodgingmagazine.com/costar-u-s-hotel-industry-reports-positive-year-over-year-comparisons-oct-22/",
+          "source": "Lodging Magazine",
+          "source_name": "Lodging Magazine",
+          "site_id": "lodgingmag",
+          "published_at": "2026-10-22T14:24:44Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Lodging Magazine"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_3396b3df7c4f",
+          "title": "CoStar: U.S. Hotel Industry Reports Positive Year-Over-Year Comparisons",
+          "url": "https://lodgingmagazine.com/costar-u-s-hotel-industry-reports-positive-year-over-year-comparisons-oct-22/",
+          "source": "Lodging Magazine",
+          "source_name": "Lodging Magazine",
+          "site_id": "lodgingmag",
+          "published_at": "2026-10-22T14:24:44Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8495,
+      "importance": 0.5995,
+      "importance_score": 0.8495,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9974,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-22T14:24:44Z",
+      "latest_at": "2026-10-22T14:24:44Z",
+      "primary_item": {
+        "id": "hotelitem_3396b3df7c4f",
+        "title": "CoStar: U.S. Hotel Industry Reports Positive Year-Over-Year Comparisons",
+        "url": "https://lodgingmagazine.com/costar-u-s-hotel-industry-reports-positive-year-over-year-comparisons-oct-22/",
+        "source": "Lodging Magazine",
+        "source_name": "Lodging Magazine"
+      }
+    },
+    {
+      "story_id": "story_40a0366a830a",
+      "title": "PriceLabs Research: Independent Hotels Face Growing Short-Term Rental Competition",
+      "url": "https://lodgingmagazine.com/pricelabs-research-independent-hotels-face-growing-short-term-rental-competition/",
+      "primary_url": "https://lodgingmagazine.com/pricelabs-research-independent-hotels-face-growing-short-term-rental-competition/",
+      "source": "Lodging Magazine",
+      "source_name": "Lodging Magazine",
+      "sources": [
+        {
+          "id": "hotelitem_40a0366a830a",
+          "title": "PriceLabs Research: Independent Hotels Face Growing Short-Term Rental Competition",
+          "url": "https://lodgingmagazine.com/pricelabs-research-independent-hotels-face-growing-short-term-rental-competition/",
+          "source": "Lodging Magazine",
+          "source_name": "Lodging Magazine",
+          "site_id": "lodgingmag",
+          "published_at": "2026-10-22T11:52:11Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Lodging Magazine"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_40a0366a830a",
+          "title": "PriceLabs Research: Independent Hotels Face Growing Short-Term Rental Competition",
+          "url": "https://lodgingmagazine.com/pricelabs-research-independent-hotels-face-growing-short-term-rental-competition/",
+          "source": "Lodging Magazine",
+          "source_name": "Lodging Magazine",
+          "site_id": "lodgingmag",
+          "published_at": "2026-10-22T11:52:11Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.849,
+      "importance": 0.599,
+      "importance_score": 0.849,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.995,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-22T11:52:11Z",
+      "latest_at": "2026-10-22T11:52:11Z",
+      "primary_item": {
+        "id": "hotelitem_40a0366a830a",
+        "title": "PriceLabs Research: Independent Hotels Face Growing Short-Term Rental Competition",
+        "url": "https://lodgingmagazine.com/pricelabs-research-independent-hotels-face-growing-short-term-rental-competition/",
+        "source": "Lodging Magazine",
+        "source_name": "Lodging Magazine"
       }
     },
     {
@@ -1178,14 +1355,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8494,
-      "importance": 0.5994,
-      "importance_score": 0.8494,
+      "score": 0.8485,
+      "importance": 0.5984,
+      "importance_score": 0.8485,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.997,
+        "recency": 0.9921,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1200,124 +1377,6 @@
         "url": "https://boutiquehotelnews.com/news/industry/far-east-hospitality/?utm_source=rss&utm_medium=rss&utm_campaign=far-east-hospitality",
         "source": "Boutique Hotel News",
         "source_name": "Boutique Hotel News"
-      }
-    },
-    {
-      "story_id": "story_97b215b0b8e1",
-      "title": "Strategy and Service: Stonebridge Develops Its Luxury Portfolio",
-      "url": "https://lodgingmagazine.com/strategy-and-service-stonebridge-develops-its-luxury-portfolio/",
-      "primary_url": "https://lodgingmagazine.com/strategy-and-service-stonebridge-develops-its-luxury-portfolio/",
-      "source": "Lodging Magazine",
-      "source_name": "Lodging Magazine",
-      "sources": [
-        {
-          "id": "hotelitem_97b215b0b8e1",
-          "title": "Strategy and Service: Stonebridge Develops Its Luxury Portfolio",
-          "url": "https://lodgingmagazine.com/strategy-and-service-stonebridge-develops-its-luxury-portfolio/",
-          "source": "Lodging Magazine",
-          "source_name": "Lodging Magazine",
-          "site_id": "lodgingmag",
-          "published_at": "2026-10-21T13:22:02Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Lodging Magazine"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_97b215b0b8e1",
-          "title": "Strategy and Service: Stonebridge Develops Its Luxury Portfolio",
-          "url": "https://lodgingmagazine.com/strategy-and-service-stonebridge-develops-its-luxury-portfolio/",
-          "source": "Lodging Magazine",
-          "source_name": "Lodging Magazine",
-          "site_id": "lodgingmag",
-          "published_at": "2026-10-21T13:22:02Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.846,
-      "importance": 0.5958,
-      "importance_score": 0.846,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9791,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-21T13:22:02Z",
-      "latest_at": "2026-10-21T13:22:02Z",
-      "primary_item": {
-        "id": "hotelitem_97b215b0b8e1",
-        "title": "Strategy and Service: Stonebridge Develops Its Luxury Portfolio",
-        "url": "https://lodgingmagazine.com/strategy-and-service-stonebridge-develops-its-luxury-portfolio/",
-        "source": "Lodging Magazine",
-        "source_name": "Lodging Magazine"
-      }
-    },
-    {
-      "story_id": "story_aa3ee0892301",
-      "title": "JLL Arranges Sale of Ocean Point Inn in East Boothbay, Maine",
-      "url": "https://lodgingmagazine.com/jll-arranges-sale-of-ocean-point-inn-in-east-boothbay-maine/",
-      "primary_url": "https://lodgingmagazine.com/jll-arranges-sale-of-ocean-point-inn-in-east-boothbay-maine/",
-      "source": "Lodging Magazine",
-      "source_name": "Lodging Magazine",
-      "sources": [
-        {
-          "id": "hotelitem_aa3ee0892301",
-          "title": "JLL Arranges Sale of Ocean Point Inn in East Boothbay, Maine",
-          "url": "https://lodgingmagazine.com/jll-arranges-sale-of-ocean-point-inn-in-east-boothbay-maine/",
-          "source": "Lodging Magazine",
-          "source_name": "Lodging Magazine",
-          "site_id": "lodgingmag",
-          "published_at": "2026-10-20T16:17:40Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Lodging Magazine"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_aa3ee0892301",
-          "title": "JLL Arranges Sale of Ocean Point Inn in East Boothbay, Maine",
-          "url": "https://lodgingmagazine.com/jll-arranges-sale-of-ocean-point-inn-in-east-boothbay-maine/",
-          "source": "Lodging Magazine",
-          "source_name": "Lodging Magazine",
-          "site_id": "lodgingmag",
-          "published_at": "2026-10-20T16:17:40Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8422,
-      "importance": 0.5919,
-      "importance_score": 0.8422,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9595,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-20T16:17:40Z",
-      "latest_at": "2026-10-20T16:17:40Z",
-      "primary_item": {
-        "id": "hotelitem_aa3ee0892301",
-        "title": "JLL Arranges Sale of Ocean Point Inn in East Boothbay, Maine",
-        "url": "https://lodgingmagazine.com/jll-arranges-sale-of-ocean-point-inn-in-east-boothbay-maine/",
-        "source": "Lodging Magazine",
-        "source_name": "Lodging Magazine"
       }
     },
     {
@@ -1355,14 +1414,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.836,
-      "importance": 0.57,
-      "importance_score": 0.836,
+      "score": 0.8351,
+      "importance": 0.569,
+      "importance_score": 0.8351,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8498,
+        "recency": 0.8449,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1414,14 +1473,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8238,
-      "importance": 0.5612,
-      "importance_score": 0.8238,
+      "score": 0.8223,
+      "importance": 0.5603,
+      "importance_score": 0.8223,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8062,
+        "recency": 0.8013,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1436,6 +1495,65 @@
         "url": "https://www.hotelmanagement.net/resource/hidden-costs-hotels-bed-bugs-put-more-rooms-risk",
         "source": "Hotel Management",
         "source_name": "Hotel Management"
+      }
+    },
+    {
+      "story_id": "story_dbb62ace0020",
+      "title": "Hilton offers loyalty members option to pay with points during digital checkout",
+      "url": "https://www.hoteldive.com/news/hilton-loyalty-members-pay-with-points-digital-checkout/833708/",
+      "primary_url": "https://www.hoteldive.com/news/hilton-loyalty-members-pay-with-points-digital-checkout/833708/",
+      "source": "Hotel Dive",
+      "source_name": "Hotel Dive",
+      "sources": [
+        {
+          "id": "hotelitem_dbb62ace0020",
+          "title": "Hilton offers loyalty members option to pay with points during digital checkout",
+          "url": "https://www.hoteldive.com/news/hilton-loyalty-members-pay-with-points-digital-checkout/833708/",
+          "source": "Hotel Dive",
+          "source_name": "Hotel Dive",
+          "site_id": "hoteldive",
+          "published_at": "2026-10-22T14:05:49Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hotel Dive"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_dbb62ace0020",
+          "title": "Hilton offers loyalty members option to pay with points during digital checkout",
+          "url": "https://www.hoteldive.com/news/hilton-loyalty-members-pay-with-points-digital-checkout/833708/",
+          "source": "Hotel Dive",
+          "source_name": "Hotel Dive",
+          "site_id": "hoteldive",
+          "published_at": "2026-10-22T14:05:49Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8194,
+      "importance": 0.5994,
+      "importance_score": 0.8194,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9971,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-22T14:05:49Z",
+      "latest_at": "2026-10-22T14:05:49Z",
+      "primary_item": {
+        "id": "hotelitem_dbb62ace0020",
+        "title": "Hilton offers loyalty members option to pay with points during digital checkout",
+        "url": "https://www.hoteldive.com/news/hilton-loyalty-members-pay-with-points-digital-checkout/833708/",
+        "source": "Hotel Dive",
+        "source_name": "Hotel Dive"
       }
     },
     {
@@ -1473,14 +1591,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8165,
-      "importance": 0.599,
-      "importance_score": 0.8165,
+      "score": 0.8156,
+      "importance": 0.598,
+      "importance_score": 0.8156,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9949,
+        "recency": 0.99,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1498,124 +1616,6 @@
       }
     },
     {
-      "story_id": "story_bc95838a91a2",
-      "title": "Kempinski to open Augustine Hotel Prague following renovation of 800-year-old monastery",
-      "url": "https://boutiquehotelnews.com/news/kempinski-to-open-augustine-hotel-prague-following-renovation-of-800-year-old-monastery/?utm_source=rss&utm_medium=rss&utm_campaign=kempinski-to-open-augustine-hotel-prague-following-renovation-of-800-year-old-monastery",
-      "primary_url": "https://boutiquehotelnews.com/news/kempinski-to-open-augustine-hotel-prague-following-renovation-of-800-year-old-monastery/?utm_source=rss&utm_medium=rss&utm_campaign=kempinski-to-open-augustine-hotel-prague-following-renovation-of-800-year-old-monastery",
-      "source": "Boutique Hotel News",
-      "source_name": "Boutique Hotel News",
-      "sources": [
-        {
-          "id": "hotelitem_bc95838a91a2",
-          "title": "Kempinski to open Augustine Hotel Prague following renovation of 800-year-old monastery",
-          "url": "https://boutiquehotelnews.com/news/kempinski-to-open-augustine-hotel-prague-following-renovation-of-800-year-old-monastery/?utm_source=rss&utm_medium=rss&utm_campaign=kempinski-to-open-augustine-hotel-prague-following-renovation-of-800-year-old-monastery",
-          "source": "Boutique Hotel News",
-          "source_name": "Boutique Hotel News",
-          "site_id": "boutiquehotel",
-          "published_at": "2026-10-14T13:13:26Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Boutique Hotel News"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_bc95838a91a2",
-          "title": "Kempinski to open Augustine Hotel Prague following renovation of 800-year-old monastery",
-          "url": "https://boutiquehotelnews.com/news/kempinski-to-open-augustine-hotel-prague-following-renovation-of-800-year-old-monastery/?utm_source=rss&utm_medium=rss&utm_campaign=kempinski-to-open-augustine-hotel-prague-following-renovation-of-800-year-old-monastery",
-          "source": "Boutique Hotel News",
-          "source_name": "Boutique Hotel News",
-          "site_id": "boutiquehotel",
-          "published_at": "2026-10-14T13:13:26Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8138,
-      "importance": 0.5647,
-      "importance_score": 0.8138,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.8234,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-14T13:13:26Z",
-      "latest_at": "2026-10-14T13:13:26Z",
-      "primary_item": {
-        "id": "hotelitem_bc95838a91a2",
-        "title": "Kempinski to open Augustine Hotel Prague following renovation of 800-year-old monastery",
-        "url": "https://boutiquehotelnews.com/news/kempinski-to-open-augustine-hotel-prague-following-renovation-of-800-year-old-monastery/?utm_source=rss&utm_medium=rss&utm_campaign=kempinski-to-open-augustine-hotel-prague-following-renovation-of-800-year-old-monastery",
-        "source": "Boutique Hotel News",
-        "source_name": "Boutique Hotel News"
-      }
-    },
-    {
-      "story_id": "story_1c2b90d57b97",
-      "title": "Relais & Châteaux introduces MyImpact sustainability platform to reduce carbon emission",
-      "url": "https://boutiquehotelnews.com/news/relais-chateaux-introduces-myimpact-sustainability-platform-to-reduce-carbon-emission/?utm_source=rss&utm_medium=rss&utm_campaign=relais-chateaux-introduces-myimpact-sustainability-platform-to-reduce-carbon-emission",
-      "primary_url": "https://boutiquehotelnews.com/news/relais-chateaux-introduces-myimpact-sustainability-platform-to-reduce-carbon-emission/?utm_source=rss&utm_medium=rss&utm_campaign=relais-chateaux-introduces-myimpact-sustainability-platform-to-reduce-carbon-emission",
-      "source": "Boutique Hotel News",
-      "source_name": "Boutique Hotel News",
-      "sources": [
-        {
-          "id": "hotelitem_1c2b90d57b97",
-          "title": "Relais & Châteaux introduces MyImpact sustainability platform to reduce carbon emission",
-          "url": "https://boutiquehotelnews.com/news/relais-chateaux-introduces-myimpact-sustainability-platform-to-reduce-carbon-emission/?utm_source=rss&utm_medium=rss&utm_campaign=relais-chateaux-introduces-myimpact-sustainability-platform-to-reduce-carbon-emission",
-          "source": "Boutique Hotel News",
-          "source_name": "Boutique Hotel News",
-          "site_id": "boutiquehotel",
-          "published_at": "2026-10-14T12:56:19Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Boutique Hotel News"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_1c2b90d57b97",
-          "title": "Relais & Châteaux introduces MyImpact sustainability platform to reduce carbon emission",
-          "url": "https://boutiquehotelnews.com/news/relais-chateaux-introduces-myimpact-sustainability-platform-to-reduce-carbon-emission/?utm_source=rss&utm_medium=rss&utm_campaign=relais-chateaux-introduces-myimpact-sustainability-platform-to-reduce-carbon-emission",
-          "source": "Boutique Hotel News",
-          "source_name": "Boutique Hotel News",
-          "site_id": "boutiquehotel",
-          "published_at": "2026-10-14T12:56:19Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8137,
-      "importance": 0.5646,
-      "importance_score": 0.8137,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.8231,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-14T12:56:19Z",
-      "latest_at": "2026-10-14T12:56:19Z",
-      "primary_item": {
-        "id": "hotelitem_1c2b90d57b97",
-        "title": "Relais & Châteaux introduces MyImpact sustainability platform to reduce carbon emission",
-        "url": "https://boutiquehotelnews.com/news/relais-chateaux-introduces-myimpact-sustainability-platform-to-reduce-carbon-emission/?utm_source=rss&utm_medium=rss&utm_campaign=relais-chateaux-introduces-myimpact-sustainability-platform-to-reduce-carbon-emission",
-        "source": "Boutique Hotel News",
-        "source_name": "Boutique Hotel News"
-      }
-    },
-    {
       "story_id": "story_69c4ef2b3d80",
       "title": "Agoda Partners Kaohsiung City Government to  ... Digital travel platform Agoda and the Kaohsiung City Government have signed a Memorandum of Understand ... September 11, 2026 / Partnership",
       "url": "https://www.agoda.com/press/agoda-partners-kaohsiung-city-government/",
@@ -1630,7 +1630,7 @@
           "source": "Agoda",
           "source_name": "Agoda",
           "site_id": "agoda_press",
-          "published_at": "2026-10-22T11:58:59.135491Z"
+          "published_at": "2026-10-22T17:14:51.760464Z"
         }
       ],
       "source_count": 1,
@@ -1645,7 +1645,7 @@
           "source": "Agoda",
           "source_name": "Agoda",
           "site_id": "agoda_press",
-          "published_at": "2026-10-22T11:58:59.135491Z"
+          "published_at": "2026-10-22T17:14:51.760464Z"
         }
       ],
       "item_count": 1,
@@ -1664,8 +1664,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-22T11:58:59.135491Z",
-      "latest_at": "2026-10-22T11:58:59.135491Z",
+      "earliest_at": "2026-10-22T17:14:51.760464Z",
+      "latest_at": "2026-10-22T17:14:51.760464Z",
       "primary_item": {
         "id": "hotelitem_69c4ef2b3d80",
         "title": "Agoda Partners Kaohsiung City Government to  ... Digital travel platform Agoda and the Kaohsiung City Government have signed a Memorandum of Understand ... September 11, 2026 / Partnership",
@@ -1689,7 +1689,7 @@
           "source": "Agoda",
           "source_name": "Agoda",
           "site_id": "agoda_press",
-          "published_at": "2026-10-22T11:58:59.135491Z"
+          "published_at": "2026-10-22T17:14:51.760464Z"
         }
       ],
       "source_count": 1,
@@ -1704,7 +1704,7 @@
           "source": "Agoda",
           "source_name": "Agoda",
           "site_id": "agoda_press",
-          "published_at": "2026-10-22T11:58:59.135491Z"
+          "published_at": "2026-10-22T17:14:51.760464Z"
         }
       ],
       "item_count": 1,
@@ -1723,8 +1723,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-22T11:58:59.135491Z",
-      "latest_at": "2026-10-22T11:58:59.135491Z",
+      "earliest_at": "2026-10-22T17:14:51.760464Z",
+      "latest_at": "2026-10-22T17:14:51.760464Z",
       "primary_item": {
         "id": "hotelitem_e8ae1de14799",
         "title": "Agoda Partners with Marina Bay Sands on Besp ... The custom digital storefront brings together Marina Bay Sands’ rooms, suites and resort experiences,  ... October 1, 2026 / Partnership",
@@ -1748,7 +1748,7 @@
           "source": "Agoda",
           "source_name": "Agoda",
           "site_id": "agoda_press",
-          "published_at": "2026-10-22T11:58:59.135491Z"
+          "published_at": "2026-10-22T17:14:51.760464Z"
         }
       ],
       "source_count": 1,
@@ -1763,7 +1763,7 @@
           "source": "Agoda",
           "source_name": "Agoda",
           "site_id": "agoda_press",
-          "published_at": "2026-10-22T11:58:59.135491Z"
+          "published_at": "2026-10-22T17:14:51.760464Z"
         }
       ],
       "item_count": 1,
@@ -1782,8 +1782,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-22T11:58:59.135491Z",
-      "latest_at": "2026-10-22T11:58:59.135491Z",
+      "earliest_at": "2026-10-22T17:14:51.760464Z",
+      "latest_at": "2026-10-22T17:14:51.760464Z",
       "primary_item": {
         "id": "hotelitem_aa68e9432a35",
         "title": "Agoda Reveals Growing Asian Appetite for Ger ... As the 191st Oktoberfest draws to a close, Asia’s appetite for Germany’s world-famous beer festival ap ... October 2, 2026 / Travel Trends",
