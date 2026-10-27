@@ -1,8 +1,67 @@
 {
-  "generated_at": "2026-10-27T15:23:59.174607Z",
+  "generated_at": "2026-10-27T22:18:43.281303Z",
   "window_hours": 1080,
   "total_stories": 30,
   "stories": [
+    {
+      "story_id": "story_c226831093cd",
+      "title": "Hilton raises full-year RevPAR outlook after ‘strong’ Q3 results",
+      "url": "https://www.hoteldive.com/news/hilton-raises-full-year-revpar-outlook-after-strong-q3/872934/",
+      "primary_url": "https://www.hoteldive.com/news/hilton-raises-full-year-revpar-outlook-after-strong-q3/872934/",
+      "source": "Hotel Dive",
+      "source_name": "Hotel Dive",
+      "sources": [
+        {
+          "id": "hotelitem_c226831093cd",
+          "title": "Hilton raises full-year RevPAR outlook after ‘strong’ Q3 results",
+          "url": "https://www.hoteldive.com/news/hilton-raises-full-year-revpar-outlook-after-strong-q3/872934/",
+          "source": "Hotel Dive",
+          "source_name": "Hotel Dive",
+          "site_id": "hoteldive",
+          "published_at": "2026-10-27T19:23:08Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hotel Dive"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_c226831093cd",
+          "title": "Hilton raises full-year RevPAR outlook after ‘strong’ Q3 results",
+          "url": "https://www.hoteldive.com/news/hilton-raises-full-year-revpar-outlook-after-strong-q3/872934/",
+          "source": "Hotel Dive",
+          "source_name": "Hotel Dive",
+          "site_id": "hoteldive",
+          "published_at": "2026-10-27T19:23:08Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.9545,
+      "importance": 0.5995,
+      "importance_score": 0.9545,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9973,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-27T19:23:08Z",
+      "latest_at": "2026-10-27T19:23:08Z",
+      "primary_item": {
+        "id": "hotelitem_c226831093cd",
+        "title": "Hilton raises full-year RevPAR outlook after ‘strong’ Q3 results",
+        "url": "https://www.hoteldive.com/news/hilton-raises-full-year-revpar-outlook-after-strong-q3/872934/",
+        "source": "Hotel Dive",
+        "source_name": "Hotel Dive"
+      }
+    },
     {
       "story_id": "story_1ed5c9402a95",
       "title": "The St. Regis Cap Cana Resort brings Dominican tradition to its 2026 festive season",
@@ -38,14 +97,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9524,
-      "importance": 0.5973,
-      "importance_score": 0.9524,
+      "score": 0.9512,
+      "importance": 0.5961,
+      "importance_score": 0.9512,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9867,
+        "recency": 0.9803,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -97,14 +156,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9504,
-      "importance": 0.5953,
-      "importance_score": 0.9504,
+      "score": 0.9492,
+      "importance": 0.594,
+      "importance_score": 0.9492,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9764,
+        "recency": 0.97,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -156,14 +215,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9482,
-      "importance": 0.5929,
-      "importance_score": 0.9482,
+      "score": 0.9469,
+      "importance": 0.5916,
+      "importance_score": 0.9469,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9646,
+        "recency": 0.9582,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -178,6 +237,65 @@
         "url": "https://insights.ehotelier.com/global-news/2026/10/26/accor-leaders-step-up-for-a-good-cause-at-stryde4-melbourne/?utm_source=rss&utm_medium=rss&utm_campaign=accor-leaders-step-up-for-a-good-cause-at-stryde4-melbourne",
         "source": "eHotelier",
         "source_name": "eHotelier"
+      }
+    },
+    {
+      "story_id": "story_386ce752de82",
+      "title": "BWH Hotels Details Brand Transformation and Names WorldHotels as Its Masterbrand",
+      "url": "https://lodgingmagazine.com/bwh-hotels-unveils-brand-transformation-and-names-worldhotels-as-its-masterbrand/",
+      "primary_url": "https://lodgingmagazine.com/bwh-hotels-unveils-brand-transformation-and-names-worldhotels-as-its-masterbrand/",
+      "source": "Lodging Magazine",
+      "source_name": "Lodging Magazine",
+      "sources": [
+        {
+          "id": "hotelitem_386ce752de82",
+          "title": "BWH Hotels Details Brand Transformation and Names WorldHotels as Its Masterbrand",
+          "url": "https://lodgingmagazine.com/bwh-hotels-unveils-brand-transformation-and-names-worldhotels-as-its-masterbrand/",
+          "source": "Lodging Magazine",
+          "source_name": "Lodging Magazine",
+          "site_id": "lodgingmag",
+          "published_at": "2026-10-27T17:36:14Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Lodging Magazine"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_386ce752de82",
+          "title": "BWH Hotels Details Brand Transformation and Names WorldHotels as Its Masterbrand",
+          "url": "https://lodgingmagazine.com/bwh-hotels-unveils-brand-transformation-and-names-worldhotels-as-its-masterbrand/",
+          "source": "Lodging Magazine",
+          "source_name": "Lodging Magazine",
+          "site_id": "lodgingmag",
+          "published_at": "2026-10-27T17:36:14Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.9392,
+      "importance": 0.5991,
+      "importance_score": 0.9392,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9956,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-27T17:36:14Z",
+      "latest_at": "2026-10-27T17:36:14Z",
+      "primary_item": {
+        "id": "hotelitem_386ce752de82",
+        "title": "BWH Hotels Details Brand Transformation and Names WorldHotels as Its Masterbrand",
+        "url": "https://lodgingmagazine.com/bwh-hotels-unveils-brand-transformation-and-names-worldhotels-as-its-masterbrand/",
+        "source": "Lodging Magazine",
+        "source_name": "Lodging Magazine"
       }
     },
     {
@@ -215,14 +333,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9397,
-      "importance": 0.5996,
-      "importance_score": 0.9397,
+      "score": 0.9384,
+      "importance": 0.5984,
+      "importance_score": 0.9384,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9982,
+        "recency": 0.9918,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -274,14 +392,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9342,
-      "importance": 0.5785,
-      "importance_score": 0.9342,
+      "score": 0.933,
+      "importance": 0.5772,
+      "importance_score": 0.933,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8924,
+        "recency": 0.886,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -333,14 +451,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9333,
-      "importance": 0.5775,
-      "importance_score": 0.9333,
+      "score": 0.9321,
+      "importance": 0.5762,
+      "importance_score": 0.9321,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8875,
+        "recency": 0.8811,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -353,65 +471,6 @@
         "id": "hotelitem_891fe45c2300",
         "title": "Wyndham posts Q3 US RevPAR gains amid ‘healthier’ demand trends",
         "url": "https://www.hoteldive.com/news/wyndham-earnings-q3-2026/833706/",
-        "source": "Hotel Dive",
-        "source_name": "Hotel Dive"
-      }
-    },
-    {
-      "story_id": "story_190722c92184",
-      "title": "Hilton to move stock listing to Nasdaq",
-      "url": "https://www.hoteldive.com/news/hilton-to-move-stock-listing-to-nasdaq/833577/",
-      "primary_url": "https://www.hoteldive.com/news/hilton-to-move-stock-listing-to-nasdaq/833577/",
-      "source": "Hotel Dive",
-      "source_name": "Hotel Dive",
-      "sources": [
-        {
-          "id": "hotelitem_190722c92184",
-          "title": "Hilton to move stock listing to Nasdaq",
-          "url": "https://www.hoteldive.com/news/hilton-to-move-stock-listing-to-nasdaq/833577/",
-          "source": "Hotel Dive",
-          "source_name": "Hotel Dive",
-          "site_id": "hoteldive",
-          "published_at": "2026-10-21T14:04:35Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hotel Dive"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_190722c92184",
-          "title": "Hilton to move stock listing to Nasdaq",
-          "url": "https://www.hoteldive.com/news/hilton-to-move-stock-listing-to-nasdaq/833577/",
-          "source": "Hotel Dive",
-          "source_name": "Hotel Dive",
-          "site_id": "hoteldive",
-          "published_at": "2026-10-21T14:04:35Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.929,
-      "importance": 0.5731,
-      "importance_score": 0.929,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.8654,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-21T14:04:35Z",
-      "latest_at": "2026-10-21T14:04:35Z",
-      "primary_item": {
-        "id": "hotelitem_190722c92184",
-        "title": "Hilton to move stock listing to Nasdaq",
-        "url": "https://www.hoteldive.com/news/hilton-to-move-stock-listing-to-nasdaq/833577/",
         "source": "Hotel Dive",
         "source_name": "Hotel Dive"
       }
@@ -451,14 +510,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.924,
-      "importance": 0.5938,
-      "importance_score": 0.924,
+      "score": 0.9228,
+      "importance": 0.5925,
+      "importance_score": 0.9228,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9691,
+        "recency": 0.9627,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -510,14 +569,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9187,
-      "importance": 0.5646,
-      "importance_score": 0.9187,
+      "score": 0.9169,
+      "importance": 0.5633,
+      "importance_score": 0.9169,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8231,
+        "recency": 0.8167,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -549,7 +608,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-10-27T15:23:59.174607Z"
+          "published_at": "2026-10-27T22:18:43.281303Z"
         }
       ],
       "source_count": 1,
@@ -564,7 +623,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-10-27T15:23:59.174607Z"
+          "published_at": "2026-10-27T22:18:43.281303Z"
         }
       ],
       "item_count": 1,
@@ -583,8 +642,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-27T15:23:59.174607Z",
-      "latest_at": "2026-10-27T15:23:59.174607Z",
+      "earliest_at": "2026-10-27T22:18:43.281303Z",
+      "latest_at": "2026-10-27T22:18:43.281303Z",
       "primary_item": {
         "id": "hotelitem_06f191e24d38",
         "title": "文旅惠报|复星国际申请分拆Club Med在港上市；南京商旅上半年营收3.66亿元",
@@ -628,14 +687,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8969,
-      "importance": 0.5735,
-      "importance_score": 0.8969,
+      "score": 0.8957,
+      "importance": 0.5722,
+      "importance_score": 0.8957,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8674,
+        "recency": 0.861,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -687,14 +746,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8775,
-      "importance": 0.6,
-      "importance_score": 0.8775,
+      "score": 0.877,
+      "importance": 0.5995,
+      "importance_score": 0.877,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9977,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -746,14 +805,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8704,
-      "importance": 0.5419,
-      "importance_score": 0.8704,
+      "score": 0.8685,
+      "importance": 0.5406,
+      "importance_score": 0.8685,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.7094,
+        "recency": 0.703,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -805,14 +864,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8646,
-      "importance": 0.5996,
-      "importance_score": 0.8646,
+      "score": 0.8634,
+      "importance": 0.5983,
+      "importance_score": 0.8634,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9981,
+        "recency": 0.9917,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -827,65 +886,6 @@
         "url": "https://www.hoteldive.com/news/hotel-construction-pipeline-q3-2026/872849/",
         "source": "Hotel Dive",
         "source_name": "Hotel Dive"
-      }
-    },
-    {
-      "story_id": "story_04d8b7e9a5c6",
-      "title": "Yotel targets Asia Pacific in global expansion strategy",
-      "url": "https://insights.ehotelier.com/properties/2026/10/27/yotel-targets-asia-pacific-in-global-expansion-strategy/?utm_source=rss&utm_medium=rss&utm_campaign=yotel-targets-asia-pacific-in-global-expansion-strategy",
-      "primary_url": "https://insights.ehotelier.com/properties/2026/10/27/yotel-targets-asia-pacific-in-global-expansion-strategy/?utm_source=rss&utm_medium=rss&utm_campaign=yotel-targets-asia-pacific-in-global-expansion-strategy",
-      "source": "eHotelier",
-      "source_name": "eHotelier",
-      "sources": [
-        {
-          "id": "hotelitem_04d8b7e9a5c6",
-          "title": "Yotel targets Asia Pacific in global expansion strategy",
-          "url": "https://insights.ehotelier.com/properties/2026/10/27/yotel-targets-asia-pacific-in-global-expansion-strategy/?utm_source=rss&utm_medium=rss&utm_campaign=yotel-targets-asia-pacific-in-global-expansion-strategy",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-10-27T00:40:51Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "eHotelier"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_04d8b7e9a5c6",
-          "title": "Yotel targets Asia Pacific in global expansion strategy",
-          "url": "https://insights.ehotelier.com/properties/2026/10/27/yotel-targets-asia-pacific-in-global-expansion-strategy/?utm_source=rss&utm_medium=rss&utm_campaign=yotel-targets-asia-pacific-in-global-expansion-strategy",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-10-27T00:40:51Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8624,
-      "importance": 0.5973,
-      "importance_score": 0.8624,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9864,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-27T00:40:51Z",
-      "latest_at": "2026-10-27T00:40:51Z",
-      "primary_item": {
-        "id": "hotelitem_04d8b7e9a5c6",
-        "title": "Yotel targets Asia Pacific in global expansion strategy",
-        "url": "https://insights.ehotelier.com/properties/2026/10/27/yotel-targets-asia-pacific-in-global-expansion-strategy/?utm_source=rss&utm_medium=rss&utm_campaign=yotel-targets-asia-pacific-in-global-expansion-strategy",
-        "source": "eHotelier",
-        "source_name": "eHotelier"
       }
     },
     {
@@ -923,14 +923,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8624,
-      "importance": 0.5973,
-      "importance_score": 0.8624,
+      "score": 0.8612,
+      "importance": 0.596,
+      "importance_score": 0.8612,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9866,
+        "recency": 0.9802,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -982,14 +982,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8624,
-      "importance": 0.5974,
-      "importance_score": 0.8624,
+      "score": 0.8612,
+      "importance": 0.5961,
+      "importance_score": 0.8612,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9868,
+        "recency": 0.9804,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1004,6 +1004,261 @@
         "url": "https://insights.ehotelier.com/insights/2026/10/27/coffee-comfort-and-a-bigger-seat-at-the-revenue-table/?utm_source=rss&utm_medium=rss&utm_campaign=coffee-comfort-and-a-bigger-seat-at-the-revenue-table",
         "source": "eHotelier",
         "source_name": "eHotelier"
+      }
+    },
+    {
+      "story_id": "story_04d8b7e9a5c6",
+      "title": "Yotel targets Asia Pacific in global expansion strategy",
+      "url": "https://insights.ehotelier.com/properties/2026/10/27/yotel-targets-asia-pacific-in-global-expansion-strategy/?utm_source=rss&utm_medium=rss&utm_campaign=yotel-targets-asia-pacific-in-global-expansion-strategy",
+      "primary_url": "https://insights.ehotelier.com/properties/2026/10/27/yotel-targets-asia-pacific-in-global-expansion-strategy/?utm_source=rss&utm_medium=rss&utm_campaign=yotel-targets-asia-pacific-in-global-expansion-strategy",
+      "source": "eHotelier",
+      "source_name": "eHotelier",
+      "sources": [
+        {
+          "id": "hotelitem_04d8b7e9a5c6",
+          "title": "Yotel targets Asia Pacific in global expansion strategy",
+          "url": "https://insights.ehotelier.com/properties/2026/10/27/yotel-targets-asia-pacific-in-global-expansion-strategy/?utm_source=rss&utm_medium=rss&utm_campaign=yotel-targets-asia-pacific-in-global-expansion-strategy",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-10-27T00:40:51Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "eHotelier"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_04d8b7e9a5c6",
+          "title": "Yotel targets Asia Pacific in global expansion strategy",
+          "url": "https://insights.ehotelier.com/properties/2026/10/27/yotel-targets-asia-pacific-in-global-expansion-strategy/?utm_source=rss&utm_medium=rss&utm_campaign=yotel-targets-asia-pacific-in-global-expansion-strategy",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-10-27T00:40:51Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8611,
+      "importance": 0.596,
+      "importance_score": 0.8611,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.98,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-27T00:40:51Z",
+      "latest_at": "2026-10-27T00:40:51Z",
+      "primary_item": {
+        "id": "hotelitem_04d8b7e9a5c6",
+        "title": "Yotel targets Asia Pacific in global expansion strategy",
+        "url": "https://insights.ehotelier.com/properties/2026/10/27/yotel-targets-asia-pacific-in-global-expansion-strategy/?utm_source=rss&utm_medium=rss&utm_campaign=yotel-targets-asia-pacific-in-global-expansion-strategy",
+        "source": "eHotelier",
+        "source_name": "eHotelier"
+      }
+    },
+    {
+      "story_id": "story_c7c15b7680c9",
+      "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
+      "url": "https://www.chinahotel.org.cn/articles/17408",
+      "primary_url": "https://www.chinahotel.org.cn/articles/17408",
+      "source": "中国饭店协会",
+      "source_name": "中国饭店协会",
+      "sources": [
+        {
+          "id": "hotelitem_d4370964909c",
+          "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
+          "url": "https://www.chinahotel.org.cn/articles/17408",
+          "source": "中国饭店协会",
+          "source_name": "中国饭店协会",
+          "site_id": "chinahotel",
+          "published_at": "2026-10-27T22:18:43.281303Z"
+        },
+        {
+          "id": "hotelitem_c7c15b7680c9",
+          "title": "绿色饭店 | 2026年第一批国家标准绿色饭店名单公布 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007) 在全国组织开展国家标准绿色饭店的评定工作。现公布2026年第一批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
+          "url": "https://www.chinahotel.org.cn/articles/17689",
+          "source": "中国饭店协会",
+          "source_name": "中国饭店协会",
+          "site_id": "chinahotel",
+          "published_at": "2026-10-27T22:18:43.281303Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "中国饭店协会"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_d4370964909c",
+          "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
+          "url": "https://www.chinahotel.org.cn/articles/17408",
+          "source": "中国饭店协会",
+          "source_name": "中国饭店协会",
+          "site_id": "chinahotel",
+          "published_at": "2026-10-27T22:18:43.281303Z"
+        },
+        {
+          "id": "hotelitem_c7c15b7680c9",
+          "title": "绿色饭店 | 2026年第一批国家标准绿色饭店名单公布 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007) 在全国组织开展国家标准绿色饭店的评定工作。现公布2026年第一批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
+          "url": "https://www.chinahotel.org.cn/articles/17689",
+          "source": "中国饭店协会",
+          "source_name": "中国饭店协会",
+          "site_id": "chinahotel",
+          "published_at": "2026-10-27T22:18:43.281303Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.86,
+      "importance": 0.625,
+      "importance_score": 0.86,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-27T22:18:43.281303Z",
+      "latest_at": "2026-10-27T22:18:43.281303Z",
+      "primary_item": {
+        "id": "hotelitem_d4370964909c",
+        "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
+        "url": "https://www.chinahotel.org.cn/articles/17408",
+        "source": "中国饭店协会",
+        "source_name": "中国饭店协会"
+      }
+    },
+    {
+      "story_id": "story_aaf111d41af3",
+      "title": "Airbnb出台清洁要求新规",
+      "url": "https://www.meadin.com/jd/303180.html",
+      "primary_url": "https://www.meadin.com/jd/303180.html",
+      "source": "迈点研究院",
+      "source_name": "迈点研究院",
+      "sources": [
+        {
+          "id": "hotelitem_aaf111d41af3",
+          "title": "Airbnb出台清洁要求新规",
+          "url": "https://www.meadin.com/jd/303180.html",
+          "source": "迈点研究院",
+          "source_name": "迈点研究院",
+          "site_id": "meadin",
+          "published_at": "2026-10-27T22:18:43.281303Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "迈点研究院"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_aaf111d41af3",
+          "title": "Airbnb出台清洁要求新规",
+          "url": "https://www.meadin.com/jd/303180.html",
+          "source": "迈点研究院",
+          "source_name": "迈点研究院",
+          "site_id": "meadin",
+          "published_at": "2026-10-27T22:18:43.281303Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.86,
+      "importance": 0.6,
+      "importance_score": 0.86,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-27T22:18:43.281303Z",
+      "latest_at": "2026-10-27T22:18:43.281303Z",
+      "primary_item": {
+        "id": "hotelitem_aaf111d41af3",
+        "title": "Airbnb出台清洁要求新规",
+        "url": "https://www.meadin.com/jd/303180.html",
+        "source": "迈点研究院",
+        "source_name": "迈点研究院"
+      }
+    },
+    {
+      "story_id": "story_35c0a37c5db3",
+      "title": "同程旅行完成收购万达酒管公司100%股权 较最初增加1.32亿元",
+      "url": "https://www.meadin.com/jd/303186.html",
+      "primary_url": "https://www.meadin.com/jd/303186.html",
+      "source": "迈点研究院",
+      "source_name": "迈点研究院",
+      "sources": [
+        {
+          "id": "hotelitem_35c0a37c5db3",
+          "title": "同程旅行完成收购万达酒管公司100%股权 较最初增加1.32亿元",
+          "url": "https://www.meadin.com/jd/303186.html",
+          "source": "迈点研究院",
+          "source_name": "迈点研究院",
+          "site_id": "meadin",
+          "published_at": "2026-10-27T22:18:43.281303Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "迈点研究院"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_35c0a37c5db3",
+          "title": "同程旅行完成收购万达酒管公司100%股权 较最初增加1.32亿元",
+          "url": "https://www.meadin.com/jd/303186.html",
+          "source": "迈点研究院",
+          "source_name": "迈点研究院",
+          "site_id": "meadin",
+          "published_at": "2026-10-27T22:18:43.281303Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.86,
+      "importance": 0.6,
+      "importance_score": 0.86,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-27T22:18:43.281303Z",
+      "latest_at": "2026-10-27T22:18:43.281303Z",
+      "primary_item": {
+        "id": "hotelitem_35c0a37c5db3",
+        "title": "同程旅行完成收购万达酒管公司100%股权 较最初增加1.32亿元",
+        "url": "https://www.meadin.com/jd/303186.html",
+        "source": "迈点研究院",
+        "source_name": "迈点研究院"
       }
     },
     {
@@ -1041,14 +1296,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8606,
-      "importance": 0.5954,
-      "importance_score": 0.8606,
+      "score": 0.8594,
+      "importance": 0.5942,
+      "importance_score": 0.8594,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9772,
+        "recency": 0.9708,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1066,202 +1321,6 @@
       }
     },
     {
-      "story_id": "story_c7c15b7680c9",
-      "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
-      "url": "https://www.chinahotel.org.cn/articles/17408",
-      "primary_url": "https://www.chinahotel.org.cn/articles/17408",
-      "source": "中国饭店协会",
-      "source_name": "中国饭店协会",
-      "sources": [
-        {
-          "id": "hotelitem_d4370964909c",
-          "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
-          "url": "https://www.chinahotel.org.cn/articles/17408",
-          "source": "中国饭店协会",
-          "source_name": "中国饭店协会",
-          "site_id": "chinahotel",
-          "published_at": "2026-10-27T15:23:59.174607Z"
-        },
-        {
-          "id": "hotelitem_c7c15b7680c9",
-          "title": "绿色饭店 | 2026年第一批国家标准绿色饭店名单公布 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007) 在全国组织开展国家标准绿色饭店的评定工作。现公布2026年第一批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
-          "url": "https://www.chinahotel.org.cn/articles/17689",
-          "source": "中国饭店协会",
-          "source_name": "中国饭店协会",
-          "site_id": "chinahotel",
-          "published_at": "2026-10-27T15:23:59.174607Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "中国饭店协会"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_d4370964909c",
-          "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
-          "url": "https://www.chinahotel.org.cn/articles/17408",
-          "source": "中国饭店协会",
-          "source_name": "中国饭店协会",
-          "site_id": "chinahotel",
-          "published_at": "2026-10-27T15:23:59.174607Z"
-        },
-        {
-          "id": "hotelitem_c7c15b7680c9",
-          "title": "绿色饭店 | 2026年第一批国家标准绿色饭店名单公布 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007) 在全国组织开展国家标准绿色饭店的评定工作。现公布2026年第一批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
-          "url": "https://www.chinahotel.org.cn/articles/17689",
-          "source": "中国饭店协会",
-          "source_name": "中国饭店协会",
-          "site_id": "chinahotel",
-          "published_at": "2026-10-27T15:23:59.174607Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.86,
-      "importance": 0.625,
-      "importance_score": 0.86,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-27T15:23:59.174607Z",
-      "latest_at": "2026-10-27T15:23:59.174607Z",
-      "primary_item": {
-        "id": "hotelitem_d4370964909c",
-        "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
-        "url": "https://www.chinahotel.org.cn/articles/17408",
-        "source": "中国饭店协会",
-        "source_name": "中国饭店协会"
-      }
-    },
-    {
-      "story_id": "story_aaf111d41af3",
-      "title": "Airbnb出台清洁要求新规",
-      "url": "https://www.meadin.com/jd/303180.html",
-      "primary_url": "https://www.meadin.com/jd/303180.html",
-      "source": "迈点研究院",
-      "source_name": "迈点研究院",
-      "sources": [
-        {
-          "id": "hotelitem_aaf111d41af3",
-          "title": "Airbnb出台清洁要求新规",
-          "url": "https://www.meadin.com/jd/303180.html",
-          "source": "迈点研究院",
-          "source_name": "迈点研究院",
-          "site_id": "meadin",
-          "published_at": "2026-10-27T15:23:59.174607Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "迈点研究院"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_aaf111d41af3",
-          "title": "Airbnb出台清洁要求新规",
-          "url": "https://www.meadin.com/jd/303180.html",
-          "source": "迈点研究院",
-          "source_name": "迈点研究院",
-          "site_id": "meadin",
-          "published_at": "2026-10-27T15:23:59.174607Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.86,
-      "importance": 0.6,
-      "importance_score": 0.86,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-27T15:23:59.174607Z",
-      "latest_at": "2026-10-27T15:23:59.174607Z",
-      "primary_item": {
-        "id": "hotelitem_aaf111d41af3",
-        "title": "Airbnb出台清洁要求新规",
-        "url": "https://www.meadin.com/jd/303180.html",
-        "source": "迈点研究院",
-        "source_name": "迈点研究院"
-      }
-    },
-    {
-      "story_id": "story_35c0a37c5db3",
-      "title": "同程旅行完成收购万达酒管公司100%股权 较最初增加1.32亿元",
-      "url": "https://www.meadin.com/jd/303186.html",
-      "primary_url": "https://www.meadin.com/jd/303186.html",
-      "source": "迈点研究院",
-      "source_name": "迈点研究院",
-      "sources": [
-        {
-          "id": "hotelitem_35c0a37c5db3",
-          "title": "同程旅行完成收购万达酒管公司100%股权 较最初增加1.32亿元",
-          "url": "https://www.meadin.com/jd/303186.html",
-          "source": "迈点研究院",
-          "source_name": "迈点研究院",
-          "site_id": "meadin",
-          "published_at": "2026-10-27T15:23:59.174607Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "迈点研究院"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_35c0a37c5db3",
-          "title": "同程旅行完成收购万达酒管公司100%股权 较最初增加1.32亿元",
-          "url": "https://www.meadin.com/jd/303186.html",
-          "source": "迈点研究院",
-          "source_name": "迈点研究院",
-          "site_id": "meadin",
-          "published_at": "2026-10-27T15:23:59.174607Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.86,
-      "importance": 0.6,
-      "importance_score": 0.86,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-27T15:23:59.174607Z",
-      "latest_at": "2026-10-27T15:23:59.174607Z",
-      "primary_item": {
-        "id": "hotelitem_35c0a37c5db3",
-        "title": "同程旅行完成收购万达酒管公司100%股权 较最初增加1.32亿元",
-        "url": "https://www.meadin.com/jd/303186.html",
-        "source": "迈点研究院",
-        "source_name": "迈点研究院"
-      }
-    },
-    {
       "story_id": "story_e4ce0593c384",
       "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
       "url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
@@ -1276,7 +1335,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-10-27T15:23:59.174607Z"
+          "published_at": "2026-10-27T22:18:43.281303Z"
         }
       ],
       "source_count": 1,
@@ -1291,7 +1350,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-10-27T15:23:59.174607Z"
+          "published_at": "2026-10-27T22:18:43.281303Z"
         }
       ],
       "item_count": 1,
@@ -1310,8 +1369,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-27T15:23:59.174607Z",
-      "latest_at": "2026-10-27T15:23:59.174607Z",
+      "earliest_at": "2026-10-27T22:18:43.281303Z",
+      "latest_at": "2026-10-27T22:18:43.281303Z",
       "primary_item": {
         "id": "hotelitem_e4ce0593c384",
         "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
@@ -1335,7 +1394,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-10-27T15:23:59.174607Z"
+          "published_at": "2026-10-27T22:18:43.281303Z"
         }
       ],
       "source_count": 1,
@@ -1350,7 +1409,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-10-27T15:23:59.174607Z"
+          "published_at": "2026-10-27T22:18:43.281303Z"
         }
       ],
       "item_count": 1,
@@ -1369,8 +1428,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-27T15:23:59.174607Z",
-      "latest_at": "2026-10-27T15:23:59.174607Z",
+      "earliest_at": "2026-10-27T22:18:43.281303Z",
+      "latest_at": "2026-10-27T22:18:43.281303Z",
       "primary_item": {
         "id": "hotelitem_4adba65c20e7",
         "title": "文化和旅游部党组召开会议坚决拥护党中央对...",
@@ -1394,7 +1453,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-10-27T15:23:59.174607Z"
+          "published_at": "2026-10-27T22:18:43.281303Z"
         }
       ],
       "source_count": 1,
@@ -1409,7 +1468,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-10-27T15:23:59.174607Z"
+          "published_at": "2026-10-27T22:18:43.281303Z"
         }
       ],
       "item_count": 1,
@@ -1428,8 +1487,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-27T15:23:59.174607Z",
-      "latest_at": "2026-10-27T15:23:59.174607Z",
+      "earliest_at": "2026-10-27T22:18:43.281303Z",
+      "latest_at": "2026-10-27T22:18:43.281303Z",
       "primary_item": {
         "id": "hotelitem_e63a36930397",
         "title": "文化和旅游部印发《艺术发展“十五五”规划》",
@@ -1473,14 +1532,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.846,
-      "importance": 0.5959,
-      "importance_score": 0.846,
+      "score": 0.8448,
+      "importance": 0.5946,
+      "importance_score": 0.8448,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9794,
+        "recency": 0.973,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1532,14 +1591,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8454,
-      "importance": 0.5952,
-      "importance_score": 0.8454,
+      "score": 0.8441,
+      "importance": 0.5939,
+      "importance_score": 0.8441,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9759,
+        "recency": 0.9695,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1552,65 +1611,6 @@
         "id": "hotelitem_0f03f2b06e43",
         "title": "Lodging Econometrics Shares Findings From Its Q3 2026 U.S. Hotel Construction Pipeline Report",
         "url": "https://lodgingmagazine.com/lodging-econometrics-shares-findings-from-its-q3-2026-u-s-hotel-construction-pipeline-report/",
-        "source": "Lodging Magazine",
-        "source_name": "Lodging Magazine"
-      }
-    },
-    {
-      "story_id": "story_a97d8bc35e1d",
-      "title": "G6 Hospitality Signs Development Agreement for New Studio 6 Plus Hotel",
-      "url": "https://lodgingmagazine.com/g6-hospitality-signs-development-agreement-for-new-studio-6-plus-hotel/",
-      "primary_url": "https://lodgingmagazine.com/g6-hospitality-signs-development-agreement-for-new-studio-6-plus-hotel/",
-      "source": "Lodging Magazine",
-      "source_name": "Lodging Magazine",
-      "sources": [
-        {
-          "id": "hotelitem_a97d8bc35e1d",
-          "title": "G6 Hospitality Signs Development Agreement for New Studio 6 Plus Hotel",
-          "url": "https://lodgingmagazine.com/g6-hospitality-signs-development-agreement-for-new-studio-6-plus-hotel/",
-          "source": "Lodging Magazine",
-          "source_name": "Lodging Magazine",
-          "site_id": "lodgingmag",
-          "published_at": "2026-10-26T12:22:02Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Lodging Magazine"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_a97d8bc35e1d",
-          "title": "G6 Hospitality Signs Development Agreement for New Studio 6 Plus Hotel",
-          "url": "https://lodgingmagazine.com/g6-hospitality-signs-development-agreement-for-new-studio-6-plus-hotel/",
-          "source": "Lodging Magazine",
-          "source_name": "Lodging Magazine",
-          "site_id": "lodgingmag",
-          "published_at": "2026-10-26T12:22:02Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8452,
-      "importance": 0.595,
-      "importance_score": 0.8452,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.975,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-26T12:22:02Z",
-      "latest_at": "2026-10-26T12:22:02Z",
-      "primary_item": {
-        "id": "hotelitem_a97d8bc35e1d",
-        "title": "G6 Hospitality Signs Development Agreement for New Studio 6 Plus Hotel",
-        "url": "https://lodgingmagazine.com/g6-hospitality-signs-development-agreement-for-new-studio-6-plus-hotel/",
         "source": "Lodging Magazine",
         "source_name": "Lodging Magazine"
       }
@@ -1650,14 +1650,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8443,
-      "importance": 0.5941,
-      "importance_score": 0.8443,
+      "score": 0.843,
+      "importance": 0.5928,
+      "importance_score": 0.843,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9704,
+        "recency": 0.964,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1709,14 +1709,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8287,
-      "importance": 0.5646,
-      "importance_score": 0.8287,
+      "score": 0.8268,
+      "importance": 0.5633,
+      "importance_score": 0.8268,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.823,
+        "recency": 0.8166,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1768,14 +1768,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8274,
-      "importance": 0.5765,
-      "importance_score": 0.8274,
+      "score": 0.8262,
+      "importance": 0.5753,
+      "importance_score": 0.8262,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8827,
+        "recency": 0.8763,
         "story_heat": 0.0
       },
       "category": "watch",
