@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T05:48:59.227109Z",
+  "generated_at": "2026-10-28T13:02:13.880609Z",
   "window_hours": 1080,
   "total_items": 30,
   "items": [
@@ -38,14 +38,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9542,
-      "importance": 0.5991,
-      "importance_score": 0.9542,
+      "score": 0.9529,
+      "importance": 0.5978,
+      "importance_score": 0.9529,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9956,
+        "recency": 0.989,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -97,14 +97,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9541,
-      "importance": 0.5991,
-      "importance_score": 0.9541,
+      "score": 0.9528,
+      "importance": 0.5977,
+      "importance_score": 0.9528,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9954,
+        "recency": 0.9887,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -156,14 +156,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9531,
-      "importance": 0.5981,
-      "importance_score": 0.9531,
+      "score": 0.9518,
+      "importance": 0.5967,
+      "importance_score": 0.9518,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9903,
+        "recency": 0.9837,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -215,14 +215,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9499,
-      "importance": 0.5947,
-      "importance_score": 0.9499,
+      "score": 0.9486,
+      "importance": 0.5933,
+      "importance_score": 0.9486,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9733,
+        "recency": 0.9666,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -274,14 +274,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9479,
-      "importance": 0.5926,
-      "importance_score": 0.9479,
+      "score": 0.9466,
+      "importance": 0.5913,
+      "importance_score": 0.9466,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.963,
+        "recency": 0.9564,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -296,6 +296,124 @@
         "url": "https://www.hoteldive.com/news/marriott-entertainment-technology-platform-tv/850052/",
         "source": "Hotel Dive",
         "source_name": "Hotel Dive"
+      }
+    },
+    {
+      "story_id": "story_061c92b9cfbe",
+      "title": "The Westin Riverfront Resort & Spa Prioritizes Employee Mental Health Through H.O.P.E. Certification",
+      "url": "https://lodgingmagazine.com/the-westin-riverfront-resort-spa-prioritizes-employee-mental-health-through-h-o-p-e-certification/",
+      "primary_url": "https://lodgingmagazine.com/the-westin-riverfront-resort-spa-prioritizes-employee-mental-health-through-h-o-p-e-certification/",
+      "source": "Lodging Magazine",
+      "source_name": "Lodging Magazine",
+      "sources": [
+        {
+          "id": "hotelitem_061c92b9cfbe",
+          "title": "The Westin Riverfront Resort & Spa Prioritizes Employee Mental Health Through H.O.P.E. Certification",
+          "url": "https://lodgingmagazine.com/the-westin-riverfront-resort-spa-prioritizes-employee-mental-health-through-h-o-p-e-certification/",
+          "source": "Lodging Magazine",
+          "source_name": "Lodging Magazine",
+          "site_id": "lodgingmag",
+          "published_at": "2026-10-28T11:22:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Lodging Magazine"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_061c92b9cfbe",
+          "title": "The Westin Riverfront Resort & Spa Prioritizes Employee Mental Health Through H.O.P.E. Certification",
+          "url": "https://lodgingmagazine.com/the-westin-riverfront-resort-spa-prioritizes-employee-mental-health-through-h-o-p-e-certification/",
+          "source": "Lodging Magazine",
+          "source_name": "Lodging Magazine",
+          "site_id": "lodgingmag",
+          "published_at": "2026-10-28T11:22:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.9397,
+      "importance": 0.5997,
+      "importance_score": 0.9397,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9985,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-28T11:22:00Z",
+      "latest_at": "2026-10-28T11:22:00Z",
+      "primary_item": {
+        "id": "hotelitem_061c92b9cfbe",
+        "title": "The Westin Riverfront Resort & Spa Prioritizes Employee Mental Health Through H.O.P.E. Certification",
+        "url": "https://lodgingmagazine.com/the-westin-riverfront-resort-spa-prioritizes-employee-mental-health-through-h-o-p-e-certification/",
+        "source": "Lodging Magazine",
+        "source_name": "Lodging Magazine"
+      }
+    },
+    {
+      "story_id": "story_cbb17064b538",
+      "title": "IHG Hotels signs 90-room riverside Hotel Indigo London – Kingston",
+      "url": "https://boutiquehotelnews.com/news/ihg-hotels-signs-90-room-riverside-hotel-indigo-london-kingston/?utm_source=rss&utm_medium=rss&utm_campaign=ihg-hotels-signs-90-room-riverside-hotel-indigo-london-kingston",
+      "primary_url": "https://boutiquehotelnews.com/news/ihg-hotels-signs-90-room-riverside-hotel-indigo-london-kingston/?utm_source=rss&utm_medium=rss&utm_campaign=ihg-hotels-signs-90-room-riverside-hotel-indigo-london-kingston",
+      "source": "Boutique Hotel News",
+      "source_name": "Boutique Hotel News",
+      "sources": [
+        {
+          "id": "hotelitem_cbb17064b538",
+          "title": "IHG Hotels signs 90-room riverside Hotel Indigo London – Kingston",
+          "url": "https://boutiquehotelnews.com/news/ihg-hotels-signs-90-room-riverside-hotel-indigo-london-kingston/?utm_source=rss&utm_medium=rss&utm_campaign=ihg-hotels-signs-90-room-riverside-hotel-indigo-london-kingston",
+          "source": "Boutique Hotel News",
+          "source_name": "Boutique Hotel News",
+          "site_id": "boutiquehotel",
+          "published_at": "2026-10-28T10:50:46Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Boutique Hotel News"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_cbb17064b538",
+          "title": "IHG Hotels signs 90-room riverside Hotel Indigo London – Kingston",
+          "url": "https://boutiquehotelnews.com/news/ihg-hotels-signs-90-room-riverside-hotel-indigo-london-kingston/?utm_source=rss&utm_medium=rss&utm_campaign=ihg-hotels-signs-90-room-riverside-hotel-indigo-london-kingston",
+          "source": "Boutique Hotel News",
+          "source_name": "Boutique Hotel News",
+          "site_id": "boutiquehotel",
+          "published_at": "2026-10-28T10:50:46Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.9396,
+      "importance": 0.5996,
+      "importance_score": 0.9396,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.998,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-28T10:50:46Z",
+      "latest_at": "2026-10-28T10:50:46Z",
+      "primary_item": {
+        "id": "hotelitem_cbb17064b538",
+        "title": "IHG Hotels signs 90-room riverside Hotel Indigo London – Kingston",
+        "url": "https://boutiquehotelnews.com/news/ihg-hotels-signs-90-room-riverside-hotel-indigo-london-kingston/?utm_source=rss&utm_medium=rss&utm_campaign=ihg-hotels-signs-90-room-riverside-hotel-indigo-london-kingston",
+        "source": "Boutique Hotel News",
+        "source_name": "Boutique Hotel News"
       }
     },
     {
@@ -333,14 +451,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9378,
-      "importance": 0.5977,
-      "importance_score": 0.9378,
+      "score": 0.9365,
+      "importance": 0.5964,
+      "importance_score": 0.9365,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9887,
+        "recency": 0.982,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -392,14 +510,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9371,
-      "importance": 0.597,
-      "importance_score": 0.9371,
+      "score": 0.9358,
+      "importance": 0.5956,
+      "importance_score": 0.9358,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9849,
+        "recency": 0.9782,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -451,14 +569,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9317,
-      "importance": 0.5758,
-      "importance_score": 0.9317,
+      "score": 0.9304,
+      "importance": 0.5745,
+      "importance_score": 0.9304,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8791,
+        "recency": 0.8724,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -510,14 +628,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9307,
-      "importance": 0.5748,
-      "importance_score": 0.9307,
+      "score": 0.9294,
+      "importance": 0.5735,
+      "importance_score": 0.9294,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8742,
+        "recency": 0.8675,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -532,6 +650,65 @@
         "url": "https://www.hoteldive.com/news/wyndham-earnings-q3-2026/833706/",
         "source": "Hotel Dive",
         "source_name": "Hotel Dive"
+      }
+    },
+    {
+      "story_id": "story_7263901ed1fa",
+      "title": "广交会收官！广州区域柏曼酒店多店业绩领跑，RevPAR超515元",
+      "url": "https://www.traveldaily.cn/article/190937",
+      "primary_url": "https://www.traveldaily.cn/article/190937",
+      "source": "环球旅讯 TravelDaily",
+      "source_name": "环球旅讯 TravelDaily",
+      "sources": [
+        {
+          "id": "hotelitem_7263901ed1fa",
+          "title": "广交会收官！广州区域柏曼酒店多店业绩领跑，RevPAR超515元",
+          "url": "https://www.traveldaily.cn/article/190937",
+          "source": "环球旅讯 TravelDaily",
+          "source_name": "环球旅讯 TravelDaily",
+          "site_id": "traveldaily",
+          "published_at": "2026-10-28T17:23:50Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "环球旅讯 TravelDaily"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_7263901ed1fa",
+          "title": "广交会收官！广州区域柏曼酒店多店业绩领跑，RevPAR超515元",
+          "url": "https://www.traveldaily.cn/article/190937",
+          "source": "环球旅讯 TravelDaily",
+          "source_name": "环球旅讯 TravelDaily",
+          "site_id": "traveldaily",
+          "published_at": "2026-10-28T17:23:50Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.9225,
+      "importance": 0.6,
+      "importance_score": 0.9225,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-28T17:23:50Z",
+      "latest_at": "2026-10-28T17:23:50Z",
+      "primary_item": {
+        "id": "hotelitem_7263901ed1fa",
+        "title": "广交会收官！广州区域柏曼酒店多店业绩领跑，RevPAR超515元",
+        "url": "https://www.traveldaily.cn/article/190937",
+        "source": "环球旅讯 TravelDaily",
+        "source_name": "环球旅讯 TravelDaily"
       }
     },
     {
@@ -569,14 +746,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9148,
-      "importance": 0.562,
-      "importance_score": 0.9148,
+      "score": 0.9129,
+      "importance": 0.5606,
+      "importance_score": 0.9129,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8098,
+        "recency": 0.8031,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -608,7 +785,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-10-28T05:48:59.227109Z"
+          "published_at": "2026-10-28T13:02:13.880609Z"
         }
       ],
       "source_count": 1,
@@ -623,7 +800,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-10-28T05:48:59.227109Z"
+          "published_at": "2026-10-28T13:02:13.880609Z"
         }
       ],
       "item_count": 1,
@@ -642,8 +819,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-28T05:48:59.227109Z",
-      "latest_at": "2026-10-28T05:48:59.227109Z",
+      "earliest_at": "2026-10-28T13:02:13.880609Z",
+      "latest_at": "2026-10-28T13:02:13.880609Z",
       "primary_item": {
         "id": "hotelitem_06f191e24d38",
         "title": "文旅惠报|复星国际申请分拆Club Med在港上市；南京商旅上半年营收3.66亿元",
@@ -687,14 +864,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8943,
-      "importance": 0.5708,
-      "importance_score": 0.8943,
+      "score": 0.8931,
+      "importance": 0.5695,
+      "importance_score": 0.8931,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.854,
+        "recency": 0.8473,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -746,14 +923,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8846,
-      "importance": 0.5996,
-      "importance_score": 0.8846,
+      "score": 0.8833,
+      "importance": 0.5982,
+      "importance_score": 0.8833,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9979,
+        "recency": 0.9912,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -805,14 +982,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8757,
-      "importance": 0.5981,
-      "importance_score": 0.8757,
+      "score": 0.8744,
+      "importance": 0.5968,
+      "importance_score": 0.8744,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9907,
+        "recency": 0.984,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -827,65 +1004,6 @@
         "url": "https://www.traveldaily.cn/article/190933",
         "source": "环球旅讯 TravelDaily",
         "source_name": "环球旅讯 TravelDaily"
-      }
-    },
-    {
-      "story_id": "story_cc6e494ac3ec",
-      "title": "Marriott appoints Dixit as GM ahead of W Manchester hotel and residences’ 2027 opening",
-      "url": "https://boutiquehotelnews.com/news/marriott-appoints-alok-dixit-as-gm-ahead-of-w-manchester-and-w-residences-2027-opening/?utm_source=rss&utm_medium=rss&utm_campaign=marriott-appoints-alok-dixit-as-gm-ahead-of-w-manchester-and-w-residences-2027-opening",
-      "primary_url": "https://boutiquehotelnews.com/news/marriott-appoints-alok-dixit-as-gm-ahead-of-w-manchester-and-w-residences-2027-opening/?utm_source=rss&utm_medium=rss&utm_campaign=marriott-appoints-alok-dixit-as-gm-ahead-of-w-manchester-and-w-residences-2027-opening",
-      "source": "Boutique Hotel News",
-      "source_name": "Boutique Hotel News",
-      "sources": [
-        {
-          "id": "hotelitem_cc6e494ac3ec",
-          "title": "Marriott appoints Dixit as GM ahead of W Manchester hotel and residences’ 2027 opening",
-          "url": "https://boutiquehotelnews.com/news/marriott-appoints-alok-dixit-as-gm-ahead-of-w-manchester-and-w-residences-2027-opening/?utm_source=rss&utm_medium=rss&utm_campaign=marriott-appoints-alok-dixit-as-gm-ahead-of-w-manchester-and-w-residences-2027-opening",
-          "source": "Boutique Hotel News",
-          "source_name": "Boutique Hotel News",
-          "site_id": "boutiquehotel",
-          "published_at": "2026-10-14T13:30:13Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Boutique Hotel News"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_cc6e494ac3ec",
-          "title": "Marriott appoints Dixit as GM ahead of W Manchester hotel and residences’ 2027 opening",
-          "url": "https://boutiquehotelnews.com/news/marriott-appoints-alok-dixit-as-gm-ahead-of-w-manchester-and-w-residences-2027-opening/?utm_source=rss&utm_medium=rss&utm_campaign=marriott-appoints-alok-dixit-as-gm-ahead-of-w-manchester-and-w-residences-2027-opening",
-          "source": "Boutique Hotel News",
-          "source_name": "Boutique Hotel News",
-          "site_id": "boutiquehotel",
-          "published_at": "2026-10-14T13:30:13Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8664,
-      "importance": 0.5392,
-      "importance_score": 0.8664,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.696,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-14T13:30:13Z",
-      "latest_at": "2026-10-14T13:30:13Z",
-      "primary_item": {
-        "id": "hotelitem_cc6e494ac3ec",
-        "title": "Marriott appoints Dixit as GM ahead of W Manchester hotel and residences’ 2027 opening",
-        "url": "https://boutiquehotelnews.com/news/marriott-appoints-alok-dixit-as-gm-ahead-of-w-manchester-and-w-residences-2027-opening/?utm_source=rss&utm_medium=rss&utm_campaign=marriott-appoints-alok-dixit-as-gm-ahead-of-w-manchester-and-w-residences-2027-opening",
-        "source": "Boutique Hotel News",
-        "source_name": "Boutique Hotel News"
       }
     },
     {
@@ -923,14 +1041,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8641,
-      "importance": 0.599,
-      "importance_score": 0.8641,
+      "score": 0.8628,
+      "importance": 0.5977,
+      "importance_score": 0.8628,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9952,
+        "recency": 0.9885,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -982,14 +1100,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8641,
-      "importance": 0.5991,
-      "importance_score": 0.8641,
+      "score": 0.8628,
+      "importance": 0.5977,
+      "importance_score": 0.8628,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9953,
+        "recency": 0.9886,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1041,14 +1159,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8621,
-      "importance": 0.5969,
-      "importance_score": 0.8621,
+      "score": 0.8608,
+      "importance": 0.5956,
+      "importance_score": 0.8608,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9847,
+        "recency": 0.9781,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1080,7 +1198,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-10-28T05:48:59.227109Z"
+          "published_at": "2026-10-28T13:02:13.880609Z"
         },
         {
           "id": "hotelitem_c7c15b7680c9",
@@ -1089,7 +1207,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-10-28T05:48:59.227109Z"
+          "published_at": "2026-10-28T13:02:13.880609Z"
         }
       ],
       "source_count": 2,
@@ -1104,7 +1222,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-10-28T05:48:59.227109Z"
+          "published_at": "2026-10-28T13:02:13.880609Z"
         },
         {
           "id": "hotelitem_c7c15b7680c9",
@@ -1113,7 +1231,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-10-28T05:48:59.227109Z"
+          "published_at": "2026-10-28T13:02:13.880609Z"
         }
       ],
       "item_count": 2,
@@ -1133,8 +1251,8 @@
         "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-28T05:48:59.227109Z",
-      "latest_at": "2026-10-28T05:48:59.227109Z",
+      "earliest_at": "2026-10-28T13:02:13.880609Z",
+      "latest_at": "2026-10-28T13:02:13.880609Z",
       "primary_item": {
         "id": "hotelitem_d4370964909c",
         "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
@@ -1178,14 +1296,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8599,
-      "importance": 0.5947,
-      "importance_score": 0.8599,
+      "score": 0.8586,
+      "importance": 0.5933,
+      "importance_score": 0.8586,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9734,
+        "recency": 0.9667,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1200,6 +1318,183 @@
         "url": "https://insights.ehotelier.com/insights/2026/10/27/coffee-comfort-and-a-bigger-seat-at-the-revenue-table/?utm_source=rss&utm_medium=rss&utm_campaign=coffee-comfort-and-a-bigger-seat-at-the-revenue-table",
         "source": "eHotelier",
         "source_name": "eHotelier"
+      }
+    },
+    {
+      "story_id": "story_e4ce0593c384",
+      "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
+      "url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
+      "primary_url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
+      "source": "中国旅游研究院",
+      "source_name": "中国旅游研究院",
+      "sources": [
+        {
+          "id": "hotelitem_e4ce0593c384",
+          "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
+          "url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
+          "source": "中国旅游研究院",
+          "source_name": "中国旅游研究院",
+          "site_id": "cta",
+          "published_at": "2026-10-28T13:02:13.880609Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "中国旅游研究院"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_e4ce0593c384",
+          "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
+          "url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
+          "source": "中国旅游研究院",
+          "source_name": "中国旅游研究院",
+          "site_id": "cta",
+          "published_at": "2026-10-28T13:02:13.880609Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.858,
+      "importance": 0.6,
+      "importance_score": 0.858,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-28T13:02:13.880609Z",
+      "latest_at": "2026-10-28T13:02:13.880609Z",
+      "primary_item": {
+        "id": "hotelitem_e4ce0593c384",
+        "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
+        "url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
+        "source": "中国旅游研究院",
+        "source_name": "中国旅游研究院"
+      }
+    },
+    {
+      "story_id": "story_4adba65c20e7",
+      "title": "文化和旅游部党组召开会议坚决拥护党中央对...",
+      "url": "https://www.mct.gov.cn/whzx/whyw/202610/t20261010_967329.htm",
+      "primary_url": "https://www.mct.gov.cn/whzx/whyw/202610/t20261010_967329.htm",
+      "source": "文化和旅游部",
+      "source_name": "文化和旅游部",
+      "sources": [
+        {
+          "id": "hotelitem_4adba65c20e7",
+          "title": "文化和旅游部党组召开会议坚决拥护党中央对...",
+          "url": "https://www.mct.gov.cn/whzx/whyw/202610/t20261010_967329.htm",
+          "source": "文化和旅游部",
+          "source_name": "文化和旅游部",
+          "site_id": "mct",
+          "published_at": "2026-10-28T13:02:13.880609Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "文化和旅游部"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_4adba65c20e7",
+          "title": "文化和旅游部党组召开会议坚决拥护党中央对...",
+          "url": "https://www.mct.gov.cn/whzx/whyw/202610/t20261010_967329.htm",
+          "source": "文化和旅游部",
+          "source_name": "文化和旅游部",
+          "site_id": "mct",
+          "published_at": "2026-10-28T13:02:13.880609Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.858,
+      "importance": 0.6,
+      "importance_score": 0.858,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-28T13:02:13.880609Z",
+      "latest_at": "2026-10-28T13:02:13.880609Z",
+      "primary_item": {
+        "id": "hotelitem_4adba65c20e7",
+        "title": "文化和旅游部党组召开会议坚决拥护党中央对...",
+        "url": "https://www.mct.gov.cn/whzx/whyw/202610/t20261010_967329.htm",
+        "source": "文化和旅游部",
+        "source_name": "文化和旅游部"
+      }
+    },
+    {
+      "story_id": "story_e63a36930397",
+      "title": "文化和旅游部印发《艺术发展“十五五”规划》",
+      "url": "https://www.mct.gov.cn/whzx/whyw/202609/t20260930_967299.htm",
+      "primary_url": "https://www.mct.gov.cn/whzx/whyw/202609/t20260930_967299.htm",
+      "source": "文化和旅游部",
+      "source_name": "文化和旅游部",
+      "sources": [
+        {
+          "id": "hotelitem_e63a36930397",
+          "title": "文化和旅游部印发《艺术发展“十五五”规划》",
+          "url": "https://www.mct.gov.cn/whzx/whyw/202609/t20260930_967299.htm",
+          "source": "文化和旅游部",
+          "source_name": "文化和旅游部",
+          "site_id": "mct",
+          "published_at": "2026-10-28T13:02:13.880609Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "文化和旅游部"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_e63a36930397",
+          "title": "文化和旅游部印发《艺术发展“十五五”规划》",
+          "url": "https://www.mct.gov.cn/whzx/whyw/202609/t20260930_967299.htm",
+          "source": "文化和旅游部",
+          "source_name": "文化和旅游部",
+          "site_id": "mct",
+          "published_at": "2026-10-28T13:02:13.880609Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.858,
+      "importance": 0.6,
+      "importance_score": 0.858,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-28T13:02:13.880609Z",
+      "latest_at": "2026-10-28T13:02:13.880609Z",
+      "primary_item": {
+        "id": "hotelitem_e63a36930397",
+        "title": "文化和旅游部印发《艺术发展“十五五”规划》",
+        "url": "https://www.mct.gov.cn/whzx/whyw/202609/t20260930_967299.htm",
+        "source": "文化和旅游部",
+        "source_name": "文化和旅游部"
       }
     },
     {
@@ -1237,14 +1532,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.858,
-      "importance": 0.5928,
-      "importance_score": 0.858,
+      "score": 0.8567,
+      "importance": 0.5914,
+      "importance_score": 0.8567,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9638,
+        "recency": 0.9572,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1259,183 +1554,6 @@
         "url": "https://www.hotelmanagement.net/resource/newly-renovated-select-service-hotel-livingston-texas",
         "source": "Hotel Management",
         "source_name": "Hotel Management"
-      }
-    },
-    {
-      "story_id": "story_e4ce0593c384",
-      "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
-      "url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
-      "primary_url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
-      "source": "中国旅游研究院",
-      "source_name": "中国旅游研究院",
-      "sources": [
-        {
-          "id": "hotelitem_e4ce0593c384",
-          "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
-          "url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
-          "source": "中国旅游研究院",
-          "source_name": "中国旅游研究院",
-          "site_id": "cta",
-          "published_at": "2026-10-28T05:48:59.227109Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "中国旅游研究院"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_e4ce0593c384",
-          "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
-          "url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
-          "source": "中国旅游研究院",
-          "source_name": "中国旅游研究院",
-          "site_id": "cta",
-          "published_at": "2026-10-28T05:48:59.227109Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.858,
-      "importance": 0.6,
-      "importance_score": 0.858,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-28T05:48:59.227109Z",
-      "latest_at": "2026-10-28T05:48:59.227109Z",
-      "primary_item": {
-        "id": "hotelitem_e4ce0593c384",
-        "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
-        "url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
-        "source": "中国旅游研究院",
-        "source_name": "中国旅游研究院"
-      }
-    },
-    {
-      "story_id": "story_4adba65c20e7",
-      "title": "文化和旅游部党组召开会议坚决拥护党中央对...",
-      "url": "https://www.mct.gov.cn/whzx/whyw/202610/t20261010_967329.htm",
-      "primary_url": "https://www.mct.gov.cn/whzx/whyw/202610/t20261010_967329.htm",
-      "source": "文化和旅游部",
-      "source_name": "文化和旅游部",
-      "sources": [
-        {
-          "id": "hotelitem_4adba65c20e7",
-          "title": "文化和旅游部党组召开会议坚决拥护党中央对...",
-          "url": "https://www.mct.gov.cn/whzx/whyw/202610/t20261010_967329.htm",
-          "source": "文化和旅游部",
-          "source_name": "文化和旅游部",
-          "site_id": "mct",
-          "published_at": "2026-10-28T05:48:59.227109Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "文化和旅游部"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_4adba65c20e7",
-          "title": "文化和旅游部党组召开会议坚决拥护党中央对...",
-          "url": "https://www.mct.gov.cn/whzx/whyw/202610/t20261010_967329.htm",
-          "source": "文化和旅游部",
-          "source_name": "文化和旅游部",
-          "site_id": "mct",
-          "published_at": "2026-10-28T05:48:59.227109Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.858,
-      "importance": 0.6,
-      "importance_score": 0.858,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-28T05:48:59.227109Z",
-      "latest_at": "2026-10-28T05:48:59.227109Z",
-      "primary_item": {
-        "id": "hotelitem_4adba65c20e7",
-        "title": "文化和旅游部党组召开会议坚决拥护党中央对...",
-        "url": "https://www.mct.gov.cn/whzx/whyw/202610/t20261010_967329.htm",
-        "source": "文化和旅游部",
-        "source_name": "文化和旅游部"
-      }
-    },
-    {
-      "story_id": "story_e63a36930397",
-      "title": "文化和旅游部印发《艺术发展“十五五”规划》",
-      "url": "https://www.mct.gov.cn/whzx/whyw/202609/t20260930_967299.htm",
-      "primary_url": "https://www.mct.gov.cn/whzx/whyw/202609/t20260930_967299.htm",
-      "source": "文化和旅游部",
-      "source_name": "文化和旅游部",
-      "sources": [
-        {
-          "id": "hotelitem_e63a36930397",
-          "title": "文化和旅游部印发《艺术发展“十五五”规划》",
-          "url": "https://www.mct.gov.cn/whzx/whyw/202609/t20260930_967299.htm",
-          "source": "文化和旅游部",
-          "source_name": "文化和旅游部",
-          "site_id": "mct",
-          "published_at": "2026-10-28T05:48:59.227109Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "文化和旅游部"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_e63a36930397",
-          "title": "文化和旅游部印发《艺术发展“十五五”规划》",
-          "url": "https://www.mct.gov.cn/whzx/whyw/202609/t20260930_967299.htm",
-          "source": "文化和旅游部",
-          "source_name": "文化和旅游部",
-          "site_id": "mct",
-          "published_at": "2026-10-28T05:48:59.227109Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.858,
-      "importance": 0.6,
-      "importance_score": 0.858,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-28T05:48:59.227109Z",
-      "latest_at": "2026-10-28T05:48:59.227109Z",
-      "primary_item": {
-        "id": "hotelitem_e63a36930397",
-        "title": "文化和旅游部印发《艺术发展“十五五”规划》",
-        "url": "https://www.mct.gov.cn/whzx/whyw/202609/t20260930_967299.htm",
-        "source": "文化和旅游部",
-        "source_name": "文化和旅游部"
       }
     },
     {
@@ -1473,14 +1591,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8435,
-      "importance": 0.5932,
-      "importance_score": 0.8435,
+      "score": 0.8422,
+      "importance": 0.5919,
+      "importance_score": 0.8422,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9661,
+        "recency": 0.9594,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1532,14 +1650,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8428,
-      "importance": 0.5925,
-      "importance_score": 0.8428,
+      "score": 0.8415,
+      "importance": 0.5912,
+      "importance_score": 0.8415,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9625,
+        "recency": 0.9559,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1591,14 +1709,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8417,
-      "importance": 0.5914,
-      "importance_score": 0.8417,
+      "score": 0.8404,
+      "importance": 0.5901,
+      "importance_score": 0.8404,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.957,
+        "recency": 0.9503,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1613,65 +1731,6 @@
         "url": "https://boutiquehotelnews.com/videos/sally-beck-tourist-tax/?utm_source=rss&utm_medium=rss&utm_campaign=sally-beck-tourist-tax",
         "source": "Boutique Hotel News",
         "source_name": "Boutique Hotel News"
-      }
-    },
-    {
-      "story_id": "story_6a8f9763516f",
-      "title": "Developing the Next-Generation Guest Room: Five Micro-Approaches Delivering Meaningful Impact",
-      "url": "https://www.hotelmanagement.net/resource/developing-next-generation-guest-room-five-micro-approaches-delivering-meaningful-impact",
-      "primary_url": "https://www.hotelmanagement.net/resource/developing-next-generation-guest-room-five-micro-approaches-delivering-meaningful-impact",
-      "source": "Hotel Management",
-      "source_name": "Hotel Management",
-      "sources": [
-        {
-          "id": "hotelitem_6a8f9763516f",
-          "title": "Developing the Next-Generation Guest Room: Five Micro-Approaches Delivering Meaningful Impact",
-          "url": "https://www.hotelmanagement.net/resource/developing-next-generation-guest-room-five-micro-approaches-delivering-meaningful-impact",
-          "source": "Hotel Management",
-          "source_name": "Hotel Management",
-          "site_id": "hotelmgmt",
-          "published_at": "2026-10-19T16:11:31Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hotel Management"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_6a8f9763516f",
-          "title": "Developing the Next-Generation Guest Room: Five Micro-Approaches Delivering Meaningful Impact",
-          "url": "https://www.hotelmanagement.net/resource/developing-next-generation-guest-room-five-micro-approaches-delivering-meaningful-impact",
-          "source": "Hotel Management",
-          "source_name": "Hotel Management",
-          "site_id": "hotelmgmt",
-          "published_at": "2026-10-19T16:11:31Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8248,
-      "importance": 0.5619,
-      "importance_score": 0.8248,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.8096,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-19T16:11:31Z",
-      "latest_at": "2026-10-19T16:11:31Z",
-      "primary_item": {
-        "id": "hotelitem_6a8f9763516f",
-        "title": "Developing the Next-Generation Guest Room: Five Micro-Approaches Delivering Meaningful Impact",
-        "url": "https://www.hotelmanagement.net/resource/developing-next-generation-guest-room-five-micro-approaches-delivering-meaningful-impact",
-        "source": "Hotel Management",
-        "source_name": "Hotel Management"
       }
     },
     {
@@ -1709,14 +1768,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8248,
-      "importance": 0.5739,
-      "importance_score": 0.8248,
+      "score": 0.8235,
+      "importance": 0.5725,
+      "importance_score": 0.8235,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8694,
+        "recency": 0.8627,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1731,65 +1790,6 @@
         "url": "https://boutiquehotelnews.com/news/industry/far-east-hospitality/?utm_source=rss&utm_medium=rss&utm_campaign=far-east-hospitality",
         "source": "Boutique Hotel News",
         "source_name": "Boutique Hotel News"
-      }
-    },
-    {
-      "story_id": "story_49257b7f32dc",
-      "title": "Holiday Inn Express set for Perth CBD as IHG and SKS Group expand partnership",
-      "url": "https://insights.ehotelier.com/properties/2026/10/28/holiday-inn-express-set-for-perth-cbd-as-ihg-and-sks-group-expand-partnership/?utm_source=rss&utm_medium=rss&utm_campaign=holiday-inn-express-set-for-perth-cbd-as-ihg-and-sks-group-expand-partnership",
-      "primary_url": "https://insights.ehotelier.com/properties/2026/10/28/holiday-inn-express-set-for-perth-cbd-as-ihg-and-sks-group-expand-partnership/?utm_source=rss&utm_medium=rss&utm_campaign=holiday-inn-express-set-for-perth-cbd-as-ihg-and-sks-group-expand-partnership",
-      "source": "eHotelier",
-      "source_name": "eHotelier",
-      "sources": [
-        {
-          "id": "hotelitem_49257b7f32dc",
-          "title": "Holiday Inn Express set for Perth CBD as IHG and SKS Group expand partnership",
-          "url": "https://insights.ehotelier.com/properties/2026/10/28/holiday-inn-express-set-for-perth-cbd-as-ihg-and-sks-group-expand-partnership/?utm_source=rss&utm_medium=rss&utm_campaign=holiday-inn-express-set-for-perth-cbd-as-ihg-and-sks-group-expand-partnership",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-10-28T00:40:52Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "eHotelier"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_49257b7f32dc",
-          "title": "Holiday Inn Express set for Perth CBD as IHG and SKS Group expand partnership",
-          "url": "https://insights.ehotelier.com/properties/2026/10/28/holiday-inn-express-set-for-perth-cbd-as-ihg-and-sks-group-expand-partnership/?utm_source=rss&utm_medium=rss&utm_campaign=holiday-inn-express-set-for-perth-cbd-as-ihg-and-sks-group-expand-partnership",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-10-28T00:40:52Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8191,
-      "importance": 0.599,
-      "importance_score": 0.8191,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9952,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-28T00:40:52Z",
-      "latest_at": "2026-10-28T00:40:52Z",
-      "primary_item": {
-        "id": "hotelitem_49257b7f32dc",
-        "title": "Holiday Inn Express set for Perth CBD as IHG and SKS Group expand partnership",
-        "url": "https://insights.ehotelier.com/properties/2026/10/28/holiday-inn-express-set-for-perth-cbd-as-ihg-and-sks-group-expand-partnership/?utm_source=rss&utm_medium=rss&utm_campaign=holiday-inn-express-set-for-perth-cbd-as-ihg-and-sks-group-expand-partnership",
-        "source": "eHotelier",
-        "source_name": "eHotelier"
       }
     }
   ]
