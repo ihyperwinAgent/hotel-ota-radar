@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T10:03:56.860201Z",
+  "generated_at": "2026-10-29T18:30:15.415110Z",
   "window_hours": 1080,
   "total_items": 30,
   "items": [
@@ -39,13 +39,13 @@
       "item_count": 1,
       "duplicate_count": 1,
       "score": 1.0,
-      "importance": 0.5994,
+      "importance": 0.5978,
       "importance_score": 1.0,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.997,
+        "recency": 0.9892,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -98,13 +98,13 @@
       "item_count": 1,
       "duplicate_count": 1,
       "score": 1.0,
-      "importance": 0.5994,
+      "importance": 0.5978,
       "importance_score": 1.0,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.997,
+        "recency": 0.9892,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -119,6 +119,124 @@
         "url": "https://www.pinchain.com/article/352380",
         "source": "品橙旅游",
         "source_name": "品橙旅游"
+      }
+    },
+    {
+      "story_id": "story_5f7bc568a62c",
+      "title": "Luxury drives Hyatt’s Q3 RevPAR growth above expectations",
+      "url": "https://www.hoteldive.com/news/hyatt-q3-2026-earnings/873205/",
+      "primary_url": "https://www.hoteldive.com/news/hyatt-q3-2026-earnings/873205/",
+      "source": "Hotel Dive",
+      "source_name": "Hotel Dive",
+      "sources": [
+        {
+          "id": "hotelitem_5f7bc568a62c",
+          "title": "Luxury drives Hyatt’s Q3 RevPAR growth above expectations",
+          "url": "https://www.hoteldive.com/news/hyatt-q3-2026-earnings/873205/",
+          "source": "Hotel Dive",
+          "source_name": "Hotel Dive",
+          "site_id": "hoteldive",
+          "published_at": "2026-10-29T16:10:51Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hotel Dive"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_5f7bc568a62c",
+          "title": "Luxury drives Hyatt’s Q3 RevPAR growth above expectations",
+          "url": "https://www.hoteldive.com/news/hyatt-q3-2026-earnings/873205/",
+          "source": "Hotel Dive",
+          "source_name": "Hotel Dive",
+          "site_id": "hoteldive",
+          "published_at": "2026-10-29T16:10:51Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.9546,
+      "importance": 0.5996,
+      "importance_score": 0.9546,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9978,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-29T16:10:51Z",
+      "latest_at": "2026-10-29T16:10:51Z",
+      "primary_item": {
+        "id": "hotelitem_5f7bc568a62c",
+        "title": "Luxury drives Hyatt’s Q3 RevPAR growth above expectations",
+        "url": "https://www.hoteldive.com/news/hyatt-q3-2026-earnings/873205/",
+        "source": "Hotel Dive",
+        "source_name": "Hotel Dive"
+      }
+    },
+    {
+      "story_id": "story_6096e552463b",
+      "title": "Hyatt brings StandardX brand to North America with NYC flagship hotel",
+      "url": "https://www.hoteldive.com/news/hyatt-brings-standardx-brand-north-america-nyc-flagship-hotel/873156/",
+      "primary_url": "https://www.hoteldive.com/news/hyatt-brings-standardx-brand-north-america-nyc-flagship-hotel/873156/",
+      "source": "Hotel Dive",
+      "source_name": "Hotel Dive",
+      "sources": [
+        {
+          "id": "hotelitem_6096e552463b",
+          "title": "Hyatt brings StandardX brand to North America with NYC flagship hotel",
+          "url": "https://www.hoteldive.com/news/hyatt-brings-standardx-brand-north-america-nyc-flagship-hotel/873156/",
+          "source": "Hotel Dive",
+          "source_name": "Hotel Dive",
+          "site_id": "hoteldive",
+          "published_at": "2026-10-29T13:29:05Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hotel Dive"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_6096e552463b",
+          "title": "Hyatt brings StandardX brand to North America with NYC flagship hotel",
+          "url": "https://www.hoteldive.com/news/hyatt-brings-standardx-brand-north-america-nyc-flagship-hotel/873156/",
+          "source": "Hotel Dive",
+          "source_name": "Hotel Dive",
+          "site_id": "hoteldive",
+          "published_at": "2026-10-29T13:29:05Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.9541,
+      "importance": 0.5991,
+      "importance_score": 0.9541,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9954,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-29T13:29:05Z",
+      "latest_at": "2026-10-29T13:29:05Z",
+      "primary_item": {
+        "id": "hotelitem_6096e552463b",
+        "title": "Hyatt brings StandardX brand to North America with NYC flagship hotel",
+        "url": "https://www.hoteldive.com/news/hyatt-brings-standardx-brand-north-america-nyc-flagship-hotel/873156/",
+        "source": "Hotel Dive",
+        "source_name": "Hotel Dive"
       }
     },
     {
@@ -156,14 +274,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9534,
-      "importance": 0.5983,
-      "importance_score": 0.9534,
+      "score": 0.9519,
+      "importance": 0.5968,
+      "importance_score": 0.9519,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9917,
+        "recency": 0.9839,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -215,14 +333,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9534,
-      "importance": 0.5984,
-      "importance_score": 0.9534,
+      "score": 0.9519,
+      "importance": 0.5968,
+      "importance_score": 0.9519,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9918,
+        "recency": 0.984,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -274,14 +392,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9533,
-      "importance": 0.5982,
-      "importance_score": 0.9533,
+      "score": 0.9518,
+      "importance": 0.5967,
+      "importance_score": 0.9518,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9912,
+        "recency": 0.9834,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -333,14 +451,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9523,
-      "importance": 0.5972,
-      "importance_score": 0.9523,
+      "score": 0.9508,
+      "importance": 0.5956,
+      "importance_score": 0.9508,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9861,
+        "recency": 0.9782,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -392,14 +510,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9513,
-      "importance": 0.5961,
-      "importance_score": 0.9513,
+      "score": 0.9498,
+      "importance": 0.5946,
+      "importance_score": 0.9498,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9807,
+        "recency": 0.9729,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -451,14 +569,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9491,
-      "importance": 0.5939,
-      "importance_score": 0.9491,
+      "score": 0.9476,
+      "importance": 0.5923,
+      "importance_score": 0.9476,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9695,
+        "recency": 0.9617,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -510,14 +628,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9481,
-      "importance": 0.5928,
-      "importance_score": 0.9481,
+      "score": 0.9466,
+      "importance": 0.5913,
+      "importance_score": 0.9466,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9642,
+        "recency": 0.9564,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -535,21 +653,21 @@
       }
     },
     {
-      "story_id": "story_9c481fa4ce14",
-      "title": "Hotel Tech-in: Marriott’s guest room TV goes beyond entertainment",
-      "url": "https://www.hoteldive.com/news/marriott-entertainment-technology-platform-tv/850052/",
-      "primary_url": "https://www.hoteldive.com/news/marriott-entertainment-technology-platform-tv/850052/",
+      "story_id": "story_23fc2f1d9e47",
+      "title": "Hilton expects agentic AI to simplify the hotel customer experience",
+      "url": "https://www.hoteldive.com/news/hilton-expects-agentic-ai-to-simplify-hotel-customer-experience/872999/",
+      "primary_url": "https://www.hoteldive.com/news/hilton-expects-agentic-ai-to-simplify-hotel-customer-experience/872999/",
       "source": "Hotel Dive",
       "source_name": "Hotel Dive",
       "sources": [
         {
-          "id": "hotelitem_9c481fa4ce14",
-          "title": "Hotel Tech-in: Marriott’s guest room TV goes beyond entertainment",
-          "url": "https://www.hoteldive.com/news/marriott-entertainment-technology-platform-tv/850052/",
+          "id": "hotelitem_23fc2f1d9e47",
+          "title": "Hilton expects agentic AI to simplify the hotel customer experience",
+          "url": "https://www.hoteldive.com/news/hilton-expects-agentic-ai-to-simplify-hotel-customer-experience/872999/",
           "source": "Hotel Dive",
           "source_name": "Hotel Dive",
           "site_id": "hoteldive",
-          "published_at": "2026-10-26T13:53:45Z"
+          "published_at": "2026-10-27T19:07:11Z"
         }
       ],
       "source_count": 1,
@@ -558,39 +676,157 @@
       ],
       "items": [
         {
-          "id": "hotelitem_9c481fa4ce14",
-          "title": "Hotel Tech-in: Marriott’s guest room TV goes beyond entertainment",
-          "url": "https://www.hoteldive.com/news/marriott-entertainment-technology-platform-tv/850052/",
+          "id": "hotelitem_23fc2f1d9e47",
+          "title": "Hilton expects agentic AI to simplify the hotel customer experience",
+          "url": "https://www.hoteldive.com/news/hilton-expects-agentic-ai-to-simplify-hotel-customer-experience/872999/",
           "source": "Hotel Dive",
           "source_name": "Hotel Dive",
           "site_id": "hoteldive",
-          "published_at": "2026-10-26T13:53:45Z"
+          "published_at": "2026-10-27T19:07:11Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9428,
-      "importance": 0.5874,
-      "importance_score": 0.9428,
+      "score": 0.9465,
+      "importance": 0.5912,
+      "importance_score": 0.9465,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9369,
+        "recency": 0.9561,
         "story_heat": 0.0
       },
       "category": "watch",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-26T13:53:45Z",
-      "latest_at": "2026-10-26T13:53:45Z",
+      "earliest_at": "2026-10-27T19:07:11Z",
+      "latest_at": "2026-10-27T19:07:11Z",
       "primary_item": {
-        "id": "hotelitem_9c481fa4ce14",
-        "title": "Hotel Tech-in: Marriott’s guest room TV goes beyond entertainment",
-        "url": "https://www.hoteldive.com/news/marriott-entertainment-technology-platform-tv/850052/",
+        "id": "hotelitem_23fc2f1d9e47",
+        "title": "Hilton expects agentic AI to simplify the hotel customer experience",
+        "url": "https://www.hoteldive.com/news/hilton-expects-agentic-ai-to-simplify-hotel-customer-experience/872999/",
         "source": "Hotel Dive",
         "source_name": "Hotel Dive"
+      }
+    },
+    {
+      "story_id": "story_097a005ccf73",
+      "title": "Canary Technologies Study Examines AI’s Impact on the Hotel Guest Experience",
+      "url": "https://lodgingmagazine.com/canary-technologies-study-examines-ais-impact-on-the-hotel-guest-experience/",
+      "primary_url": "https://lodgingmagazine.com/canary-technologies-study-examines-ais-impact-on-the-hotel-guest-experience/",
+      "source": "Lodging Magazine",
+      "source_name": "Lodging Magazine",
+      "sources": [
+        {
+          "id": "hotelitem_097a005ccf73",
+          "title": "Canary Technologies Study Examines AI’s Impact on the Hotel Guest Experience",
+          "url": "https://lodgingmagazine.com/canary-technologies-study-examines-ais-impact-on-the-hotel-guest-experience/",
+          "source": "Lodging Magazine",
+          "source_name": "Lodging Magazine",
+          "site_id": "lodgingmag",
+          "published_at": "2026-10-29T16:00:32Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Lodging Magazine"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_097a005ccf73",
+          "title": "Canary Technologies Study Examines AI’s Impact on the Hotel Guest Experience",
+          "url": "https://lodgingmagazine.com/canary-technologies-study-examines-ais-impact-on-the-hotel-guest-experience/",
+          "source": "Lodging Magazine",
+          "source_name": "Lodging Magazine",
+          "site_id": "lodgingmag",
+          "published_at": "2026-10-29T16:00:32Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.9396,
+      "importance": 0.5995,
+      "importance_score": 0.9396,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9977,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-29T16:00:32Z",
+      "latest_at": "2026-10-29T16:00:32Z",
+      "primary_item": {
+        "id": "hotelitem_097a005ccf73",
+        "title": "Canary Technologies Study Examines AI’s Impact on the Hotel Guest Experience",
+        "url": "https://lodgingmagazine.com/canary-technologies-study-examines-ais-impact-on-the-hotel-guest-experience/",
+        "source": "Lodging Magazine",
+        "source_name": "Lodging Magazine"
+      }
+    },
+    {
+      "story_id": "story_e4f19d456733",
+      "title": "Tej Walia on why inaction is a hotelier’s biggest risk",
+      "url": "https://boutiquehotelnews.com/podcasts/tej-walia-inaction-risk/?utm_source=rss&utm_medium=rss&utm_campaign=tej-walia-inaction-risk",
+      "primary_url": "https://boutiquehotelnews.com/podcasts/tej-walia-inaction-risk/?utm_source=rss&utm_medium=rss&utm_campaign=tej-walia-inaction-risk",
+      "source": "Boutique Hotel News",
+      "source_name": "Boutique Hotel News",
+      "sources": [
+        {
+          "id": "hotelitem_e4f19d456733",
+          "title": "Tej Walia on why inaction is a hotelier’s biggest risk",
+          "url": "https://boutiquehotelnews.com/podcasts/tej-walia-inaction-risk/?utm_source=rss&utm_medium=rss&utm_campaign=tej-walia-inaction-risk",
+          "source": "Boutique Hotel News",
+          "source_name": "Boutique Hotel News",
+          "site_id": "boutiquehotel",
+          "published_at": "2026-10-29T11:07:52Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Boutique Hotel News"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_e4f19d456733",
+          "title": "Tej Walia on why inaction is a hotelier’s biggest risk",
+          "url": "https://boutiquehotelnews.com/podcasts/tej-walia-inaction-risk/?utm_source=rss&utm_medium=rss&utm_campaign=tej-walia-inaction-risk",
+          "source": "Boutique Hotel News",
+          "source_name": "Boutique Hotel News",
+          "site_id": "boutiquehotel",
+          "published_at": "2026-10-29T11:07:52Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.9387,
+      "importance": 0.5986,
+      "importance_score": 0.9387,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9932,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-29T11:07:52Z",
+      "latest_at": "2026-10-29T11:07:52Z",
+      "primary_item": {
+        "id": "hotelitem_e4f19d456733",
+        "title": "Tej Walia on why inaction is a hotelier’s biggest risk",
+        "url": "https://boutiquehotelnews.com/podcasts/tej-walia-inaction-risk/?utm_source=rss&utm_medium=rss&utm_campaign=tej-walia-inaction-risk",
+        "source": "Boutique Hotel News",
+        "source_name": "Boutique Hotel News"
       }
     },
     {
@@ -628,14 +864,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9365,
-      "importance": 0.5964,
-      "importance_score": 0.9365,
+      "score": 0.935,
+      "importance": 0.5948,
+      "importance_score": 0.935,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9818,
+        "recency": 0.974,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -687,14 +923,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9359,
-      "importance": 0.5957,
-      "importance_score": 0.9359,
+      "score": 0.9343,
+      "importance": 0.5941,
+      "importance_score": 0.9343,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9785,
+        "recency": 0.9707,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -709,183 +945,6 @@
         "url": "https://boutiquehotelnews.com/news/ihg-hotels-signs-90-room-riverside-hotel-indigo-london-kingston/?utm_source=rss&utm_medium=rss&utm_campaign=ihg-hotels-signs-90-room-riverside-hotel-indigo-london-kingston",
         "source": "Boutique Hotel News",
         "source_name": "Boutique Hotel News"
-      }
-    },
-    {
-      "story_id": "story_061c92b9cfbe",
-      "title": "The Westin Riverfront Resort & Spa Prioritizes Employee Mental Health Through H.O.P.E. Certification",
-      "url": "https://lodgingmagazine.com/the-westin-riverfront-resort-spa-prioritizes-employee-mental-health-through-h-o-p-e-certification/",
-      "primary_url": "https://lodgingmagazine.com/the-westin-riverfront-resort-spa-prioritizes-employee-mental-health-through-h-o-p-e-certification/",
-      "source": "Lodging Magazine",
-      "source_name": "Lodging Magazine",
-      "sources": [
-        {
-          "id": "hotelitem_061c92b9cfbe",
-          "title": "The Westin Riverfront Resort & Spa Prioritizes Employee Mental Health Through H.O.P.E. Certification",
-          "url": "https://lodgingmagazine.com/the-westin-riverfront-resort-spa-prioritizes-employee-mental-health-through-h-o-p-e-certification/",
-          "source": "Lodging Magazine",
-          "source_name": "Lodging Magazine",
-          "site_id": "lodgingmag",
-          "published_at": "2026-10-28T11:22:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Lodging Magazine"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_061c92b9cfbe",
-          "title": "The Westin Riverfront Resort & Spa Prioritizes Employee Mental Health Through H.O.P.E. Certification",
-          "url": "https://lodgingmagazine.com/the-westin-riverfront-resort-spa-prioritizes-employee-mental-health-through-h-o-p-e-certification/",
-          "source": "Lodging Magazine",
-          "source_name": "Lodging Magazine",
-          "site_id": "lodgingmag",
-          "published_at": "2026-10-28T11:22:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.9359,
-      "importance": 0.5958,
-      "importance_score": 0.9359,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.979,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-28T11:22:00Z",
-      "latest_at": "2026-10-28T11:22:00Z",
-      "primary_item": {
-        "id": "hotelitem_061c92b9cfbe",
-        "title": "The Westin Riverfront Resort & Spa Prioritizes Employee Mental Health Through H.O.P.E. Certification",
-        "url": "https://lodgingmagazine.com/the-westin-riverfront-resort-spa-prioritizes-employee-mental-health-through-h-o-p-e-certification/",
-        "source": "Lodging Magazine",
-        "source_name": "Lodging Magazine"
-      }
-    },
-    {
-      "story_id": "story_386ce752de82",
-      "title": "BWH Hotels Details Brand Transformation and Names WorldHotels as Its Masterbrand",
-      "url": "https://lodgingmagazine.com/bwh-hotels-unveils-brand-transformation-and-names-worldhotels-as-its-masterbrand/",
-      "primary_url": "https://lodgingmagazine.com/bwh-hotels-unveils-brand-transformation-and-names-worldhotels-as-its-masterbrand/",
-      "source": "Lodging Magazine",
-      "source_name": "Lodging Magazine",
-      "sources": [
-        {
-          "id": "hotelitem_386ce752de82",
-          "title": "BWH Hotels Details Brand Transformation and Names WorldHotels as Its Masterbrand",
-          "url": "https://lodgingmagazine.com/bwh-hotels-unveils-brand-transformation-and-names-worldhotels-as-its-masterbrand/",
-          "source": "Lodging Magazine",
-          "source_name": "Lodging Magazine",
-          "site_id": "lodgingmag",
-          "published_at": "2026-10-27T17:36:14Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Lodging Magazine"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_386ce752de82",
-          "title": "BWH Hotels Details Brand Transformation and Names WorldHotels as Its Masterbrand",
-          "url": "https://lodgingmagazine.com/bwh-hotels-unveils-brand-transformation-and-names-worldhotels-as-its-masterbrand/",
-          "source": "Lodging Magazine",
-          "source_name": "Lodging Magazine",
-          "site_id": "lodgingmag",
-          "published_at": "2026-10-27T17:36:14Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.9328,
-      "importance": 0.5925,
-      "importance_score": 0.9328,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9625,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-27T17:36:14Z",
-      "latest_at": "2026-10-27T17:36:14Z",
-      "primary_item": {
-        "id": "hotelitem_386ce752de82",
-        "title": "BWH Hotels Details Brand Transformation and Names WorldHotels as Its Masterbrand",
-        "url": "https://lodgingmagazine.com/bwh-hotels-unveils-brand-transformation-and-names-worldhotels-as-its-masterbrand/",
-        "source": "Lodging Magazine",
-        "source_name": "Lodging Magazine"
-      }
-    },
-    {
-      "story_id": "story_0a90c515bfe0",
-      "title": "Sage Hospitality Group Adds The Woodmark Hotel & Still Spa to Its Portfolio",
-      "url": "https://lodgingmagazine.com/sage-hospitality-group-adds-the-woodmark-hotel-still-spa-to-its-portfolio/",
-      "primary_url": "https://lodgingmagazine.com/sage-hospitality-group-adds-the-woodmark-hotel-still-spa-to-its-portfolio/",
-      "source": "Lodging Magazine",
-      "source_name": "Lodging Magazine",
-      "sources": [
-        {
-          "id": "hotelitem_0a90c515bfe0",
-          "title": "Sage Hospitality Group Adds The Woodmark Hotel & Still Spa to Its Portfolio",
-          "url": "https://lodgingmagazine.com/sage-hospitality-group-adds-the-woodmark-hotel-still-spa-to-its-portfolio/",
-          "source": "Lodging Magazine",
-          "source_name": "Lodging Magazine",
-          "site_id": "lodgingmag",
-          "published_at": "2026-10-27T13:29:44Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Lodging Magazine"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_0a90c515bfe0",
-          "title": "Sage Hospitality Group Adds The Woodmark Hotel & Still Spa to Its Portfolio",
-          "url": "https://lodgingmagazine.com/sage-hospitality-group-adds-the-woodmark-hotel-still-spa-to-its-portfolio/",
-          "source": "Lodging Magazine",
-          "source_name": "Lodging Magazine",
-          "site_id": "lodgingmag",
-          "published_at": "2026-10-27T13:29:44Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.932,
-      "importance": 0.5917,
-      "importance_score": 0.932,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9587,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-27T13:29:44Z",
-      "latest_at": "2026-10-27T13:29:44Z",
-      "primary_item": {
-        "id": "hotelitem_0a90c515bfe0",
-        "title": "Sage Hospitality Group Adds The Woodmark Hotel & Still Spa to Its Portfolio",
-        "url": "https://lodgingmagazine.com/sage-hospitality-group-adds-the-woodmark-hotel-still-spa-to-its-portfolio/",
-        "source": "Lodging Magazine",
-        "source_name": "Lodging Magazine"
       }
     },
     {
@@ -923,14 +982,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9295,
-      "importance": 0.5995,
-      "importance_score": 0.9295,
+      "score": 0.928,
+      "importance": 0.5979,
+      "importance_score": 0.928,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9973,
+        "recency": 0.9895,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -982,14 +1041,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9295,
-      "importance": 0.5995,
-      "importance_score": 0.9295,
+      "score": 0.928,
+      "importance": 0.5979,
+      "importance_score": 0.928,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9973,
+        "recency": 0.9895,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1041,14 +1100,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9295,
-      "importance": 0.5995,
-      "importance_score": 0.9295,
+      "score": 0.928,
+      "importance": 0.5979,
+      "importance_score": 0.928,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9974,
+        "recency": 0.9896,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1100,14 +1159,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9295,
-      "importance": 0.5995,
-      "importance_score": 0.9295,
+      "score": 0.928,
+      "importance": 0.5979,
+      "importance_score": 0.928,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9974,
+        "recency": 0.9896,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1159,14 +1218,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9294,
-      "importance": 0.5994,
-      "importance_score": 0.9294,
+      "score": 0.9279,
+      "importance": 0.5979,
+      "importance_score": 0.9279,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9971,
+        "recency": 0.9893,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1181,65 +1240,6 @@
         "url": "https://www.pinchain.com/article/352381",
         "source": "品橙旅游",
         "source_name": "品橙旅游"
-      }
-    },
-    {
-      "story_id": "story_e4b81e2f3ed7",
-      "title": "IHG reports Q3 RevPAR growth driven by ‘strength of US economy’",
-      "url": "https://www.hoteldive.com/news/ihg-q3-revpar-growth-strong-us-economy/833773/",
-      "primary_url": "https://www.hoteldive.com/news/ihg-q3-revpar-growth-strong-us-economy/833773/",
-      "source": "Hotel Dive",
-      "source_name": "Hotel Dive",
-      "sources": [
-        {
-          "id": "hotelitem_e4b81e2f3ed7",
-          "title": "IHG reports Q3 RevPAR growth driven by ‘strength of US economy’",
-          "url": "https://www.hoteldive.com/news/ihg-q3-revpar-growth-strong-us-economy/833773/",
-          "source": "Hotel Dive",
-          "source_name": "Hotel Dive",
-          "site_id": "hoteldive",
-          "published_at": "2026-10-22T19:11:26Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hotel Dive"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_e4b81e2f3ed7",
-          "title": "IHG reports Q3 RevPAR growth driven by ‘strength of US economy’",
-          "url": "https://www.hoteldive.com/news/ihg-q3-revpar-growth-strong-us-economy/833773/",
-          "source": "Hotel Dive",
-          "source_name": "Hotel Dive",
-          "site_id": "hoteldive",
-          "published_at": "2026-10-22T19:11:26Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.9266,
-      "importance": 0.5706,
-      "importance_score": 0.9266,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.8529,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-22T19:11:26Z",
-      "latest_at": "2026-10-22T19:11:26Z",
-      "primary_item": {
-        "id": "hotelitem_e4b81e2f3ed7",
-        "title": "IHG reports Q3 RevPAR growth driven by ‘strength of US economy’",
-        "url": "https://www.hoteldive.com/news/ihg-q3-revpar-growth-strong-us-economy/833773/",
-        "source": "Hotel Dive",
-        "source_name": "Hotel Dive"
       }
     },
     {
@@ -1277,14 +1277,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9071,
-      "importance": 0.5567,
-      "importance_score": 0.9071,
+      "score": 0.9048,
+      "importance": 0.5552,
+      "importance_score": 0.9048,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.7836,
+        "recency": 0.7758,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1316,7 +1316,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-10-29T10:03:56.860201Z"
+          "published_at": "2026-10-29T18:30:15.415110Z"
         }
       ],
       "source_count": 1,
@@ -1331,7 +1331,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-10-29T10:03:56.860201Z"
+          "published_at": "2026-10-29T18:30:15.415110Z"
         }
       ],
       "item_count": 1,
@@ -1350,8 +1350,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-29T10:03:56.860201Z",
-      "latest_at": "2026-10-29T10:03:56.860201Z",
+      "earliest_at": "2026-10-29T18:30:15.415110Z",
+      "latest_at": "2026-10-29T18:30:15.415110Z",
       "primary_item": {
         "id": "hotelitem_06f191e24d38",
         "title": "文旅惠报|复星国际申请分拆Club Med在港上市；南京商旅上半年营收3.66亿元",
@@ -1395,14 +1395,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8876,
-      "importance": 0.5656,
-      "importance_score": 0.8876,
+      "score": 0.8853,
+      "importance": 0.564,
+      "importance_score": 0.8853,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8278,
+        "recency": 0.82,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1454,14 +1454,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8707,
-      "importance": 0.5929,
-      "importance_score": 0.8707,
+      "score": 0.8692,
+      "importance": 0.5913,
+      "importance_score": 0.8692,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9646,
+        "recency": 0.9567,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1493,7 +1493,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-10-29T10:03:56.860201Z"
+          "published_at": "2026-10-29T18:30:15.415110Z"
         },
         {
           "id": "hotelitem_c7c15b7680c9",
@@ -1502,7 +1502,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-10-29T10:03:56.860201Z"
+          "published_at": "2026-10-29T18:30:15.415110Z"
         }
       ],
       "source_count": 2,
@@ -1517,7 +1517,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-10-29T10:03:56.860201Z"
+          "published_at": "2026-10-29T18:30:15.415110Z"
         },
         {
           "id": "hotelitem_c7c15b7680c9",
@@ -1526,7 +1526,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-10-29T10:03:56.860201Z"
+          "published_at": "2026-10-29T18:30:15.415110Z"
         }
       ],
       "item_count": 2,
@@ -1546,8 +1546,8 @@
         "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-29T10:03:56.860201Z",
-      "latest_at": "2026-10-29T10:03:56.860201Z",
+      "earliest_at": "2026-10-29T18:30:15.415110Z",
+      "latest_at": "2026-10-29T18:30:15.415110Z",
       "primary_item": {
         "id": "hotelitem_d4370964909c",
         "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
@@ -1571,7 +1571,7 @@
           "source": "迈点研究院",
           "source_name": "迈点研究院",
           "site_id": "meadin",
-          "published_at": "2026-10-29T10:03:56.860201Z"
+          "published_at": "2026-10-29T18:30:15.415110Z"
         }
       ],
       "source_count": 1,
@@ -1586,7 +1586,7 @@
           "source": "迈点研究院",
           "source_name": "迈点研究院",
           "site_id": "meadin",
-          "published_at": "2026-10-29T10:03:56.860201Z"
+          "published_at": "2026-10-29T18:30:15.415110Z"
         }
       ],
       "item_count": 1,
@@ -1605,8 +1605,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-29T10:03:56.860201Z",
-      "latest_at": "2026-10-29T10:03:56.860201Z",
+      "earliest_at": "2026-10-29T18:30:15.415110Z",
+      "latest_at": "2026-10-29T18:30:15.415110Z",
       "primary_item": {
         "id": "hotelitem_846efb8650e5",
         "title": "凯撒旅业：前三季度营收7.15亿元 同比增32.21%",
@@ -1630,7 +1630,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-10-29T10:03:56.860201Z"
+          "published_at": "2026-10-29T18:30:15.415110Z"
         }
       ],
       "source_count": 1,
@@ -1645,7 +1645,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-10-29T10:03:56.860201Z"
+          "published_at": "2026-10-29T18:30:15.415110Z"
         }
       ],
       "item_count": 1,
@@ -1664,8 +1664,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-29T10:03:56.860201Z",
-      "latest_at": "2026-10-29T10:03:56.860201Z",
+      "earliest_at": "2026-10-29T18:30:15.415110Z",
+      "latest_at": "2026-10-29T18:30:15.415110Z",
       "primary_item": {
         "id": "hotelitem_e4ce0593c384",
         "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
@@ -1689,7 +1689,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-10-29T10:03:56.860201Z"
+          "published_at": "2026-10-29T18:30:15.415110Z"
         }
       ],
       "source_count": 1,
@@ -1704,7 +1704,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-10-29T10:03:56.860201Z"
+          "published_at": "2026-10-29T18:30:15.415110Z"
         }
       ],
       "item_count": 1,
@@ -1723,8 +1723,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-29T10:03:56.860201Z",
-      "latest_at": "2026-10-29T10:03:56.860201Z",
+      "earliest_at": "2026-10-29T18:30:15.415110Z",
+      "latest_at": "2026-10-29T18:30:15.415110Z",
       "primary_item": {
         "id": "hotelitem_4adba65c20e7",
         "title": "文化和旅游部党组召开会议坚决拥护党中央对...",
@@ -1748,7 +1748,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-10-29T10:03:56.860201Z"
+          "published_at": "2026-10-29T18:30:15.415110Z"
         }
       ],
       "source_count": 1,
@@ -1763,7 +1763,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-10-29T10:03:56.860201Z"
+          "published_at": "2026-10-29T18:30:15.415110Z"
         }
       ],
       "item_count": 1,
@@ -1782,8 +1782,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-29T10:03:56.860201Z",
-      "latest_at": "2026-10-29T10:03:56.860201Z",
+      "earliest_at": "2026-10-29T18:30:15.415110Z",
+      "latest_at": "2026-10-29T18:30:15.415110Z",
       "primary_item": {
         "id": "hotelitem_e63a36930397",
         "title": "文化和旅游部印发《艺术发展“十五五”规划》",
