@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T18:30:15.415110Z",
+  "generated_at": "2026-10-30T01:05:18.742054Z",
   "window_hours": 1080,
   "total_stories": 30,
   "stories": [
@@ -39,13 +39,13 @@
       "item_count": 1,
       "duplicate_count": 1,
       "score": 1.0,
-      "importance": 0.5978,
+      "importance": 0.5966,
       "importance_score": 1.0,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9892,
+        "recency": 0.9831,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -98,13 +98,13 @@
       "item_count": 1,
       "duplicate_count": 1,
       "score": 1.0,
-      "importance": 0.5978,
+      "importance": 0.5966,
       "importance_score": 1.0,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9892,
+        "recency": 0.9831,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -119,6 +119,65 @@
         "url": "https://www.pinchain.com/article/352380",
         "source": "品橙旅游",
         "source_name": "品橙旅游"
+      }
+    },
+    {
+      "story_id": "story_0783563eddb1",
+      "title": "Radisson Hotel Group introduces Africa’s first Verified Net Zero hotel in Hoedspruit",
+      "url": "https://insights.ehotelier.com/properties/2026/10/30/radisson-hotel-group-introduces-africas-first-verified-net-zero-hotel-in-hoedspruit/?utm_source=rss&utm_medium=rss&utm_campaign=radisson-hotel-group-introduces-africas-first-verified-net-zero-hotel-in-hoedspruit",
+      "primary_url": "https://insights.ehotelier.com/properties/2026/10/30/radisson-hotel-group-introduces-africas-first-verified-net-zero-hotel-in-hoedspruit/?utm_source=rss&utm_medium=rss&utm_campaign=radisson-hotel-group-introduces-africas-first-verified-net-zero-hotel-in-hoedspruit",
+      "source": "eHotelier",
+      "source_name": "eHotelier",
+      "sources": [
+        {
+          "id": "hotelitem_0783563eddb1",
+          "title": "Radisson Hotel Group introduces Africa’s first Verified Net Zero hotel in Hoedspruit",
+          "url": "https://insights.ehotelier.com/properties/2026/10/30/radisson-hotel-group-introduces-africas-first-verified-net-zero-hotel-in-hoedspruit/?utm_source=rss&utm_medium=rss&utm_campaign=radisson-hotel-group-introduces-africas-first-verified-net-zero-hotel-in-hoedspruit",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-10-30T00:35:58Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "eHotelier"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_0783563eddb1",
+          "title": "Radisson Hotel Group introduces Africa’s first Verified Net Zero hotel in Hoedspruit",
+          "url": "https://insights.ehotelier.com/properties/2026/10/30/radisson-hotel-group-introduces-africas-first-verified-net-zero-hotel-in-hoedspruit/?utm_source=rss&utm_medium=rss&utm_campaign=radisson-hotel-group-introduces-africas-first-verified-net-zero-hotel-in-hoedspruit",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-10-30T00:35:58Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.9549,
+      "importance": 0.5999,
+      "importance_score": 0.9549,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9995,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-30T00:35:58Z",
+      "latest_at": "2026-10-30T00:35:58Z",
+      "primary_item": {
+        "id": "hotelitem_0783563eddb1",
+        "title": "Radisson Hotel Group introduces Africa’s first Verified Net Zero hotel in Hoedspruit",
+        "url": "https://insights.ehotelier.com/properties/2026/10/30/radisson-hotel-group-introduces-africas-first-verified-net-zero-hotel-in-hoedspruit/?utm_source=rss&utm_medium=rss&utm_campaign=radisson-hotel-group-introduces-africas-first-verified-net-zero-hotel-in-hoedspruit",
+        "source": "eHotelier",
+        "source_name": "eHotelier"
       }
     },
     {
@@ -156,14 +215,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9546,
-      "importance": 0.5996,
-      "importance_score": 0.9546,
+      "score": 0.9534,
+      "importance": 0.5984,
+      "importance_score": 0.9534,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9978,
+        "recency": 0.9918,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -215,14 +274,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9541,
-      "importance": 0.5991,
-      "importance_score": 0.9541,
+      "score": 0.9529,
+      "importance": 0.5979,
+      "importance_score": 0.9529,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9954,
+        "recency": 0.9893,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -274,14 +333,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9519,
-      "importance": 0.5968,
-      "importance_score": 0.9519,
+      "score": 0.9507,
+      "importance": 0.5956,
+      "importance_score": 0.9507,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9839,
+        "recency": 0.9778,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -333,14 +392,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9519,
-      "importance": 0.5968,
-      "importance_score": 0.9519,
+      "score": 0.9507,
+      "importance": 0.5956,
+      "importance_score": 0.9507,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.984,
+        "recency": 0.9779,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -353,65 +412,6 @@
         "id": "hotelitem_4c69daf877ad",
         "title": "Where to find winter sun as holiday travel costs hit a 10-year high",
         "url": "https://insights.ehotelier.com/insights/2026/10/29/where-to-find-winter-sun-as-holiday-travel-costs-hit-a-10-year-high/?utm_source=rss&utm_medium=rss&utm_campaign=where-to-find-winter-sun-as-holiday-travel-costs-hit-a-10-year-high",
-        "source": "eHotelier",
-        "source_name": "eHotelier"
-      }
-    },
-    {
-      "story_id": "story_79331bd7466d",
-      "title": "IHG Hotels & Resorts expands UK&I Luxury & Lifestyle portfolio with signing of Hotel Indigo London – Kingston",
-      "url": "https://insights.ehotelier.com/properties/2026/10/29/ihg-hotels-resorts-expands-uki-luxury-lifestyle-portfolio-with-signing-of-hotel-indigo-london-kingston/?utm_source=rss&utm_medium=rss&utm_campaign=ihg-hotels-resorts-expands-uki-luxury-lifestyle-portfolio-with-signing-of-hotel-indigo-london-kingston",
-      "primary_url": "https://insights.ehotelier.com/properties/2026/10/29/ihg-hotels-resorts-expands-uki-luxury-lifestyle-portfolio-with-signing-of-hotel-indigo-london-kingston/?utm_source=rss&utm_medium=rss&utm_campaign=ihg-hotels-resorts-expands-uki-luxury-lifestyle-portfolio-with-signing-of-hotel-indigo-london-kingston",
-      "source": "eHotelier",
-      "source_name": "eHotelier",
-      "sources": [
-        {
-          "id": "hotelitem_79331bd7466d",
-          "title": "IHG Hotels & Resorts expands UK&I Luxury & Lifestyle portfolio with signing of Hotel Indigo London – Kingston",
-          "url": "https://insights.ehotelier.com/properties/2026/10/29/ihg-hotels-resorts-expands-uki-luxury-lifestyle-portfolio-with-signing-of-hotel-indigo-london-kingston/?utm_source=rss&utm_medium=rss&utm_campaign=ihg-hotels-resorts-expands-uki-luxury-lifestyle-portfolio-with-signing-of-hotel-indigo-london-kingston",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-10-29T00:35:26Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "eHotelier"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_79331bd7466d",
-          "title": "IHG Hotels & Resorts expands UK&I Luxury & Lifestyle portfolio with signing of Hotel Indigo London – Kingston",
-          "url": "https://insights.ehotelier.com/properties/2026/10/29/ihg-hotels-resorts-expands-uki-luxury-lifestyle-portfolio-with-signing-of-hotel-indigo-london-kingston/?utm_source=rss&utm_medium=rss&utm_campaign=ihg-hotels-resorts-expands-uki-luxury-lifestyle-portfolio-with-signing-of-hotel-indigo-london-kingston",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-10-29T00:35:26Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.9518,
-      "importance": 0.5967,
-      "importance_score": 0.9518,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9834,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-29T00:35:26Z",
-      "latest_at": "2026-10-29T00:35:26Z",
-      "primary_item": {
-        "id": "hotelitem_79331bd7466d",
-        "title": "IHG Hotels & Resorts expands UK&I Luxury & Lifestyle portfolio with signing of Hotel Indigo London – Kingston",
-        "url": "https://insights.ehotelier.com/properties/2026/10/29/ihg-hotels-resorts-expands-uki-luxury-lifestyle-portfolio-with-signing-of-hotel-indigo-london-kingston/?utm_source=rss&utm_medium=rss&utm_campaign=ihg-hotels-resorts-expands-uki-luxury-lifestyle-portfolio-with-signing-of-hotel-indigo-london-kingston",
         "source": "eHotelier",
         "source_name": "eHotelier"
       }
@@ -451,14 +451,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9508,
-      "importance": 0.5956,
-      "importance_score": 0.9508,
+      "score": 0.9496,
+      "importance": 0.5944,
+      "importance_score": 0.9496,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9782,
+        "recency": 0.9721,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -510,14 +510,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9498,
-      "importance": 0.5946,
-      "importance_score": 0.9498,
+      "score": 0.9486,
+      "importance": 0.5934,
+      "importance_score": 0.9486,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9729,
+        "recency": 0.9668,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -530,124 +530,6 @@
         "id": "hotelitem_ba213c9c534c",
         "title": "Caesars posts Q3 Las Vegas declines as Fertitta takeover looms",
         "url": "https://www.hoteldive.com/news/caesars-entertainment-q3-2026-earnings/872996/",
-        "source": "Hotel Dive",
-        "source_name": "Hotel Dive"
-      }
-    },
-    {
-      "story_id": "story_9dd97cc998c2",
-      "title": "When the holiday season ends, Your guest’s value doesn’t",
-      "url": "https://insights.ehotelier.com/insights/2026/10/28/when-the-holiday-season-ends-your-guests-value-doesnt-2/?utm_source=rss&utm_medium=rss&utm_campaign=when-the-holiday-season-ends-your-guests-value-doesnt-2",
-      "primary_url": "https://insights.ehotelier.com/insights/2026/10/28/when-the-holiday-season-ends-your-guests-value-doesnt-2/?utm_source=rss&utm_medium=rss&utm_campaign=when-the-holiday-season-ends-your-guests-value-doesnt-2",
-      "source": "eHotelier",
-      "source_name": "eHotelier",
-      "sources": [
-        {
-          "id": "hotelitem_9dd97cc998c2",
-          "title": "When the holiday season ends, Your guest’s value doesn’t",
-          "url": "https://insights.ehotelier.com/insights/2026/10/28/when-the-holiday-season-ends-your-guests-value-doesnt-2/?utm_source=rss&utm_medium=rss&utm_campaign=when-the-holiday-season-ends-your-guests-value-doesnt-2",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-10-28T01:06:19Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "eHotelier"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_9dd97cc998c2",
-          "title": "When the holiday season ends, Your guest’s value doesn’t",
-          "url": "https://insights.ehotelier.com/insights/2026/10/28/when-the-holiday-season-ends-your-guests-value-doesnt-2/?utm_source=rss&utm_medium=rss&utm_campaign=when-the-holiday-season-ends-your-guests-value-doesnt-2",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-10-28T01:06:19Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.9476,
-      "importance": 0.5923,
-      "importance_score": 0.9476,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9617,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-28T01:06:19Z",
-      "latest_at": "2026-10-28T01:06:19Z",
-      "primary_item": {
-        "id": "hotelitem_9dd97cc998c2",
-        "title": "When the holiday season ends, Your guest’s value doesn’t",
-        "url": "https://insights.ehotelier.com/insights/2026/10/28/when-the-holiday-season-ends-your-guests-value-doesnt-2/?utm_source=rss&utm_medium=rss&utm_campaign=when-the-holiday-season-ends-your-guests-value-doesnt-2",
-        "source": "eHotelier",
-        "source_name": "eHotelier"
-      }
-    },
-    {
-      "story_id": "story_c226831093cd",
-      "title": "Hilton raises full-year RevPAR outlook after ‘strong’ Q3 results",
-      "url": "https://www.hoteldive.com/news/hilton-raises-full-year-revpar-outlook-after-strong-q3/872934/",
-      "primary_url": "https://www.hoteldive.com/news/hilton-raises-full-year-revpar-outlook-after-strong-q3/872934/",
-      "source": "Hotel Dive",
-      "source_name": "Hotel Dive",
-      "sources": [
-        {
-          "id": "hotelitem_c226831093cd",
-          "title": "Hilton raises full-year RevPAR outlook after ‘strong’ Q3 results",
-          "url": "https://www.hoteldive.com/news/hilton-raises-full-year-revpar-outlook-after-strong-q3/872934/",
-          "source": "Hotel Dive",
-          "source_name": "Hotel Dive",
-          "site_id": "hoteldive",
-          "published_at": "2026-10-27T19:23:08Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hotel Dive"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_c226831093cd",
-          "title": "Hilton raises full-year RevPAR outlook after ‘strong’ Q3 results",
-          "url": "https://www.hoteldive.com/news/hilton-raises-full-year-revpar-outlook-after-strong-q3/872934/",
-          "source": "Hotel Dive",
-          "source_name": "Hotel Dive",
-          "site_id": "hoteldive",
-          "published_at": "2026-10-27T19:23:08Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.9466,
-      "importance": 0.5913,
-      "importance_score": 0.9466,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9564,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-27T19:23:08Z",
-      "latest_at": "2026-10-27T19:23:08Z",
-      "primary_item": {
-        "id": "hotelitem_c226831093cd",
-        "title": "Hilton raises full-year RevPAR outlook after ‘strong’ Q3 results",
-        "url": "https://www.hoteldive.com/news/hilton-raises-full-year-revpar-outlook-after-strong-q3/872934/",
         "source": "Hotel Dive",
         "source_name": "Hotel Dive"
       }
@@ -687,14 +569,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9465,
-      "importance": 0.5912,
-      "importance_score": 0.9465,
+      "score": 0.9454,
+      "importance": 0.59,
+      "importance_score": 0.9454,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9561,
+        "recency": 0.95,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -707,6 +589,65 @@
         "id": "hotelitem_23fc2f1d9e47",
         "title": "Hilton expects agentic AI to simplify the hotel customer experience",
         "url": "https://www.hoteldive.com/news/hilton-expects-agentic-ai-to-simplify-hotel-customer-experience/872999/",
+        "source": "Hotel Dive",
+        "source_name": "Hotel Dive"
+      }
+    },
+    {
+      "story_id": "story_c226831093cd",
+      "title": "Hilton raises full-year RevPAR outlook after ‘strong’ Q3 results",
+      "url": "https://www.hoteldive.com/news/hilton-raises-full-year-revpar-outlook-after-strong-q3/872934/",
+      "primary_url": "https://www.hoteldive.com/news/hilton-raises-full-year-revpar-outlook-after-strong-q3/872934/",
+      "source": "Hotel Dive",
+      "source_name": "Hotel Dive",
+      "sources": [
+        {
+          "id": "hotelitem_c226831093cd",
+          "title": "Hilton raises full-year RevPAR outlook after ‘strong’ Q3 results",
+          "url": "https://www.hoteldive.com/news/hilton-raises-full-year-revpar-outlook-after-strong-q3/872934/",
+          "source": "Hotel Dive",
+          "source_name": "Hotel Dive",
+          "site_id": "hoteldive",
+          "published_at": "2026-10-27T19:23:08Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hotel Dive"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_c226831093cd",
+          "title": "Hilton raises full-year RevPAR outlook after ‘strong’ Q3 results",
+          "url": "https://www.hoteldive.com/news/hilton-raises-full-year-revpar-outlook-after-strong-q3/872934/",
+          "source": "Hotel Dive",
+          "source_name": "Hotel Dive",
+          "site_id": "hoteldive",
+          "published_at": "2026-10-27T19:23:08Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.9454,
+      "importance": 0.5901,
+      "importance_score": 0.9454,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9503,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-27T19:23:08Z",
+      "latest_at": "2026-10-27T19:23:08Z",
+      "primary_item": {
+        "id": "hotelitem_c226831093cd",
+        "title": "Hilton raises full-year RevPAR outlook after ‘strong’ Q3 results",
+        "url": "https://www.hoteldive.com/news/hilton-raises-full-year-revpar-outlook-after-strong-q3/872934/",
         "source": "Hotel Dive",
         "source_name": "Hotel Dive"
       }
@@ -746,14 +687,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9396,
-      "importance": 0.5995,
-      "importance_score": 0.9396,
+      "score": 0.9384,
+      "importance": 0.5983,
+      "importance_score": 0.9384,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9977,
+        "recency": 0.9916,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -805,14 +746,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9387,
-      "importance": 0.5986,
-      "importance_score": 0.9387,
+      "score": 0.9375,
+      "importance": 0.5974,
+      "importance_score": 0.9375,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9932,
+        "recency": 0.9871,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -827,65 +768,6 @@
         "url": "https://boutiquehotelnews.com/podcasts/tej-walia-inaction-risk/?utm_source=rss&utm_medium=rss&utm_campaign=tej-walia-inaction-risk",
         "source": "Boutique Hotel News",
         "source_name": "Boutique Hotel News"
-      }
-    },
-    {
-      "story_id": "story_8aea6a9e1b4a",
-      "title": "Hyatt Announces Plans for The StandardX’s North American Debut",
-      "url": "https://lodgingmagazine.com/hyatt-announces-plans-for-the-standardxs-north-american-debut/",
-      "primary_url": "https://lodgingmagazine.com/hyatt-announces-plans-for-the-standardxs-north-american-debut/",
-      "source": "Lodging Magazine",
-      "source_name": "Lodging Magazine",
-      "sources": [
-        {
-          "id": "hotelitem_8aea6a9e1b4a",
-          "title": "Hyatt Announces Plans for The StandardX’s North American Debut",
-          "url": "https://lodgingmagazine.com/hyatt-announces-plans-for-the-standardxs-north-american-debut/",
-          "source": "Lodging Magazine",
-          "source_name": "Lodging Magazine",
-          "site_id": "lodgingmag",
-          "published_at": "2026-10-28T14:27:21Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Lodging Magazine"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_8aea6a9e1b4a",
-          "title": "Hyatt Announces Plans for The StandardX’s North American Debut",
-          "url": "https://lodgingmagazine.com/hyatt-announces-plans-for-the-standardxs-north-american-debut/",
-          "source": "Lodging Magazine",
-          "source_name": "Lodging Magazine",
-          "site_id": "lodgingmag",
-          "published_at": "2026-10-28T14:27:21Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.935,
-      "importance": 0.5948,
-      "importance_score": 0.935,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.974,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-28T14:27:21Z",
-      "latest_at": "2026-10-28T14:27:21Z",
-      "primary_item": {
-        "id": "hotelitem_8aea6a9e1b4a",
-        "title": "Hyatt Announces Plans for The StandardX’s North American Debut",
-        "url": "https://lodgingmagazine.com/hyatt-announces-plans-for-the-standardxs-north-american-debut/",
-        "source": "Lodging Magazine",
-        "source_name": "Lodging Magazine"
       }
     },
     {
@@ -923,14 +805,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9343,
-      "importance": 0.5941,
-      "importance_score": 0.9343,
+      "score": 0.9332,
+      "importance": 0.5929,
+      "importance_score": 0.9332,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9707,
+        "recency": 0.9646,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -945,6 +827,65 @@
         "url": "https://boutiquehotelnews.com/news/ihg-hotels-signs-90-room-riverside-hotel-indigo-london-kingston/?utm_source=rss&utm_medium=rss&utm_campaign=ihg-hotels-signs-90-room-riverside-hotel-indigo-london-kingston",
         "source": "Boutique Hotel News",
         "source_name": "Boutique Hotel News"
+      }
+    },
+    {
+      "story_id": "story_d22eb6daf472",
+      "title": "九华旅游2026年三季度净利润3974.81万元",
+      "url": "https://www.pinchain.com/article/352381",
+      "primary_url": "https://www.pinchain.com/article/352381",
+      "source": "品橙旅游",
+      "source_name": "品橙旅游",
+      "sources": [
+        {
+          "id": "hotelitem_d22eb6daf472",
+          "title": "九华旅游2026年三季度净利润3974.81万元",
+          "url": "https://www.pinchain.com/article/352381",
+          "source": "品橙旅游",
+          "source_name": "品橙旅游",
+          "site_id": "pinchain",
+          "published_at": "2026-10-29T06:53:57Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "品橙旅游"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_d22eb6daf472",
+          "title": "九华旅游2026年三季度净利润3974.81万元",
+          "url": "https://www.pinchain.com/article/352381",
+          "source": "品橙旅游",
+          "source_name": "品橙旅游",
+          "site_id": "pinchain",
+          "published_at": "2026-10-29T06:53:57Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.9268,
+      "importance": 0.5966,
+      "importance_score": 0.9268,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9832,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-29T06:53:57Z",
+      "latest_at": "2026-10-29T06:53:57Z",
+      "primary_item": {
+        "id": "hotelitem_d22eb6daf472",
+        "title": "九华旅游2026年三季度净利润3974.81万元",
+        "url": "https://www.pinchain.com/article/352381",
+        "source": "品橙旅游",
+        "source_name": "品橙旅游"
       }
     },
     {
@@ -982,14 +923,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.928,
-      "importance": 0.5979,
-      "importance_score": 0.928,
+      "score": 0.9268,
+      "importance": 0.5967,
+      "importance_score": 0.9268,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9895,
+        "recency": 0.9834,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1041,14 +982,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.928,
-      "importance": 0.5979,
-      "importance_score": 0.928,
+      "score": 0.9268,
+      "importance": 0.5967,
+      "importance_score": 0.9268,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9895,
+        "recency": 0.9834,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1100,14 +1041,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.928,
-      "importance": 0.5979,
-      "importance_score": 0.928,
+      "score": 0.9268,
+      "importance": 0.5967,
+      "importance_score": 0.9268,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9896,
+        "recency": 0.9835,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1159,14 +1100,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.928,
-      "importance": 0.5979,
-      "importance_score": 0.928,
+      "score": 0.9268,
+      "importance": 0.5967,
+      "importance_score": 0.9268,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9896,
+        "recency": 0.9835,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1179,65 +1120,6 @@
         "id": "hotelitem_d732ec180a7d",
         "title": "金马游乐2026年三季度净亏损878.89万元",
         "url": "https://www.pinchain.com/article/352388",
-        "source": "品橙旅游",
-        "source_name": "品橙旅游"
-      }
-    },
-    {
-      "story_id": "story_d22eb6daf472",
-      "title": "九华旅游2026年三季度净利润3974.81万元",
-      "url": "https://www.pinchain.com/article/352381",
-      "primary_url": "https://www.pinchain.com/article/352381",
-      "source": "品橙旅游",
-      "source_name": "品橙旅游",
-      "sources": [
-        {
-          "id": "hotelitem_d22eb6daf472",
-          "title": "九华旅游2026年三季度净利润3974.81万元",
-          "url": "https://www.pinchain.com/article/352381",
-          "source": "品橙旅游",
-          "source_name": "品橙旅游",
-          "site_id": "pinchain",
-          "published_at": "2026-10-29T06:53:57Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "品橙旅游"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_d22eb6daf472",
-          "title": "九华旅游2026年三季度净利润3974.81万元",
-          "url": "https://www.pinchain.com/article/352381",
-          "source": "品橙旅游",
-          "source_name": "品橙旅游",
-          "site_id": "pinchain",
-          "published_at": "2026-10-29T06:53:57Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.9279,
-      "importance": 0.5979,
-      "importance_score": 0.9279,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9893,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-29T06:53:57Z",
-      "latest_at": "2026-10-29T06:53:57Z",
-      "primary_item": {
-        "id": "hotelitem_d22eb6daf472",
-        "title": "九华旅游2026年三季度净利润3974.81万元",
-        "url": "https://www.pinchain.com/article/352381",
         "source": "品橙旅游",
         "source_name": "品橙旅游"
       }
@@ -1277,14 +1159,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9048,
-      "importance": 0.5552,
-      "importance_score": 0.9048,
+      "score": 0.9031,
+      "importance": 0.5539,
+      "importance_score": 0.9031,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.7758,
+        "recency": 0.7697,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1316,7 +1198,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-10-29T18:30:15.415110Z"
+          "published_at": "2026-10-30T01:05:18.742054Z"
         }
       ],
       "source_count": 1,
@@ -1331,7 +1213,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-10-29T18:30:15.415110Z"
+          "published_at": "2026-10-30T01:05:18.742054Z"
         }
       ],
       "item_count": 1,
@@ -1350,8 +1232,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-29T18:30:15.415110Z",
-      "latest_at": "2026-10-29T18:30:15.415110Z",
+      "earliest_at": "2026-10-30T01:05:18.742054Z",
+      "latest_at": "2026-10-30T01:05:18.742054Z",
       "primary_item": {
         "id": "hotelitem_06f191e24d38",
         "title": "文旅惠报|复星国际申请分拆Club Med在港上市；南京商旅上半年营收3.66亿元",
@@ -1395,14 +1277,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8853,
-      "importance": 0.564,
-      "importance_score": 0.8853,
+      "score": 0.8835,
+      "importance": 0.5628,
+      "importance_score": 0.8835,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.82,
+        "recency": 0.8139,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1454,14 +1336,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8692,
-      "importance": 0.5913,
-      "importance_score": 0.8692,
+      "score": 0.868,
+      "importance": 0.5901,
+      "importance_score": 0.868,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9567,
+        "recency": 0.9506,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1479,6 +1361,65 @@
       }
     },
     {
+      "story_id": "story_a71d3e0186c0",
+      "title": "The Meetings Industry Association responds to the Autumn Budget",
+      "url": "https://insights.ehotelier.com/global-news/2026/10/30/the-meetings-industry-association-responds-to-the-autumn-budget/?utm_source=rss&utm_medium=rss&utm_campaign=the-meetings-industry-association-responds-to-the-autumn-budget",
+      "primary_url": "https://insights.ehotelier.com/global-news/2026/10/30/the-meetings-industry-association-responds-to-the-autumn-budget/?utm_source=rss&utm_medium=rss&utm_campaign=the-meetings-industry-association-responds-to-the-autumn-budget",
+      "source": "eHotelier",
+      "source_name": "eHotelier",
+      "sources": [
+        {
+          "id": "hotelitem_a71d3e0186c0",
+          "title": "The Meetings Industry Association responds to the Autumn Budget",
+          "url": "https://insights.ehotelier.com/global-news/2026/10/30/the-meetings-industry-association-responds-to-the-autumn-budget/?utm_source=rss&utm_medium=rss&utm_campaign=the-meetings-industry-association-responds-to-the-autumn-budget",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-10-30T00:55:32Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "eHotelier"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_a71d3e0186c0",
+          "title": "The Meetings Industry Association responds to the Autumn Budget",
+          "url": "https://insights.ehotelier.com/global-news/2026/10/30/the-meetings-industry-association-responds-to-the-autumn-budget/?utm_source=rss&utm_medium=rss&utm_campaign=the-meetings-industry-association-responds-to-the-autumn-budget",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-10-30T00:55:32Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.865,
+      "importance": 0.6,
+      "importance_score": 0.865,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9998,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-30T00:55:32Z",
+      "latest_at": "2026-10-30T00:55:32Z",
+      "primary_item": {
+        "id": "hotelitem_a71d3e0186c0",
+        "title": "The Meetings Industry Association responds to the Autumn Budget",
+        "url": "https://insights.ehotelier.com/global-news/2026/10/30/the-meetings-industry-association-responds-to-the-autumn-budget/?utm_source=rss&utm_medium=rss&utm_campaign=the-meetings-industry-association-responds-to-the-autumn-budget",
+        "source": "eHotelier",
+        "source_name": "eHotelier"
+      }
+    },
+    {
       "story_id": "story_c7c15b7680c9",
       "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
       "url": "https://www.chinahotel.org.cn/articles/17408",
@@ -1493,7 +1434,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-10-29T18:30:15.415110Z"
+          "published_at": "2026-10-30T01:05:18.742054Z"
         },
         {
           "id": "hotelitem_c7c15b7680c9",
@@ -1502,7 +1443,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-10-29T18:30:15.415110Z"
+          "published_at": "2026-10-30T01:05:18.742054Z"
         }
       ],
       "source_count": 2,
@@ -1517,7 +1458,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-10-29T18:30:15.415110Z"
+          "published_at": "2026-10-30T01:05:18.742054Z"
         },
         {
           "id": "hotelitem_c7c15b7680c9",
@@ -1526,7 +1467,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-10-29T18:30:15.415110Z"
+          "published_at": "2026-10-30T01:05:18.742054Z"
         }
       ],
       "item_count": 2,
@@ -1546,8 +1487,8 @@
         "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-29T18:30:15.415110Z",
-      "latest_at": "2026-10-29T18:30:15.415110Z",
+      "earliest_at": "2026-10-30T01:05:18.742054Z",
+      "latest_at": "2026-10-30T01:05:18.742054Z",
       "primary_item": {
         "id": "hotelitem_d4370964909c",
         "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
@@ -1571,7 +1512,7 @@
           "source": "迈点研究院",
           "source_name": "迈点研究院",
           "site_id": "meadin",
-          "published_at": "2026-10-29T18:30:15.415110Z"
+          "published_at": "2026-10-30T01:05:18.742054Z"
         }
       ],
       "source_count": 1,
@@ -1586,7 +1527,7 @@
           "source": "迈点研究院",
           "source_name": "迈点研究院",
           "site_id": "meadin",
-          "published_at": "2026-10-29T18:30:15.415110Z"
+          "published_at": "2026-10-30T01:05:18.742054Z"
         }
       ],
       "item_count": 1,
@@ -1605,8 +1546,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-29T18:30:15.415110Z",
-      "latest_at": "2026-10-29T18:30:15.415110Z",
+      "earliest_at": "2026-10-30T01:05:18.742054Z",
+      "latest_at": "2026-10-30T01:05:18.742054Z",
       "primary_item": {
         "id": "hotelitem_846efb8650e5",
         "title": "凯撒旅业：前三季度营收7.15亿元 同比增32.21%",
@@ -1630,7 +1571,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-10-29T18:30:15.415110Z"
+          "published_at": "2026-10-30T01:05:18.742054Z"
         }
       ],
       "source_count": 1,
@@ -1645,7 +1586,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-10-29T18:30:15.415110Z"
+          "published_at": "2026-10-30T01:05:18.742054Z"
         }
       ],
       "item_count": 1,
@@ -1664,8 +1605,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-29T18:30:15.415110Z",
-      "latest_at": "2026-10-29T18:30:15.415110Z",
+      "earliest_at": "2026-10-30T01:05:18.742054Z",
+      "latest_at": "2026-10-30T01:05:18.742054Z",
       "primary_item": {
         "id": "hotelitem_e4ce0593c384",
         "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
@@ -1689,7 +1630,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-10-29T18:30:15.415110Z"
+          "published_at": "2026-10-30T01:05:18.742054Z"
         }
       ],
       "source_count": 1,
@@ -1704,7 +1645,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-10-29T18:30:15.415110Z"
+          "published_at": "2026-10-30T01:05:18.742054Z"
         }
       ],
       "item_count": 1,
@@ -1723,8 +1664,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-29T18:30:15.415110Z",
-      "latest_at": "2026-10-29T18:30:15.415110Z",
+      "earliest_at": "2026-10-30T01:05:18.742054Z",
+      "latest_at": "2026-10-30T01:05:18.742054Z",
       "primary_item": {
         "id": "hotelitem_4adba65c20e7",
         "title": "文化和旅游部党组召开会议坚决拥护党中央对...",
@@ -1748,7 +1689,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-10-29T18:30:15.415110Z"
+          "published_at": "2026-10-30T01:05:18.742054Z"
         }
       ],
       "source_count": 1,
@@ -1763,7 +1704,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-10-29T18:30:15.415110Z"
+          "published_at": "2026-10-30T01:05:18.742054Z"
         }
       ],
       "item_count": 1,
@@ -1782,14 +1723,73 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-29T18:30:15.415110Z",
-      "latest_at": "2026-10-29T18:30:15.415110Z",
+      "earliest_at": "2026-10-30T01:05:18.742054Z",
+      "latest_at": "2026-10-30T01:05:18.742054Z",
       "primary_item": {
         "id": "hotelitem_e63a36930397",
         "title": "文化和旅游部印发《艺术发展“十五五”规划》",
         "url": "https://www.mct.gov.cn/whzx/whyw/202609/t20260930_967299.htm",
         "source": "文化和旅游部",
         "source_name": "文化和旅游部"
+      }
+    },
+    {
+      "story_id": "story_0d816f73a776",
+      "title": "Extended stay, upper-tier segments drove hotel construction in Q3",
+      "url": "https://www.hoteldive.com/news/hotel-construction-pipeline-q3-2026/872849/",
+      "primary_url": "https://www.hoteldive.com/news/hotel-construction-pipeline-q3-2026/872849/",
+      "source": "Hotel Dive",
+      "source_name": "Hotel Dive",
+      "sources": [
+        {
+          "id": "hotelitem_0d816f73a776",
+          "title": "Extended stay, upper-tier segments drove hotel construction in Q3",
+          "url": "https://www.hoteldive.com/news/hotel-construction-pipeline-q3-2026/872849/",
+          "source": "Hotel Dive",
+          "source_name": "Hotel Dive",
+          "site_id": "hoteldive",
+          "published_at": "2026-10-27T13:19:55Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hotel Dive"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_0d816f73a776",
+          "title": "Extended stay, upper-tier segments drove hotel construction in Q3",
+          "url": "https://www.hoteldive.com/news/hotel-construction-pipeline-q3-2026/872849/",
+          "source": "Hotel Dive",
+          "source_name": "Hotel Dive",
+          "site_id": "hoteldive",
+          "published_at": "2026-10-27T13:19:55Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8543,
+      "importance": 0.5889,
+      "importance_score": 0.8543,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9447,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-27T13:19:55Z",
+      "latest_at": "2026-10-27T13:19:55Z",
+      "primary_item": {
+        "id": "hotelitem_0d816f73a776",
+        "title": "Extended stay, upper-tier segments drove hotel construction in Q3",
+        "url": "https://www.hoteldive.com/news/hotel-construction-pipeline-q3-2026/872849/",
+        "source": "Hotel Dive",
+        "source_name": "Hotel Dive"
       }
     }
   ]
