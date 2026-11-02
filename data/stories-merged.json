@@ -1,65 +1,124 @@
 {
-  "generated_at": "2026-11-02T11:17:37.737663Z",
+  "generated_at": "2026-11-02T21:44:05.068983Z",
   "window_hours": 1080,
   "total_stories": 30,
   "stories": [
     {
-      "story_id": "story_3be59b57abb3",
-      "title": "NHAAN Resort & Spa Hoi An, Tapestry Collection by Hilton introduces Plait, its signature riverside restaurant",
-      "url": "https://insights.ehotelier.com/properties/2026/11/02/nhaan-resort-spa-hoi-an-tapestry-collection-by-hilton-introduces-plait-its-signature-riverside-restaurant/?utm_source=rss&utm_medium=rss&utm_campaign=nhaan-resort-spa-hoi-an-tapestry-collection-by-hilton-introduces-plait-its-signature-riverside-restaurant",
-      "primary_url": "https://insights.ehotelier.com/properties/2026/11/02/nhaan-resort-spa-hoi-an-tapestry-collection-by-hilton-introduces-plait-its-signature-riverside-restaurant/?utm_source=rss&utm_medium=rss&utm_campaign=nhaan-resort-spa-hoi-an-tapestry-collection-by-hilton-introduces-plait-its-signature-riverside-restaurant",
-      "source": "eHotelier",
-      "source_name": "eHotelier",
+      "story_id": "story_102f2695584b",
+      "title": "Choice Hotels cites extended stay as ‘key growth driver’ in Q3",
+      "url": "https://www.hoteldive.com/news/choice-hotels-q3-2026-earnings/873485/",
+      "primary_url": "https://www.hoteldive.com/news/choice-hotels-q3-2026-earnings/873485/",
+      "source": "Hotel Dive",
+      "source_name": "Hotel Dive",
       "sources": [
         {
-          "id": "hotelitem_3be59b57abb3",
-          "title": "NHAAN Resort & Spa Hoi An, Tapestry Collection by Hilton introduces Plait, its signature riverside restaurant",
-          "url": "https://insights.ehotelier.com/properties/2026/11/02/nhaan-resort-spa-hoi-an-tapestry-collection-by-hilton-introduces-plait-its-signature-riverside-restaurant/?utm_source=rss&utm_medium=rss&utm_campaign=nhaan-resort-spa-hoi-an-tapestry-collection-by-hilton-introduces-plait-its-signature-riverside-restaurant",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-11-01T23:54:23Z"
+          "id": "hotelitem_102f2695584b",
+          "title": "Choice Hotels cites extended stay as ‘key growth driver’ in Q3",
+          "url": "https://www.hoteldive.com/news/choice-hotels-q3-2026-earnings/873485/",
+          "source": "Hotel Dive",
+          "source_name": "Hotel Dive",
+          "site_id": "hoteldive",
+          "published_at": "2026-11-02T18:39:11Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "eHotelier"
+        "Hotel Dive"
       ],
       "items": [
         {
-          "id": "hotelitem_3be59b57abb3",
-          "title": "NHAAN Resort & Spa Hoi An, Tapestry Collection by Hilton introduces Plait, its signature riverside restaurant",
-          "url": "https://insights.ehotelier.com/properties/2026/11/02/nhaan-resort-spa-hoi-an-tapestry-collection-by-hilton-introduces-plait-its-signature-riverside-restaurant/?utm_source=rss&utm_medium=rss&utm_campaign=nhaan-resort-spa-hoi-an-tapestry-collection-by-hilton-introduces-plait-its-signature-riverside-restaurant",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-11-01T23:54:23Z"
+          "id": "hotelitem_102f2695584b",
+          "title": "Choice Hotels cites extended stay as ‘key growth driver’ in Q3",
+          "url": "https://www.hoteldive.com/news/choice-hotels-q3-2026-earnings/873485/",
+          "source": "Hotel Dive",
+          "source_name": "Hotel Dive",
+          "site_id": "hoteldive",
+          "published_at": "2026-11-02T18:39:11Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.953,
-      "importance": 0.5979,
-      "importance_score": 0.953,
+      "score": 0.9544,
+      "importance": 0.5994,
+      "importance_score": 0.9544,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9895,
+        "recency": 0.9971,
         "story_heat": 0.0
       },
       "category": "watch",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-11-01T23:54:23Z",
-      "latest_at": "2026-11-01T23:54:23Z",
+      "earliest_at": "2026-11-02T18:39:11Z",
+      "latest_at": "2026-11-02T18:39:11Z",
       "primary_item": {
-        "id": "hotelitem_3be59b57abb3",
-        "title": "NHAAN Resort & Spa Hoi An, Tapestry Collection by Hilton introduces Plait, its signature riverside restaurant",
-        "url": "https://insights.ehotelier.com/properties/2026/11/02/nhaan-resort-spa-hoi-an-tapestry-collection-by-hilton-introduces-plait-its-signature-riverside-restaurant/?utm_source=rss&utm_medium=rss&utm_campaign=nhaan-resort-spa-hoi-an-tapestry-collection-by-hilton-introduces-plait-its-signature-riverside-restaurant",
-        "source": "eHotelier",
-        "source_name": "eHotelier"
+        "id": "hotelitem_102f2695584b",
+        "title": "Choice Hotels cites extended stay as ‘key growth driver’ in Q3",
+        "url": "https://www.hoteldive.com/news/choice-hotels-q3-2026-earnings/873485/",
+        "source": "Hotel Dive",
+        "source_name": "Hotel Dive"
+      }
+    },
+    {
+      "story_id": "story_117cbb286adc",
+      "title": "Marriott saw strong RevPAR, development gains in Q3",
+      "url": "https://www.hoteldive.com/news/marriott-q3-2026-earnings/873422/",
+      "primary_url": "https://www.hoteldive.com/news/marriott-q3-2026-earnings/873422/",
+      "source": "Hotel Dive",
+      "source_name": "Hotel Dive",
+      "sources": [
+        {
+          "id": "hotelitem_117cbb286adc",
+          "title": "Marriott saw strong RevPAR, development gains in Q3",
+          "url": "https://www.hoteldive.com/news/marriott-q3-2026-earnings/873422/",
+          "source": "Hotel Dive",
+          "source_name": "Hotel Dive",
+          "site_id": "hoteldive",
+          "published_at": "2026-11-02T14:06:21Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hotel Dive"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_117cbb286adc",
+          "title": "Marriott saw strong RevPAR, development gains in Q3",
+          "url": "https://www.hoteldive.com/news/marriott-q3-2026-earnings/873422/",
+          "source": "Hotel Dive",
+          "source_name": "Hotel Dive",
+          "site_id": "hoteldive",
+          "published_at": "2026-11-02T14:06:21Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.9536,
+      "importance": 0.5986,
+      "importance_score": 0.9536,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9929,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-02T14:06:21Z",
+      "latest_at": "2026-11-02T14:06:21Z",
+      "primary_item": {
+        "id": "hotelitem_117cbb286adc",
+        "title": "Marriott saw strong RevPAR, development gains in Q3",
+        "url": "https://www.hoteldive.com/news/marriott-q3-2026-earnings/873422/",
+        "source": "Hotel Dive",
+        "source_name": "Hotel Dive"
       }
     },
     {
@@ -97,14 +156,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.953,
-      "importance": 0.598,
-      "importance_score": 0.953,
+      "score": 0.9512,
+      "importance": 0.596,
+      "importance_score": 0.9512,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9898,
+        "recency": 0.9801,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -117,6 +176,65 @@
         "id": "hotelitem_ad3da603ab7c",
         "title": "The Three Freedoms: Why frictionless hospitality technology is the real revenue strategy",
         "url": "https://insights.ehotelier.com/suppliers/2026/11/02/the-three-freedoms-why-frictionless-hospitality-technology-is-the-real-revenue-strategy/?utm_source=rss&utm_medium=rss&utm_campaign=the-three-freedoms-why-frictionless-hospitality-technology-is-the-real-revenue-strategy",
+        "source": "eHotelier",
+        "source_name": "eHotelier"
+      }
+    },
+    {
+      "story_id": "story_3be59b57abb3",
+      "title": "NHAAN Resort & Spa Hoi An, Tapestry Collection by Hilton introduces Plait, its signature riverside restaurant",
+      "url": "https://insights.ehotelier.com/properties/2026/11/02/nhaan-resort-spa-hoi-an-tapestry-collection-by-hilton-introduces-plait-its-signature-riverside-restaurant/?utm_source=rss&utm_medium=rss&utm_campaign=nhaan-resort-spa-hoi-an-tapestry-collection-by-hilton-introduces-plait-its-signature-riverside-restaurant",
+      "primary_url": "https://insights.ehotelier.com/properties/2026/11/02/nhaan-resort-spa-hoi-an-tapestry-collection-by-hilton-introduces-plait-its-signature-riverside-restaurant/?utm_source=rss&utm_medium=rss&utm_campaign=nhaan-resort-spa-hoi-an-tapestry-collection-by-hilton-introduces-plait-its-signature-riverside-restaurant",
+      "source": "eHotelier",
+      "source_name": "eHotelier",
+      "sources": [
+        {
+          "id": "hotelitem_3be59b57abb3",
+          "title": "NHAAN Resort & Spa Hoi An, Tapestry Collection by Hilton introduces Plait, its signature riverside restaurant",
+          "url": "https://insights.ehotelier.com/properties/2026/11/02/nhaan-resort-spa-hoi-an-tapestry-collection-by-hilton-introduces-plait-its-signature-riverside-restaurant/?utm_source=rss&utm_medium=rss&utm_campaign=nhaan-resort-spa-hoi-an-tapestry-collection-by-hilton-introduces-plait-its-signature-riverside-restaurant",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-11-01T23:54:23Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "eHotelier"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_3be59b57abb3",
+          "title": "NHAAN Resort & Spa Hoi An, Tapestry Collection by Hilton introduces Plait, its signature riverside restaurant",
+          "url": "https://insights.ehotelier.com/properties/2026/11/02/nhaan-resort-spa-hoi-an-tapestry-collection-by-hilton-introduces-plait-its-signature-riverside-restaurant/?utm_source=rss&utm_medium=rss&utm_campaign=nhaan-resort-spa-hoi-an-tapestry-collection-by-hilton-introduces-plait-its-signature-riverside-restaurant",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-11-01T23:54:23Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.9511,
+      "importance": 0.596,
+      "importance_score": 0.9511,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9798,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-01T23:54:23Z",
+      "latest_at": "2026-11-01T23:54:23Z",
+      "primary_item": {
+        "id": "hotelitem_3be59b57abb3",
+        "title": "NHAAN Resort & Spa Hoi An, Tapestry Collection by Hilton introduces Plait, its signature riverside restaurant",
+        "url": "https://insights.ehotelier.com/properties/2026/11/02/nhaan-resort-spa-hoi-an-tapestry-collection-by-hilton-introduces-plait-its-signature-riverside-restaurant/?utm_source=rss&utm_medium=rss&utm_campaign=nhaan-resort-spa-hoi-an-tapestry-collection-by-hilton-introduces-plait-its-signature-riverside-restaurant",
         "source": "eHotelier",
         "source_name": "eHotelier"
       }
@@ -156,14 +274,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9426,
-      "importance": 0.5871,
-      "importance_score": 0.9426,
+      "score": 0.9407,
+      "importance": 0.5852,
+      "importance_score": 0.9407,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9356,
+        "recency": 0.9259,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -215,14 +333,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9399,
-      "importance": 0.5999,
-      "importance_score": 0.9399,
+      "score": 0.938,
+      "importance": 0.598,
+      "importance_score": 0.938,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9995,
+        "recency": 0.9898,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -274,14 +392,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9387,
-      "importance": 0.5831,
-      "importance_score": 0.9387,
+      "score": 0.9369,
+      "importance": 0.5812,
+      "importance_score": 0.9369,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9156,
+        "recency": 0.906,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -333,14 +451,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9382,
-      "importance": 0.5826,
-      "importance_score": 0.9382,
+      "score": 0.9364,
+      "importance": 0.5807,
+      "importance_score": 0.9364,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9131,
+        "recency": 0.9035,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -392,14 +510,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9349,
-      "importance": 0.5792,
-      "importance_score": 0.9349,
+      "score": 0.9331,
+      "importance": 0.5773,
+      "importance_score": 0.9331,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.896,
+        "recency": 0.8864,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -451,14 +569,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9339,
-      "importance": 0.5781,
-      "importance_score": 0.9339,
+      "score": 0.9321,
+      "importance": 0.5762,
+      "importance_score": 0.9321,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8907,
+        "recency": 0.881,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -471,65 +589,6 @@
         "id": "hotelitem_ba213c9c534c",
         "title": "Caesars posts Q3 Las Vegas declines as Fertitta takeover looms",
         "url": "https://www.hoteldive.com/news/caesars-entertainment-q3-2026-earnings/872996/",
-        "source": "Hotel Dive",
-        "source_name": "Hotel Dive"
-      }
-    },
-    {
-      "story_id": "story_23fc2f1d9e47",
-      "title": "Hilton expects agentic AI to simplify the hotel customer experience",
-      "url": "https://www.hoteldive.com/news/hilton-expects-agentic-ai-to-simplify-hotel-customer-experience/872999/",
-      "primary_url": "https://www.hoteldive.com/news/hilton-expects-agentic-ai-to-simplify-hotel-customer-experience/872999/",
-      "source": "Hotel Dive",
-      "source_name": "Hotel Dive",
-      "sources": [
-        {
-          "id": "hotelitem_23fc2f1d9e47",
-          "title": "Hilton expects agentic AI to simplify the hotel customer experience",
-          "url": "https://www.hoteldive.com/news/hilton-expects-agentic-ai-to-simplify-hotel-customer-experience/872999/",
-          "source": "Hotel Dive",
-          "source_name": "Hotel Dive",
-          "site_id": "hoteldive",
-          "published_at": "2026-10-27T19:07:11Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hotel Dive"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_23fc2f1d9e47",
-          "title": "Hilton expects agentic AI to simplify the hotel customer experience",
-          "url": "https://www.hoteldive.com/news/hilton-expects-agentic-ai-to-simplify-hotel-customer-experience/872999/",
-          "source": "Hotel Dive",
-          "source_name": "Hotel Dive",
-          "site_id": "hoteldive",
-          "published_at": "2026-10-27T19:07:11Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.9307,
-      "importance": 0.5748,
-      "importance_score": 0.9307,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.8739,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-27T19:07:11Z",
-      "latest_at": "2026-10-27T19:07:11Z",
-      "primary_item": {
-        "id": "hotelitem_23fc2f1d9e47",
-        "title": "Hilton expects agentic AI to simplify the hotel customer experience",
-        "url": "https://www.hoteldive.com/news/hilton-expects-agentic-ai-to-simplify-hotel-customer-experience/872999/",
         "source": "Hotel Dive",
         "source_name": "Hotel Dive"
       }
@@ -569,14 +628,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9307,
-      "importance": 0.5748,
-      "importance_score": 0.9307,
+      "score": 0.9289,
+      "importance": 0.5729,
+      "importance_score": 0.9289,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8742,
+        "recency": 0.8645,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -628,14 +687,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9287,
-      "importance": 0.5986,
-      "importance_score": 0.9287,
+      "score": 0.9268,
+      "importance": 0.5967,
+      "importance_score": 0.9268,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9932,
+        "recency": 0.9835,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -650,65 +709,6 @@
         "url": "https://www.pinchain.com/article/352474",
         "source": "品橙旅游",
         "source_name": "品橙旅游"
-      }
-    },
-    {
-      "story_id": "story_71e8eaf1064b",
-      "title": "Why Flow-Through Matters More Than Record Revenue",
-      "url": "https://lodgingmagazine.com/why-flow-through-matters-more-than-record-revenue/",
-      "primary_url": "https://lodgingmagazine.com/why-flow-through-matters-more-than-record-revenue/",
-      "source": "Lodging Magazine",
-      "source_name": "Lodging Magazine",
-      "sources": [
-        {
-          "id": "hotelitem_71e8eaf1064b",
-          "title": "Why Flow-Through Matters More Than Record Revenue",
-          "url": "https://lodgingmagazine.com/why-flow-through-matters-more-than-record-revenue/",
-          "source": "Lodging Magazine",
-          "source_name": "Lodging Magazine",
-          "site_id": "lodgingmag",
-          "published_at": "2026-10-30T11:16:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Lodging Magazine"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_71e8eaf1064b",
-          "title": "Why Flow-Through Matters More Than Record Revenue",
-          "url": "https://lodgingmagazine.com/why-flow-through-matters-more-than-record-revenue/",
-          "source": "Lodging Magazine",
-          "source_name": "Lodging Magazine",
-          "site_id": "lodgingmag",
-          "published_at": "2026-10-30T11:16:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.9271,
-      "importance": 0.5867,
-      "importance_score": 0.9271,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9333,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-30T11:16:00Z",
-      "latest_at": "2026-10-30T11:16:00Z",
-      "primary_item": {
-        "id": "hotelitem_71e8eaf1064b",
-        "title": "Why Flow-Through Matters More Than Record Revenue",
-        "url": "https://lodgingmagazine.com/why-flow-through-matters-more-than-record-revenue/",
-        "source": "Lodging Magazine",
-        "source_name": "Lodging Magazine"
       }
     },
     {
@@ -746,14 +746,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9228,
-      "importance": 0.5822,
-      "importance_score": 0.9228,
+      "score": 0.921,
+      "importance": 0.5803,
+      "importance_score": 0.921,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.911,
+        "recency": 0.9013,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -766,65 +766,6 @@
         "id": "hotelitem_e4f19d456733",
         "title": "Tej Walia on why inaction is a hotelier’s biggest risk",
         "url": "https://boutiquehotelnews.com/podcasts/tej-walia-inaction-risk/?utm_source=rss&utm_medium=rss&utm_campaign=tej-walia-inaction-risk",
-        "source": "Boutique Hotel News",
-        "source_name": "Boutique Hotel News"
-      }
-    },
-    {
-      "story_id": "story_cbb17064b538",
-      "title": "IHG Hotels signs 90-room riverside Hotel Indigo London – Kingston",
-      "url": "https://boutiquehotelnews.com/news/ihg-hotels-signs-90-room-riverside-hotel-indigo-london-kingston/?utm_source=rss&utm_medium=rss&utm_campaign=ihg-hotels-signs-90-room-riverside-hotel-indigo-london-kingston",
-      "primary_url": "https://boutiquehotelnews.com/news/ihg-hotels-signs-90-room-riverside-hotel-indigo-london-kingston/?utm_source=rss&utm_medium=rss&utm_campaign=ihg-hotels-signs-90-room-riverside-hotel-indigo-london-kingston",
-      "source": "Boutique Hotel News",
-      "source_name": "Boutique Hotel News",
-      "sources": [
-        {
-          "id": "hotelitem_cbb17064b538",
-          "title": "IHG Hotels signs 90-room riverside Hotel Indigo London – Kingston",
-          "url": "https://boutiquehotelnews.com/news/ihg-hotels-signs-90-room-riverside-hotel-indigo-london-kingston/?utm_source=rss&utm_medium=rss&utm_campaign=ihg-hotels-signs-90-room-riverside-hotel-indigo-london-kingston",
-          "source": "Boutique Hotel News",
-          "source_name": "Boutique Hotel News",
-          "site_id": "boutiquehotel",
-          "published_at": "2026-10-28T10:50:46Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Boutique Hotel News"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_cbb17064b538",
-          "title": "IHG Hotels signs 90-room riverside Hotel Indigo London – Kingston",
-          "url": "https://boutiquehotelnews.com/news/ihg-hotels-signs-90-room-riverside-hotel-indigo-london-kingston/?utm_source=rss&utm_medium=rss&utm_campaign=ihg-hotels-signs-90-room-riverside-hotel-indigo-london-kingston",
-          "source": "Boutique Hotel News",
-          "source_name": "Boutique Hotel News",
-          "site_id": "boutiquehotel",
-          "published_at": "2026-10-28T10:50:46Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.9185,
-      "importance": 0.5777,
-      "importance_score": 0.9185,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.8885,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-28T10:50:46Z",
-      "latest_at": "2026-10-28T10:50:46Z",
-      "primary_item": {
-        "id": "hotelitem_cbb17064b538",
-        "title": "IHG Hotels signs 90-room riverside Hotel Indigo London – Kingston",
-        "url": "https://boutiquehotelnews.com/news/ihg-hotels-signs-90-room-riverside-hotel-indigo-london-kingston/?utm_source=rss&utm_medium=rss&utm_campaign=ihg-hotels-signs-90-room-riverside-hotel-indigo-london-kingston",
         "source": "Boutique Hotel News",
         "source_name": "Boutique Hotel News"
       }
@@ -844,7 +785,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-11-02T11:17:37.737663Z"
+          "published_at": "2026-11-02T21:44:05.068983Z"
         }
       ],
       "source_count": 1,
@@ -859,7 +800,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-11-02T11:17:37.737663Z"
+          "published_at": "2026-11-02T21:44:05.068983Z"
         }
       ],
       "item_count": 1,
@@ -878,8 +819,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-11-02T11:17:37.737663Z",
-      "latest_at": "2026-11-02T11:17:37.737663Z",
+      "earliest_at": "2026-11-02T21:44:05.068983Z",
+      "latest_at": "2026-11-02T21:44:05.068983Z",
       "primary_item": {
         "id": "hotelitem_06f191e24d38",
         "title": "文旅惠报|复星国际申请分拆Club Med在港上市；南京商旅上半年营收3.66亿元",
@@ -923,14 +864,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8844,
-      "importance": 0.5994,
-      "importance_score": 0.8844,
+      "score": 0.8825,
+      "importance": 0.5975,
+      "importance_score": 0.8825,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.997,
+        "recency": 0.9873,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -982,14 +923,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8807,
-      "importance": 0.5387,
-      "importance_score": 0.8807,
+      "score": 0.8779,
+      "importance": 0.5368,
+      "importance_score": 0.8779,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.6936,
+        "recency": 0.6839,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1041,14 +982,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8648,
-      "importance": 0.5998,
-      "importance_score": 0.8648,
+      "score": 0.8629,
+      "importance": 0.5978,
+      "importance_score": 0.8629,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9988,
+        "recency": 0.9891,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1100,14 +1041,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8631,
-      "importance": 0.598,
-      "importance_score": 0.8631,
+      "score": 0.8612,
+      "importance": 0.596,
+      "importance_score": 0.8612,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9899,
+        "recency": 0.9802,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1159,14 +1100,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.863,
-      "importance": 0.5979,
-      "importance_score": 0.863,
+      "score": 0.8611,
+      "importance": 0.596,
+      "importance_score": 0.8611,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9896,
+        "recency": 0.9799,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1181,6 +1122,202 @@
         "url": "https://insights.ehotelier.com/global-news/2026/11/02/vietnam-airlines-becomes-first-asian-airline-to-win-worlds-best-culinary-airline/?utm_source=rss&utm_medium=rss&utm_campaign=vietnam-airlines-becomes-first-asian-airline-to-win-worlds-best-culinary-airline",
         "source": "eHotelier",
         "source_name": "eHotelier"
+      }
+    },
+    {
+      "story_id": "story_c7c15b7680c9",
+      "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
+      "url": "https://www.chinahotel.org.cn/articles/17408",
+      "primary_url": "https://www.chinahotel.org.cn/articles/17408",
+      "source": "中国饭店协会",
+      "source_name": "中国饭店协会",
+      "sources": [
+        {
+          "id": "hotelitem_d4370964909c",
+          "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
+          "url": "https://www.chinahotel.org.cn/articles/17408",
+          "source": "中国饭店协会",
+          "source_name": "中国饭店协会",
+          "site_id": "chinahotel",
+          "published_at": "2026-11-02T21:44:05.068983Z"
+        },
+        {
+          "id": "hotelitem_c7c15b7680c9",
+          "title": "绿色饭店 | 2026年第一批国家标准绿色饭店名单公布 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007) 在全国组织开展国家标准绿色饭店的评定工作。现公布2026年第一批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
+          "url": "https://www.chinahotel.org.cn/articles/17689",
+          "source": "中国饭店协会",
+          "source_name": "中国饭店协会",
+          "site_id": "chinahotel",
+          "published_at": "2026-11-02T21:44:05.068983Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "中国饭店协会"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_d4370964909c",
+          "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
+          "url": "https://www.chinahotel.org.cn/articles/17408",
+          "source": "中国饭店协会",
+          "source_name": "中国饭店协会",
+          "site_id": "chinahotel",
+          "published_at": "2026-11-02T21:44:05.068983Z"
+        },
+        {
+          "id": "hotelitem_c7c15b7680c9",
+          "title": "绿色饭店 | 2026年第一批国家标准绿色饭店名单公布 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007) 在全国组织开展国家标准绿色饭店的评定工作。现公布2026年第一批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
+          "url": "https://www.chinahotel.org.cn/articles/17689",
+          "source": "中国饭店协会",
+          "source_name": "中国饭店协会",
+          "site_id": "chinahotel",
+          "published_at": "2026-11-02T21:44:05.068983Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.86,
+      "importance": 0.625,
+      "importance_score": 0.86,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-02T21:44:05.068983Z",
+      "latest_at": "2026-11-02T21:44:05.068983Z",
+      "primary_item": {
+        "id": "hotelitem_d4370964909c",
+        "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
+        "url": "https://www.chinahotel.org.cn/articles/17408",
+        "source": "中国饭店协会",
+        "source_name": "中国饭店协会"
+      }
+    },
+    {
+      "story_id": "story_0898acdbf9b8",
+      "title": "万豪发布2026年第三季度业绩 亚太区增长超过9%",
+      "url": "https://www.meadin.com/jd/303626.html",
+      "primary_url": "https://www.meadin.com/jd/303626.html",
+      "source": "迈点研究院",
+      "source_name": "迈点研究院",
+      "sources": [
+        {
+          "id": "hotelitem_0898acdbf9b8",
+          "title": "万豪发布2026年第三季度业绩 亚太区增长超过9%",
+          "url": "https://www.meadin.com/jd/303626.html",
+          "source": "迈点研究院",
+          "source_name": "迈点研究院",
+          "site_id": "meadin",
+          "published_at": "2026-11-02T21:44:05.068983Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "迈点研究院"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_0898acdbf9b8",
+          "title": "万豪发布2026年第三季度业绩 亚太区增长超过9%",
+          "url": "https://www.meadin.com/jd/303626.html",
+          "source": "迈点研究院",
+          "source_name": "迈点研究院",
+          "site_id": "meadin",
+          "published_at": "2026-11-02T21:44:05.068983Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.86,
+      "importance": 0.6,
+      "importance_score": 0.86,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-02T21:44:05.068983Z",
+      "latest_at": "2026-11-02T21:44:05.068983Z",
+      "primary_item": {
+        "id": "hotelitem_0898acdbf9b8",
+        "title": "万豪发布2026年第三季度业绩 亚太区增长超过9%",
+        "url": "https://www.meadin.com/jd/303626.html",
+        "source": "迈点研究院",
+        "source_name": "迈点研究院"
+      }
+    },
+    {
+      "story_id": "story_4c8c6ece2e3d",
+      "title": "凯悦酒店集团任命何国祥(Stephen Ho)为亚太区集团总裁, 于德励(David Udell)将出任资深顾问",
+      "url": "https://www.meadin.com/jd/303624.html",
+      "primary_url": "https://www.meadin.com/jd/303624.html",
+      "source": "迈点研究院",
+      "source_name": "迈点研究院",
+      "sources": [
+        {
+          "id": "hotelitem_4c8c6ece2e3d",
+          "title": "凯悦酒店集团任命何国祥(Stephen Ho)为亚太区集团总裁, 于德励(David Udell)将出任资深顾问",
+          "url": "https://www.meadin.com/jd/303624.html",
+          "source": "迈点研究院",
+          "source_name": "迈点研究院",
+          "site_id": "meadin",
+          "published_at": "2026-11-02T21:44:05.068983Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "迈点研究院"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_4c8c6ece2e3d",
+          "title": "凯悦酒店集团任命何国祥(Stephen Ho)为亚太区集团总裁, 于德励(David Udell)将出任资深顾问",
+          "url": "https://www.meadin.com/jd/303624.html",
+          "source": "迈点研究院",
+          "source_name": "迈点研究院",
+          "site_id": "meadin",
+          "published_at": "2026-11-02T21:44:05.068983Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.86,
+      "importance": 0.6,
+      "importance_score": 0.86,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-02T21:44:05.068983Z",
+      "latest_at": "2026-11-02T21:44:05.068983Z",
+      "primary_item": {
+        "id": "hotelitem_4c8c6ece2e3d",
+        "title": "凯悦酒店集团任命何国祥(Stephen Ho)为亚太区集团总裁, 于德励(David Udell)将出任资深顾问",
+        "url": "https://www.meadin.com/jd/303624.html",
+        "source": "迈点研究院",
+        "source_name": "迈点研究院"
       }
     },
     {
@@ -1218,14 +1355,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8612,
-      "importance": 0.5476,
-      "importance_score": 0.8612,
+      "score": 0.8584,
+      "importance": 0.5456,
+      "importance_score": 0.8584,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.7378,
+        "recency": 0.7282,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1243,143 +1380,6 @@
       }
     },
     {
-      "story_id": "story_c7c15b7680c9",
-      "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
-      "url": "https://www.chinahotel.org.cn/articles/17408",
-      "primary_url": "https://www.chinahotel.org.cn/articles/17408",
-      "source": "中国饭店协会",
-      "source_name": "中国饭店协会",
-      "sources": [
-        {
-          "id": "hotelitem_d4370964909c",
-          "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
-          "url": "https://www.chinahotel.org.cn/articles/17408",
-          "source": "中国饭店协会",
-          "source_name": "中国饭店协会",
-          "site_id": "chinahotel",
-          "published_at": "2026-11-02T11:17:37.737663Z"
-        },
-        {
-          "id": "hotelitem_c7c15b7680c9",
-          "title": "绿色饭店 | 2026年第一批国家标准绿色饭店名单公布 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007) 在全国组织开展国家标准绿色饭店的评定工作。现公布2026年第一批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
-          "url": "https://www.chinahotel.org.cn/articles/17689",
-          "source": "中国饭店协会",
-          "source_name": "中国饭店协会",
-          "site_id": "chinahotel",
-          "published_at": "2026-11-02T11:17:37.737663Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "中国饭店协会"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_d4370964909c",
-          "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
-          "url": "https://www.chinahotel.org.cn/articles/17408",
-          "source": "中国饭店协会",
-          "source_name": "中国饭店协会",
-          "site_id": "chinahotel",
-          "published_at": "2026-11-02T11:17:37.737663Z"
-        },
-        {
-          "id": "hotelitem_c7c15b7680c9",
-          "title": "绿色饭店 | 2026年第一批国家标准绿色饭店名单公布 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007) 在全国组织开展国家标准绿色饭店的评定工作。现公布2026年第一批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
-          "url": "https://www.chinahotel.org.cn/articles/17689",
-          "source": "中国饭店协会",
-          "source_name": "中国饭店协会",
-          "site_id": "chinahotel",
-          "published_at": "2026-11-02T11:17:37.737663Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.86,
-      "importance": 0.625,
-      "importance_score": 0.86,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-02T11:17:37.737663Z",
-      "latest_at": "2026-11-02T11:17:37.737663Z",
-      "primary_item": {
-        "id": "hotelitem_d4370964909c",
-        "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
-        "url": "https://www.chinahotel.org.cn/articles/17408",
-        "source": "中国饭店协会",
-        "source_name": "中国饭店协会"
-      }
-    },
-    {
-      "story_id": "story_4c8c6ece2e3d",
-      "title": "凯悦酒店集团任命何国祥(Stephen Ho)为亚太区集团总裁, 于德励(David Udell)将出任资深顾问",
-      "url": "https://www.meadin.com/jd/303624.html",
-      "primary_url": "https://www.meadin.com/jd/303624.html",
-      "source": "迈点研究院",
-      "source_name": "迈点研究院",
-      "sources": [
-        {
-          "id": "hotelitem_4c8c6ece2e3d",
-          "title": "凯悦酒店集团任命何国祥(Stephen Ho)为亚太区集团总裁, 于德励(David Udell)将出任资深顾问",
-          "url": "https://www.meadin.com/jd/303624.html",
-          "source": "迈点研究院",
-          "source_name": "迈点研究院",
-          "site_id": "meadin",
-          "published_at": "2026-11-02T11:17:37.737663Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "迈点研究院"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_4c8c6ece2e3d",
-          "title": "凯悦酒店集团任命何国祥(Stephen Ho)为亚太区集团总裁, 于德励(David Udell)将出任资深顾问",
-          "url": "https://www.meadin.com/jd/303624.html",
-          "source": "迈点研究院",
-          "source_name": "迈点研究院",
-          "site_id": "meadin",
-          "published_at": "2026-11-02T11:17:37.737663Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.86,
-      "importance": 0.6,
-      "importance_score": 0.86,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-02T11:17:37.737663Z",
-      "latest_at": "2026-11-02T11:17:37.737663Z",
-      "primary_item": {
-        "id": "hotelitem_4c8c6ece2e3d",
-        "title": "凯悦酒店集团任命何国祥(Stephen Ho)为亚太区集团总裁, 于德励(David Udell)将出任资深顾问",
-        "url": "https://www.meadin.com/jd/303624.html",
-        "source": "迈点研究院",
-        "source_name": "迈点研究院"
-      }
-    },
-    {
       "story_id": "story_e4ce0593c384",
       "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
       "url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
@@ -1394,7 +1394,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-11-02T11:17:37.737663Z"
+          "published_at": "2026-11-02T21:44:05.068983Z"
         }
       ],
       "source_count": 1,
@@ -1409,7 +1409,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-11-02T11:17:37.737663Z"
+          "published_at": "2026-11-02T21:44:05.068983Z"
         }
       ],
       "item_count": 1,
@@ -1428,8 +1428,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-11-02T11:17:37.737663Z",
-      "latest_at": "2026-11-02T11:17:37.737663Z",
+      "earliest_at": "2026-11-02T21:44:05.068983Z",
+      "latest_at": "2026-11-02T21:44:05.068983Z",
       "primary_item": {
         "id": "hotelitem_e4ce0593c384",
         "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
@@ -1453,7 +1453,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-11-02T11:17:37.737663Z"
+          "published_at": "2026-11-02T21:44:05.068983Z"
         }
       ],
       "source_count": 1,
@@ -1468,7 +1468,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-11-02T11:17:37.737663Z"
+          "published_at": "2026-11-02T21:44:05.068983Z"
         }
       ],
       "item_count": 1,
@@ -1487,8 +1487,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-11-02T11:17:37.737663Z",
-      "latest_at": "2026-11-02T11:17:37.737663Z",
+      "earliest_at": "2026-11-02T21:44:05.068983Z",
+      "latest_at": "2026-11-02T21:44:05.068983Z",
       "primary_item": {
         "id": "hotelitem_4adba65c20e7",
         "title": "文化和旅游部党组召开会议坚决拥护党中央对...",
@@ -1512,7 +1512,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-11-02T11:17:37.737663Z"
+          "published_at": "2026-11-02T21:44:05.068983Z"
         }
       ],
       "source_count": 1,
@@ -1527,7 +1527,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-11-02T11:17:37.737663Z"
+          "published_at": "2026-11-02T21:44:05.068983Z"
         }
       ],
       "item_count": 1,
@@ -1546,14 +1546,93 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-11-02T11:17:37.737663Z",
-      "latest_at": "2026-11-02T11:17:37.737663Z",
+      "earliest_at": "2026-11-02T21:44:05.068983Z",
+      "latest_at": "2026-11-02T21:44:05.068983Z",
       "primary_item": {
         "id": "hotelitem_e63a36930397",
         "title": "文化和旅游部印发《艺术发展“十五五”规划》",
         "url": "https://www.mct.gov.cn/whzx/whyw/202609/t20260930_967299.htm",
         "source": "文化和旅游部",
         "source_name": "文化和旅游部"
+      }
+    },
+    {
+      "story_id": "story_182513a2a313",
+      "title": "Wyndham Announces Partnership With HotelREZ Hotels & Resorts",
+      "url": "https://lodgingmagazine.com/wyndham-announces-partnership-with-hotelrez-hotels-resorts/",
+      "primary_url": "https://lodgingmagazine.com/wyndham-announces-partnership-with-hotelrez-hotels-resorts/",
+      "source": "Lodging Magazine",
+      "source_name": "Lodging Magazine",
+      "sources": [
+        {
+          "id": "hotelitem_0246333c0562",
+          "title": "Wyndham Announces Partnership With HotelREZ Hotels & Resorts",
+          "url": "https://lodgingmagazine.com/wyndham-announces-partnership-with-hotelrez-hotels-resorts/",
+          "source": "Lodging Magazine",
+          "source_name": "Lodging Magazine",
+          "site_id": "lodgingmag",
+          "published_at": "2026-11-02T11:10:40Z"
+        },
+        {
+          "id": "hotelitem_182513a2a313",
+          "title": "Wyndham signs partnership with HotelREZ Hotels & Resorts",
+          "url": "https://boutiquehotelnews.com/news/industry/wyndham-partnership-hotelrez/?utm_source=rss&utm_medium=rss&utm_campaign=wyndham-partnership-hotelrez",
+          "source": "Boutique Hotel News",
+          "source_name": "Boutique Hotel News",
+          "site_id": "boutiquehotel",
+          "published_at": "2026-11-02T11:01:00Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Boutique Hotel News",
+        "Lodging Magazine"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_0246333c0562",
+          "title": "Wyndham Announces Partnership With HotelREZ Hotels & Resorts",
+          "url": "https://lodgingmagazine.com/wyndham-announces-partnership-with-hotelrez-hotels-resorts/",
+          "source": "Lodging Magazine",
+          "source_name": "Lodging Magazine",
+          "site_id": "lodgingmag",
+          "published_at": "2026-11-02T11:10:40Z"
+        },
+        {
+          "id": "hotelitem_182513a2a313",
+          "title": "Wyndham signs partnership with HotelREZ Hotels & Resorts",
+          "url": "https://boutiquehotelnews.com/news/industry/wyndham-partnership-hotelrez/?utm_source=rss&utm_medium=rss&utm_campaign=wyndham-partnership-hotelrez",
+          "source": "Boutique Hotel News",
+          "source_name": "Boutique Hotel News",
+          "site_id": "boutiquehotel",
+          "published_at": "2026-11-02T11:01:00Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8531,
+      "importance": 0.623,
+      "importance_score": 0.8531,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9902,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-02T11:01:00Z",
+      "latest_at": "2026-11-02T11:10:40Z",
+      "primary_item": {
+        "id": "hotelitem_0246333c0562",
+        "title": "Wyndham Announces Partnership With HotelREZ Hotels & Resorts",
+        "url": "https://lodgingmagazine.com/wyndham-announces-partnership-with-hotelrez-hotels-resorts/",
+        "source": "Lodging Magazine",
+        "source_name": "Lodging Magazine"
       }
     },
     {
@@ -1591,14 +1670,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8533,
-      "importance": 0.5749,
-      "importance_score": 0.8533,
+      "score": 0.8514,
+      "importance": 0.573,
+      "importance_score": 0.8514,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8745,
+        "recency": 0.8649,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1616,62 +1695,62 @@
       }
     },
     {
-      "story_id": "story_0d816f73a776",
-      "title": "Extended stay, upper-tier segments drove hotel construction in Q3",
-      "url": "https://www.hoteldive.com/news/hotel-construction-pipeline-q3-2026/872849/",
-      "primary_url": "https://www.hoteldive.com/news/hotel-construction-pipeline-q3-2026/872849/",
-      "source": "Hotel Dive",
-      "source_name": "Hotel Dive",
+      "story_id": "story_0628a2a0e70e",
+      "title": "Hotel Construction Lending Shows Signs of Renewed Momentum",
+      "url": "https://www.hotelmanagement.net/sponsored/hotel-construction-lending-shows-signs-renewed-momentum",
+      "primary_url": "https://www.hotelmanagement.net/sponsored/hotel-construction-lending-shows-signs-renewed-momentum",
+      "source": "Hotel Management",
+      "source_name": "Hotel Management",
       "sources": [
         {
-          "id": "hotelitem_0d816f73a776",
-          "title": "Extended stay, upper-tier segments drove hotel construction in Q3",
-          "url": "https://www.hoteldive.com/news/hotel-construction-pipeline-q3-2026/872849/",
-          "source": "Hotel Dive",
-          "source_name": "Hotel Dive",
-          "site_id": "hoteldive",
-          "published_at": "2026-10-27T13:19:55Z"
+          "id": "hotelitem_0628a2a0e70e",
+          "title": "Hotel Construction Lending Shows Signs of Renewed Momentum",
+          "url": "https://www.hotelmanagement.net/sponsored/hotel-construction-lending-shows-signs-renewed-momentum",
+          "source": "Hotel Management",
+          "source_name": "Hotel Management",
+          "site_id": "hotelmgmt",
+          "published_at": "2026-10-28T16:46:42Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Hotel Dive"
+        "Hotel Management"
       ],
       "items": [
         {
-          "id": "hotelitem_0d816f73a776",
-          "title": "Extended stay, upper-tier segments drove hotel construction in Q3",
-          "url": "https://www.hoteldive.com/news/hotel-construction-pipeline-q3-2026/872849/",
-          "source": "Hotel Dive",
-          "source_name": "Hotel Dive",
-          "site_id": "hoteldive",
-          "published_at": "2026-10-27T13:19:55Z"
+          "id": "hotelitem_0628a2a0e70e",
+          "title": "Hotel Construction Lending Shows Signs of Renewed Momentum",
+          "url": "https://www.hotelmanagement.net/sponsored/hotel-construction-lending-shows-signs-renewed-momentum",
+          "source": "Hotel Management",
+          "source_name": "Hotel Management",
+          "site_id": "hotelmgmt",
+          "published_at": "2026-10-28T16:46:42Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8396,
-      "importance": 0.5737,
-      "importance_score": 0.8396,
+      "score": 0.8427,
+      "importance": 0.5769,
+      "importance_score": 0.8427,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8686,
+        "recency": 0.8843,
         "story_heat": 0.0
       },
       "category": "watch",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-27T13:19:55Z",
-      "latest_at": "2026-10-27T13:19:55Z",
+      "earliest_at": "2026-10-28T16:46:42Z",
+      "latest_at": "2026-10-28T16:46:42Z",
       "primary_item": {
-        "id": "hotelitem_0d816f73a776",
-        "title": "Extended stay, upper-tier segments drove hotel construction in Q3",
-        "url": "https://www.hoteldive.com/news/hotel-construction-pipeline-q3-2026/872849/",
-        "source": "Hotel Dive",
-        "source_name": "Hotel Dive"
+        "id": "hotelitem_0628a2a0e70e",
+        "title": "Hotel Construction Lending Shows Signs of Renewed Momentum",
+        "url": "https://www.hotelmanagement.net/sponsored/hotel-construction-lending-shows-signs-renewed-momentum",
+        "source": "Hotel Management",
+        "source_name": "Hotel Management"
       }
     },
     {
@@ -1709,14 +1788,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8378,
-      "importance": 0.5874,
-      "importance_score": 0.8378,
+      "score": 0.8359,
+      "importance": 0.5854,
+      "importance_score": 0.8359,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9368,
+        "recency": 0.9271,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1731,65 +1810,6 @@
         "url": "https://lodgingmagazine.com/addressing-hotel-staffing-challenges-through-long-term-planning/",
         "source": "Lodging Magazine",
         "source_name": "Lodging Magazine"
-      }
-    },
-    {
-      "story_id": "story_b48dfc4ec242",
-      "title": "The StandardX to debut in North America",
-      "url": "https://boutiquehotelnews.com/news/hotel/the-standardx-north-america/?utm_source=rss&utm_medium=rss&utm_campaign=the-standardx-north-america",
-      "primary_url": "https://boutiquehotelnews.com/news/hotel/the-standardx-north-america/?utm_source=rss&utm_medium=rss&utm_campaign=the-standardx-north-america",
-      "source": "Boutique Hotel News",
-      "source_name": "Boutique Hotel News",
-      "sources": [
-        {
-          "id": "hotelitem_b48dfc4ec242",
-          "title": "The StandardX to debut in North America",
-          "url": "https://boutiquehotelnews.com/news/hotel/the-standardx-north-america/?utm_source=rss&utm_medium=rss&utm_campaign=the-standardx-north-america",
-          "source": "Boutique Hotel News",
-          "source_name": "Boutique Hotel News",
-          "site_id": "boutiquehotel",
-          "published_at": "2026-10-30T11:55:11Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Boutique Hotel News"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_b48dfc4ec242",
-          "title": "The StandardX to debut in North America",
-          "url": "https://boutiquehotelnews.com/news/hotel/the-standardx-north-america/?utm_source=rss&utm_medium=rss&utm_campaign=the-standardx-north-america",
-          "source": "Boutique Hotel News",
-          "source_name": "Boutique Hotel News",
-          "site_id": "boutiquehotel",
-          "published_at": "2026-10-30T11:55:11Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8373,
-      "importance": 0.5868,
-      "importance_score": 0.8373,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9339,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-30T11:55:11Z",
-      "latest_at": "2026-10-30T11:55:11Z",
-      "primary_item": {
-        "id": "hotelitem_b48dfc4ec242",
-        "title": "The StandardX to debut in North America",
-        "url": "https://boutiquehotelnews.com/news/hotel/the-standardx-north-america/?utm_source=rss&utm_medium=rss&utm_campaign=the-standardx-north-america",
-        "source": "Boutique Hotel News",
-        "source_name": "Boutique Hotel News"
       }
     }
   ]
