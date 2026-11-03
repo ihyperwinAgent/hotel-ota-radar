@@ -1,8 +1,67 @@
 {
-  "generated_at": "2026-11-03T06:53:56.271992Z",
+  "generated_at": "2026-11-03T17:06:08.568534Z",
   "window_hours": 1080,
   "total_items": 30,
   "items": [
+    {
+      "story_id": "story_7e1edbbf899c",
+      "title": "Gencom acquires InterContinental Miami from Strategic Hotels & Resorts",
+      "url": "https://www.hoteldive.com/news/gencom-acquires-intercontinental-miami-from-strategic-hotels-resorts/873568/",
+      "primary_url": "https://www.hoteldive.com/news/gencom-acquires-intercontinental-miami-from-strategic-hotels-resorts/873568/",
+      "source": "Hotel Dive",
+      "source_name": "Hotel Dive",
+      "sources": [
+        {
+          "id": "hotelitem_7e1edbbf899c",
+          "title": "Gencom acquires InterContinental Miami from Strategic Hotels & Resorts",
+          "url": "https://www.hoteldive.com/news/gencom-acquires-intercontinental-miami-from-strategic-hotels-resorts/873568/",
+          "source": "Hotel Dive",
+          "source_name": "Hotel Dive",
+          "site_id": "hoteldive",
+          "published_at": "2026-11-03T14:20:10Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hotel Dive"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_7e1edbbf899c",
+          "title": "Gencom acquires InterContinental Miami from Strategic Hotels & Resorts",
+          "url": "https://www.hoteldive.com/news/gencom-acquires-intercontinental-miami-from-strategic-hotels-resorts/873568/",
+          "source": "Hotel Dive",
+          "source_name": "Hotel Dive",
+          "site_id": "hoteldive",
+          "published_at": "2026-11-03T14:20:10Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.9545,
+      "importance": 0.5995,
+      "importance_score": 0.9545,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9974,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-03T14:20:10Z",
+      "latest_at": "2026-11-03T14:20:10Z",
+      "primary_item": {
+        "id": "hotelitem_7e1edbbf899c",
+        "title": "Gencom acquires InterContinental Miami from Strategic Hotels & Resorts",
+        "url": "https://www.hoteldive.com/news/gencom-acquires-intercontinental-miami-from-strategic-hotels-resorts/873568/",
+        "source": "Hotel Dive",
+        "source_name": "Hotel Dive"
+      }
+    },
     {
       "story_id": "story_236f8b0c118f",
       "title": "HG strengthens Nordic portfolio with the signing of Holiday Inn Express Reykjavik – Valhöll",
@@ -38,14 +97,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9539,
-      "importance": 0.5988,
-      "importance_score": 0.9539,
+      "score": 0.9521,
+      "importance": 0.5969,
+      "importance_score": 0.9521,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9942,
+        "recency": 0.9847,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -97,14 +156,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9528,
-      "importance": 0.5977,
-      "importance_score": 0.9528,
+      "score": 0.951,
+      "importance": 0.5958,
+      "importance_score": 0.951,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9887,
+        "recency": 0.9792,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -156,14 +215,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.952,
-      "importance": 0.5969,
-      "importance_score": 0.952,
+      "score": 0.9502,
+      "importance": 0.595,
+      "importance_score": 0.9502,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9845,
+        "recency": 0.975,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -215,14 +274,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9495,
-      "importance": 0.5943,
-      "importance_score": 0.9495,
+      "score": 0.9477,
+      "importance": 0.5924,
+      "importance_score": 0.9477,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9716,
+        "recency": 0.9622,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -274,14 +333,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9391,
-      "importance": 0.5835,
-      "importance_score": 0.9391,
+      "score": 0.9373,
+      "importance": 0.5816,
+      "importance_score": 0.9373,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9174,
+        "recency": 0.908,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -296,65 +355,6 @@
         "url": "https://www.hotelmanagement.net/resource/power-where-you-need-it-style-where-you-want-it",
         "source": "Hotel Management",
         "source_name": "Hotel Management"
-      }
-    },
-    {
-      "story_id": "story_a6bcb9f70c5a",
-      "title": "Gencom and White Bridge Capital Announce Acquisition of InterContinental Miami",
-      "url": "https://lodgingmagazine.com/gencom-and-white-bridge-capital-announce-acquisition-of-intercontinental-miami/",
-      "primary_url": "https://lodgingmagazine.com/gencom-and-white-bridge-capital-announce-acquisition-of-intercontinental-miami/",
-      "source": "Lodging Magazine",
-      "source_name": "Lodging Magazine",
-      "sources": [
-        {
-          "id": "hotelitem_a6bcb9f70c5a",
-          "title": "Gencom and White Bridge Capital Announce Acquisition of InterContinental Miami",
-          "url": "https://lodgingmagazine.com/gencom-and-white-bridge-capital-announce-acquisition-of-intercontinental-miami/",
-          "source": "Lodging Magazine",
-          "source_name": "Lodging Magazine",
-          "site_id": "lodgingmag",
-          "published_at": "2026-11-02T10:45:23Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Lodging Magazine"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_a6bcb9f70c5a",
-          "title": "Gencom and White Bridge Capital Announce Acquisition of InterContinental Miami",
-          "url": "https://lodgingmagazine.com/gencom-and-white-bridge-capital-announce-acquisition-of-intercontinental-miami/",
-          "source": "Lodging Magazine",
-          "source_name": "Lodging Magazine",
-          "site_id": "lodgingmag",
-          "published_at": "2026-11-02T10:45:23Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.9364,
-      "importance": 0.5963,
-      "importance_score": 0.9364,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9813,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-02T10:45:23Z",
-      "latest_at": "2026-11-02T10:45:23Z",
-      "primary_item": {
-        "id": "hotelitem_a6bcb9f70c5a",
-        "title": "Gencom and White Bridge Capital Announce Acquisition of InterContinental Miami",
-        "url": "https://lodgingmagazine.com/gencom-and-white-bridge-capital-announce-acquisition-of-intercontinental-miami/",
-        "source": "Lodging Magazine",
-        "source_name": "Lodging Magazine"
       }
     },
     {
@@ -392,14 +392,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9352,
-      "importance": 0.5795,
-      "importance_score": 0.9352,
+      "score": 0.9334,
+      "importance": 0.5776,
+      "importance_score": 0.9334,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8975,
+        "recency": 0.888,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -451,14 +451,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9347,
-      "importance": 0.579,
-      "importance_score": 0.9347,
+      "score": 0.9329,
+      "importance": 0.5771,
+      "importance_score": 0.9329,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.895,
+        "recency": 0.8855,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -510,14 +510,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9314,
-      "importance": 0.5756,
-      "importance_score": 0.9314,
+      "score": 0.9296,
+      "importance": 0.5737,
+      "importance_score": 0.9296,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8779,
+        "recency": 0.8684,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -532,124 +532,6 @@
         "url": "https://www.hotelmanagement.net/resource/profit-details-how-smarter-purchasing-boosting-hotel-margins",
         "source": "Hotel Management",
         "source_name": "Hotel Management"
-      }
-    },
-    {
-      "story_id": "story_ba213c9c534c",
-      "title": "Caesars posts Q3 Las Vegas declines as Fertitta takeover looms",
-      "url": "https://www.hoteldive.com/news/caesars-entertainment-q3-2026-earnings/872996/",
-      "primary_url": "https://www.hoteldive.com/news/caesars-entertainment-q3-2026-earnings/872996/",
-      "source": "Hotel Dive",
-      "source_name": "Hotel Dive",
-      "sources": [
-        {
-          "id": "hotelitem_ba213c9c534c",
-          "title": "Caesars posts Q3 Las Vegas declines as Fertitta takeover looms",
-          "url": "https://www.hoteldive.com/news/caesars-entertainment-q3-2026-earnings/872996/",
-          "source": "Hotel Dive",
-          "source_name": "Hotel Dive",
-          "site_id": "hoteldive",
-          "published_at": "2026-10-28T13:13:03Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hotel Dive"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_ba213c9c534c",
-          "title": "Caesars posts Q3 Las Vegas declines as Fertitta takeover looms",
-          "url": "https://www.hoteldive.com/news/caesars-entertainment-q3-2026-earnings/872996/",
-          "source": "Hotel Dive",
-          "source_name": "Hotel Dive",
-          "site_id": "hoteldive",
-          "published_at": "2026-10-28T13:13:03Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.9304,
-      "importance": 0.5745,
-      "importance_score": 0.9304,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.8725,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-28T13:13:03Z",
-      "latest_at": "2026-10-28T13:13:03Z",
-      "primary_item": {
-        "id": "hotelitem_ba213c9c534c",
-        "title": "Caesars posts Q3 Las Vegas declines as Fertitta takeover looms",
-        "url": "https://www.hoteldive.com/news/caesars-entertainment-q3-2026-earnings/872996/",
-        "source": "Hotel Dive",
-        "source_name": "Hotel Dive"
-      }
-    },
-    {
-      "story_id": "story_c226831093cd",
-      "title": "Hilton raises full-year RevPAR outlook after ‘strong’ Q3 results",
-      "url": "https://www.hoteldive.com/news/hilton-raises-full-year-revpar-outlook-after-strong-q3/872934/",
-      "primary_url": "https://www.hoteldive.com/news/hilton-raises-full-year-revpar-outlook-after-strong-q3/872934/",
-      "source": "Hotel Dive",
-      "source_name": "Hotel Dive",
-      "sources": [
-        {
-          "id": "hotelitem_c226831093cd",
-          "title": "Hilton raises full-year RevPAR outlook after ‘strong’ Q3 results",
-          "url": "https://www.hoteldive.com/news/hilton-raises-full-year-revpar-outlook-after-strong-q3/872934/",
-          "source": "Hotel Dive",
-          "source_name": "Hotel Dive",
-          "site_id": "hoteldive",
-          "published_at": "2026-10-27T19:23:08Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hotel Dive"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_c226831093cd",
-          "title": "Hilton raises full-year RevPAR outlook after ‘strong’ Q3 results",
-          "url": "https://www.hoteldive.com/news/hilton-raises-full-year-revpar-outlook-after-strong-q3/872934/",
-          "source": "Hotel Dive",
-          "source_name": "Hotel Dive",
-          "site_id": "hoteldive",
-          "published_at": "2026-10-27T19:23:08Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.9272,
-      "importance": 0.5712,
-      "importance_score": 0.9272,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.856,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-27T19:23:08Z",
-      "latest_at": "2026-10-27T19:23:08Z",
-      "primary_item": {
-        "id": "hotelitem_c226831093cd",
-        "title": "Hilton raises full-year RevPAR outlook after ‘strong’ Q3 results",
-        "url": "https://www.hoteldive.com/news/hilton-raises-full-year-revpar-outlook-after-strong-q3/872934/",
-        "source": "Hotel Dive",
-        "source_name": "Hotel Dive"
       }
     },
     {
@@ -687,14 +569,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9193,
-      "importance": 0.5786,
-      "importance_score": 0.9193,
+      "score": 0.9175,
+      "importance": 0.5767,
+      "importance_score": 0.9175,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8928,
+        "recency": 0.8834,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -726,7 +608,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-11-03T06:53:56.271992Z"
+          "published_at": "2026-11-03T17:06:08.568534Z"
         }
       ],
       "source_count": 1,
@@ -741,7 +623,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-11-03T06:53:56.271992Z"
+          "published_at": "2026-11-03T17:06:08.568534Z"
         }
       ],
       "item_count": 1,
@@ -760,73 +642,14 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-11-03T06:53:56.271992Z",
-      "latest_at": "2026-11-03T06:53:56.271992Z",
+      "earliest_at": "2026-11-03T17:06:08.568534Z",
+      "latest_at": "2026-11-03T17:06:08.568534Z",
       "primary_item": {
         "id": "hotelitem_06f191e24d38",
         "title": "文旅惠报|复星国际申请分拆Club Med在港上市；南京商旅上半年营收3.66亿元",
         "url": "https://www.tripvivid.com/47868.html",
         "source": "执惠 TripVivid",
         "source_name": "执惠 TripVivid"
-      }
-    },
-    {
-      "story_id": "story_7be39d83dd57",
-      "title": "银河度假、大麦娱乐、飞猪达成三方战略合作",
-      "url": "https://www.pinchain.com/article/352494",
-      "primary_url": "https://www.pinchain.com/article/352494",
-      "source": "品橙旅游",
-      "source_name": "品橙旅游",
-      "sources": [
-        {
-          "id": "hotelitem_7be39d83dd57",
-          "title": "银河度假、大麦娱乐、飞猪达成三方战略合作",
-          "url": "https://www.pinchain.com/article/352494",
-          "source": "品橙旅游",
-          "source_name": "品橙旅游",
-          "site_id": "pinchain",
-          "published_at": "2026-11-02T08:00:35Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "品橙旅游"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_7be39d83dd57",
-          "title": "银河度假、大麦娱乐、飞猪达成三方战略合作",
-          "url": "https://www.pinchain.com/article/352494",
-          "source": "品橙旅游",
-          "source_name": "品橙旅游",
-          "site_id": "pinchain",
-          "published_at": "2026-11-02T08:00:35Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8809,
-      "importance": 0.5958,
-      "importance_score": 0.8809,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9788,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-02T08:00:35Z",
-      "latest_at": "2026-11-02T08:00:35Z",
-      "primary_item": {
-        "id": "hotelitem_7be39d83dd57",
-        "title": "银河度假、大麦娱乐、飞猪达成三方战略合作",
-        "url": "https://www.pinchain.com/article/352494",
-        "source": "品橙旅游",
-        "source_name": "品橙旅游"
       }
     },
     {
@@ -864,14 +687,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8754,
-      "importance": 0.5351,
-      "importance_score": 0.8754,
+      "score": 0.8726,
+      "importance": 0.5332,
+      "importance_score": 0.8726,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.6754,
+        "recency": 0.666,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -923,14 +746,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8639,
-      "importance": 0.5988,
-      "importance_score": 0.8639,
+      "score": 0.8621,
+      "importance": 0.597,
+      "importance_score": 0.8621,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9942,
+        "recency": 0.9848,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -982,14 +805,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8639,
-      "importance": 0.5989,
-      "importance_score": 0.8639,
+      "score": 0.8621,
+      "importance": 0.597,
+      "importance_score": 0.8621,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9946,
+        "recency": 0.9851,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1004,6 +827,202 @@
         "url": "https://insights.ehotelier.com/global-news/2026/11/03/sanya-and-maldives-sign-agreements-to-deepen-trade-and-investment-ties/?utm_source=rss&utm_medium=rss&utm_campaign=sanya-and-maldives-sign-agreements-to-deepen-trade-and-investment-ties",
         "source": "eHotelier",
         "source_name": "eHotelier"
+      }
+    },
+    {
+      "story_id": "story_c7c15b7680c9",
+      "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
+      "url": "https://www.chinahotel.org.cn/articles/17408",
+      "primary_url": "https://www.chinahotel.org.cn/articles/17408",
+      "source": "中国饭店协会",
+      "source_name": "中国饭店协会",
+      "sources": [
+        {
+          "id": "hotelitem_d4370964909c",
+          "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
+          "url": "https://www.chinahotel.org.cn/articles/17408",
+          "source": "中国饭店协会",
+          "source_name": "中国饭店协会",
+          "site_id": "chinahotel",
+          "published_at": "2026-11-03T17:06:08.568534Z"
+        },
+        {
+          "id": "hotelitem_c7c15b7680c9",
+          "title": "绿色饭店 | 2026年第一批国家标准绿色饭店名单公布 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007) 在全国组织开展国家标准绿色饭店的评定工作。现公布2026年第一批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
+          "url": "https://www.chinahotel.org.cn/articles/17689",
+          "source": "中国饭店协会",
+          "source_name": "中国饭店协会",
+          "site_id": "chinahotel",
+          "published_at": "2026-11-03T17:06:08.568534Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "中国饭店协会"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_d4370964909c",
+          "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
+          "url": "https://www.chinahotel.org.cn/articles/17408",
+          "source": "中国饭店协会",
+          "source_name": "中国饭店协会",
+          "site_id": "chinahotel",
+          "published_at": "2026-11-03T17:06:08.568534Z"
+        },
+        {
+          "id": "hotelitem_c7c15b7680c9",
+          "title": "绿色饭店 | 2026年第一批国家标准绿色饭店名单公布 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007) 在全国组织开展国家标准绿色饭店的评定工作。现公布2026年第一批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
+          "url": "https://www.chinahotel.org.cn/articles/17689",
+          "source": "中国饭店协会",
+          "source_name": "中国饭店协会",
+          "site_id": "chinahotel",
+          "published_at": "2026-11-03T17:06:08.568534Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.86,
+      "importance": 0.625,
+      "importance_score": 0.86,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-03T17:06:08.568534Z",
+      "latest_at": "2026-11-03T17:06:08.568534Z",
+      "primary_item": {
+        "id": "hotelitem_d4370964909c",
+        "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
+        "url": "https://www.chinahotel.org.cn/articles/17408",
+        "source": "中国饭店协会",
+        "source_name": "中国饭店协会"
+      }
+    },
+    {
+      "story_id": "story_0898acdbf9b8",
+      "title": "万豪发布2026年第三季度业绩 亚太区增长超过9%",
+      "url": "https://www.meadin.com/jd/303626.html",
+      "primary_url": "https://www.meadin.com/jd/303626.html",
+      "source": "迈点研究院",
+      "source_name": "迈点研究院",
+      "sources": [
+        {
+          "id": "hotelitem_0898acdbf9b8",
+          "title": "万豪发布2026年第三季度业绩 亚太区增长超过9%",
+          "url": "https://www.meadin.com/jd/303626.html",
+          "source": "迈点研究院",
+          "source_name": "迈点研究院",
+          "site_id": "meadin",
+          "published_at": "2026-11-03T17:06:08.568534Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "迈点研究院"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_0898acdbf9b8",
+          "title": "万豪发布2026年第三季度业绩 亚太区增长超过9%",
+          "url": "https://www.meadin.com/jd/303626.html",
+          "source": "迈点研究院",
+          "source_name": "迈点研究院",
+          "site_id": "meadin",
+          "published_at": "2026-11-03T17:06:08.568534Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.86,
+      "importance": 0.6,
+      "importance_score": 0.86,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-03T17:06:08.568534Z",
+      "latest_at": "2026-11-03T17:06:08.568534Z",
+      "primary_item": {
+        "id": "hotelitem_0898acdbf9b8",
+        "title": "万豪发布2026年第三季度业绩 亚太区增长超过9%",
+        "url": "https://www.meadin.com/jd/303626.html",
+        "source": "迈点研究院",
+        "source_name": "迈点研究院"
+      }
+    },
+    {
+      "story_id": "story_4c8c6ece2e3d",
+      "title": "凯悦酒店集团任命何国祥(Stephen Ho)为亚太区集团总裁, 于德励(David Udell)将出任资深顾问",
+      "url": "https://www.meadin.com/jd/303624.html",
+      "primary_url": "https://www.meadin.com/jd/303624.html",
+      "source": "迈点研究院",
+      "source_name": "迈点研究院",
+      "sources": [
+        {
+          "id": "hotelitem_4c8c6ece2e3d",
+          "title": "凯悦酒店集团任命何国祥(Stephen Ho)为亚太区集团总裁, 于德励(David Udell)将出任资深顾问",
+          "url": "https://www.meadin.com/jd/303624.html",
+          "source": "迈点研究院",
+          "source_name": "迈点研究院",
+          "site_id": "meadin",
+          "published_at": "2026-11-03T17:06:08.568534Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "迈点研究院"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_4c8c6ece2e3d",
+          "title": "凯悦酒店集团任命何国祥(Stephen Ho)为亚太区集团总裁, 于德励(David Udell)将出任资深顾问",
+          "url": "https://www.meadin.com/jd/303624.html",
+          "source": "迈点研究院",
+          "source_name": "迈点研究院",
+          "site_id": "meadin",
+          "published_at": "2026-11-03T17:06:08.568534Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.86,
+      "importance": 0.6,
+      "importance_score": 0.86,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-03T17:06:08.568534Z",
+      "latest_at": "2026-11-03T17:06:08.568534Z",
+      "primary_item": {
+        "id": "hotelitem_4c8c6ece2e3d",
+        "title": "凯悦酒店集团任命何国祥(Stephen Ho)为亚太区集团总裁, 于德励(David Udell)将出任资深顾问",
+        "url": "https://www.meadin.com/jd/303624.html",
+        "source": "迈点研究院",
+        "source_name": "迈点研究院"
       }
     },
     {
@@ -1041,14 +1060,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8613,
-      "importance": 0.5961,
-      "importance_score": 0.8613,
+      "score": 0.8594,
+      "importance": 0.5942,
+      "importance_score": 0.8594,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9806,
+        "recency": 0.9712,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1066,121 +1085,43 @@
       }
     },
     {
-      "story_id": "story_c7c15b7680c9",
-      "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
-      "url": "https://www.chinahotel.org.cn/articles/17408",
-      "primary_url": "https://www.chinahotel.org.cn/articles/17408",
-      "source": "中国饭店协会",
-      "source_name": "中国饭店协会",
+      "story_id": "story_e4ce0593c384",
+      "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
+      "url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
+      "primary_url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
+      "source": "中国旅游研究院",
+      "source_name": "中国旅游研究院",
       "sources": [
         {
-          "id": "hotelitem_d4370964909c",
-          "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
-          "url": "https://www.chinahotel.org.cn/articles/17408",
-          "source": "中国饭店协会",
-          "source_name": "中国饭店协会",
-          "site_id": "chinahotel",
-          "published_at": "2026-11-03T06:53:56.271992Z"
-        },
-        {
-          "id": "hotelitem_c7c15b7680c9",
-          "title": "绿色饭店 | 2026年第一批国家标准绿色饭店名单公布 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007) 在全国组织开展国家标准绿色饭店的评定工作。现公布2026年第一批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
-          "url": "https://www.chinahotel.org.cn/articles/17689",
-          "source": "中国饭店协会",
-          "source_name": "中国饭店协会",
-          "site_id": "chinahotel",
-          "published_at": "2026-11-03T06:53:56.271992Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "中国饭店协会"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_d4370964909c",
-          "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
-          "url": "https://www.chinahotel.org.cn/articles/17408",
-          "source": "中国饭店协会",
-          "source_name": "中国饭店协会",
-          "site_id": "chinahotel",
-          "published_at": "2026-11-03T06:53:56.271992Z"
-        },
-        {
-          "id": "hotelitem_c7c15b7680c9",
-          "title": "绿色饭店 | 2026年第一批国家标准绿色饭店名单公布 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007) 在全国组织开展国家标准绿色饭店的评定工作。现公布2026年第一批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
-          "url": "https://www.chinahotel.org.cn/articles/17689",
-          "source": "中国饭店协会",
-          "source_name": "中国饭店协会",
-          "site_id": "chinahotel",
-          "published_at": "2026-11-03T06:53:56.271992Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.86,
-      "importance": 0.625,
-      "importance_score": 0.86,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-03T06:53:56.271992Z",
-      "latest_at": "2026-11-03T06:53:56.271992Z",
-      "primary_item": {
-        "id": "hotelitem_d4370964909c",
-        "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
-        "url": "https://www.chinahotel.org.cn/articles/17408",
-        "source": "中国饭店协会",
-        "source_name": "中国饭店协会"
-      }
-    },
-    {
-      "story_id": "story_0898acdbf9b8",
-      "title": "万豪发布2026年第三季度业绩 亚太区增长超过9%",
-      "url": "https://www.meadin.com/jd/303626.html",
-      "primary_url": "https://www.meadin.com/jd/303626.html",
-      "source": "迈点研究院",
-      "source_name": "迈点研究院",
-      "sources": [
-        {
-          "id": "hotelitem_0898acdbf9b8",
-          "title": "万豪发布2026年第三季度业绩 亚太区增长超过9%",
-          "url": "https://www.meadin.com/jd/303626.html",
-          "source": "迈点研究院",
-          "source_name": "迈点研究院",
-          "site_id": "meadin",
-          "published_at": "2026-11-03T06:53:56.271992Z"
+          "id": "hotelitem_e4ce0593c384",
+          "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
+          "url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
+          "source": "中国旅游研究院",
+          "source_name": "中国旅游研究院",
+          "site_id": "cta",
+          "published_at": "2026-11-03T17:06:08.568534Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "迈点研究院"
+        "中国旅游研究院"
       ],
       "items": [
         {
-          "id": "hotelitem_0898acdbf9b8",
-          "title": "万豪发布2026年第三季度业绩 亚太区增长超过9%",
-          "url": "https://www.meadin.com/jd/303626.html",
-          "source": "迈点研究院",
-          "source_name": "迈点研究院",
-          "site_id": "meadin",
-          "published_at": "2026-11-03T06:53:56.271992Z"
+          "id": "hotelitem_e4ce0593c384",
+          "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
+          "url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
+          "source": "中国旅游研究院",
+          "source_name": "中国旅游研究院",
+          "site_id": "cta",
+          "published_at": "2026-11-03T17:06:08.568534Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.86,
+      "score": 0.858,
       "importance": 0.6,
-      "importance_score": 0.86,
+      "importance_score": 0.858,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
@@ -1192,54 +1133,54 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-11-03T06:53:56.271992Z",
-      "latest_at": "2026-11-03T06:53:56.271992Z",
+      "earliest_at": "2026-11-03T17:06:08.568534Z",
+      "latest_at": "2026-11-03T17:06:08.568534Z",
       "primary_item": {
-        "id": "hotelitem_0898acdbf9b8",
-        "title": "万豪发布2026年第三季度业绩 亚太区增长超过9%",
-        "url": "https://www.meadin.com/jd/303626.html",
-        "source": "迈点研究院",
-        "source_name": "迈点研究院"
+        "id": "hotelitem_e4ce0593c384",
+        "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
+        "url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
+        "source": "中国旅游研究院",
+        "source_name": "中国旅游研究院"
       }
     },
     {
-      "story_id": "story_4c8c6ece2e3d",
-      "title": "凯悦酒店集团任命何国祥(Stephen Ho)为亚太区集团总裁, 于德励(David Udell)将出任资深顾问",
-      "url": "https://www.meadin.com/jd/303624.html",
-      "primary_url": "https://www.meadin.com/jd/303624.html",
-      "source": "迈点研究院",
-      "source_name": "迈点研究院",
+      "story_id": "story_4adba65c20e7",
+      "title": "文化和旅游部党组召开会议坚决拥护党中央对...",
+      "url": "https://www.mct.gov.cn/whzx/whyw/202610/t20261010_967329.htm",
+      "primary_url": "https://www.mct.gov.cn/whzx/whyw/202610/t20261010_967329.htm",
+      "source": "文化和旅游部",
+      "source_name": "文化和旅游部",
       "sources": [
         {
-          "id": "hotelitem_4c8c6ece2e3d",
-          "title": "凯悦酒店集团任命何国祥(Stephen Ho)为亚太区集团总裁, 于德励(David Udell)将出任资深顾问",
-          "url": "https://www.meadin.com/jd/303624.html",
-          "source": "迈点研究院",
-          "source_name": "迈点研究院",
-          "site_id": "meadin",
-          "published_at": "2026-11-03T06:53:56.271992Z"
+          "id": "hotelitem_4adba65c20e7",
+          "title": "文化和旅游部党组召开会议坚决拥护党中央对...",
+          "url": "https://www.mct.gov.cn/whzx/whyw/202610/t20261010_967329.htm",
+          "source": "文化和旅游部",
+          "source_name": "文化和旅游部",
+          "site_id": "mct",
+          "published_at": "2026-11-03T17:06:08.568534Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "迈点研究院"
+        "文化和旅游部"
       ],
       "items": [
         {
-          "id": "hotelitem_4c8c6ece2e3d",
-          "title": "凯悦酒店集团任命何国祥(Stephen Ho)为亚太区集团总裁, 于德励(David Udell)将出任资深顾问",
-          "url": "https://www.meadin.com/jd/303624.html",
-          "source": "迈点研究院",
-          "source_name": "迈点研究院",
-          "site_id": "meadin",
-          "published_at": "2026-11-03T06:53:56.271992Z"
+          "id": "hotelitem_4adba65c20e7",
+          "title": "文化和旅游部党组召开会议坚决拥护党中央对...",
+          "url": "https://www.mct.gov.cn/whzx/whyw/202610/t20261010_967329.htm",
+          "source": "文化和旅游部",
+          "source_name": "文化和旅游部",
+          "site_id": "mct",
+          "published_at": "2026-11-03T17:06:08.568534Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.86,
+      "score": 0.858,
       "importance": 0.6,
-      "importance_score": 0.86,
+      "importance_score": 0.858,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
@@ -1251,14 +1192,73 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-11-03T06:53:56.271992Z",
-      "latest_at": "2026-11-03T06:53:56.271992Z",
+      "earliest_at": "2026-11-03T17:06:08.568534Z",
+      "latest_at": "2026-11-03T17:06:08.568534Z",
       "primary_item": {
-        "id": "hotelitem_4c8c6ece2e3d",
-        "title": "凯悦酒店集团任命何国祥(Stephen Ho)为亚太区集团总裁, 于德励(David Udell)将出任资深顾问",
-        "url": "https://www.meadin.com/jd/303624.html",
-        "source": "迈点研究院",
-        "source_name": "迈点研究院"
+        "id": "hotelitem_4adba65c20e7",
+        "title": "文化和旅游部党组召开会议坚决拥护党中央对...",
+        "url": "https://www.mct.gov.cn/whzx/whyw/202610/t20261010_967329.htm",
+        "source": "文化和旅游部",
+        "source_name": "文化和旅游部"
+      }
+    },
+    {
+      "story_id": "story_e63a36930397",
+      "title": "文化和旅游部印发《艺术发展“十五五”规划》",
+      "url": "https://www.mct.gov.cn/whzx/whyw/202609/t20260930_967299.htm",
+      "primary_url": "https://www.mct.gov.cn/whzx/whyw/202609/t20260930_967299.htm",
+      "source": "文化和旅游部",
+      "source_name": "文化和旅游部",
+      "sources": [
+        {
+          "id": "hotelitem_e63a36930397",
+          "title": "文化和旅游部印发《艺术发展“十五五”规划》",
+          "url": "https://www.mct.gov.cn/whzx/whyw/202609/t20260930_967299.htm",
+          "source": "文化和旅游部",
+          "source_name": "文化和旅游部",
+          "site_id": "mct",
+          "published_at": "2026-11-03T17:06:08.568534Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "文化和旅游部"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_e63a36930397",
+          "title": "文化和旅游部印发《艺术发展“十五五”规划》",
+          "url": "https://www.mct.gov.cn/whzx/whyw/202609/t20260930_967299.htm",
+          "source": "文化和旅游部",
+          "source_name": "文化和旅游部",
+          "site_id": "mct",
+          "published_at": "2026-11-03T17:06:08.568534Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.858,
+      "importance": 0.6,
+      "importance_score": 0.858,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-03T17:06:08.568534Z",
+      "latest_at": "2026-11-03T17:06:08.568534Z",
+      "primary_item": {
+        "id": "hotelitem_e63a36930397",
+        "title": "文化和旅游部印发《艺术发展“十五五”规划》",
+        "url": "https://www.mct.gov.cn/whzx/whyw/202609/t20260930_967299.htm",
+        "source": "文化和旅游部",
+        "source_name": "文化和旅游部"
       }
     },
     {
@@ -1296,14 +1296,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8595,
-      "importance": 0.5943,
-      "importance_score": 0.8595,
+      "score": 0.8577,
+      "importance": 0.5925,
+      "importance_score": 0.8577,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9717,
+        "recency": 0.9623,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1318,183 +1318,6 @@
         "url": "https://insights.ehotelier.com/insights/2026/11/02/survival-of-any-hotel-depends-on-a-strong-theme-and-a-clear-niche/?utm_source=rss&utm_medium=rss&utm_campaign=survival-of-any-hotel-depends-on-a-strong-theme-and-a-clear-niche",
         "source": "eHotelier",
         "source_name": "eHotelier"
-      }
-    },
-    {
-      "story_id": "story_e4ce0593c384",
-      "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
-      "url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
-      "primary_url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
-      "source": "中国旅游研究院",
-      "source_name": "中国旅游研究院",
-      "sources": [
-        {
-          "id": "hotelitem_e4ce0593c384",
-          "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
-          "url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
-          "source": "中国旅游研究院",
-          "source_name": "中国旅游研究院",
-          "site_id": "cta",
-          "published_at": "2026-11-03T06:53:56.271992Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "中国旅游研究院"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_e4ce0593c384",
-          "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
-          "url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
-          "source": "中国旅游研究院",
-          "source_name": "中国旅游研究院",
-          "site_id": "cta",
-          "published_at": "2026-11-03T06:53:56.271992Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.858,
-      "importance": 0.6,
-      "importance_score": 0.858,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-03T06:53:56.271992Z",
-      "latest_at": "2026-11-03T06:53:56.271992Z",
-      "primary_item": {
-        "id": "hotelitem_e4ce0593c384",
-        "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
-        "url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
-        "source": "中国旅游研究院",
-        "source_name": "中国旅游研究院"
-      }
-    },
-    {
-      "story_id": "story_4adba65c20e7",
-      "title": "文化和旅游部党组召开会议坚决拥护党中央对...",
-      "url": "https://www.mct.gov.cn/whzx/whyw/202610/t20261010_967329.htm",
-      "primary_url": "https://www.mct.gov.cn/whzx/whyw/202610/t20261010_967329.htm",
-      "source": "文化和旅游部",
-      "source_name": "文化和旅游部",
-      "sources": [
-        {
-          "id": "hotelitem_4adba65c20e7",
-          "title": "文化和旅游部党组召开会议坚决拥护党中央对...",
-          "url": "https://www.mct.gov.cn/whzx/whyw/202610/t20261010_967329.htm",
-          "source": "文化和旅游部",
-          "source_name": "文化和旅游部",
-          "site_id": "mct",
-          "published_at": "2026-11-03T06:53:56.271992Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "文化和旅游部"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_4adba65c20e7",
-          "title": "文化和旅游部党组召开会议坚决拥护党中央对...",
-          "url": "https://www.mct.gov.cn/whzx/whyw/202610/t20261010_967329.htm",
-          "source": "文化和旅游部",
-          "source_name": "文化和旅游部",
-          "site_id": "mct",
-          "published_at": "2026-11-03T06:53:56.271992Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.858,
-      "importance": 0.6,
-      "importance_score": 0.858,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-03T06:53:56.271992Z",
-      "latest_at": "2026-11-03T06:53:56.271992Z",
-      "primary_item": {
-        "id": "hotelitem_4adba65c20e7",
-        "title": "文化和旅游部党组召开会议坚决拥护党中央对...",
-        "url": "https://www.mct.gov.cn/whzx/whyw/202610/t20261010_967329.htm",
-        "source": "文化和旅游部",
-        "source_name": "文化和旅游部"
-      }
-    },
-    {
-      "story_id": "story_e63a36930397",
-      "title": "文化和旅游部印发《艺术发展“十五五”规划》",
-      "url": "https://www.mct.gov.cn/whzx/whyw/202609/t20260930_967299.htm",
-      "primary_url": "https://www.mct.gov.cn/whzx/whyw/202609/t20260930_967299.htm",
-      "source": "文化和旅游部",
-      "source_name": "文化和旅游部",
-      "sources": [
-        {
-          "id": "hotelitem_e63a36930397",
-          "title": "文化和旅游部印发《艺术发展“十五五”规划》",
-          "url": "https://www.mct.gov.cn/whzx/whyw/202609/t20260930_967299.htm",
-          "source": "文化和旅游部",
-          "source_name": "文化和旅游部",
-          "site_id": "mct",
-          "published_at": "2026-11-03T06:53:56.271992Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "文化和旅游部"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_e63a36930397",
-          "title": "文化和旅游部印发《艺术发展“十五五”规划》",
-          "url": "https://www.mct.gov.cn/whzx/whyw/202609/t20260930_967299.htm",
-          "source": "文化和旅游部",
-          "source_name": "文化和旅游部",
-          "site_id": "mct",
-          "published_at": "2026-11-03T06:53:56.271992Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.858,
-      "importance": 0.6,
-      "importance_score": 0.858,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-03T06:53:56.271992Z",
-      "latest_at": "2026-11-03T06:53:56.271992Z",
-      "primary_item": {
-        "id": "hotelitem_e63a36930397",
-        "title": "文化和旅游部印发《艺术发展“十五五”规划》",
-        "url": "https://www.mct.gov.cn/whzx/whyw/202609/t20260930_967299.htm",
-        "source": "文化和旅游部",
-        "source_name": "文化和旅游部"
       }
     },
     {
@@ -1532,14 +1355,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8559,
-      "importance": 0.5439,
-      "importance_score": 0.8559,
+      "score": 0.8531,
+      "importance": 0.542,
+      "importance_score": 0.8531,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.7197,
+        "recency": 0.7102,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1610,14 +1433,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8515,
-      "importance": 0.6213,
-      "importance_score": 0.8515,
+      "score": 0.8497,
+      "importance": 0.6195,
+      "importance_score": 0.8497,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9817,
+        "recency": 0.9723,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1631,6 +1454,183 @@
         "id": "hotelitem_0246333c0562",
         "title": "Wyndham Announces Partnership With HotelREZ Hotels & Resorts",
         "url": "https://lodgingmagazine.com/wyndham-announces-partnership-with-hotelrez-hotels-resorts/",
+        "source": "Lodging Magazine",
+        "source_name": "Lodging Magazine"
+      }
+    },
+    {
+      "story_id": "story_7cc315da81d0",
+      "title": "Sonesta Announces Affiliation With Boyd Gaming",
+      "url": "https://lodgingmagazine.com/sonesta-announces-affiliation-with-boyd-gaming/",
+      "primary_url": "https://lodgingmagazine.com/sonesta-announces-affiliation-with-boyd-gaming/",
+      "source": "Lodging Magazine",
+      "source_name": "Lodging Magazine",
+      "sources": [
+        {
+          "id": "hotelitem_7cc315da81d0",
+          "title": "Sonesta Announces Affiliation With Boyd Gaming",
+          "url": "https://lodgingmagazine.com/sonesta-announces-affiliation-with-boyd-gaming/",
+          "source": "Lodging Magazine",
+          "source_name": "Lodging Magazine",
+          "site_id": "lodgingmag",
+          "published_at": "2026-11-03T14:46:15Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Lodging Magazine"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_7cc315da81d0",
+          "title": "Sonesta Announces Affiliation With Boyd Gaming",
+          "url": "https://lodgingmagazine.com/sonesta-announces-affiliation-with-boyd-gaming/",
+          "source": "Lodging Magazine",
+          "source_name": "Lodging Magazine",
+          "site_id": "lodgingmag",
+          "published_at": "2026-11-03T14:46:15Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8496,
+      "importance": 0.5996,
+      "importance_score": 0.8496,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9978,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-03T14:46:15Z",
+      "latest_at": "2026-11-03T14:46:15Z",
+      "primary_item": {
+        "id": "hotelitem_7cc315da81d0",
+        "title": "Sonesta Announces Affiliation With Boyd Gaming",
+        "url": "https://lodgingmagazine.com/sonesta-announces-affiliation-with-boyd-gaming/",
+        "source": "Lodging Magazine",
+        "source_name": "Lodging Magazine"
+      }
+    },
+    {
+      "story_id": "story_8b9997f19e95",
+      "title": "JLL Arranges Construction Financing for Hotel Development in Phoenix, Arizona",
+      "url": "https://lodgingmagazine.com/jll-arranges-construction-financing-for-hotel-development-in-phoenix-arizona/",
+      "primary_url": "https://lodgingmagazine.com/jll-arranges-construction-financing-for-hotel-development-in-phoenix-arizona/",
+      "source": "Lodging Magazine",
+      "source_name": "Lodging Magazine",
+      "sources": [
+        {
+          "id": "hotelitem_8b9997f19e95",
+          "title": "JLL Arranges Construction Financing for Hotel Development in Phoenix, Arizona",
+          "url": "https://lodgingmagazine.com/jll-arranges-construction-financing-for-hotel-development-in-phoenix-arizona/",
+          "source": "Lodging Magazine",
+          "source_name": "Lodging Magazine",
+          "site_id": "lodgingmag",
+          "published_at": "2026-11-03T11:49:58Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Lodging Magazine"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_8b9997f19e95",
+          "title": "JLL Arranges Construction Financing for Hotel Development in Phoenix, Arizona",
+          "url": "https://lodgingmagazine.com/jll-arranges-construction-financing-for-hotel-development-in-phoenix-arizona/",
+          "source": "Lodging Magazine",
+          "source_name": "Lodging Magazine",
+          "site_id": "lodgingmag",
+          "published_at": "2026-11-03T11:49:58Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8491,
+      "importance": 0.599,
+      "importance_score": 0.8491,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9951,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-03T11:49:58Z",
+      "latest_at": "2026-11-03T11:49:58Z",
+      "primary_item": {
+        "id": "hotelitem_8b9997f19e95",
+        "title": "JLL Arranges Construction Financing for Hotel Development in Phoenix, Arizona",
+        "url": "https://lodgingmagazine.com/jll-arranges-construction-financing-for-hotel-development-in-phoenix-arizona/",
+        "source": "Lodging Magazine",
+        "source_name": "Lodging Magazine"
+      }
+    },
+    {
+      "story_id": "story_7de399938ae9",
+      "title": "The Hospitality Show Highlights Strategies for Growth Amid Industry Headwinds",
+      "url": "https://lodgingmagazine.com/the-hospitality-show-highlights-strategies-for-growth-amid-industry-headwinds/",
+      "primary_url": "https://lodgingmagazine.com/the-hospitality-show-highlights-strategies-for-growth-amid-industry-headwinds/",
+      "source": "Lodging Magazine",
+      "source_name": "Lodging Magazine",
+      "sources": [
+        {
+          "id": "hotelitem_7de399938ae9",
+          "title": "The Hospitality Show Highlights Strategies for Growth Amid Industry Headwinds",
+          "url": "https://lodgingmagazine.com/the-hospitality-show-highlights-strategies-for-growth-amid-industry-headwinds/",
+          "source": "Lodging Magazine",
+          "source_name": "Lodging Magazine",
+          "site_id": "lodgingmag",
+          "published_at": "2026-11-03T11:26:10Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Lodging Magazine"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_7de399938ae9",
+          "title": "The Hospitality Show Highlights Strategies for Growth Amid Industry Headwinds",
+          "url": "https://lodgingmagazine.com/the-hospitality-show-highlights-strategies-for-growth-amid-industry-headwinds/",
+          "source": "Lodging Magazine",
+          "source_name": "Lodging Magazine",
+          "site_id": "lodgingmag",
+          "published_at": "2026-11-03T11:26:10Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.849,
+      "importance": 0.599,
+      "importance_score": 0.849,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9948,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-03T11:26:10Z",
+      "latest_at": "2026-11-03T11:26:10Z",
+      "primary_item": {
+        "id": "hotelitem_7de399938ae9",
+        "title": "The Hospitality Show Highlights Strategies for Growth Amid Industry Headwinds",
+        "url": "https://lodgingmagazine.com/the-hospitality-show-highlights-strategies-for-growth-amid-industry-headwinds/",
         "source": "Lodging Magazine",
         "source_name": "Lodging Magazine"
       }
@@ -1670,14 +1670,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8498,
-      "importance": 0.5713,
-      "importance_score": 0.8498,
+      "score": 0.848,
+      "importance": 0.5694,
+      "importance_score": 0.848,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8564,
+        "recency": 0.8469,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1729,14 +1729,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.841,
-      "importance": 0.5752,
-      "importance_score": 0.841,
+      "score": 0.8392,
+      "importance": 0.5733,
+      "importance_score": 0.8392,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8758,
+        "recency": 0.8664,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1754,62 +1754,62 @@
       }
     },
     {
-      "story_id": "story_380aae9f6d0a",
-      "title": "Addressing Hotel Staffing Challenges Through Long-Term Planning",
-      "url": "https://lodgingmagazine.com/addressing-hotel-staffing-challenges-through-long-term-planning/",
-      "primary_url": "https://lodgingmagazine.com/addressing-hotel-staffing-challenges-through-long-term-planning/",
-      "source": "Lodging Magazine",
-      "source_name": "Lodging Magazine",
+      "story_id": "story_b48dfc4ec242",
+      "title": "The StandardX to debut in North America",
+      "url": "https://boutiquehotelnews.com/news/hotel/the-standardx-north-america/?utm_source=rss&utm_medium=rss&utm_campaign=the-standardx-north-america",
+      "primary_url": "https://boutiquehotelnews.com/news/hotel/the-standardx-north-america/?utm_source=rss&utm_medium=rss&utm_campaign=the-standardx-north-america",
+      "source": "Boutique Hotel News",
+      "source_name": "Boutique Hotel News",
       "sources": [
         {
-          "id": "hotelitem_380aae9f6d0a",
-          "title": "Addressing Hotel Staffing Challenges Through Long-Term Planning",
-          "url": "https://lodgingmagazine.com/addressing-hotel-staffing-challenges-through-long-term-planning/",
-          "source": "Lodging Magazine",
-          "source_name": "Lodging Magazine",
-          "site_id": "lodgingmag",
-          "published_at": "2026-10-30T14:59:53Z"
+          "id": "hotelitem_b48dfc4ec242",
+          "title": "The StandardX to debut in North America",
+          "url": "https://boutiquehotelnews.com/news/hotel/the-standardx-north-america/?utm_source=rss&utm_medium=rss&utm_campaign=the-standardx-north-america",
+          "source": "Boutique Hotel News",
+          "source_name": "Boutique Hotel News",
+          "site_id": "boutiquehotel",
+          "published_at": "2026-10-30T11:55:11Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Lodging Magazine"
+        "Boutique Hotel News"
       ],
       "items": [
         {
-          "id": "hotelitem_380aae9f6d0a",
-          "title": "Addressing Hotel Staffing Challenges Through Long-Term Planning",
-          "url": "https://lodgingmagazine.com/addressing-hotel-staffing-challenges-through-long-term-planning/",
-          "source": "Lodging Magazine",
-          "source_name": "Lodging Magazine",
-          "site_id": "lodgingmag",
-          "published_at": "2026-10-30T14:59:53Z"
+          "id": "hotelitem_b48dfc4ec242",
+          "title": "The StandardX to debut in North America",
+          "url": "https://boutiquehotelnews.com/news/hotel/the-standardx-north-america/?utm_source=rss&utm_medium=rss&utm_campaign=the-standardx-north-america",
+          "source": "Boutique Hotel News",
+          "source_name": "Boutique Hotel News",
+          "site_id": "boutiquehotel",
+          "published_at": "2026-10-30T11:55:11Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8343,
-      "importance": 0.5837,
-      "importance_score": 0.8343,
+      "score": 0.8319,
+      "importance": 0.5813,
+      "importance_score": 0.8319,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9186,
+        "recency": 0.9063,
         "story_heat": 0.0
       },
       "category": "watch",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-30T14:59:53Z",
-      "latest_at": "2026-10-30T14:59:53Z",
+      "earliest_at": "2026-10-30T11:55:11Z",
+      "latest_at": "2026-10-30T11:55:11Z",
       "primary_item": {
-        "id": "hotelitem_380aae9f6d0a",
-        "title": "Addressing Hotel Staffing Challenges Through Long-Term Planning",
-        "url": "https://lodgingmagazine.com/addressing-hotel-staffing-challenges-through-long-term-planning/",
-        "source": "Lodging Magazine",
-        "source_name": "Lodging Magazine"
+        "id": "hotelitem_b48dfc4ec242",
+        "title": "The StandardX to debut in North America",
+        "url": "https://boutiquehotelnews.com/news/hotel/the-standardx-north-america/?utm_source=rss&utm_medium=rss&utm_campaign=the-standardx-north-america",
+        "source": "Boutique Hotel News",
+        "source_name": "Boutique Hotel News"
       }
     }
   ]
