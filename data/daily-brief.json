@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T16:47:46.737012Z",
+  "generated_at": "2026-11-06T23:13:21.819986Z",
   "window_hours": 1080,
   "total_items": 30,
   "items": [
@@ -39,13 +39,13 @@
       "item_count": 1,
       "duplicate_count": 1,
       "score": 1.0,
-      "importance": 0.5985,
+      "importance": 0.5973,
       "importance_score": 1.0,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9925,
+        "recency": 0.9865,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -60,6 +60,65 @@
         "url": "https://www.pinchain.com/article/352736",
         "source": "品橙旅游",
         "source_name": "品橙旅游"
+      }
+    },
+    {
+      "story_id": "story_e3feb7946c56",
+      "title": "Host Hotels & Resorts buys 1 Hotel Brooklyn Bridge, Renaissance Plano",
+      "url": "https://www.hoteldive.com/news/host-hotels-brooklyn-dallas-acquisitions/874044/",
+      "primary_url": "https://www.hoteldive.com/news/host-hotels-brooklyn-dallas-acquisitions/874044/",
+      "source": "Hotel Dive",
+      "source_name": "Hotel Dive",
+      "sources": [
+        {
+          "id": "hotelitem_e3feb7946c56",
+          "title": "Host Hotels & Resorts buys 1 Hotel Brooklyn Bridge, Renaissance Plano",
+          "url": "https://www.hoteldive.com/news/host-hotels-brooklyn-dallas-acquisitions/874044/",
+          "source": "Hotel Dive",
+          "source_name": "Hotel Dive",
+          "site_id": "hoteldive",
+          "published_at": "2026-11-06T20:17:02Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hotel Dive"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_e3feb7946c56",
+          "title": "Host Hotels & Resorts buys 1 Hotel Brooklyn Bridge, Renaissance Plano",
+          "url": "https://www.hoteldive.com/news/host-hotels-brooklyn-dallas-acquisitions/874044/",
+          "source": "Hotel Dive",
+          "source_name": "Hotel Dive",
+          "site_id": "hoteldive",
+          "published_at": "2026-11-06T20:17:02Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.9545,
+      "importance": 0.5995,
+      "importance_score": 0.9545,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9973,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-06T20:17:02Z",
+      "latest_at": "2026-11-06T20:17:02Z",
+      "primary_item": {
+        "id": "hotelitem_e3feb7946c56",
+        "title": "Host Hotels & Resorts buys 1 Hotel Brooklyn Bridge, Renaissance Plano",
+        "url": "https://www.hoteldive.com/news/host-hotels-brooklyn-dallas-acquisitions/874044/",
+        "source": "Hotel Dive",
+        "source_name": "Hotel Dive"
       }
     },
     {
@@ -97,14 +156,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9547,
-      "importance": 0.5996,
-      "importance_score": 0.9547,
+      "score": 0.9535,
+      "importance": 0.5985,
+      "importance_score": 0.9535,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9982,
+        "recency": 0.9923,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -156,14 +215,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9546,
-      "importance": 0.5996,
-      "importance_score": 0.9546,
+      "score": 0.9534,
+      "importance": 0.5984,
+      "importance_score": 0.9534,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9979,
+        "recency": 0.9919,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -215,14 +274,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9522,
-      "importance": 0.5971,
-      "importance_score": 0.9522,
+      "score": 0.951,
+      "importance": 0.5959,
+      "importance_score": 0.951,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9854,
+        "recency": 0.9794,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -274,14 +333,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9522,
-      "importance": 0.5971,
-      "importance_score": 0.9522,
+      "score": 0.951,
+      "importance": 0.5959,
+      "importance_score": 0.951,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9855,
+        "recency": 0.9795,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -333,14 +392,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9479,
-      "importance": 0.5926,
-      "importance_score": 0.9479,
+      "score": 0.9467,
+      "importance": 0.5914,
+      "importance_score": 0.9467,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9631,
+        "recency": 0.9571,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -392,14 +451,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9479,
-      "importance": 0.5926,
-      "importance_score": 0.9479,
+      "score": 0.9467,
+      "importance": 0.5914,
+      "importance_score": 0.9467,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9632,
+        "recency": 0.9572,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -451,14 +510,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9417,
-      "importance": 0.5862,
-      "importance_score": 0.9417,
+      "score": 0.9406,
+      "importance": 0.585,
+      "importance_score": 0.9406,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9311,
+        "recency": 0.9251,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -510,14 +569,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9399,
-      "importance": 0.5999,
-      "importance_score": 0.9399,
+      "score": 0.9388,
+      "importance": 0.5987,
+      "importance_score": 0.9388,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9996,
+        "recency": 0.9937,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -569,14 +628,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.939,
-      "importance": 0.599,
-      "importance_score": 0.939,
+      "score": 0.9379,
+      "importance": 0.5978,
+      "importance_score": 0.9379,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9949,
+        "recency": 0.989,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -591,65 +650,6 @@
         "url": "https://boutiquehotelnews.com/features/uk-hotel-performance/?utm_source=rss&utm_medium=rss&utm_campaign=uk-hotel-performance",
         "source": "Boutique Hotel News",
         "source_name": "Boutique Hotel News"
-      }
-    },
-    {
-      "story_id": "story_102f2695584b",
-      "title": "Choice Hotels cites extended stay as ‘key growth driver’ in Q3",
-      "url": "https://www.hoteldive.com/news/choice-hotels-q3-2026-earnings/873485/",
-      "primary_url": "https://www.hoteldive.com/news/choice-hotels-q3-2026-earnings/873485/",
-      "source": "Hotel Dive",
-      "source_name": "Hotel Dive",
-      "sources": [
-        {
-          "id": "hotelitem_102f2695584b",
-          "title": "Choice Hotels cites extended stay as ‘key growth driver’ in Q3",
-          "url": "https://www.hoteldive.com/news/choice-hotels-q3-2026-earnings/873485/",
-          "source": "Hotel Dive",
-          "source_name": "Hotel Dive",
-          "site_id": "hoteldive",
-          "published_at": "2026-11-02T18:39:11Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hotel Dive"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_102f2695584b",
-          "title": "Choice Hotels cites extended stay as ‘key growth driver’ in Q3",
-          "url": "https://www.hoteldive.com/news/choice-hotels-q3-2026-earnings/873485/",
-          "source": "Hotel Dive",
-          "source_name": "Hotel Dive",
-          "site_id": "hoteldive",
-          "published_at": "2026-11-02T18:39:11Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.9382,
-      "importance": 0.5826,
-      "importance_score": 0.9382,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9128,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-02T18:39:11Z",
-      "latest_at": "2026-11-02T18:39:11Z",
-      "primary_item": {
-        "id": "hotelitem_102f2695584b",
-        "title": "Choice Hotels cites extended stay as ‘key growth driver’ in Q3",
-        "url": "https://www.hoteldive.com/news/choice-hotels-q3-2026-earnings/873485/",
-        "source": "Hotel Dive",
-        "source_name": "Hotel Dive"
       }
     },
     {
@@ -687,14 +687,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9354,
-      "importance": 0.5952,
-      "importance_score": 0.9354,
+      "score": 0.9342,
+      "importance": 0.594,
+      "importance_score": 0.9342,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9761,
+        "recency": 0.9701,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -746,14 +746,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9242,
-      "importance": 0.5683,
-      "importance_score": 0.9242,
+      "score": 0.9224,
+      "importance": 0.5671,
+      "importance_score": 0.9224,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8416,
+        "recency": 0.8356,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -805,14 +805,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.917,
-      "importance": 0.5943,
-      "importance_score": 0.917,
+      "score": 0.9159,
+      "importance": 0.5932,
+      "importance_score": 0.9159,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9717,
+        "recency": 0.9658,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -864,14 +864,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9126,
-      "importance": 0.5604,
-      "importance_score": 0.9126,
+      "score": 0.9108,
+      "importance": 0.5592,
+      "importance_score": 0.9108,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.802,
+        "recency": 0.7961,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -903,7 +903,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-11-06T16:47:46.737012Z"
+          "published_at": "2026-11-06T23:13:21.819986Z"
         }
       ],
       "source_count": 1,
@@ -918,7 +918,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-11-06T16:47:46.737012Z"
+          "published_at": "2026-11-06T23:13:21.819986Z"
         }
       ],
       "item_count": 1,
@@ -937,8 +937,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-11-06T16:47:46.737012Z",
-      "latest_at": "2026-11-06T16:47:46.737012Z",
+      "earliest_at": "2026-11-06T23:13:21.819986Z",
+      "latest_at": "2026-11-06T23:13:21.819986Z",
       "primary_item": {
         "id": "hotelitem_06f191e24d38",
         "title": "文旅惠报|复星国际申请分拆Club Med在港上市；南京商旅上半年营收3.66亿元",
@@ -982,14 +982,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8775,
-      "importance": 0.6,
-      "importance_score": 0.8775,
+      "score": 0.8767,
+      "importance": 0.5991,
+      "importance_score": 0.8767,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9956,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1004,6 +1004,84 @@
         "url": "https://www.traveldaily.cn/article/190973",
         "source": "环球旅讯 TravelDaily",
         "source_name": "环球旅讯 TravelDaily"
+      }
+    },
+    {
+      "story_id": "story_c7c15b7680c9",
+      "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
+      "url": "https://www.chinahotel.org.cn/articles/17408",
+      "primary_url": "https://www.chinahotel.org.cn/articles/17408",
+      "source": "中国饭店协会",
+      "source_name": "中国饭店协会",
+      "sources": [
+        {
+          "id": "hotelitem_d4370964909c",
+          "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
+          "url": "https://www.chinahotel.org.cn/articles/17408",
+          "source": "中国饭店协会",
+          "source_name": "中国饭店协会",
+          "site_id": "chinahotel",
+          "published_at": "2026-11-06T23:13:21.819986Z"
+        },
+        {
+          "id": "hotelitem_c7c15b7680c9",
+          "title": "绿色饭店 | 2026年第一批国家标准绿色饭店名单公布 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007) 在全国组织开展国家标准绿色饭店的评定工作。现公布2026年第一批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
+          "url": "https://www.chinahotel.org.cn/articles/17689",
+          "source": "中国饭店协会",
+          "source_name": "中国饭店协会",
+          "site_id": "chinahotel",
+          "published_at": "2026-11-06T23:13:21.819986Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "中国饭店协会"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_d4370964909c",
+          "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
+          "url": "https://www.chinahotel.org.cn/articles/17408",
+          "source": "中国饭店协会",
+          "source_name": "中国饭店协会",
+          "site_id": "chinahotel",
+          "published_at": "2026-11-06T23:13:21.819986Z"
+        },
+        {
+          "id": "hotelitem_c7c15b7680c9",
+          "title": "绿色饭店 | 2026年第一批国家标准绿色饭店名单公布 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007) 在全国组织开展国家标准绿色饭店的评定工作。现公布2026年第一批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
+          "url": "https://www.chinahotel.org.cn/articles/17689",
+          "source": "中国饭店协会",
+          "source_name": "中国饭店协会",
+          "site_id": "chinahotel",
+          "published_at": "2026-11-06T23:13:21.819986Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.86,
+      "importance": 0.625,
+      "importance_score": 0.86,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-06T23:13:21.819986Z",
+      "latest_at": "2026-11-06T23:13:21.819986Z",
+      "primary_item": {
+        "id": "hotelitem_d4370964909c",
+        "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
+        "url": "https://www.chinahotel.org.cn/articles/17408",
+        "source": "中国饭店协会",
+        "source_name": "中国饭店协会"
       }
     },
     {
@@ -1041,14 +1119,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8603,
-      "importance": 0.5951,
-      "importance_score": 0.8603,
+      "score": 0.8591,
+      "importance": 0.5939,
+      "importance_score": 0.8591,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9756,
+        "recency": 0.9697,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1066,84 +1144,6 @@
       }
     },
     {
-      "story_id": "story_c7c15b7680c9",
-      "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
-      "url": "https://www.chinahotel.org.cn/articles/17408",
-      "primary_url": "https://www.chinahotel.org.cn/articles/17408",
-      "source": "中国饭店协会",
-      "source_name": "中国饭店协会",
-      "sources": [
-        {
-          "id": "hotelitem_d4370964909c",
-          "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
-          "url": "https://www.chinahotel.org.cn/articles/17408",
-          "source": "中国饭店协会",
-          "source_name": "中国饭店协会",
-          "site_id": "chinahotel",
-          "published_at": "2026-11-06T16:47:46.737012Z"
-        },
-        {
-          "id": "hotelitem_c7c15b7680c9",
-          "title": "绿色饭店 | 2026年第一批国家标准绿色饭店名单公布 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007) 在全国组织开展国家标准绿色饭店的评定工作。现公布2026年第一批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
-          "url": "https://www.chinahotel.org.cn/articles/17689",
-          "source": "中国饭店协会",
-          "source_name": "中国饭店协会",
-          "site_id": "chinahotel",
-          "published_at": "2026-11-06T16:47:46.737012Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "中国饭店协会"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_d4370964909c",
-          "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
-          "url": "https://www.chinahotel.org.cn/articles/17408",
-          "source": "中国饭店协会",
-          "source_name": "中国饭店协会",
-          "site_id": "chinahotel",
-          "published_at": "2026-11-06T16:47:46.737012Z"
-        },
-        {
-          "id": "hotelitem_c7c15b7680c9",
-          "title": "绿色饭店 | 2026年第一批国家标准绿色饭店名单公布 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007) 在全国组织开展国家标准绿色饭店的评定工作。现公布2026年第一批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
-          "url": "https://www.chinahotel.org.cn/articles/17689",
-          "source": "中国饭店协会",
-          "source_name": "中国饭店协会",
-          "site_id": "chinahotel",
-          "published_at": "2026-11-06T16:47:46.737012Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.86,
-      "importance": 0.625,
-      "importance_score": 0.86,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-06T16:47:46.737012Z",
-      "latest_at": "2026-11-06T16:47:46.737012Z",
-      "primary_item": {
-        "id": "hotelitem_d4370964909c",
-        "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
-        "url": "https://www.chinahotel.org.cn/articles/17408",
-        "source": "中国饭店协会",
-        "source_name": "中国饭店协会"
-      }
-    },
-    {
       "story_id": "story_e4ce0593c384",
       "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
       "url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
@@ -1158,7 +1158,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-11-06T16:47:46.737012Z"
+          "published_at": "2026-11-06T23:13:21.819986Z"
         }
       ],
       "source_count": 1,
@@ -1173,7 +1173,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-11-06T16:47:46.737012Z"
+          "published_at": "2026-11-06T23:13:21.819986Z"
         }
       ],
       "item_count": 1,
@@ -1192,8 +1192,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-11-06T16:47:46.737012Z",
-      "latest_at": "2026-11-06T16:47:46.737012Z",
+      "earliest_at": "2026-11-06T23:13:21.819986Z",
+      "latest_at": "2026-11-06T23:13:21.819986Z",
       "primary_item": {
         "id": "hotelitem_e4ce0593c384",
         "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
@@ -1217,7 +1217,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-11-06T16:47:46.737012Z"
+          "published_at": "2026-11-06T23:13:21.819986Z"
         }
       ],
       "source_count": 1,
@@ -1232,7 +1232,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-11-06T16:47:46.737012Z"
+          "published_at": "2026-11-06T23:13:21.819986Z"
         }
       ],
       "item_count": 1,
@@ -1251,8 +1251,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-11-06T16:47:46.737012Z",
-      "latest_at": "2026-11-06T16:47:46.737012Z",
+      "earliest_at": "2026-11-06T23:13:21.819986Z",
+      "latest_at": "2026-11-06T23:13:21.819986Z",
       "primary_item": {
         "id": "hotelitem_4adba65c20e7",
         "title": "文化和旅游部党组召开会议坚决拥护党中央对...",
@@ -1296,14 +1296,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.856,
-      "importance": 0.5907,
-      "importance_score": 0.856,
+      "score": 0.8548,
+      "importance": 0.5895,
+      "importance_score": 0.8548,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9533,
+        "recency": 0.9473,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1355,14 +1355,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8531,
-      "importance": 0.5199,
-      "importance_score": 0.8531,
+      "score": 0.8514,
+      "importance": 0.5187,
+      "importance_score": 0.8514,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.5996,
+        "recency": 0.5936,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1414,14 +1414,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8496,
-      "importance": 0.5995,
-      "importance_score": 0.8496,
+      "score": 0.8484,
+      "importance": 0.5983,
+      "importance_score": 0.8484,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9977,
+        "recency": 0.9917,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1473,14 +1473,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8462,
-      "importance": 0.596,
-      "importance_score": 0.8462,
+      "score": 0.845,
+      "importance": 0.5948,
+      "importance_score": 0.845,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9802,
+        "recency": 0.9742,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1532,14 +1532,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8461,
-      "importance": 0.5959,
-      "importance_score": 0.8461,
+      "score": 0.8449,
+      "importance": 0.5947,
+      "importance_score": 0.8449,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9796,
+        "recency": 0.9737,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1591,14 +1591,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8454,
-      "importance": 0.5953,
-      "importance_score": 0.8454,
+      "score": 0.8443,
+      "importance": 0.5941,
+      "importance_score": 0.8443,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9763,
+        "recency": 0.9703,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1650,14 +1650,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8406,
-      "importance": 0.5903,
-      "importance_score": 0.8406,
+      "score": 0.8395,
+      "importance": 0.5891,
+      "importance_score": 0.8395,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9515,
+        "recency": 0.9455,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1709,14 +1709,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8336,
-      "importance": 0.5288,
-      "importance_score": 0.8336,
+      "score": 0.8319,
+      "importance": 0.5276,
+      "importance_score": 0.8319,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.6438,
+        "recency": 0.6379,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1768,14 +1768,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8287,
-      "importance": 0.5561,
-      "importance_score": 0.8287,
+      "score": 0.827,
+      "importance": 0.5549,
+      "importance_score": 0.827,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.7805,
+        "recency": 0.7746,
         "story_heat": 0.0
       },
       "category": "watch",
