@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T17:56:54.904972Z",
+  "generated_at": "2026-11-08T22:10:59.916831Z",
   "window_hours": 1080,
   "total_items": 30,
   "items": [
@@ -39,13 +39,13 @@
       "item_count": 1,
       "duplicate_count": 1,
       "score": 1.0,
-      "importance": 0.5894,
+      "importance": 0.5886,
       "importance_score": 1.0,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.947,
+        "recency": 0.943,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -97,14 +97,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9468,
-      "importance": 0.5915,
-      "importance_score": 0.9468,
+      "score": 0.9461,
+      "importance": 0.5908,
+      "importance_score": 0.9461,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9577,
+        "recency": 0.9538,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -117,65 +117,6 @@
         "id": "hotelitem_e3feb7946c56",
         "title": "Host Hotels & Resorts buys 1 Hotel Brooklyn Bridge, Renaissance Plano",
         "url": "https://www.hoteldive.com/news/host-hotels-brooklyn-dallas-acquisitions/874044/",
-        "source": "Hotel Dive",
-        "source_name": "Hotel Dive"
-      }
-    },
-    {
-      "story_id": "story_8c61ad8fc862",
-      "title": "Wynn reaches deal with striking Boston union workers, posts Q3 results",
-      "url": "https://www.hoteldive.com/news/wynn-encore-boston-harbor-workers-agreement-q3-2026-earnings/873989/",
-      "primary_url": "https://www.hoteldive.com/news/wynn-encore-boston-harbor-workers-agreement-q3-2026-earnings/873989/",
-      "source": "Hotel Dive",
-      "source_name": "Hotel Dive",
-      "sources": [
-        {
-          "id": "hotelitem_8c61ad8fc862",
-          "title": "Wynn reaches deal with striking Boston union workers, posts Q3 results",
-          "url": "https://www.hoteldive.com/news/wynn-encore-boston-harbor-workers-agreement-q3-2026-earnings/873989/",
-          "source": "Hotel Dive",
-          "source_name": "Hotel Dive",
-          "site_id": "hoteldive",
-          "published_at": "2026-11-06T14:53:50Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hotel Dive"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_8c61ad8fc862",
-          "title": "Wynn reaches deal with striking Boston union workers, posts Q3 results",
-          "url": "https://www.hoteldive.com/news/wynn-encore-boston-harbor-workers-agreement-q3-2026-earnings/873989/",
-          "source": "Hotel Dive",
-          "source_name": "Hotel Dive",
-          "site_id": "hoteldive",
-          "published_at": "2026-11-06T14:53:50Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.9459,
-      "importance": 0.5905,
-      "importance_score": 0.9459,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9527,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-06T14:53:50Z",
-      "latest_at": "2026-11-06T14:53:50Z",
-      "primary_item": {
-        "id": "hotelitem_8c61ad8fc862",
-        "title": "Wynn reaches deal with striking Boston union workers, posts Q3 results",
-        "url": "https://www.hoteldive.com/news/wynn-encore-boston-harbor-workers-agreement-q3-2026-earnings/873989/",
         "source": "Hotel Dive",
         "source_name": "Hotel Dive"
       }
@@ -215,14 +156,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9458,
-      "importance": 0.5905,
-      "importance_score": 0.9458,
+      "score": 0.9451,
+      "importance": 0.5897,
+      "importance_score": 0.9451,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9524,
+        "recency": 0.9484,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -240,62 +181,62 @@
       }
     },
     {
-      "story_id": "story_d4453745e9ab",
-      "title": "Royal Phuket Marina invests in Phuket’s next generation with new learning centre",
-      "url": "https://insights.ehotelier.com/global-news/2026/11/06/royal-phuket-marina-invests-in-phukets-next-generation-with-new-learning-centre/?utm_source=rss&utm_medium=rss&utm_campaign=royal-phuket-marina-invests-in-phukets-next-generation-with-new-learning-centre",
-      "primary_url": "https://insights.ehotelier.com/global-news/2026/11/06/royal-phuket-marina-invests-in-phukets-next-generation-with-new-learning-centre/?utm_source=rss&utm_medium=rss&utm_campaign=royal-phuket-marina-invests-in-phukets-next-generation-with-new-learning-centre",
-      "source": "eHotelier",
-      "source_name": "eHotelier",
+      "story_id": "story_8c61ad8fc862",
+      "title": "Wynn reaches deal with striking Boston union workers, posts Q3 results",
+      "url": "https://www.hoteldive.com/news/wynn-encore-boston-harbor-workers-agreement-q3-2026-earnings/873989/",
+      "primary_url": "https://www.hoteldive.com/news/wynn-encore-boston-harbor-workers-agreement-q3-2026-earnings/873989/",
+      "source": "Hotel Dive",
+      "source_name": "Hotel Dive",
       "sources": [
         {
-          "id": "hotelitem_d4453745e9ab",
-          "title": "Royal Phuket Marina invests in Phuket’s next generation with new learning centre",
-          "url": "https://insights.ehotelier.com/global-news/2026/11/06/royal-phuket-marina-invests-in-phukets-next-generation-with-new-learning-centre/?utm_source=rss&utm_medium=rss&utm_campaign=royal-phuket-marina-invests-in-phukets-next-generation-with-new-learning-centre",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-11-06T01:00:38Z"
+          "id": "hotelitem_8c61ad8fc862",
+          "title": "Wynn reaches deal with striking Boston union workers, posts Q3 results",
+          "url": "https://www.hoteldive.com/news/wynn-encore-boston-harbor-workers-agreement-q3-2026-earnings/873989/",
+          "source": "Hotel Dive",
+          "source_name": "Hotel Dive",
+          "site_id": "hoteldive",
+          "published_at": "2026-11-06T14:53:50Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "eHotelier"
+        "Hotel Dive"
       ],
       "items": [
         {
-          "id": "hotelitem_d4453745e9ab",
-          "title": "Royal Phuket Marina invests in Phuket’s next generation with new learning centre",
-          "url": "https://insights.ehotelier.com/global-news/2026/11/06/royal-phuket-marina-invests-in-phukets-next-generation-with-new-learning-centre/?utm_source=rss&utm_medium=rss&utm_campaign=royal-phuket-marina-invests-in-phukets-next-generation-with-new-learning-centre",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-11-06T01:00:38Z"
+          "id": "hotelitem_8c61ad8fc862",
+          "title": "Wynn reaches deal with striking Boston union workers, posts Q3 results",
+          "url": "https://www.hoteldive.com/news/wynn-encore-boston-harbor-workers-agreement-q3-2026-earnings/873989/",
+          "source": "Hotel Dive",
+          "source_name": "Hotel Dive",
+          "site_id": "hoteldive",
+          "published_at": "2026-11-06T14:53:50Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9434,
-      "importance": 0.588,
-      "importance_score": 0.9434,
+      "score": 0.9451,
+      "importance": 0.5898,
+      "importance_score": 0.9451,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9399,
+        "recency": 0.9488,
         "story_heat": 0.0
       },
       "category": "watch",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-11-06T01:00:38Z",
-      "latest_at": "2026-11-06T01:00:38Z",
+      "earliest_at": "2026-11-06T14:53:50Z",
+      "latest_at": "2026-11-06T14:53:50Z",
       "primary_item": {
-        "id": "hotelitem_d4453745e9ab",
-        "title": "Royal Phuket Marina invests in Phuket’s next generation with new learning centre",
-        "url": "https://insights.ehotelier.com/global-news/2026/11/06/royal-phuket-marina-invests-in-phukets-next-generation-with-new-learning-centre/?utm_source=rss&utm_medium=rss&utm_campaign=royal-phuket-marina-invests-in-phukets-next-generation-with-new-learning-centre",
-        "source": "eHotelier",
-        "source_name": "eHotelier"
+        "id": "hotelitem_8c61ad8fc862",
+        "title": "Wynn reaches deal with striking Boston union workers, posts Q3 results",
+        "url": "https://www.hoteldive.com/news/wynn-encore-boston-harbor-workers-agreement-q3-2026-earnings/873989/",
+        "source": "Hotel Dive",
+        "source_name": "Hotel Dive"
       }
     },
     {
@@ -333,14 +274,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9434,
-      "importance": 0.588,
-      "importance_score": 0.9434,
+      "score": 0.9427,
+      "importance": 0.5872,
+      "importance_score": 0.9427,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9399,
+        "recency": 0.936,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -358,21 +299,21 @@
       }
     },
     {
-      "story_id": "story_84e98a5e641f",
-      "title": "ibis budget Auckland Airport unveils refreshed guest experience following room refurbishment",
-      "url": "https://insights.ehotelier.com/global-news/2026/11/05/ibis-budget-auckland-airport-unveils-refreshed-guest-experience-following-room-refurbishment/?utm_source=rss&utm_medium=rss&utm_campaign=ibis-budget-auckland-airport-unveils-refreshed-guest-experience-following-room-refurbishment",
-      "primary_url": "https://insights.ehotelier.com/global-news/2026/11/05/ibis-budget-auckland-airport-unveils-refreshed-guest-experience-following-room-refurbishment/?utm_source=rss&utm_medium=rss&utm_campaign=ibis-budget-auckland-airport-unveils-refreshed-guest-experience-following-room-refurbishment",
+      "story_id": "story_d4453745e9ab",
+      "title": "Royal Phuket Marina invests in Phuket’s next generation with new learning centre",
+      "url": "https://insights.ehotelier.com/global-news/2026/11/06/royal-phuket-marina-invests-in-phukets-next-generation-with-new-learning-centre/?utm_source=rss&utm_medium=rss&utm_campaign=royal-phuket-marina-invests-in-phukets-next-generation-with-new-learning-centre",
+      "primary_url": "https://insights.ehotelier.com/global-news/2026/11/06/royal-phuket-marina-invests-in-phukets-next-generation-with-new-learning-centre/?utm_source=rss&utm_medium=rss&utm_campaign=royal-phuket-marina-invests-in-phukets-next-generation-with-new-learning-centre",
       "source": "eHotelier",
       "source_name": "eHotelier",
       "sources": [
         {
-          "id": "hotelitem_84e98a5e641f",
-          "title": "ibis budget Auckland Airport unveils refreshed guest experience following room refurbishment",
-          "url": "https://insights.ehotelier.com/global-news/2026/11/05/ibis-budget-auckland-airport-unveils-refreshed-guest-experience-following-room-refurbishment/?utm_source=rss&utm_medium=rss&utm_campaign=ibis-budget-auckland-airport-unveils-refreshed-guest-experience-following-room-refurbishment",
+          "id": "hotelitem_d4453745e9ab",
+          "title": "Royal Phuket Marina invests in Phuket’s next generation with new learning centre",
+          "url": "https://insights.ehotelier.com/global-news/2026/11/06/royal-phuket-marina-invests-in-phukets-next-generation-with-new-learning-centre/?utm_source=rss&utm_medium=rss&utm_campaign=royal-phuket-marina-invests-in-phukets-next-generation-with-new-learning-centre",
           "source": "eHotelier",
           "source_name": "eHotelier",
           "site_id": "ehotelier",
-          "published_at": "2026-11-05T00:55:11Z"
+          "published_at": "2026-11-06T01:00:38Z"
         }
       ],
       "source_count": 1,
@@ -381,37 +322,37 @@
       ],
       "items": [
         {
-          "id": "hotelitem_84e98a5e641f",
-          "title": "ibis budget Auckland Airport unveils refreshed guest experience following room refurbishment",
-          "url": "https://insights.ehotelier.com/global-news/2026/11/05/ibis-budget-auckland-airport-unveils-refreshed-guest-experience-following-room-refurbishment/?utm_source=rss&utm_medium=rss&utm_campaign=ibis-budget-auckland-airport-unveils-refreshed-guest-experience-following-room-refurbishment",
+          "id": "hotelitem_d4453745e9ab",
+          "title": "Royal Phuket Marina invests in Phuket’s next generation with new learning centre",
+          "url": "https://insights.ehotelier.com/global-news/2026/11/06/royal-phuket-marina-invests-in-phukets-next-generation-with-new-learning-centre/?utm_source=rss&utm_medium=rss&utm_campaign=royal-phuket-marina-invests-in-phukets-next-generation-with-new-learning-centre",
           "source": "eHotelier",
           "source_name": "eHotelier",
           "site_id": "ehotelier",
-          "published_at": "2026-11-05T00:55:11Z"
+          "published_at": "2026-11-06T01:00:38Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9391,
-      "importance": 0.5835,
-      "importance_score": 0.9391,
+      "score": 0.9426,
+      "importance": 0.5872,
+      "importance_score": 0.9426,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9176,
+        "recency": 0.936,
         "story_heat": 0.0
       },
       "category": "watch",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-11-05T00:55:11Z",
-      "latest_at": "2026-11-05T00:55:11Z",
+      "earliest_at": "2026-11-06T01:00:38Z",
+      "latest_at": "2026-11-06T01:00:38Z",
       "primary_item": {
-        "id": "hotelitem_84e98a5e641f",
-        "title": "ibis budget Auckland Airport unveils refreshed guest experience following room refurbishment",
-        "url": "https://insights.ehotelier.com/global-news/2026/11/05/ibis-budget-auckland-airport-unveils-refreshed-guest-experience-following-room-refurbishment/?utm_source=rss&utm_medium=rss&utm_campaign=ibis-budget-auckland-airport-unveils-refreshed-guest-experience-following-room-refurbishment",
+        "id": "hotelitem_d4453745e9ab",
+        "title": "Royal Phuket Marina invests in Phuket’s next generation with new learning centre",
+        "url": "https://insights.ehotelier.com/global-news/2026/11/06/royal-phuket-marina-invests-in-phukets-next-generation-with-new-learning-centre/?utm_source=rss&utm_medium=rss&utm_campaign=royal-phuket-marina-invests-in-phukets-next-generation-with-new-learning-centre",
         "source": "eHotelier",
         "source_name": "eHotelier"
       }
@@ -451,14 +392,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9391,
-      "importance": 0.5835,
-      "importance_score": 0.9391,
+      "score": 0.9384,
+      "importance": 0.5827,
+      "importance_score": 0.9384,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9177,
+        "recency": 0.9137,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -471,6 +412,65 @@
         "id": "hotelitem_e2bd3374f5d6",
         "title": "Beyond the Summits: The lasting power of IHG’s owners Assn.",
         "url": "https://insights.ehotelier.com/global-news/2026/11/05/beyond-the-summits-the-lasting-power-of-ihgs-owners-assn/?utm_source=rss&utm_medium=rss&utm_campaign=beyond-the-summits-the-lasting-power-of-ihgs-owners-assn",
+        "source": "eHotelier",
+        "source_name": "eHotelier"
+      }
+    },
+    {
+      "story_id": "story_84e98a5e641f",
+      "title": "ibis budget Auckland Airport unveils refreshed guest experience following room refurbishment",
+      "url": "https://insights.ehotelier.com/global-news/2026/11/05/ibis-budget-auckland-airport-unveils-refreshed-guest-experience-following-room-refurbishment/?utm_source=rss&utm_medium=rss&utm_campaign=ibis-budget-auckland-airport-unveils-refreshed-guest-experience-following-room-refurbishment",
+      "primary_url": "https://insights.ehotelier.com/global-news/2026/11/05/ibis-budget-auckland-airport-unveils-refreshed-guest-experience-following-room-refurbishment/?utm_source=rss&utm_medium=rss&utm_campaign=ibis-budget-auckland-airport-unveils-refreshed-guest-experience-following-room-refurbishment",
+      "source": "eHotelier",
+      "source_name": "eHotelier",
+      "sources": [
+        {
+          "id": "hotelitem_84e98a5e641f",
+          "title": "ibis budget Auckland Airport unveils refreshed guest experience following room refurbishment",
+          "url": "https://insights.ehotelier.com/global-news/2026/11/05/ibis-budget-auckland-airport-unveils-refreshed-guest-experience-following-room-refurbishment/?utm_source=rss&utm_medium=rss&utm_campaign=ibis-budget-auckland-airport-unveils-refreshed-guest-experience-following-room-refurbishment",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-11-05T00:55:11Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "eHotelier"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_84e98a5e641f",
+          "title": "ibis budget Auckland Airport unveils refreshed guest experience following room refurbishment",
+          "url": "https://insights.ehotelier.com/global-news/2026/11/05/ibis-budget-auckland-airport-unveils-refreshed-guest-experience-following-room-refurbishment/?utm_source=rss&utm_medium=rss&utm_campaign=ibis-budget-auckland-airport-unveils-refreshed-guest-experience-following-room-refurbishment",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-11-05T00:55:11Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.9383,
+      "importance": 0.5827,
+      "importance_score": 0.9383,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9136,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-05T00:55:11Z",
+      "latest_at": "2026-11-05T00:55:11Z",
+      "primary_item": {
+        "id": "hotelitem_84e98a5e641f",
+        "title": "ibis budget Auckland Airport unveils refreshed guest experience following room refurbishment",
+        "url": "https://insights.ehotelier.com/global-news/2026/11/05/ibis-budget-auckland-airport-unveils-refreshed-guest-experience-following-room-refurbishment/?utm_source=rss&utm_medium=rss&utm_campaign=ibis-budget-auckland-airport-unveils-refreshed-guest-experience-following-room-refurbishment",
         "source": "eHotelier",
         "source_name": "eHotelier"
       }
@@ -510,14 +510,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9329,
-      "importance": 0.5771,
-      "importance_score": 0.9329,
+      "score": 0.9322,
+      "importance": 0.5763,
+      "importance_score": 0.9322,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8855,
+        "recency": 0.8816,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -569,14 +569,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9312,
-      "importance": 0.5908,
-      "importance_score": 0.9312,
+      "score": 0.9304,
+      "importance": 0.59,
+      "importance_score": 0.9304,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9541,
+        "recency": 0.9502,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -628,14 +628,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9302,
-      "importance": 0.5899,
-      "importance_score": 0.9302,
+      "score": 0.9295,
+      "importance": 0.5891,
+      "importance_score": 0.9295,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9494,
+        "recency": 0.9455,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -687,14 +687,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9266,
-      "importance": 0.5861,
-      "importance_score": 0.9266,
+      "score": 0.9258,
+      "importance": 0.5853,
+      "importance_score": 0.9258,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9305,
+        "recency": 0.9266,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -746,14 +746,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9108,
-      "importance": 0.5592,
-      "importance_score": 0.9108,
+      "score": 0.9097,
+      "importance": 0.5584,
+      "importance_score": 0.9097,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.7961,
+        "recency": 0.7922,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -771,65 +771,6 @@
       }
     },
     {
-      "story_id": "story_c28542ed1358",
-      "title": "迪士尼酝酿数千人裁员，要求部分管理层削减20%成本",
-      "url": "https://www.traveldaily.cn/article/190962",
-      "primary_url": "https://www.traveldaily.cn/article/190962",
-      "source": "环球旅讯 TravelDaily",
-      "source_name": "环球旅讯 TravelDaily",
-      "sources": [
-        {
-          "id": "hotelitem_c28542ed1358",
-          "title": "迪士尼酝酿数千人裁员，要求部分管理层削减20%成本",
-          "url": "https://www.traveldaily.cn/article/190962",
-          "source": "环球旅讯 TravelDaily",
-          "source_name": "环球旅讯 TravelDaily",
-          "site_id": "traveldaily",
-          "published_at": "2026-11-05T10:16:15Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "环球旅讯 TravelDaily"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_c28542ed1358",
-          "title": "迪士尼酝酿数千人裁员，要求部分管理层削减20%成本",
-          "url": "https://www.traveldaily.cn/article/190962",
-          "source": "环球旅讯 TravelDaily",
-          "source_name": "环球旅讯 TravelDaily",
-          "site_id": "traveldaily",
-          "published_at": "2026-11-05T10:16:15Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.9083,
-      "importance": 0.5852,
-      "importance_score": 0.9083,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9262,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-05T10:16:15Z",
-      "latest_at": "2026-11-05T10:16:15Z",
-      "primary_item": {
-        "id": "hotelitem_c28542ed1358",
-        "title": "迪士尼酝酿数千人裁员，要求部分管理层削减20%成本",
-        "url": "https://www.traveldaily.cn/article/190962",
-        "source": "环球旅讯 TravelDaily",
-        "source_name": "环球旅讯 TravelDaily"
-      }
-    },
-    {
       "story_id": "story_06f191e24d38",
       "title": "文旅惠报|复星国际申请分拆Club Med在港上市；南京商旅上半年营收3.66亿元",
       "url": "https://www.tripvivid.com/47868.html",
@@ -844,7 +785,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-11-08T17:56:54.904972Z"
+          "published_at": "2026-11-08T22:10:59.916831Z"
         }
       ],
       "source_count": 1,
@@ -859,7 +800,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-11-08T17:56:54.904972Z"
+          "published_at": "2026-11-08T22:10:59.916831Z"
         }
       ],
       "item_count": 1,
@@ -878,8 +819,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-11-08T17:56:54.904972Z",
-      "latest_at": "2026-11-08T17:56:54.904972Z",
+      "earliest_at": "2026-11-08T22:10:59.916831Z",
+      "latest_at": "2026-11-08T22:10:59.916831Z",
       "primary_item": {
         "id": "hotelitem_06f191e24d38",
         "title": "文旅惠报|复星国际申请分拆Club Med在港上市；南京商旅上半年营收3.66亿元",
@@ -923,14 +864,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8992,
-      "importance": 0.5513,
-      "importance_score": 0.8992,
+      "score": 0.8981,
+      "importance": 0.5505,
+      "importance_score": 0.8981,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.7565,
+        "recency": 0.7526,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -982,14 +923,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8778,
-      "importance": 0.5925,
-      "importance_score": 0.8778,
+      "score": 0.8771,
+      "importance": 0.5918,
+      "importance_score": 0.8771,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9627,
+        "recency": 0.9588,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1007,65 +948,6 @@
       }
     },
     {
-      "story_id": "story_b36b663aad58",
-      "title": "飞猪与澳大利亚塔斯马尼亚旅游局签署合作协议",
-      "url": "https://www.traveldaily.cn/article/190973",
-      "primary_url": "https://www.traveldaily.cn/article/190973",
-      "source": "环球旅讯 TravelDaily",
-      "source_name": "环球旅讯 TravelDaily",
-      "sources": [
-        {
-          "id": "hotelitem_b36b663aad58",
-          "title": "飞猪与澳大利亚塔斯马尼亚旅游局签署合作协议",
-          "url": "https://www.traveldaily.cn/article/190973",
-          "source": "环球旅讯 TravelDaily",
-          "source_name": "环球旅讯 TravelDaily",
-          "site_id": "traveldaily",
-          "published_at": "2026-11-06T18:28:01Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "环球旅讯 TravelDaily"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_b36b663aad58",
-          "title": "飞猪与澳大利亚塔斯马尼亚旅游局签署合作协议",
-          "url": "https://www.traveldaily.cn/article/190973",
-          "source": "环球旅讯 TravelDaily",
-          "source_name": "环球旅讯 TravelDaily",
-          "site_id": "traveldaily",
-          "published_at": "2026-11-06T18:28:01Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.869,
-      "importance": 0.5912,
-      "importance_score": 0.869,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.956,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-06T18:28:01Z",
-      "latest_at": "2026-11-06T18:28:01Z",
-      "primary_item": {
-        "id": "hotelitem_b36b663aad58",
-        "title": "飞猪与澳大利亚塔斯马尼亚旅游局签署合作协议",
-        "url": "https://www.traveldaily.cn/article/190973",
-        "source": "环球旅讯 TravelDaily",
-        "source_name": "环球旅讯 TravelDaily"
-      }
-    },
-    {
       "story_id": "story_c7c15b7680c9",
       "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
       "url": "https://www.chinahotel.org.cn/articles/17408",
@@ -1080,7 +962,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-11-08T17:56:54.904972Z"
+          "published_at": "2026-11-08T22:10:59.916831Z"
         },
         {
           "id": "hotelitem_c7c15b7680c9",
@@ -1089,7 +971,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-11-08T17:56:54.904972Z"
+          "published_at": "2026-11-08T22:10:59.916831Z"
         }
       ],
       "source_count": 2,
@@ -1104,7 +986,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-11-08T17:56:54.904972Z"
+          "published_at": "2026-11-08T22:10:59.916831Z"
         },
         {
           "id": "hotelitem_c7c15b7680c9",
@@ -1113,7 +995,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-11-08T17:56:54.904972Z"
+          "published_at": "2026-11-08T22:10:59.916831Z"
         }
       ],
       "item_count": 2,
@@ -1133,8 +1015,8 @@
         "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-11-08T17:56:54.904972Z",
-      "latest_at": "2026-11-08T17:56:54.904972Z",
+      "earliest_at": "2026-11-08T22:10:59.916831Z",
+      "latest_at": "2026-11-08T22:10:59.916831Z",
       "primary_item": {
         "id": "hotelitem_d4370964909c",
         "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
@@ -1158,7 +1040,7 @@
           "source": "迈点研究院",
           "source_name": "迈点研究院",
           "site_id": "meadin",
-          "published_at": "2026-11-08T17:56:54.904972Z"
+          "published_at": "2026-11-08T22:10:59.916831Z"
         }
       ],
       "source_count": 1,
@@ -1173,7 +1055,7 @@
           "source": "迈点研究院",
           "source_name": "迈点研究院",
           "site_id": "meadin",
-          "published_at": "2026-11-08T17:56:54.904972Z"
+          "published_at": "2026-11-08T22:10:59.916831Z"
         }
       ],
       "item_count": 1,
@@ -1192,8 +1074,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-11-08T17:56:54.904972Z",
-      "latest_at": "2026-11-08T17:56:54.904972Z",
+      "earliest_at": "2026-11-08T22:10:59.916831Z",
+      "latest_at": "2026-11-08T22:10:59.916831Z",
       "primary_item": {
         "id": "hotelitem_7aec2838175b",
         "title": "希尔顿集团在纳斯达克上市",
@@ -1217,7 +1099,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-11-08T17:56:54.904972Z"
+          "published_at": "2026-11-08T22:10:59.916831Z"
         }
       ],
       "source_count": 1,
@@ -1232,7 +1114,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-11-08T17:56:54.904972Z"
+          "published_at": "2026-11-08T22:10:59.916831Z"
         }
       ],
       "item_count": 1,
@@ -1251,8 +1133,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-11-08T17:56:54.904972Z",
-      "latest_at": "2026-11-08T17:56:54.904972Z",
+      "earliest_at": "2026-11-08T22:10:59.916831Z",
+      "latest_at": "2026-11-08T22:10:59.916831Z",
       "primary_item": {
         "id": "hotelitem_e4ce0593c384",
         "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
@@ -1276,7 +1158,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-11-08T17:56:54.904972Z"
+          "published_at": "2026-11-08T22:10:59.916831Z"
         }
       ],
       "source_count": 1,
@@ -1291,7 +1173,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-11-08T17:56:54.904972Z"
+          "published_at": "2026-11-08T22:10:59.916831Z"
         }
       ],
       "item_count": 1,
@@ -1310,8 +1192,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-11-08T17:56:54.904972Z",
-      "latest_at": "2026-11-08T17:56:54.904972Z",
+      "earliest_at": "2026-11-08T22:10:59.916831Z",
+      "latest_at": "2026-11-08T22:10:59.916831Z",
       "primary_item": {
         "id": "hotelitem_4adba65c20e7",
         "title": "文化和旅游部党组召开会议坚决拥护党中央对...",
@@ -1355,14 +1237,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8515,
-      "importance": 0.586,
-      "importance_score": 0.8515,
+      "score": 0.8508,
+      "importance": 0.5852,
+      "importance_score": 0.8508,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9301,
+        "recency": 0.9262,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1414,14 +1296,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8472,
-      "importance": 0.5816,
-      "importance_score": 0.8472,
+      "score": 0.8465,
+      "importance": 0.5808,
+      "importance_score": 0.8465,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9078,
+        "recency": 0.9039,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1473,14 +1355,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8408,
-      "importance": 0.5904,
-      "importance_score": 0.8408,
+      "score": 0.84,
+      "importance": 0.5897,
+      "importance_score": 0.84,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9522,
+        "recency": 0.9483,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1532,14 +1414,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8398,
-      "importance": 0.5108,
-      "importance_score": 0.8398,
+      "score": 0.8386,
+      "importance": 0.51,
+      "importance_score": 0.8386,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.5541,
+        "recency": 0.5502,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1591,14 +1473,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8374,
-      "importance": 0.5869,
-      "importance_score": 0.8374,
+      "score": 0.8366,
+      "importance": 0.5861,
+      "importance_score": 0.8366,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9347,
+        "recency": 0.9307,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1650,14 +1532,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8373,
-      "importance": 0.5868,
-      "importance_score": 0.8373,
+      "score": 0.8365,
+      "importance": 0.586,
+      "importance_score": 0.8365,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9341,
+        "recency": 0.9302,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1709,14 +1591,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8367,
-      "importance": 0.5862,
-      "importance_score": 0.8367,
+      "score": 0.8359,
+      "importance": 0.5854,
+      "importance_score": 0.8359,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9308,
+        "recency": 0.9269,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1768,14 +1650,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8319,
-      "importance": 0.5812,
-      "importance_score": 0.8319,
+      "score": 0.8311,
+      "importance": 0.5804,
+      "importance_score": 0.8311,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9059,
+        "recency": 0.902,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1790,6 +1672,161 @@
         "url": "https://boutiquehotelnews.com/news/movers-and-shakers/the-laslett-leadership-team/?utm_source=rss&utm_medium=rss&utm_campaign=the-laslett-leadership-team",
         "source": "Boutique Hotel News",
         "source_name": "Boutique Hotel News"
+      }
+    },
+    {
+      "story_id": "story_932f7d05dfd7",
+      "title": "TripAdvisor 披露:8-K/A [Amend]  - Current report",
+      "url": "https://www.sec.gov/Archives/edgar/data/1526520/000119312526448572/0001193125-26-448572-index.htm",
+      "primary_url": "https://www.sec.gov/Archives/edgar/data/1526520/000119312526448572/0001193125-26-448572-index.htm",
+      "source": "TripAdvisor",
+      "source_name": "TripAdvisor",
+      "sources": [
+        {
+          "id": "hotelitem_446ba7dd3274",
+          "title": "TripAdvisor 披露:8-K/A [Amend]  - Current report",
+          "url": "https://www.sec.gov/Archives/edgar/data/1526520/000119312526448572/0001193125-26-448572-index.htm",
+          "source": "TripAdvisor",
+          "source_name": "TripAdvisor",
+          "site_id": "tripadvisor_sec",
+          "published_at": "2026-11-05T12:15:14Z"
+        },
+        {
+          "id": "hotelitem_165b3bc87a01",
+          "title": "TripAdvisor 披露:8-K  - Current report",
+          "url": "https://www.sec.gov/Archives/edgar/data/1526520/000119312526448560/0001193125-26-448560-index.htm",
+          "source": "TripAdvisor",
+          "source_name": "TripAdvisor",
+          "site_id": "tripadvisor_sec",
+          "published_at": "2026-11-05T12:10:07Z"
+        },
+        {
+          "id": "hotelitem_932f7d05dfd7",
+          "title": "TripAdvisor 披露:8-K  - Current report",
+          "url": "https://www.sec.gov/Archives/edgar/data/1526520/000119312526448538/0001193125-26-448538-index.htm",
+          "source": "TripAdvisor",
+          "source_name": "TripAdvisor",
+          "site_id": "tripadvisor_sec",
+          "published_at": "2026-11-05T12:06:14Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "TripAdvisor"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_446ba7dd3274",
+          "title": "TripAdvisor 披露:8-K/A [Amend]  - Current report",
+          "url": "https://www.sec.gov/Archives/edgar/data/1526520/000119312526448572/0001193125-26-448572-index.htm",
+          "source": "TripAdvisor",
+          "source_name": "TripAdvisor",
+          "site_id": "tripadvisor_sec",
+          "published_at": "2026-11-05T12:15:14Z"
+        },
+        {
+          "id": "hotelitem_165b3bc87a01",
+          "title": "TripAdvisor 披露:8-K  - Current report",
+          "url": "https://www.sec.gov/Archives/edgar/data/1526520/000119312526448560/0001193125-26-448560-index.htm",
+          "source": "TripAdvisor",
+          "source_name": "TripAdvisor",
+          "site_id": "tripadvisor_sec",
+          "published_at": "2026-11-05T12:10:07Z"
+        },
+        {
+          "id": "hotelitem_932f7d05dfd7",
+          "title": "TripAdvisor 披露:8-K  - Current report",
+          "url": "https://www.sec.gov/Archives/edgar/data/1526520/000119312526448538/0001193125-26-448538-index.htm",
+          "source": "TripAdvisor",
+          "source_name": "TripAdvisor",
+          "site_id": "tripadvisor_sec",
+          "published_at": "2026-11-05T12:06:14Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8154,
+      "importance": 0.6348,
+      "importance_score": 0.8154,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9241,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-05T12:06:14Z",
+      "latest_at": "2026-11-05T12:15:14Z",
+      "primary_item": {
+        "id": "hotelitem_446ba7dd3274",
+        "title": "TripAdvisor 披露:8-K/A [Amend]  - Current report",
+        "url": "https://www.sec.gov/Archives/edgar/data/1526520/000119312526448572/0001193125-26-448572-index.htm",
+        "source": "TripAdvisor",
+        "source_name": "TripAdvisor"
+      }
+    },
+    {
+      "story_id": "story_84b7aa6b44f3",
+      "title": "Agoda Helps Fans Get to Eurovision Song Cont ... Agoda, the Official Travel Partner of Eurovision Song Contest Asia, is getting fans to the first-ever  ... November 4, 2026 / Travel Trends",
+      "url": "https://www.agoda.com/press/agoda-helps-fans-get-to-eurovision-song-contest-asias-first-grand-final-in-bangkok/",
+      "primary_url": "https://www.agoda.com/press/agoda-helps-fans-get-to-eurovision-song-contest-asias-first-grand-final-in-bangkok/",
+      "source": "Agoda",
+      "source_name": "Agoda",
+      "sources": [
+        {
+          "id": "hotelitem_84b7aa6b44f3",
+          "title": "Agoda Helps Fans Get to Eurovision Song Cont ... Agoda, the Official Travel Partner of Eurovision Song Contest Asia, is getting fans to the first-ever  ... November 4, 2026 / Travel Trends",
+          "url": "https://www.agoda.com/press/agoda-helps-fans-get-to-eurovision-song-contest-asias-first-grand-final-in-bangkok/",
+          "source": "Agoda",
+          "source_name": "Agoda",
+          "site_id": "agoda_press",
+          "published_at": "2026-11-08T22:10:59.916831Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Agoda"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_84b7aa6b44f3",
+          "title": "Agoda Helps Fans Get to Eurovision Song Cont ... Agoda, the Official Travel Partner of Eurovision Song Contest Asia, is getting fans to the first-ever  ... November 4, 2026 / Travel Trends",
+          "url": "https://www.agoda.com/press/agoda-helps-fans-get-to-eurovision-song-contest-asias-first-grand-final-in-bangkok/",
+          "source": "Agoda",
+          "source_name": "Agoda",
+          "site_id": "agoda_press",
+          "published_at": "2026-11-08T22:10:59.916831Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8125,
+      "importance": 0.6,
+      "importance_score": 0.8125,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-08T22:10:59.916831Z",
+      "latest_at": "2026-11-08T22:10:59.916831Z",
+      "primary_item": {
+        "id": "hotelitem_84b7aa6b44f3",
+        "title": "Agoda Helps Fans Get to Eurovision Song Cont ... Agoda, the Official Travel Partner of Eurovision Song Contest Asia, is getting fans to the first-ever  ... November 4, 2026 / Travel Trends",
+        "url": "https://www.agoda.com/press/agoda-helps-fans-get-to-eurovision-song-contest-asias-first-grand-final-in-bangkok/",
+        "source": "Agoda",
+        "source_name": "Agoda"
       }
     }
   ]
