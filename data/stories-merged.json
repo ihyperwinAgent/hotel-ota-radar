@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T00:42:01.701731Z",
+  "generated_at": "2026-11-08T10:28:27.915598Z",
   "window_hours": 1080,
   "total_stories": 30,
   "stories": [
@@ -39,13 +39,13 @@
       "item_count": 1,
       "duplicate_count": 1,
       "score": 1.0,
-      "importance": 0.5926,
+      "importance": 0.5908,
       "importance_score": 1.0,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9629,
+        "recency": 0.9539,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -97,14 +97,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9499,
-      "importance": 0.5947,
-      "importance_score": 0.9499,
+      "score": 0.9482,
+      "importance": 0.5929,
+      "importance_score": 0.9482,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9737,
+        "recency": 0.9646,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -156,14 +156,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.949,
-      "importance": 0.5937,
-      "importance_score": 0.949,
+      "score": 0.9472,
+      "importance": 0.5919,
+      "importance_score": 0.9472,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9687,
+        "recency": 0.9597,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -215,14 +215,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9489,
-      "importance": 0.5937,
-      "importance_score": 0.9489,
+      "score": 0.9471,
+      "importance": 0.5919,
+      "importance_score": 0.9471,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9683,
+        "recency": 0.9593,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -237,65 +237,6 @@
         "url": "https://www.hoteldive.com/news/remington-names-cto-hersha-sells-boston-hilton/873978/",
         "source": "Hotel Dive",
         "source_name": "Hotel Dive"
-      }
-    },
-    {
-      "story_id": "story_d4453745e9ab",
-      "title": "Royal Phuket Marina invests in Phuket’s next generation with new learning centre",
-      "url": "https://insights.ehotelier.com/global-news/2026/11/06/royal-phuket-marina-invests-in-phukets-next-generation-with-new-learning-centre/?utm_source=rss&utm_medium=rss&utm_campaign=royal-phuket-marina-invests-in-phukets-next-generation-with-new-learning-centre",
-      "primary_url": "https://insights.ehotelier.com/global-news/2026/11/06/royal-phuket-marina-invests-in-phukets-next-generation-with-new-learning-centre/?utm_source=rss&utm_medium=rss&utm_campaign=royal-phuket-marina-invests-in-phukets-next-generation-with-new-learning-centre",
-      "source": "eHotelier",
-      "source_name": "eHotelier",
-      "sources": [
-        {
-          "id": "hotelitem_d4453745e9ab",
-          "title": "Royal Phuket Marina invests in Phuket’s next generation with new learning centre",
-          "url": "https://insights.ehotelier.com/global-news/2026/11/06/royal-phuket-marina-invests-in-phukets-next-generation-with-new-learning-centre/?utm_source=rss&utm_medium=rss&utm_campaign=royal-phuket-marina-invests-in-phukets-next-generation-with-new-learning-centre",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-11-06T01:00:38Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "eHotelier"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_d4453745e9ab",
-          "title": "Royal Phuket Marina invests in Phuket’s next generation with new learning centre",
-          "url": "https://insights.ehotelier.com/global-news/2026/11/06/royal-phuket-marina-invests-in-phukets-next-generation-with-new-learning-centre/?utm_source=rss&utm_medium=rss&utm_campaign=royal-phuket-marina-invests-in-phukets-next-generation-with-new-learning-centre",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-11-06T01:00:38Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.9465,
-      "importance": 0.5912,
-      "importance_score": 0.9465,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9558,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-06T01:00:38Z",
-      "latest_at": "2026-11-06T01:00:38Z",
-      "primary_item": {
-        "id": "hotelitem_d4453745e9ab",
-        "title": "Royal Phuket Marina invests in Phuket’s next generation with new learning centre",
-        "url": "https://insights.ehotelier.com/global-news/2026/11/06/royal-phuket-marina-invests-in-phukets-next-generation-with-new-learning-centre/?utm_source=rss&utm_medium=rss&utm_campaign=royal-phuket-marina-invests-in-phukets-next-generation-with-new-learning-centre",
-        "source": "eHotelier",
-        "source_name": "eHotelier"
       }
     },
     {
@@ -333,14 +274,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9465,
-      "importance": 0.5912,
-      "importance_score": 0.9465,
+      "score": 0.9448,
+      "importance": 0.5894,
+      "importance_score": 0.9448,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9559,
+        "recency": 0.9469,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -358,21 +299,21 @@
       }
     },
     {
-      "story_id": "story_84e98a5e641f",
-      "title": "ibis budget Auckland Airport unveils refreshed guest experience following room refurbishment",
-      "url": "https://insights.ehotelier.com/global-news/2026/11/05/ibis-budget-auckland-airport-unveils-refreshed-guest-experience-following-room-refurbishment/?utm_source=rss&utm_medium=rss&utm_campaign=ibis-budget-auckland-airport-unveils-refreshed-guest-experience-following-room-refurbishment",
-      "primary_url": "https://insights.ehotelier.com/global-news/2026/11/05/ibis-budget-auckland-airport-unveils-refreshed-guest-experience-following-room-refurbishment/?utm_source=rss&utm_medium=rss&utm_campaign=ibis-budget-auckland-airport-unveils-refreshed-guest-experience-following-room-refurbishment",
+      "story_id": "story_d4453745e9ab",
+      "title": "Royal Phuket Marina invests in Phuket’s next generation with new learning centre",
+      "url": "https://insights.ehotelier.com/global-news/2026/11/06/royal-phuket-marina-invests-in-phukets-next-generation-with-new-learning-centre/?utm_source=rss&utm_medium=rss&utm_campaign=royal-phuket-marina-invests-in-phukets-next-generation-with-new-learning-centre",
+      "primary_url": "https://insights.ehotelier.com/global-news/2026/11/06/royal-phuket-marina-invests-in-phukets-next-generation-with-new-learning-centre/?utm_source=rss&utm_medium=rss&utm_campaign=royal-phuket-marina-invests-in-phukets-next-generation-with-new-learning-centre",
       "source": "eHotelier",
       "source_name": "eHotelier",
       "sources": [
         {
-          "id": "hotelitem_84e98a5e641f",
-          "title": "ibis budget Auckland Airport unveils refreshed guest experience following room refurbishment",
-          "url": "https://insights.ehotelier.com/global-news/2026/11/05/ibis-budget-auckland-airport-unveils-refreshed-guest-experience-following-room-refurbishment/?utm_source=rss&utm_medium=rss&utm_campaign=ibis-budget-auckland-airport-unveils-refreshed-guest-experience-following-room-refurbishment",
+          "id": "hotelitem_d4453745e9ab",
+          "title": "Royal Phuket Marina invests in Phuket’s next generation with new learning centre",
+          "url": "https://insights.ehotelier.com/global-news/2026/11/06/royal-phuket-marina-invests-in-phukets-next-generation-with-new-learning-centre/?utm_source=rss&utm_medium=rss&utm_campaign=royal-phuket-marina-invests-in-phukets-next-generation-with-new-learning-centre",
           "source": "eHotelier",
           "source_name": "eHotelier",
           "site_id": "ehotelier",
-          "published_at": "2026-11-05T00:55:11Z"
+          "published_at": "2026-11-06T01:00:38Z"
         }
       ],
       "source_count": 1,
@@ -381,37 +322,37 @@
       ],
       "items": [
         {
-          "id": "hotelitem_84e98a5e641f",
-          "title": "ibis budget Auckland Airport unveils refreshed guest experience following room refurbishment",
-          "url": "https://insights.ehotelier.com/global-news/2026/11/05/ibis-budget-auckland-airport-unveils-refreshed-guest-experience-following-room-refurbishment/?utm_source=rss&utm_medium=rss&utm_campaign=ibis-budget-auckland-airport-unveils-refreshed-guest-experience-following-room-refurbishment",
+          "id": "hotelitem_d4453745e9ab",
+          "title": "Royal Phuket Marina invests in Phuket’s next generation with new learning centre",
+          "url": "https://insights.ehotelier.com/global-news/2026/11/06/royal-phuket-marina-invests-in-phukets-next-generation-with-new-learning-centre/?utm_source=rss&utm_medium=rss&utm_campaign=royal-phuket-marina-invests-in-phukets-next-generation-with-new-learning-centre",
           "source": "eHotelier",
           "source_name": "eHotelier",
           "site_id": "ehotelier",
-          "published_at": "2026-11-05T00:55:11Z"
+          "published_at": "2026-11-06T01:00:38Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9422,
-      "importance": 0.5867,
-      "importance_score": 0.9422,
+      "score": 0.9447,
+      "importance": 0.5894,
+      "importance_score": 0.9447,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9335,
+        "recency": 0.9468,
         "story_heat": 0.0
       },
       "category": "watch",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-11-05T00:55:11Z",
-      "latest_at": "2026-11-05T00:55:11Z",
+      "earliest_at": "2026-11-06T01:00:38Z",
+      "latest_at": "2026-11-06T01:00:38Z",
       "primary_item": {
-        "id": "hotelitem_84e98a5e641f",
-        "title": "ibis budget Auckland Airport unveils refreshed guest experience following room refurbishment",
-        "url": "https://insights.ehotelier.com/global-news/2026/11/05/ibis-budget-auckland-airport-unveils-refreshed-guest-experience-following-room-refurbishment/?utm_source=rss&utm_medium=rss&utm_campaign=ibis-budget-auckland-airport-unveils-refreshed-guest-experience-following-room-refurbishment",
+        "id": "hotelitem_d4453745e9ab",
+        "title": "Royal Phuket Marina invests in Phuket’s next generation with new learning centre",
+        "url": "https://insights.ehotelier.com/global-news/2026/11/06/royal-phuket-marina-invests-in-phukets-next-generation-with-new-learning-centre/?utm_source=rss&utm_medium=rss&utm_campaign=royal-phuket-marina-invests-in-phukets-next-generation-with-new-learning-centre",
         "source": "eHotelier",
         "source_name": "eHotelier"
       }
@@ -451,14 +392,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9422,
-      "importance": 0.5867,
-      "importance_score": 0.9422,
+      "score": 0.9405,
+      "importance": 0.5849,
+      "importance_score": 0.9405,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9336,
+        "recency": 0.9246,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -471,6 +412,65 @@
         "id": "hotelitem_e2bd3374f5d6",
         "title": "Beyond the Summits: The lasting power of IHG’s owners Assn.",
         "url": "https://insights.ehotelier.com/global-news/2026/11/05/beyond-the-summits-the-lasting-power-of-ihgs-owners-assn/?utm_source=rss&utm_medium=rss&utm_campaign=beyond-the-summits-the-lasting-power-of-ihgs-owners-assn",
+        "source": "eHotelier",
+        "source_name": "eHotelier"
+      }
+    },
+    {
+      "story_id": "story_84e98a5e641f",
+      "title": "ibis budget Auckland Airport unveils refreshed guest experience following room refurbishment",
+      "url": "https://insights.ehotelier.com/global-news/2026/11/05/ibis-budget-auckland-airport-unveils-refreshed-guest-experience-following-room-refurbishment/?utm_source=rss&utm_medium=rss&utm_campaign=ibis-budget-auckland-airport-unveils-refreshed-guest-experience-following-room-refurbishment",
+      "primary_url": "https://insights.ehotelier.com/global-news/2026/11/05/ibis-budget-auckland-airport-unveils-refreshed-guest-experience-following-room-refurbishment/?utm_source=rss&utm_medium=rss&utm_campaign=ibis-budget-auckland-airport-unveils-refreshed-guest-experience-following-room-refurbishment",
+      "source": "eHotelier",
+      "source_name": "eHotelier",
+      "sources": [
+        {
+          "id": "hotelitem_84e98a5e641f",
+          "title": "ibis budget Auckland Airport unveils refreshed guest experience following room refurbishment",
+          "url": "https://insights.ehotelier.com/global-news/2026/11/05/ibis-budget-auckland-airport-unveils-refreshed-guest-experience-following-room-refurbishment/?utm_source=rss&utm_medium=rss&utm_campaign=ibis-budget-auckland-airport-unveils-refreshed-guest-experience-following-room-refurbishment",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-11-05T00:55:11Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "eHotelier"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_84e98a5e641f",
+          "title": "ibis budget Auckland Airport unveils refreshed guest experience following room refurbishment",
+          "url": "https://insights.ehotelier.com/global-news/2026/11/05/ibis-budget-auckland-airport-unveils-refreshed-guest-experience-following-room-refurbishment/?utm_source=rss&utm_medium=rss&utm_campaign=ibis-budget-auckland-airport-unveils-refreshed-guest-experience-following-room-refurbishment",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-11-05T00:55:11Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.9404,
+      "importance": 0.5849,
+      "importance_score": 0.9404,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9245,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-05T00:55:11Z",
+      "latest_at": "2026-11-05T00:55:11Z",
+      "primary_item": {
+        "id": "hotelitem_84e98a5e641f",
+        "title": "ibis budget Auckland Airport unveils refreshed guest experience following room refurbishment",
+        "url": "https://insights.ehotelier.com/global-news/2026/11/05/ibis-budget-auckland-airport-unveils-refreshed-guest-experience-following-room-refurbishment/?utm_source=rss&utm_medium=rss&utm_campaign=ibis-budget-auckland-airport-unveils-refreshed-guest-experience-following-room-refurbishment",
         "source": "eHotelier",
         "source_name": "eHotelier"
       }
@@ -510,14 +510,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.936,
-      "importance": 0.5803,
-      "importance_score": 0.936,
+      "score": 0.9343,
+      "importance": 0.5785,
+      "importance_score": 0.9343,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9015,
+        "recency": 0.8925,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -569,14 +569,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9342,
-      "importance": 0.594,
-      "importance_score": 0.9342,
+      "score": 0.9325,
+      "importance": 0.5922,
+      "importance_score": 0.9325,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9701,
+        "recency": 0.961,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -628,14 +628,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9333,
-      "importance": 0.5931,
-      "importance_score": 0.9333,
+      "score": 0.9316,
+      "importance": 0.5913,
+      "importance_score": 0.9316,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9654,
+        "recency": 0.9563,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -687,14 +687,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9297,
-      "importance": 0.5893,
-      "importance_score": 0.9297,
+      "score": 0.9279,
+      "importance": 0.5875,
+      "importance_score": 0.9279,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9465,
+        "recency": 0.9375,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -746,14 +746,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9155,
-      "importance": 0.5624,
-      "importance_score": 0.9155,
+      "score": 0.9128,
+      "importance": 0.5606,
+      "importance_score": 0.9128,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8121,
+        "recency": 0.803,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -805,14 +805,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9114,
-      "importance": 0.5884,
-      "importance_score": 0.9114,
+      "score": 0.9096,
+      "importance": 0.5866,
+      "importance_score": 0.9096,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9422,
+        "recency": 0.9331,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -864,14 +864,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9039,
-      "importance": 0.5545,
-      "importance_score": 0.9039,
+      "score": 0.9012,
+      "importance": 0.5527,
+      "importance_score": 0.9012,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.7725,
+        "recency": 0.7635,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -903,7 +903,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-11-08T00:42:01.701731Z"
+          "published_at": "2026-11-08T10:28:27.915598Z"
         }
       ],
       "source_count": 1,
@@ -918,7 +918,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-11-08T00:42:01.701731Z"
+          "published_at": "2026-11-08T10:28:27.915598Z"
         }
       ],
       "item_count": 1,
@@ -937,8 +937,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-11-08T00:42:01.701731Z",
-      "latest_at": "2026-11-08T00:42:01.701731Z",
+      "earliest_at": "2026-11-08T10:28:27.915598Z",
+      "latest_at": "2026-11-08T10:28:27.915598Z",
       "primary_item": {
         "id": "hotelitem_06f191e24d38",
         "title": "文旅惠报|复星国际申请分拆Club Med在港上市；南京商旅上半年营收3.66亿元",
@@ -982,14 +982,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8809,
-      "importance": 0.5957,
-      "importance_score": 0.8809,
+      "score": 0.8791,
+      "importance": 0.5939,
+      "importance_score": 0.8791,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9787,
+        "recency": 0.9696,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1041,14 +1041,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8721,
-      "importance": 0.5944,
-      "importance_score": 0.8721,
+      "score": 0.8704,
+      "importance": 0.5926,
+      "importance_score": 0.8704,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.972,
+        "recency": 0.963,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1080,7 +1080,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-11-08T00:42:01.701731Z"
+          "published_at": "2026-11-08T10:28:27.915598Z"
         },
         {
           "id": "hotelitem_c7c15b7680c9",
@@ -1089,7 +1089,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-11-08T00:42:01.701731Z"
+          "published_at": "2026-11-08T10:28:27.915598Z"
         }
       ],
       "source_count": 2,
@@ -1104,7 +1104,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-11-08T00:42:01.701731Z"
+          "published_at": "2026-11-08T10:28:27.915598Z"
         },
         {
           "id": "hotelitem_c7c15b7680c9",
@@ -1113,7 +1113,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-11-08T00:42:01.701731Z"
+          "published_at": "2026-11-08T10:28:27.915598Z"
         }
       ],
       "item_count": 2,
@@ -1133,14 +1133,73 @@
         "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-11-08T00:42:01.701731Z",
-      "latest_at": "2026-11-08T00:42:01.701731Z",
+      "earliest_at": "2026-11-08T10:28:27.915598Z",
+      "latest_at": "2026-11-08T10:28:27.915598Z",
       "primary_item": {
         "id": "hotelitem_d4370964909c",
         "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
         "url": "https://www.chinahotel.org.cn/articles/17408",
         "source": "中国饭店协会",
         "source_name": "中国饭店协会"
+      }
+    },
+    {
+      "story_id": "story_7aec2838175b",
+      "title": "希尔顿集团在纳斯达克上市",
+      "url": "https://www.meadin.com/jd/303798.html",
+      "primary_url": "https://www.meadin.com/jd/303798.html",
+      "source": "迈点研究院",
+      "source_name": "迈点研究院",
+      "sources": [
+        {
+          "id": "hotelitem_7aec2838175b",
+          "title": "希尔顿集团在纳斯达克上市",
+          "url": "https://www.meadin.com/jd/303798.html",
+          "source": "迈点研究院",
+          "source_name": "迈点研究院",
+          "site_id": "meadin",
+          "published_at": "2026-11-08T10:28:27.915598Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "迈点研究院"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_7aec2838175b",
+          "title": "希尔顿集团在纳斯达克上市",
+          "url": "https://www.meadin.com/jd/303798.html",
+          "source": "迈点研究院",
+          "source_name": "迈点研究院",
+          "site_id": "meadin",
+          "published_at": "2026-11-08T10:28:27.915598Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.86,
+      "importance": 0.6,
+      "importance_score": 0.86,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-08T10:28:27.915598Z",
+      "latest_at": "2026-11-08T10:28:27.915598Z",
+      "primary_item": {
+        "id": "hotelitem_7aec2838175b",
+        "title": "希尔顿集团在纳斯达克上市",
+        "url": "https://www.meadin.com/jd/303798.html",
+        "source": "迈点研究院",
+        "source_name": "迈点研究院"
       }
     },
     {
@@ -1158,7 +1217,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-11-08T00:42:01.701731Z"
+          "published_at": "2026-11-08T10:28:27.915598Z"
         }
       ],
       "source_count": 1,
@@ -1173,7 +1232,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-11-08T00:42:01.701731Z"
+          "published_at": "2026-11-08T10:28:27.915598Z"
         }
       ],
       "item_count": 1,
@@ -1192,8 +1251,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-11-08T00:42:01.701731Z",
-      "latest_at": "2026-11-08T00:42:01.701731Z",
+      "earliest_at": "2026-11-08T10:28:27.915598Z",
+      "latest_at": "2026-11-08T10:28:27.915598Z",
       "primary_item": {
         "id": "hotelitem_e4ce0593c384",
         "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
@@ -1217,7 +1276,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-11-08T00:42:01.701731Z"
+          "published_at": "2026-11-08T10:28:27.915598Z"
         }
       ],
       "source_count": 1,
@@ -1232,7 +1291,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-11-08T00:42:01.701731Z"
+          "published_at": "2026-11-08T10:28:27.915598Z"
         }
       ],
       "item_count": 1,
@@ -1251,8 +1310,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-11-08T00:42:01.701731Z",
-      "latest_at": "2026-11-08T00:42:01.701731Z",
+      "earliest_at": "2026-11-08T10:28:27.915598Z",
+      "latest_at": "2026-11-08T10:28:27.915598Z",
       "primary_item": {
         "id": "hotelitem_4adba65c20e7",
         "title": "文化和旅游部党组召开会议坚决拥护党中央对...",
@@ -1296,14 +1355,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8546,
-      "importance": 0.5892,
-      "importance_score": 0.8546,
+      "score": 0.8529,
+      "importance": 0.5874,
+      "importance_score": 0.8529,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9461,
+        "recency": 0.937,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1355,14 +1414,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8503,
-      "importance": 0.5848,
-      "importance_score": 0.8503,
+      "score": 0.8485,
+      "importance": 0.5829,
+      "importance_score": 0.8485,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9238,
+        "recency": 0.9147,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1377,65 +1436,6 @@
         "url": "https://www.hoteldive.com/news/sonesta-boyd-gaming-distribution-loyalty-strategic-affiliation/873701/",
         "source": "Hotel Dive",
         "source_name": "Hotel Dive"
-      }
-    },
-    {
-      "story_id": "story_ad645fb8afe3",
-      "title": "Built to Compete: Why Hotel Technology Infrastructure Is the New Business Imperative",
-      "url": "https://www.hotelmanagement.net/resource/built-compete-why-hotel-technology-infrastructure-new-business-imperative",
-      "primary_url": "https://www.hotelmanagement.net/resource/built-compete-why-hotel-technology-infrastructure-new-business-imperative",
-      "source": "Hotel Management",
-      "source_name": "Hotel Management",
-      "sources": [
-        {
-          "id": "hotelitem_ad645fb8afe3",
-          "title": "Built to Compete: Why Hotel Technology Infrastructure Is the New Business Imperative",
-          "url": "https://www.hotelmanagement.net/resource/built-compete-why-hotel-technology-infrastructure-new-business-imperative",
-          "source": "Hotel Management",
-          "source_name": "Hotel Management",
-          "site_id": "hotelmgmt",
-          "published_at": "2026-10-19T16:21:05Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hotel Management"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_ad645fb8afe3",
-          "title": "Built to Compete: Why Hotel Technology Infrastructure Is the New Business Imperative",
-          "url": "https://www.hotelmanagement.net/resource/built-compete-why-hotel-technology-infrastructure-new-business-imperative",
-          "source": "Hotel Management",
-          "source_name": "Hotel Management",
-          "site_id": "hotelmgmt",
-          "published_at": "2026-10-19T16:21:05Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8445,
-      "importance": 0.514,
-      "importance_score": 0.8445,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.57,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-19T16:21:05Z",
-      "latest_at": "2026-10-19T16:21:05Z",
-      "primary_item": {
-        "id": "hotelitem_ad645fb8afe3",
-        "title": "Built to Compete: Why Hotel Technology Infrastructure Is the New Business Imperative",
-        "url": "https://www.hotelmanagement.net/resource/built-compete-why-hotel-technology-infrastructure-new-business-imperative",
-        "source": "Hotel Management",
-        "source_name": "Hotel Management"
       }
     },
     {
@@ -1473,14 +1473,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8439,
-      "importance": 0.5936,
-      "importance_score": 0.8439,
+      "score": 0.8421,
+      "importance": 0.5918,
+      "importance_score": 0.8421,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9682,
+        "recency": 0.9591,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1495,6 +1495,65 @@
         "url": "https://lodgingmagazine.com/lodgco-hospitality-names-new-ceo-and-president/",
         "source": "Lodging Magazine",
         "source_name": "Lodging Magazine"
+      }
+    },
+    {
+      "story_id": "story_ad645fb8afe3",
+      "title": "Built to Compete: Why Hotel Technology Infrastructure Is the New Business Imperative",
+      "url": "https://www.hotelmanagement.net/resource/built-compete-why-hotel-technology-infrastructure-new-business-imperative",
+      "primary_url": "https://www.hotelmanagement.net/resource/built-compete-why-hotel-technology-infrastructure-new-business-imperative",
+      "source": "Hotel Management",
+      "source_name": "Hotel Management",
+      "sources": [
+        {
+          "id": "hotelitem_ad645fb8afe3",
+          "title": "Built to Compete: Why Hotel Technology Infrastructure Is the New Business Imperative",
+          "url": "https://www.hotelmanagement.net/resource/built-compete-why-hotel-technology-infrastructure-new-business-imperative",
+          "source": "Hotel Management",
+          "source_name": "Hotel Management",
+          "site_id": "hotelmgmt",
+          "published_at": "2026-10-19T16:21:05Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hotel Management"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_ad645fb8afe3",
+          "title": "Built to Compete: Why Hotel Technology Infrastructure Is the New Business Imperative",
+          "url": "https://www.hotelmanagement.net/resource/built-compete-why-hotel-technology-infrastructure-new-business-imperative",
+          "source": "Hotel Management",
+          "source_name": "Hotel Management",
+          "site_id": "hotelmgmt",
+          "published_at": "2026-10-19T16:21:05Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8418,
+      "importance": 0.5122,
+      "importance_score": 0.8418,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.561,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-19T16:21:05Z",
+      "latest_at": "2026-10-19T16:21:05Z",
+      "primary_item": {
+        "id": "hotelitem_ad645fb8afe3",
+        "title": "Built to Compete: Why Hotel Technology Infrastructure Is the New Business Imperative",
+        "url": "https://www.hotelmanagement.net/resource/built-compete-why-hotel-technology-infrastructure-new-business-imperative",
+        "source": "Hotel Management",
+        "source_name": "Hotel Management"
       }
     },
     {
@@ -1532,14 +1591,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8405,
-      "importance": 0.5901,
-      "importance_score": 0.8405,
+      "score": 0.8387,
+      "importance": 0.5883,
+      "importance_score": 0.8387,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9506,
+        "recency": 0.9416,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1591,14 +1650,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8404,
-      "importance": 0.59,
-      "importance_score": 0.8404,
+      "score": 0.8386,
+      "importance": 0.5882,
+      "importance_score": 0.8386,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9501,
+        "recency": 0.941,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1650,14 +1709,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8397,
-      "importance": 0.5894,
-      "importance_score": 0.8397,
+      "score": 0.838,
+      "importance": 0.5875,
+      "importance_score": 0.838,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9468,
+        "recency": 0.9377,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1709,14 +1768,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8349,
-      "importance": 0.5844,
-      "importance_score": 0.8349,
+      "score": 0.8332,
+      "importance": 0.5826,
+      "importance_score": 0.8332,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9219,
+        "recency": 0.9129,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1731,65 +1790,6 @@
         "url": "https://boutiquehotelnews.com/news/movers-and-shakers/the-laslett-leadership-team/?utm_source=rss&utm_medium=rss&utm_campaign=the-laslett-leadership-team",
         "source": "Boutique Hotel News",
         "source_name": "Boutique Hotel News"
-      }
-    },
-    {
-      "story_id": "story_ca6c0b8bffc4",
-      "title": "CEO与众高管出走，凯宾斯基转型与资本布局添变数",
-      "url": "https://www.traveldaily.cn/article/190901",
-      "primary_url": "https://www.traveldaily.cn/article/190901",
-      "source": "环球旅讯 TravelDaily",
-      "source_name": "环球旅讯 TravelDaily",
-      "sources": [
-        {
-          "id": "hotelitem_ca6c0b8bffc4",
-          "title": "CEO与众高管出走，凯宾斯基转型与资本布局添变数",
-          "url": "https://www.traveldaily.cn/article/190901",
-          "source": "环球旅讯 TravelDaily",
-          "source_name": "环球旅讯 TravelDaily",
-          "site_id": "traveldaily",
-          "published_at": "2026-10-21T16:08:18Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "环球旅讯 TravelDaily"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_ca6c0b8bffc4",
-          "title": "CEO与众高管出走，凯宾斯基转型与资本布局添变数",
-          "url": "https://www.traveldaily.cn/article/190901",
-          "source": "环球旅讯 TravelDaily",
-          "source_name": "环球旅讯 TravelDaily",
-          "site_id": "traveldaily",
-          "published_at": "2026-10-21T16:08:18Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.825,
-      "importance": 0.5229,
-      "importance_score": 0.825,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.6143,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-21T16:08:18Z",
-      "latest_at": "2026-10-21T16:08:18Z",
-      "primary_item": {
-        "id": "hotelitem_ca6c0b8bffc4",
-        "title": "CEO与众高管出走，凯宾斯基转型与资本布局添变数",
-        "url": "https://www.traveldaily.cn/article/190901",
-        "source": "环球旅讯 TravelDaily",
-        "source_name": "环球旅讯 TravelDaily"
       }
     }
   ]
