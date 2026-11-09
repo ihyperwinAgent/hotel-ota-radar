@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T06:43:18.033610Z",
+  "generated_at": "2026-11-09T19:51:59.340443Z",
   "window_hours": 1080,
   "total_stories": 30,
   "stories": [
@@ -39,13 +39,13 @@
       "item_count": 1,
       "duplicate_count": 1,
       "score": 1.0,
-      "importance": 0.587,
+      "importance": 0.5846,
       "importance_score": 1.0,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9351,
+        "recency": 0.923,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -60,65 +60,6 @@
         "url": "https://www.pinchain.com/article/352736",
         "source": "品橙旅游",
         "source_name": "品橙旅游"
-      }
-    },
-    {
-      "story_id": "story_0abc503ddf48",
-      "title": "Eight Communications appointed to lead communications for Novotel Sunshine Coast Resort",
-      "url": "https://insights.ehotelier.com/global-news/2026/11/09/eight-communications-appointed-to-lead-communications-for-novotel-sunshine-coast-resort/?utm_source=rss&utm_medium=rss&utm_campaign=eight-communications-appointed-to-lead-communications-for-novotel-sunshine-coast-resort",
-      "primary_url": "https://insights.ehotelier.com/global-news/2026/11/09/eight-communications-appointed-to-lead-communications-for-novotel-sunshine-coast-resort/?utm_source=rss&utm_medium=rss&utm_campaign=eight-communications-appointed-to-lead-communications-for-novotel-sunshine-coast-resort",
-      "source": "eHotelier",
-      "source_name": "eHotelier",
-      "sources": [
-        {
-          "id": "hotelitem_0abc503ddf48",
-          "title": "Eight Communications appointed to lead communications for Novotel Sunshine Coast Resort",
-          "url": "https://insights.ehotelier.com/global-news/2026/11/09/eight-communications-appointed-to-lead-communications-for-novotel-sunshine-coast-resort/?utm_source=rss&utm_medium=rss&utm_campaign=eight-communications-appointed-to-lead-communications-for-novotel-sunshine-coast-resort",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-11-09T00:28:11Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "eHotelier"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_0abc503ddf48",
-          "title": "Eight Communications appointed to lead communications for Novotel Sunshine Coast Resort",
-          "url": "https://insights.ehotelier.com/global-news/2026/11/09/eight-communications-appointed-to-lead-communications-for-novotel-sunshine-coast-resort/?utm_source=rss&utm_medium=rss&utm_campaign=eight-communications-appointed-to-lead-communications-for-novotel-sunshine-coast-resort",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-11-09T00:28:11Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.9539,
-      "importance": 0.5988,
-      "importance_score": 0.9539,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9942,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-09T00:28:11Z",
-      "latest_at": "2026-11-09T00:28:11Z",
-      "primary_item": {
-        "id": "hotelitem_0abc503ddf48",
-        "title": "Eight Communications appointed to lead communications for Novotel Sunshine Coast Resort",
-        "url": "https://insights.ehotelier.com/global-news/2026/11/09/eight-communications-appointed-to-lead-communications-for-novotel-sunshine-coast-resort/?utm_source=rss&utm_medium=rss&utm_campaign=eight-communications-appointed-to-lead-communications-for-novotel-sunshine-coast-resort",
-        "source": "eHotelier",
-        "source_name": "eHotelier"
       }
     },
     {
@@ -156,14 +97,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9538,
-      "importance": 0.5988,
-      "importance_score": 0.9538,
+      "score": 0.9515,
+      "importance": 0.5964,
+      "importance_score": 0.9515,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.994,
+        "recency": 0.9818,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -176,6 +117,65 @@
         "id": "hotelitem_6440576eab38",
         "title": "Fairfield by Marriott makes Thailand debut in Krabi’s Ao Nang District",
         "url": "https://insights.ehotelier.com/properties/2026/11/09/fairfield-by-marriott-makes-thailand-debut-in-krabis-ao-nang-district/?utm_source=rss&utm_medium=rss&utm_campaign=fairfield-by-marriott-makes-thailand-debut-in-krabis-ao-nang-district",
+        "source": "eHotelier",
+        "source_name": "eHotelier"
+      }
+    },
+    {
+      "story_id": "story_0abc503ddf48",
+      "title": "Eight Communications appointed to lead communications for Novotel Sunshine Coast Resort",
+      "url": "https://insights.ehotelier.com/global-news/2026/11/09/eight-communications-appointed-to-lead-communications-for-novotel-sunshine-coast-resort/?utm_source=rss&utm_medium=rss&utm_campaign=eight-communications-appointed-to-lead-communications-for-novotel-sunshine-coast-resort",
+      "primary_url": "https://insights.ehotelier.com/global-news/2026/11/09/eight-communications-appointed-to-lead-communications-for-novotel-sunshine-coast-resort/?utm_source=rss&utm_medium=rss&utm_campaign=eight-communications-appointed-to-lead-communications-for-novotel-sunshine-coast-resort",
+      "source": "eHotelier",
+      "source_name": "eHotelier",
+      "sources": [
+        {
+          "id": "hotelitem_0abc503ddf48",
+          "title": "Eight Communications appointed to lead communications for Novotel Sunshine Coast Resort",
+          "url": "https://insights.ehotelier.com/global-news/2026/11/09/eight-communications-appointed-to-lead-communications-for-novotel-sunshine-coast-resort/?utm_source=rss&utm_medium=rss&utm_campaign=eight-communications-appointed-to-lead-communications-for-novotel-sunshine-coast-resort",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-11-09T00:28:11Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "eHotelier"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_0abc503ddf48",
+          "title": "Eight Communications appointed to lead communications for Novotel Sunshine Coast Resort",
+          "url": "https://insights.ehotelier.com/global-news/2026/11/09/eight-communications-appointed-to-lead-communications-for-novotel-sunshine-coast-resort/?utm_source=rss&utm_medium=rss&utm_campaign=eight-communications-appointed-to-lead-communications-for-novotel-sunshine-coast-resort",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-11-09T00:28:11Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.9515,
+      "importance": 0.5964,
+      "importance_score": 0.9515,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.982,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-09T00:28:11Z",
+      "latest_at": "2026-11-09T00:28:11Z",
+      "primary_item": {
+        "id": "hotelitem_0abc503ddf48",
+        "title": "Eight Communications appointed to lead communications for Novotel Sunshine Coast Resort",
+        "url": "https://insights.ehotelier.com/global-news/2026/11/09/eight-communications-appointed-to-lead-communications-for-novotel-sunshine-coast-resort/?utm_source=rss&utm_medium=rss&utm_campaign=eight-communications-appointed-to-lead-communications-for-novotel-sunshine-coast-resort",
         "source": "eHotelier",
         "source_name": "eHotelier"
       }
@@ -215,14 +215,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9446,
-      "importance": 0.5892,
-      "importance_score": 0.9446,
+      "score": 0.9422,
+      "importance": 0.5867,
+      "importance_score": 0.9422,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9459,
+        "recency": 0.9337,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -274,14 +274,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9436,
-      "importance": 0.5882,
-      "importance_score": 0.9436,
+      "score": 0.9413,
+      "importance": 0.5857,
+      "importance_score": 0.9413,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9409,
+        "recency": 0.9287,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -333,14 +333,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9435,
-      "importance": 0.5881,
-      "importance_score": 0.9435,
+      "score": 0.9412,
+      "importance": 0.5857,
+      "importance_score": 0.9412,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9405,
+        "recency": 0.9284,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -355,6 +355,124 @@
         "url": "https://www.hoteldive.com/news/remington-names-cto-hersha-sells-boston-hilton/873978/",
         "source": "Hotel Dive",
         "source_name": "Hotel Dive"
+      }
+    },
+    {
+      "story_id": "story_38f118547541",
+      "title": "Accor Group & Hard Rock International Form Strategic Partnership",
+      "url": "https://lodgingmagazine.com/accor-group-hard-rock-international-form-strategic-partnership/",
+      "primary_url": "https://lodgingmagazine.com/accor-group-hard-rock-international-form-strategic-partnership/",
+      "source": "Lodging Magazine",
+      "source_name": "Lodging Magazine",
+      "sources": [
+        {
+          "id": "hotelitem_38f118547541",
+          "title": "Accor Group & Hard Rock International Form Strategic Partnership",
+          "url": "https://lodgingmagazine.com/accor-group-hard-rock-international-form-strategic-partnership/",
+          "source": "Lodging Magazine",
+          "source_name": "Lodging Magazine",
+          "site_id": "lodgingmag",
+          "published_at": "2026-11-09T16:00:28Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Lodging Magazine"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_38f118547541",
+          "title": "Accor Group & Hard Rock International Form Strategic Partnership",
+          "url": "https://lodgingmagazine.com/accor-group-hard-rock-international-form-strategic-partnership/",
+          "source": "Lodging Magazine",
+          "source_name": "Lodging Magazine",
+          "site_id": "lodgingmag",
+          "published_at": "2026-11-09T16:00:28Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.9393,
+      "importance": 0.5993,
+      "importance_score": 0.9393,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9964,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-09T16:00:28Z",
+      "latest_at": "2026-11-09T16:00:28Z",
+      "primary_item": {
+        "id": "hotelitem_38f118547541",
+        "title": "Accor Group & Hard Rock International Form Strategic Partnership",
+        "url": "https://lodgingmagazine.com/accor-group-hard-rock-international-form-strategic-partnership/",
+        "source": "Lodging Magazine",
+        "source_name": "Lodging Magazine"
+      }
+    },
+    {
+      "story_id": "story_2a2d9e28e411",
+      "title": "JW Marriott Washington, DC Announces Two New Restaurant Concepts",
+      "url": "https://lodgingmagazine.com/jw-marriott-washington-dc-announces-two-new-restaurant-concepts/",
+      "primary_url": "https://lodgingmagazine.com/jw-marriott-washington-dc-announces-two-new-restaurant-concepts/",
+      "source": "Lodging Magazine",
+      "source_name": "Lodging Magazine",
+      "sources": [
+        {
+          "id": "hotelitem_2a2d9e28e411",
+          "title": "JW Marriott Washington, DC Announces Two New Restaurant Concepts",
+          "url": "https://lodgingmagazine.com/jw-marriott-washington-dc-announces-two-new-restaurant-concepts/",
+          "source": "Lodging Magazine",
+          "source_name": "Lodging Magazine",
+          "site_id": "lodgingmag",
+          "published_at": "2026-11-09T14:52:51Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Lodging Magazine"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_2a2d9e28e411",
+          "title": "JW Marriott Washington, DC Announces Two New Restaurant Concepts",
+          "url": "https://lodgingmagazine.com/jw-marriott-washington-dc-announces-two-new-restaurant-concepts/",
+          "source": "Lodging Magazine",
+          "source_name": "Lodging Magazine",
+          "site_id": "lodgingmag",
+          "published_at": "2026-11-09T14:52:51Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.9391,
+      "importance": 0.5991,
+      "importance_score": 0.9391,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9954,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-09T14:52:51Z",
+      "latest_at": "2026-11-09T14:52:51Z",
+      "primary_item": {
+        "id": "hotelitem_2a2d9e28e411",
+        "title": "JW Marriott Washington, DC Announces Two New Restaurant Concepts",
+        "url": "https://lodgingmagazine.com/jw-marriott-washington-dc-announces-two-new-restaurant-concepts/",
+        "source": "Lodging Magazine",
+        "source_name": "Lodging Magazine"
       }
     },
     {
@@ -392,14 +510,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9411,
-      "importance": 0.5856,
-      "importance_score": 0.9411,
+      "score": 0.9388,
+      "importance": 0.5832,
+      "importance_score": 0.9388,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.928,
+        "recency": 0.9159,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -451,14 +569,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9411,
-      "importance": 0.5856,
-      "importance_score": 0.9411,
+      "score": 0.9388,
+      "importance": 0.5832,
+      "importance_score": 0.9388,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9281,
+        "recency": 0.9159,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -473,124 +591,6 @@
         "url": "https://insights.ehotelier.com/insights/2026/11/06/luxury-market-trends-global-growth-consumer-shifts-and-industry-outlook/?utm_source=rss&utm_medium=rss&utm_campaign=luxury-market-trends-global-growth-consumer-shifts-and-industry-outlook",
         "source": "eHotelier",
         "source_name": "eHotelier"
-      }
-    },
-    {
-      "story_id": "story_7e1edbbf899c",
-      "title": "Gencom acquires InterContinental Miami from Strategic Hotels & Resorts",
-      "url": "https://www.hoteldive.com/news/gencom-acquires-intercontinental-miami-from-strategic-hotels-resorts/873568/",
-      "primary_url": "https://www.hoteldive.com/news/gencom-acquires-intercontinental-miami-from-strategic-hotels-resorts/873568/",
-      "source": "Hotel Dive",
-      "source_name": "Hotel Dive",
-      "sources": [
-        {
-          "id": "hotelitem_7e1edbbf899c",
-          "title": "Gencom acquires InterContinental Miami from Strategic Hotels & Resorts",
-          "url": "https://www.hoteldive.com/news/gencom-acquires-intercontinental-miami-from-strategic-hotels-resorts/873568/",
-          "source": "Hotel Dive",
-          "source_name": "Hotel Dive",
-          "site_id": "hoteldive",
-          "published_at": "2026-11-03T14:20:10Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hotel Dive"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_7e1edbbf899c",
-          "title": "Gencom acquires InterContinental Miami from Strategic Hotels & Resorts",
-          "url": "https://www.hoteldive.com/news/gencom-acquires-intercontinental-miami-from-strategic-hotels-resorts/873568/",
-          "source": "Hotel Dive",
-          "source_name": "Hotel Dive",
-          "site_id": "hoteldive",
-          "published_at": "2026-11-03T14:20:10Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.9306,
-      "importance": 0.5747,
-      "importance_score": 0.9306,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.8737,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-03T14:20:10Z",
-      "latest_at": "2026-11-03T14:20:10Z",
-      "primary_item": {
-        "id": "hotelitem_7e1edbbf899c",
-        "title": "Gencom acquires InterContinental Miami from Strategic Hotels & Resorts",
-        "url": "https://www.hoteldive.com/news/gencom-acquires-intercontinental-miami-from-strategic-hotels-resorts/873568/",
-        "source": "Hotel Dive",
-        "source_name": "Hotel Dive"
-      }
-    },
-    {
-      "story_id": "story_e526b9c5ed0b",
-      "title": "Hilton Garden Inn Lake Buena Vista/Orlando Completes Renovation",
-      "url": "https://lodgingmagazine.com/hilton-garden-inn-lake-buena-vista-orlando-completes-renovation/",
-      "primary_url": "https://lodgingmagazine.com/hilton-garden-inn-lake-buena-vista-orlando-completes-renovation/",
-      "source": "Lodging Magazine",
-      "source_name": "Lodging Magazine",
-      "sources": [
-        {
-          "id": "hotelitem_e526b9c5ed0b",
-          "title": "Hilton Garden Inn Lake Buena Vista/Orlando Completes Renovation",
-          "url": "https://lodgingmagazine.com/hilton-garden-inn-lake-buena-vista-orlando-completes-renovation/",
-          "source": "Lodging Magazine",
-          "source_name": "Lodging Magazine",
-          "site_id": "lodgingmag",
-          "published_at": "2026-11-06T16:23:53Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Lodging Magazine"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_e526b9c5ed0b",
-          "title": "Hilton Garden Inn Lake Buena Vista/Orlando Completes Renovation",
-          "url": "https://lodgingmagazine.com/hilton-garden-inn-lake-buena-vista-orlando-completes-renovation/",
-          "source": "Lodging Magazine",
-          "source_name": "Lodging Magazine",
-          "site_id": "lodgingmag",
-          "published_at": "2026-11-06T16:23:53Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.9289,
-      "importance": 0.5885,
-      "importance_score": 0.9289,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9423,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-06T16:23:53Z",
-      "latest_at": "2026-11-06T16:23:53Z",
-      "primary_item": {
-        "id": "hotelitem_e526b9c5ed0b",
-        "title": "Hilton Garden Inn Lake Buena Vista/Orlando Completes Renovation",
-        "url": "https://lodgingmagazine.com/hilton-garden-inn-lake-buena-vista-orlando-completes-renovation/",
-        "source": "Lodging Magazine",
-        "source_name": "Lodging Magazine"
       }
     },
     {
@@ -628,14 +628,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.928,
-      "importance": 0.5875,
-      "importance_score": 0.928,
+      "score": 0.9256,
+      "importance": 0.5851,
+      "importance_score": 0.9256,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9376,
+        "recency": 0.9254,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -687,14 +687,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9243,
-      "importance": 0.5837,
-      "importance_score": 0.9243,
+      "score": 0.922,
+      "importance": 0.5813,
+      "importance_score": 0.922,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9187,
+        "recency": 0.9065,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -746,14 +746,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9073,
-      "importance": 0.5569,
-      "importance_score": 0.9073,
+      "score": 0.9038,
+      "importance": 0.5544,
+      "importance_score": 0.9038,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.7843,
+        "recency": 0.7721,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -805,14 +805,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.906,
-      "importance": 0.5829,
-      "importance_score": 0.906,
+      "score": 0.9036,
+      "importance": 0.5804,
+      "importance_score": 0.9036,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9144,
+        "recency": 0.9022,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -830,21 +830,21 @@
       }
     },
     {
-      "story_id": "story_06f191e24d38",
-      "title": "文旅惠报|复星国际申请分拆Club Med在港上市；南京商旅上半年营收3.66亿元",
-      "url": "https://www.tripvivid.com/47868.html",
-      "primary_url": "https://www.tripvivid.com/47868.html",
+      "story_id": "story_f49c27611d71",
+      "title": "不搬店，搬能力：小米战略投资的尚美数智在雅加达160天开出当月盈利的SHANKEE酒店",
+      "url": "https://www.tripvivid.com/48113.html",
+      "primary_url": "https://www.tripvivid.com/48113.html",
       "source": "执惠 TripVivid",
       "source_name": "执惠 TripVivid",
       "sources": [
         {
-          "id": "hotelitem_06f191e24d38",
-          "title": "文旅惠报|复星国际申请分拆Club Med在港上市；南京商旅上半年营收3.66亿元",
-          "url": "https://www.tripvivid.com/47868.html",
+          "id": "hotelitem_f49c27611d71",
+          "title": "不搬店，搬能力：小米战略投资的尚美数智在雅加达160天开出当月盈利的SHANKEE酒店",
+          "url": "https://www.tripvivid.com/48113.html",
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-11-09T06:43:18.033610Z"
+          "published_at": "2026-11-09T19:51:59.340443Z"
         }
       ],
       "source_count": 1,
@@ -853,13 +853,13 @@
       ],
       "items": [
         {
-          "id": "hotelitem_06f191e24d38",
-          "title": "文旅惠报|复星国际申请分拆Club Med在港上市；南京商旅上半年营收3.66亿元",
-          "url": "https://www.tripvivid.com/47868.html",
+          "id": "hotelitem_f49c27611d71",
+          "title": "不搬店，搬能力：小米战略投资的尚美数智在雅加达160天开出当月盈利的SHANKEE酒店",
+          "url": "https://www.tripvivid.com/48113.html",
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-11-09T06:43:18.033610Z"
+          "published_at": "2026-11-09T19:51:59.340443Z"
         }
       ],
       "item_count": 1,
@@ -878,8 +878,67 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-11-09T06:43:18.033610Z",
-      "latest_at": "2026-11-09T06:43:18.033610Z",
+      "earliest_at": "2026-11-09T19:51:59.340443Z",
+      "latest_at": "2026-11-09T19:51:59.340443Z",
+      "primary_item": {
+        "id": "hotelitem_f49c27611d71",
+        "title": "不搬店，搬能力：小米战略投资的尚美数智在雅加达160天开出当月盈利的SHANKEE酒店",
+        "url": "https://www.tripvivid.com/48113.html",
+        "source": "执惠 TripVivid",
+        "source_name": "执惠 TripVivid"
+      }
+    },
+    {
+      "story_id": "story_06f191e24d38",
+      "title": "文旅惠报|复星国际申请分拆Club Med在港上市；南京商旅上半年营收3.66亿元",
+      "url": "https://www.tripvivid.com/47868.html",
+      "primary_url": "https://www.tripvivid.com/47868.html",
+      "source": "执惠 TripVivid",
+      "source_name": "执惠 TripVivid",
+      "sources": [
+        {
+          "id": "hotelitem_06f191e24d38",
+          "title": "文旅惠报|复星国际申请分拆Club Med在港上市；南京商旅上半年营收3.66亿元",
+          "url": "https://www.tripvivid.com/47868.html",
+          "source": "执惠 TripVivid",
+          "source_name": "执惠 TripVivid",
+          "site_id": "tripvivid",
+          "published_at": "2026-11-09T19:51:59.340443Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "执惠 TripVivid"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_06f191e24d38",
+          "title": "文旅惠报|复星国际申请分拆Club Med在港上市；南京商旅上半年营收3.66亿元",
+          "url": "https://www.tripvivid.com/47868.html",
+          "source": "执惠 TripVivid",
+          "source_name": "执惠 TripVivid",
+          "site_id": "tripvivid",
+          "published_at": "2026-11-09T19:51:59.340443Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.9,
+      "importance": 0.6,
+      "importance_score": 0.9,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-09T19:51:59.340443Z",
+      "latest_at": "2026-11-09T19:51:59.340443Z",
       "primary_item": {
         "id": "hotelitem_06f191e24d38",
         "title": "文旅惠报|复星国际申请分拆Club Med在港上市；南京商旅上半年营收3.66亿元",
@@ -923,14 +982,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8957,
-      "importance": 0.5489,
-      "importance_score": 0.8957,
+      "score": 0.8922,
+      "importance": 0.5465,
+      "importance_score": 0.8922,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.7447,
+        "recency": 0.7325,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -945,65 +1004,6 @@
         "url": "https://www.hotelmanagement.net/resource/profit-details-how-smarter-purchasing-boosting-hotel-margins",
         "source": "Hotel Management",
         "source_name": "Hotel Management"
-      }
-    },
-    {
-      "story_id": "story_0e670c42da53",
-      "title": "生态出海落子中亚，艺龙酒店科技阿拉木图出海品牌品鉴会圆满落幕",
-      "url": "https://www.traveldaily.cn/article/190974",
-      "primary_url": "https://www.traveldaily.cn/article/190974",
-      "source": "环球旅讯 TravelDaily",
-      "source_name": "环球旅讯 TravelDaily",
-      "sources": [
-        {
-          "id": "hotelitem_0e670c42da53",
-          "title": "生态出海落子中亚，艺龙酒店科技阿拉木图出海品牌品鉴会圆满落幕",
-          "url": "https://www.traveldaily.cn/article/190974",
-          "source": "环球旅讯 TravelDaily",
-          "source_name": "环球旅讯 TravelDaily",
-          "site_id": "traveldaily",
-          "published_at": "2026-11-09T11:09:07Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "环球旅讯 TravelDaily"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_0e670c42da53",
-          "title": "生态出海落子中亚，艺龙酒店科技阿拉木图出海品牌品鉴会圆满落幕",
-          "url": "https://www.traveldaily.cn/article/190974",
-          "source": "环球旅讯 TravelDaily",
-          "source_name": "环球旅讯 TravelDaily",
-          "site_id": "traveldaily",
-          "published_at": "2026-11-09T11:09:07Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8775,
-      "importance": 0.6,
-      "importance_score": 0.8775,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-09T11:09:07Z",
-      "latest_at": "2026-11-09T11:09:07Z",
-      "primary_item": {
-        "id": "hotelitem_0e670c42da53",
-        "title": "生态出海落子中亚，艺龙酒店科技阿拉木图出海品牌品鉴会圆满落幕",
-        "url": "https://www.traveldaily.cn/article/190974",
-        "source": "环球旅讯 TravelDaily",
-        "source_name": "环球旅讯 TravelDaily"
       }
     },
     {
@@ -1041,14 +1041,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8755,
-      "importance": 0.5902,
-      "importance_score": 0.8755,
+      "score": 0.8732,
+      "importance": 0.5877,
+      "importance_score": 0.8732,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9509,
+        "recency": 0.9387,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1063,6 +1063,65 @@
         "url": "https://www.pinchain.com/article/352734",
         "source": "品橙旅游",
         "source_name": "品橙旅游"
+      }
+    },
+    {
+      "story_id": "story_ff714bb31d58",
+      "title": "2026 holiday travel preview: Trip goers stretch budgets, turn to tech",
+      "url": "https://www.hoteldive.com/news/2026-holiday-travel-preview/874086/",
+      "primary_url": "https://www.hoteldive.com/news/2026-holiday-travel-preview/874086/",
+      "source": "Hotel Dive",
+      "source_name": "Hotel Dive",
+      "sources": [
+        {
+          "id": "hotelitem_ff714bb31d58",
+          "title": "2026 holiday travel preview: Trip goers stretch budgets, turn to tech",
+          "url": "https://www.hoteldive.com/news/2026-holiday-travel-preview/874086/",
+          "source": "Hotel Dive",
+          "source_name": "Hotel Dive",
+          "site_id": "hoteldive",
+          "published_at": "2026-11-09T14:19:05Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hotel Dive"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_ff714bb31d58",
+          "title": "2026 holiday travel preview: Trip goers stretch budgets, turn to tech",
+          "url": "https://www.hoteldive.com/news/2026-holiday-travel-preview/874086/",
+          "source": "Hotel Dive",
+          "source_name": "Hotel Dive",
+          "site_id": "hoteldive",
+          "published_at": "2026-11-09T14:19:05Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.864,
+      "importance": 0.599,
+      "importance_score": 0.864,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9949,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-09T14:19:05Z",
+      "latest_at": "2026-11-09T14:19:05Z",
+      "primary_item": {
+        "id": "hotelitem_ff714bb31d58",
+        "title": "2026 holiday travel preview: Trip goers stretch budgets, turn to tech",
+        "url": "https://www.hoteldive.com/news/2026-holiday-travel-preview/874086/",
+        "source": "Hotel Dive",
+        "source_name": "Hotel Dive"
       }
     },
     {
@@ -1100,14 +1159,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8639,
-      "importance": 0.5989,
-      "importance_score": 0.8639,
+      "score": 0.8615,
+      "importance": 0.5964,
+      "importance_score": 0.8615,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9943,
+        "recency": 0.9821,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1139,7 +1198,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-11-09T06:43:18.033610Z"
+          "published_at": "2026-11-09T19:51:59.340443Z"
         },
         {
           "id": "hotelitem_c7c15b7680c9",
@@ -1148,7 +1207,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-11-09T06:43:18.033610Z"
+          "published_at": "2026-11-09T19:51:59.340443Z"
         }
       ],
       "source_count": 2,
@@ -1163,7 +1222,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-11-09T06:43:18.033610Z"
+          "published_at": "2026-11-09T19:51:59.340443Z"
         },
         {
           "id": "hotelitem_c7c15b7680c9",
@@ -1172,7 +1231,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-11-09T06:43:18.033610Z"
+          "published_at": "2026-11-09T19:51:59.340443Z"
         }
       ],
       "item_count": 2,
@@ -1192,8 +1251,8 @@
         "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-11-09T06:43:18.033610Z",
-      "latest_at": "2026-11-09T06:43:18.033610Z",
+      "earliest_at": "2026-11-09T19:51:59.340443Z",
+      "latest_at": "2026-11-09T19:51:59.340443Z",
       "primary_item": {
         "id": "hotelitem_d4370964909c",
         "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
@@ -1203,21 +1262,21 @@
       }
     },
     {
-      "story_id": "story_747a40d2c6d5",
-      "title": "凯撒旅业控股股东拟增持5000万元至6000万元",
-      "url": "https://www.meadin.com/wl/303775.html",
-      "primary_url": "https://www.meadin.com/wl/303775.html",
+      "story_id": "story_10d28ad47059",
+      "title": "岭南控股拟出资1亿元参设文旅产业股权投资基金",
+      "url": "https://www.meadin.com/wl/303851.html",
+      "primary_url": "https://www.meadin.com/wl/303851.html",
       "source": "迈点研究院",
       "source_name": "迈点研究院",
       "sources": [
         {
-          "id": "hotelitem_747a40d2c6d5",
-          "title": "凯撒旅业控股股东拟增持5000万元至6000万元",
-          "url": "https://www.meadin.com/wl/303775.html",
+          "id": "hotelitem_10d28ad47059",
+          "title": "岭南控股拟出资1亿元参设文旅产业股权投资基金",
+          "url": "https://www.meadin.com/wl/303851.html",
           "source": "迈点研究院",
           "source_name": "迈点研究院",
           "site_id": "meadin",
-          "published_at": "2026-11-09T06:43:18.033610Z"
+          "published_at": "2026-11-09T19:51:59.340443Z"
         }
       ],
       "source_count": 1,
@@ -1226,13 +1285,13 @@
       ],
       "items": [
         {
-          "id": "hotelitem_747a40d2c6d5",
-          "title": "凯撒旅业控股股东拟增持5000万元至6000万元",
-          "url": "https://www.meadin.com/wl/303775.html",
+          "id": "hotelitem_10d28ad47059",
+          "title": "岭南控股拟出资1亿元参设文旅产业股权投资基金",
+          "url": "https://www.meadin.com/wl/303851.html",
           "source": "迈点研究院",
           "source_name": "迈点研究院",
           "site_id": "meadin",
-          "published_at": "2026-11-09T06:43:18.033610Z"
+          "published_at": "2026-11-09T19:51:59.340443Z"
         }
       ],
       "item_count": 1,
@@ -1251,71 +1310,12 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-11-09T06:43:18.033610Z",
-      "latest_at": "2026-11-09T06:43:18.033610Z",
+      "earliest_at": "2026-11-09T19:51:59.340443Z",
+      "latest_at": "2026-11-09T19:51:59.340443Z",
       "primary_item": {
-        "id": "hotelitem_747a40d2c6d5",
-        "title": "凯撒旅业控股股东拟增持5000万元至6000万元",
-        "url": "https://www.meadin.com/wl/303775.html",
-        "source": "迈点研究院",
-        "source_name": "迈点研究院"
-      }
-    },
-    {
-      "story_id": "story_949caeb884a9",
-      "title": "爱彼迎Q3营收48.7亿美元 同比增长19%",
-      "url": "https://www.meadin.com/wl/303769.html",
-      "primary_url": "https://www.meadin.com/wl/303769.html",
-      "source": "迈点研究院",
-      "source_name": "迈点研究院",
-      "sources": [
-        {
-          "id": "hotelitem_949caeb884a9",
-          "title": "爱彼迎Q3营收48.7亿美元 同比增长19%",
-          "url": "https://www.meadin.com/wl/303769.html",
-          "source": "迈点研究院",
-          "source_name": "迈点研究院",
-          "site_id": "meadin",
-          "published_at": "2026-11-09T06:43:18.033610Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "迈点研究院"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_949caeb884a9",
-          "title": "爱彼迎Q3营收48.7亿美元 同比增长19%",
-          "url": "https://www.meadin.com/wl/303769.html",
-          "source": "迈点研究院",
-          "source_name": "迈点研究院",
-          "site_id": "meadin",
-          "published_at": "2026-11-09T06:43:18.033610Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.86,
-      "importance": 0.6,
-      "importance_score": 0.86,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-09T06:43:18.033610Z",
-      "latest_at": "2026-11-09T06:43:18.033610Z",
-      "primary_item": {
-        "id": "hotelitem_949caeb884a9",
-        "title": "爱彼迎Q3营收48.7亿美元 同比增长19%",
-        "url": "https://www.meadin.com/wl/303769.html",
+        "id": "hotelitem_10d28ad47059",
+        "title": "岭南控股拟出资1亿元参设文旅产业股权投资基金",
+        "url": "https://www.meadin.com/wl/303851.html",
         "source": "迈点研究院",
         "source_name": "迈点研究院"
       }
@@ -1335,7 +1335,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-11-09T06:43:18.033610Z"
+          "published_at": "2026-11-09T19:51:59.340443Z"
         }
       ],
       "source_count": 1,
@@ -1350,7 +1350,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-11-09T06:43:18.033610Z"
+          "published_at": "2026-11-09T19:51:59.340443Z"
         }
       ],
       "item_count": 1,
@@ -1369,8 +1369,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-11-09T06:43:18.033610Z",
-      "latest_at": "2026-11-09T06:43:18.033610Z",
+      "earliest_at": "2026-11-09T19:51:59.340443Z",
+      "latest_at": "2026-11-09T19:51:59.340443Z",
       "primary_item": {
         "id": "hotelitem_e4ce0593c384",
         "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
@@ -1394,7 +1394,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-11-09T06:43:18.033610Z"
+          "published_at": "2026-11-09T19:51:59.340443Z"
         }
       ],
       "source_count": 1,
@@ -1409,7 +1409,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-11-09T06:43:18.033610Z"
+          "published_at": "2026-11-09T19:51:59.340443Z"
         }
       ],
       "item_count": 1,
@@ -1428,14 +1428,191 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-11-09T06:43:18.033610Z",
-      "latest_at": "2026-11-09T06:43:18.033610Z",
+      "earliest_at": "2026-11-09T19:51:59.340443Z",
+      "latest_at": "2026-11-09T19:51:59.340443Z",
       "primary_item": {
         "id": "hotelitem_4adba65c20e7",
         "title": "文化和旅游部党组召开会议坚决拥护党中央对...",
         "url": "https://www.mct.gov.cn/whzx/whyw/202610/t20261010_967329.htm",
         "source": "文化和旅游部",
         "source_name": "文化和旅游部"
+      }
+    },
+    {
+      "story_id": "story_51e8c953a749",
+      "title": "Hotel Bar Training Should Start With the Busiest 30 Minutes",
+      "url": "https://lodgingmagazine.com/hotel-bar-training-should-start-with-the-busiest-30-minutes/",
+      "primary_url": "https://lodgingmagazine.com/hotel-bar-training-should-start-with-the-busiest-30-minutes/",
+      "source": "Lodging Magazine",
+      "source_name": "Lodging Magazine",
+      "sources": [
+        {
+          "id": "hotelitem_51e8c953a749",
+          "title": "Hotel Bar Training Should Start With the Busiest 30 Minutes",
+          "url": "https://lodgingmagazine.com/hotel-bar-training-should-start-with-the-busiest-30-minutes/",
+          "source": "Lodging Magazine",
+          "source_name": "Lodging Magazine",
+          "site_id": "lodgingmag",
+          "published_at": "2026-11-09T19:11:59Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Lodging Magazine"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_51e8c953a749",
+          "title": "Hotel Bar Training Should Start With the Busiest 30 Minutes",
+          "url": "https://lodgingmagazine.com/hotel-bar-training-should-start-with-the-busiest-30-minutes/",
+          "source": "Lodging Magazine",
+          "source_name": "Lodging Magazine",
+          "site_id": "lodgingmag",
+          "published_at": "2026-11-09T19:11:59Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8499,
+      "importance": 0.5999,
+      "importance_score": 0.8499,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9994,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-09T19:11:59Z",
+      "latest_at": "2026-11-09T19:11:59Z",
+      "primary_item": {
+        "id": "hotelitem_51e8c953a749",
+        "title": "Hotel Bar Training Should Start With the Busiest 30 Minutes",
+        "url": "https://lodgingmagazine.com/hotel-bar-training-should-start-with-the-busiest-30-minutes/",
+        "source": "Lodging Magazine",
+        "source_name": "Lodging Magazine"
+      }
+    },
+    {
+      "story_id": "story_89b74c3228ec",
+      "title": "Lodgco Hospitality Appoints New Chief Operating Officer",
+      "url": "https://lodgingmagazine.com/lodgco-hospitality-appoints-new-chief-operating-officer/",
+      "primary_url": "https://lodgingmagazine.com/lodgco-hospitality-appoints-new-chief-operating-officer/",
+      "source": "Lodging Magazine",
+      "source_name": "Lodging Magazine",
+      "sources": [
+        {
+          "id": "hotelitem_89b74c3228ec",
+          "title": "Lodgco Hospitality Appoints New Chief Operating Officer",
+          "url": "https://lodgingmagazine.com/lodgco-hospitality-appoints-new-chief-operating-officer/",
+          "source": "Lodging Magazine",
+          "source_name": "Lodging Magazine",
+          "site_id": "lodgingmag",
+          "published_at": "2026-11-09T14:07:05Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Lodging Magazine"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_89b74c3228ec",
+          "title": "Lodgco Hospitality Appoints New Chief Operating Officer",
+          "url": "https://lodgingmagazine.com/lodgco-hospitality-appoints-new-chief-operating-officer/",
+          "source": "Lodging Magazine",
+          "source_name": "Lodging Magazine",
+          "site_id": "lodgingmag",
+          "published_at": "2026-11-09T14:07:05Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.849,
+      "importance": 0.5989,
+      "importance_score": 0.849,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9947,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-09T14:07:05Z",
+      "latest_at": "2026-11-09T14:07:05Z",
+      "primary_item": {
+        "id": "hotelitem_89b74c3228ec",
+        "title": "Lodgco Hospitality Appoints New Chief Operating Officer",
+        "url": "https://lodgingmagazine.com/lodgco-hospitality-appoints-new-chief-operating-officer/",
+        "source": "Lodging Magazine",
+        "source_name": "Lodging Magazine"
+      }
+    },
+    {
+      "story_id": "story_969a93aa0316",
+      "title": "Owner seeks luxury operator for Great John Street Hotel",
+      "url": "https://boutiquehotelnews.com/news/finance-and-investment/great-john-street-hotel/?utm_source=rss&utm_medium=rss&utm_campaign=great-john-street-hotel",
+      "primary_url": "https://boutiquehotelnews.com/news/finance-and-investment/great-john-street-hotel/?utm_source=rss&utm_medium=rss&utm_campaign=great-john-street-hotel",
+      "source": "Boutique Hotel News",
+      "source_name": "Boutique Hotel News",
+      "sources": [
+        {
+          "id": "hotelitem_969a93aa0316",
+          "title": "Owner seeks luxury operator for Great John Street Hotel",
+          "url": "https://boutiquehotelnews.com/news/finance-and-investment/great-john-street-hotel/?utm_source=rss&utm_medium=rss&utm_campaign=great-john-street-hotel",
+          "source": "Boutique Hotel News",
+          "source_name": "Boutique Hotel News",
+          "site_id": "boutiquehotel",
+          "published_at": "2026-11-09T13:10:05Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Boutique Hotel News"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_969a93aa0316",
+          "title": "Owner seeks luxury operator for Great John Street Hotel",
+          "url": "https://boutiquehotelnews.com/news/finance-and-investment/great-john-street-hotel/?utm_source=rss&utm_medium=rss&utm_campaign=great-john-street-hotel",
+          "source": "Boutique Hotel News",
+          "source_name": "Boutique Hotel News",
+          "site_id": "boutiquehotel",
+          "published_at": "2026-11-09T13:10:05Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8488,
+      "importance": 0.5988,
+      "importance_score": 0.8488,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9938,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-09T13:10:05Z",
+      "latest_at": "2026-11-09T13:10:05Z",
+      "primary_item": {
+        "id": "hotelitem_969a93aa0316",
+        "title": "Owner seeks luxury operator for Great John Street Hotel",
+        "url": "https://boutiquehotelnews.com/news/finance-and-investment/great-john-street-hotel/?utm_source=rss&utm_medium=rss&utm_campaign=great-john-street-hotel",
+        "source": "Boutique Hotel News",
+        "source_name": "Boutique Hotel News"
       }
     },
     {
@@ -1473,14 +1650,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8492,
-      "importance": 0.5837,
-      "importance_score": 0.8492,
+      "score": 0.8469,
+      "importance": 0.5812,
+      "importance_score": 0.8469,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9183,
+        "recency": 0.9061,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1532,14 +1709,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8449,
-      "importance": 0.5792,
-      "importance_score": 0.8449,
+      "score": 0.8426,
+      "importance": 0.5768,
+      "importance_score": 0.8426,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.896,
+        "recency": 0.8838,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1554,65 +1731,6 @@
         "url": "https://www.hoteldive.com/news/sonesta-boyd-gaming-distribution-loyalty-strategic-affiliation/873701/",
         "source": "Hotel Dive",
         "source_name": "Hotel Dive"
-      }
-    },
-    {
-      "story_id": "story_e206b390665c",
-      "title": "Lodgco Hospitality Names New CEO and President",
-      "url": "https://lodgingmagazine.com/lodgco-hospitality-names-new-ceo-and-president/",
-      "primary_url": "https://lodgingmagazine.com/lodgco-hospitality-names-new-ceo-and-president/",
-      "source": "Lodging Magazine",
-      "source_name": "Lodging Magazine",
-      "sources": [
-        {
-          "id": "hotelitem_e206b390665c",
-          "title": "Lodgco Hospitality Names New CEO and President",
-          "url": "https://lodgingmagazine.com/lodgco-hospitality-names-new-ceo-and-president/",
-          "source": "Lodging Magazine",
-          "source_name": "Lodging Magazine",
-          "site_id": "lodgingmag",
-          "published_at": "2026-11-06T14:18:21Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Lodging Magazine"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_e206b390665c",
-          "title": "Lodgco Hospitality Names New CEO and President",
-          "url": "https://lodgingmagazine.com/lodgco-hospitality-names-new-ceo-and-president/",
-          "source": "Lodging Magazine",
-          "source_name": "Lodging Magazine",
-          "site_id": "lodgingmag",
-          "published_at": "2026-11-06T14:18:21Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8385,
-      "importance": 0.5881,
-      "importance_score": 0.8385,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9404,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-06T14:18:21Z",
-      "latest_at": "2026-11-06T14:18:21Z",
-      "primary_item": {
-        "id": "hotelitem_e206b390665c",
-        "title": "Lodgco Hospitality Names New CEO and President",
-        "url": "https://lodgingmagazine.com/lodgco-hospitality-names-new-ceo-and-president/",
-        "source": "Lodging Magazine",
-        "source_name": "Lodging Magazine"
       }
     },
     {
@@ -1650,14 +1768,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8363,
-      "importance": 0.5084,
-      "importance_score": 0.8363,
+      "score": 0.8327,
+      "importance": 0.506,
+      "importance_score": 0.8327,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.5422,
+        "recency": 0.5301,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1672,124 +1790,6 @@
         "url": "https://www.hotelmanagement.net/resource/built-compete-why-hotel-technology-infrastructure-new-business-imperative",
         "source": "Hotel Management",
         "source_name": "Hotel Management"
-      }
-    },
-    {
-      "story_id": "story_e6861caaa7de",
-      "title": "The Indigo Road Hospitality Group Adds The Central Station Hotel to Its Portfolio",
-      "url": "https://lodgingmagazine.com/the-indigo-road-hospitality-group-adds-the-central-station-hotel-to-its-portfolio/",
-      "primary_url": "https://lodgingmagazine.com/the-indigo-road-hospitality-group-adds-the-central-station-hotel-to-its-portfolio/",
-      "source": "Lodging Magazine",
-      "source_name": "Lodging Magazine",
-      "sources": [
-        {
-          "id": "hotelitem_e6861caaa7de",
-          "title": "The Indigo Road Hospitality Group Adds The Central Station Hotel to Its Portfolio",
-          "url": "https://lodgingmagazine.com/the-indigo-road-hospitality-group-adds-the-central-station-hotel-to-its-portfolio/",
-          "source": "Lodging Magazine",
-          "source_name": "Lodging Magazine",
-          "site_id": "lodgingmag",
-          "published_at": "2026-11-05T19:23:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Lodging Magazine"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_e6861caaa7de",
-          "title": "The Indigo Road Hospitality Group Adds The Central Station Hotel to Its Portfolio",
-          "url": "https://lodgingmagazine.com/the-indigo-road-hospitality-group-adds-the-central-station-hotel-to-its-portfolio/",
-          "source": "Lodging Magazine",
-          "source_name": "Lodging Magazine",
-          "site_id": "lodgingmag",
-          "published_at": "2026-11-05T19:23:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8351,
-      "importance": 0.5846,
-      "importance_score": 0.8351,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9228,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-05T19:23:00Z",
-      "latest_at": "2026-11-05T19:23:00Z",
-      "primary_item": {
-        "id": "hotelitem_e6861caaa7de",
-        "title": "The Indigo Road Hospitality Group Adds The Central Station Hotel to Its Portfolio",
-        "url": "https://lodgingmagazine.com/the-indigo-road-hospitality-group-adds-the-central-station-hotel-to-its-portfolio/",
-        "source": "Lodging Magazine",
-        "source_name": "Lodging Magazine"
-      }
-    },
-    {
-      "story_id": "story_e97bb3e385f3",
-      "title": "U.S. Travel Association Forecast Projects Drop in International Visitor Spending",
-      "url": "https://lodgingmagazine.com/u-s-travel-association-forecast-projects-drop-in-international-visitor-spending/",
-      "primary_url": "https://lodgingmagazine.com/u-s-travel-association-forecast-projects-drop-in-international-visitor-spending/",
-      "source": "Lodging Magazine",
-      "source_name": "Lodging Magazine",
-      "sources": [
-        {
-          "id": "hotelitem_e97bb3e385f3",
-          "title": "U.S. Travel Association Forecast Projects Drop in International Visitor Spending",
-          "url": "https://lodgingmagazine.com/u-s-travel-association-forecast-projects-drop-in-international-visitor-spending/",
-          "source": "Lodging Magazine",
-          "source_name": "Lodging Magazine",
-          "site_id": "lodgingmag",
-          "published_at": "2026-11-05T18:48:01Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Lodging Magazine"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_e97bb3e385f3",
-          "title": "U.S. Travel Association Forecast Projects Drop in International Visitor Spending",
-          "url": "https://lodgingmagazine.com/u-s-travel-association-forecast-projects-drop-in-international-visitor-spending/",
-          "source": "Lodging Magazine",
-          "source_name": "Lodging Magazine",
-          "site_id": "lodgingmag",
-          "published_at": "2026-11-05T18:48:01Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.835,
-      "importance": 0.5845,
-      "importance_score": 0.835,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9223,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-05T18:48:01Z",
-      "latest_at": "2026-11-05T18:48:01Z",
-      "primary_item": {
-        "id": "hotelitem_e97bb3e385f3",
-        "title": "U.S. Travel Association Forecast Projects Drop in International Visitor Spending",
-        "url": "https://lodgingmagazine.com/u-s-travel-association-forecast-projects-drop-in-international-visitor-spending/",
-        "source": "Lodging Magazine",
-        "source_name": "Lodging Magazine"
       }
     }
   ]
