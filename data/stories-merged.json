@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T22:10:59.916831Z",
+  "generated_at": "2026-11-09T06:43:18.033610Z",
   "window_hours": 1080,
   "total_stories": 30,
   "stories": [
@@ -39,13 +39,13 @@
       "item_count": 1,
       "duplicate_count": 1,
       "score": 1.0,
-      "importance": 0.5886,
+      "importance": 0.587,
       "importance_score": 1.0,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.943,
+        "recency": 0.9351,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -60,6 +60,124 @@
         "url": "https://www.pinchain.com/article/352736",
         "source": "品橙旅游",
         "source_name": "品橙旅游"
+      }
+    },
+    {
+      "story_id": "story_0abc503ddf48",
+      "title": "Eight Communications appointed to lead communications for Novotel Sunshine Coast Resort",
+      "url": "https://insights.ehotelier.com/global-news/2026/11/09/eight-communications-appointed-to-lead-communications-for-novotel-sunshine-coast-resort/?utm_source=rss&utm_medium=rss&utm_campaign=eight-communications-appointed-to-lead-communications-for-novotel-sunshine-coast-resort",
+      "primary_url": "https://insights.ehotelier.com/global-news/2026/11/09/eight-communications-appointed-to-lead-communications-for-novotel-sunshine-coast-resort/?utm_source=rss&utm_medium=rss&utm_campaign=eight-communications-appointed-to-lead-communications-for-novotel-sunshine-coast-resort",
+      "source": "eHotelier",
+      "source_name": "eHotelier",
+      "sources": [
+        {
+          "id": "hotelitem_0abc503ddf48",
+          "title": "Eight Communications appointed to lead communications for Novotel Sunshine Coast Resort",
+          "url": "https://insights.ehotelier.com/global-news/2026/11/09/eight-communications-appointed-to-lead-communications-for-novotel-sunshine-coast-resort/?utm_source=rss&utm_medium=rss&utm_campaign=eight-communications-appointed-to-lead-communications-for-novotel-sunshine-coast-resort",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-11-09T00:28:11Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "eHotelier"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_0abc503ddf48",
+          "title": "Eight Communications appointed to lead communications for Novotel Sunshine Coast Resort",
+          "url": "https://insights.ehotelier.com/global-news/2026/11/09/eight-communications-appointed-to-lead-communications-for-novotel-sunshine-coast-resort/?utm_source=rss&utm_medium=rss&utm_campaign=eight-communications-appointed-to-lead-communications-for-novotel-sunshine-coast-resort",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-11-09T00:28:11Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.9539,
+      "importance": 0.5988,
+      "importance_score": 0.9539,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9942,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-09T00:28:11Z",
+      "latest_at": "2026-11-09T00:28:11Z",
+      "primary_item": {
+        "id": "hotelitem_0abc503ddf48",
+        "title": "Eight Communications appointed to lead communications for Novotel Sunshine Coast Resort",
+        "url": "https://insights.ehotelier.com/global-news/2026/11/09/eight-communications-appointed-to-lead-communications-for-novotel-sunshine-coast-resort/?utm_source=rss&utm_medium=rss&utm_campaign=eight-communications-appointed-to-lead-communications-for-novotel-sunshine-coast-resort",
+        "source": "eHotelier",
+        "source_name": "eHotelier"
+      }
+    },
+    {
+      "story_id": "story_6440576eab38",
+      "title": "Fairfield by Marriott makes Thailand debut in Krabi’s Ao Nang District",
+      "url": "https://insights.ehotelier.com/properties/2026/11/09/fairfield-by-marriott-makes-thailand-debut-in-krabis-ao-nang-district/?utm_source=rss&utm_medium=rss&utm_campaign=fairfield-by-marriott-makes-thailand-debut-in-krabis-ao-nang-district",
+      "primary_url": "https://insights.ehotelier.com/properties/2026/11/09/fairfield-by-marriott-makes-thailand-debut-in-krabis-ao-nang-district/?utm_source=rss&utm_medium=rss&utm_campaign=fairfield-by-marriott-makes-thailand-debut-in-krabis-ao-nang-district",
+      "source": "eHotelier",
+      "source_name": "eHotelier",
+      "sources": [
+        {
+          "id": "hotelitem_6440576eab38",
+          "title": "Fairfield by Marriott makes Thailand debut in Krabi’s Ao Nang District",
+          "url": "https://insights.ehotelier.com/properties/2026/11/09/fairfield-by-marriott-makes-thailand-debut-in-krabis-ao-nang-district/?utm_source=rss&utm_medium=rss&utm_campaign=fairfield-by-marriott-makes-thailand-debut-in-krabis-ao-nang-district",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-11-09T00:15:50Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "eHotelier"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_6440576eab38",
+          "title": "Fairfield by Marriott makes Thailand debut in Krabi’s Ao Nang District",
+          "url": "https://insights.ehotelier.com/properties/2026/11/09/fairfield-by-marriott-makes-thailand-debut-in-krabis-ao-nang-district/?utm_source=rss&utm_medium=rss&utm_campaign=fairfield-by-marriott-makes-thailand-debut-in-krabis-ao-nang-district",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-11-09T00:15:50Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.9538,
+      "importance": 0.5988,
+      "importance_score": 0.9538,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.994,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-09T00:15:50Z",
+      "latest_at": "2026-11-09T00:15:50Z",
+      "primary_item": {
+        "id": "hotelitem_6440576eab38",
+        "title": "Fairfield by Marriott makes Thailand debut in Krabi’s Ao Nang District",
+        "url": "https://insights.ehotelier.com/properties/2026/11/09/fairfield-by-marriott-makes-thailand-debut-in-krabis-ao-nang-district/?utm_source=rss&utm_medium=rss&utm_campaign=fairfield-by-marriott-makes-thailand-debut-in-krabis-ao-nang-district",
+        "source": "eHotelier",
+        "source_name": "eHotelier"
       }
     },
     {
@@ -97,14 +215,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9461,
-      "importance": 0.5908,
-      "importance_score": 0.9461,
+      "score": 0.9446,
+      "importance": 0.5892,
+      "importance_score": 0.9446,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9538,
+        "recency": 0.9459,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -117,65 +235,6 @@
         "id": "hotelitem_e3feb7946c56",
         "title": "Host Hotels & Resorts buys 1 Hotel Brooklyn Bridge, Renaissance Plano",
         "url": "https://www.hoteldive.com/news/host-hotels-brooklyn-dallas-acquisitions/874044/",
-        "source": "Hotel Dive",
-        "source_name": "Hotel Dive"
-      }
-    },
-    {
-      "story_id": "story_95b47ce000d7",
-      "title": "Lodging Lowdown: Remington names CTO, Hersha sells Boston Hilton",
-      "url": "https://www.hoteldive.com/news/remington-names-cto-hersha-sells-boston-hilton/873978/",
-      "primary_url": "https://www.hoteldive.com/news/remington-names-cto-hersha-sells-boston-hilton/873978/",
-      "source": "Hotel Dive",
-      "source_name": "Hotel Dive",
-      "sources": [
-        {
-          "id": "hotelitem_95b47ce000d7",
-          "title": "Lodging Lowdown: Remington names CTO, Hersha sells Boston Hilton",
-          "url": "https://www.hoteldive.com/news/remington-names-cto-hersha-sells-boston-hilton/873978/",
-          "source": "Hotel Dive",
-          "source_name": "Hotel Dive",
-          "site_id": "hoteldive",
-          "published_at": "2026-11-06T14:30:17Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hotel Dive"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_95b47ce000d7",
-          "title": "Lodging Lowdown: Remington names CTO, Hersha sells Boston Hilton",
-          "url": "https://www.hoteldive.com/news/remington-names-cto-hersha-sells-boston-hilton/873978/",
-          "source": "Hotel Dive",
-          "source_name": "Hotel Dive",
-          "site_id": "hoteldive",
-          "published_at": "2026-11-06T14:30:17Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.9451,
-      "importance": 0.5897,
-      "importance_score": 0.9451,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9484,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-06T14:30:17Z",
-      "latest_at": "2026-11-06T14:30:17Z",
-      "primary_item": {
-        "id": "hotelitem_95b47ce000d7",
-        "title": "Lodging Lowdown: Remington names CTO, Hersha sells Boston Hilton",
-        "url": "https://www.hoteldive.com/news/remington-names-cto-hersha-sells-boston-hilton/873978/",
         "source": "Hotel Dive",
         "source_name": "Hotel Dive"
       }
@@ -215,14 +274,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9451,
-      "importance": 0.5898,
-      "importance_score": 0.9451,
+      "score": 0.9436,
+      "importance": 0.5882,
+      "importance_score": 0.9436,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9488,
+        "recency": 0.9409,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -240,62 +299,62 @@
       }
     },
     {
-      "story_id": "story_7a706deaf1f0",
-      "title": "Luxury Market Trends: Global growth, consumer shifts and industry outlook",
-      "url": "https://insights.ehotelier.com/insights/2026/11/06/luxury-market-trends-global-growth-consumer-shifts-and-industry-outlook/?utm_source=rss&utm_medium=rss&utm_campaign=luxury-market-trends-global-growth-consumer-shifts-and-industry-outlook",
-      "primary_url": "https://insights.ehotelier.com/insights/2026/11/06/luxury-market-trends-global-growth-consumer-shifts-and-industry-outlook/?utm_source=rss&utm_medium=rss&utm_campaign=luxury-market-trends-global-growth-consumer-shifts-and-industry-outlook",
-      "source": "eHotelier",
-      "source_name": "eHotelier",
+      "story_id": "story_95b47ce000d7",
+      "title": "Lodging Lowdown: Remington names CTO, Hersha sells Boston Hilton",
+      "url": "https://www.hoteldive.com/news/remington-names-cto-hersha-sells-boston-hilton/873978/",
+      "primary_url": "https://www.hoteldive.com/news/remington-names-cto-hersha-sells-boston-hilton/873978/",
+      "source": "Hotel Dive",
+      "source_name": "Hotel Dive",
       "sources": [
         {
-          "id": "hotelitem_7a706deaf1f0",
-          "title": "Luxury Market Trends: Global growth, consumer shifts and industry outlook",
-          "url": "https://insights.ehotelier.com/insights/2026/11/06/luxury-market-trends-global-growth-consumer-shifts-and-industry-outlook/?utm_source=rss&utm_medium=rss&utm_campaign=luxury-market-trends-global-growth-consumer-shifts-and-industry-outlook",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-11-06T01:05:29Z"
+          "id": "hotelitem_95b47ce000d7",
+          "title": "Lodging Lowdown: Remington names CTO, Hersha sells Boston Hilton",
+          "url": "https://www.hoteldive.com/news/remington-names-cto-hersha-sells-boston-hilton/873978/",
+          "source": "Hotel Dive",
+          "source_name": "Hotel Dive",
+          "site_id": "hoteldive",
+          "published_at": "2026-11-06T14:30:17Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "eHotelier"
+        "Hotel Dive"
       ],
       "items": [
         {
-          "id": "hotelitem_7a706deaf1f0",
-          "title": "Luxury Market Trends: Global growth, consumer shifts and industry outlook",
-          "url": "https://insights.ehotelier.com/insights/2026/11/06/luxury-market-trends-global-growth-consumer-shifts-and-industry-outlook/?utm_source=rss&utm_medium=rss&utm_campaign=luxury-market-trends-global-growth-consumer-shifts-and-industry-outlook",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-11-06T01:05:29Z"
+          "id": "hotelitem_95b47ce000d7",
+          "title": "Lodging Lowdown: Remington names CTO, Hersha sells Boston Hilton",
+          "url": "https://www.hoteldive.com/news/remington-names-cto-hersha-sells-boston-hilton/873978/",
+          "source": "Hotel Dive",
+          "source_name": "Hotel Dive",
+          "site_id": "hoteldive",
+          "published_at": "2026-11-06T14:30:17Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9427,
-      "importance": 0.5872,
-      "importance_score": 0.9427,
+      "score": 0.9435,
+      "importance": 0.5881,
+      "importance_score": 0.9435,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.936,
+        "recency": 0.9405,
         "story_heat": 0.0
       },
       "category": "watch",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-11-06T01:05:29Z",
-      "latest_at": "2026-11-06T01:05:29Z",
+      "earliest_at": "2026-11-06T14:30:17Z",
+      "latest_at": "2026-11-06T14:30:17Z",
       "primary_item": {
-        "id": "hotelitem_7a706deaf1f0",
-        "title": "Luxury Market Trends: Global growth, consumer shifts and industry outlook",
-        "url": "https://insights.ehotelier.com/insights/2026/11/06/luxury-market-trends-global-growth-consumer-shifts-and-industry-outlook/?utm_source=rss&utm_medium=rss&utm_campaign=luxury-market-trends-global-growth-consumer-shifts-and-industry-outlook",
-        "source": "eHotelier",
-        "source_name": "eHotelier"
+        "id": "hotelitem_95b47ce000d7",
+        "title": "Lodging Lowdown: Remington names CTO, Hersha sells Boston Hilton",
+        "url": "https://www.hoteldive.com/news/remington-names-cto-hersha-sells-boston-hilton/873978/",
+        "source": "Hotel Dive",
+        "source_name": "Hotel Dive"
       }
     },
     {
@@ -333,14 +392,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9426,
-      "importance": 0.5872,
-      "importance_score": 0.9426,
+      "score": 0.9411,
+      "importance": 0.5856,
+      "importance_score": 0.9411,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.936,
+        "recency": 0.928,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -358,21 +417,21 @@
       }
     },
     {
-      "story_id": "story_e2bd3374f5d6",
-      "title": "Beyond the Summits: The lasting power of IHG’s owners Assn.",
-      "url": "https://insights.ehotelier.com/global-news/2026/11/05/beyond-the-summits-the-lasting-power-of-ihgs-owners-assn/?utm_source=rss&utm_medium=rss&utm_campaign=beyond-the-summits-the-lasting-power-of-ihgs-owners-assn",
-      "primary_url": "https://insights.ehotelier.com/global-news/2026/11/05/beyond-the-summits-the-lasting-power-of-ihgs-owners-assn/?utm_source=rss&utm_medium=rss&utm_campaign=beyond-the-summits-the-lasting-power-of-ihgs-owners-assn",
+      "story_id": "story_7a706deaf1f0",
+      "title": "Luxury Market Trends: Global growth, consumer shifts and industry outlook",
+      "url": "https://insights.ehotelier.com/insights/2026/11/06/luxury-market-trends-global-growth-consumer-shifts-and-industry-outlook/?utm_source=rss&utm_medium=rss&utm_campaign=luxury-market-trends-global-growth-consumer-shifts-and-industry-outlook",
+      "primary_url": "https://insights.ehotelier.com/insights/2026/11/06/luxury-market-trends-global-growth-consumer-shifts-and-industry-outlook/?utm_source=rss&utm_medium=rss&utm_campaign=luxury-market-trends-global-growth-consumer-shifts-and-industry-outlook",
       "source": "eHotelier",
       "source_name": "eHotelier",
       "sources": [
         {
-          "id": "hotelitem_e2bd3374f5d6",
-          "title": "Beyond the Summits: The lasting power of IHG’s owners Assn.",
-          "url": "https://insights.ehotelier.com/global-news/2026/11/05/beyond-the-summits-the-lasting-power-of-ihgs-owners-assn/?utm_source=rss&utm_medium=rss&utm_campaign=beyond-the-summits-the-lasting-power-of-ihgs-owners-assn",
+          "id": "hotelitem_7a706deaf1f0",
+          "title": "Luxury Market Trends: Global growth, consumer shifts and industry outlook",
+          "url": "https://insights.ehotelier.com/insights/2026/11/06/luxury-market-trends-global-growth-consumer-shifts-and-industry-outlook/?utm_source=rss&utm_medium=rss&utm_campaign=luxury-market-trends-global-growth-consumer-shifts-and-industry-outlook",
           "source": "eHotelier",
           "source_name": "eHotelier",
           "site_id": "ehotelier",
-          "published_at": "2026-11-05T01:00:42Z"
+          "published_at": "2026-11-06T01:05:29Z"
         }
       ],
       "source_count": 1,
@@ -381,96 +440,37 @@
       ],
       "items": [
         {
-          "id": "hotelitem_e2bd3374f5d6",
-          "title": "Beyond the Summits: The lasting power of IHG’s owners Assn.",
-          "url": "https://insights.ehotelier.com/global-news/2026/11/05/beyond-the-summits-the-lasting-power-of-ihgs-owners-assn/?utm_source=rss&utm_medium=rss&utm_campaign=beyond-the-summits-the-lasting-power-of-ihgs-owners-assn",
+          "id": "hotelitem_7a706deaf1f0",
+          "title": "Luxury Market Trends: Global growth, consumer shifts and industry outlook",
+          "url": "https://insights.ehotelier.com/insights/2026/11/06/luxury-market-trends-global-growth-consumer-shifts-and-industry-outlook/?utm_source=rss&utm_medium=rss&utm_campaign=luxury-market-trends-global-growth-consumer-shifts-and-industry-outlook",
           "source": "eHotelier",
           "source_name": "eHotelier",
           "site_id": "ehotelier",
-          "published_at": "2026-11-05T01:00:42Z"
+          "published_at": "2026-11-06T01:05:29Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9384,
-      "importance": 0.5827,
-      "importance_score": 0.9384,
+      "score": 0.9411,
+      "importance": 0.5856,
+      "importance_score": 0.9411,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9137,
+        "recency": 0.9281,
         "story_heat": 0.0
       },
       "category": "watch",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-11-05T01:00:42Z",
-      "latest_at": "2026-11-05T01:00:42Z",
+      "earliest_at": "2026-11-06T01:05:29Z",
+      "latest_at": "2026-11-06T01:05:29Z",
       "primary_item": {
-        "id": "hotelitem_e2bd3374f5d6",
-        "title": "Beyond the Summits: The lasting power of IHG’s owners Assn.",
-        "url": "https://insights.ehotelier.com/global-news/2026/11/05/beyond-the-summits-the-lasting-power-of-ihgs-owners-assn/?utm_source=rss&utm_medium=rss&utm_campaign=beyond-the-summits-the-lasting-power-of-ihgs-owners-assn",
-        "source": "eHotelier",
-        "source_name": "eHotelier"
-      }
-    },
-    {
-      "story_id": "story_84e98a5e641f",
-      "title": "ibis budget Auckland Airport unveils refreshed guest experience following room refurbishment",
-      "url": "https://insights.ehotelier.com/global-news/2026/11/05/ibis-budget-auckland-airport-unveils-refreshed-guest-experience-following-room-refurbishment/?utm_source=rss&utm_medium=rss&utm_campaign=ibis-budget-auckland-airport-unveils-refreshed-guest-experience-following-room-refurbishment",
-      "primary_url": "https://insights.ehotelier.com/global-news/2026/11/05/ibis-budget-auckland-airport-unveils-refreshed-guest-experience-following-room-refurbishment/?utm_source=rss&utm_medium=rss&utm_campaign=ibis-budget-auckland-airport-unveils-refreshed-guest-experience-following-room-refurbishment",
-      "source": "eHotelier",
-      "source_name": "eHotelier",
-      "sources": [
-        {
-          "id": "hotelitem_84e98a5e641f",
-          "title": "ibis budget Auckland Airport unveils refreshed guest experience following room refurbishment",
-          "url": "https://insights.ehotelier.com/global-news/2026/11/05/ibis-budget-auckland-airport-unveils-refreshed-guest-experience-following-room-refurbishment/?utm_source=rss&utm_medium=rss&utm_campaign=ibis-budget-auckland-airport-unveils-refreshed-guest-experience-following-room-refurbishment",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-11-05T00:55:11Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "eHotelier"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_84e98a5e641f",
-          "title": "ibis budget Auckland Airport unveils refreshed guest experience following room refurbishment",
-          "url": "https://insights.ehotelier.com/global-news/2026/11/05/ibis-budget-auckland-airport-unveils-refreshed-guest-experience-following-room-refurbishment/?utm_source=rss&utm_medium=rss&utm_campaign=ibis-budget-auckland-airport-unveils-refreshed-guest-experience-following-room-refurbishment",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-11-05T00:55:11Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.9383,
-      "importance": 0.5827,
-      "importance_score": 0.9383,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9136,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-05T00:55:11Z",
-      "latest_at": "2026-11-05T00:55:11Z",
-      "primary_item": {
-        "id": "hotelitem_84e98a5e641f",
-        "title": "ibis budget Auckland Airport unveils refreshed guest experience following room refurbishment",
-        "url": "https://insights.ehotelier.com/global-news/2026/11/05/ibis-budget-auckland-airport-unveils-refreshed-guest-experience-following-room-refurbishment/?utm_source=rss&utm_medium=rss&utm_campaign=ibis-budget-auckland-airport-unveils-refreshed-guest-experience-following-room-refurbishment",
+        "id": "hotelitem_7a706deaf1f0",
+        "title": "Luxury Market Trends: Global growth, consumer shifts and industry outlook",
+        "url": "https://insights.ehotelier.com/insights/2026/11/06/luxury-market-trends-global-growth-consumer-shifts-and-industry-outlook/?utm_source=rss&utm_medium=rss&utm_campaign=luxury-market-trends-global-growth-consumer-shifts-and-industry-outlook",
         "source": "eHotelier",
         "source_name": "eHotelier"
       }
@@ -510,14 +510,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9322,
-      "importance": 0.5763,
-      "importance_score": 0.9322,
+      "score": 0.9306,
+      "importance": 0.5747,
+      "importance_score": 0.9306,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8816,
+        "recency": 0.8737,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -569,14 +569,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9304,
-      "importance": 0.59,
-      "importance_score": 0.9304,
+      "score": 0.9289,
+      "importance": 0.5885,
+      "importance_score": 0.9289,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9502,
+        "recency": 0.9423,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -628,14 +628,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9295,
-      "importance": 0.5891,
-      "importance_score": 0.9295,
+      "score": 0.928,
+      "importance": 0.5875,
+      "importance_score": 0.928,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9455,
+        "recency": 0.9376,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -687,14 +687,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9258,
-      "importance": 0.5853,
-      "importance_score": 0.9258,
+      "score": 0.9243,
+      "importance": 0.5837,
+      "importance_score": 0.9243,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9266,
+        "recency": 0.9187,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -746,14 +746,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9097,
-      "importance": 0.5584,
-      "importance_score": 0.9097,
+      "score": 0.9073,
+      "importance": 0.5569,
+      "importance_score": 0.9073,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.7922,
+        "recency": 0.7843,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -771,6 +771,65 @@
       }
     },
     {
+      "story_id": "story_c28542ed1358",
+      "title": "迪士尼酝酿数千人裁员，要求部分管理层削减20%成本",
+      "url": "https://www.traveldaily.cn/article/190962",
+      "primary_url": "https://www.traveldaily.cn/article/190962",
+      "source": "环球旅讯 TravelDaily",
+      "source_name": "环球旅讯 TravelDaily",
+      "sources": [
+        {
+          "id": "hotelitem_c28542ed1358",
+          "title": "迪士尼酝酿数千人裁员，要求部分管理层削减20%成本",
+          "url": "https://www.traveldaily.cn/article/190962",
+          "source": "环球旅讯 TravelDaily",
+          "source_name": "环球旅讯 TravelDaily",
+          "site_id": "traveldaily",
+          "published_at": "2026-11-05T10:16:15Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "环球旅讯 TravelDaily"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_c28542ed1358",
+          "title": "迪士尼酝酿数千人裁员，要求部分管理层削减20%成本",
+          "url": "https://www.traveldaily.cn/article/190962",
+          "source": "环球旅讯 TravelDaily",
+          "source_name": "环球旅讯 TravelDaily",
+          "site_id": "traveldaily",
+          "published_at": "2026-11-05T10:16:15Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.906,
+      "importance": 0.5829,
+      "importance_score": 0.906,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9144,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-05T10:16:15Z",
+      "latest_at": "2026-11-05T10:16:15Z",
+      "primary_item": {
+        "id": "hotelitem_c28542ed1358",
+        "title": "迪士尼酝酿数千人裁员，要求部分管理层削减20%成本",
+        "url": "https://www.traveldaily.cn/article/190962",
+        "source": "环球旅讯 TravelDaily",
+        "source_name": "环球旅讯 TravelDaily"
+      }
+    },
+    {
       "story_id": "story_06f191e24d38",
       "title": "文旅惠报|复星国际申请分拆Club Med在港上市；南京商旅上半年营收3.66亿元",
       "url": "https://www.tripvivid.com/47868.html",
@@ -785,7 +844,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-11-08T22:10:59.916831Z"
+          "published_at": "2026-11-09T06:43:18.033610Z"
         }
       ],
       "source_count": 1,
@@ -800,7 +859,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-11-08T22:10:59.916831Z"
+          "published_at": "2026-11-09T06:43:18.033610Z"
         }
       ],
       "item_count": 1,
@@ -819,8 +878,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-11-08T22:10:59.916831Z",
-      "latest_at": "2026-11-08T22:10:59.916831Z",
+      "earliest_at": "2026-11-09T06:43:18.033610Z",
+      "latest_at": "2026-11-09T06:43:18.033610Z",
       "primary_item": {
         "id": "hotelitem_06f191e24d38",
         "title": "文旅惠报|复星国际申请分拆Club Med在港上市；南京商旅上半年营收3.66亿元",
@@ -864,14 +923,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8981,
-      "importance": 0.5505,
-      "importance_score": 0.8981,
+      "score": 0.8957,
+      "importance": 0.5489,
+      "importance_score": 0.8957,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.7526,
+        "recency": 0.7447,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -886,6 +945,65 @@
         "url": "https://www.hotelmanagement.net/resource/profit-details-how-smarter-purchasing-boosting-hotel-margins",
         "source": "Hotel Management",
         "source_name": "Hotel Management"
+      }
+    },
+    {
+      "story_id": "story_0e670c42da53",
+      "title": "生态出海落子中亚，艺龙酒店科技阿拉木图出海品牌品鉴会圆满落幕",
+      "url": "https://www.traveldaily.cn/article/190974",
+      "primary_url": "https://www.traveldaily.cn/article/190974",
+      "source": "环球旅讯 TravelDaily",
+      "source_name": "环球旅讯 TravelDaily",
+      "sources": [
+        {
+          "id": "hotelitem_0e670c42da53",
+          "title": "生态出海落子中亚，艺龙酒店科技阿拉木图出海品牌品鉴会圆满落幕",
+          "url": "https://www.traveldaily.cn/article/190974",
+          "source": "环球旅讯 TravelDaily",
+          "source_name": "环球旅讯 TravelDaily",
+          "site_id": "traveldaily",
+          "published_at": "2026-11-09T11:09:07Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "环球旅讯 TravelDaily"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_0e670c42da53",
+          "title": "生态出海落子中亚，艺龙酒店科技阿拉木图出海品牌品鉴会圆满落幕",
+          "url": "https://www.traveldaily.cn/article/190974",
+          "source": "环球旅讯 TravelDaily",
+          "source_name": "环球旅讯 TravelDaily",
+          "site_id": "traveldaily",
+          "published_at": "2026-11-09T11:09:07Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8775,
+      "importance": 0.6,
+      "importance_score": 0.8775,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-09T11:09:07Z",
+      "latest_at": "2026-11-09T11:09:07Z",
+      "primary_item": {
+        "id": "hotelitem_0e670c42da53",
+        "title": "生态出海落子中亚，艺龙酒店科技阿拉木图出海品牌品鉴会圆满落幕",
+        "url": "https://www.traveldaily.cn/article/190974",
+        "source": "环球旅讯 TravelDaily",
+        "source_name": "环球旅讯 TravelDaily"
       }
     },
     {
@@ -923,14 +1041,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8771,
-      "importance": 0.5918,
-      "importance_score": 0.8771,
+      "score": 0.8755,
+      "importance": 0.5902,
+      "importance_score": 0.8755,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9588,
+        "recency": 0.9509,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -948,6 +1066,65 @@
       }
     },
     {
+      "story_id": "story_44b3d6a9e1b4",
+      "title": "OUTRIGGER Khao Lak Beach Resort’s Khao Lak-Born General Manager brings local insight to every stay",
+      "url": "https://insights.ehotelier.com/global-news/2026/11/09/outrigger-khao-lak-beach-resorts-khao-lak-born-general-manager-brings-local-insight-to-every-stay/?utm_source=rss&utm_medium=rss&utm_campaign=outrigger-khao-lak-beach-resorts-khao-lak-born-general-manager-brings-local-insight-to-every-stay",
+      "primary_url": "https://insights.ehotelier.com/global-news/2026/11/09/outrigger-khao-lak-beach-resorts-khao-lak-born-general-manager-brings-local-insight-to-every-stay/?utm_source=rss&utm_medium=rss&utm_campaign=outrigger-khao-lak-beach-resorts-khao-lak-born-general-manager-brings-local-insight-to-every-stay",
+      "source": "eHotelier",
+      "source_name": "eHotelier",
+      "sources": [
+        {
+          "id": "hotelitem_44b3d6a9e1b4",
+          "title": "OUTRIGGER Khao Lak Beach Resort’s Khao Lak-Born General Manager brings local insight to every stay",
+          "url": "https://insights.ehotelier.com/global-news/2026/11/09/outrigger-khao-lak-beach-resorts-khao-lak-born-general-manager-brings-local-insight-to-every-stay/?utm_source=rss&utm_medium=rss&utm_campaign=outrigger-khao-lak-beach-resorts-khao-lak-born-general-manager-brings-local-insight-to-every-stay",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-11-09T00:32:05Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "eHotelier"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_44b3d6a9e1b4",
+          "title": "OUTRIGGER Khao Lak Beach Resort’s Khao Lak-Born General Manager brings local insight to every stay",
+          "url": "https://insights.ehotelier.com/global-news/2026/11/09/outrigger-khao-lak-beach-resorts-khao-lak-born-general-manager-brings-local-insight-to-every-stay/?utm_source=rss&utm_medium=rss&utm_campaign=outrigger-khao-lak-beach-resorts-khao-lak-born-general-manager-brings-local-insight-to-every-stay",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-11-09T00:32:05Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8639,
+      "importance": 0.5989,
+      "importance_score": 0.8639,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9943,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-09T00:32:05Z",
+      "latest_at": "2026-11-09T00:32:05Z",
+      "primary_item": {
+        "id": "hotelitem_44b3d6a9e1b4",
+        "title": "OUTRIGGER Khao Lak Beach Resort’s Khao Lak-Born General Manager brings local insight to every stay",
+        "url": "https://insights.ehotelier.com/global-news/2026/11/09/outrigger-khao-lak-beach-resorts-khao-lak-born-general-manager-brings-local-insight-to-every-stay/?utm_source=rss&utm_medium=rss&utm_campaign=outrigger-khao-lak-beach-resorts-khao-lak-born-general-manager-brings-local-insight-to-every-stay",
+        "source": "eHotelier",
+        "source_name": "eHotelier"
+      }
+    },
+    {
       "story_id": "story_c7c15b7680c9",
       "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
       "url": "https://www.chinahotel.org.cn/articles/17408",
@@ -962,7 +1139,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-11-08T22:10:59.916831Z"
+          "published_at": "2026-11-09T06:43:18.033610Z"
         },
         {
           "id": "hotelitem_c7c15b7680c9",
@@ -971,7 +1148,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-11-08T22:10:59.916831Z"
+          "published_at": "2026-11-09T06:43:18.033610Z"
         }
       ],
       "source_count": 2,
@@ -986,7 +1163,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-11-08T22:10:59.916831Z"
+          "published_at": "2026-11-09T06:43:18.033610Z"
         },
         {
           "id": "hotelitem_c7c15b7680c9",
@@ -995,7 +1172,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-11-08T22:10:59.916831Z"
+          "published_at": "2026-11-09T06:43:18.033610Z"
         }
       ],
       "item_count": 2,
@@ -1015,8 +1192,8 @@
         "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-11-08T22:10:59.916831Z",
-      "latest_at": "2026-11-08T22:10:59.916831Z",
+      "earliest_at": "2026-11-09T06:43:18.033610Z",
+      "latest_at": "2026-11-09T06:43:18.033610Z",
       "primary_item": {
         "id": "hotelitem_d4370964909c",
         "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
@@ -1026,21 +1203,21 @@
       }
     },
     {
-      "story_id": "story_7aec2838175b",
-      "title": "希尔顿集团在纳斯达克上市",
-      "url": "https://www.meadin.com/jd/303798.html",
-      "primary_url": "https://www.meadin.com/jd/303798.html",
+      "story_id": "story_747a40d2c6d5",
+      "title": "凯撒旅业控股股东拟增持5000万元至6000万元",
+      "url": "https://www.meadin.com/wl/303775.html",
+      "primary_url": "https://www.meadin.com/wl/303775.html",
       "source": "迈点研究院",
       "source_name": "迈点研究院",
       "sources": [
         {
-          "id": "hotelitem_7aec2838175b",
-          "title": "希尔顿集团在纳斯达克上市",
-          "url": "https://www.meadin.com/jd/303798.html",
+          "id": "hotelitem_747a40d2c6d5",
+          "title": "凯撒旅业控股股东拟增持5000万元至6000万元",
+          "url": "https://www.meadin.com/wl/303775.html",
           "source": "迈点研究院",
           "source_name": "迈点研究院",
           "site_id": "meadin",
-          "published_at": "2026-11-08T22:10:59.916831Z"
+          "published_at": "2026-11-09T06:43:18.033610Z"
         }
       ],
       "source_count": 1,
@@ -1049,13 +1226,13 @@
       ],
       "items": [
         {
-          "id": "hotelitem_7aec2838175b",
-          "title": "希尔顿集团在纳斯达克上市",
-          "url": "https://www.meadin.com/jd/303798.html",
+          "id": "hotelitem_747a40d2c6d5",
+          "title": "凯撒旅业控股股东拟增持5000万元至6000万元",
+          "url": "https://www.meadin.com/wl/303775.html",
           "source": "迈点研究院",
           "source_name": "迈点研究院",
           "site_id": "meadin",
-          "published_at": "2026-11-08T22:10:59.916831Z"
+          "published_at": "2026-11-09T06:43:18.033610Z"
         }
       ],
       "item_count": 1,
@@ -1074,12 +1251,71 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-11-08T22:10:59.916831Z",
-      "latest_at": "2026-11-08T22:10:59.916831Z",
+      "earliest_at": "2026-11-09T06:43:18.033610Z",
+      "latest_at": "2026-11-09T06:43:18.033610Z",
       "primary_item": {
-        "id": "hotelitem_7aec2838175b",
-        "title": "希尔顿集团在纳斯达克上市",
-        "url": "https://www.meadin.com/jd/303798.html",
+        "id": "hotelitem_747a40d2c6d5",
+        "title": "凯撒旅业控股股东拟增持5000万元至6000万元",
+        "url": "https://www.meadin.com/wl/303775.html",
+        "source": "迈点研究院",
+        "source_name": "迈点研究院"
+      }
+    },
+    {
+      "story_id": "story_949caeb884a9",
+      "title": "爱彼迎Q3营收48.7亿美元 同比增长19%",
+      "url": "https://www.meadin.com/wl/303769.html",
+      "primary_url": "https://www.meadin.com/wl/303769.html",
+      "source": "迈点研究院",
+      "source_name": "迈点研究院",
+      "sources": [
+        {
+          "id": "hotelitem_949caeb884a9",
+          "title": "爱彼迎Q3营收48.7亿美元 同比增长19%",
+          "url": "https://www.meadin.com/wl/303769.html",
+          "source": "迈点研究院",
+          "source_name": "迈点研究院",
+          "site_id": "meadin",
+          "published_at": "2026-11-09T06:43:18.033610Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "迈点研究院"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_949caeb884a9",
+          "title": "爱彼迎Q3营收48.7亿美元 同比增长19%",
+          "url": "https://www.meadin.com/wl/303769.html",
+          "source": "迈点研究院",
+          "source_name": "迈点研究院",
+          "site_id": "meadin",
+          "published_at": "2026-11-09T06:43:18.033610Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.86,
+      "importance": 0.6,
+      "importance_score": 0.86,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-09T06:43:18.033610Z",
+      "latest_at": "2026-11-09T06:43:18.033610Z",
+      "primary_item": {
+        "id": "hotelitem_949caeb884a9",
+        "title": "爱彼迎Q3营收48.7亿美元 同比增长19%",
+        "url": "https://www.meadin.com/wl/303769.html",
         "source": "迈点研究院",
         "source_name": "迈点研究院"
       }
@@ -1099,7 +1335,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-11-08T22:10:59.916831Z"
+          "published_at": "2026-11-09T06:43:18.033610Z"
         }
       ],
       "source_count": 1,
@@ -1114,7 +1350,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-11-08T22:10:59.916831Z"
+          "published_at": "2026-11-09T06:43:18.033610Z"
         }
       ],
       "item_count": 1,
@@ -1133,8 +1369,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-11-08T22:10:59.916831Z",
-      "latest_at": "2026-11-08T22:10:59.916831Z",
+      "earliest_at": "2026-11-09T06:43:18.033610Z",
+      "latest_at": "2026-11-09T06:43:18.033610Z",
       "primary_item": {
         "id": "hotelitem_e4ce0593c384",
         "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
@@ -1158,7 +1394,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-11-08T22:10:59.916831Z"
+          "published_at": "2026-11-09T06:43:18.033610Z"
         }
       ],
       "source_count": 1,
@@ -1173,7 +1409,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-11-08T22:10:59.916831Z"
+          "published_at": "2026-11-09T06:43:18.033610Z"
         }
       ],
       "item_count": 1,
@@ -1192,8 +1428,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-11-08T22:10:59.916831Z",
-      "latest_at": "2026-11-08T22:10:59.916831Z",
+      "earliest_at": "2026-11-09T06:43:18.033610Z",
+      "latest_at": "2026-11-09T06:43:18.033610Z",
       "primary_item": {
         "id": "hotelitem_4adba65c20e7",
         "title": "文化和旅游部党组召开会议坚决拥护党中央对...",
@@ -1237,14 +1473,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8508,
-      "importance": 0.5852,
-      "importance_score": 0.8508,
+      "score": 0.8492,
+      "importance": 0.5837,
+      "importance_score": 0.8492,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9262,
+        "recency": 0.9183,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1296,14 +1532,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8465,
-      "importance": 0.5808,
-      "importance_score": 0.8465,
+      "score": 0.8449,
+      "importance": 0.5792,
+      "importance_score": 0.8449,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9039,
+        "recency": 0.896,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1355,14 +1591,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.84,
-      "importance": 0.5897,
-      "importance_score": 0.84,
+      "score": 0.8385,
+      "importance": 0.5881,
+      "importance_score": 0.8385,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9483,
+        "recency": 0.9404,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1414,14 +1650,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8386,
-      "importance": 0.51,
-      "importance_score": 0.8386,
+      "score": 0.8363,
+      "importance": 0.5084,
+      "importance_score": 0.8363,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.5502,
+        "recency": 0.5422,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1473,14 +1709,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8366,
-      "importance": 0.5861,
-      "importance_score": 0.8366,
+      "score": 0.8351,
+      "importance": 0.5846,
+      "importance_score": 0.8351,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9307,
+        "recency": 0.9228,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1532,14 +1768,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8365,
-      "importance": 0.586,
-      "importance_score": 0.8365,
+      "score": 0.835,
+      "importance": 0.5845,
+      "importance_score": 0.835,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9302,
+        "recency": 0.9223,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1554,279 +1790,6 @@
         "url": "https://lodgingmagazine.com/u-s-travel-association-forecast-projects-drop-in-international-visitor-spending/",
         "source": "Lodging Magazine",
         "source_name": "Lodging Magazine"
-      }
-    },
-    {
-      "story_id": "story_dbff0287a152",
-      "title": "CoStar: U.S. Hotel Industry Again Reports Positive Year-Over-Year Comparisons",
-      "url": "https://lodgingmagazine.com/costar-u-s-hotel-industry-again-reports-positive-year-over-year-comparisons-november-5/",
-      "primary_url": "https://lodgingmagazine.com/costar-u-s-hotel-industry-again-reports-positive-year-over-year-comparisons-november-5/",
-      "source": "Lodging Magazine",
-      "source_name": "Lodging Magazine",
-      "sources": [
-        {
-          "id": "hotelitem_dbff0287a152",
-          "title": "CoStar: U.S. Hotel Industry Again Reports Positive Year-Over-Year Comparisons",
-          "url": "https://lodgingmagazine.com/costar-u-s-hotel-industry-again-reports-positive-year-over-year-comparisons-november-5/",
-          "source": "Lodging Magazine",
-          "source_name": "Lodging Magazine",
-          "site_id": "lodgingmag",
-          "published_at": "2026-11-05T15:11:45Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Lodging Magazine"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_dbff0287a152",
-          "title": "CoStar: U.S. Hotel Industry Again Reports Positive Year-Over-Year Comparisons",
-          "url": "https://lodgingmagazine.com/costar-u-s-hotel-industry-again-reports-positive-year-over-year-comparisons-november-5/",
-          "source": "Lodging Magazine",
-          "source_name": "Lodging Magazine",
-          "site_id": "lodgingmag",
-          "published_at": "2026-11-05T15:11:45Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8359,
-      "importance": 0.5854,
-      "importance_score": 0.8359,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9269,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-05T15:11:45Z",
-      "latest_at": "2026-11-05T15:11:45Z",
-      "primary_item": {
-        "id": "hotelitem_dbff0287a152",
-        "title": "CoStar: U.S. Hotel Industry Again Reports Positive Year-Over-Year Comparisons",
-        "url": "https://lodgingmagazine.com/costar-u-s-hotel-industry-again-reports-positive-year-over-year-comparisons-november-5/",
-        "source": "Lodging Magazine",
-        "source_name": "Lodging Magazine"
-      }
-    },
-    {
-      "story_id": "story_42beb5feb6a7",
-      "title": "The Laslett appoints leadership team as hotel enters 11th year",
-      "url": "https://boutiquehotelnews.com/news/movers-and-shakers/the-laslett-leadership-team/?utm_source=rss&utm_medium=rss&utm_campaign=the-laslett-leadership-team",
-      "primary_url": "https://boutiquehotelnews.com/news/movers-and-shakers/the-laslett-leadership-team/?utm_source=rss&utm_medium=rss&utm_campaign=the-laslett-leadership-team",
-      "source": "Boutique Hotel News",
-      "source_name": "Boutique Hotel News",
-      "sources": [
-        {
-          "id": "hotelitem_42beb5feb6a7",
-          "title": "The Laslett appoints leadership team as hotel enters 11th year",
-          "url": "https://boutiquehotelnews.com/news/movers-and-shakers/the-laslett-leadership-team/?utm_source=rss&utm_medium=rss&utm_campaign=the-laslett-leadership-team",
-          "source": "Boutique Hotel News",
-          "source_name": "Boutique Hotel News",
-          "site_id": "boutiquehotel",
-          "published_at": "2026-11-04T12:22:08Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Boutique Hotel News"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_42beb5feb6a7",
-          "title": "The Laslett appoints leadership team as hotel enters 11th year",
-          "url": "https://boutiquehotelnews.com/news/movers-and-shakers/the-laslett-leadership-team/?utm_source=rss&utm_medium=rss&utm_campaign=the-laslett-leadership-team",
-          "source": "Boutique Hotel News",
-          "source_name": "Boutique Hotel News",
-          "site_id": "boutiquehotel",
-          "published_at": "2026-11-04T12:22:08Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8311,
-      "importance": 0.5804,
-      "importance_score": 0.8311,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.902,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-04T12:22:08Z",
-      "latest_at": "2026-11-04T12:22:08Z",
-      "primary_item": {
-        "id": "hotelitem_42beb5feb6a7",
-        "title": "The Laslett appoints leadership team as hotel enters 11th year",
-        "url": "https://boutiquehotelnews.com/news/movers-and-shakers/the-laslett-leadership-team/?utm_source=rss&utm_medium=rss&utm_campaign=the-laslett-leadership-team",
-        "source": "Boutique Hotel News",
-        "source_name": "Boutique Hotel News"
-      }
-    },
-    {
-      "story_id": "story_932f7d05dfd7",
-      "title": "TripAdvisor 披露:8-K/A [Amend]  - Current report",
-      "url": "https://www.sec.gov/Archives/edgar/data/1526520/000119312526448572/0001193125-26-448572-index.htm",
-      "primary_url": "https://www.sec.gov/Archives/edgar/data/1526520/000119312526448572/0001193125-26-448572-index.htm",
-      "source": "TripAdvisor",
-      "source_name": "TripAdvisor",
-      "sources": [
-        {
-          "id": "hotelitem_446ba7dd3274",
-          "title": "TripAdvisor 披露:8-K/A [Amend]  - Current report",
-          "url": "https://www.sec.gov/Archives/edgar/data/1526520/000119312526448572/0001193125-26-448572-index.htm",
-          "source": "TripAdvisor",
-          "source_name": "TripAdvisor",
-          "site_id": "tripadvisor_sec",
-          "published_at": "2026-11-05T12:15:14Z"
-        },
-        {
-          "id": "hotelitem_165b3bc87a01",
-          "title": "TripAdvisor 披露:8-K  - Current report",
-          "url": "https://www.sec.gov/Archives/edgar/data/1526520/000119312526448560/0001193125-26-448560-index.htm",
-          "source": "TripAdvisor",
-          "source_name": "TripAdvisor",
-          "site_id": "tripadvisor_sec",
-          "published_at": "2026-11-05T12:10:07Z"
-        },
-        {
-          "id": "hotelitem_932f7d05dfd7",
-          "title": "TripAdvisor 披露:8-K  - Current report",
-          "url": "https://www.sec.gov/Archives/edgar/data/1526520/000119312526448538/0001193125-26-448538-index.htm",
-          "source": "TripAdvisor",
-          "source_name": "TripAdvisor",
-          "site_id": "tripadvisor_sec",
-          "published_at": "2026-11-05T12:06:14Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "TripAdvisor"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_446ba7dd3274",
-          "title": "TripAdvisor 披露:8-K/A [Amend]  - Current report",
-          "url": "https://www.sec.gov/Archives/edgar/data/1526520/000119312526448572/0001193125-26-448572-index.htm",
-          "source": "TripAdvisor",
-          "source_name": "TripAdvisor",
-          "site_id": "tripadvisor_sec",
-          "published_at": "2026-11-05T12:15:14Z"
-        },
-        {
-          "id": "hotelitem_165b3bc87a01",
-          "title": "TripAdvisor 披露:8-K  - Current report",
-          "url": "https://www.sec.gov/Archives/edgar/data/1526520/000119312526448560/0001193125-26-448560-index.htm",
-          "source": "TripAdvisor",
-          "source_name": "TripAdvisor",
-          "site_id": "tripadvisor_sec",
-          "published_at": "2026-11-05T12:10:07Z"
-        },
-        {
-          "id": "hotelitem_932f7d05dfd7",
-          "title": "TripAdvisor 披露:8-K  - Current report",
-          "url": "https://www.sec.gov/Archives/edgar/data/1526520/000119312526448538/0001193125-26-448538-index.htm",
-          "source": "TripAdvisor",
-          "source_name": "TripAdvisor",
-          "site_id": "tripadvisor_sec",
-          "published_at": "2026-11-05T12:06:14Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.8154,
-      "importance": 0.6348,
-      "importance_score": 0.8154,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9241,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-05T12:06:14Z",
-      "latest_at": "2026-11-05T12:15:14Z",
-      "primary_item": {
-        "id": "hotelitem_446ba7dd3274",
-        "title": "TripAdvisor 披露:8-K/A [Amend]  - Current report",
-        "url": "https://www.sec.gov/Archives/edgar/data/1526520/000119312526448572/0001193125-26-448572-index.htm",
-        "source": "TripAdvisor",
-        "source_name": "TripAdvisor"
-      }
-    },
-    {
-      "story_id": "story_84b7aa6b44f3",
-      "title": "Agoda Helps Fans Get to Eurovision Song Cont ... Agoda, the Official Travel Partner of Eurovision Song Contest Asia, is getting fans to the first-ever  ... November 4, 2026 / Travel Trends",
-      "url": "https://www.agoda.com/press/agoda-helps-fans-get-to-eurovision-song-contest-asias-first-grand-final-in-bangkok/",
-      "primary_url": "https://www.agoda.com/press/agoda-helps-fans-get-to-eurovision-song-contest-asias-first-grand-final-in-bangkok/",
-      "source": "Agoda",
-      "source_name": "Agoda",
-      "sources": [
-        {
-          "id": "hotelitem_84b7aa6b44f3",
-          "title": "Agoda Helps Fans Get to Eurovision Song Cont ... Agoda, the Official Travel Partner of Eurovision Song Contest Asia, is getting fans to the first-ever  ... November 4, 2026 / Travel Trends",
-          "url": "https://www.agoda.com/press/agoda-helps-fans-get-to-eurovision-song-contest-asias-first-grand-final-in-bangkok/",
-          "source": "Agoda",
-          "source_name": "Agoda",
-          "site_id": "agoda_press",
-          "published_at": "2026-11-08T22:10:59.916831Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Agoda"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_84b7aa6b44f3",
-          "title": "Agoda Helps Fans Get to Eurovision Song Cont ... Agoda, the Official Travel Partner of Eurovision Song Contest Asia, is getting fans to the first-ever  ... November 4, 2026 / Travel Trends",
-          "url": "https://www.agoda.com/press/agoda-helps-fans-get-to-eurovision-song-contest-asias-first-grand-final-in-bangkok/",
-          "source": "Agoda",
-          "source_name": "Agoda",
-          "site_id": "agoda_press",
-          "published_at": "2026-11-08T22:10:59.916831Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8125,
-      "importance": 0.6,
-      "importance_score": 0.8125,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-08T22:10:59.916831Z",
-      "latest_at": "2026-11-08T22:10:59.916831Z",
-      "primary_item": {
-        "id": "hotelitem_84b7aa6b44f3",
-        "title": "Agoda Helps Fans Get to Eurovision Song Cont ... Agoda, the Official Travel Partner of Eurovision Song Contest Asia, is getting fans to the first-ever  ... November 4, 2026 / Travel Trends",
-        "url": "https://www.agoda.com/press/agoda-helps-fans-get-to-eurovision-song-contest-asias-first-grand-final-in-bangkok/",
-        "source": "Agoda",
-        "source_name": "Agoda"
       }
     }
   ]
