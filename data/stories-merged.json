@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T14:57:35.506142Z",
+  "generated_at": "2026-11-10T21:19:01.141555Z",
   "window_hours": 1080,
   "total_stories": 30,
   "stories": [
@@ -57,13 +57,13 @@
       "item_count": 2,
       "duplicate_count": 2,
       "score": 1.0,
-      "importance": 0.6248,
+      "importance": 0.6236,
       "importance_score": 1.0,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9988,
+        "recency": 0.9929,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -79,6 +79,183 @@
         "url": "https://insights.ehotelier.com/uncategorised/2026/11/11/why-technical-seo-still-matters-for-growing-websites-2/?utm_source=rss&utm_medium=rss&utm_campaign=why-technical-seo-still-matters-for-growing-websites-2",
         "source": "eHotelier",
         "source_name": "eHotelier"
+      }
+    },
+    {
+      "story_id": "story_f63a02b580ef",
+      "title": "Accor, Hard Rock enter partnership on loyalty, distribution",
+      "url": "https://www.hoteldive.com/news/accor-hard-rock-enter-partnership-loyalty-distribution/874251/",
+      "primary_url": "https://www.hoteldive.com/news/accor-hard-rock-enter-partnership-loyalty-distribution/874251/",
+      "source": "Hotel Dive",
+      "source_name": "Hotel Dive",
+      "sources": [
+        {
+          "id": "hotelitem_f63a02b580ef",
+          "title": "Accor, Hard Rock enter partnership on loyalty, distribution",
+          "url": "https://www.hoteldive.com/news/accor-hard-rock-enter-partnership-loyalty-distribution/874251/",
+          "source": "Hotel Dive",
+          "source_name": "Hotel Dive",
+          "site_id": "hoteldive",
+          "published_at": "2026-11-10T15:21:56Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hotel Dive"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_f63a02b580ef",
+          "title": "Accor, Hard Rock enter partnership on loyalty, distribution",
+          "url": "https://www.hoteldive.com/news/accor-hard-rock-enter-partnership-loyalty-distribution/874251/",
+          "source": "Hotel Dive",
+          "source_name": "Hotel Dive",
+          "site_id": "hoteldive",
+          "published_at": "2026-11-10T15:21:56Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.9539,
+      "importance": 0.5989,
+      "importance_score": 0.9539,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9945,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-10T15:21:56Z",
+      "latest_at": "2026-11-10T15:21:56Z",
+      "primary_item": {
+        "id": "hotelitem_f63a02b580ef",
+        "title": "Accor, Hard Rock enter partnership on loyalty, distribution",
+        "url": "https://www.hoteldive.com/news/accor-hard-rock-enter-partnership-loyalty-distribution/874251/",
+        "source": "Hotel Dive",
+        "source_name": "Hotel Dive"
+      }
+    },
+    {
+      "story_id": "story_2eba575cf757",
+      "title": "The Multigenerational Lobby: Designing an Experience That Resonates With Guests of All Ages",
+      "url": "https://lodgingmagazine.com/the-multigenerational-lobby-designing-an-experience-that-resonates-with-guests-of-all-ages/",
+      "primary_url": "https://lodgingmagazine.com/the-multigenerational-lobby-designing-an-experience-that-resonates-with-guests-of-all-ages/",
+      "source": "Lodging Magazine",
+      "source_name": "Lodging Magazine",
+      "sources": [
+        {
+          "id": "hotelitem_2eba575cf757",
+          "title": "The Multigenerational Lobby: Designing an Experience That Resonates With Guests of All Ages",
+          "url": "https://lodgingmagazine.com/the-multigenerational-lobby-designing-an-experience-that-resonates-with-guests-of-all-ages/",
+          "source": "Lodging Magazine",
+          "source_name": "Lodging Magazine",
+          "site_id": "lodgingmag",
+          "published_at": "2026-11-10T17:35:29Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Lodging Magazine"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_2eba575cf757",
+          "title": "The Multigenerational Lobby: Designing an Experience That Resonates With Guests of All Ages",
+          "url": "https://lodgingmagazine.com/the-multigenerational-lobby-designing-an-experience-that-resonates-with-guests-of-all-ages/",
+          "source": "Lodging Magazine",
+          "source_name": "Lodging Magazine",
+          "site_id": "lodgingmag",
+          "published_at": "2026-11-10T17:35:29Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.9393,
+      "importance": 0.5993,
+      "importance_score": 0.9393,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9966,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-10T17:35:29Z",
+      "latest_at": "2026-11-10T17:35:29Z",
+      "primary_item": {
+        "id": "hotelitem_2eba575cf757",
+        "title": "The Multigenerational Lobby: Designing an Experience That Resonates With Guests of All Ages",
+        "url": "https://lodgingmagazine.com/the-multigenerational-lobby-designing-an-experience-that-resonates-with-guests-of-all-ages/",
+        "source": "Lodging Magazine",
+        "source_name": "Lodging Magazine"
+      }
+    },
+    {
+      "story_id": "story_5fb9014aeddc",
+      "title": "Arriba Capital Arranges Construction Loan for Marriott Hotel in Knoxville, Tennessee",
+      "url": "https://lodgingmagazine.com/arriba-capital-arranges-construction-loan-for-marriott-hotel-in-knoxville-tennessee/",
+      "primary_url": "https://lodgingmagazine.com/arriba-capital-arranges-construction-loan-for-marriott-hotel-in-knoxville-tennessee/",
+      "source": "Lodging Magazine",
+      "source_name": "Lodging Magazine",
+      "sources": [
+        {
+          "id": "hotelitem_5fb9014aeddc",
+          "title": "Arriba Capital Arranges Construction Loan for Marriott Hotel in Knoxville, Tennessee",
+          "url": "https://lodgingmagazine.com/arriba-capital-arranges-construction-loan-for-marriott-hotel-in-knoxville-tennessee/",
+          "source": "Lodging Magazine",
+          "source_name": "Lodging Magazine",
+          "site_id": "lodgingmag",
+          "published_at": "2026-11-10T16:53:18Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Lodging Magazine"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_5fb9014aeddc",
+          "title": "Arriba Capital Arranges Construction Loan for Marriott Hotel in Knoxville, Tennessee",
+          "url": "https://lodgingmagazine.com/arriba-capital-arranges-construction-loan-for-marriott-hotel-in-knoxville-tennessee/",
+          "source": "Lodging Magazine",
+          "source_name": "Lodging Magazine",
+          "site_id": "lodgingmag",
+          "published_at": "2026-11-10T16:53:18Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.9392,
+      "importance": 0.5992,
+      "importance_score": 0.9392,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9959,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-10T16:53:18Z",
+      "latest_at": "2026-11-10T16:53:18Z",
+      "primary_item": {
+        "id": "hotelitem_5fb9014aeddc",
+        "title": "Arriba Capital Arranges Construction Loan for Marriott Hotel in Knoxville, Tennessee",
+        "url": "https://lodgingmagazine.com/arriba-capital-arranges-construction-loan-for-marriott-hotel-in-knoxville-tennessee/",
+        "source": "Lodging Magazine",
+        "source_name": "Lodging Magazine"
       }
     },
     {
@@ -116,14 +293,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9392,
-      "importance": 0.5992,
-      "importance_score": 0.9392,
+      "score": 0.9381,
+      "importance": 0.598,
+      "importance_score": 0.9381,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9958,
+        "recency": 0.9899,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -175,14 +352,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9388,
-      "importance": 0.5832,
-      "importance_score": 0.9388,
+      "score": 0.9377,
+      "importance": 0.582,
+      "importance_score": 0.9377,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.916,
+        "recency": 0.9102,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -195,65 +372,6 @@
         "id": "hotelitem_e3feb7946c56",
         "title": "Host Hotels & Resorts buys 1 Hotel Brooklyn Bridge, Renaissance Plano",
         "url": "https://www.hoteldive.com/news/host-hotels-brooklyn-dallas-acquisitions/874044/",
-        "source": "Hotel Dive",
-        "source_name": "Hotel Dive"
-      }
-    },
-    {
-      "story_id": "story_95b47ce000d7",
-      "title": "Lodging Lowdown: Remington names CTO, Hersha sells Boston Hilton",
-      "url": "https://www.hoteldive.com/news/remington-names-cto-hersha-sells-boston-hilton/873978/",
-      "primary_url": "https://www.hoteldive.com/news/remington-names-cto-hersha-sells-boston-hilton/873978/",
-      "source": "Hotel Dive",
-      "source_name": "Hotel Dive",
-      "sources": [
-        {
-          "id": "hotelitem_95b47ce000d7",
-          "title": "Lodging Lowdown: Remington names CTO, Hersha sells Boston Hilton",
-          "url": "https://www.hoteldive.com/news/remington-names-cto-hersha-sells-boston-hilton/873978/",
-          "source": "Hotel Dive",
-          "source_name": "Hotel Dive",
-          "site_id": "hoteldive",
-          "published_at": "2026-11-06T14:30:17Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hotel Dive"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_95b47ce000d7",
-          "title": "Lodging Lowdown: Remington names CTO, Hersha sells Boston Hilton",
-          "url": "https://www.hoteldive.com/news/remington-names-cto-hersha-sells-boston-hilton/873978/",
-          "source": "Hotel Dive",
-          "source_name": "Hotel Dive",
-          "site_id": "hoteldive",
-          "published_at": "2026-11-06T14:30:17Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.9378,
-      "importance": 0.5821,
-      "importance_score": 0.9378,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9107,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-06T14:30:17Z",
-      "latest_at": "2026-11-06T14:30:17Z",
-      "primary_item": {
-        "id": "hotelitem_95b47ce000d7",
-        "title": "Lodging Lowdown: Remington names CTO, Hersha sells Boston Hilton",
-        "url": "https://www.hoteldive.com/news/remington-names-cto-hersha-sells-boston-hilton/873978/",
         "source": "Hotel Dive",
         "source_name": "Hotel Dive"
       }
@@ -293,14 +411,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9378,
-      "importance": 0.5822,
-      "importance_score": 0.9378,
+      "score": 0.9367,
+      "importance": 0.581,
+      "importance_score": 0.9367,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9111,
+        "recency": 0.9052,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -313,6 +431,65 @@
         "id": "hotelitem_8c61ad8fc862",
         "title": "Wynn reaches deal with striking Boston union workers, posts Q3 results",
         "url": "https://www.hoteldive.com/news/wynn-encore-boston-harbor-workers-agreement-q3-2026-earnings/873989/",
+        "source": "Hotel Dive",
+        "source_name": "Hotel Dive"
+      }
+    },
+    {
+      "story_id": "story_95b47ce000d7",
+      "title": "Lodging Lowdown: Remington names CTO, Hersha sells Boston Hilton",
+      "url": "https://www.hoteldive.com/news/remington-names-cto-hersha-sells-boston-hilton/873978/",
+      "primary_url": "https://www.hoteldive.com/news/remington-names-cto-hersha-sells-boston-hilton/873978/",
+      "source": "Hotel Dive",
+      "source_name": "Hotel Dive",
+      "sources": [
+        {
+          "id": "hotelitem_95b47ce000d7",
+          "title": "Lodging Lowdown: Remington names CTO, Hersha sells Boston Hilton",
+          "url": "https://www.hoteldive.com/news/remington-names-cto-hersha-sells-boston-hilton/873978/",
+          "source": "Hotel Dive",
+          "source_name": "Hotel Dive",
+          "site_id": "hoteldive",
+          "published_at": "2026-11-06T14:30:17Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hotel Dive"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_95b47ce000d7",
+          "title": "Lodging Lowdown: Remington names CTO, Hersha sells Boston Hilton",
+          "url": "https://www.hoteldive.com/news/remington-names-cto-hersha-sells-boston-hilton/873978/",
+          "source": "Hotel Dive",
+          "source_name": "Hotel Dive",
+          "site_id": "hoteldive",
+          "published_at": "2026-11-06T14:30:17Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.9366,
+      "importance": 0.581,
+      "importance_score": 0.9366,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9048,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-06T14:30:17Z",
+      "latest_at": "2026-11-06T14:30:17Z",
+      "primary_item": {
+        "id": "hotelitem_95b47ce000d7",
+        "title": "Lodging Lowdown: Remington names CTO, Hersha sells Boston Hilton",
+        "url": "https://www.hoteldive.com/news/remington-names-cto-hersha-sells-boston-hilton/873978/",
         "source": "Hotel Dive",
         "source_name": "Hotel Dive"
       }
@@ -352,14 +529,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9359,
-      "importance": 0.5957,
-      "importance_score": 0.9359,
+      "score": 0.9348,
+      "importance": 0.5946,
+      "importance_score": 0.9348,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9787,
+        "recency": 0.9729,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -372,65 +549,6 @@
         "id": "hotelitem_38f118547541",
         "title": "Accor Group and Hard Rock International Form Strategic Partnership",
         "url": "https://lodgingmagazine.com/accor-group-hard-rock-international-form-strategic-partnership/",
-        "source": "Lodging Magazine",
-        "source_name": "Lodging Magazine"
-      }
-    },
-    {
-      "story_id": "story_2a2d9e28e411",
-      "title": "JW Marriott Washington, DC Announces Two New Restaurant Concepts",
-      "url": "https://lodgingmagazine.com/jw-marriott-washington-dc-announces-two-new-restaurant-concepts/",
-      "primary_url": "https://lodgingmagazine.com/jw-marriott-washington-dc-announces-two-new-restaurant-concepts/",
-      "source": "Lodging Magazine",
-      "source_name": "Lodging Magazine",
-      "sources": [
-        {
-          "id": "hotelitem_2a2d9e28e411",
-          "title": "JW Marriott Washington, DC Announces Two New Restaurant Concepts",
-          "url": "https://lodgingmagazine.com/jw-marriott-washington-dc-announces-two-new-restaurant-concepts/",
-          "source": "Lodging Magazine",
-          "source_name": "Lodging Magazine",
-          "site_id": "lodgingmag",
-          "published_at": "2026-11-09T14:52:51Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Lodging Magazine"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_2a2d9e28e411",
-          "title": "JW Marriott Washington, DC Announces Two New Restaurant Concepts",
-          "url": "https://lodgingmagazine.com/jw-marriott-washington-dc-announces-two-new-restaurant-concepts/",
-          "source": "Lodging Magazine",
-          "source_name": "Lodging Magazine",
-          "site_id": "lodgingmag",
-          "published_at": "2026-11-09T14:52:51Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.9357,
-      "importance": 0.5955,
-      "importance_score": 0.9357,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9777,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-09T14:52:51Z",
-      "latest_at": "2026-11-09T14:52:51Z",
-      "primary_item": {
-        "id": "hotelitem_2a2d9e28e411",
-        "title": "JW Marriott Washington, DC Announces Two New Restaurant Concepts",
-        "url": "https://lodgingmagazine.com/jw-marriott-washington-dc-announces-two-new-restaurant-concepts/",
         "source": "Lodging Magazine",
         "source_name": "Lodging Magazine"
       }
@@ -470,14 +588,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9222,
-      "importance": 0.5815,
-      "importance_score": 0.9222,
+      "score": 0.9211,
+      "importance": 0.5804,
+      "importance_score": 0.9211,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9077,
+        "recency": 0.9018,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -529,14 +647,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9186,
-      "importance": 0.5778,
-      "importance_score": 0.9186,
+      "score": 0.9174,
+      "importance": 0.5766,
+      "importance_score": 0.9174,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8889,
+        "recency": 0.883,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -606,14 +724,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.9143,
-      "importance": 0.6243,
-      "importance_score": 0.9143,
+      "score": 0.9132,
+      "importance": 0.6231,
+      "importance_score": 0.9132,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9966,
+        "recency": 0.9907,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -629,6 +747,124 @@
         "url": "https://insights.ehotelier.com/uncategorised/2026/11/10/favorite-rest-article-1111608/?utm_source=rss&utm_medium=rss&utm_campaign=favorite-rest-article-1111608",
         "source": "eHotelier",
         "source_name": "eHotelier"
+      }
+    },
+    {
+      "story_id": "story_f49c27611d71",
+      "title": "不搬店，搬能力：小米战略投资的尚美数智在雅加达160天开出当月盈利的SHANKEE酒店",
+      "url": "https://www.tripvivid.com/48113.html",
+      "primary_url": "https://www.tripvivid.com/48113.html",
+      "source": "执惠 TripVivid",
+      "source_name": "执惠 TripVivid",
+      "sources": [
+        {
+          "id": "hotelitem_f49c27611d71",
+          "title": "不搬店，搬能力：小米战略投资的尚美数智在雅加达160天开出当月盈利的SHANKEE酒店",
+          "url": "https://www.tripvivid.com/48113.html",
+          "source": "执惠 TripVivid",
+          "source_name": "执惠 TripVivid",
+          "site_id": "tripvivid",
+          "published_at": "2026-11-10T21:19:01.141555Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "执惠 TripVivid"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_f49c27611d71",
+          "title": "不搬店，搬能力：小米战略投资的尚美数智在雅加达160天开出当月盈利的SHANKEE酒店",
+          "url": "https://www.tripvivid.com/48113.html",
+          "source": "执惠 TripVivid",
+          "source_name": "执惠 TripVivid",
+          "site_id": "tripvivid",
+          "published_at": "2026-11-10T21:19:01.141555Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.9,
+      "importance": 0.6,
+      "importance_score": 0.9,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-10T21:19:01.141555Z",
+      "latest_at": "2026-11-10T21:19:01.141555Z",
+      "primary_item": {
+        "id": "hotelitem_f49c27611d71",
+        "title": "不搬店，搬能力：小米战略投资的尚美数智在雅加达160天开出当月盈利的SHANKEE酒店",
+        "url": "https://www.tripvivid.com/48113.html",
+        "source": "执惠 TripVivid",
+        "source_name": "执惠 TripVivid"
+      }
+    },
+    {
+      "story_id": "story_06f191e24d38",
+      "title": "文旅惠报|复星国际申请分拆Club Med在港上市；南京商旅上半年营收3.66亿元",
+      "url": "https://www.tripvivid.com/47868.html",
+      "primary_url": "https://www.tripvivid.com/47868.html",
+      "source": "执惠 TripVivid",
+      "source_name": "执惠 TripVivid",
+      "sources": [
+        {
+          "id": "hotelitem_06f191e24d38",
+          "title": "文旅惠报|复星国际申请分拆Club Med在港上市；南京商旅上半年营收3.66亿元",
+          "url": "https://www.tripvivid.com/47868.html",
+          "source": "执惠 TripVivid",
+          "source_name": "执惠 TripVivid",
+          "site_id": "tripvivid",
+          "published_at": "2026-11-10T21:19:01.141555Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "执惠 TripVivid"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_06f191e24d38",
+          "title": "文旅惠报|复星国际申请分拆Club Med在港上市；南京商旅上半年营收3.66亿元",
+          "url": "https://www.tripvivid.com/47868.html",
+          "source": "执惠 TripVivid",
+          "source_name": "执惠 TripVivid",
+          "site_id": "tripvivid",
+          "published_at": "2026-11-10T21:19:01.141555Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.9,
+      "importance": 0.6,
+      "importance_score": 0.9,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-10T21:19:01.141555Z",
+      "latest_at": "2026-11-10T21:19:01.141555Z",
+      "primary_item": {
+        "id": "hotelitem_06f191e24d38",
+        "title": "文旅惠报|复星国际申请分拆Club Med在港上市；南京商旅上半年营收3.66亿元",
+        "url": "https://www.tripvivid.com/47868.html",
+        "source": "执惠 TripVivid",
+        "source_name": "执惠 TripVivid"
       }
     },
     {
@@ -666,14 +902,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9002,
-      "importance": 0.5769,
-      "importance_score": 0.9002,
+      "score": 0.8991,
+      "importance": 0.5757,
+      "importance_score": 0.8991,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8845,
+        "recency": 0.8787,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -688,124 +924,6 @@
         "url": "https://www.traveldaily.cn/article/190962",
         "source": "环球旅讯 TravelDaily",
         "source_name": "环球旅讯 TravelDaily"
-      }
-    },
-    {
-      "story_id": "story_f49c27611d71",
-      "title": "不搬店，搬能力：小米战略投资的尚美数智在雅加达160天开出当月盈利的SHANKEE酒店",
-      "url": "https://www.tripvivid.com/48113.html",
-      "primary_url": "https://www.tripvivid.com/48113.html",
-      "source": "执惠 TripVivid",
-      "source_name": "执惠 TripVivid",
-      "sources": [
-        {
-          "id": "hotelitem_f49c27611d71",
-          "title": "不搬店，搬能力：小米战略投资的尚美数智在雅加达160天开出当月盈利的SHANKEE酒店",
-          "url": "https://www.tripvivid.com/48113.html",
-          "source": "执惠 TripVivid",
-          "source_name": "执惠 TripVivid",
-          "site_id": "tripvivid",
-          "published_at": "2026-11-10T14:57:35.506142Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "执惠 TripVivid"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_f49c27611d71",
-          "title": "不搬店，搬能力：小米战略投资的尚美数智在雅加达160天开出当月盈利的SHANKEE酒店",
-          "url": "https://www.tripvivid.com/48113.html",
-          "source": "执惠 TripVivid",
-          "source_name": "执惠 TripVivid",
-          "site_id": "tripvivid",
-          "published_at": "2026-11-10T14:57:35.506142Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.9,
-      "importance": 0.6,
-      "importance_score": 0.9,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-10T14:57:35.506142Z",
-      "latest_at": "2026-11-10T14:57:35.506142Z",
-      "primary_item": {
-        "id": "hotelitem_f49c27611d71",
-        "title": "不搬店，搬能力：小米战略投资的尚美数智在雅加达160天开出当月盈利的SHANKEE酒店",
-        "url": "https://www.tripvivid.com/48113.html",
-        "source": "执惠 TripVivid",
-        "source_name": "执惠 TripVivid"
-      }
-    },
-    {
-      "story_id": "story_06f191e24d38",
-      "title": "文旅惠报|复星国际申请分拆Club Med在港上市；南京商旅上半年营收3.66亿元",
-      "url": "https://www.tripvivid.com/47868.html",
-      "primary_url": "https://www.tripvivid.com/47868.html",
-      "source": "执惠 TripVivid",
-      "source_name": "执惠 TripVivid",
-      "sources": [
-        {
-          "id": "hotelitem_06f191e24d38",
-          "title": "文旅惠报|复星国际申请分拆Club Med在港上市；南京商旅上半年营收3.66亿元",
-          "url": "https://www.tripvivid.com/47868.html",
-          "source": "执惠 TripVivid",
-          "source_name": "执惠 TripVivid",
-          "site_id": "tripvivid",
-          "published_at": "2026-11-10T14:57:35.506142Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "执惠 TripVivid"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_06f191e24d38",
-          "title": "文旅惠报|复星国际申请分拆Club Med在港上市；南京商旅上半年营收3.66亿元",
-          "url": "https://www.tripvivid.com/47868.html",
-          "source": "执惠 TripVivid",
-          "source_name": "执惠 TripVivid",
-          "site_id": "tripvivid",
-          "published_at": "2026-11-10T14:57:35.506142Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.9,
-      "importance": 0.6,
-      "importance_score": 0.9,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-10T14:57:35.506142Z",
-      "latest_at": "2026-11-10T14:57:35.506142Z",
-      "primary_item": {
-        "id": "hotelitem_06f191e24d38",
-        "title": "文旅惠报|复星国际申请分拆Club Med在港上市；南京商旅上半年营收3.66亿元",
-        "url": "https://www.tripvivid.com/47868.html",
-        "source": "执惠 TripVivid",
-        "source_name": "执惠 TripVivid"
       }
     },
     {
@@ -843,14 +961,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8986,
-      "importance": 0.5509,
-      "importance_score": 0.8986,
+      "score": 0.8968,
+      "importance": 0.5497,
+      "importance_score": 0.8968,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.7544,
+        "recency": 0.7485,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -902,14 +1020,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.887,
-      "importance": 0.543,
-      "importance_score": 0.887,
+      "score": 0.8852,
+      "importance": 0.5418,
+      "importance_score": 0.8852,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.7149,
+        "recency": 0.709,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -961,14 +1079,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8775,
-      "importance": 0.6,
-      "importance_score": 0.8775,
+      "score": 0.8768,
+      "importance": 0.5993,
+      "importance_score": 0.8768,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9965,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -983,6 +1101,65 @@
         "url": "https://www.traveldaily.cn/article/190989",
         "source": "环球旅讯 TravelDaily",
         "source_name": "环球旅讯 TravelDaily"
+      }
+    },
+    {
+      "story_id": "story_66fb2b46d490",
+      "title": "Amazon Casino: How to Open an Account and Complete Registration",
+      "url": "https://insights.ehotelier.com/uncategorised/2026/11/11/amazon-casino-how-to-open-an-account-and-complete-registration/?utm_source=rss&utm_medium=rss&utm_campaign=amazon-casino-how-to-open-an-account-and-complete-registration",
+      "primary_url": "https://insights.ehotelier.com/uncategorised/2026/11/11/amazon-casino-how-to-open-an-account-and-complete-registration/?utm_source=rss&utm_medium=rss&utm_campaign=amazon-casino-how-to-open-an-account-and-complete-registration",
+      "source": "eHotelier",
+      "source_name": "eHotelier",
+      "sources": [
+        {
+          "id": "hotelitem_66fb2b46d490",
+          "title": "Amazon Casino: How to Open an Account and Complete Registration",
+          "url": "https://insights.ehotelier.com/uncategorised/2026/11/11/amazon-casino-how-to-open-an-account-and-complete-registration/?utm_source=rss&utm_medium=rss&utm_campaign=amazon-casino-how-to-open-an-account-and-complete-registration",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-11-10T19:06:11Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "eHotelier"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_66fb2b46d490",
+          "title": "Amazon Casino: How to Open an Account and Complete Registration",
+          "url": "https://insights.ehotelier.com/uncategorised/2026/11/11/amazon-casino-how-to-open-an-account-and-complete-registration/?utm_source=rss&utm_medium=rss&utm_campaign=amazon-casino-how-to-open-an-account-and-complete-registration",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-11-10T19:06:11Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8646,
+      "importance": 0.5996,
+      "importance_score": 0.8646,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.998,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-10T19:06:11Z",
+      "latest_at": "2026-11-10T19:06:11Z",
+      "primary_item": {
+        "id": "hotelitem_66fb2b46d490",
+        "title": "Amazon Casino: How to Open an Account and Complete Registration",
+        "url": "https://insights.ehotelier.com/uncategorised/2026/11/11/amazon-casino-how-to-open-an-account-and-complete-registration/?utm_source=rss&utm_medium=rss&utm_campaign=amazon-casino-how-to-open-an-account-and-complete-registration",
+        "source": "eHotelier",
+        "source_name": "eHotelier"
       }
     },
     {
@@ -1020,14 +1197,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.865,
-      "importance": 0.5999,
-      "importance_score": 0.865,
+      "score": 0.8638,
+      "importance": 0.5988,
+      "importance_score": 0.8638,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9997,
+        "recency": 0.9939,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1042,6 +1219,143 @@
         "url": "https://insights.ehotelier.com/uncategorised/2026/11/11/vip-and-loyalty-programmes-at-gw-casino-in-australia/?utm_source=rss&utm_medium=rss&utm_campaign=vip-and-loyalty-programmes-at-gw-casino-in-australia",
         "source": "eHotelier",
         "source_name": "eHotelier"
+      }
+    },
+    {
+      "story_id": "story_c7c15b7680c9",
+      "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
+      "url": "https://www.chinahotel.org.cn/articles/17408",
+      "primary_url": "https://www.chinahotel.org.cn/articles/17408",
+      "source": "中国饭店协会",
+      "source_name": "中国饭店协会",
+      "sources": [
+        {
+          "id": "hotelitem_d4370964909c",
+          "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
+          "url": "https://www.chinahotel.org.cn/articles/17408",
+          "source": "中国饭店协会",
+          "source_name": "中国饭店协会",
+          "site_id": "chinahotel",
+          "published_at": "2026-11-10T21:19:01.141555Z"
+        },
+        {
+          "id": "hotelitem_c7c15b7680c9",
+          "title": "绿色饭店 | 2026年第一批国家标准绿色饭店名单公布 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007) 在全国组织开展国家标准绿色饭店的评定工作。现公布2026年第一批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
+          "url": "https://www.chinahotel.org.cn/articles/17689",
+          "source": "中国饭店协会",
+          "source_name": "中国饭店协会",
+          "site_id": "chinahotel",
+          "published_at": "2026-11-10T21:19:01.141555Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "中国饭店协会"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_d4370964909c",
+          "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
+          "url": "https://www.chinahotel.org.cn/articles/17408",
+          "source": "中国饭店协会",
+          "source_name": "中国饭店协会",
+          "site_id": "chinahotel",
+          "published_at": "2026-11-10T21:19:01.141555Z"
+        },
+        {
+          "id": "hotelitem_c7c15b7680c9",
+          "title": "绿色饭店 | 2026年第一批国家标准绿色饭店名单公布 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007) 在全国组织开展国家标准绿色饭店的评定工作。现公布2026年第一批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
+          "url": "https://www.chinahotel.org.cn/articles/17689",
+          "source": "中国饭店协会",
+          "source_name": "中国饭店协会",
+          "site_id": "chinahotel",
+          "published_at": "2026-11-10T21:19:01.141555Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.86,
+      "importance": 0.625,
+      "importance_score": 0.86,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-10T21:19:01.141555Z",
+      "latest_at": "2026-11-10T21:19:01.141555Z",
+      "primary_item": {
+        "id": "hotelitem_d4370964909c",
+        "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
+        "url": "https://www.chinahotel.org.cn/articles/17408",
+        "source": "中国饭店协会",
+        "source_name": "中国饭店协会"
+      }
+    },
+    {
+      "story_id": "story_d2c9a3f5328b",
+      "title": "华发拟20亿元出售珠海万豪酒店",
+      "url": "https://www.meadin.com/jd/303875.html",
+      "primary_url": "https://www.meadin.com/jd/303875.html",
+      "source": "迈点研究院",
+      "source_name": "迈点研究院",
+      "sources": [
+        {
+          "id": "hotelitem_d2c9a3f5328b",
+          "title": "华发拟20亿元出售珠海万豪酒店",
+          "url": "https://www.meadin.com/jd/303875.html",
+          "source": "迈点研究院",
+          "source_name": "迈点研究院",
+          "site_id": "meadin",
+          "published_at": "2026-11-10T21:19:01.141555Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "迈点研究院"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_d2c9a3f5328b",
+          "title": "华发拟20亿元出售珠海万豪酒店",
+          "url": "https://www.meadin.com/jd/303875.html",
+          "source": "迈点研究院",
+          "source_name": "迈点研究院",
+          "site_id": "meadin",
+          "published_at": "2026-11-10T21:19:01.141555Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.86,
+      "importance": 0.6,
+      "importance_score": 0.86,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-10T21:19:01.141555Z",
+      "latest_at": "2026-11-10T21:19:01.141555Z",
+      "primary_item": {
+        "id": "hotelitem_d2c9a3f5328b",
+        "title": "华发拟20亿元出售珠海万豪酒店",
+        "url": "https://www.meadin.com/jd/303875.html",
+        "source": "迈点研究院",
+        "source_name": "迈点研究院"
       }
     },
     {
@@ -1079,14 +1393,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8606,
-      "importance": 0.5954,
-      "importance_score": 0.8606,
+      "score": 0.8595,
+      "importance": 0.5943,
+      "importance_score": 0.8595,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9772,
+        "recency": 0.9713,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1101,143 +1415,6 @@
         "url": "https://www.hoteldive.com/news/2026-holiday-travel-preview/874086/",
         "source": "Hotel Dive",
         "source_name": "Hotel Dive"
-      }
-    },
-    {
-      "story_id": "story_c7c15b7680c9",
-      "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
-      "url": "https://www.chinahotel.org.cn/articles/17408",
-      "primary_url": "https://www.chinahotel.org.cn/articles/17408",
-      "source": "中国饭店协会",
-      "source_name": "中国饭店协会",
-      "sources": [
-        {
-          "id": "hotelitem_d4370964909c",
-          "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
-          "url": "https://www.chinahotel.org.cn/articles/17408",
-          "source": "中国饭店协会",
-          "source_name": "中国饭店协会",
-          "site_id": "chinahotel",
-          "published_at": "2026-11-10T14:57:35.506142Z"
-        },
-        {
-          "id": "hotelitem_c7c15b7680c9",
-          "title": "绿色饭店 | 2026年第一批国家标准绿色饭店名单公布 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007) 在全国组织开展国家标准绿色饭店的评定工作。现公布2026年第一批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
-          "url": "https://www.chinahotel.org.cn/articles/17689",
-          "source": "中国饭店协会",
-          "source_name": "中国饭店协会",
-          "site_id": "chinahotel",
-          "published_at": "2026-11-10T14:57:35.506142Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "中国饭店协会"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_d4370964909c",
-          "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
-          "url": "https://www.chinahotel.org.cn/articles/17408",
-          "source": "中国饭店协会",
-          "source_name": "中国饭店协会",
-          "site_id": "chinahotel",
-          "published_at": "2026-11-10T14:57:35.506142Z"
-        },
-        {
-          "id": "hotelitem_c7c15b7680c9",
-          "title": "绿色饭店 | 2026年第一批国家标准绿色饭店名单公布 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007) 在全国组织开展国家标准绿色饭店的评定工作。现公布2026年第一批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
-          "url": "https://www.chinahotel.org.cn/articles/17689",
-          "source": "中国饭店协会",
-          "source_name": "中国饭店协会",
-          "site_id": "chinahotel",
-          "published_at": "2026-11-10T14:57:35.506142Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.86,
-      "importance": 0.625,
-      "importance_score": 0.86,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-10T14:57:35.506142Z",
-      "latest_at": "2026-11-10T14:57:35.506142Z",
-      "primary_item": {
-        "id": "hotelitem_d4370964909c",
-        "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
-        "url": "https://www.chinahotel.org.cn/articles/17408",
-        "source": "中国饭店协会",
-        "source_name": "中国饭店协会"
-      }
-    },
-    {
-      "story_id": "story_d2c9a3f5328b",
-      "title": "华发拟20亿元出售珠海万豪酒店",
-      "url": "https://www.meadin.com/jd/303875.html",
-      "primary_url": "https://www.meadin.com/jd/303875.html",
-      "source": "迈点研究院",
-      "source_name": "迈点研究院",
-      "sources": [
-        {
-          "id": "hotelitem_d2c9a3f5328b",
-          "title": "华发拟20亿元出售珠海万豪酒店",
-          "url": "https://www.meadin.com/jd/303875.html",
-          "source": "迈点研究院",
-          "source_name": "迈点研究院",
-          "site_id": "meadin",
-          "published_at": "2026-11-10T14:57:35.506142Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "迈点研究院"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_d2c9a3f5328b",
-          "title": "华发拟20亿元出售珠海万豪酒店",
-          "url": "https://www.meadin.com/jd/303875.html",
-          "source": "迈点研究院",
-          "source_name": "迈点研究院",
-          "site_id": "meadin",
-          "published_at": "2026-11-10T14:57:35.506142Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.86,
-      "importance": 0.6,
-      "importance_score": 0.86,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-10T14:57:35.506142Z",
-      "latest_at": "2026-11-10T14:57:35.506142Z",
-      "primary_item": {
-        "id": "hotelitem_d2c9a3f5328b",
-        "title": "华发拟20亿元出售珠海万豪酒店",
-        "url": "https://www.meadin.com/jd/303875.html",
-        "source": "迈点研究院",
-        "source_name": "迈点研究院"
       }
     },
     {
@@ -1275,14 +1452,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8597,
-      "importance": 0.5816,
-      "importance_score": 0.8597,
+      "score": 0.8586,
+      "importance": 0.5804,
+      "importance_score": 0.8586,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9078,
+        "recency": 0.9019,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1314,7 +1491,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-11-10T14:57:35.506142Z"
+          "published_at": "2026-11-10T21:19:01.141555Z"
         }
       ],
       "source_count": 1,
@@ -1329,7 +1506,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-11-10T14:57:35.506142Z"
+          "published_at": "2026-11-10T21:19:01.141555Z"
         }
       ],
       "item_count": 1,
@@ -1348,8 +1525,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-11-10T14:57:35.506142Z",
-      "latest_at": "2026-11-10T14:57:35.506142Z",
+      "earliest_at": "2026-11-10T21:19:01.141555Z",
+      "latest_at": "2026-11-10T21:19:01.141555Z",
       "primary_item": {
         "id": "hotelitem_e4ce0593c384",
         "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
@@ -1373,7 +1550,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-11-10T14:57:35.506142Z"
+          "published_at": "2026-11-10T21:19:01.141555Z"
         }
       ],
       "source_count": 1,
@@ -1388,7 +1565,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-11-10T14:57:35.506142Z"
+          "published_at": "2026-11-10T21:19:01.141555Z"
         }
       ],
       "item_count": 1,
@@ -1407,14 +1584,73 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-11-10T14:57:35.506142Z",
-      "latest_at": "2026-11-10T14:57:35.506142Z",
+      "earliest_at": "2026-11-10T21:19:01.141555Z",
+      "latest_at": "2026-11-10T21:19:01.141555Z",
       "primary_item": {
         "id": "hotelitem_4adba65c20e7",
         "title": "文化和旅游部党组召开会议坚决拥护党中央对...",
         "url": "https://www.mct.gov.cn/whzx/whyw/202610/t20261010_967329.htm",
         "source": "文化和旅游部",
         "source_name": "文化和旅游部"
+      }
+    },
+    {
+      "story_id": "story_e21320b74df8",
+      "title": "CoStar Reports Positive U.S. Hotel Industry Performance Results in September",
+      "url": "https://lodgingmagazine.com/costar-reports-positive-u-s-hotel-industry-performance-results-in-september/",
+      "primary_url": "https://lodgingmagazine.com/costar-reports-positive-u-s-hotel-industry-performance-results-in-september/",
+      "source": "Lodging Magazine",
+      "source_name": "Lodging Magazine",
+      "sources": [
+        {
+          "id": "hotelitem_e21320b74df8",
+          "title": "CoStar Reports Positive U.S. Hotel Industry Performance Results in September",
+          "url": "https://lodgingmagazine.com/costar-reports-positive-u-s-hotel-industry-performance-results-in-september/",
+          "source": "Lodging Magazine",
+          "source_name": "Lodging Magazine",
+          "site_id": "lodgingmag",
+          "published_at": "2026-11-10T17:10:57Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Lodging Magazine"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_e21320b74df8",
+          "title": "CoStar Reports Positive U.S. Hotel Industry Performance Results in September",
+          "url": "https://lodgingmagazine.com/costar-reports-positive-u-s-hotel-industry-performance-results-in-september/",
+          "source": "Lodging Magazine",
+          "source_name": "Lodging Magazine",
+          "site_id": "lodgingmag",
+          "published_at": "2026-11-10T17:10:57Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8493,
+      "importance": 0.5992,
+      "importance_score": 0.8493,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9962,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-10T17:10:57Z",
+      "latest_at": "2026-11-10T17:10:57Z",
+      "primary_item": {
+        "id": "hotelitem_e21320b74df8",
+        "title": "CoStar Reports Positive U.S. Hotel Industry Performance Results in September",
+        "url": "https://lodgingmagazine.com/costar-reports-positive-u-s-hotel-industry-performance-results-in-september/",
+        "source": "Lodging Magazine",
+        "source_name": "Lodging Magazine"
       }
     },
     {
@@ -1452,14 +1688,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8491,
-      "importance": 0.5991,
-      "importance_score": 0.8491,
+      "score": 0.848,
+      "importance": 0.5979,
+      "importance_score": 0.848,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9955,
+        "recency": 0.9896,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1511,14 +1747,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8465,
-      "importance": 0.5963,
-      "importance_score": 0.8465,
+      "score": 0.8453,
+      "importance": 0.5952,
+      "importance_score": 0.8453,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9817,
+        "recency": 0.9758,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1531,65 +1767,6 @@
         "id": "hotelitem_51e8c953a749",
         "title": "Hotel Bar Training Should Start With the Busiest 30 Minutes",
         "url": "https://lodgingmagazine.com/hotel-bar-training-should-start-with-the-busiest-30-minutes/",
-        "source": "Lodging Magazine",
-        "source_name": "Lodging Magazine"
-      }
-    },
-    {
-      "story_id": "story_89b74c3228ec",
-      "title": "Lodgco Hospitality Appoints New Chief Operating Officer",
-      "url": "https://lodgingmagazine.com/lodgco-hospitality-appoints-new-chief-operating-officer/",
-      "primary_url": "https://lodgingmagazine.com/lodgco-hospitality-appoints-new-chief-operating-officer/",
-      "source": "Lodging Magazine",
-      "source_name": "Lodging Magazine",
-      "sources": [
-        {
-          "id": "hotelitem_89b74c3228ec",
-          "title": "Lodgco Hospitality Appoints New Chief Operating Officer",
-          "url": "https://lodgingmagazine.com/lodgco-hospitality-appoints-new-chief-operating-officer/",
-          "source": "Lodging Magazine",
-          "source_name": "Lodging Magazine",
-          "site_id": "lodgingmag",
-          "published_at": "2026-11-09T14:07:05Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Lodging Magazine"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_89b74c3228ec",
-          "title": "Lodgco Hospitality Appoints New Chief Operating Officer",
-          "url": "https://lodgingmagazine.com/lodgco-hospitality-appoints-new-chief-operating-officer/",
-          "source": "Lodging Magazine",
-          "source_name": "Lodging Magazine",
-          "site_id": "lodgingmag",
-          "published_at": "2026-11-09T14:07:05Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8456,
-      "importance": 0.5954,
-      "importance_score": 0.8456,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.977,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-09T14:07:05Z",
-      "latest_at": "2026-11-09T14:07:05Z",
-      "primary_item": {
-        "id": "hotelitem_89b74c3228ec",
-        "title": "Lodgco Hospitality Appoints New Chief Operating Officer",
-        "url": "https://lodgingmagazine.com/lodgco-hospitality-appoints-new-chief-operating-officer/",
         "source": "Lodging Magazine",
         "source_name": "Lodging Magazine"
       }
@@ -1629,14 +1806,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8454,
-      "importance": 0.5952,
-      "importance_score": 0.8454,
+      "score": 0.8443,
+      "importance": 0.594,
+      "importance_score": 0.8443,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9761,
+        "recency": 0.9702,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1651,183 +1828,6 @@
         "url": "https://boutiquehotelnews.com/news/finance-and-investment/great-john-street-hotel/?utm_source=rss&utm_medium=rss&utm_campaign=great-john-street-hotel",
         "source": "Boutique Hotel News",
         "source_name": "Boutique Hotel News"
-      }
-    },
-    {
-      "story_id": "story_a56d5364054f",
-      "title": "Gencom plots European growth following first luxury buy in region",
-      "url": "https://www.hoteldive.com/news/gencom-european-growth-rosewood-london-acquisition/873849/",
-      "primary_url": "https://www.hoteldive.com/news/gencom-european-growth-rosewood-london-acquisition/873849/",
-      "source": "Hotel Dive",
-      "source_name": "Hotel Dive",
-      "sources": [
-        {
-          "id": "hotelitem_a56d5364054f",
-          "title": "Gencom plots European growth following first luxury buy in region",
-          "url": "https://www.hoteldive.com/news/gencom-european-growth-rosewood-london-acquisition/873849/",
-          "source": "Hotel Dive",
-          "source_name": "Hotel Dive",
-          "site_id": "hoteldive",
-          "published_at": "2026-11-05T14:27:08Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hotel Dive"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_a56d5364054f",
-          "title": "Gencom plots European growth following first luxury buy in region",
-          "url": "https://www.hoteldive.com/news/gencom-european-growth-rosewood-london-acquisition/873849/",
-          "source": "Hotel Dive",
-          "source_name": "Hotel Dive",
-          "site_id": "hoteldive",
-          "published_at": "2026-11-05T14:27:08Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8435,
-      "importance": 0.5777,
-      "importance_score": 0.8435,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.8884,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-05T14:27:08Z",
-      "latest_at": "2026-11-05T14:27:08Z",
-      "primary_item": {
-        "id": "hotelitem_a56d5364054f",
-        "title": "Gencom plots European growth following first luxury buy in region",
-        "url": "https://www.hoteldive.com/news/gencom-european-growth-rosewood-london-acquisition/873849/",
-        "source": "Hotel Dive",
-        "source_name": "Hotel Dive"
-      }
-    },
-    {
-      "story_id": "story_faa1fdcb9d15",
-      "title": "Sonesta brings Boyd Gaming casino resorts to distribution platform",
-      "url": "https://www.hoteldive.com/news/sonesta-boyd-gaming-distribution-loyalty-strategic-affiliation/873701/",
-      "primary_url": "https://www.hoteldive.com/news/sonesta-boyd-gaming-distribution-loyalty-strategic-affiliation/873701/",
-      "source": "Hotel Dive",
-      "source_name": "Hotel Dive",
-      "sources": [
-        {
-          "id": "hotelitem_faa1fdcb9d15",
-          "title": "Sonesta brings Boyd Gaming casino resorts to distribution platform",
-          "url": "https://www.hoteldive.com/news/sonesta-boyd-gaming-distribution-loyalty-strategic-affiliation/873701/",
-          "source": "Hotel Dive",
-          "source_name": "Hotel Dive",
-          "site_id": "hoteldive",
-          "published_at": "2026-11-04T14:21:02Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hotel Dive"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_faa1fdcb9d15",
-          "title": "Sonesta brings Boyd Gaming casino resorts to distribution platform",
-          "url": "https://www.hoteldive.com/news/sonesta-boyd-gaming-distribution-loyalty-strategic-affiliation/873701/",
-          "source": "Hotel Dive",
-          "source_name": "Hotel Dive",
-          "site_id": "hoteldive",
-          "published_at": "2026-11-04T14:21:02Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8392,
-      "importance": 0.5732,
-      "importance_score": 0.8392,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.8661,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-04T14:21:02Z",
-      "latest_at": "2026-11-04T14:21:02Z",
-      "primary_item": {
-        "id": "hotelitem_faa1fdcb9d15",
-        "title": "Sonesta brings Boyd Gaming casino resorts to distribution platform",
-        "url": "https://www.hoteldive.com/news/sonesta-boyd-gaming-distribution-loyalty-strategic-affiliation/873701/",
-        "source": "Hotel Dive",
-        "source_name": "Hotel Dive"
-      }
-    },
-    {
-      "story_id": "story_ad645fb8afe3",
-      "title": "Built to Compete: Why Hotel Technology Infrastructure Is the New Business Imperative",
-      "url": "https://www.hotelmanagement.net/resource/built-compete-why-hotel-technology-infrastructure-new-business-imperative",
-      "primary_url": "https://www.hotelmanagement.net/resource/built-compete-why-hotel-technology-infrastructure-new-business-imperative",
-      "source": "Hotel Management",
-      "source_name": "Hotel Management",
-      "sources": [
-        {
-          "id": "hotelitem_ad645fb8afe3",
-          "title": "Built to Compete: Why Hotel Technology Infrastructure Is the New Business Imperative",
-          "url": "https://www.hotelmanagement.net/resource/built-compete-why-hotel-technology-infrastructure-new-business-imperative",
-          "source": "Hotel Management",
-          "source_name": "Hotel Management",
-          "site_id": "hotelmgmt",
-          "published_at": "2026-10-19T16:21:05Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hotel Management"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_ad645fb8afe3",
-          "title": "Built to Compete: Why Hotel Technology Infrastructure Is the New Business Imperative",
-          "url": "https://www.hotelmanagement.net/resource/built-compete-why-hotel-technology-infrastructure-new-business-imperative",
-          "source": "Hotel Management",
-          "source_name": "Hotel Management",
-          "site_id": "hotelmgmt",
-          "published_at": "2026-10-19T16:21:05Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8276,
-      "importance": 0.5025,
-      "importance_score": 0.8276,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.5124,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-19T16:21:05Z",
-      "latest_at": "2026-10-19T16:21:05Z",
-      "primary_item": {
-        "id": "hotelitem_ad645fb8afe3",
-        "title": "Built to Compete: Why Hotel Technology Infrastructure Is the New Business Imperative",
-        "url": "https://www.hotelmanagement.net/resource/built-compete-why-hotel-technology-infrastructure-new-business-imperative",
-        "source": "Hotel Management",
-        "source_name": "Hotel Management"
       }
     }
   ]
