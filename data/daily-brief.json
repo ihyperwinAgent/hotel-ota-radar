@@ -1,185 +1,8 @@
 {
-  "generated_at": "2026-11-09T19:51:59.340443Z",
+  "generated_at": "2026-11-10T03:36:20.581073Z",
   "window_hours": 1080,
   "total_items": 30,
   "items": [
-    {
-      "story_id": "story_df2590eeb52e",
-      "title": "Airbnb爱彼迎发布2026年第三季度财务业绩",
-      "url": "https://www.pinchain.com/article/352736",
-      "primary_url": "https://www.pinchain.com/article/352736",
-      "source": "品橙旅游",
-      "source_name": "品橙旅游",
-      "sources": [
-        {
-          "id": "hotelitem_df2590eeb52e",
-          "title": "Airbnb爱彼迎发布2026年第三季度财务业绩",
-          "url": "https://www.pinchain.com/article/352736",
-          "source": "品橙旅游",
-          "source_name": "品橙旅游",
-          "site_id": "pinchain",
-          "published_at": "2026-11-06T08:40:03Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "品橙旅游"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_df2590eeb52e",
-          "title": "Airbnb爱彼迎发布2026年第三季度财务业绩",
-          "url": "https://www.pinchain.com/article/352736",
-          "source": "品橙旅游",
-          "source_name": "品橙旅游",
-          "site_id": "pinchain",
-          "published_at": "2026-11-06T08:40:03Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 1.0,
-      "importance": 0.5846,
-      "importance_score": 1.0,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.923,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-06T08:40:03Z",
-      "latest_at": "2026-11-06T08:40:03Z",
-      "primary_item": {
-        "id": "hotelitem_df2590eeb52e",
-        "title": "Airbnb爱彼迎发布2026年第三季度财务业绩",
-        "url": "https://www.pinchain.com/article/352736",
-        "source": "品橙旅游",
-        "source_name": "品橙旅游"
-      }
-    },
-    {
-      "story_id": "story_6440576eab38",
-      "title": "Fairfield by Marriott makes Thailand debut in Krabi’s Ao Nang District",
-      "url": "https://insights.ehotelier.com/properties/2026/11/09/fairfield-by-marriott-makes-thailand-debut-in-krabis-ao-nang-district/?utm_source=rss&utm_medium=rss&utm_campaign=fairfield-by-marriott-makes-thailand-debut-in-krabis-ao-nang-district",
-      "primary_url": "https://insights.ehotelier.com/properties/2026/11/09/fairfield-by-marriott-makes-thailand-debut-in-krabis-ao-nang-district/?utm_source=rss&utm_medium=rss&utm_campaign=fairfield-by-marriott-makes-thailand-debut-in-krabis-ao-nang-district",
-      "source": "eHotelier",
-      "source_name": "eHotelier",
-      "sources": [
-        {
-          "id": "hotelitem_6440576eab38",
-          "title": "Fairfield by Marriott makes Thailand debut in Krabi’s Ao Nang District",
-          "url": "https://insights.ehotelier.com/properties/2026/11/09/fairfield-by-marriott-makes-thailand-debut-in-krabis-ao-nang-district/?utm_source=rss&utm_medium=rss&utm_campaign=fairfield-by-marriott-makes-thailand-debut-in-krabis-ao-nang-district",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-11-09T00:15:50Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "eHotelier"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_6440576eab38",
-          "title": "Fairfield by Marriott makes Thailand debut in Krabi’s Ao Nang District",
-          "url": "https://insights.ehotelier.com/properties/2026/11/09/fairfield-by-marriott-makes-thailand-debut-in-krabis-ao-nang-district/?utm_source=rss&utm_medium=rss&utm_campaign=fairfield-by-marriott-makes-thailand-debut-in-krabis-ao-nang-district",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-11-09T00:15:50Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.9515,
-      "importance": 0.5964,
-      "importance_score": 0.9515,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9818,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-09T00:15:50Z",
-      "latest_at": "2026-11-09T00:15:50Z",
-      "primary_item": {
-        "id": "hotelitem_6440576eab38",
-        "title": "Fairfield by Marriott makes Thailand debut in Krabi’s Ao Nang District",
-        "url": "https://insights.ehotelier.com/properties/2026/11/09/fairfield-by-marriott-makes-thailand-debut-in-krabis-ao-nang-district/?utm_source=rss&utm_medium=rss&utm_campaign=fairfield-by-marriott-makes-thailand-debut-in-krabis-ao-nang-district",
-        "source": "eHotelier",
-        "source_name": "eHotelier"
-      }
-    },
-    {
-      "story_id": "story_0abc503ddf48",
-      "title": "Eight Communications appointed to lead communications for Novotel Sunshine Coast Resort",
-      "url": "https://insights.ehotelier.com/global-news/2026/11/09/eight-communications-appointed-to-lead-communications-for-novotel-sunshine-coast-resort/?utm_source=rss&utm_medium=rss&utm_campaign=eight-communications-appointed-to-lead-communications-for-novotel-sunshine-coast-resort",
-      "primary_url": "https://insights.ehotelier.com/global-news/2026/11/09/eight-communications-appointed-to-lead-communications-for-novotel-sunshine-coast-resort/?utm_source=rss&utm_medium=rss&utm_campaign=eight-communications-appointed-to-lead-communications-for-novotel-sunshine-coast-resort",
-      "source": "eHotelier",
-      "source_name": "eHotelier",
-      "sources": [
-        {
-          "id": "hotelitem_0abc503ddf48",
-          "title": "Eight Communications appointed to lead communications for Novotel Sunshine Coast Resort",
-          "url": "https://insights.ehotelier.com/global-news/2026/11/09/eight-communications-appointed-to-lead-communications-for-novotel-sunshine-coast-resort/?utm_source=rss&utm_medium=rss&utm_campaign=eight-communications-appointed-to-lead-communications-for-novotel-sunshine-coast-resort",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-11-09T00:28:11Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "eHotelier"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_0abc503ddf48",
-          "title": "Eight Communications appointed to lead communications for Novotel Sunshine Coast Resort",
-          "url": "https://insights.ehotelier.com/global-news/2026/11/09/eight-communications-appointed-to-lead-communications-for-novotel-sunshine-coast-resort/?utm_source=rss&utm_medium=rss&utm_campaign=eight-communications-appointed-to-lead-communications-for-novotel-sunshine-coast-resort",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-11-09T00:28:11Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.9515,
-      "importance": 0.5964,
-      "importance_score": 0.9515,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.982,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-09T00:28:11Z",
-      "latest_at": "2026-11-09T00:28:11Z",
-      "primary_item": {
-        "id": "hotelitem_0abc503ddf48",
-        "title": "Eight Communications appointed to lead communications for Novotel Sunshine Coast Resort",
-        "url": "https://insights.ehotelier.com/global-news/2026/11/09/eight-communications-appointed-to-lead-communications-for-novotel-sunshine-coast-resort/?utm_source=rss&utm_medium=rss&utm_campaign=eight-communications-appointed-to-lead-communications-for-novotel-sunshine-coast-resort",
-        "source": "eHotelier",
-        "source_name": "eHotelier"
-      }
-    },
     {
       "story_id": "story_e3feb7946c56",
       "title": "Host Hotels & Resorts buys 1 Hotel Brooklyn Bridge, Renaissance Plano",
@@ -215,14 +38,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9422,
-      "importance": 0.5867,
-      "importance_score": 0.9422,
+      "score": 0.9408,
+      "importance": 0.5853,
+      "importance_score": 0.9408,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9337,
+        "recency": 0.9266,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -274,14 +97,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9413,
-      "importance": 0.5857,
-      "importance_score": 0.9413,
+      "score": 0.9399,
+      "importance": 0.5843,
+      "importance_score": 0.9399,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9287,
+        "recency": 0.9216,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -333,14 +156,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9412,
-      "importance": 0.5857,
-      "importance_score": 0.9412,
+      "score": 0.9398,
+      "importance": 0.5842,
+      "importance_score": 0.9398,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9284,
+        "recency": 0.9212,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -359,7 +182,7 @@
     },
     {
       "story_id": "story_38f118547541",
-      "title": "Accor Group & Hard Rock International Form Strategic Partnership",
+      "title": "Accor Group and Hard Rock International Form Strategic Partnership",
       "url": "https://lodgingmagazine.com/accor-group-hard-rock-international-form-strategic-partnership/",
       "primary_url": "https://lodgingmagazine.com/accor-group-hard-rock-international-form-strategic-partnership/",
       "source": "Lodging Magazine",
@@ -367,7 +190,7 @@
       "sources": [
         {
           "id": "hotelitem_38f118547541",
-          "title": "Accor Group & Hard Rock International Form Strategic Partnership",
+          "title": "Accor Group and Hard Rock International Form Strategic Partnership",
           "url": "https://lodgingmagazine.com/accor-group-hard-rock-international-form-strategic-partnership/",
           "source": "Lodging Magazine",
           "source_name": "Lodging Magazine",
@@ -382,7 +205,7 @@
       "items": [
         {
           "id": "hotelitem_38f118547541",
-          "title": "Accor Group & Hard Rock International Form Strategic Partnership",
+          "title": "Accor Group and Hard Rock International Form Strategic Partnership",
           "url": "https://lodgingmagazine.com/accor-group-hard-rock-international-form-strategic-partnership/",
           "source": "Lodging Magazine",
           "source_name": "Lodging Magazine",
@@ -392,14 +215,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9393,
-      "importance": 0.5993,
-      "importance_score": 0.9393,
+      "score": 0.9379,
+      "importance": 0.5979,
+      "importance_score": 0.9379,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9964,
+        "recency": 0.9893,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -410,7 +233,7 @@
       "latest_at": "2026-11-09T16:00:28Z",
       "primary_item": {
         "id": "hotelitem_38f118547541",
-        "title": "Accor Group & Hard Rock International Form Strategic Partnership",
+        "title": "Accor Group and Hard Rock International Form Strategic Partnership",
         "url": "https://lodgingmagazine.com/accor-group-hard-rock-international-form-strategic-partnership/",
         "source": "Lodging Magazine",
         "source_name": "Lodging Magazine"
@@ -451,14 +274,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9391,
-      "importance": 0.5991,
-      "importance_score": 0.9391,
+      "score": 0.9377,
+      "importance": 0.5976,
+      "importance_score": 0.9377,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9954,
+        "recency": 0.9882,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -473,124 +296,6 @@
         "url": "https://lodgingmagazine.com/jw-marriott-washington-dc-announces-two-new-restaurant-concepts/",
         "source": "Lodging Magazine",
         "source_name": "Lodging Magazine"
-      }
-    },
-    {
-      "story_id": "story_d4453745e9ab",
-      "title": "Royal Phuket Marina invests in Phuket’s next generation with new learning centre",
-      "url": "https://insights.ehotelier.com/global-news/2026/11/06/royal-phuket-marina-invests-in-phukets-next-generation-with-new-learning-centre/?utm_source=rss&utm_medium=rss&utm_campaign=royal-phuket-marina-invests-in-phukets-next-generation-with-new-learning-centre",
-      "primary_url": "https://insights.ehotelier.com/global-news/2026/11/06/royal-phuket-marina-invests-in-phukets-next-generation-with-new-learning-centre/?utm_source=rss&utm_medium=rss&utm_campaign=royal-phuket-marina-invests-in-phukets-next-generation-with-new-learning-centre",
-      "source": "eHotelier",
-      "source_name": "eHotelier",
-      "sources": [
-        {
-          "id": "hotelitem_d4453745e9ab",
-          "title": "Royal Phuket Marina invests in Phuket’s next generation with new learning centre",
-          "url": "https://insights.ehotelier.com/global-news/2026/11/06/royal-phuket-marina-invests-in-phukets-next-generation-with-new-learning-centre/?utm_source=rss&utm_medium=rss&utm_campaign=royal-phuket-marina-invests-in-phukets-next-generation-with-new-learning-centre",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-11-06T01:00:38Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "eHotelier"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_d4453745e9ab",
-          "title": "Royal Phuket Marina invests in Phuket’s next generation with new learning centre",
-          "url": "https://insights.ehotelier.com/global-news/2026/11/06/royal-phuket-marina-invests-in-phukets-next-generation-with-new-learning-centre/?utm_source=rss&utm_medium=rss&utm_campaign=royal-phuket-marina-invests-in-phukets-next-generation-with-new-learning-centre",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-11-06T01:00:38Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.9388,
-      "importance": 0.5832,
-      "importance_score": 0.9388,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9159,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-06T01:00:38Z",
-      "latest_at": "2026-11-06T01:00:38Z",
-      "primary_item": {
-        "id": "hotelitem_d4453745e9ab",
-        "title": "Royal Phuket Marina invests in Phuket’s next generation with new learning centre",
-        "url": "https://insights.ehotelier.com/global-news/2026/11/06/royal-phuket-marina-invests-in-phukets-next-generation-with-new-learning-centre/?utm_source=rss&utm_medium=rss&utm_campaign=royal-phuket-marina-invests-in-phukets-next-generation-with-new-learning-centre",
-        "source": "eHotelier",
-        "source_name": "eHotelier"
-      }
-    },
-    {
-      "story_id": "story_7a706deaf1f0",
-      "title": "Luxury Market Trends: Global growth, consumer shifts and industry outlook",
-      "url": "https://insights.ehotelier.com/insights/2026/11/06/luxury-market-trends-global-growth-consumer-shifts-and-industry-outlook/?utm_source=rss&utm_medium=rss&utm_campaign=luxury-market-trends-global-growth-consumer-shifts-and-industry-outlook",
-      "primary_url": "https://insights.ehotelier.com/insights/2026/11/06/luxury-market-trends-global-growth-consumer-shifts-and-industry-outlook/?utm_source=rss&utm_medium=rss&utm_campaign=luxury-market-trends-global-growth-consumer-shifts-and-industry-outlook",
-      "source": "eHotelier",
-      "source_name": "eHotelier",
-      "sources": [
-        {
-          "id": "hotelitem_7a706deaf1f0",
-          "title": "Luxury Market Trends: Global growth, consumer shifts and industry outlook",
-          "url": "https://insights.ehotelier.com/insights/2026/11/06/luxury-market-trends-global-growth-consumer-shifts-and-industry-outlook/?utm_source=rss&utm_medium=rss&utm_campaign=luxury-market-trends-global-growth-consumer-shifts-and-industry-outlook",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-11-06T01:05:29Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "eHotelier"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_7a706deaf1f0",
-          "title": "Luxury Market Trends: Global growth, consumer shifts and industry outlook",
-          "url": "https://insights.ehotelier.com/insights/2026/11/06/luxury-market-trends-global-growth-consumer-shifts-and-industry-outlook/?utm_source=rss&utm_medium=rss&utm_campaign=luxury-market-trends-global-growth-consumer-shifts-and-industry-outlook",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-11-06T01:05:29Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.9388,
-      "importance": 0.5832,
-      "importance_score": 0.9388,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9159,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-06T01:05:29Z",
-      "latest_at": "2026-11-06T01:05:29Z",
-      "primary_item": {
-        "id": "hotelitem_7a706deaf1f0",
-        "title": "Luxury Market Trends: Global growth, consumer shifts and industry outlook",
-        "url": "https://insights.ehotelier.com/insights/2026/11/06/luxury-market-trends-global-growth-consumer-shifts-and-industry-outlook/?utm_source=rss&utm_medium=rss&utm_campaign=luxury-market-trends-global-growth-consumer-shifts-and-industry-outlook",
-        "source": "eHotelier",
-        "source_name": "eHotelier"
       }
     },
     {
@@ -628,14 +333,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9256,
-      "importance": 0.5851,
-      "importance_score": 0.9256,
+      "score": 0.9242,
+      "importance": 0.5836,
+      "importance_score": 0.9242,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9254,
+        "recency": 0.9182,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -687,14 +392,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.922,
-      "importance": 0.5813,
-      "importance_score": 0.922,
+      "score": 0.9206,
+      "importance": 0.5799,
+      "importance_score": 0.9206,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9065,
+        "recency": 0.8994,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -709,65 +414,6 @@
         "url": "https://boutiquehotelnews.com/news/esg-sustainability/mandarin-oriental-more/?utm_source=rss&utm_medium=rss&utm_campaign=mandarin-oriental-more",
         "source": "Boutique Hotel News",
         "source_name": "Boutique Hotel News"
-      }
-    },
-    {
-      "story_id": "story_07abe986da7e",
-      "title": "Power Where You Need It. Style Where You Want It.",
-      "url": "https://www.hotelmanagement.net/resource/power-where-you-need-it-style-where-you-want-it",
-      "primary_url": "https://www.hotelmanagement.net/resource/power-where-you-need-it-style-where-you-want-it",
-      "source": "Hotel Management",
-      "source_name": "Hotel Management",
-      "sources": [
-        {
-          "id": "hotelitem_07abe986da7e",
-          "title": "Power Where You Need It. Style Where You Want It.",
-          "url": "https://www.hotelmanagement.net/resource/power-where-you-need-it-style-where-you-want-it",
-          "source": "Hotel Management",
-          "source_name": "Hotel Management",
-          "site_id": "hotelmgmt",
-          "published_at": "2026-10-30T13:42:57Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hotel Management"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_07abe986da7e",
-          "title": "Power Where You Need It. Style Where You Want It.",
-          "url": "https://www.hotelmanagement.net/resource/power-where-you-need-it-style-where-you-want-it",
-          "source": "Hotel Management",
-          "source_name": "Hotel Management",
-          "site_id": "hotelmgmt",
-          "published_at": "2026-10-30T13:42:57Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.9038,
-      "importance": 0.5544,
-      "importance_score": 0.9038,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.7721,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-30T13:42:57Z",
-      "latest_at": "2026-10-30T13:42:57Z",
-      "primary_item": {
-        "id": "hotelitem_07abe986da7e",
-        "title": "Power Where You Need It. Style Where You Want It.",
-        "url": "https://www.hotelmanagement.net/resource/power-where-you-need-it-style-where-you-want-it",
-        "source": "Hotel Management",
-        "source_name": "Hotel Management"
       }
     },
     {
@@ -805,14 +451,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9036,
-      "importance": 0.5804,
-      "importance_score": 0.9036,
+      "score": 0.9023,
+      "importance": 0.579,
+      "importance_score": 0.9023,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9022,
+        "recency": 0.8951,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -830,6 +476,65 @@
       }
     },
     {
+      "story_id": "story_07abe986da7e",
+      "title": "Power Where You Need It. Style Where You Want It.",
+      "url": "https://www.hotelmanagement.net/resource/power-where-you-need-it-style-where-you-want-it",
+      "primary_url": "https://www.hotelmanagement.net/resource/power-where-you-need-it-style-where-you-want-it",
+      "source": "Hotel Management",
+      "source_name": "Hotel Management",
+      "sources": [
+        {
+          "id": "hotelitem_07abe986da7e",
+          "title": "Power Where You Need It. Style Where You Want It.",
+          "url": "https://www.hotelmanagement.net/resource/power-where-you-need-it-style-where-you-want-it",
+          "source": "Hotel Management",
+          "source_name": "Hotel Management",
+          "site_id": "hotelmgmt",
+          "published_at": "2026-10-30T13:42:57Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hotel Management"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_07abe986da7e",
+          "title": "Power Where You Need It. Style Where You Want It.",
+          "url": "https://www.hotelmanagement.net/resource/power-where-you-need-it-style-where-you-want-it",
+          "source": "Hotel Management",
+          "source_name": "Hotel Management",
+          "site_id": "hotelmgmt",
+          "published_at": "2026-10-30T13:42:57Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.9017,
+      "importance": 0.553,
+      "importance_score": 0.9017,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.7649,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-30T13:42:57Z",
+      "latest_at": "2026-10-30T13:42:57Z",
+      "primary_item": {
+        "id": "hotelitem_07abe986da7e",
+        "title": "Power Where You Need It. Style Where You Want It.",
+        "url": "https://www.hotelmanagement.net/resource/power-where-you-need-it-style-where-you-want-it",
+        "source": "Hotel Management",
+        "source_name": "Hotel Management"
+      }
+    },
+    {
       "story_id": "story_f49c27611d71",
       "title": "不搬店，搬能力：小米战略投资的尚美数智在雅加达160天开出当月盈利的SHANKEE酒店",
       "url": "https://www.tripvivid.com/48113.html",
@@ -844,7 +549,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-11-09T19:51:59.340443Z"
+          "published_at": "2026-11-10T03:36:20.581073Z"
         }
       ],
       "source_count": 1,
@@ -859,7 +564,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-11-09T19:51:59.340443Z"
+          "published_at": "2026-11-10T03:36:20.581073Z"
         }
       ],
       "item_count": 1,
@@ -878,8 +583,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-11-09T19:51:59.340443Z",
-      "latest_at": "2026-11-09T19:51:59.340443Z",
+      "earliest_at": "2026-11-10T03:36:20.581073Z",
+      "latest_at": "2026-11-10T03:36:20.581073Z",
       "primary_item": {
         "id": "hotelitem_f49c27611d71",
         "title": "不搬店，搬能力：小米战略投资的尚美数智在雅加达160天开出当月盈利的SHANKEE酒店",
@@ -903,7 +608,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-11-09T19:51:59.340443Z"
+          "published_at": "2026-11-10T03:36:20.581073Z"
         }
       ],
       "source_count": 1,
@@ -918,7 +623,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-11-09T19:51:59.340443Z"
+          "published_at": "2026-11-10T03:36:20.581073Z"
         }
       ],
       "item_count": 1,
@@ -937,8 +642,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-11-09T19:51:59.340443Z",
-      "latest_at": "2026-11-09T19:51:59.340443Z",
+      "earliest_at": "2026-11-10T03:36:20.581073Z",
+      "latest_at": "2026-11-10T03:36:20.581073Z",
       "primary_item": {
         "id": "hotelitem_06f191e24d38",
         "title": "文旅惠报|复星国际申请分拆Club Med在港上市；南京商旅上半年营收3.66亿元",
@@ -982,14 +687,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8922,
-      "importance": 0.5465,
-      "importance_score": 0.8922,
+      "score": 0.8901,
+      "importance": 0.5451,
+      "importance_score": 0.8901,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.7325,
+        "recency": 0.7254,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1007,62 +712,62 @@
       }
     },
     {
-      "story_id": "story_ddecd0e4dbff",
-      "title": "飞猪与澳大利亚塔斯马尼亚旅游局签署合作协议",
-      "url": "https://www.pinchain.com/article/352734",
-      "primary_url": "https://www.pinchain.com/article/352734",
-      "source": "品橙旅游",
-      "source_name": "品橙旅游",
+      "story_id": "story_6af7542e6229",
+      "title": "Apuestas Elite Estratégicas en Richroyal Casino",
+      "url": "https://insights.ehotelier.com/uncategorised/2026/11/10/apuestas-elite-estrategicas-en-richroyal-casino/?utm_source=rss&utm_medium=rss&utm_campaign=apuestas-elite-estrategicas-en-richroyal-casino",
+      "primary_url": "https://insights.ehotelier.com/uncategorised/2026/11/10/apuestas-elite-estrategicas-en-richroyal-casino/?utm_source=rss&utm_medium=rss&utm_campaign=apuestas-elite-estrategicas-en-richroyal-casino",
+      "source": "eHotelier",
+      "source_name": "eHotelier",
       "sources": [
         {
-          "id": "hotelitem_ddecd0e4dbff",
-          "title": "飞猪与澳大利亚塔斯马尼亚旅游局签署合作协议",
-          "url": "https://www.pinchain.com/article/352734",
-          "source": "品橙旅游",
-          "source_name": "品橙旅游",
-          "site_id": "pinchain",
-          "published_at": "2026-11-07T01:40:33Z"
+          "id": "hotelitem_6af7542e6229",
+          "title": "Apuestas Elite Estratégicas en Richroyal Casino",
+          "url": "https://insights.ehotelier.com/uncategorised/2026/11/10/apuestas-elite-estrategicas-en-richroyal-casino/?utm_source=rss&utm_medium=rss&utm_campaign=apuestas-elite-estrategicas-en-richroyal-casino",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-11-10T01:34:47Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "品橙旅游"
+        "eHotelier"
       ],
       "items": [
         {
-          "id": "hotelitem_ddecd0e4dbff",
-          "title": "飞猪与澳大利亚塔斯马尼亚旅游局签署合作协议",
-          "url": "https://www.pinchain.com/article/352734",
-          "source": "品橙旅游",
-          "source_name": "品橙旅游",
-          "site_id": "pinchain",
-          "published_at": "2026-11-07T01:40:33Z"
+          "id": "hotelitem_6af7542e6229",
+          "title": "Apuestas Elite Estratégicas en Richroyal Casino",
+          "url": "https://insights.ehotelier.com/uncategorised/2026/11/10/apuestas-elite-estrategicas-en-richroyal-casino/?utm_source=rss&utm_medium=rss&utm_campaign=apuestas-elite-estrategicas-en-richroyal-casino",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-11-10T01:34:47Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8732,
-      "importance": 0.5877,
-      "importance_score": 0.8732,
+      "score": 0.8646,
+      "importance": 0.5996,
+      "importance_score": 0.8646,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9387,
+        "recency": 0.9981,
         "story_heat": 0.0
       },
       "category": "watch",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-11-07T01:40:33Z",
-      "latest_at": "2026-11-07T01:40:33Z",
+      "earliest_at": "2026-11-10T01:34:47Z",
+      "latest_at": "2026-11-10T01:34:47Z",
       "primary_item": {
-        "id": "hotelitem_ddecd0e4dbff",
-        "title": "飞猪与澳大利亚塔斯马尼亚旅游局签署合作协议",
-        "url": "https://www.pinchain.com/article/352734",
-        "source": "品橙旅游",
-        "source_name": "品橙旅游"
+        "id": "hotelitem_6af7542e6229",
+        "title": "Apuestas Elite Estratégicas en Richroyal Casino",
+        "url": "https://insights.ehotelier.com/uncategorised/2026/11/10/apuestas-elite-estrategicas-en-richroyal-casino/?utm_source=rss&utm_medium=rss&utm_campaign=apuestas-elite-estrategicas-en-richroyal-casino",
+        "source": "eHotelier",
+        "source_name": "eHotelier"
       }
     },
     {
@@ -1100,14 +805,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.864,
-      "importance": 0.599,
-      "importance_score": 0.864,
+      "score": 0.8626,
+      "importance": 0.5975,
+      "importance_score": 0.8626,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9949,
+        "recency": 0.9877,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1125,65 +830,6 @@
       }
     },
     {
-      "story_id": "story_44b3d6a9e1b4",
-      "title": "OUTRIGGER Khao Lak Beach Resort’s Khao Lak-Born General Manager brings local insight to every stay",
-      "url": "https://insights.ehotelier.com/global-news/2026/11/09/outrigger-khao-lak-beach-resorts-khao-lak-born-general-manager-brings-local-insight-to-every-stay/?utm_source=rss&utm_medium=rss&utm_campaign=outrigger-khao-lak-beach-resorts-khao-lak-born-general-manager-brings-local-insight-to-every-stay",
-      "primary_url": "https://insights.ehotelier.com/global-news/2026/11/09/outrigger-khao-lak-beach-resorts-khao-lak-born-general-manager-brings-local-insight-to-every-stay/?utm_source=rss&utm_medium=rss&utm_campaign=outrigger-khao-lak-beach-resorts-khao-lak-born-general-manager-brings-local-insight-to-every-stay",
-      "source": "eHotelier",
-      "source_name": "eHotelier",
-      "sources": [
-        {
-          "id": "hotelitem_44b3d6a9e1b4",
-          "title": "OUTRIGGER Khao Lak Beach Resort’s Khao Lak-Born General Manager brings local insight to every stay",
-          "url": "https://insights.ehotelier.com/global-news/2026/11/09/outrigger-khao-lak-beach-resorts-khao-lak-born-general-manager-brings-local-insight-to-every-stay/?utm_source=rss&utm_medium=rss&utm_campaign=outrigger-khao-lak-beach-resorts-khao-lak-born-general-manager-brings-local-insight-to-every-stay",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-11-09T00:32:05Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "eHotelier"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_44b3d6a9e1b4",
-          "title": "OUTRIGGER Khao Lak Beach Resort’s Khao Lak-Born General Manager brings local insight to every stay",
-          "url": "https://insights.ehotelier.com/global-news/2026/11/09/outrigger-khao-lak-beach-resorts-khao-lak-born-general-manager-brings-local-insight-to-every-stay/?utm_source=rss&utm_medium=rss&utm_campaign=outrigger-khao-lak-beach-resorts-khao-lak-born-general-manager-brings-local-insight-to-every-stay",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-11-09T00:32:05Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8615,
-      "importance": 0.5964,
-      "importance_score": 0.8615,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9821,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-09T00:32:05Z",
-      "latest_at": "2026-11-09T00:32:05Z",
-      "primary_item": {
-        "id": "hotelitem_44b3d6a9e1b4",
-        "title": "OUTRIGGER Khao Lak Beach Resort’s Khao Lak-Born General Manager brings local insight to every stay",
-        "url": "https://insights.ehotelier.com/global-news/2026/11/09/outrigger-khao-lak-beach-resorts-khao-lak-born-general-manager-brings-local-insight-to-every-stay/?utm_source=rss&utm_medium=rss&utm_campaign=outrigger-khao-lak-beach-resorts-khao-lak-born-general-manager-brings-local-insight-to-every-stay",
-        "source": "eHotelier",
-        "source_name": "eHotelier"
-      }
-    },
-    {
       "story_id": "story_c7c15b7680c9",
       "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
       "url": "https://www.chinahotel.org.cn/articles/17408",
@@ -1198,7 +844,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-11-09T19:51:59.340443Z"
+          "published_at": "2026-11-10T03:36:20.581073Z"
         },
         {
           "id": "hotelitem_c7c15b7680c9",
@@ -1207,7 +853,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-11-09T19:51:59.340443Z"
+          "published_at": "2026-11-10T03:36:20.581073Z"
         }
       ],
       "source_count": 2,
@@ -1222,7 +868,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-11-09T19:51:59.340443Z"
+          "published_at": "2026-11-10T03:36:20.581073Z"
         },
         {
           "id": "hotelitem_c7c15b7680c9",
@@ -1231,7 +877,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-11-09T19:51:59.340443Z"
+          "published_at": "2026-11-10T03:36:20.581073Z"
         }
       ],
       "item_count": 2,
@@ -1251,8 +897,8 @@
         "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-11-09T19:51:59.340443Z",
-      "latest_at": "2026-11-09T19:51:59.340443Z",
+      "earliest_at": "2026-11-10T03:36:20.581073Z",
+      "latest_at": "2026-11-10T03:36:20.581073Z",
       "primary_item": {
         "id": "hotelitem_d4370964909c",
         "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
@@ -1262,21 +908,21 @@
       }
     },
     {
-      "story_id": "story_10d28ad47059",
-      "title": "岭南控股拟出资1亿元参设文旅产业股权投资基金",
-      "url": "https://www.meadin.com/wl/303851.html",
-      "primary_url": "https://www.meadin.com/wl/303851.html",
+      "story_id": "story_d2c9a3f5328b",
+      "title": "华发拟20亿元出售珠海万豪酒店",
+      "url": "https://www.meadin.com/jd/303875.html",
+      "primary_url": "https://www.meadin.com/jd/303875.html",
       "source": "迈点研究院",
       "source_name": "迈点研究院",
       "sources": [
         {
-          "id": "hotelitem_10d28ad47059",
-          "title": "岭南控股拟出资1亿元参设文旅产业股权投资基金",
-          "url": "https://www.meadin.com/wl/303851.html",
+          "id": "hotelitem_d2c9a3f5328b",
+          "title": "华发拟20亿元出售珠海万豪酒店",
+          "url": "https://www.meadin.com/jd/303875.html",
           "source": "迈点研究院",
           "source_name": "迈点研究院",
           "site_id": "meadin",
-          "published_at": "2026-11-09T19:51:59.340443Z"
+          "published_at": "2026-11-10T03:36:20.581073Z"
         }
       ],
       "source_count": 1,
@@ -1285,13 +931,13 @@
       ],
       "items": [
         {
-          "id": "hotelitem_10d28ad47059",
-          "title": "岭南控股拟出资1亿元参设文旅产业股权投资基金",
-          "url": "https://www.meadin.com/wl/303851.html",
+          "id": "hotelitem_d2c9a3f5328b",
+          "title": "华发拟20亿元出售珠海万豪酒店",
+          "url": "https://www.meadin.com/jd/303875.html",
           "source": "迈点研究院",
           "source_name": "迈点研究院",
           "site_id": "meadin",
-          "published_at": "2026-11-09T19:51:59.340443Z"
+          "published_at": "2026-11-10T03:36:20.581073Z"
         }
       ],
       "item_count": 1,
@@ -1310,8 +956,67 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-11-09T19:51:59.340443Z",
-      "latest_at": "2026-11-09T19:51:59.340443Z",
+      "earliest_at": "2026-11-10T03:36:20.581073Z",
+      "latest_at": "2026-11-10T03:36:20.581073Z",
+      "primary_item": {
+        "id": "hotelitem_d2c9a3f5328b",
+        "title": "华发拟20亿元出售珠海万豪酒店",
+        "url": "https://www.meadin.com/jd/303875.html",
+        "source": "迈点研究院",
+        "source_name": "迈点研究院"
+      }
+    },
+    {
+      "story_id": "story_10d28ad47059",
+      "title": "岭南控股拟出资1亿元参设文旅产业股权投资基金",
+      "url": "https://www.meadin.com/wl/303851.html",
+      "primary_url": "https://www.meadin.com/wl/303851.html",
+      "source": "迈点研究院",
+      "source_name": "迈点研究院",
+      "sources": [
+        {
+          "id": "hotelitem_10d28ad47059",
+          "title": "岭南控股拟出资1亿元参设文旅产业股权投资基金",
+          "url": "https://www.meadin.com/wl/303851.html",
+          "source": "迈点研究院",
+          "source_name": "迈点研究院",
+          "site_id": "meadin",
+          "published_at": "2026-11-10T03:36:20.581073Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "迈点研究院"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_10d28ad47059",
+          "title": "岭南控股拟出资1亿元参设文旅产业股权投资基金",
+          "url": "https://www.meadin.com/wl/303851.html",
+          "source": "迈点研究院",
+          "source_name": "迈点研究院",
+          "site_id": "meadin",
+          "published_at": "2026-11-10T03:36:20.581073Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.86,
+      "importance": 0.6,
+      "importance_score": 0.86,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-10T03:36:20.581073Z",
+      "latest_at": "2026-11-10T03:36:20.581073Z",
       "primary_item": {
         "id": "hotelitem_10d28ad47059",
         "title": "岭南控股拟出资1亿元参设文旅产业股权投资基金",
@@ -1335,7 +1040,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-11-09T19:51:59.340443Z"
+          "published_at": "2026-11-10T03:36:20.581073Z"
         }
       ],
       "source_count": 1,
@@ -1350,7 +1055,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-11-09T19:51:59.340443Z"
+          "published_at": "2026-11-10T03:36:20.581073Z"
         }
       ],
       "item_count": 1,
@@ -1369,8 +1074,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-11-09T19:51:59.340443Z",
-      "latest_at": "2026-11-09T19:51:59.340443Z",
+      "earliest_at": "2026-11-10T03:36:20.581073Z",
+      "latest_at": "2026-11-10T03:36:20.581073Z",
       "primary_item": {
         "id": "hotelitem_e4ce0593c384",
         "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
@@ -1394,7 +1099,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-11-09T19:51:59.340443Z"
+          "published_at": "2026-11-10T03:36:20.581073Z"
         }
       ],
       "source_count": 1,
@@ -1409,7 +1114,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-11-09T19:51:59.340443Z"
+          "published_at": "2026-11-10T03:36:20.581073Z"
         }
       ],
       "item_count": 1,
@@ -1428,8 +1133,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-11-09T19:51:59.340443Z",
-      "latest_at": "2026-11-09T19:51:59.340443Z",
+      "earliest_at": "2026-11-10T03:36:20.581073Z",
+      "latest_at": "2026-11-10T03:36:20.581073Z",
       "primary_item": {
         "id": "hotelitem_4adba65c20e7",
         "title": "文化和旅游部党组召开会议坚决拥护党中央对...",
@@ -1473,14 +1178,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8499,
-      "importance": 0.5999,
-      "importance_score": 0.8499,
+      "score": 0.8485,
+      "importance": 0.5984,
+      "importance_score": 0.8485,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9994,
+        "recency": 0.9922,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1532,14 +1237,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.849,
-      "importance": 0.5989,
-      "importance_score": 0.849,
+      "score": 0.8476,
+      "importance": 0.5975,
+      "importance_score": 0.8476,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9947,
+        "recency": 0.9875,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1591,14 +1296,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8488,
-      "importance": 0.5988,
-      "importance_score": 0.8488,
+      "score": 0.8474,
+      "importance": 0.5973,
+      "importance_score": 0.8474,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9938,
+        "recency": 0.9866,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1650,14 +1355,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8469,
-      "importance": 0.5812,
-      "importance_score": 0.8469,
+      "score": 0.8455,
+      "importance": 0.5798,
+      "importance_score": 0.8455,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9061,
+        "recency": 0.8989,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1709,14 +1414,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8426,
-      "importance": 0.5768,
-      "importance_score": 0.8426,
+      "score": 0.8412,
+      "importance": 0.5753,
+      "importance_score": 0.8412,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8838,
+        "recency": 0.8766,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1768,14 +1473,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8327,
-      "importance": 0.506,
-      "importance_score": 0.8327,
+      "score": 0.8306,
+      "importance": 0.5046,
+      "importance_score": 0.8306,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.5301,
+        "recency": 0.5229,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1790,6 +1495,301 @@
         "url": "https://www.hotelmanagement.net/resource/built-compete-why-hotel-technology-infrastructure-new-business-imperative",
         "source": "Hotel Management",
         "source_name": "Hotel Management"
+      }
+    },
+    {
+      "story_id": "story_42beb5feb6a7",
+      "title": "The Laslett appoints leadership team as hotel enters 11th year",
+      "url": "https://boutiquehotelnews.com/news/movers-and-shakers/the-laslett-leadership-team/?utm_source=rss&utm_medium=rss&utm_campaign=the-laslett-leadership-team",
+      "primary_url": "https://boutiquehotelnews.com/news/movers-and-shakers/the-laslett-leadership-team/?utm_source=rss&utm_medium=rss&utm_campaign=the-laslett-leadership-team",
+      "source": "Boutique Hotel News",
+      "source_name": "Boutique Hotel News",
+      "sources": [
+        {
+          "id": "hotelitem_42beb5feb6a7",
+          "title": "The Laslett appoints leadership team as hotel enters 11th year",
+          "url": "https://boutiquehotelnews.com/news/movers-and-shakers/the-laslett-leadership-team/?utm_source=rss&utm_medium=rss&utm_campaign=the-laslett-leadership-team",
+          "source": "Boutique Hotel News",
+          "source_name": "Boutique Hotel News",
+          "site_id": "boutiquehotel",
+          "published_at": "2026-11-04T12:22:08Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Boutique Hotel News"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_42beb5feb6a7",
+          "title": "The Laslett appoints leadership team as hotel enters 11th year",
+          "url": "https://boutiquehotelnews.com/news/movers-and-shakers/the-laslett-leadership-team/?utm_source=rss&utm_medium=rss&utm_campaign=the-laslett-leadership-team",
+          "source": "Boutique Hotel News",
+          "source_name": "Boutique Hotel News",
+          "site_id": "boutiquehotel",
+          "published_at": "2026-11-04T12:22:08Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8259,
+      "importance": 0.575,
+      "importance_score": 0.8259,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.8748,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-04T12:22:08Z",
+      "latest_at": "2026-11-04T12:22:08Z",
+      "primary_item": {
+        "id": "hotelitem_42beb5feb6a7",
+        "title": "The Laslett appoints leadership team as hotel enters 11th year",
+        "url": "https://boutiquehotelnews.com/news/movers-and-shakers/the-laslett-leadership-team/?utm_source=rss&utm_medium=rss&utm_campaign=the-laslett-leadership-team",
+        "source": "Boutique Hotel News",
+        "source_name": "Boutique Hotel News"
+      }
+    },
+    {
+      "story_id": "story_ac3e053020a7",
+      "title": "美团“美在广西”串联八桂冬季消费新体验",
+      "url": "https://www.pinchain.com/article/352812",
+      "primary_url": "https://www.pinchain.com/article/352812",
+      "source": "品橙旅游",
+      "source_name": "品橙旅游",
+      "sources": [
+        {
+          "id": "hotelitem_ac3e053020a7",
+          "title": "美团“美在广西”串联八桂冬季消费新体验",
+          "url": "https://www.pinchain.com/article/352812",
+          "source": "品橙旅游",
+          "source_name": "品橙旅游",
+          "site_id": "pinchain",
+          "published_at": "2026-11-10T02:23:21Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "品橙旅游"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_ac3e053020a7",
+          "title": "美团“美在广西”串联八桂冬季消费新体验",
+          "url": "https://www.pinchain.com/article/352812",
+          "source": "品橙旅游",
+          "source_name": "品橙旅游",
+          "site_id": "pinchain",
+          "published_at": "2026-11-10T02:23:21Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8173,
+      "importance": 0.5998,
+      "importance_score": 0.8173,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9989,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-10T02:23:21Z",
+      "latest_at": "2026-11-10T02:23:21Z",
+      "primary_item": {
+        "id": "hotelitem_ac3e053020a7",
+        "title": "美团“美在广西”串联八桂冬季消费新体验",
+        "url": "https://www.pinchain.com/article/352812",
+        "source": "品橙旅游",
+        "source_name": "品橙旅游"
+      }
+    },
+    {
+      "story_id": "story_db14a94f4e53",
+      "title": "众信旅游集团领队再度斩获北京导游大赛奖项",
+      "url": "https://www.pinchain.com/article/352790",
+      "primary_url": "https://www.pinchain.com/article/352790",
+      "source": "品橙旅游",
+      "source_name": "品橙旅游",
+      "sources": [
+        {
+          "id": "hotelitem_db14a94f4e53",
+          "title": "众信旅游集团领队再度斩获北京导游大赛奖项",
+          "url": "https://www.pinchain.com/article/352790",
+          "source": "品橙旅游",
+          "source_name": "品橙旅游",
+          "site_id": "pinchain",
+          "published_at": "2026-11-09T09:11:26Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "品橙旅游"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_db14a94f4e53",
+          "title": "众信旅游集团领队再度斩获北京导游大赛奖项",
+          "url": "https://www.pinchain.com/article/352790",
+          "source": "品橙旅游",
+          "source_name": "品橙旅游",
+          "site_id": "pinchain",
+          "published_at": "2026-11-09T09:11:26Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8142,
+      "importance": 0.5966,
+      "importance_score": 0.8142,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9829,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-09T09:11:26Z",
+      "latest_at": "2026-11-09T09:11:26Z",
+      "primary_item": {
+        "id": "hotelitem_db14a94f4e53",
+        "title": "众信旅游集团领队再度斩获北京导游大赛奖项",
+        "url": "https://www.pinchain.com/article/352790",
+        "source": "品橙旅游",
+        "source_name": "品橙旅游"
+      }
+    },
+    {
+      "story_id": "story_f5e6be814f5a",
+      "title": "桔子开启酒店界“健康早餐”时代",
+      "url": "https://www.pinchain.com/article/352793",
+      "primary_url": "https://www.pinchain.com/article/352793",
+      "source": "品橙旅游",
+      "source_name": "品橙旅游",
+      "sources": [
+        {
+          "id": "hotelitem_f5e6be814f5a",
+          "title": "桔子开启酒店界“健康早餐”时代",
+          "url": "https://www.pinchain.com/article/352793",
+          "source": "品橙旅游",
+          "source_name": "品橙旅游",
+          "site_id": "pinchain",
+          "published_at": "2026-11-09T09:15:24Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "品橙旅游"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_f5e6be814f5a",
+          "title": "桔子开启酒店界“健康早餐”时代",
+          "url": "https://www.pinchain.com/article/352793",
+          "source": "品橙旅游",
+          "source_name": "品橙旅游",
+          "site_id": "pinchain",
+          "published_at": "2026-11-09T09:15:24Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8142,
+      "importance": 0.5966,
+      "importance_score": 0.8142,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.983,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-09T09:15:24Z",
+      "latest_at": "2026-11-09T09:15:24Z",
+      "primary_item": {
+        "id": "hotelitem_f5e6be814f5a",
+        "title": "桔子开启酒店界“健康早餐”时代",
+        "url": "https://www.pinchain.com/article/352793",
+        "source": "品橙旅游",
+        "source_name": "品橙旅游"
+      }
+    },
+    {
+      "story_id": "story_c8540629a63f",
+      "title": "去哪儿：“抢订”2027年春节机票量同比增长43%",
+      "url": "https://www.pinchain.com/article/352783",
+      "primary_url": "https://www.pinchain.com/article/352783",
+      "source": "品橙旅游",
+      "source_name": "品橙旅游",
+      "sources": [
+        {
+          "id": "hotelitem_c8540629a63f",
+          "title": "去哪儿：“抢订”2027年春节机票量同比增长43%",
+          "url": "https://www.pinchain.com/article/352783",
+          "source": "品橙旅游",
+          "source_name": "品橙旅游",
+          "site_id": "pinchain",
+          "published_at": "2026-11-09T01:06:24Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "品橙旅游"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_c8540629a63f",
+          "title": "去哪儿：“抢订”2027年春节机票量同比增长43%",
+          "url": "https://www.pinchain.com/article/352783",
+          "source": "品橙旅游",
+          "source_name": "品橙旅游",
+          "site_id": "pinchain",
+          "published_at": "2026-11-09T01:06:24Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8128,
+      "importance": 0.5951,
+      "importance_score": 0.8128,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9755,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-09T01:06:24Z",
+      "latest_at": "2026-11-09T01:06:24Z",
+      "primary_item": {
+        "id": "hotelitem_c8540629a63f",
+        "title": "去哪儿：“抢订”2027年春节机票量同比增长43%",
+        "url": "https://www.pinchain.com/article/352783",
+        "source": "品橙旅游",
+        "source_name": "品橙旅游"
       }
     }
   ]
