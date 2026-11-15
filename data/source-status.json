@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-15T16:24:16.006865Z",
+  "generated_at": "2026-11-15T22:53:24.069237Z",
   "successful_sites": 23,
   "total_sites": 26,
-  "items_before_topic_filter": 142,
+  "items_before_topic_filter": 150,
   "sites": [
     {
       "site_id": "huazhu_ir",
@@ -10,7 +10,7 @@
       "category": "cr9_finance",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 98,
+      "duration_ms": 107,
       "error": "403 Client Error: Forbidden for url: https://www.globenewswire.com/en/search/keyword/Huazhu"
     },
     {
@@ -19,7 +19,7 @@
       "category": "cr9_finance",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 85714,
+      "duration_ms": 85689,
       "error": "HTTPSConnectionPool(host='ir.yaduo.com', port=443): Max retries exceeded with url: /rss/news-releases.xml (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='ir.yaduo.com', port=443): Read timed out. (read timeout=20)\")) | fallback: 403 Client Error: Forbidden for url: https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1853717&type=6-K&output=atom"
     },
     {
@@ -28,7 +28,7 @@
       "category": "cr9_finance",
       "ok": true,
       "item_count": 0,
-      "duration_ms": 2028,
+      "duration_ms": 2562,
       "error": null
     },
     {
@@ -37,7 +37,7 @@
       "category": "supply_chain",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 3376,
+      "duration_ms": 2876,
       "error": null
     },
     {
@@ -46,7 +46,7 @@
       "category": "policy",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 1482,
+      "duration_ms": 1707,
       "error": null
     },
     {
@@ -55,7 +55,7 @@
       "category": "policy",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 4193,
+      "duration_ms": 1919,
       "error": null
     },
     {
@@ -64,7 +64,7 @@
       "category": "supply_chain",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 2132,
+      "duration_ms": 1830,
       "error": null
     },
     {
@@ -73,7 +73,7 @@
       "category": "supply_chain",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 4328,
+      "duration_ms": 2356,
       "error": null
     },
     {
@@ -82,7 +82,7 @@
       "category": "supply_chain",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1473,
+      "duration_ms": 1328,
       "error": null
     },
     {
@@ -91,7 +91,7 @@
       "category": "ai_hotel",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 108,
+      "duration_ms": 120,
       "error": null
     },
     {
@@ -100,7 +100,7 @@
       "category": "ai_hotel",
       "ok": true,
       "item_count": 0,
-      "duration_ms": 1233,
+      "duration_ms": 1627,
       "error": null
     },
     {
@@ -109,7 +109,7 @@
       "category": "ai_hotel",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 854,
+      "duration_ms": 777,
       "error": null
     },
     {
@@ -118,7 +118,7 @@
       "category": "supply_chain",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 161,
+      "duration_ms": 238,
       "error": null
     },
     {
@@ -127,7 +127,7 @@
       "category": "supply_chain",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1048,
+      "duration_ms": 1659,
       "error": null
     },
     {
@@ -136,7 +136,7 @@
       "category": "ai_hotel",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 78,
+      "duration_ms": 188,
       "error": null
     },
     {
@@ -145,7 +145,7 @@
       "category": "ota",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 85,
+      "duration_ms": 93,
       "error": "403 Client Error: Forbidden for url: https://www.globenewswire.com/en/search/keyword/Trip.com%20Group"
     },
     {
@@ -154,7 +154,7 @@
       "category": "ota",
       "ok": true,
       "item_count": 0,
-      "duration_ms": 155,
+      "duration_ms": 491,
       "error": null
     },
     {
@@ -163,7 +163,7 @@
       "category": "ota",
       "ok": true,
       "item_count": 1,
-      "duration_ms": 8345,
+      "duration_ms": 189,
       "error": null
     },
     {
@@ -171,8 +171,8 @@
       "site_name": "Booking Holdings",
       "category": "ota",
       "ok": true,
-      "item_count": 0,
-      "duration_ms": 15301,
+      "item_count": 2,
+      "duration_ms": 130,
       "error": null
     },
     {
@@ -181,7 +181,7 @@
       "category": "ota",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 160,
+      "duration_ms": 189,
       "error": null
     },
     {
@@ -189,8 +189,8 @@
       "site_name": "Airbnb",
       "category": "ota",
       "ok": true,
-      "item_count": 0,
-      "duration_ms": 10239,
+      "item_count": 1,
+      "duration_ms": 137,
       "error": null
     },
     {
@@ -198,8 +198,8 @@
       "site_name": "TripAdvisor",
       "category": "ota",
       "ok": true,
-      "item_count": 0,
-      "duration_ms": 22847,
+      "item_count": 4,
+      "duration_ms": 1186,
       "error": null
     },
     {
@@ -208,7 +208,7 @@
       "category": "ota",
       "ok": true,
       "item_count": 0,
-      "duration_ms": 1216,
+      "duration_ms": 866,
       "error": null
     },
     {
@@ -217,7 +217,7 @@
       "category": "ota",
       "ok": true,
       "item_count": 0,
-      "duration_ms": 1766,
+      "duration_ms": 1849,
       "error": null
     },
     {
@@ -226,7 +226,7 @@
       "category": "ota",
       "ok": true,
       "item_count": 20,
-      "duration_ms": 5335,
+      "duration_ms": 4226,
       "error": null
     },
     {
@@ -235,7 +235,7 @@
       "category": "ota",
       "ok": true,
       "item_count": 0,
-      "duration_ms": 1589,
+      "duration_ms": 1480,
       "error": null
     }
   ]
