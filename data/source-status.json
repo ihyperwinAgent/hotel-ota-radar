@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-16T06:38:29.803552Z",
-  "successful_sites": 23,
+  "generated_at": "2026-11-16T19:39:10.817158Z",
+  "successful_sites": 21,
   "total_sites": 26,
-  "items_before_topic_filter": 150,
+  "items_before_topic_filter": 146,
   "sites": [
     {
       "site_id": "huazhu_ir",
@@ -10,7 +10,7 @@
       "category": "cr9_finance",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 199,
+      "duration_ms": 198,
       "error": "403 Client Error: Forbidden for url: https://www.globenewswire.com/en/search/keyword/Huazhu"
     },
     {
@@ -19,7 +19,7 @@
       "category": "cr9_finance",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 85722,
+      "duration_ms": 86087,
       "error": "HTTPSConnectionPool(host='ir.yaduo.com', port=443): Max retries exceeded with url: /rss/news-releases.xml (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='ir.yaduo.com', port=443): Read timed out. (read timeout=20)\")) | fallback: 403 Client Error: Forbidden for url: https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1853717&type=6-K&output=atom"
     },
     {
@@ -28,7 +28,7 @@
       "category": "cr9_finance",
       "ok": true,
       "item_count": 0,
-      "duration_ms": 3360,
+      "duration_ms": 1575,
       "error": null
     },
     {
@@ -37,7 +37,7 @@
       "category": "supply_chain",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 3209,
+      "duration_ms": 3351,
       "error": null
     },
     {
@@ -46,7 +46,7 @@
       "category": "policy",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 1974,
+      "duration_ms": 1621,
       "error": null
     },
     {
@@ -55,7 +55,7 @@
       "category": "policy",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 2838,
+      "duration_ms": 3493,
       "error": null
     },
     {
@@ -64,7 +64,7 @@
       "category": "supply_chain",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 2415,
+      "duration_ms": 2068,
       "error": null
     },
     {
@@ -73,7 +73,7 @@
       "category": "supply_chain",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 5047,
+      "duration_ms": 3083,
       "error": null
     },
     {
@@ -82,7 +82,7 @@
       "category": "supply_chain",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1731,
+      "duration_ms": 1501,
       "error": null
     },
     {
@@ -91,7 +91,7 @@
       "category": "ai_hotel",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 113,
+      "duration_ms": 175,
       "error": null
     },
     {
@@ -100,7 +100,7 @@
       "category": "ai_hotel",
       "ok": true,
       "item_count": 0,
-      "duration_ms": 1005,
+      "duration_ms": 1266,
       "error": null
     },
     {
@@ -109,7 +109,7 @@
       "category": "ai_hotel",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 856,
+      "duration_ms": 890,
       "error": null
     },
     {
@@ -118,7 +118,7 @@
       "category": "supply_chain",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 118,
+      "duration_ms": 414,
       "error": null
     },
     {
@@ -127,7 +127,7 @@
       "category": "supply_chain",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 729,
+      "duration_ms": 917,
       "error": null
     },
     {
@@ -136,7 +136,7 @@
       "category": "ai_hotel",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 55,
+      "duration_ms": 173,
       "error": null
     },
     {
@@ -145,7 +145,7 @@
       "category": "ota",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 69,
+      "duration_ms": 147,
       "error": "403 Client Error: Forbidden for url: https://www.globenewswire.com/en/search/keyword/Trip.com%20Group"
     },
     {
@@ -154,7 +154,7 @@
       "category": "ota",
       "ok": true,
       "item_count": 0,
-      "duration_ms": 181,
+      "duration_ms": 185,
       "error": null
     },
     {
@@ -163,17 +163,17 @@
       "category": "ota",
       "ok": true,
       "item_count": 1,
-      "duration_ms": 137,
+      "duration_ms": 53472,
       "error": null
     },
     {
       "site_id": "booking_sec",
       "site_name": "Booking Holdings",
       "category": "ota",
-      "ok": true,
-      "item_count": 2,
-      "duration_ms": 203,
-      "error": null
+      "ok": false,
+      "item_count": 0,
+      "duration_ms": 65467,
+      "error": "HTTPSConnectionPool(host='www.sec.gov', port=443): Max retries exceeded with url: /cgi-bin/browse-edgar?action=getcompany&CIK=1075531&type=8-K&count=10&output=atom (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='www.sec.gov', port=443): Read timed out. (read timeout=15)\"))"
     },
     {
       "site_id": "agoda_press",
@@ -181,17 +181,17 @@
       "category": "ota",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 159,
+      "duration_ms": 199,
       "error": null
     },
     {
       "site_id": "airbnb_sec",
       "site_name": "Airbnb",
       "category": "ota",
-      "ok": true,
-      "item_count": 1,
-      "duration_ms": 275,
-      "error": null
+      "ok": false,
+      "item_count": 0,
+      "duration_ms": 65419,
+      "error": "HTTPSConnectionPool(host='www.sec.gov', port=443): Max retries exceeded with url: /cgi-bin/browse-edgar?action=getcompany&CIK=1559720&type=8-K&count=10&output=atom (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='www.sec.gov', port=443): Read timed out. (read timeout=15)\"))"
     },
     {
       "site_id": "tripadvisor_sec",
@@ -199,7 +199,7 @@
       "category": "ota",
       "ok": true,
       "item_count": 4,
-      "duration_ms": 176,
+      "duration_ms": 9357,
       "error": null
     },
     {
@@ -208,7 +208,7 @@
       "category": "ota",
       "ok": true,
       "item_count": 0,
-      "duration_ms": 1101,
+      "duration_ms": 1112,
       "error": null
     },
     {
@@ -217,7 +217,7 @@
       "category": "ota",
       "ok": true,
       "item_count": 0,
-      "duration_ms": 1687,
+      "duration_ms": 2118,
       "error": null
     },
     {
@@ -226,7 +226,7 @@
       "category": "ota",
       "ok": true,
       "item_count": 20,
-      "duration_ms": 1928,
+      "duration_ms": 4488,
       "error": null
     },
     {
@@ -235,7 +235,7 @@
       "category": "ota",
       "ok": true,
       "item_count": 0,
-      "duration_ms": 1637,
+      "duration_ms": 1565,
       "error": null
     }
   ]
