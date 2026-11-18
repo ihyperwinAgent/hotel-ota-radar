@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T00:59:20.474106Z",
+  "generated_at": "2026-11-18T11:50:17.518190Z",
   "window_hours": 1080,
   "total_stories": 30,
   "stories": [
@@ -38,14 +38,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9549,
-      "importance": 0.5999,
-      "importance_score": 0.9549,
+      "score": 0.953,
+      "importance": 0.5979,
+      "importance_score": 0.953,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9996,
+        "recency": 0.9896,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -97,14 +97,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.938,
-      "importance": 0.5979,
-      "importance_score": 0.938,
+      "score": 0.936,
+      "importance": 0.5959,
+      "importance_score": 0.936,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9894,
+        "recency": 0.9793,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -156,14 +156,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.936,
-      "importance": 0.5803,
-      "importance_score": 0.936,
+      "score": 0.9341,
+      "importance": 0.5783,
+      "importance_score": 0.9341,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9015,
+        "recency": 0.8915,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -215,14 +215,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9274,
-      "importance": 0.5713,
-      "importance_score": 0.9274,
+      "score": 0.9254,
+      "importance": 0.5693,
+      "importance_score": 0.9254,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8566,
+        "recency": 0.8466,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -240,65 +240,6 @@
       }
     },
     {
-      "story_id": "story_98f7e38d0da8",
-      "title": "Accor signs strategic partnership with Hard Rock",
-      "url": "https://boutiquehotelnews.com/news/industry/accor-partnership-hard-rock/?utm_source=rss&utm_medium=rss&utm_campaign=accor-partnership-hard-rock",
-      "primary_url": "https://boutiquehotelnews.com/news/industry/accor-partnership-hard-rock/?utm_source=rss&utm_medium=rss&utm_campaign=accor-partnership-hard-rock",
-      "source": "Boutique Hotel News",
-      "source_name": "Boutique Hotel News",
-      "sources": [
-        {
-          "id": "hotelitem_98f7e38d0da8",
-          "title": "Accor signs strategic partnership with Hard Rock",
-          "url": "https://boutiquehotelnews.com/news/industry/accor-partnership-hard-rock/?utm_source=rss&utm_medium=rss&utm_campaign=accor-partnership-hard-rock",
-          "source": "Boutique Hotel News",
-          "source_name": "Boutique Hotel News",
-          "site_id": "boutiquehotel",
-          "published_at": "2026-11-10T10:24:53Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Boutique Hotel News"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_98f7e38d0da8",
-          "title": "Accor signs strategic partnership with Hard Rock",
-          "url": "https://boutiquehotelnews.com/news/industry/accor-partnership-hard-rock/?utm_source=rss&utm_medium=rss&utm_campaign=accor-partnership-hard-rock",
-          "source": "Boutique Hotel News",
-          "source_name": "Boutique Hotel News",
-          "site_id": "boutiquehotel",
-          "published_at": "2026-11-10T10:24:53Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.906,
-      "importance": 0.5662,
-      "importance_score": 0.906,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.8309,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-10T10:24:53Z",
-      "latest_at": "2026-11-10T10:24:53Z",
-      "primary_item": {
-        "id": "hotelitem_98f7e38d0da8",
-        "title": "Accor signs strategic partnership with Hard Rock",
-        "url": "https://boutiquehotelnews.com/news/industry/accor-partnership-hard-rock/?utm_source=rss&utm_medium=rss&utm_campaign=accor-partnership-hard-rock",
-        "source": "Boutique Hotel News",
-        "source_name": "Boutique Hotel News"
-      }
-    },
-    {
       "story_id": "story_f49c27611d71",
       "title": "不搬店，搬能力：小米战略投资的尚美数智在雅加达160天开出当月盈利的SHANKEE酒店",
       "url": "https://www.tripvivid.com/48113.html",
@@ -313,7 +254,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-11-18T00:59:20.474106Z"
+          "published_at": "2026-11-18T11:50:17.518190Z"
         }
       ],
       "source_count": 1,
@@ -328,7 +269,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-11-18T00:59:20.474106Z"
+          "published_at": "2026-11-18T11:50:17.518190Z"
         }
       ],
       "item_count": 1,
@@ -347,8 +288,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-11-18T00:59:20.474106Z",
-      "latest_at": "2026-11-18T00:59:20.474106Z",
+      "earliest_at": "2026-11-18T11:50:17.518190Z",
+      "latest_at": "2026-11-18T11:50:17.518190Z",
       "primary_item": {
         "id": "hotelitem_f49c27611d71",
         "title": "不搬店，搬能力：小米战略投资的尚美数智在雅加达160天开出当月盈利的SHANKEE酒店",
@@ -372,7 +313,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-11-18T00:59:20.474106Z"
+          "published_at": "2026-11-18T11:50:17.518190Z"
         }
       ],
       "source_count": 1,
@@ -387,7 +328,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-11-18T00:59:20.474106Z"
+          "published_at": "2026-11-18T11:50:17.518190Z"
         }
       ],
       "item_count": 1,
@@ -406,132 +347,14 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-11-18T00:59:20.474106Z",
-      "latest_at": "2026-11-18T00:59:20.474106Z",
+      "earliest_at": "2026-11-18T11:50:17.518190Z",
+      "latest_at": "2026-11-18T11:50:17.518190Z",
       "primary_item": {
         "id": "hotelitem_06f191e24d38",
         "title": "文旅惠报|复星国际申请分拆Club Med在港上市；南京商旅上半年营收3.66亿元",
         "url": "https://www.tripvivid.com/47868.html",
         "source": "执惠 TripVivid",
         "source_name": "执惠 TripVivid"
-      }
-    },
-    {
-      "story_id": "story_7aa0570a977f",
-      "title": "Luca Altieri appointed UNICEO® Vice President for Italy",
-      "url": "https://insights.ehotelier.com/people/2026/11/18/luca-altieri-appointed-uniceo-vice-president-for-italy/?utm_source=rss&utm_medium=rss&utm_campaign=luca-altieri-appointed-uniceo-vice-president-for-italy",
-      "primary_url": "https://insights.ehotelier.com/people/2026/11/18/luca-altieri-appointed-uniceo-vice-president-for-italy/?utm_source=rss&utm_medium=rss&utm_campaign=luca-altieri-appointed-uniceo-vice-president-for-italy",
-      "source": "eHotelier",
-      "source_name": "eHotelier",
-      "sources": [
-        {
-          "id": "hotelitem_7aa0570a977f",
-          "title": "Luca Altieri appointed UNICEO® Vice President for Italy",
-          "url": "https://insights.ehotelier.com/people/2026/11/18/luca-altieri-appointed-uniceo-vice-president-for-italy/?utm_source=rss&utm_medium=rss&utm_campaign=luca-altieri-appointed-uniceo-vice-president-for-italy",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-11-18T00:45:33Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "eHotelier"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_7aa0570a977f",
-          "title": "Luca Altieri appointed UNICEO® Vice President for Italy",
-          "url": "https://insights.ehotelier.com/people/2026/11/18/luca-altieri-appointed-uniceo-vice-president-for-italy/?utm_source=rss&utm_medium=rss&utm_campaign=luca-altieri-appointed-uniceo-vice-president-for-italy",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-11-18T00:45:33Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.865,
-      "importance": 0.6,
-      "importance_score": 0.865,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9998,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-18T00:45:33Z",
-      "latest_at": "2026-11-18T00:45:33Z",
-      "primary_item": {
-        "id": "hotelitem_7aa0570a977f",
-        "title": "Luca Altieri appointed UNICEO® Vice President for Italy",
-        "url": "https://insights.ehotelier.com/people/2026/11/18/luca-altieri-appointed-uniceo-vice-president-for-italy/?utm_source=rss&utm_medium=rss&utm_campaign=luca-altieri-appointed-uniceo-vice-president-for-italy",
-        "source": "eHotelier",
-        "source_name": "eHotelier"
-      }
-    },
-    {
-      "story_id": "story_d2223a7c9008",
-      "title": "Jorge Fernández appointed Cluster General Manager at Centara",
-      "url": "https://insights.ehotelier.com/people/2026/11/18/jorge-fernandez-appointed-cluster-general-manager-at-centara/?utm_source=rss&utm_medium=rss&utm_campaign=jorge-fernandez-appointed-cluster-general-manager-at-centara",
-      "primary_url": "https://insights.ehotelier.com/people/2026/11/18/jorge-fernandez-appointed-cluster-general-manager-at-centara/?utm_source=rss&utm_medium=rss&utm_campaign=jorge-fernandez-appointed-cluster-general-manager-at-centara",
-      "source": "eHotelier",
-      "source_name": "eHotelier",
-      "sources": [
-        {
-          "id": "hotelitem_d2223a7c9008",
-          "title": "Jorge Fernández appointed Cluster General Manager at Centara",
-          "url": "https://insights.ehotelier.com/people/2026/11/18/jorge-fernandez-appointed-cluster-general-manager-at-centara/?utm_source=rss&utm_medium=rss&utm_campaign=jorge-fernandez-appointed-cluster-general-manager-at-centara",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-11-18T00:50:08Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "eHotelier"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_d2223a7c9008",
-          "title": "Jorge Fernández appointed Cluster General Manager at Centara",
-          "url": "https://insights.ehotelier.com/people/2026/11/18/jorge-fernandez-appointed-cluster-general-manager-at-centara/?utm_source=rss&utm_medium=rss&utm_campaign=jorge-fernandez-appointed-cluster-general-manager-at-centara",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-11-18T00:50:08Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.865,
-      "importance": 0.6,
-      "importance_score": 0.865,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9999,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-18T00:50:08Z",
-      "latest_at": "2026-11-18T00:50:08Z",
-      "primary_item": {
-        "id": "hotelitem_d2223a7c9008",
-        "title": "Jorge Fernández appointed Cluster General Manager at Centara",
-        "url": "https://insights.ehotelier.com/people/2026/11/18/jorge-fernandez-appointed-cluster-general-manager-at-centara/?utm_source=rss&utm_medium=rss&utm_campaign=jorge-fernandez-appointed-cluster-general-manager-at-centara",
-        "source": "eHotelier",
-        "source_name": "eHotelier"
       }
     },
     {
@@ -569,14 +392,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.865,
-      "importance": 0.6,
-      "importance_score": 0.865,
+      "score": 0.8631,
+      "importance": 0.598,
+      "importance_score": 0.8631,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9999,
+        "recency": 0.9899,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -628,14 +451,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8649,
-      "importance": 0.5999,
-      "importance_score": 0.8649,
+      "score": 0.863,
+      "importance": 0.5979,
+      "importance_score": 0.863,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9997,
+        "recency": 0.9897,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -648,6 +471,124 @@
         "id": "hotelitem_41c8ee2bbab9",
         "title": "Hotel Indigo celebrates 40 open hotels in Greater China, bringing more neighbourhood stories to life",
         "url": "https://insights.ehotelier.com/properties/2026/11/18/hotel-indigo-celebrates-40-open-hotels-in-greater-china-bringing-more-neighbourhood-stories-to-life/?utm_source=rss&utm_medium=rss&utm_campaign=hotel-indigo-celebrates-40-open-hotels-in-greater-china-bringing-more-neighbourhood-stories-to-life",
+        "source": "eHotelier",
+        "source_name": "eHotelier"
+      }
+    },
+    {
+      "story_id": "story_7aa0570a977f",
+      "title": "Luca Altieri appointed UNICEO® Vice President for Italy",
+      "url": "https://insights.ehotelier.com/people/2026/11/18/luca-altieri-appointed-uniceo-vice-president-for-italy/?utm_source=rss&utm_medium=rss&utm_campaign=luca-altieri-appointed-uniceo-vice-president-for-italy",
+      "primary_url": "https://insights.ehotelier.com/people/2026/11/18/luca-altieri-appointed-uniceo-vice-president-for-italy/?utm_source=rss&utm_medium=rss&utm_campaign=luca-altieri-appointed-uniceo-vice-president-for-italy",
+      "source": "eHotelier",
+      "source_name": "eHotelier",
+      "sources": [
+        {
+          "id": "hotelitem_7aa0570a977f",
+          "title": "Luca Altieri appointed UNICEO® Vice President for Italy",
+          "url": "https://insights.ehotelier.com/people/2026/11/18/luca-altieri-appointed-uniceo-vice-president-for-italy/?utm_source=rss&utm_medium=rss&utm_campaign=luca-altieri-appointed-uniceo-vice-president-for-italy",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-11-18T00:45:33Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "eHotelier"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_7aa0570a977f",
+          "title": "Luca Altieri appointed UNICEO® Vice President for Italy",
+          "url": "https://insights.ehotelier.com/people/2026/11/18/luca-altieri-appointed-uniceo-vice-president-for-italy/?utm_source=rss&utm_medium=rss&utm_campaign=luca-altieri-appointed-uniceo-vice-president-for-italy",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-11-18T00:45:33Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.863,
+      "importance": 0.5979,
+      "importance_score": 0.863,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9897,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-18T00:45:33Z",
+      "latest_at": "2026-11-18T00:45:33Z",
+      "primary_item": {
+        "id": "hotelitem_7aa0570a977f",
+        "title": "Luca Altieri appointed UNICEO® Vice President for Italy",
+        "url": "https://insights.ehotelier.com/people/2026/11/18/luca-altieri-appointed-uniceo-vice-president-for-italy/?utm_source=rss&utm_medium=rss&utm_campaign=luca-altieri-appointed-uniceo-vice-president-for-italy",
+        "source": "eHotelier",
+        "source_name": "eHotelier"
+      }
+    },
+    {
+      "story_id": "story_d2223a7c9008",
+      "title": "Jorge Fernández appointed Cluster General Manager at Centara",
+      "url": "https://insights.ehotelier.com/people/2026/11/18/jorge-fernandez-appointed-cluster-general-manager-at-centara/?utm_source=rss&utm_medium=rss&utm_campaign=jorge-fernandez-appointed-cluster-general-manager-at-centara",
+      "primary_url": "https://insights.ehotelier.com/people/2026/11/18/jorge-fernandez-appointed-cluster-general-manager-at-centara/?utm_source=rss&utm_medium=rss&utm_campaign=jorge-fernandez-appointed-cluster-general-manager-at-centara",
+      "source": "eHotelier",
+      "source_name": "eHotelier",
+      "sources": [
+        {
+          "id": "hotelitem_d2223a7c9008",
+          "title": "Jorge Fernández appointed Cluster General Manager at Centara",
+          "url": "https://insights.ehotelier.com/people/2026/11/18/jorge-fernandez-appointed-cluster-general-manager-at-centara/?utm_source=rss&utm_medium=rss&utm_campaign=jorge-fernandez-appointed-cluster-general-manager-at-centara",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-11-18T00:50:08Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "eHotelier"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_d2223a7c9008",
+          "title": "Jorge Fernández appointed Cluster General Manager at Centara",
+          "url": "https://insights.ehotelier.com/people/2026/11/18/jorge-fernandez-appointed-cluster-general-manager-at-centara/?utm_source=rss&utm_medium=rss&utm_campaign=jorge-fernandez-appointed-cluster-general-manager-at-centara",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-11-18T00:50:08Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.863,
+      "importance": 0.598,
+      "importance_score": 0.863,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9898,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-18T00:50:08Z",
+      "latest_at": "2026-11-18T00:50:08Z",
+      "primary_item": {
+        "id": "hotelitem_d2223a7c9008",
+        "title": "Jorge Fernández appointed Cluster General Manager at Centara",
+        "url": "https://insights.ehotelier.com/people/2026/11/18/jorge-fernandez-appointed-cluster-general-manager-at-centara/?utm_source=rss&utm_medium=rss&utm_campaign=jorge-fernandez-appointed-cluster-general-manager-at-centara",
         "source": "eHotelier",
         "source_name": "eHotelier"
       }
@@ -687,14 +628,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8632,
-      "importance": 0.5981,
-      "importance_score": 0.8632,
+      "score": 0.8612,
+      "importance": 0.5961,
+      "importance_score": 0.8612,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9905,
+        "recency": 0.9804,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -712,62 +653,81 @@
       }
     },
     {
-      "story_id": "story_0a7fa21b2b13",
-      "title": "First Hospitality sets its sights on key trends shaping hotels and restaurants in 2027",
-      "url": "https://insights.ehotelier.com/global-news/2026/11/17/first-hospitality-sets-its-sights-on-key-trends-shaping-hotels-and-restaurants-in-2027/?utm_source=rss&utm_medium=rss&utm_campaign=first-hospitality-sets-its-sights-on-key-trends-shaping-hotels-and-restaurants-in-2027",
-      "primary_url": "https://insights.ehotelier.com/global-news/2026/11/17/first-hospitality-sets-its-sights-on-key-trends-shaping-hotels-and-restaurants-in-2027/?utm_source=rss&utm_medium=rss&utm_campaign=first-hospitality-sets-its-sights-on-key-trends-shaping-hotels-and-restaurants-in-2027",
-      "source": "eHotelier",
-      "source_name": "eHotelier",
+      "story_id": "story_c7c15b7680c9",
+      "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
+      "url": "https://www.chinahotel.org.cn/articles/17408",
+      "primary_url": "https://www.chinahotel.org.cn/articles/17408",
+      "source": "中国饭店协会",
+      "source_name": "中国饭店协会",
       "sources": [
         {
-          "id": "hotelitem_0a7fa21b2b13",
-          "title": "First Hospitality sets its sights on key trends shaping hotels and restaurants in 2027",
-          "url": "https://insights.ehotelier.com/global-news/2026/11/17/first-hospitality-sets-its-sights-on-key-trends-shaping-hotels-and-restaurants-in-2027/?utm_source=rss&utm_medium=rss&utm_campaign=first-hospitality-sets-its-sights-on-key-trends-shaping-hotels-and-restaurants-in-2027",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-11-17T00:55:59Z"
+          "id": "hotelitem_d4370964909c",
+          "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
+          "url": "https://www.chinahotel.org.cn/articles/17408",
+          "source": "中国饭店协会",
+          "source_name": "中国饭店协会",
+          "site_id": "chinahotel",
+          "published_at": "2026-11-18T11:50:17.518190Z"
+        },
+        {
+          "id": "hotelitem_c7c15b7680c9",
+          "title": "绿色饭店 | 2026年第一批国家标准绿色饭店名单公布 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007) 在全国组织开展国家标准绿色饭店的评定工作。现公布2026年第一批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
+          "url": "https://www.chinahotel.org.cn/articles/17689",
+          "source": "中国饭店协会",
+          "source_name": "中国饭店协会",
+          "site_id": "chinahotel",
+          "published_at": "2026-11-18T11:50:17.518190Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "eHotelier"
+        "中国饭店协会"
       ],
       "items": [
         {
-          "id": "hotelitem_0a7fa21b2b13",
-          "title": "First Hospitality sets its sights on key trends shaping hotels and restaurants in 2027",
-          "url": "https://insights.ehotelier.com/global-news/2026/11/17/first-hospitality-sets-its-sights-on-key-trends-shaping-hotels-and-restaurants-in-2027/?utm_source=rss&utm_medium=rss&utm_campaign=first-hospitality-sets-its-sights-on-key-trends-shaping-hotels-and-restaurants-in-2027",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-11-17T00:55:59Z"
+          "id": "hotelitem_d4370964909c",
+          "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
+          "url": "https://www.chinahotel.org.cn/articles/17408",
+          "source": "中国饭店协会",
+          "source_name": "中国饭店协会",
+          "site_id": "chinahotel",
+          "published_at": "2026-11-18T11:50:17.518190Z"
+        },
+        {
+          "id": "hotelitem_c7c15b7680c9",
+          "title": "绿色饭店 | 2026年第一批国家标准绿色饭店名单公布 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007) 在全国组织开展国家标准绿色饭店的评定工作。现公布2026年第一批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
+          "url": "https://www.chinahotel.org.cn/articles/17689",
+          "source": "中国饭店协会",
+          "source_name": "中国饭店协会",
+          "site_id": "chinahotel",
+          "published_at": "2026-11-18T11:50:17.518190Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8607,
-      "importance": 0.5955,
-      "importance_score": 0.8607,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.86,
+      "importance": 0.625,
+      "importance_score": 0.86,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9777,
-        "story_heat": 0.0
+        "recency": 1.0,
+        "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
+        "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-11-17T00:55:59Z",
-      "latest_at": "2026-11-17T00:55:59Z",
+      "earliest_at": "2026-11-18T11:50:17.518190Z",
+      "latest_at": "2026-11-18T11:50:17.518190Z",
       "primary_item": {
-        "id": "hotelitem_0a7fa21b2b13",
-        "title": "First Hospitality sets its sights on key trends shaping hotels and restaurants in 2027",
-        "url": "https://insights.ehotelier.com/global-news/2026/11/17/first-hospitality-sets-its-sights-on-key-trends-shaping-hotels-and-restaurants-in-2027/?utm_source=rss&utm_medium=rss&utm_campaign=first-hospitality-sets-its-sights-on-key-trends-shaping-hotels-and-restaurants-in-2027",
-        "source": "eHotelier",
-        "source_name": "eHotelier"
+        "id": "hotelitem_d4370964909c",
+        "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
+        "url": "https://www.chinahotel.org.cn/articles/17408",
+        "source": "中国饭店协会",
+        "source_name": "中国饭店协会"
       }
     },
     {
@@ -805,14 +765,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8607,
-      "importance": 0.5956,
-      "importance_score": 0.8607,
+      "score": 0.8588,
+      "importance": 0.5936,
+      "importance_score": 0.8588,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9779,
+        "recency": 0.9678,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -864,14 +824,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8607,
-      "importance": 0.5956,
-      "importance_score": 0.8607,
+      "score": 0.8588,
+      "importance": 0.5936,
+      "importance_score": 0.8588,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.978,
+        "recency": 0.9679,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -889,121 +849,43 @@
       }
     },
     {
-      "story_id": "story_c7c15b7680c9",
-      "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
-      "url": "https://www.chinahotel.org.cn/articles/17408",
-      "primary_url": "https://www.chinahotel.org.cn/articles/17408",
-      "source": "中国饭店协会",
-      "source_name": "中国饭店协会",
+      "story_id": "story_e4ce0593c384",
+      "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
+      "url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
+      "primary_url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
+      "source": "中国旅游研究院",
+      "source_name": "中国旅游研究院",
       "sources": [
         {
-          "id": "hotelitem_d4370964909c",
-          "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
-          "url": "https://www.chinahotel.org.cn/articles/17408",
-          "source": "中国饭店协会",
-          "source_name": "中国饭店协会",
-          "site_id": "chinahotel",
-          "published_at": "2026-11-18T00:59:20.474106Z"
-        },
-        {
-          "id": "hotelitem_c7c15b7680c9",
-          "title": "绿色饭店 | 2026年第一批国家标准绿色饭店名单公布 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007) 在全国组织开展国家标准绿色饭店的评定工作。现公布2026年第一批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
-          "url": "https://www.chinahotel.org.cn/articles/17689",
-          "source": "中国饭店协会",
-          "source_name": "中国饭店协会",
-          "site_id": "chinahotel",
-          "published_at": "2026-11-18T00:59:20.474106Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "中国饭店协会"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_d4370964909c",
-          "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
-          "url": "https://www.chinahotel.org.cn/articles/17408",
-          "source": "中国饭店协会",
-          "source_name": "中国饭店协会",
-          "site_id": "chinahotel",
-          "published_at": "2026-11-18T00:59:20.474106Z"
-        },
-        {
-          "id": "hotelitem_c7c15b7680c9",
-          "title": "绿色饭店 | 2026年第一批国家标准绿色饭店名单公布 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007) 在全国组织开展国家标准绿色饭店的评定工作。现公布2026年第一批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
-          "url": "https://www.chinahotel.org.cn/articles/17689",
-          "source": "中国饭店协会",
-          "source_name": "中国饭店协会",
-          "site_id": "chinahotel",
-          "published_at": "2026-11-18T00:59:20.474106Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.86,
-      "importance": 0.625,
-      "importance_score": 0.86,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-18T00:59:20.474106Z",
-      "latest_at": "2026-11-18T00:59:20.474106Z",
-      "primary_item": {
-        "id": "hotelitem_d4370964909c",
-        "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
-        "url": "https://www.chinahotel.org.cn/articles/17408",
-        "source": "中国饭店协会",
-        "source_name": "中国饭店协会"
-      }
-    },
-    {
-      "story_id": "story_b3b159e88ae1",
-      "title": "华住三季报：夯实高质量经营基本盘，锻造“中国服务”全球样本",
-      "url": "https://www.meadin.com/jd/304090.html",
-      "primary_url": "https://www.meadin.com/jd/304090.html",
-      "source": "迈点研究院",
-      "source_name": "迈点研究院",
-      "sources": [
-        {
-          "id": "hotelitem_b3b159e88ae1",
-          "title": "华住三季报：夯实高质量经营基本盘，锻造“中国服务”全球样本",
-          "url": "https://www.meadin.com/jd/304090.html",
-          "source": "迈点研究院",
-          "source_name": "迈点研究院",
-          "site_id": "meadin",
-          "published_at": "2026-11-18T00:59:20.474106Z"
+          "id": "hotelitem_e4ce0593c384",
+          "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
+          "url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
+          "source": "中国旅游研究院",
+          "source_name": "中国旅游研究院",
+          "site_id": "cta",
+          "published_at": "2026-11-18T11:50:17.518190Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "迈点研究院"
+        "中国旅游研究院"
       ],
       "items": [
         {
-          "id": "hotelitem_b3b159e88ae1",
-          "title": "华住三季报：夯实高质量经营基本盘，锻造“中国服务”全球样本",
-          "url": "https://www.meadin.com/jd/304090.html",
-          "source": "迈点研究院",
-          "source_name": "迈点研究院",
-          "site_id": "meadin",
-          "published_at": "2026-11-18T00:59:20.474106Z"
+          "id": "hotelitem_e4ce0593c384",
+          "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
+          "url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
+          "source": "中国旅游研究院",
+          "source_name": "中国旅游研究院",
+          "site_id": "cta",
+          "published_at": "2026-11-18T11:50:17.518190Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.86,
+      "score": 0.858,
       "importance": 0.6,
-      "importance_score": 0.86,
+      "importance_score": 0.858,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
@@ -1015,14 +897,73 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-11-18T00:59:20.474106Z",
-      "latest_at": "2026-11-18T00:59:20.474106Z",
+      "earliest_at": "2026-11-18T11:50:17.518190Z",
+      "latest_at": "2026-11-18T11:50:17.518190Z",
       "primary_item": {
-        "id": "hotelitem_b3b159e88ae1",
-        "title": "华住三季报：夯实高质量经营基本盘，锻造“中国服务”全球样本",
-        "url": "https://www.meadin.com/jd/304090.html",
-        "source": "迈点研究院",
-        "source_name": "迈点研究院"
+        "id": "hotelitem_e4ce0593c384",
+        "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
+        "url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
+        "source": "中国旅游研究院",
+        "source_name": "中国旅游研究院"
+      }
+    },
+    {
+      "story_id": "story_4adba65c20e7",
+      "title": "文化和旅游部党组召开会议坚决拥护党中央对...",
+      "url": "https://www.mct.gov.cn/whzx/whyw/202610/t20261010_967329.htm",
+      "primary_url": "https://www.mct.gov.cn/whzx/whyw/202610/t20261010_967329.htm",
+      "source": "文化和旅游部",
+      "source_name": "文化和旅游部",
+      "sources": [
+        {
+          "id": "hotelitem_4adba65c20e7",
+          "title": "文化和旅游部党组召开会议坚决拥护党中央对...",
+          "url": "https://www.mct.gov.cn/whzx/whyw/202610/t20261010_967329.htm",
+          "source": "文化和旅游部",
+          "source_name": "文化和旅游部",
+          "site_id": "mct",
+          "published_at": "2026-11-18T11:50:17.518190Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "文化和旅游部"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_4adba65c20e7",
+          "title": "文化和旅游部党组召开会议坚决拥护党中央对...",
+          "url": "https://www.mct.gov.cn/whzx/whyw/202610/t20261010_967329.htm",
+          "source": "文化和旅游部",
+          "source_name": "文化和旅游部",
+          "site_id": "mct",
+          "published_at": "2026-11-18T11:50:17.518190Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.858,
+      "importance": 0.6,
+      "importance_score": 0.858,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-18T11:50:17.518190Z",
+      "latest_at": "2026-11-18T11:50:17.518190Z",
+      "primary_item": {
+        "id": "hotelitem_4adba65c20e7",
+        "title": "文化和旅游部党组召开会议坚决拥护党中央对...",
+        "url": "https://www.mct.gov.cn/whzx/whyw/202610/t20261010_967329.htm",
+        "source": "文化和旅游部",
+        "source_name": "文化和旅游部"
       }
     },
     {
@@ -1060,14 +1001,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.859,
-      "importance": 0.5938,
-      "importance_score": 0.859,
+      "score": 0.8571,
+      "importance": 0.5918,
+      "importance_score": 0.8571,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9691,
+        "recency": 0.9591,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1082,124 +1023,6 @@
         "url": "https://www.hoteldive.com/news/3-more-chicago-hotels-join-citywide-strike/874747/",
         "source": "Hotel Dive",
         "source_name": "Hotel Dive"
-      }
-    },
-    {
-      "story_id": "story_e4ce0593c384",
-      "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
-      "url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
-      "primary_url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
-      "source": "中国旅游研究院",
-      "source_name": "中国旅游研究院",
-      "sources": [
-        {
-          "id": "hotelitem_e4ce0593c384",
-          "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
-          "url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
-          "source": "中国旅游研究院",
-          "source_name": "中国旅游研究院",
-          "site_id": "cta",
-          "published_at": "2026-11-18T00:59:20.474106Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "中国旅游研究院"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_e4ce0593c384",
-          "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
-          "url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
-          "source": "中国旅游研究院",
-          "source_name": "中国旅游研究院",
-          "site_id": "cta",
-          "published_at": "2026-11-18T00:59:20.474106Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.858,
-      "importance": 0.6,
-      "importance_score": 0.858,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-18T00:59:20.474106Z",
-      "latest_at": "2026-11-18T00:59:20.474106Z",
-      "primary_item": {
-        "id": "hotelitem_e4ce0593c384",
-        "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
-        "url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
-        "source": "中国旅游研究院",
-        "source_name": "中国旅游研究院"
-      }
-    },
-    {
-      "story_id": "story_4adba65c20e7",
-      "title": "文化和旅游部党组召开会议坚决拥护党中央对...",
-      "url": "https://www.mct.gov.cn/whzx/whyw/202610/t20261010_967329.htm",
-      "primary_url": "https://www.mct.gov.cn/whzx/whyw/202610/t20261010_967329.htm",
-      "source": "文化和旅游部",
-      "source_name": "文化和旅游部",
-      "sources": [
-        {
-          "id": "hotelitem_4adba65c20e7",
-          "title": "文化和旅游部党组召开会议坚决拥护党中央对...",
-          "url": "https://www.mct.gov.cn/whzx/whyw/202610/t20261010_967329.htm",
-          "source": "文化和旅游部",
-          "source_name": "文化和旅游部",
-          "site_id": "mct",
-          "published_at": "2026-11-18T00:59:20.474106Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "文化和旅游部"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_4adba65c20e7",
-          "title": "文化和旅游部党组召开会议坚决拥护党中央对...",
-          "url": "https://www.mct.gov.cn/whzx/whyw/202610/t20261010_967329.htm",
-          "source": "文化和旅游部",
-          "source_name": "文化和旅游部",
-          "site_id": "mct",
-          "published_at": "2026-11-18T00:59:20.474106Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.858,
-      "importance": 0.6,
-      "importance_score": 0.858,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-18T00:59:20.474106Z",
-      "latest_at": "2026-11-18T00:59:20.474106Z",
-      "primary_item": {
-        "id": "hotelitem_4adba65c20e7",
-        "title": "文化和旅游部党组召开会议坚决拥护党中央对...",
-        "url": "https://www.mct.gov.cn/whzx/whyw/202610/t20261010_967329.htm",
-        "source": "文化和旅游部",
-        "source_name": "文化和旅游部"
       }
     },
     {
@@ -1237,14 +1060,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8559,
-      "importance": 0.5439,
-      "importance_score": 0.8559,
+      "score": 0.8529,
+      "importance": 0.5419,
+      "importance_score": 0.8529,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.7197,
+        "recency": 0.7097,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1259,6 +1082,65 @@
         "url": "https://www.traveldaily.cn/article/190962",
         "source": "环球旅讯 TravelDaily",
         "source_name": "环球旅讯 TravelDaily"
+      }
+    },
+    {
+      "story_id": "story_07abe986da7e",
+      "title": "Power Where You Need It. Style Where You Want It.",
+      "url": "https://www.hotelmanagement.net/resource/power-where-you-need-it-style-where-you-want-it",
+      "primary_url": "https://www.hotelmanagement.net/resource/power-where-you-need-it-style-where-you-want-it",
+      "source": "Hotel Management",
+      "source_name": "Hotel Management",
+      "sources": [
+        {
+          "id": "hotelitem_07abe986da7e",
+          "title": "Power Where You Need It. Style Where You Want It.",
+          "url": "https://www.hotelmanagement.net/resource/power-where-you-need-it-style-where-you-want-it",
+          "source": "Hotel Management",
+          "source_name": "Hotel Management",
+          "site_id": "hotelmgmt",
+          "published_at": "2026-10-30T13:42:57Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hotel Management"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_07abe986da7e",
+          "title": "Power Where You Need It. Style Where You Want It.",
+          "url": "https://www.hotelmanagement.net/resource/power-where-you-need-it-style-where-you-want-it",
+          "source": "Hotel Management",
+          "source_name": "Hotel Management",
+          "site_id": "hotelmgmt",
+          "published_at": "2026-10-30T13:42:57Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8472,
+      "importance": 0.5159,
+      "importance_score": 0.8472,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.5795,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-30T13:42:57Z",
+      "latest_at": "2026-10-30T13:42:57Z",
+      "primary_item": {
+        "id": "hotelitem_07abe986da7e",
+        "title": "Power Where You Need It. Style Where You Want It.",
+        "url": "https://www.hotelmanagement.net/resource/power-where-you-need-it-style-where-you-want-it",
+        "source": "Hotel Management",
+        "source_name": "Hotel Management"
       }
     },
     {
@@ -1296,14 +1178,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8486,
-      "importance": 0.5986,
-      "importance_score": 0.8486,
+      "score": 0.8467,
+      "importance": 0.5966,
+      "importance_score": 0.8467,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9929,
+        "recency": 0.9829,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1355,14 +1237,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8443,
-      "importance": 0.5941,
-      "importance_score": 0.8443,
+      "score": 0.8423,
+      "importance": 0.592,
+      "importance_score": 0.8423,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9703,
+        "recency": 0.9602,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1414,14 +1296,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8418,
-      "importance": 0.5759,
-      "importance_score": 0.8418,
+      "score": 0.8398,
+      "importance": 0.5739,
+      "importance_score": 0.8398,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8796,
+        "recency": 0.8696,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1436,6 +1318,65 @@
         "url": "https://www.hoteldive.com/news/us-hotels-september-revpar-highest-increase-since-2023/874487/",
         "source": "Hotel Dive",
         "source_name": "Hotel Dive"
+      }
+    },
+    {
+      "story_id": "story_1398e1663c67",
+      "title": "Profit in the Details: How Smarter Purchasing Is Boosting Hotel Margins",
+      "url": "https://www.hotelmanagement.net/resource/profit-details-how-smarter-purchasing-boosting-hotel-margins",
+      "primary_url": "https://www.hotelmanagement.net/resource/profit-details-how-smarter-purchasing-boosting-hotel-margins",
+      "source": "Hotel Management",
+      "source_name": "Hotel Management",
+      "sources": [
+        {
+          "id": "hotelitem_1398e1663c67",
+          "title": "Profit in the Details: How Smarter Purchasing Is Boosting Hotel Margins",
+          "url": "https://www.hotelmanagement.net/resource/profit-details-how-smarter-purchasing-boosting-hotel-margins",
+          "source": "Hotel Management",
+          "source_name": "Hotel Management",
+          "site_id": "hotelmgmt",
+          "published_at": "2026-10-28T19:00:29Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hotel Management"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_1398e1663c67",
+          "title": "Profit in the Details: How Smarter Purchasing Is Boosting Hotel Margins",
+          "url": "https://www.hotelmanagement.net/resource/profit-details-how-smarter-purchasing-boosting-hotel-margins",
+          "source": "Hotel Management",
+          "source_name": "Hotel Management",
+          "site_id": "hotelmgmt",
+          "published_at": "2026-10-28T19:00:29Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8356,
+      "importance": 0.508,
+      "importance_score": 0.8356,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.54,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-28T19:00:29Z",
+      "latest_at": "2026-10-28T19:00:29Z",
+      "primary_item": {
+        "id": "hotelitem_1398e1663c67",
+        "title": "Profit in the Details: How Smarter Purchasing Is Boosting Hotel Margins",
+        "url": "https://www.hotelmanagement.net/resource/profit-details-how-smarter-purchasing-boosting-hotel-margins",
+        "source": "Hotel Management",
+        "source_name": "Hotel Management"
       }
     },
     {
@@ -1473,14 +1414,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8301,
-      "importance": 0.5794,
-      "importance_score": 0.8301,
+      "score": 0.8282,
+      "importance": 0.5774,
+      "importance_score": 0.8282,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8969,
+        "recency": 0.8869,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1495,6 +1436,65 @@
         "url": "https://boutiquehotelnews.com/news/movers-and-shakers/chancery-rosewood-md/?utm_source=rss&utm_medium=rss&utm_campaign=chancery-rosewood-md",
         "source": "Boutique Hotel News",
         "source_name": "Boutique Hotel News"
+      }
+    },
+    {
+      "story_id": "story_aa0c7820a14b",
+      "title": "华特迪士尼2026四季度体验板块营业利润22.5亿美元",
+      "url": "https://www.pinchain.com/article/353179",
+      "primary_url": "https://www.pinchain.com/article/353179",
+      "source": "品橙旅游",
+      "source_name": "品橙旅游",
+      "sources": [
+        {
+          "id": "hotelitem_aa0c7820a14b",
+          "title": "华特迪士尼2026四季度体验板块营业利润22.5亿美元",
+          "url": "https://www.pinchain.com/article/353179",
+          "source": "品橙旅游",
+          "source_name": "品橙旅游",
+          "site_id": "pinchain",
+          "published_at": "2026-11-18T05:47:40Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "品橙旅游"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_aa0c7820a14b",
+          "title": "华特迪士尼2026四季度体验板块营业利润22.5亿美元",
+          "url": "https://www.pinchain.com/article/353179",
+          "source": "品橙旅游",
+          "source_name": "品橙旅游",
+          "site_id": "pinchain",
+          "published_at": "2026-11-18T05:47:40Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8164,
+      "importance": 0.5989,
+      "importance_score": 0.8164,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9944,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-18T05:47:40Z",
+      "latest_at": "2026-11-18T05:47:40Z",
+      "primary_item": {
+        "id": "hotelitem_aa0c7820a14b",
+        "title": "华特迪士尼2026四季度体验板块营业利润22.5亿美元",
+        "url": "https://www.pinchain.com/article/353179",
+        "source": "品橙旅游",
+        "source_name": "品橙旅游"
       }
     },
     {
@@ -1532,14 +1532,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8177,
-      "importance": 0.5486,
-      "importance_score": 0.8177,
+      "score": 0.8148,
+      "importance": 0.5466,
+      "importance_score": 0.8148,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.743,
+        "recency": 0.7329,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1557,239 +1557,239 @@
       }
     },
     {
-      "story_id": "story_733661b8d0f1",
-      "title": "The Estate by sbe reveals $1 billion branded residence pipeline",
-      "url": "https://boutiquehotelnews.com/news/branded-residences/the-estate-sbe-pipeline/?utm_source=rss&utm_medium=rss&utm_campaign=the-estate-sbe-pipeline",
-      "primary_url": "https://boutiquehotelnews.com/news/branded-residences/the-estate-sbe-pipeline/?utm_source=rss&utm_medium=rss&utm_campaign=the-estate-sbe-pipeline",
-      "source": "Boutique Hotel News",
-      "source_name": "Boutique Hotel News",
+      "story_id": "story_84b7aa6b44f3",
+      "title": "Agoda Helps Fans Get to Eurovision Song Cont ... Agoda, the Official Travel Partner of Eurovision Song Contest Asia, is getting fans to the first-ever  ... November 4, 2026 / Travel Trends",
+      "url": "https://www.agoda.com/press/agoda-helps-fans-get-to-eurovision-song-contest-asias-first-grand-final-in-bangkok/",
+      "primary_url": "https://www.agoda.com/press/agoda-helps-fans-get-to-eurovision-song-contest-asias-first-grand-final-in-bangkok/",
+      "source": "Agoda",
+      "source_name": "Agoda",
       "sources": [
         {
-          "id": "hotelitem_733661b8d0f1",
-          "title": "The Estate by sbe reveals $1 billion branded residence pipeline",
-          "url": "https://boutiquehotelnews.com/news/branded-residences/the-estate-sbe-pipeline/?utm_source=rss&utm_medium=rss&utm_campaign=the-estate-sbe-pipeline",
-          "source": "Boutique Hotel News",
-          "source_name": "Boutique Hotel News",
-          "site_id": "boutiquehotel",
-          "published_at": "2026-11-10T10:03:31Z"
+          "id": "hotelitem_84b7aa6b44f3",
+          "title": "Agoda Helps Fans Get to Eurovision Song Cont ... Agoda, the Official Travel Partner of Eurovision Song Contest Asia, is getting fans to the first-ever  ... November 4, 2026 / Travel Trends",
+          "url": "https://www.agoda.com/press/agoda-helps-fans-get-to-eurovision-song-contest-asias-first-grand-final-in-bangkok/",
+          "source": "Agoda",
+          "source_name": "Agoda",
+          "site_id": "agoda_press",
+          "published_at": "2026-11-18T11:50:17.518190Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Boutique Hotel News"
+        "Agoda"
       ],
       "items": [
         {
-          "id": "hotelitem_733661b8d0f1",
-          "title": "The Estate by sbe reveals $1 billion branded residence pipeline",
-          "url": "https://boutiquehotelnews.com/news/branded-residences/the-estate-sbe-pipeline/?utm_source=rss&utm_medium=rss&utm_campaign=the-estate-sbe-pipeline",
-          "source": "Boutique Hotel News",
-          "source_name": "Boutique Hotel News",
-          "site_id": "boutiquehotel",
-          "published_at": "2026-11-10T10:03:31Z"
+          "id": "hotelitem_84b7aa6b44f3",
+          "title": "Agoda Helps Fans Get to Eurovision Song Cont ... Agoda, the Official Travel Partner of Eurovision Song Contest Asia, is getting fans to the first-ever  ... November 4, 2026 / Travel Trends",
+          "url": "https://www.agoda.com/press/agoda-helps-fans-get-to-eurovision-song-contest-asias-first-grand-final-in-bangkok/",
+          "source": "Agoda",
+          "source_name": "Agoda",
+          "site_id": "agoda_press",
+          "published_at": "2026-11-18T11:50:17.518190Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8159,
-      "importance": 0.5661,
-      "importance_score": 0.8159,
+      "score": 0.8125,
+      "importance": 0.6,
+      "importance_score": 0.8125,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8306,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "watch",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-11-10T10:03:31Z",
-      "latest_at": "2026-11-10T10:03:31Z",
+      "earliest_at": "2026-11-18T11:50:17.518190Z",
+      "latest_at": "2026-11-18T11:50:17.518190Z",
       "primary_item": {
-        "id": "hotelitem_733661b8d0f1",
-        "title": "The Estate by sbe reveals $1 billion branded residence pipeline",
-        "url": "https://boutiquehotelnews.com/news/branded-residences/the-estate-sbe-pipeline/?utm_source=rss&utm_medium=rss&utm_campaign=the-estate-sbe-pipeline",
-        "source": "Boutique Hotel News",
-        "source_name": "Boutique Hotel News"
+        "id": "hotelitem_84b7aa6b44f3",
+        "title": "Agoda Helps Fans Get to Eurovision Song Cont ... Agoda, the Official Travel Partner of Eurovision Song Contest Asia, is getting fans to the first-ever  ... November 4, 2026 / Travel Trends",
+        "url": "https://www.agoda.com/press/agoda-helps-fans-get-to-eurovision-song-contest-asias-first-grand-final-in-bangkok/",
+        "source": "Agoda",
+        "source_name": "Agoda"
       }
     },
     {
-      "story_id": "story_c239f7575d8e",
-      "title": "同程旅行：秋假家庭跨越半个中国去“追雪”",
-      "url": "https://www.pinchain.com/article/353112",
-      "primary_url": "https://www.pinchain.com/article/353112",
-      "source": "品橙旅游",
-      "source_name": "品橙旅游",
+      "story_id": "story_e8ae1de14799",
+      "title": "Agoda Partners with Marina Bay Sands on Besp ... The custom digital storefront brings together Marina Bay Sands’ rooms, suites and resort experiences,  ... October 1, 2026 / Partnership",
+      "url": "https://www.agoda.com/press/agoda-partners-with-marina-bay-sands-on-bespoke-flagship-store-for-experience-led-travel/",
+      "primary_url": "https://www.agoda.com/press/agoda-partners-with-marina-bay-sands-on-bespoke-flagship-store-for-experience-led-travel/",
+      "source": "Agoda",
+      "source_name": "Agoda",
       "sources": [
         {
-          "id": "hotelitem_c239f7575d8e",
-          "title": "同程旅行：秋假家庭跨越半个中国去“追雪”",
-          "url": "https://www.pinchain.com/article/353112",
-          "source": "品橙旅游",
-          "source_name": "品橙旅游",
-          "site_id": "pinchain",
-          "published_at": "2026-11-17T08:30:20Z"
+          "id": "hotelitem_e8ae1de14799",
+          "title": "Agoda Partners with Marina Bay Sands on Besp ... The custom digital storefront brings together Marina Bay Sands’ rooms, suites and resort experiences,  ... October 1, 2026 / Partnership",
+          "url": "https://www.agoda.com/press/agoda-partners-with-marina-bay-sands-on-bespoke-flagship-store-for-experience-led-travel/",
+          "source": "Agoda",
+          "source_name": "Agoda",
+          "site_id": "agoda_press",
+          "published_at": "2026-11-18T11:50:17.518190Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "品橙旅游"
+        "Agoda"
       ],
       "items": [
         {
-          "id": "hotelitem_c239f7575d8e",
-          "title": "同程旅行：秋假家庭跨越半个中国去“追雪”",
-          "url": "https://www.pinchain.com/article/353112",
-          "source": "品橙旅游",
-          "source_name": "品橙旅游",
-          "site_id": "pinchain",
-          "published_at": "2026-11-17T08:30:20Z"
+          "id": "hotelitem_e8ae1de14799",
+          "title": "Agoda Partners with Marina Bay Sands on Besp ... The custom digital storefront brings together Marina Bay Sands’ rooms, suites and resort experiences,  ... October 1, 2026 / Partnership",
+          "url": "https://www.agoda.com/press/agoda-partners-with-marina-bay-sands-on-bespoke-flagship-store-for-experience-led-travel/",
+          "source": "Agoda",
+          "source_name": "Agoda",
+          "site_id": "agoda_press",
+          "published_at": "2026-11-18T11:50:17.518190Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8146,
-      "importance": 0.5969,
-      "importance_score": 0.8146,
+      "score": 0.8125,
+      "importance": 0.6,
+      "importance_score": 0.8125,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9847,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "watch",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-11-17T08:30:20Z",
-      "latest_at": "2026-11-17T08:30:20Z",
+      "earliest_at": "2026-11-18T11:50:17.518190Z",
+      "latest_at": "2026-11-18T11:50:17.518190Z",
       "primary_item": {
-        "id": "hotelitem_c239f7575d8e",
-        "title": "同程旅行：秋假家庭跨越半个中国去“追雪”",
-        "url": "https://www.pinchain.com/article/353112",
-        "source": "品橙旅游",
-        "source_name": "品橙旅游"
+        "id": "hotelitem_e8ae1de14799",
+        "title": "Agoda Partners with Marina Bay Sands on Besp ... The custom digital storefront brings together Marina Bay Sands’ rooms, suites and resort experiences,  ... October 1, 2026 / Partnership",
+        "url": "https://www.agoda.com/press/agoda-partners-with-marina-bay-sands-on-bespoke-flagship-store-for-experience-led-travel/",
+        "source": "Agoda",
+        "source_name": "Agoda"
       }
     },
     {
-      "story_id": "story_3630dcdb4406",
-      "title": "携程“陪跑计划”为何盯上了常规门店",
-      "url": "https://www.pinchain.com/article/353116",
-      "primary_url": "https://www.pinchain.com/article/353116",
-      "source": "品橙旅游",
-      "source_name": "品橙旅游",
+      "story_id": "story_70ff67fbd50a",
+      "title": "Agoda and Busan Report Growth in First-Time  ... Digital travel platform Agoda and Busan Metropolitan City are marking the one-year anniversary of thei ... October 30, 2026 / Partnership",
+      "url": "https://www.agoda.com/press/agoda-and-busan-report-growth-in-first-time-and-repeat-visitors-in-first-year-of-partnership/",
+      "primary_url": "https://www.agoda.com/press/agoda-and-busan-report-growth-in-first-time-and-repeat-visitors-in-first-year-of-partnership/",
+      "source": "Agoda",
+      "source_name": "Agoda",
       "sources": [
         {
-          "id": "hotelitem_3630dcdb4406",
-          "title": "携程“陪跑计划”为何盯上了常规门店",
-          "url": "https://www.pinchain.com/article/353116",
-          "source": "品橙旅游",
-          "source_name": "品橙旅游",
-          "site_id": "pinchain",
-          "published_at": "2026-11-17T08:35:00Z"
+          "id": "hotelitem_70ff67fbd50a",
+          "title": "Agoda and Busan Report Growth in First-Time  ... Digital travel platform Agoda and Busan Metropolitan City are marking the one-year anniversary of thei ... October 30, 2026 / Partnership",
+          "url": "https://www.agoda.com/press/agoda-and-busan-report-growth-in-first-time-and-repeat-visitors-in-first-year-of-partnership/",
+          "source": "Agoda",
+          "source_name": "Agoda",
+          "site_id": "agoda_press",
+          "published_at": "2026-11-18T11:50:17.518190Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "品橙旅游"
+        "Agoda"
       ],
       "items": [
         {
-          "id": "hotelitem_3630dcdb4406",
-          "title": "携程“陪跑计划”为何盯上了常规门店",
-          "url": "https://www.pinchain.com/article/353116",
-          "source": "品橙旅游",
-          "source_name": "品橙旅游",
-          "site_id": "pinchain",
-          "published_at": "2026-11-17T08:35:00Z"
+          "id": "hotelitem_70ff67fbd50a",
+          "title": "Agoda and Busan Report Growth in First-Time  ... Digital travel platform Agoda and Busan Metropolitan City are marking the one-year anniversary of thei ... October 30, 2026 / Partnership",
+          "url": "https://www.agoda.com/press/agoda-and-busan-report-growth-in-first-time-and-repeat-visitors-in-first-year-of-partnership/",
+          "source": "Agoda",
+          "source_name": "Agoda",
+          "site_id": "agoda_press",
+          "published_at": "2026-11-18T11:50:17.518190Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8146,
-      "importance": 0.597,
-      "importance_score": 0.8146,
+      "score": 0.8125,
+      "importance": 0.6,
+      "importance_score": 0.8125,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9848,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "watch",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-11-17T08:35:00Z",
-      "latest_at": "2026-11-17T08:35:00Z",
+      "earliest_at": "2026-11-18T11:50:17.518190Z",
+      "latest_at": "2026-11-18T11:50:17.518190Z",
       "primary_item": {
-        "id": "hotelitem_3630dcdb4406",
-        "title": "携程“陪跑计划”为何盯上了常规门店",
-        "url": "https://www.pinchain.com/article/353116",
-        "source": "品橙旅游",
-        "source_name": "品橙旅游"
+        "id": "hotelitem_70ff67fbd50a",
+        "title": "Agoda and Busan Report Growth in First-Time  ... Digital travel platform Agoda and Busan Metropolitan City are marking the one-year anniversary of thei ... October 30, 2026 / Partnership",
+        "url": "https://www.agoda.com/press/agoda-and-busan-report-growth-in-first-time-and-repeat-visitors-in-first-year-of-partnership/",
+        "source": "Agoda",
+        "source_name": "Agoda"
       }
     },
     {
-      "story_id": "story_48edd4ef2065",
-      "title": "同程旅行:为了一场S赛,大批年轻人涌入电竞酒店",
-      "url": "https://www.pinchain.com/article/353108",
-      "primary_url": "https://www.pinchain.com/article/353108",
-      "source": "品橙旅游",
-      "source_name": "品橙旅游",
+      "story_id": "story_fbf410613f99",
+      "title": "Agoda and Emerging Travel Group Enter Strate ... Digital travel platform Agoda and Emerging Travel Group (ETG), a global travel technology company oper ... October 15, 2026 / Partnership",
+      "url": "https://www.agoda.com/press/agoda-and-emerging-travel-group-enter-strategic-partnership/",
+      "primary_url": "https://www.agoda.com/press/agoda-and-emerging-travel-group-enter-strategic-partnership/",
+      "source": "Agoda",
+      "source_name": "Agoda",
       "sources": [
         {
-          "id": "hotelitem_48edd4ef2065",
-          "title": "同程旅行:为了一场S赛,大批年轻人涌入电竞酒店",
-          "url": "https://www.pinchain.com/article/353108",
-          "source": "品橙旅游",
-          "source_name": "品橙旅游",
-          "site_id": "pinchain",
-          "published_at": "2026-11-17T07:03:29Z"
+          "id": "hotelitem_fbf410613f99",
+          "title": "Agoda and Emerging Travel Group Enter Strate ... Digital travel platform Agoda and Emerging Travel Group (ETG), a global travel technology company oper ... October 15, 2026 / Partnership",
+          "url": "https://www.agoda.com/press/agoda-and-emerging-travel-group-enter-strategic-partnership/",
+          "source": "Agoda",
+          "source_name": "Agoda",
+          "site_id": "agoda_press",
+          "published_at": "2026-11-18T11:50:17.518190Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "品橙旅游"
+        "Agoda"
       ],
       "items": [
         {
-          "id": "hotelitem_48edd4ef2065",
-          "title": "同程旅行:为了一场S赛,大批年轻人涌入电竞酒店",
-          "url": "https://www.pinchain.com/article/353108",
-          "source": "品橙旅游",
-          "source_name": "品橙旅游",
-          "site_id": "pinchain",
-          "published_at": "2026-11-17T07:03:29Z"
+          "id": "hotelitem_fbf410613f99",
+          "title": "Agoda and Emerging Travel Group Enter Strate ... Digital travel platform Agoda and Emerging Travel Group (ETG), a global travel technology company oper ... October 15, 2026 / Partnership",
+          "url": "https://www.agoda.com/press/agoda-and-emerging-travel-group-enter-strategic-partnership/",
+          "source": "Agoda",
+          "source_name": "Agoda",
+          "site_id": "agoda_press",
+          "published_at": "2026-11-18T11:50:17.518190Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8143,
-      "importance": 0.5967,
-      "importance_score": 0.8143,
+      "score": 0.8125,
+      "importance": 0.6,
+      "importance_score": 0.8125,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9834,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "watch",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-11-17T07:03:29Z",
-      "latest_at": "2026-11-17T07:03:29Z",
+      "earliest_at": "2026-11-18T11:50:17.518190Z",
+      "latest_at": "2026-11-18T11:50:17.518190Z",
       "primary_item": {
-        "id": "hotelitem_48edd4ef2065",
-        "title": "同程旅行:为了一场S赛,大批年轻人涌入电竞酒店",
-        "url": "https://www.pinchain.com/article/353108",
-        "source": "品橙旅游",
-        "source_name": "品橙旅游"
+        "id": "hotelitem_fbf410613f99",
+        "title": "Agoda and Emerging Travel Group Enter Strate ... Digital travel platform Agoda and Emerging Travel Group (ETG), a global travel technology company oper ... October 15, 2026 / Partnership",
+        "url": "https://www.agoda.com/press/agoda-and-emerging-travel-group-enter-strategic-partnership/",
+        "source": "Agoda",
+        "source_name": "Agoda"
       }
     }
   ]
