@@ -1,8 +1,67 @@
 {
-  "generated_at": "2026-11-18T11:50:17.518190Z",
+  "generated_at": "2026-11-18T20:37:19.452188Z",
   "window_hours": 1080,
   "total_items": 30,
   "items": [
+    {
+      "story_id": "story_69df27f13c1a",
+      "title": "Apartment Collection by Hilton signs first international properties",
+      "url": "https://www.hoteldive.com/news/apartment-collection-by-hilton-signs-first-international-properties/875028/",
+      "primary_url": "https://www.hoteldive.com/news/apartment-collection-by-hilton-signs-first-international-properties/875028/",
+      "source": "Hotel Dive",
+      "source_name": "Hotel Dive",
+      "sources": [
+        {
+          "id": "hotelitem_69df27f13c1a",
+          "title": "Apartment Collection by Hilton signs first international properties",
+          "url": "https://www.hoteldive.com/news/apartment-collection-by-hilton-signs-first-international-properties/875028/",
+          "source": "Hotel Dive",
+          "source_name": "Hotel Dive",
+          "site_id": "hoteldive",
+          "published_at": "2026-11-18T14:49:40Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hotel Dive"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_69df27f13c1a",
+          "title": "Apartment Collection by Hilton signs first international properties",
+          "url": "https://www.hoteldive.com/news/apartment-collection-by-hilton-signs-first-international-properties/875028/",
+          "source": "Hotel Dive",
+          "source_name": "Hotel Dive",
+          "site_id": "hoteldive",
+          "published_at": "2026-11-18T14:49:40Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.954,
+      "importance": 0.5989,
+      "importance_score": 0.954,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9946,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-18T14:49:40Z",
+      "latest_at": "2026-11-18T14:49:40Z",
+      "primary_item": {
+        "id": "hotelitem_69df27f13c1a",
+        "title": "Apartment Collection by Hilton signs first international properties",
+        "url": "https://www.hoteldive.com/news/apartment-collection-by-hilton-signs-first-international-properties/875028/",
+        "source": "Hotel Dive",
+        "source_name": "Hotel Dive"
+      }
+    },
     {
       "story_id": "story_05f633cd9432",
       "title": "The Lanesborough introduces Maison Martini,  an exclusive cocktail destination for the season",
@@ -38,14 +97,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.953,
-      "importance": 0.5979,
-      "importance_score": 0.953,
+      "score": 0.9514,
+      "importance": 0.5963,
+      "importance_score": 0.9514,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9896,
+        "recency": 0.9815,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -63,21 +122,21 @@
       }
     },
     {
-      "story_id": "story_e1d435c9903c",
-      "title": "Stonebridge Adds Sofitel Chicago Magnificent Mile to Its Portfolio",
-      "url": "https://lodgingmagazine.com/stonebridge-adds-sofitel-chicago-magnificent-mile-to-its-portfolio/",
-      "primary_url": "https://lodgingmagazine.com/stonebridge-adds-sofitel-chicago-magnificent-mile-to-its-portfolio/",
+      "story_id": "story_c052fc3b6e68",
+      "title": "Accor Agrees to Increase Its Ennismore Stake",
+      "url": "https://lodgingmagazine.com/accor-agrees-to-increase-its-ennismore-stake/",
+      "primary_url": "https://lodgingmagazine.com/accor-agrees-to-increase-its-ennismore-stake/",
       "source": "Lodging Magazine",
       "source_name": "Lodging Magazine",
       "sources": [
         {
-          "id": "hotelitem_e1d435c9903c",
-          "title": "Stonebridge Adds Sofitel Chicago Magnificent Mile to Its Portfolio",
-          "url": "https://lodgingmagazine.com/stonebridge-adds-sofitel-chicago-magnificent-mile-to-its-portfolio/",
+          "id": "hotelitem_c052fc3b6e68",
+          "title": "Accor Agrees to Increase Its Ennismore Stake",
+          "url": "https://lodgingmagazine.com/accor-agrees-to-increase-its-ennismore-stake/",
           "source": "Lodging Magazine",
           "source_name": "Lodging Magazine",
           "site_id": "lodgingmag",
-          "published_at": "2026-11-17T13:31:13Z"
+          "published_at": "2026-11-18T14:35:23Z"
         }
       ],
       "source_count": 1,
@@ -86,39 +145,98 @@
       ],
       "items": [
         {
-          "id": "hotelitem_e1d435c9903c",
-          "title": "Stonebridge Adds Sofitel Chicago Magnificent Mile to Its Portfolio",
-          "url": "https://lodgingmagazine.com/stonebridge-adds-sofitel-chicago-magnificent-mile-to-its-portfolio/",
+          "id": "hotelitem_c052fc3b6e68",
+          "title": "Accor Agrees to Increase Its Ennismore Stake",
+          "url": "https://lodgingmagazine.com/accor-agrees-to-increase-its-ennismore-stake/",
           "source": "Lodging Magazine",
           "source_name": "Lodging Magazine",
           "site_id": "lodgingmag",
-          "published_at": "2026-11-17T13:31:13Z"
+          "published_at": "2026-11-18T14:35:23Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.936,
-      "importance": 0.5959,
-      "importance_score": 0.936,
+      "score": 0.9389,
+      "importance": 0.5989,
+      "importance_score": 0.9389,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9793,
+        "recency": 0.9944,
         "story_heat": 0.0
       },
       "category": "watch",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-11-17T13:31:13Z",
-      "latest_at": "2026-11-17T13:31:13Z",
+      "earliest_at": "2026-11-18T14:35:23Z",
+      "latest_at": "2026-11-18T14:35:23Z",
       "primary_item": {
-        "id": "hotelitem_e1d435c9903c",
-        "title": "Stonebridge Adds Sofitel Chicago Magnificent Mile to Its Portfolio",
-        "url": "https://lodgingmagazine.com/stonebridge-adds-sofitel-chicago-magnificent-mile-to-its-portfolio/",
+        "id": "hotelitem_c052fc3b6e68",
+        "title": "Accor Agrees to Increase Its Ennismore Stake",
+        "url": "https://lodgingmagazine.com/accor-agrees-to-increase-its-ennismore-stake/",
         "source": "Lodging Magazine",
         "source_name": "Lodging Magazine"
+      }
+    },
+    {
+      "story_id": "story_c7bae6db4d07",
+      "title": "Accor to invest €1.6 billion increasing stake in Ennismore",
+      "url": "https://boutiquehotelnews.com/news/finance-and-investment/accor-stakes-ennismore/?utm_source=rss&utm_medium=rss&utm_campaign=accor-stakes-ennismore",
+      "primary_url": "https://boutiquehotelnews.com/news/finance-and-investment/accor-stakes-ennismore/?utm_source=rss&utm_medium=rss&utm_campaign=accor-stakes-ennismore",
+      "source": "Boutique Hotel News",
+      "source_name": "Boutique Hotel News",
+      "sources": [
+        {
+          "id": "hotelitem_c7bae6db4d07",
+          "title": "Accor to invest €1.6 billion increasing stake in Ennismore",
+          "url": "https://boutiquehotelnews.com/news/finance-and-investment/accor-stakes-ennismore/?utm_source=rss&utm_medium=rss&utm_campaign=accor-stakes-ennismore",
+          "source": "Boutique Hotel News",
+          "source_name": "Boutique Hotel News",
+          "site_id": "boutiquehotel",
+          "published_at": "2026-11-18T12:17:38Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Boutique Hotel News"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_c7bae6db4d07",
+          "title": "Accor to invest €1.6 billion increasing stake in Ennismore",
+          "url": "https://boutiquehotelnews.com/news/finance-and-investment/accor-stakes-ennismore/?utm_source=rss&utm_medium=rss&utm_campaign=accor-stakes-ennismore",
+          "source": "Boutique Hotel News",
+          "source_name": "Boutique Hotel News",
+          "site_id": "boutiquehotel",
+          "published_at": "2026-11-18T12:17:38Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.9385,
+      "importance": 0.5985,
+      "importance_score": 0.9385,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9923,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-18T12:17:38Z",
+      "latest_at": "2026-11-18T12:17:38Z",
+      "primary_item": {
+        "id": "hotelitem_c7bae6db4d07",
+        "title": "Accor to invest €1.6 billion increasing stake in Ennismore",
+        "url": "https://boutiquehotelnews.com/news/finance-and-investment/accor-stakes-ennismore/?utm_source=rss&utm_medium=rss&utm_campaign=accor-stakes-ennismore",
+        "source": "Boutique Hotel News",
+        "source_name": "Boutique Hotel News"
       }
     },
     {
@@ -156,14 +274,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9341,
-      "importance": 0.5783,
-      "importance_score": 0.9341,
+      "score": 0.9325,
+      "importance": 0.5767,
+      "importance_score": 0.9325,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8915,
+        "recency": 0.8834,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -176,65 +294,6 @@
         "id": "hotelitem_28585e3d426f",
         "title": "Lodging Lowdown: Hyatt opens lifestyle JdV hotel in Pacific Northwest",
         "url": "https://www.hoteldive.com/news/hyatt-opens-lifestyle-jdv-hotel-pnw-aihg-names-execs/874611/",
-        "source": "Hotel Dive",
-        "source_name": "Hotel Dive"
-      }
-    },
-    {
-      "story_id": "story_bed0838a4e85",
-      "title": "EOS Investors acquires Hyatt Centric in Boston",
-      "url": "https://www.hoteldive.com/news/eos-investors-acquires-hyatt-centric-boston/874364/",
-      "primary_url": "https://www.hoteldive.com/news/eos-investors-acquires-hyatt-centric-boston/874364/",
-      "source": "Hotel Dive",
-      "source_name": "Hotel Dive",
-      "sources": [
-        {
-          "id": "hotelitem_bed0838a4e85",
-          "title": "EOS Investors acquires Hyatt Centric in Boston",
-          "url": "https://www.hoteldive.com/news/eos-investors-acquires-hyatt-centric-boston/874364/",
-          "source": "Hotel Dive",
-          "source_name": "Hotel Dive",
-          "site_id": "hoteldive",
-          "published_at": "2026-11-11T14:09:32Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hotel Dive"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_bed0838a4e85",
-          "title": "EOS Investors acquires Hyatt Centric in Boston",
-          "url": "https://www.hoteldive.com/news/eos-investors-acquires-hyatt-centric-boston/874364/",
-          "source": "Hotel Dive",
-          "source_name": "Hotel Dive",
-          "site_id": "hoteldive",
-          "published_at": "2026-11-11T14:09:32Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.9254,
-      "importance": 0.5693,
-      "importance_score": 0.9254,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.8466,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-11T14:09:32Z",
-      "latest_at": "2026-11-11T14:09:32Z",
-      "primary_item": {
-        "id": "hotelitem_bed0838a4e85",
-        "title": "EOS Investors acquires Hyatt Centric in Boston",
-        "url": "https://www.hoteldive.com/news/eos-investors-acquires-hyatt-centric-boston/874364/",
         "source": "Hotel Dive",
         "source_name": "Hotel Dive"
       }
@@ -254,7 +313,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-11-18T11:50:17.518190Z"
+          "published_at": "2026-11-18T20:37:19.452188Z"
         }
       ],
       "source_count": 1,
@@ -269,7 +328,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-11-18T11:50:17.518190Z"
+          "published_at": "2026-11-18T20:37:19.452188Z"
         }
       ],
       "item_count": 1,
@@ -288,8 +347,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-11-18T11:50:17.518190Z",
-      "latest_at": "2026-11-18T11:50:17.518190Z",
+      "earliest_at": "2026-11-18T20:37:19.452188Z",
+      "latest_at": "2026-11-18T20:37:19.452188Z",
       "primary_item": {
         "id": "hotelitem_f49c27611d71",
         "title": "不搬店，搬能力：小米战略投资的尚美数智在雅加达160天开出当月盈利的SHANKEE酒店",
@@ -313,7 +372,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-11-18T11:50:17.518190Z"
+          "published_at": "2026-11-18T20:37:19.452188Z"
         }
       ],
       "source_count": 1,
@@ -328,7 +387,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-11-18T11:50:17.518190Z"
+          "published_at": "2026-11-18T20:37:19.452188Z"
         }
       ],
       "item_count": 1,
@@ -347,8 +406,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-11-18T11:50:17.518190Z",
-      "latest_at": "2026-11-18T11:50:17.518190Z",
+      "earliest_at": "2026-11-18T20:37:19.452188Z",
+      "latest_at": "2026-11-18T20:37:19.452188Z",
       "primary_item": {
         "id": "hotelitem_06f191e24d38",
         "title": "文旅惠报|复星国际申请分拆Club Med在港上市；南京商旅上半年营收3.66亿元",
@@ -358,121 +417,62 @@
       }
     },
     {
-      "story_id": "story_db24d0318a89",
-      "title": "Mews announces new alliance partnership with preferred hotels & resorts, The world’s largest independent hotel brand",
-      "url": "https://insights.ehotelier.com/global-news/2026/11/18/mews-announces-new-alliance-partnership-with-preferred-hotels-resorts-the-worlds-largest-independent-hotel-brand/?utm_source=rss&utm_medium=rss&utm_campaign=mews-announces-new-alliance-partnership-with-preferred-hotels-resorts-the-worlds-largest-independent-hotel-brand",
-      "primary_url": "https://insights.ehotelier.com/global-news/2026/11/18/mews-announces-new-alliance-partnership-with-preferred-hotels-resorts-the-worlds-largest-independent-hotel-brand/?utm_source=rss&utm_medium=rss&utm_campaign=mews-announces-new-alliance-partnership-with-preferred-hotels-resorts-the-worlds-largest-independent-hotel-brand",
-      "source": "eHotelier",
-      "source_name": "eHotelier",
+      "story_id": "story_aa6c7aa6c176",
+      "title": "雅高携手鹏瑞再度签约莱佛士酒店 百年奢华品牌进驻广州·鹏瑞1号",
+      "url": "https://www.traveldaily.cn/article/191039",
+      "primary_url": "https://www.traveldaily.cn/article/191039",
+      "source": "环球旅讯 TravelDaily",
+      "source_name": "环球旅讯 TravelDaily",
       "sources": [
         {
-          "id": "hotelitem_db24d0318a89",
-          "title": "Mews announces new alliance partnership with preferred hotels & resorts, The world’s largest independent hotel brand",
-          "url": "https://insights.ehotelier.com/global-news/2026/11/18/mews-announces-new-alliance-partnership-with-preferred-hotels-resorts-the-worlds-largest-independent-hotel-brand/?utm_source=rss&utm_medium=rss&utm_campaign=mews-announces-new-alliance-partnership-with-preferred-hotels-resorts-the-worlds-largest-independent-hotel-brand",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-11-18T00:55:43Z"
+          "id": "hotelitem_aa6c7aa6c176",
+          "title": "雅高携手鹏瑞再度签约莱佛士酒店 百年奢华品牌进驻广州·鹏瑞1号",
+          "url": "https://www.traveldaily.cn/article/191039",
+          "source": "环球旅讯 TravelDaily",
+          "source_name": "环球旅讯 TravelDaily",
+          "site_id": "traveldaily",
+          "published_at": "2026-11-18T20:44:39Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "eHotelier"
+        "环球旅讯 TravelDaily"
       ],
       "items": [
         {
-          "id": "hotelitem_db24d0318a89",
-          "title": "Mews announces new alliance partnership with preferred hotels & resorts, The world’s largest independent hotel brand",
-          "url": "https://insights.ehotelier.com/global-news/2026/11/18/mews-announces-new-alliance-partnership-with-preferred-hotels-resorts-the-worlds-largest-independent-hotel-brand/?utm_source=rss&utm_medium=rss&utm_campaign=mews-announces-new-alliance-partnership-with-preferred-hotels-resorts-the-worlds-largest-independent-hotel-brand",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-11-18T00:55:43Z"
+          "id": "hotelitem_aa6c7aa6c176",
+          "title": "雅高携手鹏瑞再度签约莱佛士酒店 百年奢华品牌进驻广州·鹏瑞1号",
+          "url": "https://www.traveldaily.cn/article/191039",
+          "source": "环球旅讯 TravelDaily",
+          "source_name": "环球旅讯 TravelDaily",
+          "site_id": "traveldaily",
+          "published_at": "2026-11-18T20:44:39Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8631,
-      "importance": 0.598,
-      "importance_score": 0.8631,
+      "score": 0.8775,
+      "importance": 0.6,
+      "importance_score": 0.8775,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9899,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "watch",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-11-18T00:55:43Z",
-      "latest_at": "2026-11-18T00:55:43Z",
+      "earliest_at": "2026-11-18T20:44:39Z",
+      "latest_at": "2026-11-18T20:44:39Z",
       "primary_item": {
-        "id": "hotelitem_db24d0318a89",
-        "title": "Mews announces new alliance partnership with preferred hotels & resorts, The world’s largest independent hotel brand",
-        "url": "https://insights.ehotelier.com/global-news/2026/11/18/mews-announces-new-alliance-partnership-with-preferred-hotels-resorts-the-worlds-largest-independent-hotel-brand/?utm_source=rss&utm_medium=rss&utm_campaign=mews-announces-new-alliance-partnership-with-preferred-hotels-resorts-the-worlds-largest-independent-hotel-brand",
-        "source": "eHotelier",
-        "source_name": "eHotelier"
-      }
-    },
-    {
-      "story_id": "story_41c8ee2bbab9",
-      "title": "Hotel Indigo celebrates 40 open hotels in Greater China, bringing more neighbourhood stories to life",
-      "url": "https://insights.ehotelier.com/properties/2026/11/18/hotel-indigo-celebrates-40-open-hotels-in-greater-china-bringing-more-neighbourhood-stories-to-life/?utm_source=rss&utm_medium=rss&utm_campaign=hotel-indigo-celebrates-40-open-hotels-in-greater-china-bringing-more-neighbourhood-stories-to-life",
-      "primary_url": "https://insights.ehotelier.com/properties/2026/11/18/hotel-indigo-celebrates-40-open-hotels-in-greater-china-bringing-more-neighbourhood-stories-to-life/?utm_source=rss&utm_medium=rss&utm_campaign=hotel-indigo-celebrates-40-open-hotels-in-greater-china-bringing-more-neighbourhood-stories-to-life",
-      "source": "eHotelier",
-      "source_name": "eHotelier",
-      "sources": [
-        {
-          "id": "hotelitem_41c8ee2bbab9",
-          "title": "Hotel Indigo celebrates 40 open hotels in Greater China, bringing more neighbourhood stories to life",
-          "url": "https://insights.ehotelier.com/properties/2026/11/18/hotel-indigo-celebrates-40-open-hotels-in-greater-china-bringing-more-neighbourhood-stories-to-life/?utm_source=rss&utm_medium=rss&utm_campaign=hotel-indigo-celebrates-40-open-hotels-in-greater-china-bringing-more-neighbourhood-stories-to-life",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-11-18T00:40:37Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "eHotelier"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_41c8ee2bbab9",
-          "title": "Hotel Indigo celebrates 40 open hotels in Greater China, bringing more neighbourhood stories to life",
-          "url": "https://insights.ehotelier.com/properties/2026/11/18/hotel-indigo-celebrates-40-open-hotels-in-greater-china-bringing-more-neighbourhood-stories-to-life/?utm_source=rss&utm_medium=rss&utm_campaign=hotel-indigo-celebrates-40-open-hotels-in-greater-china-bringing-more-neighbourhood-stories-to-life",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-11-18T00:40:37Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.863,
-      "importance": 0.5979,
-      "importance_score": 0.863,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9897,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-18T00:40:37Z",
-      "latest_at": "2026-11-18T00:40:37Z",
-      "primary_item": {
-        "id": "hotelitem_41c8ee2bbab9",
-        "title": "Hotel Indigo celebrates 40 open hotels in Greater China, bringing more neighbourhood stories to life",
-        "url": "https://insights.ehotelier.com/properties/2026/11/18/hotel-indigo-celebrates-40-open-hotels-in-greater-china-bringing-more-neighbourhood-stories-to-life/?utm_source=rss&utm_medium=rss&utm_campaign=hotel-indigo-celebrates-40-open-hotels-in-greater-china-bringing-more-neighbourhood-stories-to-life",
-        "source": "eHotelier",
-        "source_name": "eHotelier"
+        "id": "hotelitem_aa6c7aa6c176",
+        "title": "雅高携手鹏瑞再度签约莱佛士酒店 百年奢华品牌进驻广州·鹏瑞1号",
+        "url": "https://www.traveldaily.cn/article/191039",
+        "source": "环球旅讯 TravelDaily",
+        "source_name": "环球旅讯 TravelDaily"
       }
     },
     {
@@ -510,14 +510,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.863,
-      "importance": 0.5979,
-      "importance_score": 0.863,
+      "score": 0.8615,
+      "importance": 0.5963,
+      "importance_score": 0.8615,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9897,
+        "recency": 0.9816,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -569,14 +569,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.863,
-      "importance": 0.598,
-      "importance_score": 0.863,
+      "score": 0.8615,
+      "importance": 0.5963,
+      "importance_score": 0.8615,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9898,
+        "recency": 0.9817,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -591,6 +591,202 @@
         "url": "https://insights.ehotelier.com/people/2026/11/18/jorge-fernandez-appointed-cluster-general-manager-at-centara/?utm_source=rss&utm_medium=rss&utm_campaign=jorge-fernandez-appointed-cluster-general-manager-at-centara",
         "source": "eHotelier",
         "source_name": "eHotelier"
+      }
+    },
+    {
+      "story_id": "story_db24d0318a89",
+      "title": "Mews announces new alliance partnership with preferred hotels & resorts, The world’s largest independent hotel brand",
+      "url": "https://insights.ehotelier.com/global-news/2026/11/18/mews-announces-new-alliance-partnership-with-preferred-hotels-resorts-the-worlds-largest-independent-hotel-brand/?utm_source=rss&utm_medium=rss&utm_campaign=mews-announces-new-alliance-partnership-with-preferred-hotels-resorts-the-worlds-largest-independent-hotel-brand",
+      "primary_url": "https://insights.ehotelier.com/global-news/2026/11/18/mews-announces-new-alliance-partnership-with-preferred-hotels-resorts-the-worlds-largest-independent-hotel-brand/?utm_source=rss&utm_medium=rss&utm_campaign=mews-announces-new-alliance-partnership-with-preferred-hotels-resorts-the-worlds-largest-independent-hotel-brand",
+      "source": "eHotelier",
+      "source_name": "eHotelier",
+      "sources": [
+        {
+          "id": "hotelitem_db24d0318a89",
+          "title": "Mews announces new alliance partnership with preferred hotels & resorts, The world’s largest independent hotel brand",
+          "url": "https://insights.ehotelier.com/global-news/2026/11/18/mews-announces-new-alliance-partnership-with-preferred-hotels-resorts-the-worlds-largest-independent-hotel-brand/?utm_source=rss&utm_medium=rss&utm_campaign=mews-announces-new-alliance-partnership-with-preferred-hotels-resorts-the-worlds-largest-independent-hotel-brand",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-11-18T00:55:43Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "eHotelier"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_db24d0318a89",
+          "title": "Mews announces new alliance partnership with preferred hotels & resorts, The world’s largest independent hotel brand",
+          "url": "https://insights.ehotelier.com/global-news/2026/11/18/mews-announces-new-alliance-partnership-with-preferred-hotels-resorts-the-worlds-largest-independent-hotel-brand/?utm_source=rss&utm_medium=rss&utm_campaign=mews-announces-new-alliance-partnership-with-preferred-hotels-resorts-the-worlds-largest-independent-hotel-brand",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-11-18T00:55:43Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8615,
+      "importance": 0.5964,
+      "importance_score": 0.8615,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9818,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-18T00:55:43Z",
+      "latest_at": "2026-11-18T00:55:43Z",
+      "primary_item": {
+        "id": "hotelitem_db24d0318a89",
+        "title": "Mews announces new alliance partnership with preferred hotels & resorts, The world’s largest independent hotel brand",
+        "url": "https://insights.ehotelier.com/global-news/2026/11/18/mews-announces-new-alliance-partnership-with-preferred-hotels-resorts-the-worlds-largest-independent-hotel-brand/?utm_source=rss&utm_medium=rss&utm_campaign=mews-announces-new-alliance-partnership-with-preferred-hotels-resorts-the-worlds-largest-independent-hotel-brand",
+        "source": "eHotelier",
+        "source_name": "eHotelier"
+      }
+    },
+    {
+      "story_id": "story_41c8ee2bbab9",
+      "title": "Hotel Indigo celebrates 40 open hotels in Greater China, bringing more neighbourhood stories to life",
+      "url": "https://insights.ehotelier.com/properties/2026/11/18/hotel-indigo-celebrates-40-open-hotels-in-greater-china-bringing-more-neighbourhood-stories-to-life/?utm_source=rss&utm_medium=rss&utm_campaign=hotel-indigo-celebrates-40-open-hotels-in-greater-china-bringing-more-neighbourhood-stories-to-life",
+      "primary_url": "https://insights.ehotelier.com/properties/2026/11/18/hotel-indigo-celebrates-40-open-hotels-in-greater-china-bringing-more-neighbourhood-stories-to-life/?utm_source=rss&utm_medium=rss&utm_campaign=hotel-indigo-celebrates-40-open-hotels-in-greater-china-bringing-more-neighbourhood-stories-to-life",
+      "source": "eHotelier",
+      "source_name": "eHotelier",
+      "sources": [
+        {
+          "id": "hotelitem_41c8ee2bbab9",
+          "title": "Hotel Indigo celebrates 40 open hotels in Greater China, bringing more neighbourhood stories to life",
+          "url": "https://insights.ehotelier.com/properties/2026/11/18/hotel-indigo-celebrates-40-open-hotels-in-greater-china-bringing-more-neighbourhood-stories-to-life/?utm_source=rss&utm_medium=rss&utm_campaign=hotel-indigo-celebrates-40-open-hotels-in-greater-china-bringing-more-neighbourhood-stories-to-life",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-11-18T00:40:37Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "eHotelier"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_41c8ee2bbab9",
+          "title": "Hotel Indigo celebrates 40 open hotels in Greater China, bringing more neighbourhood stories to life",
+          "url": "https://insights.ehotelier.com/properties/2026/11/18/hotel-indigo-celebrates-40-open-hotels-in-greater-china-bringing-more-neighbourhood-stories-to-life/?utm_source=rss&utm_medium=rss&utm_campaign=hotel-indigo-celebrates-40-open-hotels-in-greater-china-bringing-more-neighbourhood-stories-to-life",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-11-18T00:40:37Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8614,
+      "importance": 0.5963,
+      "importance_score": 0.8614,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9815,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-18T00:40:37Z",
+      "latest_at": "2026-11-18T00:40:37Z",
+      "primary_item": {
+        "id": "hotelitem_41c8ee2bbab9",
+        "title": "Hotel Indigo celebrates 40 open hotels in Greater China, bringing more neighbourhood stories to life",
+        "url": "https://insights.ehotelier.com/properties/2026/11/18/hotel-indigo-celebrates-40-open-hotels-in-greater-china-bringing-more-neighbourhood-stories-to-life/?utm_source=rss&utm_medium=rss&utm_campaign=hotel-indigo-celebrates-40-open-hotels-in-greater-china-bringing-more-neighbourhood-stories-to-life",
+        "source": "eHotelier",
+        "source_name": "eHotelier"
+      }
+    },
+    {
+      "story_id": "story_c7c15b7680c9",
+      "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
+      "url": "https://www.chinahotel.org.cn/articles/17408",
+      "primary_url": "https://www.chinahotel.org.cn/articles/17408",
+      "source": "中国饭店协会",
+      "source_name": "中国饭店协会",
+      "sources": [
+        {
+          "id": "hotelitem_d4370964909c",
+          "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
+          "url": "https://www.chinahotel.org.cn/articles/17408",
+          "source": "中国饭店协会",
+          "source_name": "中国饭店协会",
+          "site_id": "chinahotel",
+          "published_at": "2026-11-18T20:37:19.452188Z"
+        },
+        {
+          "id": "hotelitem_c7c15b7680c9",
+          "title": "绿色饭店 | 2026年第一批国家标准绿色饭店名单公布 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007) 在全国组织开展国家标准绿色饭店的评定工作。现公布2026年第一批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
+          "url": "https://www.chinahotel.org.cn/articles/17689",
+          "source": "中国饭店协会",
+          "source_name": "中国饭店协会",
+          "site_id": "chinahotel",
+          "published_at": "2026-11-18T20:37:19.452188Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "中国饭店协会"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_d4370964909c",
+          "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
+          "url": "https://www.chinahotel.org.cn/articles/17408",
+          "source": "中国饭店协会",
+          "source_name": "中国饭店协会",
+          "site_id": "chinahotel",
+          "published_at": "2026-11-18T20:37:19.452188Z"
+        },
+        {
+          "id": "hotelitem_c7c15b7680c9",
+          "title": "绿色饭店 | 2026年第一批国家标准绿色饭店名单公布 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007) 在全国组织开展国家标准绿色饭店的评定工作。现公布2026年第一批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
+          "url": "https://www.chinahotel.org.cn/articles/17689",
+          "source": "中国饭店协会",
+          "source_name": "中国饭店协会",
+          "site_id": "chinahotel",
+          "published_at": "2026-11-18T20:37:19.452188Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.86,
+      "importance": 0.625,
+      "importance_score": 0.86,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-18T20:37:19.452188Z",
+      "latest_at": "2026-11-18T20:37:19.452188Z",
+      "primary_item": {
+        "id": "hotelitem_d4370964909c",
+        "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
+        "url": "https://www.chinahotel.org.cn/articles/17408",
+        "source": "中国饭店协会",
+        "source_name": "中国饭店协会"
       }
     },
     {
@@ -628,14 +824,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8612,
-      "importance": 0.5961,
-      "importance_score": 0.8612,
+      "score": 0.8597,
+      "importance": 0.5945,
+      "importance_score": 0.8597,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9804,
+        "recency": 0.9723,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -653,81 +849,121 @@
       }
     },
     {
-      "story_id": "story_c7c15b7680c9",
-      "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
-      "url": "https://www.chinahotel.org.cn/articles/17408",
-      "primary_url": "https://www.chinahotel.org.cn/articles/17408",
-      "source": "中国饭店协会",
-      "source_name": "中国饭店协会",
+      "story_id": "story_e4ce0593c384",
+      "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
+      "url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
+      "primary_url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
+      "source": "中国旅游研究院",
+      "source_name": "中国旅游研究院",
       "sources": [
         {
-          "id": "hotelitem_d4370964909c",
-          "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
-          "url": "https://www.chinahotel.org.cn/articles/17408",
-          "source": "中国饭店协会",
-          "source_name": "中国饭店协会",
-          "site_id": "chinahotel",
-          "published_at": "2026-11-18T11:50:17.518190Z"
-        },
-        {
-          "id": "hotelitem_c7c15b7680c9",
-          "title": "绿色饭店 | 2026年第一批国家标准绿色饭店名单公布 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007) 在全国组织开展国家标准绿色饭店的评定工作。现公布2026年第一批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
-          "url": "https://www.chinahotel.org.cn/articles/17689",
-          "source": "中国饭店协会",
-          "source_name": "中国饭店协会",
-          "site_id": "chinahotel",
-          "published_at": "2026-11-18T11:50:17.518190Z"
+          "id": "hotelitem_e4ce0593c384",
+          "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
+          "url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
+          "source": "中国旅游研究院",
+          "source_name": "中国旅游研究院",
+          "site_id": "cta",
+          "published_at": "2026-11-18T20:37:19.452188Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "中国饭店协会"
+        "中国旅游研究院"
       ],
       "items": [
         {
-          "id": "hotelitem_d4370964909c",
-          "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
-          "url": "https://www.chinahotel.org.cn/articles/17408",
-          "source": "中国饭店协会",
-          "source_name": "中国饭店协会",
-          "site_id": "chinahotel",
-          "published_at": "2026-11-18T11:50:17.518190Z"
-        },
-        {
-          "id": "hotelitem_c7c15b7680c9",
-          "title": "绿色饭店 | 2026年第一批国家标准绿色饭店名单公布 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007) 在全国组织开展国家标准绿色饭店的评定工作。现公布2026年第一批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
-          "url": "https://www.chinahotel.org.cn/articles/17689",
-          "source": "中国饭店协会",
-          "source_name": "中国饭店协会",
-          "site_id": "chinahotel",
-          "published_at": "2026-11-18T11:50:17.518190Z"
+          "id": "hotelitem_e4ce0593c384",
+          "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
+          "url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
+          "source": "中国旅游研究院",
+          "source_name": "中国旅游研究院",
+          "site_id": "cta",
+          "published_at": "2026-11-18T20:37:19.452188Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.86,
-      "importance": 0.625,
-      "importance_score": 0.86,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.858,
+      "importance": 0.6,
+      "importance_score": 0.858,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
         "recency": 1.0,
-        "story_heat": 0.25
+        "story_heat": 0.0
       },
       "category": "watch",
       "reasons": [
-        "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-11-18T11:50:17.518190Z",
-      "latest_at": "2026-11-18T11:50:17.518190Z",
+      "earliest_at": "2026-11-18T20:37:19.452188Z",
+      "latest_at": "2026-11-18T20:37:19.452188Z",
       "primary_item": {
-        "id": "hotelitem_d4370964909c",
-        "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
-        "url": "https://www.chinahotel.org.cn/articles/17408",
-        "source": "中国饭店协会",
-        "source_name": "中国饭店协会"
+        "id": "hotelitem_e4ce0593c384",
+        "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
+        "url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
+        "source": "中国旅游研究院",
+        "source_name": "中国旅游研究院"
+      }
+    },
+    {
+      "story_id": "story_4adba65c20e7",
+      "title": "文化和旅游部党组召开会议坚决拥护党中央对...",
+      "url": "https://www.mct.gov.cn/whzx/whyw/202610/t20261010_967329.htm",
+      "primary_url": "https://www.mct.gov.cn/whzx/whyw/202610/t20261010_967329.htm",
+      "source": "文化和旅游部",
+      "source_name": "文化和旅游部",
+      "sources": [
+        {
+          "id": "hotelitem_4adba65c20e7",
+          "title": "文化和旅游部党组召开会议坚决拥护党中央对...",
+          "url": "https://www.mct.gov.cn/whzx/whyw/202610/t20261010_967329.htm",
+          "source": "文化和旅游部",
+          "source_name": "文化和旅游部",
+          "site_id": "mct",
+          "published_at": "2026-11-18T20:37:19.452188Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "文化和旅游部"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_4adba65c20e7",
+          "title": "文化和旅游部党组召开会议坚决拥护党中央对...",
+          "url": "https://www.mct.gov.cn/whzx/whyw/202610/t20261010_967329.htm",
+          "source": "文化和旅游部",
+          "source_name": "文化和旅游部",
+          "site_id": "mct",
+          "published_at": "2026-11-18T20:37:19.452188Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.858,
+      "importance": 0.6,
+      "importance_score": 0.858,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-18T20:37:19.452188Z",
+      "latest_at": "2026-11-18T20:37:19.452188Z",
+      "primary_item": {
+        "id": "hotelitem_4adba65c20e7",
+        "title": "文化和旅游部党组召开会议坚决拥护党中央对...",
+        "url": "https://www.mct.gov.cn/whzx/whyw/202610/t20261010_967329.htm",
+        "source": "文化和旅游部",
+        "source_name": "文化和旅游部"
       }
     },
     {
@@ -765,14 +1001,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8588,
-      "importance": 0.5936,
-      "importance_score": 0.8588,
+      "score": 0.8572,
+      "importance": 0.5919,
+      "importance_score": 0.8572,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9678,
+        "recency": 0.9597,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -824,14 +1060,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8588,
-      "importance": 0.5936,
-      "importance_score": 0.8588,
+      "score": 0.8572,
+      "importance": 0.592,
+      "importance_score": 0.8572,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9679,
+        "recency": 0.9598,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -846,124 +1082,6 @@
         "url": "https://insights.ehotelier.com/insights/2026/11/17/in-2027-your-hotel-has-two-guests-youre-probably-ignoring-both/?utm_source=rss&utm_medium=rss&utm_campaign=in-2027-your-hotel-has-two-guests-youre-probably-ignoring-both",
         "source": "eHotelier",
         "source_name": "eHotelier"
-      }
-    },
-    {
-      "story_id": "story_e4ce0593c384",
-      "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
-      "url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
-      "primary_url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
-      "source": "中国旅游研究院",
-      "source_name": "中国旅游研究院",
-      "sources": [
-        {
-          "id": "hotelitem_e4ce0593c384",
-          "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
-          "url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
-          "source": "中国旅游研究院",
-          "source_name": "中国旅游研究院",
-          "site_id": "cta",
-          "published_at": "2026-11-18T11:50:17.518190Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "中国旅游研究院"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_e4ce0593c384",
-          "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
-          "url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
-          "source": "中国旅游研究院",
-          "source_name": "中国旅游研究院",
-          "site_id": "cta",
-          "published_at": "2026-11-18T11:50:17.518190Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.858,
-      "importance": 0.6,
-      "importance_score": 0.858,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-18T11:50:17.518190Z",
-      "latest_at": "2026-11-18T11:50:17.518190Z",
-      "primary_item": {
-        "id": "hotelitem_e4ce0593c384",
-        "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
-        "url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
-        "source": "中国旅游研究院",
-        "source_name": "中国旅游研究院"
-      }
-    },
-    {
-      "story_id": "story_4adba65c20e7",
-      "title": "文化和旅游部党组召开会议坚决拥护党中央对...",
-      "url": "https://www.mct.gov.cn/whzx/whyw/202610/t20261010_967329.htm",
-      "primary_url": "https://www.mct.gov.cn/whzx/whyw/202610/t20261010_967329.htm",
-      "source": "文化和旅游部",
-      "source_name": "文化和旅游部",
-      "sources": [
-        {
-          "id": "hotelitem_4adba65c20e7",
-          "title": "文化和旅游部党组召开会议坚决拥护党中央对...",
-          "url": "https://www.mct.gov.cn/whzx/whyw/202610/t20261010_967329.htm",
-          "source": "文化和旅游部",
-          "source_name": "文化和旅游部",
-          "site_id": "mct",
-          "published_at": "2026-11-18T11:50:17.518190Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "文化和旅游部"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_4adba65c20e7",
-          "title": "文化和旅游部党组召开会议坚决拥护党中央对...",
-          "url": "https://www.mct.gov.cn/whzx/whyw/202610/t20261010_967329.htm",
-          "source": "文化和旅游部",
-          "source_name": "文化和旅游部",
-          "site_id": "mct",
-          "published_at": "2026-11-18T11:50:17.518190Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.858,
-      "importance": 0.6,
-      "importance_score": 0.858,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-18T11:50:17.518190Z",
-      "latest_at": "2026-11-18T11:50:17.518190Z",
-      "primary_item": {
-        "id": "hotelitem_4adba65c20e7",
-        "title": "文化和旅游部党组召开会议坚决拥护党中央对...",
-        "url": "https://www.mct.gov.cn/whzx/whyw/202610/t20261010_967329.htm",
-        "source": "文化和旅游部",
-        "source_name": "文化和旅游部"
       }
     },
     {
@@ -1001,14 +1119,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8571,
-      "importance": 0.5918,
-      "importance_score": 0.8571,
+      "score": 0.8555,
+      "importance": 0.5902,
+      "importance_score": 0.8555,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9591,
+        "recency": 0.951,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1060,14 +1178,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8529,
-      "importance": 0.5419,
-      "importance_score": 0.8529,
+      "score": 0.8506,
+      "importance": 0.5403,
+      "importance_score": 0.8506,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.7097,
+        "recency": 0.7015,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1082,65 +1200,6 @@
         "url": "https://www.traveldaily.cn/article/190962",
         "source": "环球旅讯 TravelDaily",
         "source_name": "环球旅讯 TravelDaily"
-      }
-    },
-    {
-      "story_id": "story_07abe986da7e",
-      "title": "Power Where You Need It. Style Where You Want It.",
-      "url": "https://www.hotelmanagement.net/resource/power-where-you-need-it-style-where-you-want-it",
-      "primary_url": "https://www.hotelmanagement.net/resource/power-where-you-need-it-style-where-you-want-it",
-      "source": "Hotel Management",
-      "source_name": "Hotel Management",
-      "sources": [
-        {
-          "id": "hotelitem_07abe986da7e",
-          "title": "Power Where You Need It. Style Where You Want It.",
-          "url": "https://www.hotelmanagement.net/resource/power-where-you-need-it-style-where-you-want-it",
-          "source": "Hotel Management",
-          "source_name": "Hotel Management",
-          "site_id": "hotelmgmt",
-          "published_at": "2026-10-30T13:42:57Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hotel Management"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_07abe986da7e",
-          "title": "Power Where You Need It. Style Where You Want It.",
-          "url": "https://www.hotelmanagement.net/resource/power-where-you-need-it-style-where-you-want-it",
-          "source": "Hotel Management",
-          "source_name": "Hotel Management",
-          "site_id": "hotelmgmt",
-          "published_at": "2026-10-30T13:42:57Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8472,
-      "importance": 0.5159,
-      "importance_score": 0.8472,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.5795,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-30T13:42:57Z",
-      "latest_at": "2026-10-30T13:42:57Z",
-      "primary_item": {
-        "id": "hotelitem_07abe986da7e",
-        "title": "Power Where You Need It. Style Where You Want It.",
-        "url": "https://www.hotelmanagement.net/resource/power-where-you-need-it-style-where-you-want-it",
-        "source": "Hotel Management",
-        "source_name": "Hotel Management"
       }
     },
     {
@@ -1178,14 +1237,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8467,
-      "importance": 0.5966,
-      "importance_score": 0.8467,
+      "score": 0.8451,
+      "importance": 0.5949,
+      "importance_score": 0.8451,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9829,
+        "recency": 0.9747,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1203,62 +1262,62 @@
       }
     },
     {
-      "story_id": "story_dec18c7a73e5",
-      "title": "F&B and the Bottom Line: Analyzing the Impact of Hotel Restaurants on Average Daily Rate",
-      "url": "https://lodgingmagazine.com/fb-and-the-bottom-line-analyzing-the-impact-of-hotel-restaurants-on-average-daily-rate/",
-      "primary_url": "https://lodgingmagazine.com/fb-and-the-bottom-line-analyzing-the-impact-of-hotel-restaurants-on-average-daily-rate/",
-      "source": "Lodging Magazine",
-      "source_name": "Lodging Magazine",
+      "story_id": "story_07abe986da7e",
+      "title": "Power Where You Need It. Style Where You Want It.",
+      "url": "https://www.hotelmanagement.net/resource/power-where-you-need-it-style-where-you-want-it",
+      "primary_url": "https://www.hotelmanagement.net/resource/power-where-you-need-it-style-where-you-want-it",
+      "source": "Hotel Management",
+      "source_name": "Hotel Management",
       "sources": [
         {
-          "id": "hotelitem_dec18c7a73e5",
-          "title": "F&B and the Bottom Line: Analyzing the Impact of Hotel Restaurants on Average Daily Rate",
-          "url": "https://lodgingmagazine.com/fb-and-the-bottom-line-analyzing-the-impact-of-hotel-restaurants-on-average-daily-rate/",
-          "source": "Lodging Magazine",
-          "source_name": "Lodging Magazine",
-          "site_id": "lodgingmag",
-          "published_at": "2026-11-16T16:53:26Z"
+          "id": "hotelitem_07abe986da7e",
+          "title": "Power Where You Need It. Style Where You Want It.",
+          "url": "https://www.hotelmanagement.net/resource/power-where-you-need-it-style-where-you-want-it",
+          "source": "Hotel Management",
+          "source_name": "Hotel Management",
+          "site_id": "hotelmgmt",
+          "published_at": "2026-10-30T13:42:57Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Lodging Magazine"
+        "Hotel Management"
       ],
       "items": [
         {
-          "id": "hotelitem_dec18c7a73e5",
-          "title": "F&B and the Bottom Line: Analyzing the Impact of Hotel Restaurants on Average Daily Rate",
-          "url": "https://lodgingmagazine.com/fb-and-the-bottom-line-analyzing-the-impact-of-hotel-restaurants-on-average-daily-rate/",
-          "source": "Lodging Magazine",
-          "source_name": "Lodging Magazine",
-          "site_id": "lodgingmag",
-          "published_at": "2026-11-16T16:53:26Z"
+          "id": "hotelitem_07abe986da7e",
+          "title": "Power Where You Need It. Style Where You Want It.",
+          "url": "https://www.hotelmanagement.net/resource/power-where-you-need-it-style-where-you-want-it",
+          "source": "Hotel Management",
+          "source_name": "Hotel Management",
+          "site_id": "hotelmgmt",
+          "published_at": "2026-10-30T13:42:57Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8423,
-      "importance": 0.592,
-      "importance_score": 0.8423,
+      "score": 0.8449,
+      "importance": 0.5143,
+      "importance_score": 0.8449,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9602,
+        "recency": 0.5714,
         "story_heat": 0.0
       },
       "category": "watch",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-11-16T16:53:26Z",
-      "latest_at": "2026-11-16T16:53:26Z",
+      "earliest_at": "2026-10-30T13:42:57Z",
+      "latest_at": "2026-10-30T13:42:57Z",
       "primary_item": {
-        "id": "hotelitem_dec18c7a73e5",
-        "title": "F&B and the Bottom Line: Analyzing the Impact of Hotel Restaurants on Average Daily Rate",
-        "url": "https://lodgingmagazine.com/fb-and-the-bottom-line-analyzing-the-impact-of-hotel-restaurants-on-average-daily-rate/",
-        "source": "Lodging Magazine",
-        "source_name": "Lodging Magazine"
+        "id": "hotelitem_07abe986da7e",
+        "title": "Power Where You Need It. Style Where You Want It.",
+        "url": "https://www.hotelmanagement.net/resource/power-where-you-need-it-style-where-you-want-it",
+        "source": "Hotel Management",
+        "source_name": "Hotel Management"
       }
     },
     {
@@ -1296,14 +1355,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8398,
-      "importance": 0.5739,
-      "importance_score": 0.8398,
+      "score": 0.8383,
+      "importance": 0.5723,
+      "importance_score": 0.8383,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8696,
+        "recency": 0.8614,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1355,14 +1414,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8356,
-      "importance": 0.508,
-      "importance_score": 0.8356,
+      "score": 0.8333,
+      "importance": 0.5064,
+      "importance_score": 0.8333,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.54,
+        "recency": 0.5318,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1414,14 +1473,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8282,
-      "importance": 0.5774,
-      "importance_score": 0.8282,
+      "score": 0.8266,
+      "importance": 0.5757,
+      "importance_score": 0.8266,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8869,
+        "recency": 0.8787,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1436,6 +1495,65 @@
         "url": "https://boutiquehotelnews.com/news/movers-and-shakers/chancery-rosewood-md/?utm_source=rss&utm_medium=rss&utm_campaign=chancery-rosewood-md",
         "source": "Boutique Hotel News",
         "source_name": "Boutique Hotel News"
+      }
+    },
+    {
+      "story_id": "story_75c3afe12444",
+      "title": "Choice Hotels launches experiential loyalty rewards platform",
+      "url": "https://www.hoteldive.com/news/choice-hotels-launches-experiential-loyalty-rewards-platform/875022/",
+      "primary_url": "https://www.hoteldive.com/news/choice-hotels-launches-experiential-loyalty-rewards-platform/875022/",
+      "source": "Hotel Dive",
+      "source_name": "Hotel Dive",
+      "sources": [
+        {
+          "id": "hotelitem_75c3afe12444",
+          "title": "Choice Hotels launches experiential loyalty rewards platform",
+          "url": "https://www.hoteldive.com/news/choice-hotels-launches-experiential-loyalty-rewards-platform/875022/",
+          "source": "Hotel Dive",
+          "source_name": "Hotel Dive",
+          "site_id": "hoteldive",
+          "published_at": "2026-11-18T14:20:57Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hotel Dive"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_75c3afe12444",
+          "title": "Choice Hotels launches experiential loyalty rewards platform",
+          "url": "https://www.hoteldive.com/news/choice-hotels-launches-experiential-loyalty-rewards-platform/875022/",
+          "source": "Hotel Dive",
+          "source_name": "Hotel Dive",
+          "site_id": "hoteldive",
+          "published_at": "2026-11-18T14:20:57Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8189,
+      "importance": 0.5988,
+      "importance_score": 0.8189,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9942,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-18T14:20:57Z",
+      "latest_at": "2026-11-18T14:20:57Z",
+      "primary_item": {
+        "id": "hotelitem_75c3afe12444",
+        "title": "Choice Hotels launches experiential loyalty rewards platform",
+        "url": "https://www.hoteldive.com/news/choice-hotels-launches-experiential-loyalty-rewards-platform/875022/",
+        "source": "Hotel Dive",
+        "source_name": "Hotel Dive"
       }
     },
     {
@@ -1473,14 +1591,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8164,
-      "importance": 0.5989,
-      "importance_score": 0.8164,
+      "score": 0.8149,
+      "importance": 0.5973,
+      "importance_score": 0.8149,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9944,
+        "recency": 0.9863,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1498,65 +1616,6 @@
       }
     },
     {
-      "story_id": "story_bdcaa5ba376f",
-      "title": "升级客房体验：希尔顿欢朋6.0携手TCL，打造智慧酒店解决方案标杆",
-      "url": "https://www.traveldaily.cn/article/190970",
-      "primary_url": "https://www.traveldaily.cn/article/190970",
-      "source": "环球旅讯 TravelDaily",
-      "source_name": "环球旅讯 TravelDaily",
-      "sources": [
-        {
-          "id": "hotelitem_bdcaa5ba376f",
-          "title": "升级客房体验：希尔顿欢朋6.0携手TCL，打造智慧酒店解决方案标杆",
-          "url": "https://www.traveldaily.cn/article/190970",
-          "source": "环球旅讯 TravelDaily",
-          "source_name": "环球旅讯 TravelDaily",
-          "site_id": "traveldaily",
-          "published_at": "2026-11-06T11:24:53Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "环球旅讯 TravelDaily"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_bdcaa5ba376f",
-          "title": "升级客房体验：希尔顿欢朋6.0携手TCL，打造智慧酒店解决方案标杆",
-          "url": "https://www.traveldaily.cn/article/190970",
-          "source": "环球旅讯 TravelDaily",
-          "source_name": "环球旅讯 TravelDaily",
-          "site_id": "traveldaily",
-          "published_at": "2026-11-06T11:24:53Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8148,
-      "importance": 0.5466,
-      "importance_score": 0.8148,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.7329,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-06T11:24:53Z",
-      "latest_at": "2026-11-06T11:24:53Z",
-      "primary_item": {
-        "id": "hotelitem_bdcaa5ba376f",
-        "title": "升级客房体验：希尔顿欢朋6.0携手TCL，打造智慧酒店解决方案标杆",
-        "url": "https://www.traveldaily.cn/article/190970",
-        "source": "环球旅讯 TravelDaily",
-        "source_name": "环球旅讯 TravelDaily"
-      }
-    },
-    {
       "story_id": "story_84b7aa6b44f3",
       "title": "Agoda Helps Fans Get to Eurovision Song Cont ... Agoda, the Official Travel Partner of Eurovision Song Contest Asia, is getting fans to the first-ever  ... November 4, 2026 / Travel Trends",
       "url": "https://www.agoda.com/press/agoda-helps-fans-get-to-eurovision-song-contest-asias-first-grand-final-in-bangkok/",
@@ -1571,7 +1630,7 @@
           "source": "Agoda",
           "source_name": "Agoda",
           "site_id": "agoda_press",
-          "published_at": "2026-11-18T11:50:17.518190Z"
+          "published_at": "2026-11-18T20:37:19.452188Z"
         }
       ],
       "source_count": 1,
@@ -1586,7 +1645,7 @@
           "source": "Agoda",
           "source_name": "Agoda",
           "site_id": "agoda_press",
-          "published_at": "2026-11-18T11:50:17.518190Z"
+          "published_at": "2026-11-18T20:37:19.452188Z"
         }
       ],
       "item_count": 1,
@@ -1605,8 +1664,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-11-18T11:50:17.518190Z",
-      "latest_at": "2026-11-18T11:50:17.518190Z",
+      "earliest_at": "2026-11-18T20:37:19.452188Z",
+      "latest_at": "2026-11-18T20:37:19.452188Z",
       "primary_item": {
         "id": "hotelitem_84b7aa6b44f3",
         "title": "Agoda Helps Fans Get to Eurovision Song Cont ... Agoda, the Official Travel Partner of Eurovision Song Contest Asia, is getting fans to the first-ever  ... November 4, 2026 / Travel Trends",
@@ -1630,7 +1689,7 @@
           "source": "Agoda",
           "source_name": "Agoda",
           "site_id": "agoda_press",
-          "published_at": "2026-11-18T11:50:17.518190Z"
+          "published_at": "2026-11-18T20:37:19.452188Z"
         }
       ],
       "source_count": 1,
@@ -1645,7 +1704,7 @@
           "source": "Agoda",
           "source_name": "Agoda",
           "site_id": "agoda_press",
-          "published_at": "2026-11-18T11:50:17.518190Z"
+          "published_at": "2026-11-18T20:37:19.452188Z"
         }
       ],
       "item_count": 1,
@@ -1664,8 +1723,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-11-18T11:50:17.518190Z",
-      "latest_at": "2026-11-18T11:50:17.518190Z",
+      "earliest_at": "2026-11-18T20:37:19.452188Z",
+      "latest_at": "2026-11-18T20:37:19.452188Z",
       "primary_item": {
         "id": "hotelitem_e8ae1de14799",
         "title": "Agoda Partners with Marina Bay Sands on Besp ... The custom digital storefront brings together Marina Bay Sands’ rooms, suites and resort experiences,  ... October 1, 2026 / Partnership",
@@ -1689,7 +1748,7 @@
           "source": "Agoda",
           "source_name": "Agoda",
           "site_id": "agoda_press",
-          "published_at": "2026-11-18T11:50:17.518190Z"
+          "published_at": "2026-11-18T20:37:19.452188Z"
         }
       ],
       "source_count": 1,
@@ -1704,7 +1763,7 @@
           "source": "Agoda",
           "source_name": "Agoda",
           "site_id": "agoda_press",
-          "published_at": "2026-11-18T11:50:17.518190Z"
+          "published_at": "2026-11-18T20:37:19.452188Z"
         }
       ],
       "item_count": 1,
@@ -1723,71 +1782,12 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-11-18T11:50:17.518190Z",
-      "latest_at": "2026-11-18T11:50:17.518190Z",
+      "earliest_at": "2026-11-18T20:37:19.452188Z",
+      "latest_at": "2026-11-18T20:37:19.452188Z",
       "primary_item": {
         "id": "hotelitem_70ff67fbd50a",
         "title": "Agoda and Busan Report Growth in First-Time  ... Digital travel platform Agoda and Busan Metropolitan City are marking the one-year anniversary of thei ... October 30, 2026 / Partnership",
         "url": "https://www.agoda.com/press/agoda-and-busan-report-growth-in-first-time-and-repeat-visitors-in-first-year-of-partnership/",
-        "source": "Agoda",
-        "source_name": "Agoda"
-      }
-    },
-    {
-      "story_id": "story_fbf410613f99",
-      "title": "Agoda and Emerging Travel Group Enter Strate ... Digital travel platform Agoda and Emerging Travel Group (ETG), a global travel technology company oper ... October 15, 2026 / Partnership",
-      "url": "https://www.agoda.com/press/agoda-and-emerging-travel-group-enter-strategic-partnership/",
-      "primary_url": "https://www.agoda.com/press/agoda-and-emerging-travel-group-enter-strategic-partnership/",
-      "source": "Agoda",
-      "source_name": "Agoda",
-      "sources": [
-        {
-          "id": "hotelitem_fbf410613f99",
-          "title": "Agoda and Emerging Travel Group Enter Strate ... Digital travel platform Agoda and Emerging Travel Group (ETG), a global travel technology company oper ... October 15, 2026 / Partnership",
-          "url": "https://www.agoda.com/press/agoda-and-emerging-travel-group-enter-strategic-partnership/",
-          "source": "Agoda",
-          "source_name": "Agoda",
-          "site_id": "agoda_press",
-          "published_at": "2026-11-18T11:50:17.518190Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Agoda"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_fbf410613f99",
-          "title": "Agoda and Emerging Travel Group Enter Strate ... Digital travel platform Agoda and Emerging Travel Group (ETG), a global travel technology company oper ... October 15, 2026 / Partnership",
-          "url": "https://www.agoda.com/press/agoda-and-emerging-travel-group-enter-strategic-partnership/",
-          "source": "Agoda",
-          "source_name": "Agoda",
-          "site_id": "agoda_press",
-          "published_at": "2026-11-18T11:50:17.518190Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8125,
-      "importance": 0.6,
-      "importance_score": 0.8125,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-18T11:50:17.518190Z",
-      "latest_at": "2026-11-18T11:50:17.518190Z",
-      "primary_item": {
-        "id": "hotelitem_fbf410613f99",
-        "title": "Agoda and Emerging Travel Group Enter Strate ... Digital travel platform Agoda and Emerging Travel Group (ETG), a global travel technology company oper ... October 15, 2026 / Partnership",
-        "url": "https://www.agoda.com/press/agoda-and-emerging-travel-group-enter-strategic-partnership/",
         "source": "Agoda",
         "source_name": "Agoda"
       }
