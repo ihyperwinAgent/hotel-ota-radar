@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-19T11:46:38.751800Z",
-  "successful_sites": 19,
+  "generated_at": "2026-11-19T20:42:32.192850Z",
+  "successful_sites": 23,
   "total_sites": 26,
-  "items_before_topic_filter": 141,
+  "items_before_topic_filter": 150,
   "sites": [
     {
       "site_id": "huazhu_ir",
@@ -10,7 +10,7 @@
       "category": "cr9_finance",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 109,
+      "duration_ms": 119,
       "error": "403 Client Error: Forbidden for url: https://www.globenewswire.com/en/search/keyword/Huazhu"
     },
     {
@@ -19,7 +19,7 @@
       "category": "cr9_finance",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 85836,
+      "duration_ms": 85849,
       "error": "HTTPSConnectionPool(host='ir.yaduo.com', port=443): Max retries exceeded with url: /rss/news-releases.xml (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='ir.yaduo.com', port=443): Read timed out. (read timeout=20)\")) | fallback: 403 Client Error: Forbidden for url: https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1853717&type=6-K&output=atom"
     },
     {
@@ -28,7 +28,7 @@
       "category": "cr9_finance",
       "ok": true,
       "item_count": 0,
-      "duration_ms": 2804,
+      "duration_ms": 2178,
       "error": null
     },
     {
@@ -37,7 +37,7 @@
       "category": "supply_chain",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 3124,
+      "duration_ms": 2985,
       "error": null
     },
     {
@@ -46,7 +46,7 @@
       "category": "policy",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 1381,
+      "duration_ms": 1972,
       "error": null
     },
     {
@@ -55,7 +55,7 @@
       "category": "policy",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 1817,
+      "duration_ms": 1811,
       "error": null
     },
     {
@@ -64,7 +64,7 @@
       "category": "supply_chain",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 2190,
+      "duration_ms": 2026,
       "error": null
     },
     {
@@ -73,7 +73,7 @@
       "category": "supply_chain",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 2398,
+      "duration_ms": 2326,
       "error": null
     },
     {
@@ -82,7 +82,7 @@
       "category": "supply_chain",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1739,
+      "duration_ms": 1616,
       "error": null
     },
     {
@@ -91,7 +91,7 @@
       "category": "ai_hotel",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 128,
+      "duration_ms": 98,
       "error": null
     },
     {
@@ -100,7 +100,7 @@
       "category": "ai_hotel",
       "ok": true,
       "item_count": 0,
-      "duration_ms": 1133,
+      "duration_ms": 1499,
       "error": null
     },
     {
@@ -109,7 +109,7 @@
       "category": "ai_hotel",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 913,
+      "duration_ms": 924,
       "error": null
     },
     {
@@ -118,7 +118,7 @@
       "category": "supply_chain",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 137,
+      "duration_ms": 391,
       "error": null
     },
     {
@@ -127,7 +127,7 @@
       "category": "supply_chain",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1957,
+      "duration_ms": 734,
       "error": null
     },
     {
@@ -136,7 +136,7 @@
       "category": "ai_hotel",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 113,
+      "duration_ms": 90,
       "error": null
     },
     {
@@ -145,7 +145,7 @@
       "category": "ota",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 201,
+      "duration_ms": 171,
       "error": "403 Client Error: Forbidden for url: https://www.globenewswire.com/en/search/keyword/Trip.com%20Group"
     },
     {
@@ -154,26 +154,26 @@
       "category": "ota",
       "ok": true,
       "item_count": 0,
-      "duration_ms": 180,
+      "duration_ms": 172,
       "error": null
     },
     {
       "site_id": "expedia_sec",
       "site_name": "Expedia Group",
       "category": "ota",
-      "ok": false,
-      "item_count": 0,
-      "duration_ms": 64989,
-      "error": "HTTPSConnectionPool(host='www.sec.gov', port=443): Max retries exceeded with url: /cgi-bin/browse-edgar?action=getcompany&CIK=1324424&type=8-K&count=10&output=atom (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='www.sec.gov', port=443): Read timed out. (read timeout=15)\"))"
+      "ok": true,
+      "item_count": 1,
+      "duration_ms": 216,
+      "error": null
     },
     {
       "site_id": "booking_sec",
       "site_name": "Booking Holdings",
       "category": "ota",
-      "ok": false,
-      "item_count": 0,
-      "duration_ms": 20465,
-      "error": "HTTPSConnectionPool(host='www.sec.gov', port=443): Max retries exceeded with url: /cgi-bin/browse-edgar?action=getcompany&CIK=1075531&type=8-K&count=10&output=atom (Caused by ResponseError('too many 503 error responses'))"
+      "ok": true,
+      "item_count": 2,
+      "duration_ms": 148,
+      "error": null
     },
     {
       "site_id": "agoda_press",
@@ -181,26 +181,26 @@
       "category": "ota",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 212,
+      "duration_ms": 236,
       "error": null
     },
     {
       "site_id": "airbnb_sec",
       "site_name": "Airbnb",
       "category": "ota",
-      "ok": false,
-      "item_count": 0,
-      "duration_ms": 5382,
-      "error": "HTTPSConnectionPool(host='www.sec.gov', port=443): Max retries exceeded with url: /cgi-bin/browse-edgar?action=getcompany&CIK=1559720&type=8-K&count=10&output=atom (Caused by ResponseError('too many 503 error responses'))"
+      "ok": true,
+      "item_count": 1,
+      "duration_ms": 9145,
+      "error": null
     },
     {
       "site_id": "tripadvisor_sec",
       "site_name": "TripAdvisor",
       "category": "ota",
-      "ok": false,
-      "item_count": 0,
-      "duration_ms": 5601,
-      "error": "HTTPSConnectionPool(host='www.sec.gov', port=443): Max retries exceeded with url: /cgi-bin/browse-edgar?action=getcompany&CIK=1526520&type=8-K&count=10&output=atom (Caused by ResponseError('too many 503 error responses'))"
+      "ok": true,
+      "item_count": 5,
+      "duration_ms": 207,
+      "error": null
     },
     {
       "site_id": "tongcheng_ir",
@@ -208,7 +208,7 @@
       "category": "ota",
       "ok": true,
       "item_count": 0,
-      "duration_ms": 1090,
+      "duration_ms": 1042,
       "error": null
     },
     {
@@ -217,7 +217,7 @@
       "category": "ota",
       "ok": true,
       "item_count": 0,
-      "duration_ms": 1586,
+      "duration_ms": 1625,
       "error": null
     },
     {
@@ -226,7 +226,7 @@
       "category": "ota",
       "ok": true,
       "item_count": 20,
-      "duration_ms": 5529,
+      "duration_ms": 1692,
       "error": null
     },
     {
@@ -235,7 +235,7 @@
       "category": "ota",
       "ok": true,
       "item_count": 0,
-      "duration_ms": 1621,
+      "duration_ms": 1538,
       "error": null
     }
   ]
