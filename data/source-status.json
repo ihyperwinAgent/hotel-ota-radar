@@ -1,26 +1,26 @@
 {
-  "generated_at": "2026-11-19T02:36:29.379106Z",
-  "successful_sites": 25,
+  "generated_at": "2026-11-19T11:46:38.751800Z",
+  "successful_sites": 19,
   "total_sites": 26,
-  "items_before_topic_filter": 144,
+  "items_before_topic_filter": 141,
   "sites": [
     {
       "site_id": "huazhu_ir",
       "site_name": "华住 H World IR",
       "category": "cr9_finance",
-      "ok": true,
-      "item_count": 1,
-      "duration_ms": 180,
-      "error": null
+      "ok": false,
+      "item_count": 0,
+      "duration_ms": 109,
+      "error": "403 Client Error: Forbidden for url: https://www.globenewswire.com/en/search/keyword/Huazhu"
     },
     {
       "site_id": "atour_ir",
       "site_name": "亚朵 Atour IR",
       "category": "cr9_finance",
-      "ok": true,
-      "item_count": 3,
-      "duration_ms": 320,
-      "error": null
+      "ok": false,
+      "item_count": 0,
+      "duration_ms": 85836,
+      "error": "HTTPSConnectionPool(host='ir.yaduo.com', port=443): Max retries exceeded with url: /rss/news-releases.xml (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='ir.yaduo.com', port=443): Read timed out. (read timeout=20)\")) | fallback: 403 Client Error: Forbidden for url: https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1853717&type=6-K&output=atom"
     },
     {
       "site_id": "bth_ir",
@@ -28,7 +28,7 @@
       "category": "cr9_finance",
       "ok": true,
       "item_count": 0,
-      "duration_ms": 1471,
+      "duration_ms": 2804,
       "error": null
     },
     {
@@ -37,7 +37,7 @@
       "category": "supply_chain",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 3299,
+      "duration_ms": 3124,
       "error": null
     },
     {
@@ -46,7 +46,7 @@
       "category": "policy",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 1220,
+      "duration_ms": 1381,
       "error": null
     },
     {
@@ -55,7 +55,7 @@
       "category": "policy",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 1695,
+      "duration_ms": 1817,
       "error": null
     },
     {
@@ -64,7 +64,7 @@
       "category": "supply_chain",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 1755,
+      "duration_ms": 2190,
       "error": null
     },
     {
@@ -73,7 +73,7 @@
       "category": "supply_chain",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 2545,
+      "duration_ms": 2398,
       "error": null
     },
     {
@@ -82,17 +82,17 @@
       "category": "supply_chain",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1579,
+      "duration_ms": 1739,
       "error": null
     },
     {
       "site_id": "hotelmgmt",
       "site_name": "Hotel Management",
       "category": "ai_hotel",
-      "ok": false,
-      "item_count": 0,
-      "duration_ms": 46,
-      "error": "403 Client Error: Forbidden for url: https://www.hotelmanagement.net/rss.xml"
+      "ok": true,
+      "item_count": 10,
+      "duration_ms": 128,
+      "error": null
     },
     {
       "site_id": "skift",
@@ -100,7 +100,7 @@
       "category": "ai_hotel",
       "ok": true,
       "item_count": 0,
-      "duration_ms": 1393,
+      "duration_ms": 1133,
       "error": null
     },
     {
@@ -109,7 +109,7 @@
       "category": "ai_hotel",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 818,
+      "duration_ms": 913,
       "error": null
     },
     {
@@ -118,7 +118,7 @@
       "category": "supply_chain",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 221,
+      "duration_ms": 137,
       "error": null
     },
     {
@@ -127,7 +127,7 @@
       "category": "supply_chain",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1097,
+      "duration_ms": 1957,
       "error": null
     },
     {
@@ -136,17 +136,17 @@
       "category": "ai_hotel",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 74,
+      "duration_ms": 113,
       "error": null
     },
     {
       "site_id": "trip_ir",
       "site_name": "携程 Trip.com IR",
       "category": "ota",
-      "ok": true,
+      "ok": false,
       "item_count": 0,
-      "duration_ms": 172,
-      "error": null
+      "duration_ms": 201,
+      "error": "403 Client Error: Forbidden for url: https://www.globenewswire.com/en/search/keyword/Trip.com%20Group"
     },
     {
       "site_id": "tuniu_ir",
@@ -154,26 +154,26 @@
       "category": "ota",
       "ok": true,
       "item_count": 0,
-      "duration_ms": 454,
+      "duration_ms": 180,
       "error": null
     },
     {
       "site_id": "expedia_sec",
       "site_name": "Expedia Group",
       "category": "ota",
-      "ok": true,
-      "item_count": 1,
-      "duration_ms": 316,
-      "error": null
+      "ok": false,
+      "item_count": 0,
+      "duration_ms": 64989,
+      "error": "HTTPSConnectionPool(host='www.sec.gov', port=443): Max retries exceeded with url: /cgi-bin/browse-edgar?action=getcompany&CIK=1324424&type=8-K&count=10&output=atom (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='www.sec.gov', port=443): Read timed out. (read timeout=15)\"))"
     },
     {
       "site_id": "booking_sec",
       "site_name": "Booking Holdings",
       "category": "ota",
-      "ok": true,
-      "item_count": 2,
-      "duration_ms": 179,
-      "error": null
+      "ok": false,
+      "item_count": 0,
+      "duration_ms": 20465,
+      "error": "HTTPSConnectionPool(host='www.sec.gov', port=443): Max retries exceeded with url: /cgi-bin/browse-edgar?action=getcompany&CIK=1075531&type=8-K&count=10&output=atom (Caused by ResponseError('too many 503 error responses'))"
     },
     {
       "site_id": "agoda_press",
@@ -181,26 +181,26 @@
       "category": "ota",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 107,
+      "duration_ms": 212,
       "error": null
     },
     {
       "site_id": "airbnb_sec",
       "site_name": "Airbnb",
       "category": "ota",
-      "ok": true,
-      "item_count": 1,
-      "duration_ms": 308,
-      "error": null
+      "ok": false,
+      "item_count": 0,
+      "duration_ms": 5382,
+      "error": "HTTPSConnectionPool(host='www.sec.gov', port=443): Max retries exceeded with url: /cgi-bin/browse-edgar?action=getcompany&CIK=1559720&type=8-K&count=10&output=atom (Caused by ResponseError('too many 503 error responses'))"
     },
     {
       "site_id": "tripadvisor_sec",
       "site_name": "TripAdvisor",
       "category": "ota",
-      "ok": true,
-      "item_count": 5,
-      "duration_ms": 253,
-      "error": null
+      "ok": false,
+      "item_count": 0,
+      "duration_ms": 5601,
+      "error": "HTTPSConnectionPool(host='www.sec.gov', port=443): Max retries exceeded with url: /cgi-bin/browse-edgar?action=getcompany&CIK=1526520&type=8-K&count=10&output=atom (Caused by ResponseError('too many 503 error responses'))"
     },
     {
       "site_id": "tongcheng_ir",
@@ -208,7 +208,7 @@
       "category": "ota",
       "ok": true,
       "item_count": 0,
-      "duration_ms": 822,
+      "duration_ms": 1090,
       "error": null
     },
     {
@@ -217,7 +217,7 @@
       "category": "ota",
       "ok": true,
       "item_count": 0,
-      "duration_ms": 751,
+      "duration_ms": 1586,
       "error": null
     },
     {
@@ -226,7 +226,7 @@
       "category": "ota",
       "ok": true,
       "item_count": 20,
-      "duration_ms": 1280,
+      "duration_ms": 5529,
       "error": null
     },
     {
@@ -235,7 +235,7 @@
       "category": "ota",
       "ok": true,
       "item_count": 0,
-      "duration_ms": 1283,
+      "duration_ms": 1621,
       "error": null
     }
   ]
