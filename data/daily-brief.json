@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T11:47:34.689973Z",
+  "generated_at": "2026-11-20T20:26:55.845852Z",
   "window_hours": 1080,
   "total_items": 30,
   "items": [
@@ -39,13 +39,13 @@
       "item_count": 1,
       "duplicate_count": 1,
       "score": 1.0,
-      "importance": 0.5925,
+      "importance": 0.5909,
       "importance_score": 1.0,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9623,
+        "recency": 0.9543,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -98,13 +98,13 @@
       "item_count": 1,
       "duplicate_count": 1,
       "score": 1.0,
-      "importance": 0.5962,
+      "importance": 0.5946,
       "importance_score": 1.0,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9809,
+        "recency": 0.9729,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -119,6 +119,65 @@
         "url": "https://www.traveldaily.cn/article/191043",
         "source": "环球旅讯 TravelDaily",
         "source_name": "环球旅讯 TravelDaily"
+      }
+    },
+    {
+      "story_id": "story_88098b3303d2",
+      "title": "Lodging Lowdown: Accor increases stake in Ennismore, Under Canvas adds luxury cabins at Ulum Moab in Utah",
+      "url": "https://www.hoteldive.com/news/accor-increases-stake-in-ennismore-under-canvas-adds-cabins-ulum-moab/875308/",
+      "primary_url": "https://www.hoteldive.com/news/accor-increases-stake-in-ennismore-under-canvas-adds-cabins-ulum-moab/875308/",
+      "source": "Hotel Dive",
+      "source_name": "Hotel Dive",
+      "sources": [
+        {
+          "id": "hotelitem_88098b3303d2",
+          "title": "Lodging Lowdown: Accor increases stake in Ennismore, Under Canvas adds luxury cabins at Ulum Moab in Utah",
+          "url": "https://www.hoteldive.com/news/accor-increases-stake-in-ennismore-under-canvas-adds-cabins-ulum-moab/875308/",
+          "source": "Hotel Dive",
+          "source_name": "Hotel Dive",
+          "site_id": "hoteldive",
+          "published_at": "2026-11-20T14:28:10Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hotel Dive"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_88098b3303d2",
+          "title": "Lodging Lowdown: Accor increases stake in Ennismore, Under Canvas adds luxury cabins at Ulum Moab in Utah",
+          "url": "https://www.hoteldive.com/news/accor-increases-stake-in-ennismore-under-canvas-adds-cabins-ulum-moab/875308/",
+          "source": "Hotel Dive",
+          "source_name": "Hotel Dive",
+          "site_id": "hoteldive",
+          "published_at": "2026-11-20T14:28:10Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.9539,
+      "importance": 0.5989,
+      "importance_score": 0.9539,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9945,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-20T14:28:10Z",
+      "latest_at": "2026-11-20T14:28:10Z",
+      "primary_item": {
+        "id": "hotelitem_88098b3303d2",
+        "title": "Lodging Lowdown: Accor increases stake in Ennismore, Under Canvas adds luxury cabins at Ulum Moab in Utah",
+        "url": "https://www.hoteldive.com/news/accor-increases-stake-in-ennismore-under-canvas-adds-cabins-ulum-moab/875308/",
+        "source": "Hotel Dive",
+        "source_name": "Hotel Dive"
       }
     },
     {
@@ -156,14 +215,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9531,
-      "importance": 0.598,
-      "importance_score": 0.9531,
+      "score": 0.9515,
+      "importance": 0.5964,
+      "importance_score": 0.9515,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9901,
+        "recency": 0.9821,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -215,14 +274,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.947,
-      "importance": 0.5917,
-      "importance_score": 0.947,
+      "score": 0.9454,
+      "importance": 0.5901,
+      "importance_score": 0.9454,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9584,
+        "recency": 0.9504,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -237,65 +296,6 @@
         "url": "https://www.hoteldive.com/news/apartment-collection-by-hilton-signs-first-international-properties/875028/",
         "source": "Hotel Dive",
         "source_name": "Hotel Dive"
-      }
-    },
-    {
-      "story_id": "story_d88b8fccd90f",
-      "title": "Choice Hotels CEO Dominic Dragisich Outlines Priorities for Growth",
-      "url": "https://lodgingmagazine.com/choice-hotels-ceo-dominic-dragisich-outlines-priorities-for-growth/",
-      "primary_url": "https://lodgingmagazine.com/choice-hotels-ceo-dominic-dragisich-outlines-priorities-for-growth/",
-      "source": "Lodging Magazine",
-      "source_name": "Lodging Magazine",
-      "sources": [
-        {
-          "id": "hotelitem_d88b8fccd90f",
-          "title": "Choice Hotels CEO Dominic Dragisich Outlines Priorities for Growth",
-          "url": "https://lodgingmagazine.com/choice-hotels-ceo-dominic-dragisich-outlines-priorities-for-growth/",
-          "source": "Lodging Magazine",
-          "source_name": "Lodging Magazine",
-          "site_id": "lodgingmag",
-          "published_at": "2026-11-18T21:45:55Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Lodging Magazine"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_d88b8fccd90f",
-          "title": "Choice Hotels CEO Dominic Dragisich Outlines Priorities for Growth",
-          "url": "https://lodgingmagazine.com/choice-hotels-ceo-dominic-dragisich-outlines-priorities-for-growth/",
-          "source": "Lodging Magazine",
-          "source_name": "Lodging Magazine",
-          "site_id": "lodgingmag",
-          "published_at": "2026-11-18T21:45:55Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.9332,
-      "importance": 0.593,
-      "importance_score": 0.9332,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9648,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-18T21:45:55Z",
-      "latest_at": "2026-11-18T21:45:55Z",
-      "primary_item": {
-        "id": "hotelitem_d88b8fccd90f",
-        "title": "Choice Hotels CEO Dominic Dragisich Outlines Priorities for Growth",
-        "url": "https://lodgingmagazine.com/choice-hotels-ceo-dominic-dragisich-outlines-priorities-for-growth/",
-        "source": "Lodging Magazine",
-        "source_name": "Lodging Magazine"
       }
     },
     {
@@ -333,14 +333,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9315,
-      "importance": 0.5912,
-      "importance_score": 0.9315,
+      "score": 0.93,
+      "importance": 0.5896,
+      "importance_score": 0.93,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.956,
+        "recency": 0.948,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -372,7 +372,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-11-20T11:47:34.689973Z"
+          "published_at": "2026-11-20T20:26:55.845852Z"
         }
       ],
       "source_count": 1,
@@ -387,7 +387,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-11-20T11:47:34.689973Z"
+          "published_at": "2026-11-20T20:26:55.845852Z"
         }
       ],
       "item_count": 1,
@@ -406,8 +406,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-11-20T11:47:34.689973Z",
-      "latest_at": "2026-11-20T11:47:34.689973Z",
+      "earliest_at": "2026-11-20T20:26:55.845852Z",
+      "latest_at": "2026-11-20T20:26:55.845852Z",
       "primary_item": {
         "id": "hotelitem_f49c27611d71",
         "title": "不搬店，搬能力：小米战略投资的尚美数智在雅加达160天开出当月盈利的SHANKEE酒店",
@@ -431,7 +431,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-11-20T11:47:34.689973Z"
+          "published_at": "2026-11-20T20:26:55.845852Z"
         }
       ],
       "source_count": 1,
@@ -446,7 +446,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-11-20T11:47:34.689973Z"
+          "published_at": "2026-11-20T20:26:55.845852Z"
         }
       ],
       "item_count": 1,
@@ -465,8 +465,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-11-20T11:47:34.689973Z",
-      "latest_at": "2026-11-20T11:47:34.689973Z",
+      "earliest_at": "2026-11-20T20:26:55.845852Z",
+      "latest_at": "2026-11-20T20:26:55.845852Z",
       "primary_item": {
         "id": "hotelitem_06f191e24d38",
         "title": "文旅惠报|复星国际申请分拆Club Med在港上市；南京商旅上半年营收3.66亿元",
@@ -510,14 +510,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8936,
-      "importance": 0.57,
-      "importance_score": 0.8936,
+      "score": 0.8918,
+      "importance": 0.5684,
+      "importance_score": 0.8918,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8499,
+        "recency": 0.8419,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -569,14 +569,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8803,
-      "importance": 0.5951,
-      "importance_score": 0.8803,
+      "score": 0.8787,
+      "importance": 0.5935,
+      "importance_score": 0.8787,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9754,
+        "recency": 0.9674,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -628,14 +628,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8631,
-      "importance": 0.5981,
-      "importance_score": 0.8631,
+      "score": 0.8616,
+      "importance": 0.5965,
+      "importance_score": 0.8616,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9903,
+        "recency": 0.9823,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -687,14 +687,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.863,
-      "importance": 0.5979,
-      "importance_score": 0.863,
+      "score": 0.8615,
+      "importance": 0.5963,
+      "importance_score": 0.8615,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9896,
+        "recency": 0.9816,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -746,14 +746,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8621,
-      "importance": 0.597,
-      "importance_score": 0.8621,
+      "score": 0.8606,
+      "importance": 0.5954,
+      "importance_score": 0.8606,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.985,
+        "recency": 0.9769,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -768,6 +768,84 @@
         "url": "https://www.hoteldive.com/news/first-hospitality-sam-schwartz-ceo-appointment/875242/",
         "source": "Hotel Dive",
         "source_name": "Hotel Dive"
+      }
+    },
+    {
+      "story_id": "story_c7c15b7680c9",
+      "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
+      "url": "https://www.chinahotel.org.cn/articles/17408",
+      "primary_url": "https://www.chinahotel.org.cn/articles/17408",
+      "source": "中国饭店协会",
+      "source_name": "中国饭店协会",
+      "sources": [
+        {
+          "id": "hotelitem_d4370964909c",
+          "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
+          "url": "https://www.chinahotel.org.cn/articles/17408",
+          "source": "中国饭店协会",
+          "source_name": "中国饭店协会",
+          "site_id": "chinahotel",
+          "published_at": "2026-11-20T20:26:55.845852Z"
+        },
+        {
+          "id": "hotelitem_c7c15b7680c9",
+          "title": "绿色饭店 | 2026年第一批国家标准绿色饭店名单公布 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007) 在全国组织开展国家标准绿色饭店的评定工作。现公布2026年第一批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
+          "url": "https://www.chinahotel.org.cn/articles/17689",
+          "source": "中国饭店协会",
+          "source_name": "中国饭店协会",
+          "site_id": "chinahotel",
+          "published_at": "2026-11-20T20:26:55.845852Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "中国饭店协会"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_d4370964909c",
+          "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
+          "url": "https://www.chinahotel.org.cn/articles/17408",
+          "source": "中国饭店协会",
+          "source_name": "中国饭店协会",
+          "site_id": "chinahotel",
+          "published_at": "2026-11-20T20:26:55.845852Z"
+        },
+        {
+          "id": "hotelitem_c7c15b7680c9",
+          "title": "绿色饭店 | 2026年第一批国家标准绿色饭店名单公布 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007) 在全国组织开展国家标准绿色饭店的评定工作。现公布2026年第一批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
+          "url": "https://www.chinahotel.org.cn/articles/17689",
+          "source": "中国饭店协会",
+          "source_name": "中国饭店协会",
+          "site_id": "chinahotel",
+          "published_at": "2026-11-20T20:26:55.845852Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.86,
+      "importance": 0.625,
+      "importance_score": 0.86,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-20T20:26:55.845852Z",
+      "latest_at": "2026-11-20T20:26:55.845852Z",
+      "primary_item": {
+        "id": "hotelitem_d4370964909c",
+        "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
+        "url": "https://www.chinahotel.org.cn/articles/17408",
+        "source": "中国饭店协会",
+        "source_name": "中国饭店协会"
       }
     },
     {
@@ -805,14 +883,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8612,
-      "importance": 0.596,
-      "importance_score": 0.8612,
+      "score": 0.8596,
+      "importance": 0.5944,
+      "importance_score": 0.8596,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9802,
+        "recency": 0.9721,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -830,84 +908,6 @@
       }
     },
     {
-      "story_id": "story_c7c15b7680c9",
-      "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
-      "url": "https://www.chinahotel.org.cn/articles/17408",
-      "primary_url": "https://www.chinahotel.org.cn/articles/17408",
-      "source": "中国饭店协会",
-      "source_name": "中国饭店协会",
-      "sources": [
-        {
-          "id": "hotelitem_d4370964909c",
-          "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
-          "url": "https://www.chinahotel.org.cn/articles/17408",
-          "source": "中国饭店协会",
-          "source_name": "中国饭店协会",
-          "site_id": "chinahotel",
-          "published_at": "2026-11-20T11:47:34.689973Z"
-        },
-        {
-          "id": "hotelitem_c7c15b7680c9",
-          "title": "绿色饭店 | 2026年第一批国家标准绿色饭店名单公布 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007) 在全国组织开展国家标准绿色饭店的评定工作。现公布2026年第一批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
-          "url": "https://www.chinahotel.org.cn/articles/17689",
-          "source": "中国饭店协会",
-          "source_name": "中国饭店协会",
-          "site_id": "chinahotel",
-          "published_at": "2026-11-20T11:47:34.689973Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "中国饭店协会"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_d4370964909c",
-          "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
-          "url": "https://www.chinahotel.org.cn/articles/17408",
-          "source": "中国饭店协会",
-          "source_name": "中国饭店协会",
-          "site_id": "chinahotel",
-          "published_at": "2026-11-20T11:47:34.689973Z"
-        },
-        {
-          "id": "hotelitem_c7c15b7680c9",
-          "title": "绿色饭店 | 2026年第一批国家标准绿色饭店名单公布 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007) 在全国组织开展国家标准绿色饭店的评定工作。现公布2026年第一批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
-          "url": "https://www.chinahotel.org.cn/articles/17689",
-          "source": "中国饭店协会",
-          "source_name": "中国饭店协会",
-          "site_id": "chinahotel",
-          "published_at": "2026-11-20T11:47:34.689973Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.86,
-      "importance": 0.625,
-      "importance_score": 0.86,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-20T11:47:34.689973Z",
-      "latest_at": "2026-11-20T11:47:34.689973Z",
-      "primary_item": {
-        "id": "hotelitem_d4370964909c",
-        "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
-        "url": "https://www.chinahotel.org.cn/articles/17408",
-        "source": "中国饭店协会",
-        "source_name": "中国饭店协会"
-      }
-    },
-    {
       "story_id": "story_e4ce0593c384",
       "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
       "url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
@@ -922,7 +922,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-11-20T11:47:34.689973Z"
+          "published_at": "2026-11-20T20:26:55.845852Z"
         }
       ],
       "source_count": 1,
@@ -937,7 +937,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-11-20T11:47:34.689973Z"
+          "published_at": "2026-11-20T20:26:55.845852Z"
         }
       ],
       "item_count": 1,
@@ -956,73 +956,14 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-11-20T11:47:34.689973Z",
-      "latest_at": "2026-11-20T11:47:34.689973Z",
+      "earliest_at": "2026-11-20T20:26:55.845852Z",
+      "latest_at": "2026-11-20T20:26:55.845852Z",
       "primary_item": {
         "id": "hotelitem_e4ce0593c384",
         "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
         "url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
         "source": "中国旅游研究院",
         "source_name": "中国旅游研究院"
-      }
-    },
-    {
-      "story_id": "story_4adba65c20e7",
-      "title": "文化和旅游部党组召开会议坚决拥护党中央对...",
-      "url": "https://www.mct.gov.cn/whzx/whyw/202610/t20261010_967329.htm",
-      "primary_url": "https://www.mct.gov.cn/whzx/whyw/202610/t20261010_967329.htm",
-      "source": "文化和旅游部",
-      "source_name": "文化和旅游部",
-      "sources": [
-        {
-          "id": "hotelitem_4adba65c20e7",
-          "title": "文化和旅游部党组召开会议坚决拥护党中央对...",
-          "url": "https://www.mct.gov.cn/whzx/whyw/202610/t20261010_967329.htm",
-          "source": "文化和旅游部",
-          "source_name": "文化和旅游部",
-          "site_id": "mct",
-          "published_at": "2026-11-20T11:47:34.689973Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "文化和旅游部"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_4adba65c20e7",
-          "title": "文化和旅游部党组召开会议坚决拥护党中央对...",
-          "url": "https://www.mct.gov.cn/whzx/whyw/202610/t20261010_967329.htm",
-          "source": "文化和旅游部",
-          "source_name": "文化和旅游部",
-          "site_id": "mct",
-          "published_at": "2026-11-20T11:47:34.689973Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.858,
-      "importance": 0.6,
-      "importance_score": 0.858,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-20T11:47:34.689973Z",
-      "latest_at": "2026-11-20T11:47:34.689973Z",
-      "primary_item": {
-        "id": "hotelitem_4adba65c20e7",
-        "title": "文化和旅游部党组召开会议坚决拥护党中央对...",
-        "url": "https://www.mct.gov.cn/whzx/whyw/202610/t20261010_967329.htm",
-        "source": "文化和旅游部",
-        "source_name": "文化和旅游部"
       }
     },
     {
@@ -1060,14 +1001,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8527,
-      "importance": 0.5872,
-      "importance_score": 0.8527,
+      "score": 0.8511,
+      "importance": 0.5856,
+      "importance_score": 0.8511,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.936,
+        "recency": 0.928,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1082,6 +1023,183 @@
         "url": "https://www.hoteldive.com/news/travel-leisure-cos-sports-illustrated-resorts-debuts-in-nashville/874876/",
         "source": "Hotel Dive",
         "source_name": "Hotel Dive"
+      }
+    },
+    {
+      "story_id": "story_52d3c0e797be",
+      "title": "Leaner Holiday Teams Mean Every New Hire Must Be Ready Sooner",
+      "url": "https://lodgingmagazine.com/leaner-holiday-teams-mean-every-new-hire-must-be-ready-sooner/",
+      "primary_url": "https://lodgingmagazine.com/leaner-holiday-teams-mean-every-new-hire-must-be-ready-sooner/",
+      "source": "Lodging Magazine",
+      "source_name": "Lodging Magazine",
+      "sources": [
+        {
+          "id": "hotelitem_52d3c0e797be",
+          "title": "Leaner Holiday Teams Mean Every New Hire Must Be Ready Sooner",
+          "url": "https://lodgingmagazine.com/leaner-holiday-teams-mean-every-new-hire-must-be-ready-sooner/",
+          "source": "Lodging Magazine",
+          "source_name": "Lodging Magazine",
+          "site_id": "lodgingmag",
+          "published_at": "2026-11-20T17:50:42Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Lodging Magazine"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_52d3c0e797be",
+          "title": "Leaner Holiday Teams Mean Every New Hire Must Be Ready Sooner",
+          "url": "https://lodgingmagazine.com/leaner-holiday-teams-mean-every-new-hire-must-be-ready-sooner/",
+          "source": "Lodging Magazine",
+          "source_name": "Lodging Magazine",
+          "site_id": "lodgingmag",
+          "published_at": "2026-11-20T17:50:42Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8495,
+      "importance": 0.5995,
+      "importance_score": 0.8495,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9976,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-20T17:50:42Z",
+      "latest_at": "2026-11-20T17:50:42Z",
+      "primary_item": {
+        "id": "hotelitem_52d3c0e797be",
+        "title": "Leaner Holiday Teams Mean Every New Hire Must Be Ready Sooner",
+        "url": "https://lodgingmagazine.com/leaner-holiday-teams-mean-every-new-hire-must-be-ready-sooner/",
+        "source": "Lodging Magazine",
+        "source_name": "Lodging Magazine"
+      }
+    },
+    {
+      "story_id": "story_b60fc90918d4",
+      "title": "CoStar, Tourism Economics Release Revised U.S. Hotel Growth Forecast",
+      "url": "https://lodgingmagazine.com/costar-tourism-economics-release-revised-u-s-hotel-growth-forecast/",
+      "primary_url": "https://lodgingmagazine.com/costar-tourism-economics-release-revised-u-s-hotel-growth-forecast/",
+      "source": "Lodging Magazine",
+      "source_name": "Lodging Magazine",
+      "sources": [
+        {
+          "id": "hotelitem_b60fc90918d4",
+          "title": "CoStar, Tourism Economics Release Revised U.S. Hotel Growth Forecast",
+          "url": "https://lodgingmagazine.com/costar-tourism-economics-release-revised-u-s-hotel-growth-forecast/",
+          "source": "Lodging Magazine",
+          "source_name": "Lodging Magazine",
+          "site_id": "lodgingmag",
+          "published_at": "2026-11-20T15:29:47Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Lodging Magazine"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_b60fc90918d4",
+          "title": "CoStar, Tourism Economics Release Revised U.S. Hotel Growth Forecast",
+          "url": "https://lodgingmagazine.com/costar-tourism-economics-release-revised-u-s-hotel-growth-forecast/",
+          "source": "Lodging Magazine",
+          "source_name": "Lodging Magazine",
+          "site_id": "lodgingmag",
+          "published_at": "2026-11-20T15:29:47Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8491,
+      "importance": 0.5991,
+      "importance_score": 0.8491,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9954,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-20T15:29:47Z",
+      "latest_at": "2026-11-20T15:29:47Z",
+      "primary_item": {
+        "id": "hotelitem_b60fc90918d4",
+        "title": "CoStar, Tourism Economics Release Revised U.S. Hotel Growth Forecast",
+        "url": "https://lodgingmagazine.com/costar-tourism-economics-release-revised-u-s-hotel-growth-forecast/",
+        "source": "Lodging Magazine",
+        "source_name": "Lodging Magazine"
+      }
+    },
+    {
+      "story_id": "story_7d783db2481f",
+      "title": "The WestDill Mayfair Hotel London to open in Q1 2027",
+      "url": "https://boutiquehotelnews.com/news/hotel/westdill-mayfair-open/?utm_source=rss&utm_medium=rss&utm_campaign=westdill-mayfair-open",
+      "primary_url": "https://boutiquehotelnews.com/news/hotel/westdill-mayfair-open/?utm_source=rss&utm_medium=rss&utm_campaign=westdill-mayfair-open",
+      "source": "Boutique Hotel News",
+      "source_name": "Boutique Hotel News",
+      "sources": [
+        {
+          "id": "hotelitem_7d783db2481f",
+          "title": "The WestDill Mayfair Hotel London to open in Q1 2027",
+          "url": "https://boutiquehotelnews.com/news/hotel/westdill-mayfair-open/?utm_source=rss&utm_medium=rss&utm_campaign=westdill-mayfair-open",
+          "source": "Boutique Hotel News",
+          "source_name": "Boutique Hotel News",
+          "site_id": "boutiquehotel",
+          "published_at": "2026-11-20T12:17:26Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Boutique Hotel News"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_7d783db2481f",
+          "title": "The WestDill Mayfair Hotel London to open in Q1 2027",
+          "url": "https://boutiquehotelnews.com/news/hotel/westdill-mayfair-open/?utm_source=rss&utm_medium=rss&utm_campaign=westdill-mayfair-open",
+          "source": "Boutique Hotel News",
+          "source_name": "Boutique Hotel News",
+          "site_id": "boutiquehotel",
+          "published_at": "2026-11-20T12:17:26Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8485,
+      "importance": 0.5985,
+      "importance_score": 0.8485,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9924,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-20T12:17:26Z",
+      "latest_at": "2026-11-20T12:17:26Z",
+      "primary_item": {
+        "id": "hotelitem_7d783db2481f",
+        "title": "The WestDill Mayfair Hotel London to open in Q1 2027",
+        "url": "https://boutiquehotelnews.com/news/hotel/westdill-mayfair-open/?utm_source=rss&utm_medium=rss&utm_campaign=westdill-mayfair-open",
+        "source": "Boutique Hotel News",
+        "source_name": "Boutique Hotel News"
       }
     },
     {
@@ -1119,14 +1237,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8485,
-      "importance": 0.5829,
-      "importance_score": 0.8485,
+      "score": 0.847,
+      "importance": 0.5813,
+      "importance_score": 0.847,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9147,
+        "recency": 0.9067,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1141,65 +1259,6 @@
         "url": "https://www.hoteldive.com/news/3-more-chicago-hotels-join-citywide-strike/874747/",
         "source": "Hotel Dive",
         "source_name": "Hotel Dive"
-      }
-    },
-    {
-      "story_id": "story_3f933ced93a7",
-      "title": "Deloitte: Holiday Travel Plans Shift as Americans Navigate Rising Costs",
-      "url": "https://lodgingmagazine.com/deloitte-holiday-travel-plans-shift-as-americans-navigate-rising-costs/",
-      "primary_url": "https://lodgingmagazine.com/deloitte-holiday-travel-plans-shift-as-americans-navigate-rising-costs/",
-      "source": "Lodging Magazine",
-      "source_name": "Lodging Magazine",
-      "sources": [
-        {
-          "id": "hotelitem_3f933ced93a7",
-          "title": "Deloitte: Holiday Travel Plans Shift as Americans Navigate Rising Costs",
-          "url": "https://lodgingmagazine.com/deloitte-holiday-travel-plans-shift-as-americans-navigate-rising-costs/",
-          "source": "Lodging Magazine",
-          "source_name": "Lodging Magazine",
-          "site_id": "lodgingmag",
-          "published_at": "2026-11-19T18:09:33Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Lodging Magazine"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_3f933ced93a7",
-          "title": "Deloitte: Holiday Travel Plans Shift as Americans Navigate Rising Costs",
-          "url": "https://lodgingmagazine.com/deloitte-holiday-travel-plans-shift-as-americans-navigate-rising-costs/",
-          "source": "Lodging Magazine",
-          "source_name": "Lodging Magazine",
-          "site_id": "lodgingmag",
-          "published_at": "2026-11-19T18:09:33Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8469,
-      "importance": 0.5967,
-      "importance_score": 0.8469,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9837,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-19T18:09:33Z",
-      "latest_at": "2026-11-19T18:09:33Z",
-      "primary_item": {
-        "id": "hotelitem_3f933ced93a7",
-        "title": "Deloitte: Holiday Travel Plans Shift as Americans Navigate Rising Costs",
-        "url": "https://lodgingmagazine.com/deloitte-holiday-travel-plans-shift-as-americans-navigate-rising-costs/",
-        "source": "Lodging Magazine",
-        "source_name": "Lodging Magazine"
       }
     },
     {
@@ -1237,14 +1296,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8469,
-      "importance": 0.5968,
-      "importance_score": 0.8469,
+      "score": 0.8454,
+      "importance": 0.5952,
+      "importance_score": 0.8454,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.984,
+        "recency": 0.976,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1257,6 +1316,65 @@
         "id": "hotelitem_9d0a4fdd33f3",
         "title": "Redefining Revenue Management’s Role in the Modern Hotel Organization",
         "url": "https://lodgingmagazine.com/redefining-revenue-managements-role-in-the-modern-hotel-organization/",
+        "source": "Lodging Magazine",
+        "source_name": "Lodging Magazine"
+      }
+    },
+    {
+      "story_id": "story_3f933ced93a7",
+      "title": "Deloitte: Holiday Travel Plans Shift as Americans Navigate Rising Costs",
+      "url": "https://lodgingmagazine.com/deloitte-holiday-travel-plans-shift-as-americans-navigate-rising-costs/",
+      "primary_url": "https://lodgingmagazine.com/deloitte-holiday-travel-plans-shift-as-americans-navigate-rising-costs/",
+      "source": "Lodging Magazine",
+      "source_name": "Lodging Magazine",
+      "sources": [
+        {
+          "id": "hotelitem_3f933ced93a7",
+          "title": "Deloitte: Holiday Travel Plans Shift as Americans Navigate Rising Costs",
+          "url": "https://lodgingmagazine.com/deloitte-holiday-travel-plans-shift-as-americans-navigate-rising-costs/",
+          "source": "Lodging Magazine",
+          "source_name": "Lodging Magazine",
+          "site_id": "lodgingmag",
+          "published_at": "2026-11-19T18:09:33Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Lodging Magazine"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_3f933ced93a7",
+          "title": "Deloitte: Holiday Travel Plans Shift as Americans Navigate Rising Costs",
+          "url": "https://lodgingmagazine.com/deloitte-holiday-travel-plans-shift-as-americans-navigate-rising-costs/",
+          "source": "Lodging Magazine",
+          "source_name": "Lodging Magazine",
+          "site_id": "lodgingmag",
+          "published_at": "2026-11-19T18:09:33Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8453,
+      "importance": 0.5951,
+      "importance_score": 0.8453,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9757,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-19T18:09:33Z",
+      "latest_at": "2026-11-19T18:09:33Z",
+      "primary_item": {
+        "id": "hotelitem_3f933ced93a7",
+        "title": "Deloitte: Holiday Travel Plans Shift as Americans Navigate Rising Costs",
+        "url": "https://lodgingmagazine.com/deloitte-holiday-travel-plans-shift-as-americans-navigate-rising-costs/",
         "source": "Lodging Magazine",
         "source_name": "Lodging Magazine"
       }
@@ -1296,14 +1414,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8467,
-      "importance": 0.5966,
-      "importance_score": 0.8467,
+      "score": 0.8452,
+      "importance": 0.595,
+      "importance_score": 0.8452,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9831,
+        "recency": 0.9751,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1316,183 +1434,6 @@
         "id": "hotelitem_498d8158b3e7",
         "title": "Meyer Jabara Hotels Appoints New Chief Financial Officer",
         "url": "https://lodgingmagazine.com/meyer-jabara-hotels-appoints-new-chief-financial-officer/",
-        "source": "Lodging Magazine",
-        "source_name": "Lodging Magazine"
-      }
-    },
-    {
-      "story_id": "story_b5311e342abe",
-      "title": "CoStar: U.S. Hotel Industry Again Reports Positive Year-Over-Year Comparisons",
-      "url": "https://lodgingmagazine.com/costar-u-s-hotel-industry-again-reports-positive-year-over-year-comparisons-november-19/",
-      "primary_url": "https://lodgingmagazine.com/costar-u-s-hotel-industry-again-reports-positive-year-over-year-comparisons-november-19/",
-      "source": "Lodging Magazine",
-      "source_name": "Lodging Magazine",
-      "sources": [
-        {
-          "id": "hotelitem_b5311e342abe",
-          "title": "CoStar: U.S. Hotel Industry Again Reports Positive Year-Over-Year Comparisons",
-          "url": "https://lodgingmagazine.com/costar-u-s-hotel-industry-again-reports-positive-year-over-year-comparisons-november-19/",
-          "source": "Lodging Magazine",
-          "source_name": "Lodging Magazine",
-          "site_id": "lodgingmag",
-          "published_at": "2026-11-19T15:20:10Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Lodging Magazine"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_b5311e342abe",
-          "title": "CoStar: U.S. Hotel Industry Again Reports Positive Year-Over-Year Comparisons",
-          "url": "https://lodgingmagazine.com/costar-u-s-hotel-industry-again-reports-positive-year-over-year-comparisons-november-19/",
-          "source": "Lodging Magazine",
-          "source_name": "Lodging Magazine",
-          "site_id": "lodgingmag",
-          "published_at": "2026-11-19T15:20:10Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8463,
-      "importance": 0.5962,
-      "importance_score": 0.8463,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9811,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-19T15:20:10Z",
-      "latest_at": "2026-11-19T15:20:10Z",
-      "primary_item": {
-        "id": "hotelitem_b5311e342abe",
-        "title": "CoStar: U.S. Hotel Industry Again Reports Positive Year-Over-Year Comparisons",
-        "url": "https://lodgingmagazine.com/costar-u-s-hotel-industry-again-reports-positive-year-over-year-comparisons-november-19/",
-        "source": "Lodging Magazine",
-        "source_name": "Lodging Magazine"
-      }
-    },
-    {
-      "story_id": "story_731b599f0186",
-      "title": "HotelData Report: U.S. Hotels Beat Revenue and Profit Budgets in Q3 2026",
-      "url": "https://lodgingmagazine.com/hoteldata-report-u-s-hotels-beat-revenue-and-profit-budgets-in-q3-2026/",
-      "primary_url": "https://lodgingmagazine.com/hoteldata-report-u-s-hotels-beat-revenue-and-profit-budgets-in-q3-2026/",
-      "source": "Lodging Magazine",
-      "source_name": "Lodging Magazine",
-      "sources": [
-        {
-          "id": "hotelitem_731b599f0186",
-          "title": "HotelData Report: U.S. Hotels Beat Revenue and Profit Budgets in Q3 2026",
-          "url": "https://lodgingmagazine.com/hoteldata-report-u-s-hotels-beat-revenue-and-profit-budgets-in-q3-2026/",
-          "source": "Lodging Magazine",
-          "source_name": "Lodging Magazine",
-          "site_id": "lodgingmag",
-          "published_at": "2026-11-19T14:29:28Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Lodging Magazine"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_731b599f0186",
-          "title": "HotelData Report: U.S. Hotels Beat Revenue and Profit Budgets in Q3 2026",
-          "url": "https://lodgingmagazine.com/hoteldata-report-u-s-hotels-beat-revenue-and-profit-budgets-in-q3-2026/",
-          "source": "Lodging Magazine",
-          "source_name": "Lodging Magazine",
-          "site_id": "lodgingmag",
-          "published_at": "2026-11-19T14:29:28Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8462,
-      "importance": 0.5961,
-      "importance_score": 0.8462,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9803,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-19T14:29:28Z",
-      "latest_at": "2026-11-19T14:29:28Z",
-      "primary_item": {
-        "id": "hotelitem_731b599f0186",
-        "title": "HotelData Report: U.S. Hotels Beat Revenue and Profit Budgets in Q3 2026",
-        "url": "https://lodgingmagazine.com/hoteldata-report-u-s-hotels-beat-revenue-and-profit-budgets-in-q3-2026/",
-        "source": "Lodging Magazine",
-        "source_name": "Lodging Magazine"
-      }
-    },
-    {
-      "story_id": "story_e5a1a4df76df",
-      "title": "First Hospitality Announces Leadership Transition",
-      "url": "https://lodgingmagazine.com/first-hospitality-announces-leadership-transition/",
-      "primary_url": "https://lodgingmagazine.com/first-hospitality-announces-leadership-transition/",
-      "source": "Lodging Magazine",
-      "source_name": "Lodging Magazine",
-      "sources": [
-        {
-          "id": "hotelitem_e5a1a4df76df",
-          "title": "First Hospitality Announces Leadership Transition",
-          "url": "https://lodgingmagazine.com/first-hospitality-announces-leadership-transition/",
-          "source": "Lodging Magazine",
-          "source_name": "Lodging Magazine",
-          "site_id": "lodgingmag",
-          "published_at": "2026-11-19T14:36:59Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Lodging Magazine"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_e5a1a4df76df",
-          "title": "First Hospitality Announces Leadership Transition",
-          "url": "https://lodgingmagazine.com/first-hospitality-announces-leadership-transition/",
-          "source": "Lodging Magazine",
-          "source_name": "Lodging Magazine",
-          "site_id": "lodgingmag",
-          "published_at": "2026-11-19T14:36:59Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8462,
-      "importance": 0.5961,
-      "importance_score": 0.8462,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9804,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-19T14:36:59Z",
-      "latest_at": "2026-11-19T14:36:59Z",
-      "primary_item": {
-        "id": "hotelitem_e5a1a4df76df",
-        "title": "First Hospitality Announces Leadership Transition",
-        "url": "https://lodgingmagazine.com/first-hospitality-announces-leadership-transition/",
         "source": "Lodging Magazine",
         "source_name": "Lodging Magazine"
       }
@@ -1532,14 +1473,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8453,
-      "importance": 0.5951,
-      "importance_score": 0.8453,
+      "score": 0.8437,
+      "importance": 0.5935,
+      "importance_score": 0.8437,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9756,
+        "recency": 0.9676,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1591,14 +1532,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8399,
-      "importance": 0.5331,
-      "importance_score": 0.8399,
+      "score": 0.8376,
+      "importance": 0.5314,
+      "importance_score": 0.8376,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.6653,
+        "recency": 0.6572,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1650,14 +1591,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8342,
-      "importance": 0.507,
-      "importance_score": 0.8342,
+      "score": 0.8319,
+      "importance": 0.5054,
+      "importance_score": 0.8319,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.5351,
+        "recency": 0.5271,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1709,14 +1650,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8226,
-      "importance": 0.4991,
-      "importance_score": 0.8226,
+      "score": 0.8203,
+      "importance": 0.4975,
+      "importance_score": 0.8203,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.4956,
+        "recency": 0.4876,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1768,14 +1709,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8194,
-      "importance": 0.5685,
-      "importance_score": 0.8194,
+      "score": 0.8171,
+      "importance": 0.5669,
+      "importance_score": 0.8171,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8425,
+        "recency": 0.8344,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1790,6 +1731,65 @@
         "url": "https://boutiquehotelnews.com/news/movers-and-shakers/chancery-rosewood-md/?utm_source=rss&utm_medium=rss&utm_campaign=chancery-rosewood-md",
         "source": "Boutique Hotel News",
         "source_name": "Boutique Hotel News"
+      }
+    },
+    {
+      "story_id": "story_90078f718a51",
+      "title": "Hyatt and Delta unveil more details on their new loyalty collaboration",
+      "url": "https://insights.ehotelier.com/global-news/2026/11/20/hyatt-and-delta-unveil-more-details-on-their-new-loyalty-collaboration/?utm_source=rss&utm_medium=rss&utm_campaign=hyatt-and-delta-unveil-more-details-on-their-new-loyalty-collaboration",
+      "primary_url": "https://insights.ehotelier.com/global-news/2026/11/20/hyatt-and-delta-unveil-more-details-on-their-new-loyalty-collaboration/?utm_source=rss&utm_medium=rss&utm_campaign=hyatt-and-delta-unveil-more-details-on-their-new-loyalty-collaboration",
+      "source": "eHotelier",
+      "source_name": "eHotelier",
+      "sources": [
+        {
+          "id": "hotelitem_90078f718a51",
+          "title": "Hyatt and Delta unveil more details on their new loyalty collaboration",
+          "url": "https://insights.ehotelier.com/global-news/2026/11/20/hyatt-and-delta-unveil-more-details-on-their-new-loyalty-collaboration/?utm_source=rss&utm_medium=rss&utm_campaign=hyatt-and-delta-unveil-more-details-on-their-new-loyalty-collaboration",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-11-20T00:55:48Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "eHotelier"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_90078f718a51",
+          "title": "Hyatt and Delta unveil more details on their new loyalty collaboration",
+          "url": "https://insights.ehotelier.com/global-news/2026/11/20/hyatt-and-delta-unveil-more-details-on-their-new-loyalty-collaboration/?utm_source=rss&utm_medium=rss&utm_campaign=hyatt-and-delta-unveil-more-details-on-their-new-loyalty-collaboration",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-11-20T00:55:48Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8165,
+      "importance": 0.5964,
+      "importance_score": 0.8165,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9819,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-20T00:55:48Z",
+      "latest_at": "2026-11-20T00:55:48Z",
+      "primary_item": {
+        "id": "hotelitem_90078f718a51",
+        "title": "Hyatt and Delta unveil more details on their new loyalty collaboration",
+        "url": "https://insights.ehotelier.com/global-news/2026/11/20/hyatt-and-delta-unveil-more-details-on-their-new-loyalty-collaboration/?utm_source=rss&utm_medium=rss&utm_campaign=hyatt-and-delta-unveil-more-details-on-their-new-loyalty-collaboration",
+        "source": "eHotelier",
+        "source_name": "eHotelier"
       }
     }
   ]
