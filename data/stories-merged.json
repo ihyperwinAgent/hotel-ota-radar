@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T20:42:32.192850Z",
+  "generated_at": "2026-11-20T02:21:24.081677Z",
   "window_hours": 1080,
   "total_stories": 30,
   "stories": [
@@ -39,13 +39,13 @@
       "item_count": 1,
       "duplicate_count": 1,
       "score": 1.0,
-      "importance": 0.5953,
+      "importance": 0.5942,
       "importance_score": 1.0,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9763,
+        "recency": 0.9711,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -98,13 +98,13 @@
       "item_count": 1,
       "duplicate_count": 1,
       "score": 1.0,
-      "importance": 0.599,
+      "importance": 0.5979,
       "importance_score": 1.0,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9949,
+        "recency": 0.9897,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -122,21 +122,21 @@
       }
     },
     {
-      "story_id": "story_425b8c73aa12",
-      "title": "Marriott International reaches 115 branded residential properties in its total portfolio across Europe, Middle East & Africa",
-      "url": "https://insights.ehotelier.com/properties/2026/11/19/marriott-international-reaches-115-branded-residential-properties-in-its-total-portfolio-across-europe-middle-east-africa/?utm_source=rss&utm_medium=rss&utm_campaign=marriott-international-reaches-115-branded-residential-properties-in-its-total-portfolio-across-europe-middle-east-africa",
-      "primary_url": "https://insights.ehotelier.com/properties/2026/11/19/marriott-international-reaches-115-branded-residential-properties-in-its-total-portfolio-across-europe-middle-east-africa/?utm_source=rss&utm_medium=rss&utm_campaign=marriott-international-reaches-115-branded-residential-properties-in-its-total-portfolio-across-europe-middle-east-africa",
+      "story_id": "story_697a132b0d47",
+      "title": "The Rainy Day Dilemma: Turning bad weather into a revenue and experience opportunity",
+      "url": "https://insights.ehotelier.com/suppliers/2026/11/20/the-rainy-day-dilemma-turning-bad-weather-into-a-revenue-and-experience-opportunity/?utm_source=rss&utm_medium=rss&utm_campaign=the-rainy-day-dilemma-turning-bad-weather-into-a-revenue-and-experience-opportunity",
+      "primary_url": "https://insights.ehotelier.com/suppliers/2026/11/20/the-rainy-day-dilemma-turning-bad-weather-into-a-revenue-and-experience-opportunity/?utm_source=rss&utm_medium=rss&utm_campaign=the-rainy-day-dilemma-turning-bad-weather-into-a-revenue-and-experience-opportunity",
       "source": "eHotelier",
       "source_name": "eHotelier",
       "sources": [
         {
-          "id": "hotelitem_425b8c73aa12",
-          "title": "Marriott International reaches 115 branded residential properties in its total portfolio across Europe, Middle East & Africa",
-          "url": "https://insights.ehotelier.com/properties/2026/11/19/marriott-international-reaches-115-branded-residential-properties-in-its-total-portfolio-across-europe-middle-east-africa/?utm_source=rss&utm_medium=rss&utm_campaign=marriott-international-reaches-115-branded-residential-properties-in-its-total-portfolio-across-europe-middle-east-africa",
+          "id": "hotelitem_697a132b0d47",
+          "title": "The Rainy Day Dilemma: Turning bad weather into a revenue and experience opportunity",
+          "url": "https://insights.ehotelier.com/suppliers/2026/11/20/the-rainy-day-dilemma-turning-bad-weather-into-a-revenue-and-experience-opportunity/?utm_source=rss&utm_medium=rss&utm_campaign=the-rainy-day-dilemma-turning-bad-weather-into-a-revenue-and-experience-opportunity",
           "source": "eHotelier",
           "source_name": "eHotelier",
           "site_id": "ehotelier",
-          "published_at": "2026-11-19T00:35:56Z"
+          "published_at": "2026-11-20T01:05:26Z"
         }
       ],
       "source_count": 1,
@@ -145,155 +145,37 @@
       ],
       "items": [
         {
-          "id": "hotelitem_425b8c73aa12",
-          "title": "Marriott International reaches 115 branded residential properties in its total portfolio across Europe, Middle East & Africa",
-          "url": "https://insights.ehotelier.com/properties/2026/11/19/marriott-international-reaches-115-branded-residential-properties-in-its-total-portfolio-across-europe-middle-east-africa/?utm_source=rss&utm_medium=rss&utm_campaign=marriott-international-reaches-115-branded-residential-properties-in-its-total-portfolio-across-europe-middle-east-africa",
+          "id": "hotelitem_697a132b0d47",
+          "title": "The Rainy Day Dilemma: Turning bad weather into a revenue and experience opportunity",
+          "url": "https://insights.ehotelier.com/suppliers/2026/11/20/the-rainy-day-dilemma-turning-bad-weather-into-a-revenue-and-experience-opportunity/?utm_source=rss&utm_medium=rss&utm_campaign=the-rainy-day-dilemma-turning-bad-weather-into-a-revenue-and-experience-opportunity",
           "source": "eHotelier",
           "source_name": "eHotelier",
           "site_id": "ehotelier",
-          "published_at": "2026-11-19T00:35:56Z"
+          "published_at": "2026-11-20T01:05:26Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9514,
-      "importance": 0.5963,
-      "importance_score": 0.9514,
+      "score": 0.9548,
+      "importance": 0.5998,
+      "importance_score": 0.9548,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9814,
+        "recency": 0.9988,
         "story_heat": 0.0
       },
       "category": "watch",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-11-19T00:35:56Z",
-      "latest_at": "2026-11-19T00:35:56Z",
+      "earliest_at": "2026-11-20T01:05:26Z",
+      "latest_at": "2026-11-20T01:05:26Z",
       "primary_item": {
-        "id": "hotelitem_425b8c73aa12",
-        "title": "Marriott International reaches 115 branded residential properties in its total portfolio across Europe, Middle East & Africa",
-        "url": "https://insights.ehotelier.com/properties/2026/11/19/marriott-international-reaches-115-branded-residential-properties-in-its-total-portfolio-across-europe-middle-east-africa/?utm_source=rss&utm_medium=rss&utm_campaign=marriott-international-reaches-115-branded-residential-properties-in-its-total-portfolio-across-europe-middle-east-africa",
-        "source": "eHotelier",
-        "source_name": "eHotelier"
-      }
-    },
-    {
-      "story_id": "story_c2be7ad62d83",
-      "title": "Stonebridge adds Sofitel Chicago Magnificent Mile to its growing luxury portfolio",
-      "url": "https://insights.ehotelier.com/properties/2026/11/19/stonebridge-adds-sofitel-chicago-magnificent-mile-to-its-growing-luxury-portfolio/?utm_source=rss&utm_medium=rss&utm_campaign=stonebridge-adds-sofitel-chicago-magnificent-mile-to-its-growing-luxury-portfolio",
-      "primary_url": "https://insights.ehotelier.com/properties/2026/11/19/stonebridge-adds-sofitel-chicago-magnificent-mile-to-its-growing-luxury-portfolio/?utm_source=rss&utm_medium=rss&utm_campaign=stonebridge-adds-sofitel-chicago-magnificent-mile-to-its-growing-luxury-portfolio",
-      "source": "eHotelier",
-      "source_name": "eHotelier",
-      "sources": [
-        {
-          "id": "hotelitem_c2be7ad62d83",
-          "title": "Stonebridge adds Sofitel Chicago Magnificent Mile to its growing luxury portfolio",
-          "url": "https://insights.ehotelier.com/properties/2026/11/19/stonebridge-adds-sofitel-chicago-magnificent-mile-to-its-growing-luxury-portfolio/?utm_source=rss&utm_medium=rss&utm_campaign=stonebridge-adds-sofitel-chicago-magnificent-mile-to-its-growing-luxury-portfolio",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-11-19T00:40:16Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "eHotelier"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_c2be7ad62d83",
-          "title": "Stonebridge adds Sofitel Chicago Magnificent Mile to its growing luxury portfolio",
-          "url": "https://insights.ehotelier.com/properties/2026/11/19/stonebridge-adds-sofitel-chicago-magnificent-mile-to-its-growing-luxury-portfolio/?utm_source=rss&utm_medium=rss&utm_campaign=stonebridge-adds-sofitel-chicago-magnificent-mile-to-its-growing-luxury-portfolio",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-11-19T00:40:16Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.9514,
-      "importance": 0.5963,
-      "importance_score": 0.9514,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9814,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-19T00:40:16Z",
-      "latest_at": "2026-11-19T00:40:16Z",
-      "primary_item": {
-        "id": "hotelitem_c2be7ad62d83",
-        "title": "Stonebridge adds Sofitel Chicago Magnificent Mile to its growing luxury portfolio",
-        "url": "https://insights.ehotelier.com/properties/2026/11/19/stonebridge-adds-sofitel-chicago-magnificent-mile-to-its-growing-luxury-portfolio/?utm_source=rss&utm_medium=rss&utm_campaign=stonebridge-adds-sofitel-chicago-magnificent-mile-to-its-growing-luxury-portfolio",
-        "source": "eHotelier",
-        "source_name": "eHotelier"
-      }
-    },
-    {
-      "story_id": "story_6910c388b19b",
-      "title": "Prateek Arora appointed Executive Assistant Manager of Sofitel Auckland",
-      "url": "https://insights.ehotelier.com/people/2026/11/19/prateek-arora-appointed-executive-assistant-manager-of-sofitel-auckland/?utm_source=rss&utm_medium=rss&utm_campaign=prateek-arora-appointed-executive-assistant-manager-of-sofitel-auckland",
-      "primary_url": "https://insights.ehotelier.com/people/2026/11/19/prateek-arora-appointed-executive-assistant-manager-of-sofitel-auckland/?utm_source=rss&utm_medium=rss&utm_campaign=prateek-arora-appointed-executive-assistant-manager-of-sofitel-auckland",
-      "source": "eHotelier",
-      "source_name": "eHotelier",
-      "sources": [
-        {
-          "id": "hotelitem_6910c388b19b",
-          "title": "Prateek Arora appointed Executive Assistant Manager of Sofitel Auckland",
-          "url": "https://insights.ehotelier.com/people/2026/11/19/prateek-arora-appointed-executive-assistant-manager-of-sofitel-auckland/?utm_source=rss&utm_medium=rss&utm_campaign=prateek-arora-appointed-executive-assistant-manager-of-sofitel-auckland",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-11-19T00:45:11Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "eHotelier"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_6910c388b19b",
-          "title": "Prateek Arora appointed Executive Assistant Manager of Sofitel Auckland",
-          "url": "https://insights.ehotelier.com/people/2026/11/19/prateek-arora-appointed-executive-assistant-manager-of-sofitel-auckland/?utm_source=rss&utm_medium=rss&utm_campaign=prateek-arora-appointed-executive-assistant-manager-of-sofitel-auckland",
-          "source": "eHotelier",
-          "source_name": "eHotelier",
-          "site_id": "ehotelier",
-          "published_at": "2026-11-19T00:45:11Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.9514,
-      "importance": 0.5963,
-      "importance_score": 0.9514,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9815,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-19T00:45:11Z",
-      "latest_at": "2026-11-19T00:45:11Z",
-      "primary_item": {
-        "id": "hotelitem_6910c388b19b",
-        "title": "Prateek Arora appointed Executive Assistant Manager of Sofitel Auckland",
-        "url": "https://insights.ehotelier.com/people/2026/11/19/prateek-arora-appointed-executive-assistant-manager-of-sofitel-auckland/?utm_source=rss&utm_medium=rss&utm_campaign=prateek-arora-appointed-executive-assistant-manager-of-sofitel-auckland",
+        "id": "hotelitem_697a132b0d47",
+        "title": "The Rainy Day Dilemma: Turning bad weather into a revenue and experience opportunity",
+        "url": "https://insights.ehotelier.com/suppliers/2026/11/20/the-rainy-day-dilemma-turning-bad-weather-into-a-revenue-and-experience-opportunity/?utm_source=rss&utm_medium=rss&utm_campaign=the-rainy-day-dilemma-turning-bad-weather-into-a-revenue-and-experience-opportunity",
         "source": "eHotelier",
         "source_name": "eHotelier"
       }
@@ -333,14 +215,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9497,
-      "importance": 0.5945,
-      "importance_score": 0.9497,
+      "score": 0.9487,
+      "importance": 0.5934,
+      "importance_score": 0.9487,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9723,
+        "recency": 0.9671,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -392,14 +274,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9359,
-      "importance": 0.5958,
-      "importance_score": 0.9359,
+      "score": 0.9349,
+      "importance": 0.5947,
+      "importance_score": 0.9349,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9788,
+        "recency": 0.9735,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -451,14 +333,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9342,
-      "importance": 0.594,
-      "importance_score": 0.9342,
+      "score": 0.9332,
+      "importance": 0.593,
+      "importance_score": 0.9332,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.97,
+        "recency": 0.9648,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -490,7 +372,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-11-19T20:42:32.192850Z"
+          "published_at": "2026-11-20T02:21:24.081677Z"
         }
       ],
       "source_count": 1,
@@ -505,7 +387,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-11-19T20:42:32.192850Z"
+          "published_at": "2026-11-20T02:21:24.081677Z"
         }
       ],
       "item_count": 1,
@@ -524,8 +406,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-11-19T20:42:32.192850Z",
-      "latest_at": "2026-11-19T20:42:32.192850Z",
+      "earliest_at": "2026-11-20T02:21:24.081677Z",
+      "latest_at": "2026-11-20T02:21:24.081677Z",
       "primary_item": {
         "id": "hotelitem_f49c27611d71",
         "title": "不搬店，搬能力：小米战略投资的尚美数智在雅加达160天开出当月盈利的SHANKEE酒店",
@@ -549,7 +431,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-11-19T20:42:32.192850Z"
+          "published_at": "2026-11-20T02:21:24.081677Z"
         }
       ],
       "source_count": 1,
@@ -564,7 +446,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-11-19T20:42:32.192850Z"
+          "published_at": "2026-11-20T02:21:24.081677Z"
         }
       ],
       "item_count": 1,
@@ -583,8 +465,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-11-19T20:42:32.192850Z",
-      "latest_at": "2026-11-19T20:42:32.192850Z",
+      "earliest_at": "2026-11-20T02:21:24.081677Z",
+      "latest_at": "2026-11-20T02:21:24.081677Z",
       "primary_item": {
         "id": "hotelitem_06f191e24d38",
         "title": "文旅惠报|复星国际申请分拆Club Med在港上市；南京商旅上半年营收3.66亿元",
@@ -628,14 +510,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8963,
-      "importance": 0.5728,
-      "importance_score": 0.8963,
+      "score": 0.8952,
+      "importance": 0.5717,
+      "importance_score": 0.8952,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8639,
+        "recency": 0.8587,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -687,14 +569,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.883,
-      "importance": 0.5979,
-      "importance_score": 0.883,
+      "score": 0.8819,
+      "importance": 0.5968,
+      "importance_score": 0.8819,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9894,
+        "recency": 0.9842,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -709,6 +591,124 @@
         "url": "https://www.pinchain.com/article/353268",
         "source": "品橙旅游",
         "source_name": "品橙旅游"
+      }
+    },
+    {
+      "story_id": "story_8b82a8d3744b",
+      "title": "Bison Casino na telefonie w Polsce: strona mobilna czy aplikacja?",
+      "url": "https://insights.ehotelier.com/uncategorised/2026/11/20/bison-casino-na-telefonie-w-polsce-strona-mobilna-czy-aplikacja/?utm_source=rss&utm_medium=rss&utm_campaign=bison-casino-na-telefonie-w-polsce-strona-mobilna-czy-aplikacja",
+      "primary_url": "https://insights.ehotelier.com/uncategorised/2026/11/20/bison-casino-na-telefonie-w-polsce-strona-mobilna-czy-aplikacja/?utm_source=rss&utm_medium=rss&utm_campaign=bison-casino-na-telefonie-w-polsce-strona-mobilna-czy-aplikacja",
+      "source": "eHotelier",
+      "source_name": "eHotelier",
+      "sources": [
+        {
+          "id": "hotelitem_8b82a8d3744b",
+          "title": "Bison Casino na telefonie w Polsce: strona mobilna czy aplikacja?",
+          "url": "https://insights.ehotelier.com/uncategorised/2026/11/20/bison-casino-na-telefonie-w-polsce-strona-mobilna-czy-aplikacja/?utm_source=rss&utm_medium=rss&utm_campaign=bison-casino-na-telefonie-w-polsce-strona-mobilna-czy-aplikacja",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-11-20T01:20:04Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "eHotelier"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_8b82a8d3744b",
+          "title": "Bison Casino na telefonie w Polsce: strona mobilna czy aplikacja?",
+          "url": "https://insights.ehotelier.com/uncategorised/2026/11/20/bison-casino-na-telefonie-w-polsce-strona-mobilna-czy-aplikacja/?utm_source=rss&utm_medium=rss&utm_campaign=bison-casino-na-telefonie-w-polsce-strona-mobilna-czy-aplikacja",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-11-20T01:20:04Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8648,
+      "importance": 0.5998,
+      "importance_score": 0.8648,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9991,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-20T01:20:04Z",
+      "latest_at": "2026-11-20T01:20:04Z",
+      "primary_item": {
+        "id": "hotelitem_8b82a8d3744b",
+        "title": "Bison Casino na telefonie w Polsce: strona mobilna czy aplikacja?",
+        "url": "https://insights.ehotelier.com/uncategorised/2026/11/20/bison-casino-na-telefonie-w-polsce-strona-mobilna-czy-aplikacja/?utm_source=rss&utm_medium=rss&utm_campaign=bison-casino-na-telefonie-w-polsce-strona-mobilna-czy-aplikacja",
+        "source": "eHotelier",
+        "source_name": "eHotelier"
+      }
+    },
+    {
+      "story_id": "story_0c4886bbd814",
+      "title": "Australia’s first Andaz hotel officially opens on the Gold Coast",
+      "url": "https://insights.ehotelier.com/properties/2026/11/20/australias-first-andaz-hotel-officially-opens-on-the-gold-coast/?utm_source=rss&utm_medium=rss&utm_campaign=australias-first-andaz-hotel-officially-opens-on-the-gold-coast",
+      "primary_url": "https://insights.ehotelier.com/properties/2026/11/20/australias-first-andaz-hotel-officially-opens-on-the-gold-coast/?utm_source=rss&utm_medium=rss&utm_campaign=australias-first-andaz-hotel-officially-opens-on-the-gold-coast",
+      "source": "eHotelier",
+      "source_name": "eHotelier",
+      "sources": [
+        {
+          "id": "hotelitem_0c4886bbd814",
+          "title": "Australia’s first Andaz hotel officially opens on the Gold Coast",
+          "url": "https://insights.ehotelier.com/properties/2026/11/20/australias-first-andaz-hotel-officially-opens-on-the-gold-coast/?utm_source=rss&utm_medium=rss&utm_campaign=australias-first-andaz-hotel-officially-opens-on-the-gold-coast",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-11-20T00:35:20Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "eHotelier"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_0c4886bbd814",
+          "title": "Australia’s first Andaz hotel officially opens on the Gold Coast",
+          "url": "https://insights.ehotelier.com/properties/2026/11/20/australias-first-andaz-hotel-officially-opens-on-the-gold-coast/?utm_source=rss&utm_medium=rss&utm_campaign=australias-first-andaz-hotel-officially-opens-on-the-gold-coast",
+          "source": "eHotelier",
+          "source_name": "eHotelier",
+          "site_id": "ehotelier",
+          "published_at": "2026-11-20T00:35:20Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8647,
+      "importance": 0.5997,
+      "importance_score": 0.8647,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9984,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-20T00:35:20Z",
+      "latest_at": "2026-11-20T00:35:20Z",
+      "primary_item": {
+        "id": "hotelitem_0c4886bbd814",
+        "title": "Australia’s first Andaz hotel officially opens on the Gold Coast",
+        "url": "https://insights.ehotelier.com/properties/2026/11/20/australias-first-andaz-hotel-officially-opens-on-the-gold-coast/?utm_source=rss&utm_medium=rss&utm_campaign=australias-first-andaz-hotel-officially-opens-on-the-gold-coast",
+        "source": "eHotelier",
+        "source_name": "eHotelier"
       }
     },
     {
@@ -746,14 +746,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8648,
-      "importance": 0.5998,
-      "importance_score": 0.8648,
+      "score": 0.8638,
+      "importance": 0.5987,
+      "importance_score": 0.8638,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9989,
+        "recency": 0.9937,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -805,14 +805,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8639,
-      "importance": 0.5988,
-      "importance_score": 0.8639,
+      "score": 0.8629,
+      "importance": 0.5978,
+      "importance_score": 0.8629,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9941,
+        "recency": 0.9889,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -844,7 +844,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-11-19T20:42:32.192850Z"
+          "published_at": "2026-11-20T02:21:24.081677Z"
         },
         {
           "id": "hotelitem_c7c15b7680c9",
@@ -853,7 +853,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-11-19T20:42:32.192850Z"
+          "published_at": "2026-11-20T02:21:24.081677Z"
         }
       ],
       "source_count": 2,
@@ -868,7 +868,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-11-19T20:42:32.192850Z"
+          "published_at": "2026-11-20T02:21:24.081677Z"
         },
         {
           "id": "hotelitem_c7c15b7680c9",
@@ -877,7 +877,7 @@
           "source": "中国饭店协会",
           "source_name": "中国饭店协会",
           "site_id": "chinahotel",
-          "published_at": "2026-11-19T20:42:32.192850Z"
+          "published_at": "2026-11-20T02:21:24.081677Z"
         }
       ],
       "item_count": 2,
@@ -897,14 +897,191 @@
         "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-11-19T20:42:32.192850Z",
-      "latest_at": "2026-11-19T20:42:32.192850Z",
+      "earliest_at": "2026-11-20T02:21:24.081677Z",
+      "latest_at": "2026-11-20T02:21:24.081677Z",
       "primary_item": {
         "id": "hotelitem_d4370964909c",
         "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
         "url": "https://www.chinahotel.org.cn/articles/17408",
         "source": "中国饭店协会",
         "source_name": "中国饭店协会"
+      }
+    },
+    {
+      "story_id": "story_a20f4f722d06",
+      "title": "中青旅挂牌转让青乐文旅51%股权",
+      "url": "https://www.meadin.com/wl/304221.html",
+      "primary_url": "https://www.meadin.com/wl/304221.html",
+      "source": "迈点研究院",
+      "source_name": "迈点研究院",
+      "sources": [
+        {
+          "id": "hotelitem_a20f4f722d06",
+          "title": "中青旅挂牌转让青乐文旅51%股权",
+          "url": "https://www.meadin.com/wl/304221.html",
+          "source": "迈点研究院",
+          "source_name": "迈点研究院",
+          "site_id": "meadin",
+          "published_at": "2026-11-20T02:21:24.081677Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "迈点研究院"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_a20f4f722d06",
+          "title": "中青旅挂牌转让青乐文旅51%股权",
+          "url": "https://www.meadin.com/wl/304221.html",
+          "source": "迈点研究院",
+          "source_name": "迈点研究院",
+          "site_id": "meadin",
+          "published_at": "2026-11-20T02:21:24.081677Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.86,
+      "importance": 0.6,
+      "importance_score": 0.86,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-20T02:21:24.081677Z",
+      "latest_at": "2026-11-20T02:21:24.081677Z",
+      "primary_item": {
+        "id": "hotelitem_a20f4f722d06",
+        "title": "中青旅挂牌转让青乐文旅51%股权",
+        "url": "https://www.meadin.com/wl/304221.html",
+        "source": "迈点研究院",
+        "source_name": "迈点研究院"
+      }
+    },
+    {
+      "story_id": "story_92745a8322b9",
+      "title": "雅高16亿欧元收购Ennismore少数股东全部股权",
+      "url": "https://www.meadin.com/jd/304232.html",
+      "primary_url": "https://www.meadin.com/jd/304232.html",
+      "source": "迈点研究院",
+      "source_name": "迈点研究院",
+      "sources": [
+        {
+          "id": "hotelitem_92745a8322b9",
+          "title": "雅高16亿欧元收购Ennismore少数股东全部股权",
+          "url": "https://www.meadin.com/jd/304232.html",
+          "source": "迈点研究院",
+          "source_name": "迈点研究院",
+          "site_id": "meadin",
+          "published_at": "2026-11-20T02:21:24.081677Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "迈点研究院"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_92745a8322b9",
+          "title": "雅高16亿欧元收购Ennismore少数股东全部股权",
+          "url": "https://www.meadin.com/jd/304232.html",
+          "source": "迈点研究院",
+          "source_name": "迈点研究院",
+          "site_id": "meadin",
+          "published_at": "2026-11-20T02:21:24.081677Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.86,
+      "importance": 0.6,
+      "importance_score": 0.86,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-20T02:21:24.081677Z",
+      "latest_at": "2026-11-20T02:21:24.081677Z",
+      "primary_item": {
+        "id": "hotelitem_92745a8322b9",
+        "title": "雅高16亿欧元收购Ennismore少数股东全部股权",
+        "url": "https://www.meadin.com/jd/304232.html",
+        "source": "迈点研究院",
+        "source_name": "迈点研究院"
+      }
+    },
+    {
+      "story_id": "story_6c98fe545b36",
+      "title": "首旅酒店拟用不超5亿元闲置募资进行现金管理",
+      "url": "https://www.meadin.com/jd/304227.html",
+      "primary_url": "https://www.meadin.com/jd/304227.html",
+      "source": "迈点研究院",
+      "source_name": "迈点研究院",
+      "sources": [
+        {
+          "id": "hotelitem_6c98fe545b36",
+          "title": "首旅酒店拟用不超5亿元闲置募资进行现金管理",
+          "url": "https://www.meadin.com/jd/304227.html",
+          "source": "迈点研究院",
+          "source_name": "迈点研究院",
+          "site_id": "meadin",
+          "published_at": "2026-11-20T02:21:24.081677Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "迈点研究院"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_6c98fe545b36",
+          "title": "首旅酒店拟用不超5亿元闲置募资进行现金管理",
+          "url": "https://www.meadin.com/jd/304227.html",
+          "source": "迈点研究院",
+          "source_name": "迈点研究院",
+          "site_id": "meadin",
+          "published_at": "2026-11-20T02:21:24.081677Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.86,
+      "importance": 0.6,
+      "importance_score": 0.86,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-20T02:21:24.081677Z",
+      "latest_at": "2026-11-20T02:21:24.081677Z",
+      "primary_item": {
+        "id": "hotelitem_6c98fe545b36",
+        "title": "首旅酒店拟用不超5亿元闲置募资进行现金管理",
+        "url": "https://www.meadin.com/jd/304227.html",
+        "source": "迈点研究院",
+        "source_name": "迈点研究院"
       }
     },
     {
@@ -922,7 +1099,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-11-19T20:42:32.192850Z"
+          "published_at": "2026-11-20T02:21:24.081677Z"
         }
       ],
       "source_count": 1,
@@ -937,7 +1114,7 @@
           "source": "中国旅游研究院",
           "source_name": "中国旅游研究院",
           "site_id": "cta",
-          "published_at": "2026-11-19T20:42:32.192850Z"
+          "published_at": "2026-11-20T02:21:24.081677Z"
         }
       ],
       "item_count": 1,
@@ -956,8 +1133,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-11-19T20:42:32.192850Z",
-      "latest_at": "2026-11-19T20:42:32.192850Z",
+      "earliest_at": "2026-11-20T02:21:24.081677Z",
+      "latest_at": "2026-11-20T02:21:24.081677Z",
       "primary_item": {
         "id": "hotelitem_e4ce0593c384",
         "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
@@ -981,7 +1158,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-11-19T20:42:32.192850Z"
+          "published_at": "2026-11-20T02:21:24.081677Z"
         }
       ],
       "source_count": 1,
@@ -996,7 +1173,7 @@
           "source": "文化和旅游部",
           "source_name": "文化和旅游部",
           "site_id": "mct",
-          "published_at": "2026-11-19T20:42:32.192850Z"
+          "published_at": "2026-11-20T02:21:24.081677Z"
         }
       ],
       "item_count": 1,
@@ -1015,8 +1192,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-11-19T20:42:32.192850Z",
-      "latest_at": "2026-11-19T20:42:32.192850Z",
+      "earliest_at": "2026-11-20T02:21:24.081677Z",
+      "latest_at": "2026-11-20T02:21:24.081677Z",
       "primary_item": {
         "id": "hotelitem_4adba65c20e7",
         "title": "文化和旅游部党组召开会议坚决拥护党中央对...",
@@ -1060,14 +1237,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8554,
-      "importance": 0.59,
-      "importance_score": 0.8554,
+      "score": 0.8543,
+      "importance": 0.589,
+      "importance_score": 0.8543,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.95,
+        "recency": 0.9448,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1119,14 +1296,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8512,
-      "importance": 0.5857,
-      "importance_score": 0.8512,
+      "score": 0.8502,
+      "importance": 0.5847,
+      "importance_score": 0.8502,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9287,
+        "recency": 0.9234,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1178,14 +1355,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8496,
-      "importance": 0.5996,
-      "importance_score": 0.8496,
+      "score": 0.8486,
+      "importance": 0.5985,
+      "importance_score": 0.8486,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.998,
+        "recency": 0.9927,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1237,14 +1414,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8495,
-      "importance": 0.5995,
-      "importance_score": 0.8495,
+      "score": 0.8485,
+      "importance": 0.5985,
+      "importance_score": 0.8485,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9976,
+        "recency": 0.9924,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1296,14 +1473,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8494,
-      "importance": 0.5994,
-      "importance_score": 0.8494,
+      "score": 0.8484,
+      "importance": 0.5984,
+      "importance_score": 0.8484,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9971,
+        "recency": 0.9919,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1355,14 +1532,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.849,
-      "importance": 0.599,
-      "importance_score": 0.849,
+      "score": 0.848,
+      "importance": 0.598,
+      "importance_score": 0.848,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.995,
+        "recency": 0.9898,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1414,14 +1591,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8489,
-      "importance": 0.5988,
-      "importance_score": 0.8489,
+      "score": 0.8479,
+      "importance": 0.5978,
+      "importance_score": 0.8479,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9942,
+        "recency": 0.989,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1473,14 +1650,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8489,
-      "importance": 0.5989,
-      "importance_score": 0.8489,
+      "score": 0.8479,
+      "importance": 0.5978,
+      "importance_score": 0.8479,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9944,
+        "recency": 0.9891,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1532,14 +1709,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.848,
-      "importance": 0.5979,
-      "importance_score": 0.848,
+      "score": 0.847,
+      "importance": 0.5969,
+      "importance_score": 0.847,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9896,
+        "recency": 0.9843,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1591,14 +1768,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.844,
-      "importance": 0.5358,
-      "importance_score": 0.844,
+      "score": 0.8425,
+      "importance": 0.5348,
+      "importance_score": 0.8425,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.6792,
+        "recency": 0.674,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1613,183 +1790,6 @@
         "url": "https://www.traveldaily.cn/article/190962",
         "source": "环球旅讯 TravelDaily",
         "source_name": "环球旅讯 TravelDaily"
-      }
-    },
-    {
-      "story_id": "story_07abe986da7e",
-      "title": "Power Where You Need It. Style Where You Want It.",
-      "url": "https://www.hotelmanagement.net/resource/power-where-you-need-it-style-where-you-want-it",
-      "primary_url": "https://www.hotelmanagement.net/resource/power-where-you-need-it-style-where-you-want-it",
-      "source": "Hotel Management",
-      "source_name": "Hotel Management",
-      "sources": [
-        {
-          "id": "hotelitem_07abe986da7e",
-          "title": "Power Where You Need It. Style Where You Want It.",
-          "url": "https://www.hotelmanagement.net/resource/power-where-you-need-it-style-where-you-want-it",
-          "source": "Hotel Management",
-          "source_name": "Hotel Management",
-          "site_id": "hotelmgmt",
-          "published_at": "2026-10-30T13:42:57Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hotel Management"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_07abe986da7e",
-          "title": "Power Where You Need It. Style Where You Want It.",
-          "url": "https://www.hotelmanagement.net/resource/power-where-you-need-it-style-where-you-want-it",
-          "source": "Hotel Management",
-          "source_name": "Hotel Management",
-          "site_id": "hotelmgmt",
-          "published_at": "2026-10-30T13:42:57Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8383,
-      "importance": 0.5098,
-      "importance_score": 0.8383,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.5491,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-30T13:42:57Z",
-      "latest_at": "2026-10-30T13:42:57Z",
-      "primary_item": {
-        "id": "hotelitem_07abe986da7e",
-        "title": "Power Where You Need It. Style Where You Want It.",
-        "url": "https://www.hotelmanagement.net/resource/power-where-you-need-it-style-where-you-want-it",
-        "source": "Hotel Management",
-        "source_name": "Hotel Management"
-      }
-    },
-    {
-      "story_id": "story_1398e1663c67",
-      "title": "Profit in the Details: How Smarter Purchasing Is Boosting Hotel Margins",
-      "url": "https://www.hotelmanagement.net/resource/profit-details-how-smarter-purchasing-boosting-hotel-margins",
-      "primary_url": "https://www.hotelmanagement.net/resource/profit-details-how-smarter-purchasing-boosting-hotel-margins",
-      "source": "Hotel Management",
-      "source_name": "Hotel Management",
-      "sources": [
-        {
-          "id": "hotelitem_1398e1663c67",
-          "title": "Profit in the Details: How Smarter Purchasing Is Boosting Hotel Margins",
-          "url": "https://www.hotelmanagement.net/resource/profit-details-how-smarter-purchasing-boosting-hotel-margins",
-          "source": "Hotel Management",
-          "source_name": "Hotel Management",
-          "site_id": "hotelmgmt",
-          "published_at": "2026-10-28T19:00:29Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hotel Management"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_1398e1663c67",
-          "title": "Profit in the Details: How Smarter Purchasing Is Boosting Hotel Margins",
-          "url": "https://www.hotelmanagement.net/resource/profit-details-how-smarter-purchasing-boosting-hotel-margins",
-          "source": "Hotel Management",
-          "source_name": "Hotel Management",
-          "site_id": "hotelmgmt",
-          "published_at": "2026-10-28T19:00:29Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8267,
-      "importance": 0.5019,
-      "importance_score": 0.8267,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.5095,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-28T19:00:29Z",
-      "latest_at": "2026-10-28T19:00:29Z",
-      "primary_item": {
-        "id": "hotelitem_1398e1663c67",
-        "title": "Profit in the Details: How Smarter Purchasing Is Boosting Hotel Margins",
-        "url": "https://www.hotelmanagement.net/resource/profit-details-how-smarter-purchasing-boosting-hotel-margins",
-        "source": "Hotel Management",
-        "source_name": "Hotel Management"
-      }
-    },
-    {
-      "story_id": "story_5d723258575b",
-      "title": "The Chancery Rosewood appoints Messmer as MD",
-      "url": "https://boutiquehotelnews.com/news/movers-and-shakers/chancery-rosewood-md/?utm_source=rss&utm_medium=rss&utm_campaign=chancery-rosewood-md",
-      "primary_url": "https://boutiquehotelnews.com/news/movers-and-shakers/chancery-rosewood-md/?utm_source=rss&utm_medium=rss&utm_campaign=chancery-rosewood-md",
-      "source": "Boutique Hotel News",
-      "source_name": "Boutique Hotel News",
-      "sources": [
-        {
-          "id": "hotelitem_5d723258575b",
-          "title": "The Chancery Rosewood appoints Messmer as MD",
-          "url": "https://boutiquehotelnews.com/news/movers-and-shakers/chancery-rosewood-md/?utm_source=rss&utm_medium=rss&utm_campaign=chancery-rosewood-md",
-          "source": "Boutique Hotel News",
-          "source_name": "Boutique Hotel News",
-          "site_id": "boutiquehotel",
-          "published_at": "2026-11-13T09:38:27Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Boutique Hotel News"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_5d723258575b",
-          "title": "The Chancery Rosewood appoints Messmer as MD",
-          "url": "https://boutiquehotelnews.com/news/movers-and-shakers/chancery-rosewood-md/?utm_source=rss&utm_medium=rss&utm_campaign=chancery-rosewood-md",
-          "source": "Boutique Hotel News",
-          "source_name": "Boutique Hotel News",
-          "site_id": "boutiquehotel",
-          "published_at": "2026-11-13T09:38:27Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8223,
-      "importance": 0.5713,
-      "importance_score": 0.8223,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.8564,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-13T09:38:27Z",
-      "latest_at": "2026-11-13T09:38:27Z",
-      "primary_item": {
-        "id": "hotelitem_5d723258575b",
-        "title": "The Chancery Rosewood appoints Messmer as MD",
-        "url": "https://boutiquehotelnews.com/news/movers-and-shakers/chancery-rosewood-md/?utm_source=rss&utm_medium=rss&utm_campaign=chancery-rosewood-md",
-        "source": "Boutique Hotel News",
-        "source_name": "Boutique Hotel News"
       }
     }
   ]
