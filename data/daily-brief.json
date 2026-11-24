@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T13:50:28.115502Z",
+  "generated_at": "2026-11-24T23:55:31.650189Z",
   "window_hours": 1080,
   "total_items": 30,
   "items": [
@@ -38,14 +38,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9913,
-      "importance": 0.578,
-      "importance_score": 0.9913,
+      "score": 0.9895,
+      "importance": 0.5762,
+      "importance_score": 0.9895,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8901,
+        "recency": 0.8808,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -97,14 +97,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9877,
-      "importance": 0.5743,
-      "importance_score": 0.9877,
+      "score": 0.9859,
+      "importance": 0.5724,
+      "importance_score": 0.9859,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8715,
+        "recency": 0.8622,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -156,14 +156,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9527,
-      "importance": 0.5976,
-      "importance_score": 0.9527,
+      "score": 0.9509,
+      "importance": 0.5957,
+      "importance_score": 0.9509,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9879,
+        "recency": 0.9785,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -215,14 +215,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9527,
-      "importance": 0.5976,
-      "importance_score": 0.9527,
+      "score": 0.9509,
+      "importance": 0.5958,
+      "importance_score": 0.9509,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9881,
+        "recency": 0.9788,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -274,14 +274,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.938,
-      "importance": 0.5823,
-      "importance_score": 0.938,
+      "score": 0.9362,
+      "importance": 0.5805,
+      "importance_score": 0.9362,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9117,
+        "recency": 0.9024,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -333,14 +333,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9359,
-      "importance": 0.5958,
-      "importance_score": 0.9359,
+      "score": 0.9341,
+      "importance": 0.5939,
+      "importance_score": 0.9341,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9789,
+        "recency": 0.9696,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -392,14 +392,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9295,
-      "importance": 0.5735,
-      "importance_score": 0.9295,
+      "score": 0.9277,
+      "importance": 0.5716,
+      "importance_score": 0.9277,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8676,
+        "recency": 0.8582,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -451,14 +451,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.914,
-      "importance": 0.573,
-      "importance_score": 0.914,
+      "score": 0.9122,
+      "importance": 0.5712,
+      "importance_score": 0.9122,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8652,
+        "recency": 0.8559,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -490,7 +490,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-11-24T13:50:28.115502Z"
+          "published_at": "2026-11-24T23:55:31.650189Z"
         }
       ],
       "source_count": 1,
@@ -505,7 +505,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-11-24T13:50:28.115502Z"
+          "published_at": "2026-11-24T23:55:31.650189Z"
         }
       ],
       "item_count": 1,
@@ -524,8 +524,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-11-24T13:50:28.115502Z",
-      "latest_at": "2026-11-24T13:50:28.115502Z",
+      "earliest_at": "2026-11-24T23:55:31.650189Z",
+      "latest_at": "2026-11-24T23:55:31.650189Z",
       "primary_item": {
         "id": "hotelitem_f49c27611d71",
         "title": "不搬店，搬能力：小米战略投资的尚美数智在雅加达160天开出当月盈利的SHANKEE酒店",
@@ -549,7 +549,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-11-24T13:50:28.115502Z"
+          "published_at": "2026-11-24T23:55:31.650189Z"
         }
       ],
       "source_count": 1,
@@ -564,7 +564,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-11-24T13:50:28.115502Z"
+          "published_at": "2026-11-24T23:55:31.650189Z"
         }
       ],
       "item_count": 1,
@@ -583,8 +583,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-11-24T13:50:28.115502Z",
-      "latest_at": "2026-11-24T13:50:28.115502Z",
+      "earliest_at": "2026-11-24T23:55:31.650189Z",
+      "latest_at": "2026-11-24T23:55:31.650189Z",
       "primary_item": {
         "id": "hotelitem_06f191e24d38",
         "title": "文旅惠报|复星国际申请分拆Club Med在港上市；南京商旅上半年营收3.66亿元",
@@ -628,14 +628,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8675,
-      "importance": 0.5518,
-      "importance_score": 0.8675,
+      "score": 0.8647,
+      "importance": 0.55,
+      "importance_score": 0.8647,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.7591,
+        "recency": 0.7498,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -650,6 +650,124 @@
         "url": "https://www.traveldaily.cn/article/191015",
         "source": "环球旅讯 TravelDaily",
         "source_name": "环球旅讯 TravelDaily"
+      }
+    },
+    {
+      "story_id": "story_b496402ace1f",
+      "title": "Voice of the GM Survey: Costs Climb As Guests Demand More",
+      "url": "https://www.hotelmanagement.net/resource/voice-gm-survey-costs-climb-guests-demand-more",
+      "primary_url": "https://www.hotelmanagement.net/resource/voice-gm-survey-costs-climb-guests-demand-more",
+      "source": "Hotel Management",
+      "source_name": "Hotel Management",
+      "sources": [
+        {
+          "id": "hotelitem_b496402ace1f",
+          "title": "Voice of the GM Survey: Costs Climb As Guests Demand More",
+          "url": "https://www.hotelmanagement.net/resource/voice-gm-survey-costs-climb-guests-demand-more",
+          "source": "Hotel Management",
+          "source_name": "Hotel Management",
+          "site_id": "hotelmgmt",
+          "published_at": "2026-11-24T17:36:41Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hotel Management"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_b496402ace1f",
+          "title": "Voice of the GM Survey: Costs Climb As Guests Demand More",
+          "url": "https://www.hotelmanagement.net/resource/voice-gm-survey-costs-climb-guests-demand-more",
+          "source": "Hotel Management",
+          "source_name": "Hotel Management",
+          "site_id": "hotelmgmt",
+          "published_at": "2026-11-24T17:36:41Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8639,
+      "importance": 0.5988,
+      "importance_score": 0.8639,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9942,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-24T17:36:41Z",
+      "latest_at": "2026-11-24T17:36:41Z",
+      "primary_item": {
+        "id": "hotelitem_b496402ace1f",
+        "title": "Voice of the GM Survey: Costs Climb As Guests Demand More",
+        "url": "https://www.hotelmanagement.net/resource/voice-gm-survey-costs-climb-guests-demand-more",
+        "source": "Hotel Management",
+        "source_name": "Hotel Management"
+      }
+    },
+    {
+      "story_id": "story_758f2d016512",
+      "title": "CoStar, Tourism Economics ‘significantly’ raise US hotel performance outlook",
+      "url": "https://www.hoteldive.com/news/costar-tourism-economics-upgrade-2026-hotel-performance-outlook/875559/",
+      "primary_url": "https://www.hoteldive.com/news/costar-tourism-economics-upgrade-2026-hotel-performance-outlook/875559/",
+      "source": "Hotel Dive",
+      "source_name": "Hotel Dive",
+      "sources": [
+        {
+          "id": "hotelitem_758f2d016512",
+          "title": "CoStar, Tourism Economics ‘significantly’ raise US hotel performance outlook",
+          "url": "https://www.hoteldive.com/news/costar-tourism-economics-upgrade-2026-hotel-performance-outlook/875559/",
+          "source": "Hotel Dive",
+          "source_name": "Hotel Dive",
+          "site_id": "hoteldive",
+          "published_at": "2026-11-24T14:17:41Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hotel Dive"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_758f2d016512",
+          "title": "CoStar, Tourism Economics ‘significantly’ raise US hotel performance outlook",
+          "url": "https://www.hoteldive.com/news/costar-tourism-economics-upgrade-2026-hotel-performance-outlook/875559/",
+          "source": "Hotel Dive",
+          "source_name": "Hotel Dive",
+          "site_id": "hoteldive",
+          "published_at": "2026-11-24T14:17:41Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8633,
+      "importance": 0.5982,
+      "importance_score": 0.8633,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9911,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-24T14:17:41Z",
+      "latest_at": "2026-11-24T14:17:41Z",
+      "primary_item": {
+        "id": "hotelitem_758f2d016512",
+        "title": "CoStar, Tourism Economics ‘significantly’ raise US hotel performance outlook",
+        "url": "https://www.hoteldive.com/news/costar-tourism-economics-upgrade-2026-hotel-performance-outlook/875559/",
+        "source": "Hotel Dive",
+        "source_name": "Hotel Dive"
       }
     },
     {
@@ -687,14 +805,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8648,
-      "importance": 0.5998,
-      "importance_score": 0.8648,
+      "score": 0.863,
+      "importance": 0.5979,
+      "importance_score": 0.863,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9989,
+        "recency": 0.9896,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -746,14 +864,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8627,
-      "importance": 0.5976,
-      "importance_score": 0.8627,
+      "score": 0.8609,
+      "importance": 0.5957,
+      "importance_score": 0.8609,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.988,
+        "recency": 0.9787,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -805,14 +923,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8627,
-      "importance": 0.5976,
-      "importance_score": 0.8627,
+      "score": 0.8609,
+      "importance": 0.5958,
+      "importance_score": 0.8609,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9882,
+        "recency": 0.9789,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -864,14 +982,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8626,
-      "importance": 0.5975,
-      "importance_score": 0.8626,
+      "score": 0.8608,
+      "importance": 0.5957,
+      "importance_score": 0.8608,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9877,
+        "recency": 0.9784,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -923,14 +1041,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8626,
-      "importance": 0.5976,
-      "importance_score": 0.8626,
+      "score": 0.8608,
+      "importance": 0.5957,
+      "importance_score": 0.8608,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9878,
+        "recency": 0.9785,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -945,6 +1063,143 @@
         "url": "https://insights.ehotelier.com/properties/2026/11/24/centara-brings-the-beauty-and-charm-of-thailands-loy-krathong-festival-to-the-world/?utm_source=rss&utm_medium=rss&utm_campaign=centara-brings-the-beauty-and-charm-of-thailands-loy-krathong-festival-to-the-world",
         "source": "eHotelier",
         "source_name": "eHotelier"
+      }
+    },
+    {
+      "story_id": "story_c7c15b7680c9",
+      "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
+      "url": "https://www.chinahotel.org.cn/articles/17408",
+      "primary_url": "https://www.chinahotel.org.cn/articles/17408",
+      "source": "中国饭店协会",
+      "source_name": "中国饭店协会",
+      "sources": [
+        {
+          "id": "hotelitem_d4370964909c",
+          "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
+          "url": "https://www.chinahotel.org.cn/articles/17408",
+          "source": "中国饭店协会",
+          "source_name": "中国饭店协会",
+          "site_id": "chinahotel",
+          "published_at": "2026-11-24T23:55:31.650189Z"
+        },
+        {
+          "id": "hotelitem_c7c15b7680c9",
+          "title": "绿色饭店 | 2026年第一批国家标准绿色饭店名单公布 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007) 在全国组织开展国家标准绿色饭店的评定工作。现公布2026年第一批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
+          "url": "https://www.chinahotel.org.cn/articles/17689",
+          "source": "中国饭店协会",
+          "source_name": "中国饭店协会",
+          "site_id": "chinahotel",
+          "published_at": "2026-11-24T23:55:31.650189Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "中国饭店协会"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_d4370964909c",
+          "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
+          "url": "https://www.chinahotel.org.cn/articles/17408",
+          "source": "中国饭店协会",
+          "source_name": "中国饭店协会",
+          "site_id": "chinahotel",
+          "published_at": "2026-11-24T23:55:31.650189Z"
+        },
+        {
+          "id": "hotelitem_c7c15b7680c9",
+          "title": "绿色饭店 | 2026年第一批国家标准绿色饭店名单公布 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007) 在全国组织开展国家标准绿色饭店的评定工作。现公布2026年第一批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
+          "url": "https://www.chinahotel.org.cn/articles/17689",
+          "source": "中国饭店协会",
+          "source_name": "中国饭店协会",
+          "site_id": "chinahotel",
+          "published_at": "2026-11-24T23:55:31.650189Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.86,
+      "importance": 0.625,
+      "importance_score": 0.86,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-24T23:55:31.650189Z",
+      "latest_at": "2026-11-24T23:55:31.650189Z",
+      "primary_item": {
+        "id": "hotelitem_d4370964909c",
+        "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
+        "url": "https://www.chinahotel.org.cn/articles/17408",
+        "source": "中国饭店协会",
+        "source_name": "中国饭店协会"
+      }
+    },
+    {
+      "story_id": "story_cdd58ca7c8ed",
+      "title": "雅高最大股东要求CEO辞职",
+      "url": "https://www.meadin.com/jd/304459.html",
+      "primary_url": "https://www.meadin.com/jd/304459.html",
+      "source": "迈点研究院",
+      "source_name": "迈点研究院",
+      "sources": [
+        {
+          "id": "hotelitem_cdd58ca7c8ed",
+          "title": "雅高最大股东要求CEO辞职",
+          "url": "https://www.meadin.com/jd/304459.html",
+          "source": "迈点研究院",
+          "source_name": "迈点研究院",
+          "site_id": "meadin",
+          "published_at": "2026-11-24T23:55:31.650189Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "迈点研究院"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_cdd58ca7c8ed",
+          "title": "雅高最大股东要求CEO辞职",
+          "url": "https://www.meadin.com/jd/304459.html",
+          "source": "迈点研究院",
+          "source_name": "迈点研究院",
+          "site_id": "meadin",
+          "published_at": "2026-11-24T23:55:31.650189Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.86,
+      "importance": 0.6,
+      "importance_score": 0.86,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-24T23:55:31.650189Z",
+      "latest_at": "2026-11-24T23:55:31.650189Z",
+      "primary_item": {
+        "id": "hotelitem_cdd58ca7c8ed",
+        "title": "雅高最大股东要求CEO辞职",
+        "url": "https://www.meadin.com/jd/304459.html",
+        "source": "迈点研究院",
+        "source_name": "迈点研究院"
       }
     },
     {
@@ -982,14 +1237,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8608,
-      "importance": 0.5956,
-      "importance_score": 0.8608,
+      "score": 0.859,
+      "importance": 0.5938,
+      "importance_score": 0.859,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9782,
+        "recency": 0.9688,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1007,121 +1262,43 @@
       }
     },
     {
-      "story_id": "story_c7c15b7680c9",
-      "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
-      "url": "https://www.chinahotel.org.cn/articles/17408",
-      "primary_url": "https://www.chinahotel.org.cn/articles/17408",
-      "source": "中国饭店协会",
-      "source_name": "中国饭店协会",
+      "story_id": "story_e4ce0593c384",
+      "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
+      "url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
+      "primary_url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
+      "source": "中国旅游研究院",
+      "source_name": "中国旅游研究院",
       "sources": [
         {
-          "id": "hotelitem_d4370964909c",
-          "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
-          "url": "https://www.chinahotel.org.cn/articles/17408",
-          "source": "中国饭店协会",
-          "source_name": "中国饭店协会",
-          "site_id": "chinahotel",
-          "published_at": "2026-11-24T13:50:28.115502Z"
-        },
-        {
-          "id": "hotelitem_c7c15b7680c9",
-          "title": "绿色饭店 | 2026年第一批国家标准绿色饭店名单公布 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007) 在全国组织开展国家标准绿色饭店的评定工作。现公布2026年第一批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
-          "url": "https://www.chinahotel.org.cn/articles/17689",
-          "source": "中国饭店协会",
-          "source_name": "中国饭店协会",
-          "site_id": "chinahotel",
-          "published_at": "2026-11-24T13:50:28.115502Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "中国饭店协会"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_d4370964909c",
-          "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
-          "url": "https://www.chinahotel.org.cn/articles/17408",
-          "source": "中国饭店协会",
-          "source_name": "中国饭店协会",
-          "site_id": "chinahotel",
-          "published_at": "2026-11-24T13:50:28.115502Z"
-        },
-        {
-          "id": "hotelitem_c7c15b7680c9",
-          "title": "绿色饭店 | 2026年第一批国家标准绿色饭店名单公布 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007) 在全国组织开展国家标准绿色饭店的评定工作。现公布2026年第一批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
-          "url": "https://www.chinahotel.org.cn/articles/17689",
-          "source": "中国饭店协会",
-          "source_name": "中国饭店协会",
-          "site_id": "chinahotel",
-          "published_at": "2026-11-24T13:50:28.115502Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.86,
-      "importance": 0.625,
-      "importance_score": 0.86,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-24T13:50:28.115502Z",
-      "latest_at": "2026-11-24T13:50:28.115502Z",
-      "primary_item": {
-        "id": "hotelitem_d4370964909c",
-        "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
-        "url": "https://www.chinahotel.org.cn/articles/17408",
-        "source": "中国饭店协会",
-        "source_name": "中国饭店协会"
-      }
-    },
-    {
-      "story_id": "story_cdd58ca7c8ed",
-      "title": "雅高最大股东要求CEO辞职",
-      "url": "https://www.meadin.com/jd/304459.html",
-      "primary_url": "https://www.meadin.com/jd/304459.html",
-      "source": "迈点研究院",
-      "source_name": "迈点研究院",
-      "sources": [
-        {
-          "id": "hotelitem_cdd58ca7c8ed",
-          "title": "雅高最大股东要求CEO辞职",
-          "url": "https://www.meadin.com/jd/304459.html",
-          "source": "迈点研究院",
-          "source_name": "迈点研究院",
-          "site_id": "meadin",
-          "published_at": "2026-11-24T13:50:28.115502Z"
+          "id": "hotelitem_e4ce0593c384",
+          "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
+          "url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
+          "source": "中国旅游研究院",
+          "source_name": "中国旅游研究院",
+          "site_id": "cta",
+          "published_at": "2026-11-24T23:55:31.650189Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "迈点研究院"
+        "中国旅游研究院"
       ],
       "items": [
         {
-          "id": "hotelitem_cdd58ca7c8ed",
-          "title": "雅高最大股东要求CEO辞职",
-          "url": "https://www.meadin.com/jd/304459.html",
-          "source": "迈点研究院",
-          "source_name": "迈点研究院",
-          "site_id": "meadin",
-          "published_at": "2026-11-24T13:50:28.115502Z"
+          "id": "hotelitem_e4ce0593c384",
+          "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
+          "url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
+          "source": "中国旅游研究院",
+          "source_name": "中国旅游研究院",
+          "site_id": "cta",
+          "published_at": "2026-11-24T23:55:31.650189Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.86,
+      "score": 0.858,
       "importance": 0.6,
-      "importance_score": 0.86,
+      "importance_score": 0.858,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
@@ -1133,14 +1310,14 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-11-24T13:50:28.115502Z",
-      "latest_at": "2026-11-24T13:50:28.115502Z",
+      "earliest_at": "2026-11-24T23:55:31.650189Z",
+      "latest_at": "2026-11-24T23:55:31.650189Z",
       "primary_item": {
-        "id": "hotelitem_cdd58ca7c8ed",
-        "title": "雅高最大股东要求CEO辞职",
-        "url": "https://www.meadin.com/jd/304459.html",
-        "source": "迈点研究院",
-        "source_name": "迈点研究院"
+        "id": "hotelitem_e4ce0593c384",
+        "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
+        "url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
+        "source": "中国旅游研究院",
+        "source_name": "中国旅游研究院"
       }
     },
     {
@@ -1178,14 +1355,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8585,
-      "importance": 0.5933,
-      "importance_score": 0.8585,
+      "score": 0.8567,
+      "importance": 0.5914,
+      "importance_score": 0.8567,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9664,
+        "recency": 0.957,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1237,14 +1414,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8585,
-      "importance": 0.5933,
-      "importance_score": 0.8585,
+      "score": 0.8567,
+      "importance": 0.5914,
+      "importance_score": 0.8567,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9665,
+        "recency": 0.9572,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1262,62 +1439,62 @@
       }
     },
     {
-      "story_id": "story_e4ce0593c384",
-      "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
-      "url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
-      "primary_url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
-      "source": "中国旅游研究院",
-      "source_name": "中国旅游研究院",
+      "story_id": "story_ea051a22cb9c",
+      "title": "Digital Keys, Real People: Building Service Around Guest Control",
+      "url": "https://lodgingmagazine.com/digital-keys-real-people-building-service-around-guest-control/",
+      "primary_url": "https://lodgingmagazine.com/digital-keys-real-people-building-service-around-guest-control/",
+      "source": "Lodging Magazine",
+      "source_name": "Lodging Magazine",
       "sources": [
         {
-          "id": "hotelitem_e4ce0593c384",
-          "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
-          "url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
-          "source": "中国旅游研究院",
-          "source_name": "中国旅游研究院",
-          "site_id": "cta",
-          "published_at": "2026-11-24T13:50:28.115502Z"
+          "id": "hotelitem_ea051a22cb9c",
+          "title": "Digital Keys, Real People: Building Service Around Guest Control",
+          "url": "https://lodgingmagazine.com/digital-keys-real-people-building-service-around-guest-control/",
+          "source": "Lodging Magazine",
+          "source_name": "Lodging Magazine",
+          "site_id": "lodgingmag",
+          "published_at": "2026-11-24T16:12:43Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "中国旅游研究院"
+        "Lodging Magazine"
       ],
       "items": [
         {
-          "id": "hotelitem_e4ce0593c384",
-          "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
-          "url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
-          "source": "中国旅游研究院",
-          "source_name": "中国旅游研究院",
-          "site_id": "cta",
-          "published_at": "2026-11-24T13:50:28.115502Z"
+          "id": "hotelitem_ea051a22cb9c",
+          "title": "Digital Keys, Real People: Building Service Around Guest Control",
+          "url": "https://lodgingmagazine.com/digital-keys-real-people-building-service-around-guest-control/",
+          "source": "Lodging Magazine",
+          "source_name": "Lodging Magazine",
+          "site_id": "lodgingmag",
+          "published_at": "2026-11-24T16:12:43Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.858,
-      "importance": 0.6,
-      "importance_score": 0.858,
+      "score": 0.8486,
+      "importance": 0.5986,
+      "importance_score": 0.8486,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9929,
         "story_heat": 0.0
       },
       "category": "watch",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-11-24T13:50:28.115502Z",
-      "latest_at": "2026-11-24T13:50:28.115502Z",
+      "earliest_at": "2026-11-24T16:12:43Z",
+      "latest_at": "2026-11-24T16:12:43Z",
       "primary_item": {
-        "id": "hotelitem_e4ce0593c384",
-        "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
-        "url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
-        "source": "中国旅游研究院",
-        "source_name": "中国旅游研究院"
+        "id": "hotelitem_ea051a22cb9c",
+        "title": "Digital Keys, Real People: Building Service Around Guest Control",
+        "url": "https://lodgingmagazine.com/digital-keys-real-people-building-service-around-guest-control/",
+        "source": "Lodging Magazine",
+        "source_name": "Lodging Magazine"
       }
     },
     {
@@ -1355,14 +1532,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8494,
-      "importance": 0.5994,
-      "importance_score": 0.8494,
+      "score": 0.8476,
+      "importance": 0.5975,
+      "importance_score": 0.8476,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9969,
+        "recency": 0.9875,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1414,14 +1591,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8462,
-      "importance": 0.5961,
-      "importance_score": 0.8462,
+      "score": 0.8444,
+      "importance": 0.5942,
+      "importance_score": 0.8444,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9803,
+        "recency": 0.971,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1473,14 +1650,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8452,
-      "importance": 0.595,
-      "importance_score": 0.8452,
+      "score": 0.8434,
+      "importance": 0.5931,
+      "importance_score": 0.8434,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9751,
+        "recency": 0.9657,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1532,14 +1709,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8446,
-      "importance": 0.5788,
-      "importance_score": 0.8446,
+      "score": 0.8428,
+      "importance": 0.577,
+      "importance_score": 0.8428,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8942,
+        "recency": 0.8848,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1591,14 +1768,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8437,
-      "importance": 0.5779,
-      "importance_score": 0.8437,
+      "score": 0.8419,
+      "importance": 0.576,
+      "importance_score": 0.8419,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8894,
+        "recency": 0.88,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1613,183 +1790,6 @@
         "url": "https://www.hoteldive.com/news/us-hotel-investment-activity-gains-momentum-reaches-22b-in-q3/875163/",
         "source": "Hotel Dive",
         "source_name": "Hotel Dive"
-      }
-    },
-    {
-      "story_id": "story_52d3c0e797be",
-      "title": "Leaner Holiday Teams Mean Every New Hire Must Be Ready Sooner",
-      "url": "https://lodgingmagazine.com/leaner-holiday-teams-mean-every-new-hire-must-be-ready-sooner/",
-      "primary_url": "https://lodgingmagazine.com/leaner-holiday-teams-mean-every-new-hire-must-be-ready-sooner/",
-      "source": "Lodging Magazine",
-      "source_name": "Lodging Magazine",
-      "sources": [
-        {
-          "id": "hotelitem_52d3c0e797be",
-          "title": "Leaner Holiday Teams Mean Every New Hire Must Be Ready Sooner",
-          "url": "https://lodgingmagazine.com/leaner-holiday-teams-mean-every-new-hire-must-be-ready-sooner/",
-          "source": "Lodging Magazine",
-          "source_name": "Lodging Magazine",
-          "site_id": "lodgingmag",
-          "published_at": "2026-11-20T17:50:42Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Lodging Magazine"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_52d3c0e797be",
-          "title": "Leaner Holiday Teams Mean Every New Hire Must Be Ready Sooner",
-          "url": "https://lodgingmagazine.com/leaner-holiday-teams-mean-every-new-hire-must-be-ready-sooner/",
-          "source": "Lodging Magazine",
-          "source_name": "Lodging Magazine",
-          "site_id": "lodgingmag",
-          "published_at": "2026-11-20T17:50:42Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8336,
-      "importance": 0.583,
-      "importance_score": 0.8336,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9148,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-20T17:50:42Z",
-      "latest_at": "2026-11-20T17:50:42Z",
-      "primary_item": {
-        "id": "hotelitem_52d3c0e797be",
-        "title": "Leaner Holiday Teams Mean Every New Hire Must Be Ready Sooner",
-        "url": "https://lodgingmagazine.com/leaner-holiday-teams-mean-every-new-hire-must-be-ready-sooner/",
-        "source": "Lodging Magazine",
-        "source_name": "Lodging Magazine"
-      }
-    },
-    {
-      "story_id": "story_b60fc90918d4",
-      "title": "CoStar, Tourism Economics Release Revised U.S. Hotel Growth Forecast",
-      "url": "https://lodgingmagazine.com/costar-tourism-economics-release-revised-u-s-hotel-growth-forecast/",
-      "primary_url": "https://lodgingmagazine.com/costar-tourism-economics-release-revised-u-s-hotel-growth-forecast/",
-      "source": "Lodging Magazine",
-      "source_name": "Lodging Magazine",
-      "sources": [
-        {
-          "id": "hotelitem_b60fc90918d4",
-          "title": "CoStar, Tourism Economics Release Revised U.S. Hotel Growth Forecast",
-          "url": "https://lodgingmagazine.com/costar-tourism-economics-release-revised-u-s-hotel-growth-forecast/",
-          "source": "Lodging Magazine",
-          "source_name": "Lodging Magazine",
-          "site_id": "lodgingmag",
-          "published_at": "2026-11-20T15:29:47Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Lodging Magazine"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_b60fc90918d4",
-          "title": "CoStar, Tourism Economics Release Revised U.S. Hotel Growth Forecast",
-          "url": "https://lodgingmagazine.com/costar-tourism-economics-release-revised-u-s-hotel-growth-forecast/",
-          "source": "Lodging Magazine",
-          "source_name": "Lodging Magazine",
-          "site_id": "lodgingmag",
-          "published_at": "2026-11-20T15:29:47Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8332,
-      "importance": 0.5825,
-      "importance_score": 0.8332,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9126,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-20T15:29:47Z",
-      "latest_at": "2026-11-20T15:29:47Z",
-      "primary_item": {
-        "id": "hotelitem_b60fc90918d4",
-        "title": "CoStar, Tourism Economics Release Revised U.S. Hotel Growth Forecast",
-        "url": "https://lodgingmagazine.com/costar-tourism-economics-release-revised-u-s-hotel-growth-forecast/",
-        "source": "Lodging Magazine",
-        "source_name": "Lodging Magazine"
-      }
-    },
-    {
-      "story_id": "story_7d783db2481f",
-      "title": "The WestDill Mayfair Hotel London to open in Q1 2027",
-      "url": "https://boutiquehotelnews.com/news/hotel/westdill-mayfair-open/?utm_source=rss&utm_medium=rss&utm_campaign=westdill-mayfair-open",
-      "primary_url": "https://boutiquehotelnews.com/news/hotel/westdill-mayfair-open/?utm_source=rss&utm_medium=rss&utm_campaign=westdill-mayfair-open",
-      "source": "Boutique Hotel News",
-      "source_name": "Boutique Hotel News",
-      "sources": [
-        {
-          "id": "hotelitem_7d783db2481f",
-          "title": "The WestDill Mayfair Hotel London to open in Q1 2027",
-          "url": "https://boutiquehotelnews.com/news/hotel/westdill-mayfair-open/?utm_source=rss&utm_medium=rss&utm_campaign=westdill-mayfair-open",
-          "source": "Boutique Hotel News",
-          "source_name": "Boutique Hotel News",
-          "site_id": "boutiquehotel",
-          "published_at": "2026-11-20T12:17:26Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Boutique Hotel News"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_7d783db2481f",
-          "title": "The WestDill Mayfair Hotel London to open in Q1 2027",
-          "url": "https://boutiquehotelnews.com/news/hotel/westdill-mayfair-open/?utm_source=rss&utm_medium=rss&utm_campaign=westdill-mayfair-open",
-          "source": "Boutique Hotel News",
-          "source_name": "Boutique Hotel News",
-          "site_id": "boutiquehotel",
-          "published_at": "2026-11-20T12:17:26Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8326,
-      "importance": 0.5819,
-      "importance_score": 0.8326,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9097,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-20T12:17:26Z",
-      "latest_at": "2026-11-20T12:17:26Z",
-      "primary_item": {
-        "id": "hotelitem_7d783db2481f",
-        "title": "The WestDill Mayfair Hotel London to open in Q1 2027",
-        "url": "https://boutiquehotelnews.com/news/hotel/westdill-mayfair-open/?utm_source=rss&utm_medium=rss&utm_campaign=westdill-mayfair-open",
-        "source": "Boutique Hotel News",
-        "source_name": "Boutique Hotel News"
       }
     }
   ]
