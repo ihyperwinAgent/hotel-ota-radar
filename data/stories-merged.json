@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T08:43:11.615886Z",
+  "generated_at": "2026-11-25T19:20:53.282294Z",
   "window_hours": 1080,
   "total_stories": 30,
   "stories": [
@@ -38,14 +38,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9879,
-      "importance": 0.5745,
-      "importance_score": 0.9879,
+      "score": 0.986,
+      "importance": 0.5726,
+      "importance_score": 0.986,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8727,
+        "recency": 0.8628,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -97,14 +97,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9844,
-      "importance": 0.5708,
-      "importance_score": 0.9844,
+      "score": 0.9824,
+      "importance": 0.5688,
+      "importance_score": 0.9824,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8541,
+        "recency": 0.8442,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -156,14 +156,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9536,
-      "importance": 0.5985,
-      "importance_score": 0.9536,
+      "score": 0.9517,
+      "importance": 0.5966,
+      "importance_score": 0.9517,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9927,
+        "recency": 0.9829,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -215,14 +215,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9493,
-      "importance": 0.5941,
-      "importance_score": 0.9493,
+      "score": 0.9474,
+      "importance": 0.5922,
+      "importance_score": 0.9474,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9706,
+        "recency": 0.9608,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -237,6 +237,124 @@
         "url": "https://insights.ehotelier.com/global-news/2026/11/24/camden-valley-inn-serves-up-festive-food-markets-and-hospitality-experiences-this-december/?utm_source=rss&utm_medium=rss&utm_campaign=camden-valley-inn-serves-up-festive-food-markets-and-hospitality-experiences-this-december",
         "source": "eHotelier",
         "source_name": "eHotelier"
+      }
+    },
+    {
+      "story_id": "story_b952e291a92f",
+      "title": "Marcus & Millichap Announces Sale of Quality Inn & Suites in Stoughton, Wisconsin",
+      "url": "https://lodgingmagazine.com/marcus-millichap-announces-sale-of-quality-inn-suites-in-stoughton-wisconsin/",
+      "primary_url": "https://lodgingmagazine.com/marcus-millichap-announces-sale-of-quality-inn-suites-in-stoughton-wisconsin/",
+      "source": "Lodging Magazine",
+      "source_name": "Lodging Magazine",
+      "sources": [
+        {
+          "id": "hotelitem_b952e291a92f",
+          "title": "Marcus & Millichap Announces Sale of Quality Inn & Suites in Stoughton, Wisconsin",
+          "url": "https://lodgingmagazine.com/marcus-millichap-announces-sale-of-quality-inn-suites-in-stoughton-wisconsin/",
+          "source": "Lodging Magazine",
+          "source_name": "Lodging Magazine",
+          "site_id": "lodgingmag",
+          "published_at": "2026-11-25T17:05:09Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Lodging Magazine"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_b952e291a92f",
+          "title": "Marcus & Millichap Announces Sale of Quality Inn & Suites in Stoughton, Wisconsin",
+          "url": "https://lodgingmagazine.com/marcus-millichap-announces-sale-of-quality-inn-suites-in-stoughton-wisconsin/",
+          "source": "Lodging Magazine",
+          "source_name": "Lodging Magazine",
+          "site_id": "lodgingmag",
+          "published_at": "2026-11-25T17:05:09Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.9396,
+      "importance": 0.5996,
+      "importance_score": 0.9396,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9979,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-25T17:05:09Z",
+      "latest_at": "2026-11-25T17:05:09Z",
+      "primary_item": {
+        "id": "hotelitem_b952e291a92f",
+        "title": "Marcus & Millichap Announces Sale of Quality Inn & Suites in Stoughton, Wisconsin",
+        "url": "https://lodgingmagazine.com/marcus-millichap-announces-sale-of-quality-inn-suites-in-stoughton-wisconsin/",
+        "source": "Lodging Magazine",
+        "source_name": "Lodging Magazine"
+      }
+    },
+    {
+      "story_id": "story_aec3894716b8",
+      "title": "Kabani Hotel Group Announces Sale of Staybridge Suites Naples – Marco Island",
+      "url": "https://lodgingmagazine.com/kabani-hotel-group-announces-sale-of-staybridge-suites-naples-marco-island/",
+      "primary_url": "https://lodgingmagazine.com/kabani-hotel-group-announces-sale-of-staybridge-suites-naples-marco-island/",
+      "source": "Lodging Magazine",
+      "source_name": "Lodging Magazine",
+      "sources": [
+        {
+          "id": "hotelitem_aec3894716b8",
+          "title": "Kabani Hotel Group Announces Sale of Staybridge Suites Naples – Marco Island",
+          "url": "https://lodgingmagazine.com/kabani-hotel-group-announces-sale-of-staybridge-suites-naples-marco-island/",
+          "source": "Lodging Magazine",
+          "source_name": "Lodging Magazine",
+          "site_id": "lodgingmag",
+          "published_at": "2026-11-25T14:18:03Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Lodging Magazine"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_aec3894716b8",
+          "title": "Kabani Hotel Group Announces Sale of Staybridge Suites Naples – Marco Island",
+          "url": "https://lodgingmagazine.com/kabani-hotel-group-announces-sale-of-staybridge-suites-naples-marco-island/",
+          "source": "Lodging Magazine",
+          "source_name": "Lodging Magazine",
+          "site_id": "lodgingmag",
+          "published_at": "2026-11-25T14:18:03Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.9391,
+      "importance": 0.5991,
+      "importance_score": 0.9391,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9953,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-25T14:18:03Z",
+      "latest_at": "2026-11-25T14:18:03Z",
+      "primary_item": {
+        "id": "hotelitem_aec3894716b8",
+        "title": "Kabani Hotel Group Announces Sale of Staybridge Suites Naples – Marco Island",
+        "url": "https://lodgingmagazine.com/kabani-hotel-group-announces-sale-of-staybridge-suites-naples-marco-island/",
+        "source": "Lodging Magazine",
+        "source_name": "Lodging Magazine"
       }
     },
     {
@@ -274,14 +392,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.9346,
-      "importance": 0.5788,
-      "importance_score": 0.9346,
+      "score": 0.9327,
+      "importance": 0.5769,
+      "importance_score": 0.9327,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8942,
+        "recency": 0.8844,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -299,183 +417,6 @@
       }
     },
     {
-      "story_id": "story_195923afc6eb",
-      "title": "Why Hoteliers Should Invest and Expand as the Travel Slowdown Gets Worse",
-      "url": "https://lodgingmagazine.com/why-hoteliers-should-invest-and-expand-as-the-travel-slowdown-gets-worse/",
-      "primary_url": "https://lodgingmagazine.com/why-hoteliers-should-invest-and-expand-as-the-travel-slowdown-gets-worse/",
-      "source": "Lodging Magazine",
-      "source_name": "Lodging Magazine",
-      "sources": [
-        {
-          "id": "hotelitem_195923afc6eb",
-          "title": "Why Hoteliers Should Invest and Expand as the Travel Slowdown Gets Worse",
-          "url": "https://lodgingmagazine.com/why-hoteliers-should-invest-and-expand-as-the-travel-slowdown-gets-worse/",
-          "source": "Lodging Magazine",
-          "source_name": "Lodging Magazine",
-          "site_id": "lodgingmag",
-          "published_at": "2026-11-23T15:04:59Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Lodging Magazine"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_195923afc6eb",
-          "title": "Why Hoteliers Should Invest and Expand as the Travel Slowdown Gets Worse",
-          "url": "https://lodgingmagazine.com/why-hoteliers-should-invest-and-expand-as-the-travel-slowdown-gets-worse/",
-          "source": "Lodging Magazine",
-          "source_name": "Lodging Magazine",
-          "site_id": "lodgingmag",
-          "published_at": "2026-11-23T15:04:59Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.9326,
-      "importance": 0.5923,
-      "importance_score": 0.9326,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9614,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-23T15:04:59Z",
-      "latest_at": "2026-11-23T15:04:59Z",
-      "primary_item": {
-        "id": "hotelitem_195923afc6eb",
-        "title": "Why Hoteliers Should Invest and Expand as the Travel Slowdown Gets Worse",
-        "url": "https://lodgingmagazine.com/why-hoteliers-should-invest-and-expand-as-the-travel-slowdown-gets-worse/",
-        "source": "Lodging Magazine",
-        "source_name": "Lodging Magazine"
-      }
-    },
-    {
-      "story_id": "story_69df27f13c1a",
-      "title": "Apartment Collection by Hilton signs first international properties",
-      "url": "https://www.hoteldive.com/news/apartment-collection-by-hilton-signs-first-international-properties/875028/",
-      "primary_url": "https://www.hoteldive.com/news/apartment-collection-by-hilton-signs-first-international-properties/875028/",
-      "source": "Hotel Dive",
-      "source_name": "Hotel Dive",
-      "sources": [
-        {
-          "id": "hotelitem_69df27f13c1a",
-          "title": "Apartment Collection by Hilton signs first international properties",
-          "url": "https://www.hoteldive.com/news/apartment-collection-by-hilton-signs-first-international-properties/875028/",
-          "source": "Hotel Dive",
-          "source_name": "Hotel Dive",
-          "site_id": "hoteldive",
-          "published_at": "2026-11-18T14:49:40Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hotel Dive"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_69df27f13c1a",
-          "title": "Apartment Collection by Hilton signs first international properties",
-          "url": "https://www.hoteldive.com/news/apartment-collection-by-hilton-signs-first-international-properties/875028/",
-          "source": "Hotel Dive",
-          "source_name": "Hotel Dive",
-          "site_id": "hoteldive",
-          "published_at": "2026-11-18T14:49:40Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.9261,
-      "importance": 0.57,
-      "importance_score": 0.9261,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.8501,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-18T14:49:40Z",
-      "latest_at": "2026-11-18T14:49:40Z",
-      "primary_item": {
-        "id": "hotelitem_69df27f13c1a",
-        "title": "Apartment Collection by Hilton signs first international properties",
-        "url": "https://www.hoteldive.com/news/apartment-collection-by-hilton-signs-first-international-properties/875028/",
-        "source": "Hotel Dive",
-        "source_name": "Hotel Dive"
-      }
-    },
-    {
-      "story_id": "story_c7bae6db4d07",
-      "title": "Accor to invest €1.6 billion increasing stake in Ennismore",
-      "url": "https://boutiquehotelnews.com/news/finance-and-investment/accor-stakes-ennismore/?utm_source=rss&utm_medium=rss&utm_campaign=accor-stakes-ennismore",
-      "primary_url": "https://boutiquehotelnews.com/news/finance-and-investment/accor-stakes-ennismore/?utm_source=rss&utm_medium=rss&utm_campaign=accor-stakes-ennismore",
-      "source": "Boutique Hotel News",
-      "source_name": "Boutique Hotel News",
-      "sources": [
-        {
-          "id": "hotelitem_c7bae6db4d07",
-          "title": "Accor to invest €1.6 billion increasing stake in Ennismore",
-          "url": "https://boutiquehotelnews.com/news/finance-and-investment/accor-stakes-ennismore/?utm_source=rss&utm_medium=rss&utm_campaign=accor-stakes-ennismore",
-          "source": "Boutique Hotel News",
-          "source_name": "Boutique Hotel News",
-          "site_id": "boutiquehotel",
-          "published_at": "2026-11-18T12:17:38Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Boutique Hotel News"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_c7bae6db4d07",
-          "title": "Accor to invest €1.6 billion increasing stake in Ennismore",
-          "url": "https://boutiquehotelnews.com/news/finance-and-investment/accor-stakes-ennismore/?utm_source=rss&utm_medium=rss&utm_campaign=accor-stakes-ennismore",
-          "source": "Boutique Hotel News",
-          "source_name": "Boutique Hotel News",
-          "site_id": "boutiquehotel",
-          "published_at": "2026-11-18T12:17:38Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.9106,
-      "importance": 0.5696,
-      "importance_score": 0.9106,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.8478,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-18T12:17:38Z",
-      "latest_at": "2026-11-18T12:17:38Z",
-      "primary_item": {
-        "id": "hotelitem_c7bae6db4d07",
-        "title": "Accor to invest €1.6 billion increasing stake in Ennismore",
-        "url": "https://boutiquehotelnews.com/news/finance-and-investment/accor-stakes-ennismore/?utm_source=rss&utm_medium=rss&utm_campaign=accor-stakes-ennismore",
-        "source": "Boutique Hotel News",
-        "source_name": "Boutique Hotel News"
-      }
-    },
-    {
       "story_id": "story_f49c27611d71",
       "title": "不搬店，搬能力：小米战略投资的尚美数智在雅加达160天开出当月盈利的SHANKEE酒店",
       "url": "https://www.tripvivid.com/48113.html",
@@ -490,7 +431,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-11-25T08:43:11.615886Z"
+          "published_at": "2026-11-25T19:20:53.282294Z"
         }
       ],
       "source_count": 1,
@@ -505,7 +446,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-11-25T08:43:11.615886Z"
+          "published_at": "2026-11-25T19:20:53.282294Z"
         }
       ],
       "item_count": 1,
@@ -524,8 +465,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-11-25T08:43:11.615886Z",
-      "latest_at": "2026-11-25T08:43:11.615886Z",
+      "earliest_at": "2026-11-25T19:20:53.282294Z",
+      "latest_at": "2026-11-25T19:20:53.282294Z",
       "primary_item": {
         "id": "hotelitem_f49c27611d71",
         "title": "不搬店，搬能力：小米战略投资的尚美数智在雅加达160天开出当月盈利的SHANKEE酒店",
@@ -549,7 +490,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-11-25T08:43:11.615886Z"
+          "published_at": "2026-11-25T19:20:53.282294Z"
         }
       ],
       "source_count": 1,
@@ -564,7 +505,7 @@
           "source": "执惠 TripVivid",
           "source_name": "执惠 TripVivid",
           "site_id": "tripvivid",
-          "published_at": "2026-11-25T08:43:11.615886Z"
+          "published_at": "2026-11-25T19:20:53.282294Z"
         }
       ],
       "item_count": 1,
@@ -583,8 +524,8 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-11-25T08:43:11.615886Z",
-      "latest_at": "2026-11-25T08:43:11.615886Z",
+      "earliest_at": "2026-11-25T19:20:53.282294Z",
+      "latest_at": "2026-11-25T19:20:53.282294Z",
       "primary_item": {
         "id": "hotelitem_06f191e24d38",
         "title": "文旅惠报|复星国际申请分拆Club Med在港上市；南京商旅上半年营收3.66亿元",
@@ -594,62 +535,62 @@
       }
     },
     {
-      "story_id": "story_b7ee90ca3f4c",
-      "title": "资金暴雷疑云：墨鱼旅行CEO马丽萍据传已被控制",
-      "url": "https://www.traveldaily.cn/article/191015",
-      "primary_url": "https://www.traveldaily.cn/article/191015",
-      "source": "环球旅讯 TravelDaily",
-      "source_name": "环球旅讯 TravelDaily",
+      "story_id": "story_dce992ce326e",
+      "title": "Extended stay property in Florida sells for $22.75M",
+      "url": "https://www.hoteldive.com/news/staybridge-suites-naples-florida-sells-for-2275m/875742/",
+      "primary_url": "https://www.hoteldive.com/news/staybridge-suites-naples-florida-sells-for-2275m/875742/",
+      "source": "Hotel Dive",
+      "source_name": "Hotel Dive",
       "sources": [
         {
-          "id": "hotelitem_b7ee90ca3f4c",
-          "title": "资金暴雷疑云：墨鱼旅行CEO马丽萍据传已被控制",
-          "url": "https://www.traveldaily.cn/article/191015",
-          "source": "环球旅讯 TravelDaily",
-          "source_name": "环球旅讯 TravelDaily",
-          "site_id": "traveldaily",
-          "published_at": "2026-11-13T17:42:53Z"
+          "id": "hotelitem_dce992ce326e",
+          "title": "Extended stay property in Florida sells for $22.75M",
+          "url": "https://www.hoteldive.com/news/staybridge-suites-naples-florida-sells-for-2275m/875742/",
+          "source": "Hotel Dive",
+          "source_name": "Hotel Dive",
+          "site_id": "hoteldive",
+          "published_at": "2026-11-25T15:05:24Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "环球旅讯 TravelDaily"
+        "Hotel Dive"
       ],
       "items": [
         {
-          "id": "hotelitem_b7ee90ca3f4c",
-          "title": "资金暴雷疑云：墨鱼旅行CEO马丽萍据传已被控制",
-          "url": "https://www.traveldaily.cn/article/191015",
-          "source": "环球旅讯 TravelDaily",
-          "source_name": "环球旅讯 TravelDaily",
-          "site_id": "traveldaily",
-          "published_at": "2026-11-13T17:42:53Z"
+          "id": "hotelitem_dce992ce326e",
+          "title": "Extended stay property in Florida sells for $22.75M",
+          "url": "https://www.hoteldive.com/news/staybridge-suites-naples-florida-sells-for-2275m/875742/",
+          "source": "Hotel Dive",
+          "source_name": "Hotel Dive",
+          "site_id": "hoteldive",
+          "published_at": "2026-11-25T15:05:24Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8623,
-      "importance": 0.5483,
-      "importance_score": 0.8623,
+      "score": 0.8642,
+      "importance": 0.5992,
+      "importance_score": 0.8642,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.7417,
+        "recency": 0.9961,
         "story_heat": 0.0
       },
       "category": "watch",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-11-13T17:42:53Z",
-      "latest_at": "2026-11-13T17:42:53Z",
+      "earliest_at": "2026-11-25T15:05:24Z",
+      "latest_at": "2026-11-25T15:05:24Z",
       "primary_item": {
-        "id": "hotelitem_b7ee90ca3f4c",
-        "title": "资金暴雷疑云：墨鱼旅行CEO马丽萍据传已被控制",
-        "url": "https://www.traveldaily.cn/article/191015",
-        "source": "环球旅讯 TravelDaily",
-        "source_name": "环球旅讯 TravelDaily"
+        "id": "hotelitem_dce992ce326e",
+        "title": "Extended stay property in Florida sells for $22.75M",
+        "url": "https://www.hoteldive.com/news/staybridge-suites-naples-florida-sells-for-2275m/875742/",
+        "source": "Hotel Dive",
+        "source_name": "Hotel Dive"
       }
     },
     {
@@ -687,14 +628,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8623,
-      "importance": 0.5972,
-      "importance_score": 0.8623,
+      "score": 0.8604,
+      "importance": 0.5952,
+      "importance_score": 0.8604,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.986,
+        "recency": 0.9762,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -709,6 +650,202 @@
         "url": "https://www.hotelmanagement.net/resource/voice-gm-survey-costs-climb-guests-demand-more",
         "source": "Hotel Management",
         "source_name": "Hotel Management"
+      }
+    },
+    {
+      "story_id": "story_c7c15b7680c9",
+      "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
+      "url": "https://www.chinahotel.org.cn/articles/17408",
+      "primary_url": "https://www.chinahotel.org.cn/articles/17408",
+      "source": "中国饭店协会",
+      "source_name": "中国饭店协会",
+      "sources": [
+        {
+          "id": "hotelitem_d4370964909c",
+          "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
+          "url": "https://www.chinahotel.org.cn/articles/17408",
+          "source": "中国饭店协会",
+          "source_name": "中国饭店协会",
+          "site_id": "chinahotel",
+          "published_at": "2026-11-25T19:20:53.282294Z"
+        },
+        {
+          "id": "hotelitem_c7c15b7680c9",
+          "title": "绿色饭店 | 2026年第一批国家标准绿色饭店名单公布 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007) 在全国组织开展国家标准绿色饭店的评定工作。现公布2026年第一批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
+          "url": "https://www.chinahotel.org.cn/articles/17689",
+          "source": "中国饭店协会",
+          "source_name": "中国饭店协会",
+          "site_id": "chinahotel",
+          "published_at": "2026-11-25T19:20:53.282294Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "中国饭店协会"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_d4370964909c",
+          "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
+          "url": "https://www.chinahotel.org.cn/articles/17408",
+          "source": "中国饭店协会",
+          "source_name": "中国饭店协会",
+          "site_id": "chinahotel",
+          "published_at": "2026-11-25T19:20:53.282294Z"
+        },
+        {
+          "id": "hotelitem_c7c15b7680c9",
+          "title": "绿色饭店 | 2026年第一批国家标准绿色饭店名单公布 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007) 在全国组织开展国家标准绿色饭店的评定工作。现公布2026年第一批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
+          "url": "https://www.chinahotel.org.cn/articles/17689",
+          "source": "中国饭店协会",
+          "source_name": "中国饭店协会",
+          "site_id": "chinahotel",
+          "published_at": "2026-11-25T19:20:53.282294Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.86,
+      "importance": 0.625,
+      "importance_score": 0.86,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-25T19:20:53.282294Z",
+      "latest_at": "2026-11-25T19:20:53.282294Z",
+      "primary_item": {
+        "id": "hotelitem_d4370964909c",
+        "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
+        "url": "https://www.chinahotel.org.cn/articles/17408",
+        "source": "中国饭店协会",
+        "source_name": "中国饭店协会"
+      }
+    },
+    {
+      "story_id": "story_c992e43e5fe3",
+      "title": "岭南控股2.07亿元收购都市酒店",
+      "url": "https://www.meadin.com/jd/304521.html",
+      "primary_url": "https://www.meadin.com/jd/304521.html",
+      "source": "迈点研究院",
+      "source_name": "迈点研究院",
+      "sources": [
+        {
+          "id": "hotelitem_c992e43e5fe3",
+          "title": "岭南控股2.07亿元收购都市酒店",
+          "url": "https://www.meadin.com/jd/304521.html",
+          "source": "迈点研究院",
+          "source_name": "迈点研究院",
+          "site_id": "meadin",
+          "published_at": "2026-11-25T19:20:53.282294Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "迈点研究院"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_c992e43e5fe3",
+          "title": "岭南控股2.07亿元收购都市酒店",
+          "url": "https://www.meadin.com/jd/304521.html",
+          "source": "迈点研究院",
+          "source_name": "迈点研究院",
+          "site_id": "meadin",
+          "published_at": "2026-11-25T19:20:53.282294Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.86,
+      "importance": 0.6,
+      "importance_score": 0.86,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-25T19:20:53.282294Z",
+      "latest_at": "2026-11-25T19:20:53.282294Z",
+      "primary_item": {
+        "id": "hotelitem_c992e43e5fe3",
+        "title": "岭南控股2.07亿元收购都市酒店",
+        "url": "https://www.meadin.com/jd/304521.html",
+        "source": "迈点研究院",
+        "source_name": "迈点研究院"
+      }
+    },
+    {
+      "story_id": "story_cdd58ca7c8ed",
+      "title": "雅高最大股东要求CEO辞职",
+      "url": "https://www.meadin.com/jd/304459.html",
+      "primary_url": "https://www.meadin.com/jd/304459.html",
+      "source": "迈点研究院",
+      "source_name": "迈点研究院",
+      "sources": [
+        {
+          "id": "hotelitem_cdd58ca7c8ed",
+          "title": "雅高最大股东要求CEO辞职",
+          "url": "https://www.meadin.com/jd/304459.html",
+          "source": "迈点研究院",
+          "source_name": "迈点研究院",
+          "site_id": "meadin",
+          "published_at": "2026-11-25T19:20:53.282294Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "迈点研究院"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_cdd58ca7c8ed",
+          "title": "雅高最大股东要求CEO辞职",
+          "url": "https://www.meadin.com/jd/304459.html",
+          "source": "迈点研究院",
+          "source_name": "迈点研究院",
+          "site_id": "meadin",
+          "published_at": "2026-11-25T19:20:53.282294Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.86,
+      "importance": 0.6,
+      "importance_score": 0.86,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-25T19:20:53.282294Z",
+      "latest_at": "2026-11-25T19:20:53.282294Z",
+      "primary_item": {
+        "id": "hotelitem_cdd58ca7c8ed",
+        "title": "雅高最大股东要求CEO辞职",
+        "url": "https://www.meadin.com/jd/304459.html",
+        "source": "迈点研究院",
+        "source_name": "迈点研究院"
       }
     },
     {
@@ -746,14 +883,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8617,
-      "importance": 0.5966,
-      "importance_score": 0.8617,
+      "score": 0.8598,
+      "importance": 0.5946,
+      "importance_score": 0.8598,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9829,
+        "recency": 0.9731,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -805,14 +942,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8614,
-      "importance": 0.5963,
-      "importance_score": 0.8614,
+      "score": 0.8595,
+      "importance": 0.5943,
+      "importance_score": 0.8595,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9815,
+        "recency": 0.9716,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -830,121 +967,102 @@
       }
     },
     {
-      "story_id": "story_c7c15b7680c9",
-      "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
-      "url": "https://www.chinahotel.org.cn/articles/17408",
-      "primary_url": "https://www.chinahotel.org.cn/articles/17408",
-      "source": "中国饭店协会",
-      "source_name": "中国饭店协会",
+      "story_id": "story_b7ee90ca3f4c",
+      "title": "资金暴雷疑云：墨鱼旅行CEO马丽萍据传已被控制",
+      "url": "https://www.traveldaily.cn/article/191015",
+      "primary_url": "https://www.traveldaily.cn/article/191015",
+      "source": "环球旅讯 TravelDaily",
+      "source_name": "环球旅讯 TravelDaily",
       "sources": [
         {
-          "id": "hotelitem_d4370964909c",
-          "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
-          "url": "https://www.chinahotel.org.cn/articles/17408",
-          "source": "中国饭店协会",
-          "source_name": "中国饭店协会",
-          "site_id": "chinahotel",
-          "published_at": "2026-11-25T08:43:11.615886Z"
-        },
-        {
-          "id": "hotelitem_c7c15b7680c9",
-          "title": "绿色饭店 | 2026年第一批国家标准绿色饭店名单公布 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007) 在全国组织开展国家标准绿色饭店的评定工作。现公布2026年第一批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
-          "url": "https://www.chinahotel.org.cn/articles/17689",
-          "source": "中国饭店协会",
-          "source_name": "中国饭店协会",
-          "site_id": "chinahotel",
-          "published_at": "2026-11-25T08:43:11.615886Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "中国饭店协会"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_d4370964909c",
-          "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
-          "url": "https://www.chinahotel.org.cn/articles/17408",
-          "source": "中国饭店协会",
-          "source_name": "中国饭店协会",
-          "site_id": "chinahotel",
-          "published_at": "2026-11-25T08:43:11.615886Z"
-        },
-        {
-          "id": "hotelitem_c7c15b7680c9",
-          "title": "绿色饭店 | 2026年第一批国家标准绿色饭店名单公布 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007) 在全国组织开展国家标准绿色饭店的评定工作。现公布2026年第一批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
-          "url": "https://www.chinahotel.org.cn/articles/17689",
-          "source": "中国饭店协会",
-          "source_name": "中国饭店协会",
-          "site_id": "chinahotel",
-          "published_at": "2026-11-25T08:43:11.615886Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.86,
-      "importance": 0.625,
-      "importance_score": 0.86,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-25T08:43:11.615886Z",
-      "latest_at": "2026-11-25T08:43:11.615886Z",
-      "primary_item": {
-        "id": "hotelitem_d4370964909c",
-        "title": "2025年第五批国家标准绿色饭店公示 全国绿色饭店工作委员会依据国家标准《绿色饭店》（GB/T21084-2007)在全国组织开展国家标准绿色饭店的评定工作。现公布2025年第五批国家标准绿色饭店名单。获评资格仅证明以下企业在严格按照《绿色饭店》国家标准进行贯标后，现场评审时达到国家标准相应等级要求。全国绿色饭店工作委员会将通过暗访、抽查和复审等方式对企业进行审查和定期督导。",
-        "url": "https://www.chinahotel.org.cn/articles/17408",
-        "source": "中国饭店协会",
-        "source_name": "中国饭店协会"
-      }
-    },
-    {
-      "story_id": "story_c992e43e5fe3",
-      "title": "岭南控股2.07亿元收购都市酒店",
-      "url": "https://www.meadin.com/jd/304521.html",
-      "primary_url": "https://www.meadin.com/jd/304521.html",
-      "source": "迈点研究院",
-      "source_name": "迈点研究院",
-      "sources": [
-        {
-          "id": "hotelitem_c992e43e5fe3",
-          "title": "岭南控股2.07亿元收购都市酒店",
-          "url": "https://www.meadin.com/jd/304521.html",
-          "source": "迈点研究院",
-          "source_name": "迈点研究院",
-          "site_id": "meadin",
-          "published_at": "2026-11-25T08:43:11.615886Z"
+          "id": "hotelitem_b7ee90ca3f4c",
+          "title": "资金暴雷疑云：墨鱼旅行CEO马丽萍据传已被控制",
+          "url": "https://www.traveldaily.cn/article/191015",
+          "source": "环球旅讯 TravelDaily",
+          "source_name": "环球旅讯 TravelDaily",
+          "site_id": "traveldaily",
+          "published_at": "2026-11-13T17:42:53Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "迈点研究院"
+        "环球旅讯 TravelDaily"
       ],
       "items": [
         {
-          "id": "hotelitem_c992e43e5fe3",
-          "title": "岭南控股2.07亿元收购都市酒店",
-          "url": "https://www.meadin.com/jd/304521.html",
-          "source": "迈点研究院",
-          "source_name": "迈点研究院",
-          "site_id": "meadin",
-          "published_at": "2026-11-25T08:43:11.615886Z"
+          "id": "hotelitem_b7ee90ca3f4c",
+          "title": "资金暴雷疑云：墨鱼旅行CEO马丽萍据传已被控制",
+          "url": "https://www.traveldaily.cn/article/191015",
+          "source": "环球旅讯 TravelDaily",
+          "source_name": "环球旅讯 TravelDaily",
+          "site_id": "traveldaily",
+          "published_at": "2026-11-13T17:42:53Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.86,
+      "score": 0.8594,
+      "importance": 0.5464,
+      "importance_score": 0.8594,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.7318,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-13T17:42:53Z",
+      "latest_at": "2026-11-13T17:42:53Z",
+      "primary_item": {
+        "id": "hotelitem_b7ee90ca3f4c",
+        "title": "资金暴雷疑云：墨鱼旅行CEO马丽萍据传已被控制",
+        "url": "https://www.traveldaily.cn/article/191015",
+        "source": "环球旅讯 TravelDaily",
+        "source_name": "环球旅讯 TravelDaily"
+      }
+    },
+    {
+      "story_id": "story_e4ce0593c384",
+      "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
+      "url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
+      "primary_url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
+      "source": "中国旅游研究院",
+      "source_name": "中国旅游研究院",
+      "sources": [
+        {
+          "id": "hotelitem_e4ce0593c384",
+          "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
+          "url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
+          "source": "中国旅游研究院",
+          "source_name": "中国旅游研究院",
+          "site_id": "cta",
+          "published_at": "2026-11-25T19:20:53.282294Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "中国旅游研究院"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_e4ce0593c384",
+          "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
+          "url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
+          "source": "中国旅游研究院",
+          "source_name": "中国旅游研究院",
+          "site_id": "cta",
+          "published_at": "2026-11-25T19:20:53.282294Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.858,
       "importance": 0.6,
-      "importance_score": 0.86,
+      "importance_score": 0.858,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
@@ -956,73 +1074,14 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-11-25T08:43:11.615886Z",
-      "latest_at": "2026-11-25T08:43:11.615886Z",
+      "earliest_at": "2026-11-25T19:20:53.282294Z",
+      "latest_at": "2026-11-25T19:20:53.282294Z",
       "primary_item": {
-        "id": "hotelitem_c992e43e5fe3",
-        "title": "岭南控股2.07亿元收购都市酒店",
-        "url": "https://www.meadin.com/jd/304521.html",
-        "source": "迈点研究院",
-        "source_name": "迈点研究院"
-      }
-    },
-    {
-      "story_id": "story_cdd58ca7c8ed",
-      "title": "雅高最大股东要求CEO辞职",
-      "url": "https://www.meadin.com/jd/304459.html",
-      "primary_url": "https://www.meadin.com/jd/304459.html",
-      "source": "迈点研究院",
-      "source_name": "迈点研究院",
-      "sources": [
-        {
-          "id": "hotelitem_cdd58ca7c8ed",
-          "title": "雅高最大股东要求CEO辞职",
-          "url": "https://www.meadin.com/jd/304459.html",
-          "source": "迈点研究院",
-          "source_name": "迈点研究院",
-          "site_id": "meadin",
-          "published_at": "2026-11-25T08:43:11.615886Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "迈点研究院"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_cdd58ca7c8ed",
-          "title": "雅高最大股东要求CEO辞职",
-          "url": "https://www.meadin.com/jd/304459.html",
-          "source": "迈点研究院",
-          "source_name": "迈点研究院",
-          "site_id": "meadin",
-          "published_at": "2026-11-25T08:43:11.615886Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.86,
-      "importance": 0.6,
-      "importance_score": 0.86,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-25T08:43:11.615886Z",
-      "latest_at": "2026-11-25T08:43:11.615886Z",
-      "primary_item": {
-        "id": "hotelitem_cdd58ca7c8ed",
-        "title": "雅高最大股东要求CEO辞职",
-        "url": "https://www.meadin.com/jd/304459.html",
-        "source": "迈点研究院",
-        "source_name": "迈点研究院"
+        "id": "hotelitem_e4ce0593c384",
+        "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
+        "url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
+        "source": "中国旅游研究院",
+        "source_name": "中国旅游研究院"
       }
     },
     {
@@ -1060,14 +1119,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8594,
-      "importance": 0.5941,
-      "importance_score": 0.8594,
+      "score": 0.8575,
+      "importance": 0.5922,
+      "importance_score": 0.8575,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9707,
+        "recency": 0.9609,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1082,65 +1141,6 @@
         "url": "https://insights.ehotelier.com/insights/2026/11/24/optimizing-wage-spend-not-just-reducing-it-the-case-for-hotel-workforce-management/?utm_source=rss&utm_medium=rss&utm_campaign=optimizing-wage-spend-not-just-reducing-it-the-case-for-hotel-workforce-management",
         "source": "eHotelier",
         "source_name": "eHotelier"
-      }
-    },
-    {
-      "story_id": "story_e4ce0593c384",
-      "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
-      "url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
-      "primary_url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
-      "source": "中国旅游研究院",
-      "source_name": "中国旅游研究院",
-      "sources": [
-        {
-          "id": "hotelitem_e4ce0593c384",
-          "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
-          "url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
-          "source": "中国旅游研究院",
-          "source_name": "中国旅游研究院",
-          "site_id": "cta",
-          "published_at": "2026-11-25T08:43:11.615886Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "中国旅游研究院"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_e4ce0593c384",
-          "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
-          "url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
-          "source": "中国旅游研究院",
-          "source_name": "中国旅游研究院",
-          "site_id": "cta",
-          "published_at": "2026-11-25T08:43:11.615886Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.858,
-      "importance": 0.6,
-      "importance_score": 0.858,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-25T08:43:11.615886Z",
-      "latest_at": "2026-11-25T08:43:11.615886Z",
-      "primary_item": {
-        "id": "hotelitem_e4ce0593c384",
-        "title": "中国旅游研究院（文化和旅游部数据中心）关于2025年度公开社",
-        "url": "https://www.ctaweb.org.cn/tongzhigonggao/10272.html",
-        "source": "中国旅游研究院",
-        "source_name": "中国旅游研究院"
       }
     },
     {
@@ -1178,14 +1178,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8574,
-      "importance": 0.5921,
-      "importance_score": 0.8574,
+      "score": 0.8555,
+      "importance": 0.5902,
+      "importance_score": 0.8555,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9607,
+        "recency": 0.9508,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1200,6 +1200,65 @@
         "url": "https://www.hoteldive.com/news/faa-ground-stop-eroded-traveler-confidence-survey/875397/",
         "source": "Hotel Dive",
         "source_name": "Hotel Dive"
+      }
+    },
+    {
+      "story_id": "story_b5ea8992e710",
+      "title": "How residences anchor the wider destination at The OWO",
+      "url": "https://boutiquehotelnews.com/videos/residences-the-owo/?utm_source=rss&utm_medium=rss&utm_campaign=residences-the-owo",
+      "primary_url": "https://boutiquehotelnews.com/videos/residences-the-owo/?utm_source=rss&utm_medium=rss&utm_campaign=residences-the-owo",
+      "source": "Boutique Hotel News",
+      "source_name": "Boutique Hotel News",
+      "sources": [
+        {
+          "id": "hotelitem_b5ea8992e710",
+          "title": "How residences anchor the wider destination at The OWO",
+          "url": "https://boutiquehotelnews.com/videos/residences-the-owo/?utm_source=rss&utm_medium=rss&utm_campaign=residences-the-owo",
+          "source": "Boutique Hotel News",
+          "source_name": "Boutique Hotel News",
+          "site_id": "boutiquehotel",
+          "published_at": "2026-11-25T12:42:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Boutique Hotel News"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_b5ea8992e710",
+          "title": "How residences anchor the wider destination at The OWO",
+          "url": "https://boutiquehotelnews.com/videos/residences-the-owo/?utm_source=rss&utm_medium=rss&utm_campaign=residences-the-owo",
+          "source": "Boutique Hotel News",
+          "source_name": "Boutique Hotel News",
+          "site_id": "boutiquehotel",
+          "published_at": "2026-11-25T12:42:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8488,
+      "importance": 0.5988,
+      "importance_score": 0.8488,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 0.9938,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-25T12:42:00Z",
+      "latest_at": "2026-11-25T12:42:00Z",
+      "primary_item": {
+        "id": "hotelitem_b5ea8992e710",
+        "title": "How residences anchor the wider destination at The OWO",
+        "url": "https://boutiquehotelnews.com/videos/residences-the-owo/?utm_source=rss&utm_medium=rss&utm_campaign=residences-the-owo",
+        "source": "Boutique Hotel News",
+        "source_name": "Boutique Hotel News"
       }
     },
     {
@@ -1237,14 +1296,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8471,
-      "importance": 0.5969,
-      "importance_score": 0.8471,
+      "score": 0.8452,
+      "importance": 0.595,
+      "importance_score": 0.8452,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9847,
+        "recency": 0.9749,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1296,14 +1355,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.846,
-      "importance": 0.5959,
-      "importance_score": 0.846,
+      "score": 0.8441,
+      "importance": 0.5939,
+      "importance_score": 0.8441,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9794,
+        "recency": 0.9695,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1318,65 +1377,6 @@
         "url": "https://boutiquehotelnews.com/news/hotel/hybrid-hotel-pbsa-lisbon/?utm_source=rss&utm_medium=rss&utm_campaign=hybrid-hotel-pbsa-lisbon",
         "source": "Boutique Hotel News",
         "source_name": "Boutique Hotel News"
-      }
-    },
-    {
-      "story_id": "story_cecf4f77d854",
-      "title": "CBRE Arranges Sale of Mixed-Use Portfolio in Manchester, New Hampshire",
-      "url": "https://lodgingmagazine.com/cbre-arranges-sale-of-mixed-use-portfolio-in-manchester-new-hampshire/",
-      "primary_url": "https://lodgingmagazine.com/cbre-arranges-sale-of-mixed-use-portfolio-in-manchester-new-hampshire/",
-      "source": "Lodging Magazine",
-      "source_name": "Lodging Magazine",
-      "sources": [
-        {
-          "id": "hotelitem_cecf4f77d854",
-          "title": "CBRE Arranges Sale of Mixed-Use Portfolio in Manchester, New Hampshire",
-          "url": "https://lodgingmagazine.com/cbre-arranges-sale-of-mixed-use-portfolio-in-manchester-new-hampshire/",
-          "source": "Lodging Magazine",
-          "source_name": "Lodging Magazine",
-          "site_id": "lodgingmag",
-          "published_at": "2026-11-23T16:36:56Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Lodging Magazine"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_cecf4f77d854",
-          "title": "CBRE Arranges Sale of Mixed-Use Portfolio in Manchester, New Hampshire",
-          "url": "https://lodgingmagazine.com/cbre-arranges-sale-of-mixed-use-portfolio-in-manchester-new-hampshire/",
-          "source": "Lodging Magazine",
-          "source_name": "Lodging Magazine",
-          "site_id": "lodgingmag",
-          "published_at": "2026-11-23T16:36:56Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8428,
-      "importance": 0.5926,
-      "importance_score": 0.8428,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.9629,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-23T16:36:56Z",
-      "latest_at": "2026-11-23T16:36:56Z",
-      "primary_item": {
-        "id": "hotelitem_cecf4f77d854",
-        "title": "CBRE Arranges Sale of Mixed-Use Portfolio in Manchester, New Hampshire",
-        "url": "https://lodgingmagazine.com/cbre-arranges-sale-of-mixed-use-portfolio-in-manchester-new-hampshire/",
-        "source": "Lodging Magazine",
-        "source_name": "Lodging Magazine"
       }
     },
     {
@@ -1414,14 +1414,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8418,
-      "importance": 0.5915,
-      "importance_score": 0.8418,
+      "score": 0.8399,
+      "importance": 0.5895,
+      "importance_score": 0.8399,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9576,
+        "recency": 0.9477,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1473,14 +1473,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8412,
-      "importance": 0.5753,
-      "importance_score": 0.8412,
+      "score": 0.8393,
+      "importance": 0.5734,
+      "importance_score": 0.8393,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8767,
+        "recency": 0.8669,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1532,14 +1532,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8403,
-      "importance": 0.5744,
-      "importance_score": 0.8403,
+      "score": 0.8384,
+      "importance": 0.5724,
+      "importance_score": 0.8384,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8719,
+        "recency": 0.8621,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1591,14 +1591,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8292,
-      "importance": 0.5784,
-      "importance_score": 0.8292,
+      "score": 0.8273,
+      "importance": 0.5765,
+      "importance_score": 0.8273,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.8922,
+        "recency": 0.8824,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1611,65 +1611,6 @@
         "id": "hotelitem_7d783db2481f",
         "title": "The WestDill Mayfair Hotel London to open in Q1 2027",
         "url": "https://boutiquehotelnews.com/news/hotel/westdill-mayfair-open/?utm_source=rss&utm_medium=rss&utm_campaign=westdill-mayfair-open",
-        "source": "Boutique Hotel News",
-        "source_name": "Boutique Hotel News"
-      }
-    },
-    {
-      "story_id": "story_4d410c1194ed",
-      "title": "THE PIG reveals multi-million-pound wellness investment",
-      "url": "https://boutiquehotelnews.com/news/hotel/the-pig-wellness/?utm_source=rss&utm_medium=rss&utm_campaign=the-pig-wellness",
-      "primary_url": "https://boutiquehotelnews.com/news/hotel/the-pig-wellness/?utm_source=rss&utm_medium=rss&utm_campaign=the-pig-wellness",
-      "source": "Boutique Hotel News",
-      "source_name": "Boutique Hotel News",
-      "sources": [
-        {
-          "id": "hotelitem_4d410c1194ed",
-          "title": "THE PIG reveals multi-million-pound wellness investment",
-          "url": "https://boutiquehotelnews.com/news/hotel/the-pig-wellness/?utm_source=rss&utm_medium=rss&utm_campaign=the-pig-wellness",
-          "source": "Boutique Hotel News",
-          "source_name": "Boutique Hotel News",
-          "site_id": "boutiquehotel",
-          "published_at": "2026-11-19T09:25:54Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Boutique Hotel News"
-      ],
-      "items": [
-        {
-          "id": "hotelitem_4d410c1194ed",
-          "title": "THE PIG reveals multi-million-pound wellness investment",
-          "url": "https://boutiquehotelnews.com/news/hotel/the-pig-wellness/?utm_source=rss&utm_medium=rss&utm_campaign=the-pig-wellness",
-          "source": "Boutique Hotel News",
-          "source_name": "Boutique Hotel News",
-          "site_id": "boutiquehotel",
-          "published_at": "2026-11-19T09:25:54Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8244,
-      "importance": 0.5735,
-      "importance_score": 0.8244,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.25,
-        "ai_relevance": 1.0,
-        "recency": 0.8673,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-19T09:25:54Z",
-      "latest_at": "2026-11-19T09:25:54Z",
-      "primary_item": {
-        "id": "hotelitem_4d410c1194ed",
-        "title": "THE PIG reveals multi-million-pound wellness investment",
-        "url": "https://boutiquehotelnews.com/news/hotel/the-pig-wellness/?utm_source=rss&utm_medium=rss&utm_campaign=the-pig-wellness",
         "source": "Boutique Hotel News",
         "source_name": "Boutique Hotel News"
       }
@@ -1709,14 +1650,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8186,
-      "importance": 0.5986,
-      "importance_score": 0.8186,
+      "score": 0.8167,
+      "importance": 0.5966,
+      "importance_score": 0.8167,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.25,
         "ai_relevance": 1.0,
-        "recency": 0.9928,
+        "recency": 0.9829,
         "story_heat": 0.0
       },
       "category": "watch",
@@ -1748,7 +1689,7 @@
           "source": "Agoda",
           "source_name": "Agoda",
           "site_id": "agoda_press",
-          "published_at": "2026-11-25T08:43:11.615886Z"
+          "published_at": "2026-11-25T19:20:53.282294Z"
         }
       ],
       "source_count": 1,
@@ -1763,7 +1704,7 @@
           "source": "Agoda",
           "source_name": "Agoda",
           "site_id": "agoda_press",
-          "published_at": "2026-11-25T08:43:11.615886Z"
+          "published_at": "2026-11-25T19:20:53.282294Z"
         }
       ],
       "item_count": 1,
@@ -1782,12 +1723,71 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-11-25T08:43:11.615886Z",
-      "latest_at": "2026-11-25T08:43:11.615886Z",
+      "earliest_at": "2026-11-25T19:20:53.282294Z",
+      "latest_at": "2026-11-25T19:20:53.282294Z",
       "primary_item": {
         "id": "hotelitem_84b7aa6b44f3",
         "title": "Agoda Helps Fans Get to Eurovision Song Cont ... Agoda, the Official Travel Partner of Eurovision Song Contest Asia, is getting fans to the first-ever  ... November 4, 2026 / Travel Trends",
         "url": "https://www.agoda.com/press/agoda-helps-fans-get-to-eurovision-song-contest-asias-first-grand-final-in-bangkok/",
+        "source": "Agoda",
+        "source_name": "Agoda"
+      }
+    },
+    {
+      "story_id": "story_e8ae1de14799",
+      "title": "Agoda Partners with Marina Bay Sands on Besp ... The custom digital storefront brings together Marina Bay Sands’ rooms, suites and resort experiences,  ... October 1, 2026 / Partnership",
+      "url": "https://www.agoda.com/press/agoda-partners-with-marina-bay-sands-on-bespoke-flagship-store-for-experience-led-travel/",
+      "primary_url": "https://www.agoda.com/press/agoda-partners-with-marina-bay-sands-on-bespoke-flagship-store-for-experience-led-travel/",
+      "source": "Agoda",
+      "source_name": "Agoda",
+      "sources": [
+        {
+          "id": "hotelitem_e8ae1de14799",
+          "title": "Agoda Partners with Marina Bay Sands on Besp ... The custom digital storefront brings together Marina Bay Sands’ rooms, suites and resort experiences,  ... October 1, 2026 / Partnership",
+          "url": "https://www.agoda.com/press/agoda-partners-with-marina-bay-sands-on-bespoke-flagship-store-for-experience-led-travel/",
+          "source": "Agoda",
+          "source_name": "Agoda",
+          "site_id": "agoda_press",
+          "published_at": "2026-11-25T19:20:53.282294Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Agoda"
+      ],
+      "items": [
+        {
+          "id": "hotelitem_e8ae1de14799",
+          "title": "Agoda Partners with Marina Bay Sands on Besp ... The custom digital storefront brings together Marina Bay Sands’ rooms, suites and resort experiences,  ... October 1, 2026 / Partnership",
+          "url": "https://www.agoda.com/press/agoda-partners-with-marina-bay-sands-on-bespoke-flagship-store-for-experience-led-travel/",
+          "source": "Agoda",
+          "source_name": "Agoda",
+          "site_id": "agoda_press",
+          "published_at": "2026-11-25T19:20:53.282294Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8125,
+      "importance": 0.6,
+      "importance_score": 0.8125,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.25,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-25T19:20:53.282294Z",
+      "latest_at": "2026-11-25T19:20:53.282294Z",
+      "primary_item": {
+        "id": "hotelitem_e8ae1de14799",
+        "title": "Agoda Partners with Marina Bay Sands on Besp ... The custom digital storefront brings together Marina Bay Sands’ rooms, suites and resort experiences,  ... October 1, 2026 / Partnership",
+        "url": "https://www.agoda.com/press/agoda-partners-with-marina-bay-sands-on-bespoke-flagship-store-for-experience-led-travel/",
         "source": "Agoda",
         "source_name": "Agoda"
       }
