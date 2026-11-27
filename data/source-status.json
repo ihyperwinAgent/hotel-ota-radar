@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-26T16:58:55.997143Z",
-  "successful_sites": 21,
+  "generated_at": "2026-11-27T01:45:40.303564Z",
+  "successful_sites": 23,
   "total_sites": 26,
-  "items_before_topic_filter": 137,
+  "items_before_topic_filter": 149,
   "sites": [
     {
       "site_id": "huazhu_ir",
@@ -10,7 +10,7 @@
       "category": "cr9_finance",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 91,
+      "duration_ms": 108,
       "error": "403 Client Error: Forbidden for url: https://www.globenewswire.com/en/search/keyword/Huazhu"
     },
     {
@@ -19,17 +19,17 @@
       "category": "cr9_finance",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 85306,
+      "duration_ms": 85761,
       "error": "HTTPSConnectionPool(host='ir.yaduo.com', port=443): Max retries exceeded with url: /rss/news-releases.xml (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='ir.yaduo.com', port=443): Read timed out. (read timeout=20)\")) | fallback: 403 Client Error: Forbidden for url: https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1853717&type=6-K&output=atom"
     },
     {
       "site_id": "bth_ir",
       "site_name": "首旅如家 IR",
       "category": "cr9_finance",
-      "ok": false,
+      "ok": true,
       "item_count": 0,
-      "duration_ms": 39591,
-      "error": "HTTPSConnectionPool(host='ir.bthhotels.com', port=443): Max retries exceeded with url: /periodicReport/index (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='ir.bthhotels.com', port=443): Read timed out. (read timeout=8)\"))"
+      "duration_ms": 1912,
+      "error": null
     },
     {
       "site_id": "chinahotel",
@@ -37,7 +37,7 @@
       "category": "supply_chain",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 3228,
+      "duration_ms": 3122,
       "error": null
     },
     {
@@ -46,7 +46,7 @@
       "category": "policy",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 1589,
+      "duration_ms": 1436,
       "error": null
     },
     {
@@ -55,7 +55,7 @@
       "category": "policy",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 1757,
+      "duration_ms": 2750,
       "error": null
     },
     {
@@ -64,7 +64,7 @@
       "category": "supply_chain",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 1740,
+      "duration_ms": 1967,
       "error": null
     },
     {
@@ -73,7 +73,7 @@
       "category": "supply_chain",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 5518,
+      "duration_ms": 3166,
       "error": null
     },
     {
@@ -82,17 +82,17 @@
       "category": "supply_chain",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1526,
+      "duration_ms": 1669,
       "error": null
     },
     {
       "site_id": "hotelmgmt",
       "site_name": "Hotel Management",
       "category": "ai_hotel",
-      "ok": false,
-      "item_count": 0,
-      "duration_ms": 57,
-      "error": "403 Client Error: Forbidden for url: https://www.hotelmanagement.net/rss.xml"
+      "ok": true,
+      "item_count": 10,
+      "duration_ms": 113,
+      "error": null
     },
     {
       "site_id": "skift",
@@ -100,7 +100,7 @@
       "category": "ai_hotel",
       "ok": true,
       "item_count": 0,
-      "duration_ms": 1415,
+      "duration_ms": 1119,
       "error": null
     },
     {
@@ -109,7 +109,7 @@
       "category": "ai_hotel",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 1129,
+      "duration_ms": 1054,
       "error": null
     },
     {
@@ -118,7 +118,7 @@
       "category": "supply_chain",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 63,
+      "duration_ms": 101,
       "error": null
     },
     {
@@ -127,7 +127,7 @@
       "category": "supply_chain",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 634,
+      "duration_ms": 746,
       "error": null
     },
     {
@@ -136,7 +136,7 @@
       "category": "ai_hotel",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 80,
+      "duration_ms": 88,
       "error": null
     },
     {
@@ -145,7 +145,7 @@
       "category": "ota",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 31,
+      "duration_ms": 95,
       "error": "403 Client Error: Forbidden for url: https://www.globenewswire.com/en/search/keyword/Trip.com%20Group"
     },
     {
@@ -154,7 +154,7 @@
       "category": "ota",
       "ok": true,
       "item_count": 0,
-      "duration_ms": 58,
+      "duration_ms": 354,
       "error": null
     },
     {
@@ -163,7 +163,7 @@
       "category": "ota",
       "ok": true,
       "item_count": 1,
-      "duration_ms": 268,
+      "duration_ms": 272,
       "error": null
     },
     {
@@ -172,7 +172,7 @@
       "category": "ota",
       "ok": true,
       "item_count": 2,
-      "duration_ms": 10105,
+      "duration_ms": 194,
       "error": null
     },
     {
@@ -181,7 +181,7 @@
       "category": "ota",
       "ok": true,
       "item_count": 15,
-      "duration_ms": 71,
+      "duration_ms": 309,
       "error": null
     },
     {
@@ -190,7 +190,7 @@
       "category": "ota",
       "ok": true,
       "item_count": 1,
-      "duration_ms": 257,
+      "duration_ms": 285,
       "error": null
     },
     {
@@ -199,7 +199,7 @@
       "category": "ota",
       "ok": true,
       "item_count": 5,
-      "duration_ms": 532,
+      "duration_ms": 130,
       "error": null
     },
     {
@@ -208,7 +208,7 @@
       "category": "ota",
       "ok": true,
       "item_count": 0,
-      "duration_ms": 1197,
+      "duration_ms": 1066,
       "error": null
     },
     {
@@ -217,7 +217,7 @@
       "category": "ota",
       "ok": true,
       "item_count": 0,
-      "duration_ms": 949,
+      "duration_ms": 1757,
       "error": null
     },
     {
@@ -226,7 +226,7 @@
       "category": "ota",
       "ok": true,
       "item_count": 20,
-      "duration_ms": 1507,
+      "duration_ms": 1850,
       "error": null
     },
     {
@@ -235,7 +235,7 @@
       "category": "ota",
       "ok": true,
       "item_count": 0,
-      "duration_ms": 1556,
+      "duration_ms": 1758,
       "error": null
     }
   ]
